@@ -1,5 +1,3 @@
 # sizes
 
-## important
-
-This is "wet paint" and work in progress. Everything might change, still.
+All size-related metadata for #brands has been moved here: https://github.com/whosonfirst/whosonfirst-brands-sizes
