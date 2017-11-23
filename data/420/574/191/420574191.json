@@ -1,11 +1,11 @@
 {
-  "edtf:inception": 1883,
-  "mz:is_current": 1,	
-  "wof:brand_size": "", 
-  "wof:lastmodified": 1499861606, 
+  "wof:brand_name": "Kroger", 
   "wof:brand_id": 420574191, 
-  "wof:brand_name": "Kroger",
+  "edtf:inception": 1883, 
   "wof:concordances": {
     "wk:page": "Kroger"
-  }
+  }, 
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1511399895, 
+  "mz:is_current": 1
 }

@@ -1,14 +1,14 @@
 {
-  "mz:is_current":1,
+  "wof:brand_name": "Radio Shack", 
   "wof:brand_id": 420573773, 
-  "wof:brand_name": "Radio Shack",
-  "wof:brand_size": "", 
   "wof:concordances": {
-      "wk:page": "RadioShack"
-  },
+    "wk:page": "RadioShack"
+  }, 
   "wof:supersedes": [
-      420575425
-  ],
-  "wof:superseded_by": [],     
-  "wof:lastmodified": 1499861606
+    420575425
+  ], 
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1511400521, 
+  "mz:is_current": 1, 
+  "wof:superseded_by": []
 }

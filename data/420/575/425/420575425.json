@@ -1,13 +1,13 @@
 {
-  "edtf:deprecated": "2017-07-25",
-  "edtf:superseded": "2017-07-25",
-  "mz:is_current":0,
+  "edtf:superseded": "2017-07-25", 
+  "wof:brand_name": "RadioShack", 
   "wof:brand_id": 420575425, 
-  "wof:brand_name": "RadioShack",
-  "wof:brand_size": "", 
-  "wof:supersedes": [],
+  "edtf:deprecated": "2017-07-25", 
+  "wof:supersedes": [], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1511400511, 
+  "mz:is_current": 0, 
   "wof:superseded_by": [
-      420573773
-  ],     
-  "wof:lastmodified": 1499861608 
+    420573773
+  ]
 }
