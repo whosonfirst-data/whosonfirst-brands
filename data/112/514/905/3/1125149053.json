@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400712, 
   "wof:brand_name": "Krispy Kreme", 
-  "wof:brand_id": 1125149053
+  "wof:brand_id": 1125149053, 
+  "wof:supersedes": [
+    1125152881
+  ], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1511990429, 
+  "mz:is_current": 1
 }
