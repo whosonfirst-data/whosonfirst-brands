@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399953, 
   "wof:brand_name": "Charles Schwab", 
-  "wof:brand_id": 1125150275
+  "wof:brand_id": 1125150275, 
+  "wof:supersedes": [
+    1125151351
+  ], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1511997677, 
+  "mz:is_current": 1
 }

@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399887, 
   "wof:brand_name": "Circle K", 
-  "wof:brand_id": 420573875
+  "wof:brand_id": 420573875, 
+  "wof:supersedes": [
+    420574219
+  ], 
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1511998022, 
+  "mz:is_current": 1
 }

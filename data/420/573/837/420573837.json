@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511400525, 
   "wof:brand_name": "Jehovah's Witnesses", 
-  "wof:brand_id": 420573837
+  "wof:brand_id": 420573837, 
+  "wof:supersedes": [
+    1125158117, 
+    1125153615, 
+    1125154325, 
+    1125149531, 
+    1125156261
+  ], 
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1511999311, 
+  "mz:is_current": 1
 }

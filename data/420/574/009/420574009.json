@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399891, 
   "wof:brand_name": "Foot Locker", 
-  "wof:brand_id": 420574009
+  "wof:brand_id": 420574009, 
+  "wof:supersedes": [
+    1125160179
+  ], 
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1511998616, 
+  "mz:is_current": 1
 }

@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399890, 
   "wof:brand_name": "Toys R Us", 
-  "wof:brand_id": 420574465
+  "wof:brand_id": 420574465, 
+  "wof:supersedes": [
+    1125161639, 
+    1125149749
+  ], 
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512000886, 
+  "mz:is_current": 1
 }

@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511400522, 
+  "wof:lastmodified": 1511997912, 
+  "wof:brand_id": 420573799, 
   "wof:brand_name": "Church Of Jesus Christ Of Lds", 
-  "wof:brand_id": 420573799
+  "wof:brand_size": "", 
+  "wof:deprecated": "2017-11-29", 
+  "mz:is_current": 0, 
+  "wof:superseded_by": [
+    1125150009
+  ]
 }

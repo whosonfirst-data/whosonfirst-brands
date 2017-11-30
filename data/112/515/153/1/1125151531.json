@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399906, 
+  "wof:lastmodified": 1512001233, 
+  "wof:brand_id": 1125151531, 
   "wof:brand_name": "Wells Fargo Bank Na", 
-  "wof:brand_id": 1125151531
+  "wof:brand_size": "", 
+  "wof:deprecated": "2017-11-30", 
+  "mz:is_current": 0, 
+  "wof:superseded_by": [
+    420573921
+  ]
 }

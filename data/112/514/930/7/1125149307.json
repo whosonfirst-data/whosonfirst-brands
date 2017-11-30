@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400711, 
   "wof:brand_name": "Apria Healthcare", 
-  "wof:brand_id": 1125149307
+  "wof:brand_id": 1125149307, 
+  "wof:supersedes": [
+    1125150601
+  ], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1511996307, 
+  "mz:is_current": 1
 }

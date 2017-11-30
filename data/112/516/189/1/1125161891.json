@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1511401663, 
+  "wof:lastmodified": 1511999601, 
+  "wof:brand_id": 1125161891, 
   "wof:brand_name": "MacY's", 
-  "wof:brand_id": 1125161891
+  "wof:brand_size": "", 
+  "wof:deprecated": "2017-11-29", 
+  "mz:is_current": 0, 
+  "wof:superseded_by": [
+    420575351
+  ]
 }

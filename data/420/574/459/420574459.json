@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399897, 
+  "wof:lastmodified": 1511999905, 
+  "wof:brand_id": 420574459, 
   "wof:brand_name": "Office Max", 
-  "wof:brand_id": 420574459
+  "wof:brand_size": "", 
+  "wof:deprecated": "2017-11-29", 
+  "mz:is_current": 0, 
+  "wof:superseded_by": [
+    1125150311
+  ]
 }

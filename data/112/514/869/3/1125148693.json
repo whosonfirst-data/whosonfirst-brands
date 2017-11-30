@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399972, 
   "wof:brand_name": "Applebee's", 
-  "wof:brand_id": 1125148693
+  "wof:brand_id": 1125148693, 
+  "wof:supersedes": [
+    1125150119, 
+    1125149561, 
+    1125152695
+  ], 
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1511996196, 
+  "mz:is_current": 1
 }

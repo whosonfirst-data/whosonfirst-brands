@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400707, 
   "wof:brand_name": "Jenny Craig", 
-  "wof:brand_id": 1125149867
+  "wof:brand_id": 1125149867, 
+  "wof:supersedes": [
+    1125155375, 
+    1125160869, 
+    420575493
+  ], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1511999345, 
+  "mz:is_current": 1
 }

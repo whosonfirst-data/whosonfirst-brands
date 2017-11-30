@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511400523, 
   "wof:brand_name": "Bank of America", 
-  "wof:brand_id": 420573893
+  "wof:brand_id": 420573893, 
+  "wof:supersedes": [
+    420573793, 
+    1125152699
+  ], 
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1511996506, 
+  "mz:is_current": 1
 }

@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511400524, 
   "wof:brand_name": "7-Eleven", 
-  "wof:brand_id": 420573767
+  "wof:brand_id": 420573767, 
+  "wof:supersedes": [
+    1125154505, 
+    420575907, 
+    1125156515, 
+    1125151061
+  ], 
+  "wof:brand_size": "XXL", 
+  "wof:lastmodified": 1511994158, 
+  "mz:is_current": 1
 }

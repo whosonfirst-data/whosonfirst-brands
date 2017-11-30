@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400717, 
   "wof:brand_name": "IBM", 
-  "wof:brand_id": 1125149039
+  "wof:brand_id": 1125149039, 
+  "wof:supersedes": [
+    1125156977
+  ], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1511999188, 
+  "mz:is_current": 1
 }

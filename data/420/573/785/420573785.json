@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511400528, 
   "wof:brand_name": "Allstate Insurance", 
-  "wof:brand_id": 420573785
+  "wof:brand_id": 420573785, 
+  "wof:supersedes": [
+    420573839, 
+    420573953, 
+    1125158699
+  ], 
+  "wof:brand_size": "XXL", 
+  "wof:lastmodified": 1511995964, 
+  "mz:is_current": 1
 }

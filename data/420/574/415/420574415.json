@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400548, 
   "wof:brand_name": "Albertsons", 
-  "wof:brand_id": 420574415
+  "wof:brand_id": 420574415, 
+  "wof:supersedes": [
+    1125158437, 
+    1125160715
+  ], 
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1511994603, 
+  "mz:is_current": 1
 }

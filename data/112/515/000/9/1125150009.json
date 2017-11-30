@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400640, 
   "wof:brand_name": "Church of Jesus Christ of Latter-Day Saints", 
-  "wof:brand_id": 1125150009
+  "wof:brand_id": 1125150009, 
+  "wof:supersedes": [
+    1125156719, 
+    1125154517, 
+    420573799, 
+    1125154861, 
+    1125162183
+  ], 
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1511997936, 
+  "mz:is_current": 1
 }

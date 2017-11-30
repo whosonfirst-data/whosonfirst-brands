@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399922, 
   "wof:brand_name": "Haagen Dazs", 
-  "wof:brand_id": 1125151181
+  "wof:brand_id": 1125151181, 
+  "wof:supersedes": [
+    1125160203
+  ], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1511998972, 
+  "mz:is_current": 1
 }

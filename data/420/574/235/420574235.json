@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399897, 
   "wof:brand_name": "Natural Resources Conservation", 
-  "wof:brand_id": 420574235
+  "wof:brand_id": 420574235, 
+  "wof:supersedes": [
+    1125153411
+  ], 
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1511999801, 
+  "mz:is_current": 1
 }

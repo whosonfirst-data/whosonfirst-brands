@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400583, 
+  "wof:lastmodified": 1511994684, 
+  "wof:brand_id": 1125156895, 
   "wof:brand_name": "Aldo Shoes Inc", 
-  "wof:brand_id": 1125156895
+  "wof:brand_size": "", 
+  "wof:deprecated": "2017-11-29", 
+  "mz:is_current": 0, 
+  "wof:superseded_by": [
+    1125152563
+  ]
 }

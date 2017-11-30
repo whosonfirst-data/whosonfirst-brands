@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399896, 
   "wof:brand_name": "Sonic Drive-In", 
-  "wof:brand_id": 420574111
+  "wof:brand_id": 420574111, 
+  "wof:supersedes": [
+    1125148681
+  ], 
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512000614, 
+  "mz:is_current": 1
 }

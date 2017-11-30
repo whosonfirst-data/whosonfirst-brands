@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399892, 
   "wof:brand_name": "Popeyes Chicken & Biscuits", 
-  "wof:brand_id": 420574645
+  "wof:brand_id": 420574645, 
+  "wof:supersedes": [
+    1125151019
+  ], 
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512000176, 
+  "mz:is_current": 1
 }

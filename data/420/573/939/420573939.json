@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399887, 
   "wof:brand_name": "Chase", 
-  "wof:brand_id": 420573939
+  "wof:brand_id": 420573939, 
+  "wof:supersedes": [
+    420575675, 
+    1125150971
+  ], 
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1511997717, 
+  "mz:is_current": 1
 }

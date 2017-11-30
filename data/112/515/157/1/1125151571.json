@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399928, 
+  "wof:lastmodified": 1512000469, 
+  "wof:brand_id": 1125151571, 
   "wof:brand_name": "Salvation Army Family Store", 
-  "wof:brand_id": 1125151571
+  "wof:brand_size": "", 
+  "wof:deprecated": "2017-11-30", 
+  "mz:is_current": 0, 
+  "wof:superseded_by": [
+    420573857
+  ]
 }

@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399888, 
   "wof:brand_name": "Blockbuster", 
-  "wof:brand_id": 420573943
+  "wof:brand_id": 420573943, 
+  "wof:supersedes": [
+    420573763, 
+    1125161035
+  ], 
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1511997115, 
+  "mz:is_current": 1
 }

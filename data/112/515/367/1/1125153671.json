@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400635, 
   "wof:brand_name": "Checkers", 
-  "wof:brand_id": 1125153671
+  "wof:brand_id": 1125153671, 
+  "wof:supersedes": [
+    1125151213
+  ], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1511997737, 
+  "mz:is_current": 1
 }

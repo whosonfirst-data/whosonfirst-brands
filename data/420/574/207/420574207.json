@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399894, 
   "wof:brand_name": "Citibank", 
-  "wof:brand_id": 420574207
+  "wof:brand_id": 420574207, 
+  "wof:supersedes": [
+    1125151357, 
+    1125160779
+  ], 
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1511998051, 
+  "mz:is_current": 1
 }

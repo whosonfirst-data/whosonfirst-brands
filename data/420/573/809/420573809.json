@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511400526, 
   "wof:brand_name": "Payless Shoe Source", 
-  "wof:brand_id": 420573809
+  "wof:brand_id": 420573809, 
+  "wof:supersedes": [
+    420574205, 
+    1125149567
+  ], 
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512000061, 
+  "mz:is_current": 1
 }

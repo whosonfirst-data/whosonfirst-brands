@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400714, 
   "wof:brand_name": "Best Western", 
-  "wof:brand_id": 1125149433
+  "wof:brand_id": 1125149433, 
+  "wof:supersedes": [
+    420574153
+  ], 
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1511996915, 
+  "mz:is_current": 1
 }

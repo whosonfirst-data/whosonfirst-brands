@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400514, 
   "wof:brand_name": "Xerox", 
-  "wof:brand_id": 420575813
+  "wof:brand_id": 420575813, 
+  "wof:supersedes": [
+    1125152249
+  ], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512001375, 
+  "mz:is_current": 1
 }

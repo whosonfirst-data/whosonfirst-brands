@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399977, 
+  "wof:lastmodified": 1512001056, 
+  "wof:brand_id": 1125148765, 
   "wof:brand_name": "Walgreen Drug Stores", 
-  "wof:brand_id": 1125148765
+  "wof:brand_size": "", 
+  "wof:deprecated": "2017-11-30", 
+  "mz:is_current": 0, 
+  "wof:superseded_by": [
+    420573797
+  ]
 }

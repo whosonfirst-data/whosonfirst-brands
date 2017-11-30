@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400711, 
   "wof:brand_name": "Chuck E. Cheese's", 
-  "wof:brand_id": 1125148901
+  "wof:brand_id": 1125148901, 
+  "wof:supersedes": [
+    1125151355
+  ], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1511997852, 
+  "mz:is_current": 1
 }

@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400553, 
   "wof:brand_name": "Allied Home Mortgage Capital", 
-  "wof:brand_id": 420574965
+  "wof:brand_id": 420574965, 
+  "wof:supersedes": [
+    420575843, 
+    1125156341
+  ], 
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1511994829, 
+  "mz:is_current": 1
 }

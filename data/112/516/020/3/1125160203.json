@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400683, 
+  "wof:lastmodified": 1511998970, 
+  "wof:brand_id": 1125160203, 
   "wof:brand_name": "Haagen-Dazs Ice Cream", 
-  "wof:brand_id": 1125160203
+  "wof:brand_size": "", 
+  "wof:deprecated": "2017-11-29", 
+  "mz:is_current": 0, 
+  "wof:superseded_by": [
+    1125151181
+  ]
 }

@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400569, 
   "wof:brand_name": "Orkin", 
-  "wof:brand_id": 1125156281
+  "wof:brand_id": 1125156281, 
+  "wof:supersedes": [
+    1125150285, 
+    1125159971, 
+    1125150951, 
+    1125161223
+  ], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1511999970, 
+  "mz:is_current": 1
 }

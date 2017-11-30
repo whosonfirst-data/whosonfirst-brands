@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "XXL", 
-  "wof:lastmodified": 1511400522, 
   "wof:brand_name": "Pizza Hut", 
-  "wof:brand_id": 420573787
+  "wof:brand_id": 420573787, 
+  "wof:supersedes": [
+    1125150925, 
+    1125161945
+  ], 
+  "wof:brand_size": "XXL", 
+  "wof:lastmodified": 1512000106, 
+  "mz:is_current": 1
 }

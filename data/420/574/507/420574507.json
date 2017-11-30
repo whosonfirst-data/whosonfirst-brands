@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400554, 
   "wof:brand_name": "Body Shop", 
-  "wof:brand_id": 420574507
+  "wof:brand_id": 420574507, 
+  "wof:supersedes": [
+    1125159483
+  ], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1511997134, 
+  "mz:is_current": 1
 }

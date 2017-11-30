@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399912, 
+  "wof:lastmodified": 1511998735, 
+  "wof:brand_id": 1125150087, 
   "wof:brand_name": "General Nutrition Center", 
-  "wof:brand_id": 1125150087
+  "wof:brand_size": "", 
+  "wof:deprecated": "2017-11-29", 
+  "mz:is_current": 0, 
+  "wof:superseded_by": [
+    1125158533
+  ]
 }

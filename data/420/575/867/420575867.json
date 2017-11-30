@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400514, 
   "wof:brand_name": "Waste Management", 
-  "wof:brand_id": 420575867
+  "wof:brand_id": 420575867, 
+  "wof:supersedes": [
+    1125149353
+  ], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512001178, 
+  "mz:is_current": 1
 }

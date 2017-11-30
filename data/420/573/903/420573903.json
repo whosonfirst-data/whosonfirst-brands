@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "XXL", 
-  "wof:lastmodified": 1511400527, 
   "wof:brand_name": "Wendy's", 
-  "wof:brand_id": 420573903
+  "wof:brand_id": 420573903, 
+  "wof:supersedes": [
+    1125149227, 
+    420574055
+  ], 
+  "wof:brand_size": "XXL", 
+  "wof:lastmodified": 1512001359, 
+  "mz:is_current": 1
 }

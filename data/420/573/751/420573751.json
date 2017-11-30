@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "XXL", 
-  "wof:lastmodified": 1511400522, 
   "wof:brand_name": "State Farm Insurance", 
-  "wof:brand_id": 420573751
+  "wof:brand_id": 420573751, 
+  "wof:supersedes": [
+    1125150469, 
+    1125149243
+  ], 
+  "wof:brand_size": "XXL", 
+  "wof:lastmodified": 1512000681, 
+  "mz:is_current": 1
 }

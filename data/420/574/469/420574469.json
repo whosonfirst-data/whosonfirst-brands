@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400557, 
+  "wof:lastmodified": 1511998854, 
+  "wof:brand_id": 420574469, 
   "wof:brand_name": "H & R Block Canada Inc", 
-  "wof:brand_id": 420574469
+  "wof:brand_size": "", 
+  "wof:deprecated": "2017-11-29", 
+  "mz:is_current": 0, 
+  "wof:superseded_by": [
+    420573935
+  ]
 }

@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399896, 
   "wof:brand_name": "Avis Rent A Car", 
-  "wof:brand_id": 420574215
+  "wof:brand_id": 420574215, 
+  "wof:supersedes": [
+    1125149045
+  ], 
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1511996411, 
+  "mz:is_current": 1
 }

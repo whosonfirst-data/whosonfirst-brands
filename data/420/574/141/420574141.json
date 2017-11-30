@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399895, 
   "wof:brand_name": "Edward Jones", 
-  "wof:brand_id": 420574141
+  "wof:brand_id": 420574141, 
+  "wof:supersedes": [
+    420573779, 
+    420574467
+  ], 
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512001817, 
+  "mz:is_current": 1
 }

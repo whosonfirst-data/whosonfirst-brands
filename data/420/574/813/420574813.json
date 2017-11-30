@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400549, 
+  "wof:lastmodified": 1512001697, 
+  "wof:brand_id": 420574813, 
   "wof:brand_name": "Kiwanis International Inc", 
-  "wof:brand_id": 420574813
+  "wof:brand_size": "", 
+  "wof:deprecated": "2017-11-30", 
+  "mz:is_current": 0, 
+  "wof:superseded_by": [
+    1125151793
+  ]
 }

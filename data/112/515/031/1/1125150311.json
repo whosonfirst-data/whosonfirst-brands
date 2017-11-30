@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399925, 
   "wof:brand_name": "OfficeMax", 
-  "wof:brand_id": 1125150311
+  "wof:brand_id": 1125150311, 
+  "wof:supersedes": [
+    1125150423, 
+    420574459
+  ], 
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1511999921, 
+  "mz:is_current": 1
 }

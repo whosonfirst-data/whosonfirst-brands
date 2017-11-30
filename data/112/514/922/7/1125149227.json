@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400724, 
+  "wof:lastmodified": 1512001333, 
+  "wof:brand_id": 1125149227, 
   "wof:brand_name": "Wendy's Old Fashioned Hamburgers", 
-  "wof:brand_id": 1125149227
+  "wof:brand_size": "", 
+  "wof:deprecated": "2017-11-30", 
+  "mz:is_current": 0, 
+  "wof:superseded_by": [
+    420573903
+  ]
 }

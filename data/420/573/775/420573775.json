@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511400524, 
   "wof:brand_name": "Enterprise Rent-A-Car", 
-  "wof:brand_id": 420573775
+  "wof:brand_id": 420573775, 
+  "wof:supersedes": [
+    1125149105, 
+    1125154303, 
+    420574157
+  ], 
+  "wof:brand_size": "XXL", 
+  "wof:lastmodified": 1511998472, 
+  "mz:is_current": 1
 }

@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511400523, 
   "wof:brand_name": "CVS Pharmacy", 
-  "wof:brand_id": 420573805
+  "wof:brand_id": 420573805, 
+  "wof:supersedes": [
+    420575917, 
+    420573985, 
+    420575321, 
+    420575083, 
+    420575741, 
+    1125156725
+  ], 
+  "wof:brand_size": "XXL", 
+  "wof:lastmodified": 1511998220, 
+  "mz:is_current": 1
 }

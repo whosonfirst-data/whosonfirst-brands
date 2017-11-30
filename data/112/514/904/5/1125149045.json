@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400704, 
+  "wof:lastmodified": 1511996409, 
+  "wof:brand_id": 1125149045, 
   "wof:brand_name": "Avis", 
-  "wof:brand_id": 1125149045
+  "wof:brand_size": "", 
+  "wof:deprecated": "2017-11-29", 
+  "mz:is_current": 0, 
+  "wof:superseded_by": [
+    420574215
+  ]
 }

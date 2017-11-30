@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511400526, 
   "wof:brand_name": "Walgreens", 
-  "wof:brand_id": 420573797
+  "wof:brand_id": 420573797, 
+  "wof:supersedes": [
+    1125150847, 
+    420573909, 
+    1125148765
+  ], 
+  "wof:brand_size": "XXL", 
+  "wof:lastmodified": 1512001092, 
+  "mz:is_current": 1
 }

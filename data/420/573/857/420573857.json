@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511400525, 
   "wof:brand_name": "Salvation Army", 
-  "wof:brand_id": 420573857
+  "wof:brand_id": 420573857, 
+  "wof:supersedes": [
+    1125151571, 
+    1125161267, 
+    1125151743, 
+    420574531
+  ], 
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512000486, 
+  "mz:is_current": 1
 }

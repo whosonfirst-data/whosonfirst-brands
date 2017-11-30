@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399897, 
   "wof:brand_name": "Hampton Inn", 
-  "wof:brand_id": 420574255
+  "wof:brand_id": 420574255, 
+  "wof:supersedes": [
+    1125162653, 
+    1125151431
+  ], 
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1511999025, 
+  "mz:is_current": 1
 }

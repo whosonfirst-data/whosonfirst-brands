@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399921, 
+  "wof:lastmodified": 1511999021, 
+  "wof:brand_id": 1125151431, 
   "wof:brand_name": "Hampton Inn and Suites", 
-  "wof:brand_id": 1125151431
+  "wof:brand_size": "", 
+  "wof:deprecated": "2017-11-29", 
+  "mz:is_current": 0, 
+  "wof:superseded_by": [
+    420574255
+  ]
 }

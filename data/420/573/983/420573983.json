@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511400522, 
   "wof:brand_name": "Starbucks", 
-  "wof:brand_id": 420573983
+  "wof:brand_id": 420573983, 
+  "wof:supersedes": [
+    420574001
+  ], 
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512000658, 
+  "mz:is_current": 1
 }

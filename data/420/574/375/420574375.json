@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399890, 
   "wof:brand_name": "Victoria's Secret", 
-  "wof:brand_id": 420574375
+  "wof:brand_id": 420574375, 
+  "wof:supersedes": [
+    1125153131
+  ], 
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512001007, 
+  "mz:is_current": 1
 }

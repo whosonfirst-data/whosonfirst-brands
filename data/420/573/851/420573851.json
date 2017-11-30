@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "XXL", 
-  "wof:lastmodified": 1511400529, 
   "wof:brand_name": "Domino's Pizza", 
-  "wof:brand_id": 420573851
+  "wof:brand_id": 420573851, 
+  "wof:supersedes": [
+    420575113
+  ], 
+  "wof:brand_size": "XXL", 
+  "wof:lastmodified": 1511998317, 
+  "mz:is_current": 1
 }

@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400711, 
   "wof:brand_name": "Eddie Bauer", 
-  "wof:brand_id": 1125149169
+  "wof:brand_id": 1125149169, 
+  "wof:supersedes": [
+    1125156737
+  ], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1511998401, 
+  "mz:is_current": 1
 }

@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399889, 
   "wof:brand_name": "Hertz", 
-  "wof:brand_id": 420574713
+  "wof:brand_id": 420574713, 
+  "wof:supersedes": [
+    420574087, 
+    1125149905, 
+    1125151471, 
+    1125149367, 
+    1125160221
+  ], 
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1511999135, 
+  "mz:is_current": 1
 }

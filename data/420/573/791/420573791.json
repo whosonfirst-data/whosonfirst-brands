@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "XXXL", 
-  "wof:lastmodified": 1511399888, 
   "wof:brand_name": "Subway", 
-  "wof:brand_id": 420573791
+  "wof:brand_id": 420573791, 
+  "wof:supersedes": [
+    1125152673, 
+    420574605, 
+    420573765
+  ], 
+  "wof:brand_size": "XXXL", 
+  "wof:lastmodified": 1512000784, 
+  "mz:is_current": 1
 }

@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400722, 
+  "wof:lastmodified": 1511998780, 
+  "wof:brand_id": 1125149359, 
   "wof:brand_name": "Goodyear Auto Svc Ctr", 
-  "wof:brand_id": 1125149359
+  "wof:brand_size": "", 
+  "wof:deprecated": "2017-11-29", 
+  "mz:is_current": 0, 
+  "wof:superseded_by": [
+    420574569
+  ]
 }

@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400729, 
   "wof:brand_name": "Steak 'n Shake", 
-  "wof:brand_id": 1125148867
+  "wof:brand_id": 1125148867, 
+  "wof:supersedes": [
+    1125157975
+  ], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512000705, 
+  "mz:is_current": 1
 }

@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400579, 
+  "wof:lastmodified": 1511998934, 
+  "wof:brand_id": 1125157177, 
   "wof:brand_name": "H&R BLOCK", 
-  "wof:brand_id": 1125157177
+  "wof:brand_size": "", 
+  "wof:deprecated": "2017-11-29", 
+  "mz:is_current": 0, 
+  "wof:superseded_by": [
+    420573935
+  ]
 }

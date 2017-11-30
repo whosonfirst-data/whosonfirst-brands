@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400593, 
   "wof:brand_name": "Guess", 
-  "wof:brand_id": 1125156405
+  "wof:brand_id": 1125156405, 
+  "wof:supersedes": [
+    1125155251
+  ], 
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1511998824, 
+  "mz:is_current": 1
 }

@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399944, 
   "wof:brand_name": "Brookstone", 
-  "wof:brand_id": 1125152641
+  "wof:brand_id": 1125152641, 
+  "wof:supersedes": [
+    1125151169
+  ], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1511997420, 
+  "mz:is_current": 1
 }

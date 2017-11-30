@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400569, 
   "wof:brand_name": "Lucent Technologies", 
-  "wof:brand_id": 1125154335
+  "wof:brand_id": 1125154335, 
+  "wof:supersedes": [
+    1125151275
+  ], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1511999576, 
+  "mz:is_current": 1
 }

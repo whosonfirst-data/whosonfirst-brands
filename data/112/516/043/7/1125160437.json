@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400703, 
   "wof:brand_name": "Bealls", 
-  "wof:brand_id": 1125160437
+  "wof:brand_id": 1125160437, 
+  "wof:supersedes": [
+    1125152571, 
+    1125151495, 
+    1125152445, 
+    1125156359
+  ], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1511996820, 
+  "mz:is_current": 1
 }

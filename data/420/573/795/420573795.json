@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511400524, 
+  "wof:lastmodified": 1511998516, 
+  "wof:brand_id": 420573795, 
   "wof:brand_name": "Farmers Insurance Group", 
-  "wof:brand_id": 420573795
+  "wof:brand_size": "", 
+  "wof:deprecated": "2017-11-29", 
+  "mz:is_current": 0, 
+  "wof:superseded_by": [
+    420573965
+  ]
 }

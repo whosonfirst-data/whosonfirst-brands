@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399917, 
   "wof:brand_name": "Quiznos", 
-  "wof:brand_id": 1125151157
+  "wof:brand_id": 1125151157, 
+  "wof:supersedes": [
+    1125153799, 
+    1125154799, 
+    1125152903, 
+    420574399, 
+    1125149239
+  ], 
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512000294, 
+  "mz:is_current": 1
 }

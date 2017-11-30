@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400504, 
   "wof:brand_name": "Nextel", 
-  "wof:brand_id": 420575151
+  "wof:brand_id": 420575151, 
+  "wof:supersedes": [
+    1125158371, 
+    1125149915
+  ], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1511999849, 
+  "mz:is_current": 1
 }

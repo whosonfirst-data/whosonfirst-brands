@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400705, 
   "wof:brand_name": "Blimpie", 
-  "wof:brand_id": 1125149107
+  "wof:brand_id": 1125149107, 
+  "wof:supersedes": [
+    420574549, 
+    1125155339, 
+    1125148733
+  ], 
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1511997033, 
+  "mz:is_current": 1
 }

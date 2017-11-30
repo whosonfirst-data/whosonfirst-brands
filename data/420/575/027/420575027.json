@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400518, 
+  "wof:lastmodified": 1511997351, 
+  "wof:brand_id": 420575027, 
   "wof:brand_name": "Boy Scouts Of America", 
-  "wof:brand_id": 420575027
+  "wof:brand_size": "", 
+  "wof:deprecated": "2017-11-29", 
+  "mz:is_current": 0, 
+  "wof:superseded_by": [
+    1125161725
+  ]
 }

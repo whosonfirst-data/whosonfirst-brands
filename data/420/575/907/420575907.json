@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400519, 
+  "wof:lastmodified": 1511994144, 
+  "wof:brand_id": 420575907, 
   "wof:brand_name": "7-Eleven Food Stores", 
-  "wof:brand_id": 420575907
+  "wof:brand_size": "", 
+  "wof:deprecated": "2017-11-29", 
+  "mz:is_current": 0, 
+  "wof:superseded_by": [
+    420573767
+  ]
 }

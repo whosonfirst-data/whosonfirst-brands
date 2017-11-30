@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399917, 
+  "wof:lastmodified": 1511996481, 
+  "wof:brand_id": 1125152699, 
   "wof:brand_name": "Bank of America NA", 
-  "wof:brand_id": 1125152699
+  "wof:brand_size": "", 
+  "wof:deprecated": "2017-11-29", 
+  "mz:is_current": 0, 
+  "wof:superseded_by": [
+    420573893
+  ]
 }

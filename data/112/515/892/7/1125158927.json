@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400598, 
   "wof:brand_name": "Baymont Inn & Suites", 
-  "wof:brand_id": 1125158927
+  "wof:brand_id": 1125158927, 
+  "wof:supersedes": [
+    1125155569
+  ], 
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1511996750, 
+  "mz:is_current": 1
 }

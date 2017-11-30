@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399972, 
   "wof:brand_name": "Dairy Mart", 
-  "wof:brand_id": 1125149901
+  "wof:brand_id": 1125149901, 
+  "wof:supersedes": [
+    1125150545
+  ], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1511998237, 
+  "mz:is_current": 1
 }

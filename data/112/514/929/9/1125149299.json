@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400715, 
+  "wof:lastmodified": 1511998566, 
+  "wof:brand_id": 1125149299, 
   "wof:brand_name": "Firestone Tire & Service Centers", 
-  "wof:brand_id": 1125149299
+  "wof:brand_size": "", 
+  "wof:deprecated": "2017-11-29", 
+  "mz:is_current": 0, 
+  "wof:superseded_by": [
+    420574717
+  ]
 }

@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399894, 
   "wof:brand_name": "UPS", 
-  "wof:brand_id": 420574421
+  "wof:brand_id": 420574421, 
+  "wof:supersedes": [
+    1125156679, 
+    420573877, 
+    1125162849, 
+    1125149925, 
+    1125152747, 
+    420574773
+  ], 
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512001584, 
+  "mz:is_current": 1
 }

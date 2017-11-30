@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399912, 
   "wof:brand_name": "Carvel", 
-  "wof:brand_id": 1125152187
+  "wof:brand_id": 1125152187, 
+  "wof:supersedes": [
+    1125152933, 
+    1125152517, 
+    1125158717
+  ], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1511997640, 
+  "mz:is_current": 1
 }

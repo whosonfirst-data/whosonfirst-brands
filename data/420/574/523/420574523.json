@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399895, 
   "wof:brand_name": "Baskin-Robbins", 
-  "wof:brand_id": 420574523
+  "wof:brand_id": 420574523, 
+  "wof:supersedes": [
+    1125149613
+  ], 
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1511996669, 
+  "mz:is_current": 1
 }

@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400501, 
+  "wof:lastmodified": 1511999337, 
+  "wof:brand_id": 420575493, 
   "wof:brand_name": "Jenny Craig Weight Loss Ctr", 
-  "wof:brand_id": 420575493
+  "wof:brand_size": "", 
+  "wof:deprecated": "2017-11-29", 
+  "mz:is_current": 0, 
+  "wof:superseded_by": [
+    1125149867
+  ]
 }

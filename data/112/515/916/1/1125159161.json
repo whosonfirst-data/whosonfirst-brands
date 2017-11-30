@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400608, 
   "wof:brand_name": "Bank of New York", 
-  "wof:brand_id": 1125159161
+  "wof:brand_id": 1125159161, 
+  "wof:supersedes": [
+    1125150271
+  ], 
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1511996516, 
+  "mz:is_current": 1
 }

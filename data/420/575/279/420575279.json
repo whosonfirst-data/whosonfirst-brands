@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400512, 
+  "wof:lastmodified": 1511998269, 
+  "wof:brand_id": 420575279, 
   "wof:brand_name": "Dennys", 
-  "wof:brand_id": 420575279
+  "wof:brand_size": "", 
+  "wof:deprecated": "2017-11-29", 
+  "mz:is_current": 0, 
+  "wof:superseded_by": [
+    420574613
+  ]
 }

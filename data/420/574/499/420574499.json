@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399894, 
+  "wof:lastmodified": 1512000311, 
+  "wof:brand_id": 420574499, 
   "wof:brand_name": "Radioshack", 
-  "wof:brand_id": 420574499
+  "wof:brand_size": "", 
+  "wof:deprecated": "2017-11-30", 
+  "mz:is_current": 0, 
+  "wof:superseded_by": [
+    420575425
+  ]
 }

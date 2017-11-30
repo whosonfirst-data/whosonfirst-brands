@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399916, 
+  "wof:lastmodified": 1511996845, 
+  "wof:brand_id": 1125151823, 
   "wof:brand_name": "Bed Bath & Beyond Inc", 
-  "wof:brand_id": 1125151823
+  "wof:brand_size": "", 
+  "wof:deprecated": "2017-11-29", 
+  "mz:is_current": 0, 
+  "wof:superseded_by": [
+    420575003
+  ]
 }

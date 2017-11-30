@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399979, 
   "wof:brand_name": "Carl's Jr.", 
-  "wof:brand_id": 1125148741
+  "wof:brand_id": 1125148741, 
+  "wof:supersedes": [
+    420575851, 
+    1125155103
+  ], 
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1511997572, 
+  "mz:is_current": 1
 }

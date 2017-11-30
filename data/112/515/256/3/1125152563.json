@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399911, 
   "wof:brand_name": "Aldo Shoes", 
-  "wof:brand_id": 1125152563
+  "wof:brand_id": 1125152563, 
+  "wof:supersedes": [
+    1125160071, 
+    1125156895
+  ], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1511994687, 
+  "mz:is_current": 1
 }

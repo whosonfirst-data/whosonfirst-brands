@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399890, 
   "wof:brand_name": "Goodyear", 
-  "wof:brand_id": 420574569
+  "wof:brand_id": 420574569, 
+  "wof:supersedes": [
+    1125153449, 
+    1125157175, 
+    1125149359, 
+    1125160843
+  ], 
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1511998790, 
+  "mz:is_current": 1
 }

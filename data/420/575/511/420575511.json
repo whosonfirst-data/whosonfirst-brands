@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400509, 
+  "wof:lastmodified": 1511999701, 
+  "wof:brand_id": 420575511, 
   "wof:brand_name": "McDonald's Restaurants", 
-  "wof:brand_id": 420575511
+  "wof:brand_size": "", 
+  "wof:deprecated": "2017-11-29", 
+  "mz:is_current": 0, 
+  "wof:superseded_by": [
+    420573961
+  ]
 }

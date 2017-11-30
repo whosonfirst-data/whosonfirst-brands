@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399976, 
   "wof:brand_name": "Chick-fil-A", 
-  "wof:brand_id": 1125148735
+  "wof:brand_id": 1125148735, 
+  "wof:supersedes": [
+    420575221
+  ], 
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1511997806, 
+  "mz:is_current": 1
 }

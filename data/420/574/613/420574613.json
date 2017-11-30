@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399891, 
   "wof:brand_name": "Denny's", 
-  "wof:brand_id": 420574613
+  "wof:brand_id": 420574613, 
+  "wof:supersedes": [
+    1125151725, 
+    420575279
+  ], 
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1511998278, 
+  "mz:is_current": 1
 }

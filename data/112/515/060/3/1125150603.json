@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399930, 
   "wof:brand_name": "Bank of the West", 
-  "wof:brand_id": 1125150603
+  "wof:brand_id": 1125150603, 
+  "wof:supersedes": [
+    420575383
+  ], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1511996561, 
+  "mz:is_current": 1
 }

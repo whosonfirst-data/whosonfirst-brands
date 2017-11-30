@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "XXL", 
-  "wof:lastmodified": 1511400527, 
   "wof:brand_name": "Burger King", 
-  "wof:brand_id": 420573801
+  "wof:brand_id": 420573801, 
+  "wof:supersedes": [
+    1125160105
+  ], 
+  "wof:brand_size": "XXL", 
+  "wof:lastmodified": 1511997497, 
+  "mz:is_current": 1
 }

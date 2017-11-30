@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "XXXL", 
-  "wof:lastmodified": 1511399887, 
   "wof:brand_name": "McDonald's", 
-  "wof:brand_id": 420573961
+  "wof:brand_id": 420573961, 
+  "wof:supersedes": [
+    420573761, 
+    1125149137, 
+    1125157907, 
+    1125149997, 
+    1125148885, 
+    1125159041, 
+    1125150779, 
+    1125161191, 
+    1125153049, 
+    420575511, 
+    420575513, 
+    420573827, 
+    420575261
+  ], 
+  "wof:brand_size": "XXXL", 
+  "wof:lastmodified": 1511999777, 
+  "mz:is_current": 1
 }

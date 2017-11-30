@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399888, 
   "wof:brand_name": "Wells Fargo", 
-  "wof:brand_id": 420573921
+  "wof:brand_id": 420573921, 
+  "wof:supersedes": [
+    420573867, 
+    1125162079, 
+    1125151531, 
+    1125158421, 
+    1125149217, 
+    420574963, 
+    420574327, 
+    1125149241
+  ], 
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512001293, 
+  "mz:is_current": 1
 }

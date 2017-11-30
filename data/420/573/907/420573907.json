@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399889, 
   "wof:brand_name": "KFC", 
-  "wof:brand_id": 420573907
+  "wof:brand_id": 420573907, 
+  "wof:supersedes": [
+    1125148677, 
+    420574033, 
+    1125148987, 
+    1125157193, 
+    1125158119
+  ], 
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1511999468, 
+  "mz:is_current": 1
 }

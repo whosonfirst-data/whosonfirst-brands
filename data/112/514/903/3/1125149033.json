@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400717, 
   "wof:brand_name": "Always Available 24 Hour Emergency Locksmith", 
-  "wof:brand_id": 1125149033
+  "wof:brand_id": 1125149033, 
+  "wof:supersedes": [
+    1125152123
+  ], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1511996101, 
+  "mz:is_current": 1
 }

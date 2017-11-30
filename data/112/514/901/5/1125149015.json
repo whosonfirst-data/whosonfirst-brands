@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400710, 
   "wof:brand_name": "Schlotzsky's", 
-  "wof:brand_id": 1125149015
+  "wof:brand_id": 1125149015, 
+  "wof:supersedes": [
+    1125151391, 
+    1125157249
+  ], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512000522, 
+  "mz:is_current": 1
 }

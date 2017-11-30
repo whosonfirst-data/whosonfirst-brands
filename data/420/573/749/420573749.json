@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "XXXL", 
-  "wof:lastmodified": 1511399887, 
   "wof:brand_name": "US Post Office", 
-  "wof:brand_id": 420573749
+  "wof:brand_id": 420573749, 
+  "wof:supersedes": [
+    1125150373
+  ], 
+  "wof:brand_size": "XXXL", 
+  "wof:lastmodified": 1512000975, 
+  "mz:is_current": 1
 }

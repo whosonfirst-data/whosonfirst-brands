@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511400705, 
   "wof:brand_name": "Jack in the Box", 
-  "wof:brand_id": 1125148691
+  "wof:brand_id": 1125148691, 
+  "wof:supersedes": [
+    1125154321, 
+    420575039
+  ], 
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1511999247, 
+  "mz:is_current": 1
 }

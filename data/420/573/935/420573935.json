@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399888, 
   "wof:brand_name": "H & R Block", 
-  "wof:brand_id": 420573935
+  "wof:brand_id": 420573935, 
+  "wof:supersedes": [
+    420574469, 
+    1125151267, 
+    1125160537, 
+    420573759, 
+    420573845, 
+    1125157177
+  ], 
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1511998957, 
+  "mz:is_current": 1
 }

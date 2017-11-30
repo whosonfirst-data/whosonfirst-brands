@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399879, 
   "wof:brand_name": "Long John Silver's", 
-  "wof:brand_id": 420575285
+  "wof:brand_id": 420575285, 
+  "wof:supersedes": [
+    1125153161
+  ], 
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512001654, 
+  "mz:is_current": 1
 }

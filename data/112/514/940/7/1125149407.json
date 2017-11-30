@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400731, 
   "wof:brand_name": "Borders", 
-  "wof:brand_id": 1125149407
+  "wof:brand_id": 1125149407, 
+  "wof:supersedes": [
+    1125151825, 
+    1125154285
+  ], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1511997258, 
+  "mz:is_current": 1
 }

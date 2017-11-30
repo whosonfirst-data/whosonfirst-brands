@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400723, 
   "wof:brand_name": "Veterans of Foreign Wars", 
-  "wof:brand_id": 1125149581
+  "wof:brand_id": 1125149581, 
+  "wof:supersedes": [
+    420573927, 
+    1125154383, 
+    1125156873, 
+    1125160035
+  ], 
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512001464, 
+  "mz:is_current": 1
 }

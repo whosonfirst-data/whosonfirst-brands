@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399935, 
+  "wof:lastmodified": 1512001005, 
+  "wof:brand_id": 1125153131, 
   "wof:brand_name": "Victorias Secret", 
-  "wof:brand_id": 1125153131
+  "wof:brand_size": "", 
+  "wof:deprecated": "2017-11-30", 
+  "mz:is_current": 0, 
+  "wof:superseded_by": [
+    420574375
+  ]
 }

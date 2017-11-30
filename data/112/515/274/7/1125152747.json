@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399899, 
+  "wof:lastmodified": 1512001546, 
+  "wof:brand_id": 1125152747, 
   "wof:brand_name": "UPS Stores", 
-  "wof:brand_id": 1125152747
+  "wof:brand_size": "", 
+  "wof:deprecated": "2017-11-30", 
+  "mz:is_current": 0, 
+  "wof:superseded_by": [
+    420574421
+  ]
 }

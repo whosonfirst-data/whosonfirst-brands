@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400546, 
   "wof:brand_name": "Boots the Chemist", 
-  "wof:brand_id": 420574475
+  "wof:brand_id": 420574475, 
+  "wof:supersedes": [
+    420574511, 
+    1125155345
+  ], 
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1511997311, 
+  "mz:is_current": 1
 }
