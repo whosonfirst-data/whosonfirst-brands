@@ -1,16 +1,16 @@
 {
   "wof:brand_name": "Radio Shack", 
   "wof:brand_id": 420573773, 
-  "wof:deprecated": "2017-11-30", 
-  "mz:is_current": 0, 
-  "wof:supersedes": [
-    420575425
-  ], 
-  "wof:brand_size": "", 
-  "wof:lastmodified": 1512000311, 
+  "wof:lastmodified": 1512142333, 
   "wof:concordances": {
     "wk:page": "RadioShack"
   }, 
+  "wof:supersedes": [
+    420575425
+  ], 
+  "wof:brand_size": "XXL", 
+  "wof:deprecated": "2017-11-30", 
+  "mz:is_current": 0, 
   "wof:superseded_by": [
     420575425
   ]
