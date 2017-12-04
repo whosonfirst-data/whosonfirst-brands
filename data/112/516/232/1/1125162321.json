@@ -1,6 +1,12 @@
 {
   "wof:brand_size": "S", 
-  "wof:lastmodified": 1511401659, 
+  "wof:lastmodified": 1512414537, 
+  "wof:tags": [
+    "american", 
+    "pizza", 
+    "sandwich", 
+    "wrap"
+  ], 
   "wof:brand_name": "Mancinos Pizzas and Grinders", 
   "wof:brand_id": 1125162321
 }

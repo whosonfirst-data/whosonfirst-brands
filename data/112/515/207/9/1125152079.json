@@ -1,6 +1,28 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399931, 
+  "wof:lastmodified": 1512414508, 
+  "wof:tags": [
+    "bagel", 
+    "eating", 
+    "american", 
+    "sandwich", 
+    "wrap", 
+    "bakery", 
+    "mfg", 
+    "product", 
+    "shop", 
+    "baked", 
+    "breakfast", 
+    "brunch", 
+    "deli", 
+    "espresso", 
+    "grocery", 
+    "pastry", 
+    "patent", 
+    "restaurant", 
+    "retail", 
+    "retailer"
+  ], 
   "wof:brand_name": "Big Apple Bagels", 
   "wof:brand_id": 1125152079
 }

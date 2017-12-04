@@ -1,6 +1,14 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400712, 
+  "wof:lastmodified": 1512414558, 
+  "wof:tags": [
+    "mail", 
+    "shipping", 
+    "government-united", 
+    "state", 
+    "assigned", 
+    "heading"
+  ], 
   "wof:brand_name": "USPS - United States Post Office", 
   "wof:brand_id": 1125149577
 }

@@ -1,6 +1,22 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400585, 
+  "wof:lastmodified": 1512414480, 
+  "wof:tags": [
+    "wine", 
+    "alcoholic", 
+    "beer", 
+    "spirit", 
+    "store", 
+    "ale", 
+    "american", 
+    "equipment", 
+    "supply", 
+    "deli", 
+    "drinking", 
+    "new", 
+    "package", 
+    "winery"
+  ], 
   "wof:brand_name": "Wine Cellar", 
   "wof:brand_id": 1125158423
 }

@@ -1,6 +1,32 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400612, 
+  "wof:lastmodified": 1512414496, 
+  "wof:tags": [
+    "equipment", 
+    "industrial", 
+    "electric", 
+    "supply", 
+    "safety", 
+    "clothing", 
+    "manufacturer", 
+    "clearance", 
+    "clothing-wholesale", 
+    "consultant", 
+    "contractor", 
+    "devices", 
+    "electrical", 
+    "electronic", 
+    "extinguisher", 
+    "factory", 
+    "fixture", 
+    "lighting", 
+    "machinery-new", 
+    "outlet", 
+    "related", 
+    "semiconductor", 
+    "supplies-wholesale", 
+    "used"
+  ], 
   "wof:brand_name": "Hagemeyer", 
   "wof:brand_id": 1125156577
 }

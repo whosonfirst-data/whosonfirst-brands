@@ -1,6 +1,13 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400601, 
+  "wof:lastmodified": 1512414490, 
+  "wof:tags": [
+    "program", 
+    "state", 
+    "broadcast", 
+    "county", 
+    "educational"
+  ], 
   "wof:brand_name": "Education Dept", 
   "wof:brand_id": 1125154729
 }

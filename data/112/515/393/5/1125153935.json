@@ -1,6 +1,12 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400634, 
+  "wof:lastmodified": 1512414507, 
+  "wof:tags": [
+    "health", 
+    "support", 
+    "administrative", 
+    "program"
+  ], 
   "wof:brand_name": "Child Health Services", 
   "wof:brand_id": 1125153935
 }

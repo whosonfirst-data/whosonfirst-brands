@@ -1,6 +1,17 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400702, 
+  "wof:lastmodified": 1512414552, 
+  "wof:tags": [
+    "broker", 
+    "buyer", 
+    "consultant", 
+    "management", 
+    "contractor", 
+    "general", 
+    "investing", 
+    "investor", 
+    "property"
+  ], 
   "wof:brand_name": "Real Estate Solutions", 
   "wof:brand_id": 1125162379
 }

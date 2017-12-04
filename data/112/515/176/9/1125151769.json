@@ -1,6 +1,31 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399906, 
+  "wof:lastmodified": 1512414471, 
+  "wof:tags": [
+    "cellular", 
+    "telephone", 
+    "equipment", 
+    "system", 
+    "satellite", 
+    "electronic", 
+    "merchandise", 
+    "communication", 
+    "supply", 
+    "mobile", 
+    "pager", 
+    "radiotelephone", 
+    "telecommunications-equipment", 
+    "accessory", 
+    "automobile", 
+    "contractor", 
+    "dealer", 
+    "electrical", 
+    "paging", 
+    "phone", 
+    "signaling", 
+    "software", 
+    "television"
+  ], 
   "wof:brand_name": "Cellular Connection", 
   "wof:brand_id": 1125151769
 }

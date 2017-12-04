@@ -1,6 +1,11 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400555, 
+  "wof:lastmodified": 1512414463, 
+  "wof:tags": [
+    "banking", 
+    "finance", 
+    "insurance"
+  ], 
   "wof:brand_name": "Banca Nazionale Del Lavoro Spa", 
   "wof:brand_id": 420574301
 }

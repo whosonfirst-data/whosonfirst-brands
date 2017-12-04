@@ -1,10 +1,27 @@
 {
   "wof:brand_name": "Mattress Giant", 
   "wof:brand_id": 1125150329, 
+  "wof:tags": [
+    "mattress", 
+    "bed", 
+    "bedding", 
+    "bedroom", 
+    "set", 
+    "store", 
+    "accessory", 
+    "brass", 
+    "discount", 
+    "equipment", 
+    "house", 
+    "household", 
+    "linen", 
+    "maker", 
+    "supply"
+  ], 
   "wof:supersedes": [
     1125155161
   ], 
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1512143718, 
+  "wof:lastmodified": 1512414477, 
   "mz:is_current": 1
 }

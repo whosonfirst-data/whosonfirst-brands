@@ -1,6 +1,25 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400655, 
+  "wof:lastmodified": 1512414520, 
+  "wof:tags": [
+    "pet", 
+    "grooming", 
+    "washing", 
+    "sitting", 
+    "boarding/pet", 
+    "boarding", 
+    "dog", 
+    "cat", 
+    "groomers", 
+    "merchandise", 
+    "store", 
+    "exercising", 
+    "furnishing", 
+    "kennel", 
+    "shop", 
+    "specialty", 
+    "walker"
+  ], 
   "wof:brand_name": "Happy Tails", 
   "wof:brand_id": 1125158547
 }

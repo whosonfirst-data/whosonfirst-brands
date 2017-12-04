@@ -1,6 +1,24 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400663, 
+  "wof:lastmodified": 1512414525, 
+  "wof:tags": [
+    "management", 
+    "property", 
+    "apartment", 
+    "executive", 
+    "agency", 
+    "broker", 
+    "building", 
+    "contractor", 
+    "finder", 
+    "fuel", 
+    "investor", 
+    "maintenance", 
+    "manager", 
+    "nonresidential", 
+    "rental", 
+    "state"
+  ], 
   "wof:brand_name": "Property Management", 
   "wof:brand_id": 1125156817
 }

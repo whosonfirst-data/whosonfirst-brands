@@ -1,6 +1,14 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400640, 
+  "wof:lastmodified": 1512414510, 
+  "wof:tags": [
+    "inn", 
+    "pubs", 
+    "activity", 
+    "house", 
+    "room", 
+    "tea"
+  ], 
   "wof:brand_name": "The Crown", 
   "wof:brand_id": 1125154155
 }

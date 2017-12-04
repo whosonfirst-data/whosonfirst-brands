@@ -1,6 +1,28 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400694, 
+  "wof:lastmodified": 1512414546, 
+  "wof:tags": [
+    "chemical", 
+    "agricultural", 
+    "fertilizer", 
+    "mfg", 
+    "chemicals-wholesale", 
+    "manufacturer", 
+    "seed", 
+    "formulates", 
+    "general", 
+    "specialty", 
+    "agriculture", 
+    "bulb", 
+    "elevator", 
+    "farm", 
+    "grain", 
+    "management", 
+    "mixing", 
+    "only", 
+    "special", 
+    "supply"
+  ], 
   "wof:brand_name": "Helena Chemical Company", 
   "wof:brand_id": 1125161137
 }

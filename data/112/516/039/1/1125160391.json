@@ -1,6 +1,32 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400703, 
+  "wof:lastmodified": 1512414552, 
+  "wof:tags": [
+    "oil", 
+    "field", 
+    "equipment", 
+    "supply", 
+    "well", 
+    "pump", 
+    "block", 
+    "brick", 
+    "broker", 
+    "concrete", 
+    "construction", 
+    "exploration", 
+    "fiber", 
+    "gas", 
+    "gasoline", 
+    "geothermal", 
+    "heavy", 
+    "machine", 
+    "optics", 
+    "prod", 
+    "producer", 
+    "pumping", 
+    "rent", 
+    "shop"
+  ], 
   "wof:brand_name": "Weatherford", 
   "wof:brand_id": 1125160391
 }

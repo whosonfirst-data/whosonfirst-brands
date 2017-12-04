@@ -1,6 +1,21 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399917, 
+  "wof:lastmodified": 1512414495, 
+  "wof:tags": [
+    "pet", 
+    "shop", 
+    "store", 
+    "merchandise", 
+    "cat", 
+    "dog", 
+    "supply", 
+    "furnishing", 
+    "grooming", 
+    "food", 
+    "washing", 
+    "animal", 
+    "reptile"
+  ], 
   "wof:brand_name": "Petland", 
   "wof:brand_id": 1125152365
 }

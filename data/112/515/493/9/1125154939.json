@@ -1,6 +1,18 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400564, 
+  "wof:lastmodified": 1512414468, 
+  "wof:tags": [
+    "admin", 
+    "affairs", 
+    "federal", 
+    "govt", 
+    "armed", 
+    "force", 
+    "physician", 
+    "recruiting", 
+    "state", 
+    "surgeon"
+  ], 
   "wof:brand_name": "Us Veterans Affairs Dept", 
   "wof:brand_id": 1125154939
 }

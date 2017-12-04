@@ -1,6 +1,25 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400564, 
+  "wof:lastmodified": 1512414467, 
+  "wof:tags": [
+    "cigar", 
+    "cigarette", 
+    "dealer", 
+    "product", 
+    "shop", 
+    "manufacturer", 
+    "outlet", 
+    "tobacco-wholesale", 
+    "farm", 
+    "grocer", 
+    "house", 
+    "mail", 
+    "stand", 
+    "store", 
+    "tobacco", 
+    "warehouse", 
+    "warehousing"
+  ], 
   "wof:brand_name": "Tobacco Outlet", 
   "wof:brand_id": 1125157519
 }

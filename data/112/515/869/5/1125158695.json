@@ -1,6 +1,30 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400568, 
+  "wof:lastmodified": 1512414469, 
+  "wof:tags": [
+    "guard", 
+    "patrol", 
+    "car", 
+    "system", 
+    "alarm", 
+    "consultant", 
+    "armored", 
+    "burglar", 
+    "equipment", 
+    "investigator", 
+    "assistant", 
+    "bodyguard", 
+    "control", 
+    "detector", 
+    "equipment-wholesale", 
+    "manufacturer", 
+    "monitoring", 
+    "private", 
+    "protective", 
+    "security", 
+    "smoke", 
+    "surveillance"
+  ], 
   "wof:brand_name": "Allied Security", 
   "wof:brand_id": 1125158695
 }

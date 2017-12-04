@@ -1,10 +1,32 @@
 {
   "wof:brand_name": "Chuck E. Cheese's", 
   "wof:brand_id": 1125148901, 
+  "wof:tags": [
+    "pizza", 
+    "american", 
+    "planning", 
+    "amusement", 
+    "family", 
+    "style", 
+    "arcade", 
+    "children's", 
+    "place", 
+    "eating", 
+    "event", 
+    "party", 
+    "personal", 
+    "venue", 
+    "active", 
+    "chain", 
+    "device", 
+    "life", 
+    "operator", 
+    "take"
+  ], 
   "wof:supersedes": [
     1125151355
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512143853, 
+  "wof:lastmodified": 1512414557, 
   "mz:is_current": 1
 }

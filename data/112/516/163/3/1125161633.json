@@ -1,6 +1,14 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400689, 
+  "wof:lastmodified": 1512414543, 
+  "wof:tags": [
+    "grocer", 
+    "drugstore", 
+    "florist", 
+    "grocery", 
+    "product", 
+    "super"
+  ], 
   "wof:brand_name": "Tom Thumb Food & Pharmacy", 
   "wof:brand_id": 1125161633
 }

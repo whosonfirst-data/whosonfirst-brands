@@ -1,6 +1,14 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400567, 
+  "wof:lastmodified": 1512414469, 
+  "wof:tags": [
+    "grocer", 
+    "diet", 
+    "general", 
+    "health", 
+    "market", 
+    "merchandise"
+  ], 
   "wof:brand_name": "Trader Joe's Co", 
   "wof:brand_id": 1125159109
 }

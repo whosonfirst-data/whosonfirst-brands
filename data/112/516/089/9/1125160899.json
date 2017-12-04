@@ -1,6 +1,16 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400690, 
+  "wof:lastmodified": 1512414544, 
+  "wof:tags": [
+    "cigarette", 
+    "cigar", 
+    "dealer", 
+    "shop", 
+    "manufacturer", 
+    "representative", 
+    "farm", 
+    "warehouse"
+  ], 
   "wof:brand_name": "Lorillard Tobacco Co", 
   "wof:brand_id": 1125160899
 }

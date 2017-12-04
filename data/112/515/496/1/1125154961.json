@@ -1,6 +1,14 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400593, 
+  "wof:lastmodified": 1512414485, 
+  "wof:tags": [
+    "company", 
+    "title", 
+    "escrow", 
+    "abstract", 
+    "carrier", 
+    "local"
+  ], 
   "wof:brand_name": "Alliance Title Co", 
   "wof:brand_id": 1125154961
 }

@@ -1,6 +1,14 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400582, 
+  "wof:lastmodified": 1512414478, 
+  "wof:tags": [
+    "american", 
+    "burger", 
+    "pub", 
+    "salad", 
+    "soup", 
+    "tex-mex"
+  ], 
   "wof:brand_name": "99 Restaurant", 
   "wof:brand_id": 1125155705
 }

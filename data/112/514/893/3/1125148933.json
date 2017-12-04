@@ -1,6 +1,15 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400707, 
+  "wof:lastmodified": 1512414555, 
+  "wof:tags": [
+    "american", 
+    "diner", 
+    "coffee", 
+    "tea", 
+    "shop", 
+    "eating", 
+    "pastry"
+  ], 
   "wof:brand_name": "Caribou Coffee", 
   "wof:brand_id": 1125148933
 }

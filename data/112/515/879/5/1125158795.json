@@ -1,6 +1,16 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400579, 
+  "wof:lastmodified": 1512414476, 
+  "wof:tags": [
+    "drugstore", 
+    "grocer", 
+    "super", 
+    "eating", 
+    "food", 
+    "frozen", 
+    "mfg", 
+    "warehouse"
+  ], 
   "wof:brand_name": "King Soopers", 
   "wof:brand_id": 1125158795
 }

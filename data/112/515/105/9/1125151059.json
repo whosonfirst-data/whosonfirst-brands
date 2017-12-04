@@ -1,6 +1,29 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399899, 
+  "wof:lastmodified": 1512414465, 
+  "wof:tags": [
+    "line", 
+    "operator", 
+    "rail", 
+    "arrangement", 
+    "railroad", 
+    "ope", 
+    "freight", 
+    "haul", 
+    "terminal", 
+    "business", 
+    "district", 
+    "equipment", 
+    "establishment", 
+    "forwarder", 
+    "maintenance", 
+    "operates", 
+    "passenger", 
+    "sta", 
+    "switching", 
+    "transportation", 
+    "trucking"
+  ], 
   "wof:brand_name": "Union Pacific Railroad Company", 
   "wof:brand_id": 1125151059
 }

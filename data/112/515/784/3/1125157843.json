@@ -1,6 +1,16 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400651, 
+  "wof:lastmodified": 1512414517, 
+  "wof:tags": [
+    "appraiser", 
+    "broker", 
+    "carrier", 
+    "cashing", 
+    "check", 
+    "exchange", 
+    "processing", 
+    "reciprocal"
+  ], 
   "wof:brand_name": "Erie Insurance Group", 
   "wof:brand_id": 1125157843
 }

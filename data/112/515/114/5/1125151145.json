@@ -1,6 +1,14 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399956, 
+  "wof:lastmodified": 1512414529, 
+  "wof:tags": [
+    "accessory", 
+    "telephone", 
+    "equipment", 
+    "facsimile", 
+    "internet", 
+    "provider"
+  ], 
   "wof:brand_name": "Optus World", 
   "wof:brand_id": 1125151145
 }

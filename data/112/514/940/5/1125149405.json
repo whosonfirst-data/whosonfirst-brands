@@ -1,6 +1,32 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400731, 
+  "wof:lastmodified": 1512414562, 
+  "wof:tags": [
+    "equipment", 
+    "tractor", 
+    "welding", 
+    "store", 
+    "food", 
+    "baling", 
+    "part", 
+    "trailer", 
+    "transport", 
+    "fence", 
+    "farm", 
+    "compressor", 
+    "lawn", 
+    "mower", 
+    "supply", 
+    "contractor", 
+    "gas", 
+    "heating", 
+    "home", 
+    "improvement", 
+    "machinery", 
+    "parts", 
+    "pet", 
+    "shop"
+  ], 
   "wof:brand_name": "Tractor Supply Co", 
   "wof:brand_id": 1125149405
 }

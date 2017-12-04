@@ -1,6 +1,28 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400580, 
+  "wof:lastmodified": 1512414477, 
+  "wof:tags": [
+    "commercial", 
+    "national", 
+    "state", 
+    "institution", 
+    "mortgage", 
+    "security", 
+    "advisory", 
+    "bank", 
+    "business", 
+    "card", 
+    "cards", 
+    "company", 
+    "credit", 
+    "firm", 
+    "holding", 
+    "investment", 
+    "issuer", 
+    "personal", 
+    "process", 
+    "transact"
+  ], 
   "wof:brand_name": "Bank One National Assn Chicago", 
   "wof:brand_id": 1125155463
 }

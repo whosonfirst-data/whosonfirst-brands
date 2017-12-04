@@ -1,6 +1,18 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400685, 
+  "wof:lastmodified": 1512414540, 
+  "wof:tags": [
+    "car", 
+    "dealer", 
+    "used", 
+    "cars-wholesale", 
+    "dealers-used", 
+    "automobile", 
+    "body", 
+    "carwash", 
+    "financing", 
+    "painting"
+  ], 
   "wof:brand_name": "Cars R Us", 
   "wof:brand_id": 1125162569
 }

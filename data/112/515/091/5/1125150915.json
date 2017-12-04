@@ -1,6 +1,15 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399900, 
+  "wof:lastmodified": 1512414467, 
+  "wof:tags": [
+    "car", 
+    "hire", 
+    "minibus", 
+    "bus", 
+    "marketing", 
+    "program", 
+    "truck"
+  ], 
   "wof:brand_name": "Europcar", 
   "wof:brand_id": 1125150915
 }

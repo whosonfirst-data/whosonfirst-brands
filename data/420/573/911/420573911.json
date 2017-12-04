@@ -1,6 +1,29 @@
 {
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399888, 
+  "wof:lastmodified": 1512414454, 
+  "wof:tags": [
+    "video", 
+    "tape", 
+    "disc", 
+    "leasing", 
+    "dvds-rental", 
+    "sale", 
+    "cassette", 
+    "store", 
+    "game", 
+    "dvd", 
+    "equipment", 
+    "rent", 
+    "player", 
+    "recorder", 
+    "farm", 
+    "radio-renting", 
+    "related", 
+    "rent-to-own", 
+    "television", 
+    "theater", 
+    "wheat"
+  ], 
   "wof:brand_name": "Movie Gallery", 
   "wof:brand_id": 420573911
 }

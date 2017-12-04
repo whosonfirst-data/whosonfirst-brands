@@ -1,6 +1,18 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399972, 
+  "wof:lastmodified": 1512414553, 
+  "wof:tags": [
+    "grocer", 
+    "grocery", 
+    "store", 
+    "supermarket", 
+    "alcoholic", 
+    "florist", 
+    "mfg", 
+    "oil", 
+    "product", 
+    "tobacco"
+  ], 
   "wof:brand_name": "Bi-Lo", 
   "wof:brand_id": 1125149837
 }

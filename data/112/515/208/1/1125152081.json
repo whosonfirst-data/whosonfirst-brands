@@ -1,6 +1,20 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399900, 
+  "wof:lastmodified": 1512414483, 
+  "wof:tags": [
+    "oil", 
+    "merchant", 
+    "refiner", 
+    "equipment", 
+    "spirit", 
+    "trailer", 
+    "bus", 
+    "car", 
+    "factor", 
+    "hire", 
+    "minibus", 
+    "truck"
+  ], 
   "wof:brand_name": "Caltex", 
   "wof:brand_id": 1125152081
 }

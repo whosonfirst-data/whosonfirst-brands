@@ -1,6 +1,16 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399898, 
+  "wof:lastmodified": 1512414464, 
+  "wof:tags": [
+    "laboratory", 
+    "imaging", 
+    "medical", 
+    "physician", 
+    "surgeon", 
+    "detection", 
+    "drug", 
+    "equipment"
+  ], 
   "wof:brand_name": "Quest Diagnotics", 
   "wof:brand_id": 1125150611
 }

@@ -1,6 +1,20 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400573, 
+  "wof:lastmodified": 1512414473, 
+  "wof:tags": [
+    "coin", 
+    "power", 
+    "cleaners", 
+    "clothing", 
+    "fabric", 
+    "laundries-self", 
+    "mach", 
+    "mat", 
+    "petroleum", 
+    "prod", 
+    "repair", 
+    "washing"
+  ], 
   "wof:brand_name": "Laundromat", 
   "wof:brand_id": 1125159915
 }

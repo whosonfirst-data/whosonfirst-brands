@@ -1,6 +1,14 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400568, 
+  "wof:lastmodified": 1512414469, 
+  "wof:tags": [
+    "car", 
+    "dealer", 
+    "used", 
+    "cars-wholesale", 
+    "dealers-used", 
+    "new"
+  ], 
   "wof:brand_name": "Affordable Auto Sales", 
   "wof:brand_id": 1125158693
 }

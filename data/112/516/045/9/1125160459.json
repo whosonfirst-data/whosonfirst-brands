@@ -1,6 +1,17 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400688, 
+  "wof:lastmodified": 1512414542, 
+  "wof:tags": [
+    "church", 
+    "school", 
+    "churches-catholic", 
+    "churches-catholic-traditional", 
+    "churches-episcopal", 
+    "churches-episcopal-anglican", 
+    "grade", 
+    "k-", 
+    "private"
+  ], 
   "wof:brand_name": "Christ The King Church", 
   "wof:brand_id": 1125160459
 }

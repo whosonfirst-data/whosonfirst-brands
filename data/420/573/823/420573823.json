@@ -1,6 +1,27 @@
 {
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511400526, 
+  "wof:lastmodified": 1512414454, 
+  "wof:tags": [
+    "shop", 
+    "merchandise", 
+    "general", 
+    "department", 
+    "variety", 
+    "dollar", 
+    "gift", 
+    "novelty", 
+    "outlet", 
+    "shopping", 
+    "store", 
+    "building", 
+    "discount", 
+    "nonresidential", 
+    "operator", 
+    "public", 
+    "relations", 
+    "thrift", 
+    "used"
+  ], 
   "wof:brand_name": "Dollar Tree", 
   "wof:brand_id": 420573823
 }

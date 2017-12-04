@@ -1,6 +1,28 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400574, 
+  "wof:lastmodified": 1512414473, 
+  "wof:tags": [
+    "automobile", 
+    "repairing", 
+    "general", 
+    "automotive", 
+    "body", 
+    "painting", 
+    "repair", 
+    "shop", 
+    "alignment", 
+    "balancing", 
+    "carwash", 
+    "customizing", 
+    "garage", 
+    "lingerie", 
+    "oil", 
+    "parts", 
+    "towing", 
+    "transmission", 
+    "used", 
+    "wheel"
+  ], 
   "wof:brand_name": "Auto Clinic", 
   "wof:brand_id": 1125154281
 }

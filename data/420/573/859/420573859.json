@@ -1,6 +1,10 @@
 {
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399889, 
+  "wof:lastmodified": 1512414455, 
+  "wof:tags": [
+    "banking", 
+    "institution"
+  ], 
   "wof:brand_name": "Banque Nationale De Paris", 
   "wof:brand_id": 420573859
 }

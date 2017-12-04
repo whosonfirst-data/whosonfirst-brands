@@ -1,6 +1,19 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399906, 
+  "wof:lastmodified": 1512414489, 
+  "wof:tags": [
+    "dealer", 
+    "bookstore", 
+    "magazine", 
+    "store", 
+    "bible", 
+    "dvds-rental", 
+    "sale", 
+    "tape", 
+    "video", 
+    "collectible", 
+    "newspaper"
+  ], 
   "wof:brand_name": "Books-A-Million", 
   "wof:brand_id": 1125151005
 }

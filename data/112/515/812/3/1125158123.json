@@ -1,6 +1,15 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400590, 
+  "wof:lastmodified": 1512414483, 
+  "wof:tags": [
+    "laboratory", 
+    "medical", 
+    "analytical", 
+    "development", 
+    "general", 
+    "laboratories-research", 
+    "stationer"
+  ], 
   "wof:brand_name": "Lab Corp", 
   "wof:brand_id": 1125158123
 }

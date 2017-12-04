@@ -1,6 +1,27 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399972, 
+  "wof:lastmodified": 1512414553, 
+  "wof:tags": [
+    "oil", 
+    "gasoline", 
+    "station", 
+    "grocery", 
+    "store", 
+    "convenience", 
+    "grocer", 
+    "business", 
+    "carwash", 
+    "diesel", 
+    "fuel", 
+    "general", 
+    "lubricant", 
+    "manufacturer", 
+    "petroleum", 
+    "product", 
+    "refiner", 
+    "shop", 
+    "tire"
+  ], 
   "wof:brand_name": "Conoco", 
   "wof:brand_id": 1125149839
 }

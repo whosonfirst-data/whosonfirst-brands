@@ -1,6 +1,32 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399943, 
+  "wof:lastmodified": 1512414518, 
+  "wof:tags": [
+    "gas", 
+    "bulk", 
+    "equipment", 
+    "welding", 
+    "establishment", 
+    "oxygen", 
+    "dry", 
+    "ice", 
+    "physician", 
+    "pump", 
+    "supply", 
+    "surgeon", 
+    "carbon", 
+    "carbonic", 
+    "dioxide", 
+    "durable", 
+    "helium", 
+    "hydrologist", 
+    "industrial", 
+    "machine", 
+    "nitrogen", 
+    "producing", 
+    "shop", 
+    "warehouse"
+  ], 
   "wof:brand_name": "Praxair Inc", 
   "wof:brand_id": 1125151959
 }

@@ -1,6 +1,27 @@
 {
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399896, 
+  "wof:lastmodified": 1512414462, 
+  "wof:tags": [
+    "oil", 
+    "gasoline", 
+    "station", 
+    "grocery", 
+    "convenience", 
+    "oils-petroleum", 
+    "petrolatum", 
+    "store", 
+    "automotive", 
+    "establishment", 
+    "accessory", 
+    "contractor", 
+    "gas", 
+    "manufacturer", 
+    "marketing", 
+    "p", 
+    "petroleum", 
+    "products-wholesale", 
+    "program"
+  ], 
   "wof:brand_name": "Speedway", 
   "wof:brand_id": 420574305
 }

@@ -1,6 +1,28 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400689, 
+  "wof:lastmodified": 1512414543, 
+  "wof:tags": [
+    "national", 
+    "security", 
+    "recruiting", 
+    "navy", 
+    "administration", 
+    "center", 
+    "department", 
+    "facility", 
+    "general", 
+    "laboratory", 
+    "logistics", 
+    "military", 
+    "naval", 
+    "purchasing", 
+    "recruiter", 
+    "repair", 
+    "school", 
+    "ship", 
+    "station", 
+    "training"
+  ], 
   "wof:brand_name": "US Department of the Navy", 
   "wof:brand_id": 1125161651
 }

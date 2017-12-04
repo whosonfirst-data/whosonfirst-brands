@@ -1,6 +1,30 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399943, 
+  "wof:lastmodified": 1512414518, 
+  "wof:tags": [
+    "direct", 
+    "retail", 
+    "sales", 
+    "interior", 
+    "decorator", 
+    "consultant", 
+    "design", 
+    "demonstration", 
+    "home", 
+    "shop", 
+    "business", 
+    "mail", 
+    "online", 
+    "order", 
+    "billing", 
+    "designer", 
+    "housewares", 
+    "housewares-wholesale", 
+    "manufacturer", 
+    "merchandise", 
+    "miscellaneous", 
+    "store"
+  ], 
   "wof:brand_name": "Home Interiors & Gifts", 
   "wof:brand_id": 1125153223
 }

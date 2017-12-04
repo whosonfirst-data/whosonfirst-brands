@@ -1,6 +1,23 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400530, 
+  "wof:lastmodified": 1512414455, 
+  "wof:tags": [
+    "operation", 
+    "lodging", 
+    "corporate", 
+    "motel", 
+    "hotel", 
+    "reservation", 
+    "inn", 
+    "apartment", 
+    "building", 
+    "business", 
+    "drinking", 
+    "franchised", 
+    "op", 
+    "operator", 
+    "resort"
+  ], 
   "wof:brand_name": "Budget Inn", 
   "wof:brand_id": 420574899
 }

@@ -1,6 +1,30 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399935, 
+  "wof:lastmodified": 1512414530, 
+  "wof:tags": [
+    "trucking", 
+    "operator", 
+    "carrier", 
+    "le", 
+    "local", 
+    "truck", 
+    "facility", 
+    "terminal", 
+    "except", 
+    "center", 
+    "class", 
+    "courier", 
+    "great", 
+    "lake", 
+    "line", 
+    "motor", 
+    "one", 
+    "overnight", 
+    "railroad", 
+    "storage", 
+    "tran", 
+    "trucking-motor"
+  ], 
   "wof:brand_name": "Overnite Transportation Co", 
   "wof:brand_id": 1125151115
 }

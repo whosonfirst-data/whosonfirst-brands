@@ -1,6 +1,23 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400619, 
+  "wof:lastmodified": 1512414500, 
+  "wof:tags": [
+    "shop", 
+    "cosmetic", 
+    "perfume", 
+    "hair", 
+    "hairdresser", 
+    "stylist", 
+    "barber", 
+    "equipment", 
+    "establishment", 
+    "gents", 
+    "lady", 
+    "men's", 
+    "merchandise", 
+    "supply", 
+    "unisex"
+  ], 
   "wof:brand_name": "Hair World", 
   "wof:brand_id": 1125159007
 }

@@ -1,6 +1,32 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400515, 
+  "wof:lastmodified": 1512414450, 
+  "wof:tags": [
+    "money", 
+    "transfer", 
+    "order", 
+    "banking", 
+    "depository", 
+    "variety", 
+    "cashing", 
+    "check", 
+    "broker", 
+    "interpreter", 
+    "shop", 
+    "translator", 
+    "general", 
+    "merchandise", 
+    "delivery", 
+    "exporter", 
+    "local", 
+    "operator", 
+    "store", 
+    "trucking", 
+    "commission", 
+    "merchant", 
+    "product", 
+    "wire"
+  ], 
   "wof:brand_name": "Dolex Dollar Express", 
   "wof:brand_id": 420575141
 }

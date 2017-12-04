@@ -1,6 +1,30 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400585, 
+  "wof:lastmodified": 1512414480, 
+  "wof:tags": [
+    "communication", 
+    "cellular", 
+    "telephone", 
+    "radiotelephone", 
+    "merchandise", 
+    "equipment", 
+    "telecommunication", 
+    "system", 
+    "consultant", 
+    "mobile", 
+    "phone", 
+    "supply", 
+    "telecommunications-equipment", 
+    "cable", 
+    "carrier", 
+    "communications", 
+    "contractor", 
+    "electrical", 
+    "mfg", 
+    "radio", 
+    "satellite", 
+    "systems-repair"
+  ], 
   "wof:brand_name": "Prime Communications", 
   "wof:brand_id": 1125157705
 }

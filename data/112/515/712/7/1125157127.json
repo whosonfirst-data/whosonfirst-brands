@@ -1,6 +1,26 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400617, 
+  "wof:lastmodified": 1512414498, 
+  "wof:tags": [
+    "food", 
+    "eating", 
+    "caterer", 
+    "direct", 
+    "retail", 
+    "sales", 
+    "establishment", 
+    "facility", 
+    "beverage", 
+    "builder", 
+    "cafeteria", 
+    "consultant", 
+    "contract", 
+    "dining", 
+    "management", 
+    "mfg", 
+    "preparation", 
+    "product"
+  ], 
   "wof:brand_name": "Chartwells", 
   "wof:brand_id": 1125157127
 }

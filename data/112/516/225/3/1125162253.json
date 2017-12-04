@@ -1,6 +1,12 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400681, 
+  "wof:lastmodified": 1512414537, 
+  "wof:tags": [
+    "courier", 
+    "bus", 
+    "line", 
+    "delivery"
+  ], 
   "wof:brand_name": "Greyhound Canada", 
   "wof:brand_id": 1125162253
 }

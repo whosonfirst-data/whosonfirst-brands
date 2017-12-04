@@ -1,6 +1,21 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400632, 
+  "wof:lastmodified": 1512414506, 
+  "wof:tags": [
+    "operation", 
+    "facility", 
+    "fitness", 
+    "physical", 
+    "company", 
+    "contractor", 
+    "development", 
+    "eating", 
+    "franchised", 
+    "hotel", 
+    "inn", 
+    "lounge", 
+    "personal"
+  ], 
   "wof:brand_name": "Wingate Inn", 
   "wof:brand_id": 1125156173
 }

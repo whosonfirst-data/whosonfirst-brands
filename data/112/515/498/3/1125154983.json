@@ -1,6 +1,24 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400602, 
+  "wof:lastmodified": 1512414490, 
+  "wof:tags": [
+    "american", 
+    "barbecue", 
+    "burger", 
+    "steakhouse", 
+    "grill", 
+    "house", 
+    "steak", 
+    "asian", 
+    "bar", 
+    "brew", 
+    "chinese", 
+    "pizza", 
+    "pub", 
+    "sandwich", 
+    "traditional", 
+    "wrap"
+  ], 
   "wof:brand_name": "Damon's Grill", 
   "wof:brand_id": 1125154983
 }

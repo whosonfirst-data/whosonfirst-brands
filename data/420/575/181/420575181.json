@@ -1,6 +1,26 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400515, 
+  "wof:lastmodified": 1512414450, 
+  "wof:tags": [
+    "store", 
+    "clothing", 
+    "equipment", 
+    "safety", 
+    "durable", 
+    "shoe", 
+    "footwear", 
+    "boots-retail", 
+    "boot", 
+    "industrial", 
+    "work", 
+    "except", 
+    "merchandise", 
+    "mfg", 
+    "repair", 
+    "rubber", 
+    "shoes", 
+    "wholesale"
+  ], 
   "wof:brand_name": "Red Wing Shoe Store", 
   "wof:brand_id": 420575181
 }

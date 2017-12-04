@@ -1,6 +1,22 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400649, 
+  "wof:lastmodified": 1512414516, 
+  "wof:tags": [
+    "equipment", 
+    "dealer", 
+    "computer", 
+    "consultant", 
+    "designer", 
+    "datum", 
+    "financing", 
+    "parts", 
+    "processing", 
+    "supply", 
+    "merchandise", 
+    "repair", 
+    "software", 
+    "warehouse"
+  ], 
   "wof:brand_name": "Hewlett-Packard Co", 
   "wof:brand_id": 1125154649
 }

@@ -1,6 +1,27 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400711, 
+  "wof:lastmodified": 1512414558, 
+  "wof:tags": [
+    "taxicab", 
+    "airport", 
+    "shuttle", 
+    "local", 
+    "operator", 
+    "passenger", 
+    "delivery", 
+    "public", 
+    "trucking", 
+    "bus", 
+    "cab", 
+    "charter", 
+    "guide", 
+    "provider", 
+    "suburban", 
+    "taxi", 
+    "tour", 
+    "transit", 
+    "transport"
+  ], 
   "wof:brand_name": "Yellow Cab", 
   "wof:brand_id": 1125149163
 }

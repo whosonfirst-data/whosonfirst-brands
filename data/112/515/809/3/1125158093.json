@@ -1,6 +1,29 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400635, 
+  "wof:lastmodified": 1512414508, 
+  "wof:tags": [
+    "store", 
+    "mattress", 
+    "appliance", 
+    "household", 
+    "warehouse", 
+    "accessory", 
+    "bed", 
+    "bedroom", 
+    "consultant", 
+    "decorator", 
+    "delivery", 
+    "design", 
+    "furnishing", 
+    "interior", 
+    "major", 
+    "merchandise", 
+    "mover", 
+    "self", 
+    "set", 
+    "storage", 
+    "used"
+  ], 
   "wof:brand_name": "Furniture Warehouse", 
   "wof:brand_id": 1125158093
 }

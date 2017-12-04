@@ -1,6 +1,32 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399919, 
+  "wof:lastmodified": 1512414498, 
+  "wof:tags": [
+    "cashing", 
+    "check", 
+    "loan", 
+    "banking", 
+    "depository", 
+    "pawnbroker", 
+    "institution", 
+    "financing", 
+    "business", 
+    "personal", 
+    "advisory", 
+    "financial", 
+    "agency", 
+    "automobile", 
+    "establishment", 
+    "except", 
+    "filing", 
+    "merchandise", 
+    "money", 
+    "order", 
+    "pawn", 
+    "payday", 
+    "return", 
+    "used"
+  ], 
   "wof:brand_name": "Quick Cash", 
   "wof:brand_id": 1125150521
 }

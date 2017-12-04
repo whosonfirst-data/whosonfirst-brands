@@ -1,6 +1,29 @@
 {
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399897, 
+  "wof:lastmodified": 1512414463, 
+  "wof:tags": [
+    "check", 
+    "cashing", 
+    "banking", 
+    "depository", 
+    "loan", 
+    "agency", 
+    "payday", 
+    "financial", 
+    "business", 
+    "institution", 
+    "broker", 
+    "cashing/pay-day", 
+    "checking", 
+    "community", 
+    "deposit", 
+    "function", 
+    "mortgage", 
+    "related", 
+    "service/non-profit", 
+    "to", 
+    "validation"
+  ], 
   "wof:brand_name": "Check Into Cash", 
   "wof:brand_id": 420574051
 }

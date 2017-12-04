@@ -1,6 +1,27 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400661, 
+  "wof:lastmodified": 1512414524, 
+  "wof:tags": [
+    "fitness", 
+    "physical", 
+    "facility", 
+    "club", 
+    "health", 
+    "gymnasium", 
+    "studio", 
+    "center", 
+    "athletic", 
+    "consulting", 
+    "family", 
+    "heath", 
+    "includes", 
+    "indoor", 
+    "management", 
+    "membership", 
+    "personal", 
+    "racquetball", 
+    "trainer"
+  ], 
   "wof:brand_name": "World Gym Fitness Centers", 
   "wof:brand_id": 1125159443
 }

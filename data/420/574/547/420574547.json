@@ -1,6 +1,19 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400530, 
+  "wof:lastmodified": 1512414455, 
+  "wof:tags": [
+    "grocer", 
+    "super", 
+    "supermarket", 
+    "store", 
+    "bakery", 
+    "general", 
+    "meat", 
+    "shop", 
+    "alcoholic", 
+    "florist", 
+    "sandwich"
+  ], 
   "wof:brand_name": "Piggly Wiggly", 
   "wof:brand_id": 420574547
 }

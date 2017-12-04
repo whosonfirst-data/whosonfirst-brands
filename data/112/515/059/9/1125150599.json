@@ -1,6 +1,22 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399904, 
+  "wof:lastmodified": 1512414469, 
+  "wof:tags": [
+    "control", 
+    "tower", 
+    "transportation", 
+    "traffic", 
+    "air", 
+    "government-united", 
+    "state", 
+    "airport", 
+    "aviation", 
+    "federal", 
+    "administration", 
+    "program", 
+    "regulation", 
+    "facility"
+  ], 
   "wof:brand_name": "Airport Traffic Control Tower", 
   "wof:brand_id": 1125150599
 }

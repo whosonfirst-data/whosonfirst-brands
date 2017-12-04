@@ -1,6 +1,31 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400582, 
+  "wof:lastmodified": 1512414478, 
+  "wof:tags": [
+    "air", 
+    "scheduled", 
+    "ticket", 
+    "airline", 
+    "passenger", 
+    "carrier", 
+    "sales", 
+    "arrangement", 
+    "courier", 
+    "transportation", 
+    "adjuster", 
+    "administration", 
+    "agency", 
+    "airport", 
+    "denver", 
+    "district", 
+    "equipment", 
+    "freight", 
+    "o", 
+    "terminal", 
+    "tour", 
+    "tran", 
+    "transport"
+  ], 
   "wof:brand_name": "Northwest Airlines", 
   "wof:brand_id": 1125156443
 }

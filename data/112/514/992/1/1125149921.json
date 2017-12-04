@@ -1,6 +1,32 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399982, 
+  "wof:lastmodified": 1512414563, 
+  "wof:tags": [
+    "renting", 
+    "automobile", 
+    "car", 
+    "passenger", 
+    "truck", 
+    "leasing", 
+    "used", 
+    "rental", 
+    "trailer", 
+    "driver", 
+    "re", 
+    "supply", 
+    "without", 
+    "agency", 
+    "communication", 
+    "general", 
+    "local", 
+    "mover", 
+    "moving", 
+    "paper", 
+    "radiotelephone", 
+    "rent", 
+    "sales", 
+    "transportation"
+  ], 
   "wof:brand_name": "Rent-A-Wreck", 
   "wof:brand_id": 1125149921
 }

@@ -1,6 +1,29 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399919, 
+  "wof:lastmodified": 1512414497, 
+  "wof:tags": [
+    "security", 
+    "stock", 
+    "bond", 
+    "brokerage", 
+    "firm", 
+    "dealer", 
+    "banker", 
+    "advisory", 
+    "management", 
+    "financial", 
+    "commodity", 
+    "consultant", 
+    "consulting", 
+    "contract", 
+    "planning", 
+    "trust", 
+    "c", 
+    "commercial", 
+    "invest", 
+    "national", 
+    "open"
+  ], 
   "wof:brand_name": "Wachovia Securities LLC", 
   "wof:brand_id": 1125151617
 }

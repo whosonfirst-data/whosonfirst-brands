@@ -1,6 +1,18 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400607, 
+  "wof:lastmodified": 1512414493, 
+  "wof:tags": [
+    "health", 
+    "fitness", 
+    "trainer", 
+    "gymnasium", 
+    "instruction", 
+    "consultant", 
+    "physical", 
+    "club", 
+    "medical", 
+    "studio"
+  ], 
   "wof:brand_name": "LA Fitness", 
   "wof:brand_id": 1125159287
 }

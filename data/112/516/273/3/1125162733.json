@@ -1,6 +1,13 @@
 {
   "wof:brand_size": "S", 
-  "wof:lastmodified": 1511400690, 
+  "wof:lastmodified": 1512414544, 
+  "wof:tags": [
+    "renting", 
+    "automobile", 
+    "leasing", 
+    "truck", 
+    "car"
+  ], 
   "wof:brand_name": "National Car & Truck Rental", 
   "wof:brand_id": 1125162733
 }

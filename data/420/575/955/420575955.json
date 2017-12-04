@@ -1,6 +1,30 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399882, 
+  "wof:lastmodified": 1512414447, 
+  "wof:tags": [
+    "away", 
+    "delicatessen", 
+    "gasoline", 
+    "grocery", 
+    "house", 
+    "station", 
+    "take", 
+    "american", 
+    "baker", 
+    "bulk", 
+    "dog", 
+    "food", 
+    "grocer", 
+    "grocers-specialty", 
+    "guest", 
+    "hamburger", 
+    "hot", 
+    "product", 
+    "sandwich", 
+    "seafood", 
+    "shop", 
+    "steak"
+  ], 
   "wof:brand_name": "Village Pantry", 
   "wof:brand_id": 420575955
 }

@@ -1,6 +1,15 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400618, 
+  "wof:lastmodified": 1512414499, 
+  "wof:tags": [
+    "automobile", 
+    "parts", 
+    "part", 
+    "accessory", 
+    "engines-rebuild", 
+    "exchange", 
+    "automotive"
+  ], 
   "wof:brand_name": "Checker Auto Parts", 
   "wof:brand_id": 1125156055
 }

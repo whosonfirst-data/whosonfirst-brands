@@ -1,6 +1,16 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400551, 
+  "wof:lastmodified": 1512414462, 
+  "wof:tags": [
+    "local", 
+    "information", 
+    "attractions", 
+    "charity", 
+    "coach", 
+    "organisation", 
+    "tourist", 
+    "voluntary"
+  ], 
   "wof:brand_name": "Tourist Information Centre", 
   "wof:brand_id": 420574785
 }

@@ -1,6 +1,29 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400503, 
+  "wof:lastmodified": 1512414445, 
+  "wof:tags": [
+    "oil", 
+    "gasoline", 
+    "station", 
+    "store", 
+    "convenience", 
+    "grocery", 
+    "general", 
+    "product", 
+    "asphalt", 
+    "automotive", 
+    "car", 
+    "dealer", 
+    "gas", 
+    "gen", 
+    "marketing", 
+    "merchandise", 
+    "mfg", 
+    "o", 
+    "pallet", 
+    "petroleum", 
+    "repair"
+  ], 
   "wof:brand_name": "Phillips 66", 
   "wof:brand_id": 420575693
 }

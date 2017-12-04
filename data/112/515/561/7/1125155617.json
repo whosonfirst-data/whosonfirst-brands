@@ -1,6 +1,24 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400664, 
+  "wof:lastmodified": 1512414526, 
+  "wof:tags": [
+    "paint", 
+    "mfg", 
+    "product", 
+    "center", 
+    "coating", 
+    "commercial", 
+    "covering", 
+    "enamel", 
+    "lacquer", 
+    "physical", 
+    "research", 
+    "spraying", 
+    "store", 
+    "varnish", 
+    "wall", 
+    "warehouse"
+  ], 
   "wof:brand_name": "ICI Paints", 
   "wof:brand_id": 1125155617
 }

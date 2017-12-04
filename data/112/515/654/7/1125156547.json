@@ -1,6 +1,26 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400659, 
+  "wof:lastmodified": 1512414523, 
+  "wof:tags": [
+    "financing", 
+    "institution", 
+    "loan", 
+    "personal", 
+    "business", 
+    "company", 
+    "finance", 
+    "consumer", 
+    "commercial", 
+    "small", 
+    "broker", 
+    "consulting", 
+    "counseling", 
+    "credit", 
+    "debt", 
+    "fuel", 
+    "management", 
+    "reporting"
+  ], 
   "wof:brand_name": "Covington Credit", 
   "wof:brand_id": 1125156547
 }

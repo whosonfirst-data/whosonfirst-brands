@@ -1,6 +1,17 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400669, 
+  "wof:lastmodified": 1512414529, 
+  "wof:tags": [
+    "church", 
+    "place", 
+    "worship", 
+    "churches-apostolic", 
+    "churches-pentecostal-apostolic", 
+    "churches-interdenominational", 
+    "churches-various", 
+    "clergy", 
+    "denomination"
+  ], 
   "wof:brand_name": "New Apostolic Church", 
   "wof:brand_id": 1125158149
 }

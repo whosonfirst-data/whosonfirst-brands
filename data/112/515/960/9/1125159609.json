@@ -1,6 +1,24 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400596, 
+  "wof:lastmodified": 1512414487, 
+  "wof:tags": [
+    "grocer", 
+    "delicatessen", 
+    "gasoline", 
+    "general", 
+    "merchandise", 
+    "station", 
+    "deli", 
+    "disc", 
+    "fragrance", 
+    "grocery", 
+    "jeweler", 
+    "leasing", 
+    "restaurant", 
+    "stationery", 
+    "tape", 
+    "video"
+  ], 
   "wof:brand_name": "Little Store", 
   "wof:brand_id": 1125159609
 }

@@ -1,11 +1,30 @@
 {
   "wof:brand_name": "Aldo Shoes", 
   "wof:brand_id": 1125152563, 
+  "wof:tags": [
+    "store", 
+    "manufacturer", 
+    "shoes-wholesale", 
+    "accessory", 
+    "shoe", 
+    "-", 
+    "clothing", 
+    "contractor", 
+    "excavation", 
+    "gentleman", 
+    "hair", 
+    "hairdressing", 
+    "outlet", 
+    "printing", 
+    "salon", 
+    "shoes", 
+    "supply"
+  ], 
   "wof:supersedes": [
     1125160071, 
     1125156895
   ], 
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1512143718, 
+  "wof:lastmodified": 1512414474, 
   "mz:is_current": 1
 }

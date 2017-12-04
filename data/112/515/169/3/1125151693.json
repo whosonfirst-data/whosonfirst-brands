@@ -1,6 +1,12 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399910, 
+  "wof:lastmodified": 1512414474, 
+  "wof:tags": [
+    "car", 
+    "park", 
+    "production", 
+    "remote"
+  ], 
   "wof:brand_name": "Ncp", 
   "wof:brand_id": 1125151693
 }

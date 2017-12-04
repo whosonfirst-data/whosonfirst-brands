@@ -1,6 +1,28 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400519, 
+  "wof:lastmodified": 1512414452, 
+  "wof:tags": [
+    "laboratory", 
+    "testing", 
+    "clinical", 
+    "billing", 
+    "biological", 
+    "bookkeeping", 
+    "clinic", 
+    "commercial", 
+    "environmental", 
+    "establishment", 
+    "for", 
+    "hygiene", 
+    "industrial", 
+    "labor", 
+    "laboratories-pathological", 
+    "med", 
+    "mfg", 
+    "paternity", 
+    "photographic", 
+    "satellite"
+  ], 
   "wof:brand_name": "Laboratory Corporation America", 
   "wof:brand_id": 420575097
 }

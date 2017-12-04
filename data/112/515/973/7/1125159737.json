@@ -1,6 +1,17 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400637, 
+  "wof:lastmodified": 1512414509, 
+  "wof:tags": [
+    "club", 
+    "membership", 
+    "business", 
+    "broadcast", 
+    "equipment", 
+    "order", 
+    "residential", 
+    "safety", 
+    "transportation"
+  ], 
   "wof:brand_name": "United States Power Squad", 
   "wof:brand_id": 1125159737
 }

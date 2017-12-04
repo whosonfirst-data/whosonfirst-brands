@@ -1,6 +1,25 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400668, 
+  "wof:lastmodified": 1512414529, 
+  "wof:tags": [
+    "rehabilitation", 
+    "outpatient", 
+    "physical", 
+    "specialty", 
+    "therapist", 
+    "skilled", 
+    "alcoholism", 
+    "home", 
+    "information", 
+    "treatment", 
+    "addiction-information", 
+    "eldercare-home", 
+    "establishment", 
+    "gambling", 
+    "nursing", 
+    "pathologist", 
+    "speech"
+  ], 
   "wof:brand_name": "Rehab Works", 
   "wof:brand_id": 1125155533
 }

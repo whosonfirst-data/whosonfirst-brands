@@ -1,6 +1,26 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400666, 
+  "wof:lastmodified": 1512414527, 
+  "wof:tags": [
+    "away", 
+    "take", 
+    "eating", 
+    "room", 
+    "tea", 
+    "baker", 
+    "meal", 
+    "outlet", 
+    "caterer", 
+    "delicatessen", 
+    "pizza", 
+    "american", 
+    "bakery", 
+    "bath", 
+    "confectioner", 
+    "establishment", 
+    "kitchen", 
+    "shop"
+  ], 
   "wof:brand_name": "Upper Crust", 
   "wof:brand_id": 1125156503
 }

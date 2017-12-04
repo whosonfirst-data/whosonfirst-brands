@@ -1,6 +1,15 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399914, 
+  "wof:lastmodified": 1512414476, 
+  "wof:tags": [
+    "security", 
+    "federal", 
+    "state", 
+    "national", 
+    "guard", 
+    "army", 
+    "general"
+  ], 
   "wof:brand_name": "US Army National Guard", 
   "wof:brand_id": 1125152245
 }

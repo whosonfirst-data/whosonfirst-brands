@@ -1,6 +1,24 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400573, 
+  "wof:lastmodified": 1512414473, 
+  "wof:tags": [
+    "hospital", 
+    "physician", 
+    "surgeon", 
+    "medical", 
+    "management", 
+    "supply", 
+    "care", 
+    "equipment", 
+    "health", 
+    "home", 
+    "instrument", 
+    "surgical", 
+    "consultant", 
+    "establishment", 
+    "manufacturer", 
+    "supplies-wholesale"
+  ], 
   "wof:brand_name": "Kinetic Concepts Inc", 
   "wof:brand_id": 1125159913
 }

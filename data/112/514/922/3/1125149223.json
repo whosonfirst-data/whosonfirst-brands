@@ -1,6 +1,16 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400724, 
+  "wof:lastmodified": 1512414561, 
+  "wof:tags": [
+    "veterinarian", 
+    "hospital", 
+    "clinic", 
+    "specialty", 
+    "animal", 
+    "emergency", 
+    "health", 
+    "product"
+  ], 
   "wof:brand_name": "Banfield the Pet Hospital", 
   "wof:brand_id": 1125149223
 }

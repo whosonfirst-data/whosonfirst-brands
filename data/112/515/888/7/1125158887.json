@@ -1,6 +1,28 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400570, 
+  "wof:lastmodified": 1512414471, 
+  "wof:tags": [
+    "house", 
+    "builder", 
+    "operative", 
+    "home", 
+    "contractor", 
+    "general", 
+    "residential", 
+    "family", 
+    "mortgage", 
+    "business", 
+    "club", 
+    "construction", 
+    "customer", 
+    "golf", 
+    "land", 
+    "lessor", 
+    "management", 
+    "nonresidential", 
+    "property", 
+    "real"
+  ], 
   "wof:brand_name": "US Home", 
   "wof:brand_id": 1125158887
 }

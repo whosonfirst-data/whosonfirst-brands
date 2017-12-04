@@ -1,6 +1,17 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400640, 
+  "wof:lastmodified": 1512414511, 
+  "wof:tags": [
+    "pizza", 
+    "eating", 
+    "american", 
+    "italian", 
+    "barbeque", 
+    "grocery", 
+    "out", 
+    "retail", 
+    "sandwich"
+  ], 
   "wof:brand_name": "Giovanni's Pizza", 
   "wof:brand_id": 1125154999
 }

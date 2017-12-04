@@ -1,6 +1,21 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399924, 
+  "wof:lastmodified": 1512414503, 
+  "wof:tags": [
+    "births", 
+    "death", 
+    "marriage", 
+    "local", 
+    "birth", 
+    "registration", 
+    "contractor", 
+    "disposal", 
+    "heating", 
+    "housing", 
+    "retail", 
+    "sheltered", 
+    "waste"
+  ], 
   "wof:brand_name": "Registration of Births Deaths & Marriages", 
   "wof:brand_id": 1125151195
 }

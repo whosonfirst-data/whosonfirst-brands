@@ -1,6 +1,25 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399900, 
+  "wof:lastmodified": 1512414466, 
+  "wof:tags": [
+    "home", 
+    "mobile", 
+    "park", 
+    "site", 
+    "mfg", 
+    "contractor", 
+    "equipment", 
+    "handling", 
+    "housing", 
+    "industrial", 
+    "material", 
+    "operates", 
+    "pallet", 
+    "program", 
+    "rack", 
+    "sub", 
+    "telemarketing"
+  ], 
   "wof:brand_name": "CMH", 
   "wof:brand_id": 1125152853
 }

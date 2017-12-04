@@ -1,6 +1,18 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400582, 
+  "wof:lastmodified": 1512414478, 
+  "wof:tags": [
+    "physician", 
+    "surgeon", 
+    "medical", 
+    "surgeons", 
+    "urology", 
+    "urologist", 
+    "clinic", 
+    "osteopathic", 
+    "pediatrics", 
+    "surgery-general"
+  ], 
   "wof:brand_name": "Urology Associates", 
   "wof:brand_id": 1125157291
 }

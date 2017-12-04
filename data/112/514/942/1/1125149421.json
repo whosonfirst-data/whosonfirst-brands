@@ -1,6 +1,21 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400704, 
+  "wof:lastmodified": 1512414553, 
+  "wof:tags": [
+    "pizza", 
+    "american", 
+    "californian", 
+    "sandwich", 
+    "pasta", 
+    "salad", 
+    "soup", 
+    "italian", 
+    "take", 
+    "new", 
+    "mexican", 
+    "eating", 
+    "traditional"
+  ], 
   "wof:brand_name": "California Pizza Kitchen", 
   "wof:brand_id": 1125149421
 }

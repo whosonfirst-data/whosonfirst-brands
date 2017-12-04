@@ -1,6 +1,15 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400591, 
+  "wof:lastmodified": 1512414483, 
+  "wof:tags": [
+    "membership", 
+    "fraternal", 
+    "carrier", 
+    "club", 
+    "lodging", 
+    "operation", 
+    "organization"
+  ], 
   "wof:brand_name": "Independent Order Odd Fellows", 
   "wof:brand_id": 1125156095
 }

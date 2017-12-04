@@ -1,6 +1,29 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400654, 
+  "wof:lastmodified": 1512414520, 
+  "wof:tags": [
+    "oil", 
+    "station", 
+    "gasoline", 
+    "automotive", 
+    "automobile", 
+    "general", 
+    "mfg", 
+    "petroleum", 
+    "product", 
+    "repair", 
+    "repairing", 
+    "equipment", 
+    "establishment", 
+    "gas", 
+    "grocery", 
+    "industrial", 
+    "machinery", 
+    "shop", 
+    "stampings", 
+    "tool", 
+    "wood"
+  ], 
   "wof:brand_name": "Arco", 
   "wof:brand_id": 1125153841
 }

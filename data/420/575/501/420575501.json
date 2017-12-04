@@ -1,6 +1,11 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399885, 
+  "wof:lastmodified": 1512414451, 
+  "wof:tags": [
+    "banking", 
+    "commercial", 
+    "institution"
+  ], 
   "wof:brand_name": "Credit Lyonnais", 
   "wof:brand_id": 420575501
 }

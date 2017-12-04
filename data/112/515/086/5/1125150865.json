@@ -1,6 +1,17 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399935, 
+  "wof:lastmodified": 1512414512, 
+  "wof:tags": [
+    "broker", 
+    "buyer", 
+    "manager", 
+    "management", 
+    "agency", 
+    "commercial", 
+    "consultant", 
+    "firm", 
+    "residential"
+  ], 
   "wof:brand_name": "Long & Foster Realtors", 
   "wof:brand_id": 1125150865
 }

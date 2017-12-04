@@ -1,6 +1,20 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400567, 
+  "wof:lastmodified": 1512414469, 
+  "wof:tags": [
+    "county", 
+    "executive", 
+    "clerk", 
+    "general", 
+    "administrative", 
+    "attorney", 
+    "election", 
+    "governmental", 
+    "law", 
+    "license", 
+    "record", 
+    "registration"
+  ], 
   "wof:brand_name": "County Clerk", 
   "wof:brand_id": 1125156945
 }

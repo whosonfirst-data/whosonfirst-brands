@@ -1,6 +1,30 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400564, 
+  "wof:lastmodified": 1512414467, 
+  "wof:tags": [
+    "citizen", 
+    "senior", 
+    "organization", 
+    "counseling", 
+    "executive", 
+    "family", 
+    "center", 
+    "individual", 
+    "government-county", 
+    "parish", 
+    "social", 
+    "welfare", 
+    "assn", 
+    "business", 
+    "club", 
+    "eating", 
+    "government-city", 
+    "membership", 
+    "party", 
+    "sport", 
+    "township", 
+    "village"
+  ], 
   "wof:brand_name": "Senior Citizens Center", 
   "wof:brand_id": 1125154085
 }

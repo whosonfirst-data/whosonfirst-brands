@@ -1,6 +1,25 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400685, 
+  "wof:lastmodified": 1512414540, 
+  "wof:tags": [
+    "resource", 
+    "state", 
+    "county", 
+    "product", 
+    "social", 
+    "annuity", 
+    "benefit", 
+    "employee", 
+    "food", 
+    "organization", 
+    "pension", 
+    "plan", 
+    "profit", 
+    "retirement", 
+    "sharing", 
+    "stamp", 
+    "welfare"
+  ], 
   "wof:brand_name": "Food Stamps", 
   "wof:brand_id": 1125162241
 }

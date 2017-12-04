@@ -1,6 +1,25 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399922, 
+  "wof:lastmodified": 1512414500, 
+  "wof:tags": [
+    "super", 
+    "grocer", 
+    "establishment", 
+    "gasoline", 
+    "supermarket", 
+    "station", 
+    "alcoholic", 
+    "beer", 
+    "cards", 
+    "coin", 
+    "consignment", 
+    "craft", 
+    "greeting", 
+    "laundry", 
+    "merchandise", 
+    "shop", 
+    "wine"
+  ], 
   "wof:brand_name": "Stop & Shop", 
   "wof:brand_id": 1125150493
 }

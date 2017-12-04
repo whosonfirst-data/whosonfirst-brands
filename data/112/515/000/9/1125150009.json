@@ -1,6 +1,35 @@
 {
   "wof:brand_name": "Church of Jesus Christ of Latter-Day Saints", 
   "wof:brand_id": 1125150009, 
+  "wof:tags": [
+    "church", 
+    "christ", 
+    "churches-church", 
+    "jesus", 
+    "latter-day", 
+    "saint", 
+    "clergy", 
+    "academic", 
+    "camp", 
+    "center", 
+    "counseling", 
+    "counselor", 
+    "dealer", 
+    "information", 
+    "interest", 
+    "mission", 
+    "opportunity", 
+    "organization", 
+    "place", 
+    "pregnancy", 
+    "public", 
+    "relations", 
+    "school", 
+    "special", 
+    "village", 
+    "worship", 
+    "youth"
+  ], 
   "wof:supersedes": [
     1125156719, 
     1125154517, 
@@ -9,6 +38,6 @@
     1125162183
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512143837, 
+  "wof:lastmodified": 1512414511, 
   "mz:is_current": 1
 }

@@ -1,10 +1,22 @@
 {
   "wof:brand_name": "Bank of the West", 
   "wof:brand_id": 1125150603, 
+  "wof:tags": [
+    "commercial", 
+    "saving", 
+    "loan", 
+    "financial", 
+    "financing", 
+    "security", 
+    "broker", 
+    "mortgage", 
+    "real estate", 
+    "state"
+  ], 
   "wof:supersedes": [
     420575383
   ], 
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1512143786, 
+  "wof:lastmodified": 1512414508, 
   "mz:is_current": 1
 }

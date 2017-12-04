@@ -1,6 +1,28 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400572, 
+  "wof:lastmodified": 1512414472, 
+  "wof:tags": [
+    "shop", 
+    "decor", 
+    "craft", 
+    "jewelry", 
+    "art", 
+    "community", 
+    "development", 
+    "emergency", 
+    "gift", 
+    "relief", 
+    "book", 
+    "dealer", 
+    "flower", 
+    "gallery", 
+    "grocery", 
+    "hobby", 
+    "interior", 
+    "model", 
+    "store", 
+    "supply"
+  ], 
   "wof:brand_name": "Ten Thousand Villages", 
   "wof:brand_id": 1125157083
 }

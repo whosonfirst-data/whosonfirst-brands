@@ -1,6 +1,27 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400585, 
+  "wof:lastmodified": 1512414480, 
+  "wof:tags": [
+    "product", 
+    "baker", 
+    "mfg", 
+    "bakery", 
+    "retail", 
+    "bakers-wholesale", 
+    "bread", 
+    "baked", 
+    "grocery", 
+    "arrangement", 
+    "baking", 
+    "cake", 
+    "depot", 
+    "flour", 
+    "hostess", 
+    "prepared", 
+    "store", 
+    "thrift", 
+    "wonder"
+  ], 
   "wof:brand_name": "Wonder Bread", 
   "wof:brand_id": 1125158425
 }

@@ -1,6 +1,28 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400511, 
+  "wof:lastmodified": 1512414448, 
+  "wof:tags": [
+    "operation", 
+    "lodging", 
+    "eating", 
+    "inn", 
+    "accommodation", 
+    "business", 
+    "a", 
+    "consulting", 
+    "drinking", 
+    "franchised", 
+    "ho", 
+    "hr", 
+    "management", 
+    "operates", 
+    "operations", 
+    "personal", 
+    "petrol", 
+    "photo", 
+    "reservation", 
+    "unit"
+  ], 
   "wof:brand_name": "Travelodge", 
   "wof:brand_id": 420575219
 }

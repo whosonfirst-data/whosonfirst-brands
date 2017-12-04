@@ -1,6 +1,21 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400514, 
+  "wof:lastmodified": 1512414449, 
+  "wof:tags": [
+    "operation", 
+    "lodging", 
+    "inn", 
+    "reservation", 
+    "hotel", 
+    "motel", 
+    "apartment", 
+    "building", 
+    "business", 
+    "lessor", 
+    "membership", 
+    "motor", 
+    "operator"
+  ], 
   "wof:brand_name": "Economy Inn", 
   "wof:brand_id": 420575921
 }

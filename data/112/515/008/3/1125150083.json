@@ -1,6 +1,25 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399912, 
+  "wof:lastmodified": 1512414492, 
+  "wof:tags": [
+    "dentist", 
+    "clinic", 
+    "dental", 
+    "orthodontist", 
+    "trainer", 
+    "coupon", 
+    "dentistry", 
+    "dentists-cosmetic", 
+    "dentists-pediatric", 
+    "information", 
+    "laboratory", 
+    "medical", 
+    "oral", 
+    "physician", 
+    "referral", 
+    "surgeons", 
+    "surgery"
+  ], 
   "wof:brand_name": "Family Dental Care", 
   "wof:brand_id": 1125150083
 }

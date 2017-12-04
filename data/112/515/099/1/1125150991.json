@@ -1,6 +1,29 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399943, 
+  "wof:lastmodified": 1512414536, 
+  "wof:tags": [
+    "local", 
+    "housing", 
+    "sheltered", 
+    "authority", 
+    "accomodation", 
+    "centre", 
+    "interest", 
+    "leisure", 
+    "recreation", 
+    "residential", 
+    "book", 
+    "cemetery", 
+    "club", 
+    "course", 
+    "crematorium", 
+    "function", 
+    "hire", 
+    "playgroups", 
+    "pre-school", 
+    "rest", 
+    "room"
+  ], 
   "wof:brand_name": "Wakefield Metropolitan District Council", 
   "wof:brand_id": 1125150991
 }

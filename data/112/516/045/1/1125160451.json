@@ -1,6 +1,18 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400688, 
+  "wof:lastmodified": 1512414542, 
+  "wof:tags": [
+    "physician", 
+    "surgeon", 
+    "medical", 
+    "cardiology", 
+    "surgeons", 
+    "cardiovascular", 
+    "group", 
+    "surgery", 
+    "thoracic", 
+    "transcription"
+  ], 
   "wof:brand_name": "Cardiovascular Consultants", 
   "wof:brand_id": 1125160451
 }

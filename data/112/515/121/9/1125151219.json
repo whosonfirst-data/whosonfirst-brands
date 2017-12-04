@@ -1,6 +1,21 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399928, 
+  "wof:lastmodified": 1512414505, 
+  "wof:tags": [
+    "electric", 
+    "equipment", 
+    "supply", 
+    "contractor", 
+    "consumer", 
+    "equipment-testing", 
+    "manufacturer", 
+    "supplies-wholesale", 
+    "appliances-small", 
+    "electrician", 
+    "electronic", 
+    "major", 
+    "store"
+  ], 
   "wof:brand_name": "Graybar Electric Co", 
   "wof:brand_id": 1125151219
 }

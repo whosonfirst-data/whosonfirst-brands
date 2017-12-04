@@ -1,6 +1,26 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400692, 
+  "wof:lastmodified": 1512414545, 
+  "wof:tags": [
+    "yogurt", 
+    "frozen", 
+    "dessert", 
+    "boutique", 
+    "-", 
+    "product", 
+    "cream", 
+    "do-it-yourself", 
+    "espresso", 
+    "greengrocer", 
+    "ice", 
+    "language", 
+    "parlor", 
+    "restaurant", 
+    "school", 
+    "shop", 
+    "take", 
+    "wholesale"
+  ], 
   "wof:brand_name": "Tutti Frutti", 
   "wof:brand_id": 1125162055
 }

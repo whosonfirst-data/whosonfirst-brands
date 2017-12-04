@@ -1,6 +1,21 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400650, 
+  "wof:lastmodified": 1512414517, 
+  "wof:tags": [
+    "equipment", 
+    "installation", 
+    "mfg", 
+    "elevator", 
+    "building", 
+    "industrial", 
+    "repair", 
+    "sales", 
+    "control", 
+    "elevator-consultants", 
+    "inspector", 
+    "maintenance", 
+    "modernization"
+  ], 
   "wof:brand_name": "Schindler", 
   "wof:brand_id": 1125155427
 }

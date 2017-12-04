@@ -1,6 +1,21 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400610, 
+  "wof:lastmodified": 1512414495, 
+  "wof:tags": [
+    "delivery", 
+    "air", 
+    "cargo", 
+    "shipping", 
+    "packaging", 
+    "courier", 
+    "agent", 
+    "forwarder", 
+    "mailing", 
+    "broker", 
+    "mail", 
+    "trucking", 
+    "vehicular"
+  ], 
   "wof:brand_name": "Unishippers Association", 
   "wof:brand_id": 1125157287
 }

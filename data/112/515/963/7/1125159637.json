@@ -1,6 +1,22 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400597, 
+  "wof:lastmodified": 1512414488, 
+  "wof:tags": [
+    "physician", 
+    "surgeon", 
+    "medical", 
+    "orthopedist", 
+    "surgeons", 
+    "orthopedic", 
+    "orthopedics", 
+    "pediatrics-orthopedic", 
+    "surgery", 
+    "clinic", 
+    "medicine", 
+    "pediatrics", 
+    "pediatrics-emergency", 
+    "trainer"
+  ], 
   "wof:brand_name": "Orthopedic Associates", 
   "wof:brand_id": 1125159637
 }

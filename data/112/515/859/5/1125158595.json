@@ -1,6 +1,23 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400675, 
+  "wof:lastmodified": 1512414533, 
+  "wof:tags": [
+    "courier", 
+    "agent", 
+    "shipping", 
+    "packaging", 
+    "material", 
+    "air", 
+    "broker", 
+    "cargo", 
+    "custom", 
+    "facsimile", 
+    "forwarding", 
+    "furniture", 
+    "removal", 
+    "transmission", 
+    "transport"
+  ], 
   "wof:brand_name": "Pack & Send", 
   "wof:brand_id": 1125158595
 }

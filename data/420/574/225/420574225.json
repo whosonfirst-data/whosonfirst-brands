@@ -1,6 +1,18 @@
 {
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399889, 
+  "wof:lastmodified": 1512414455, 
+  "wof:tags": [
+    "grocer", 
+    "super", 
+    "delicatessen", 
+    "florist", 
+    "store", 
+    "supermarket", 
+    "sandwich", 
+    "chain", 
+    "deli", 
+    "product"
+  ], 
   "wof:brand_name": "Food Lion", 
   "wof:brand_id": 420574225
 }

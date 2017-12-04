@@ -1,6 +1,13 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400609, 
+  "wof:lastmodified": 1512414494, 
+  "wof:tags": [
+    "trucking", 
+    "local", 
+    "operator", 
+    "postal", 
+    "us"
+  ], 
   "wof:brand_name": "National Rural Letter Car", 
   "wof:brand_id": 1125159627
 }

@@ -1,6 +1,17 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400580, 
+  "wof:lastmodified": 1512414477, 
+  "wof:tags": [
+    "state", 
+    "loan", 
+    "mortgage", 
+    "commercial", 
+    "saving", 
+    "banking", 
+    "business", 
+    "internet", 
+    "trust"
+  ], 
   "wof:brand_name": "Hancock Bank", 
   "wof:brand_id": 1125154051
 }

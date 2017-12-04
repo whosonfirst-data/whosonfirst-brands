@@ -1,6 +1,26 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399940, 
+  "wof:lastmodified": 1512414516, 
+  "wof:tags": [
+    "automobile", 
+    "automotive", 
+    "repairing", 
+    "general", 
+    "oil", 
+    "lubrication", 
+    "lube", 
+    "tune", 
+    "brake", 
+    "change", 
+    "tire", 
+    "up", 
+    "check", 
+    "operator", 
+    "repair", 
+    "shop", 
+    "smog", 
+    "trucking"
+  ], 
   "wof:brand_name": "Express Oil Change", 
   "wof:brand_id": 1125151261
 }

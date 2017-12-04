@@ -1,6 +1,21 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399948, 
+  "wof:lastmodified": 1512414522, 
+  "wof:tags": [
+    "consultant", 
+    "designer", 
+    "semiconductor", 
+    "devices", 
+    "dealer", 
+    "developer", 
+    "equipment", 
+    "establishment", 
+    "internet", 
+    "optical", 
+    "publisher", 
+    "related", 
+    "software"
+  ], 
   "wof:brand_name": "Intel Corp", 
   "wof:brand_id": 1125151791
 }

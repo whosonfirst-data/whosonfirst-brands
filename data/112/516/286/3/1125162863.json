@@ -1,6 +1,24 @@
 {
   "wof:brand_size": "S", 
-  "wof:lastmodified": 1511401659, 
+  "wof:lastmodified": 1512414538, 
+  "wof:tags": [
+    "car", 
+    "guard", 
+    "help", 
+    "system", 
+    "supply", 
+    "agency", 
+    "company", 
+    "consulting", 
+    "employee", 
+    "employment", 
+    "leasing", 
+    "management", 
+    "patrol", 
+    "se", 
+    "security", 
+    "temporary"
+  ], 
   "wof:brand_name": "Wackenhut Corporation", 
   "wof:brand_id": 1125162863
 }

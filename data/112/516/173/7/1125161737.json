@@ -1,6 +1,27 @@
 {
   "wof:brand_size": "S", 
-  "wof:lastmodified": 1511401663, 
+  "wof:lastmodified": 1512414548, 
+  "wof:tags": [
+    "american", 
+    "sandwich", 
+    "wrap", 
+    "eating", 
+    "caterer", 
+    "new", 
+    "californian", 
+    "breakfast", 
+    "brunch", 
+    "cafeteria", 
+    "delicatessen", 
+    "espresso", 
+    "french", 
+    "lunch", 
+    "mexican", 
+    "pizza", 
+    "salad", 
+    "soup", 
+    "traditional"
+  ], 
   "wof:brand_name": "Camille's Sidewalk Cafe", 
   "wof:brand_id": 1125161737
 }

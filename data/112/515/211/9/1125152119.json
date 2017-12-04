@@ -1,6 +1,31 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399900, 
+  "wof:lastmodified": 1512414466, 
+  "wof:tags": [
+    "grocer", 
+    "market", 
+    "gasoline", 
+    "station", 
+    "grocery", 
+    "shop", 
+    "delicatessen", 
+    "seafood", 
+    "store", 
+    "american", 
+    "baker", 
+    "convenience", 
+    "diet", 
+    "flower", 
+    "front", 
+    "goo", 
+    "gourmet", 
+    "grocers-specialty", 
+    "health", 
+    "sporting", 
+    "super", 
+    "supermarket", 
+    "veggie"
+  ], 
   "wof:brand_name": "Village Market", 
   "wof:brand_id": 1125152119
 }

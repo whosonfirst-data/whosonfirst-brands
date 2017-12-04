@@ -1,6 +1,13 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400693, 
+  "wof:lastmodified": 1512414546, 
+  "wof:tags": [
+    "assessor", 
+    "claim", 
+    "solicitor", 
+    "direct", 
+    "product"
+  ], 
   "wof:brand_name": "Claims Direct", 
   "wof:brand_id": 1125162191
 }

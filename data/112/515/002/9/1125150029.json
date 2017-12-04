@@ -1,6 +1,12 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399904, 
+  "wof:lastmodified": 1512414487, 
+  "wof:tags": [
+    "pizza", 
+    "american", 
+    "italian", 
+    "eating"
+  ], 
   "wof:brand_name": "Simple Simon's Pizza", 
   "wof:brand_id": 1125150029
 }

@@ -1,6 +1,15 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400605, 
+  "wof:lastmodified": 1512414492, 
+  "wof:tags": [
+    "breakfast", 
+    "brunch", 
+    "greek", 
+    "grocer", 
+    "lunch", 
+    "mediterranean", 
+    "mexican"
+  ], 
   "wof:brand_name": "El Greco", 
   "wof:brand_id": 1125158975
 }

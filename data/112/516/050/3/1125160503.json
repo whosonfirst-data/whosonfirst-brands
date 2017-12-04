@@ -1,6 +1,25 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400703, 
+  "wof:lastmodified": 1512414552, 
+  "wof:tags": [
+    "store", 
+    "wear", 
+    "apparel", 
+    "athletic", 
+    "accessory", 
+    "footwear", 
+    "merchandise", 
+    "racing", 
+    "sporting", 
+    "sportswear", 
+    "clothing", 
+    "fitness", 
+    "gear", 
+    "instruction", 
+    "outdoor", 
+    "retailer", 
+    "running"
+  ], 
   "wof:brand_name": "Fleet Feet Sports", 
   "wof:brand_id": 1125160503
 }

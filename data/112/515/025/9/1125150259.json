@@ -1,6 +1,27 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399928, 
+  "wof:lastmodified": 1512414505, 
+  "wof:tags": [
+    "gasoline", 
+    "station", 
+    "grocer", 
+    "grocery", 
+    "oil", 
+    "store", 
+    "alcoholic", 
+    "bulk", 
+    "convenience", 
+    "petroleum", 
+    "product", 
+    "beer", 
+    "broker", 
+    "eating", 
+    "filling", 
+    "gas", 
+    "produce", 
+    "which", 
+    "wine"
+  ], 
   "wof:brand_name": "Express Mart", 
   "wof:brand_id": 1125150259
 }

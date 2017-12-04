@@ -1,6 +1,26 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400616, 
+  "wof:lastmodified": 1512414498, 
+  "wof:tags": [
+    "video", 
+    "tape", 
+    "disc", 
+    "leasing", 
+    "game", 
+    "cassette", 
+    "library", 
+    "dvd", 
+    "dvds-rental", 
+    "equipment", 
+    "sale", 
+    "player", 
+    "recorder", 
+    "rent", 
+    "rental", 
+    "store", 
+    "tv", 
+    "variety"
+  ], 
   "wof:brand_name": "Video Express", 
   "wof:brand_id": 1125156875
 }

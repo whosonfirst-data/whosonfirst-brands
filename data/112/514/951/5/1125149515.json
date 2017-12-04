@@ -1,6 +1,19 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400719, 
+  "wof:lastmodified": 1512414560, 
+  "wof:tags": [
+    "pizza", 
+    "italian", 
+    "american", 
+    "bar", 
+    "grill", 
+    "take", 
+    "eating", 
+    "diner", 
+    "mexican", 
+    "new", 
+    "traditional"
+  ], 
   "wof:brand_name": "Uno Chicago Grill", 
   "wof:brand_id": 1125149515
 }

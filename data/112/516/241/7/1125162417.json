@@ -1,6 +1,12 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400687, 
+  "wof:lastmodified": 1512414541, 
+  "wof:tags": [
+    "station", 
+    "gas", 
+    "gasoline", 
+    "oil"
+  ], 
   "wof:brand_name": "Stop N Save", 
   "wof:brand_id": 1125162417
 }

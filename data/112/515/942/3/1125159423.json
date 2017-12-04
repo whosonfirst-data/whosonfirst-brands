@@ -1,6 +1,13 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400566, 
+  "wof:lastmodified": 1512414468, 
+  "wof:tags": [
+    "chemist", 
+    "pharmacist", 
+    "greengrocer", 
+    "newsagent", 
+    "wedding"
+  ], 
   "wof:brand_name": "United Norwest Co-Operatives Ltd.", 
   "wof:brand_id": 1125159423
 }

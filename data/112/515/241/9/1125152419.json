@@ -1,6 +1,20 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399897, 
+  "wof:lastmodified": 1512414480, 
+  "wof:tags": [
+    "apartment", 
+    "building", 
+    "rental", 
+    "listing", 
+    "vacancy", 
+    "finder", 
+    "manager", 
+    "agency", 
+    "complex", 
+    "investor", 
+    "nonresidential", 
+    "personal"
+  ], 
   "wof:brand_name": "Park Place Apartments", 
   "wof:brand_id": 1125152419
 }

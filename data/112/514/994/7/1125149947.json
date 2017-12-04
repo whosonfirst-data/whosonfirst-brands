@@ -1,6 +1,17 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400711, 
+  "wof:lastmodified": 1512414557, 
+  "wof:tags": [
+    "sandwich", 
+    "american", 
+    "caterer", 
+    "delicatessen", 
+    "health", 
+    "salad", 
+    "shop", 
+    "soup", 
+    "vegetarian"
+  ], 
   "wof:brand_name": "Mr Sub", 
   "wof:brand_id": 1125149947
 }

@@ -1,11 +1,35 @@
 {
   "wof:brand_name": "Borders", 
   "wof:brand_id": 1125149407, 
+  "wof:tags": [
+    "dealer", 
+    "music", 
+    "bookstore", 
+    "store", 
+    "hotspot", 
+    "wi-fi", 
+    "video", 
+    "magazine", 
+    "espresso", 
+    "restaurant", 
+    "shop", 
+    "dvd's", 
+    "books", 
+    "mags", 
+    "game", 
+    "book", 
+    "disc", 
+    "leasing", 
+    "mfg", 
+    "rental", 
+    "tape", 
+    "wholesale"
+  ], 
   "wof:supersedes": [
     1125151825, 
     1125154285
   ], 
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1512143873, 
+  "wof:lastmodified": 1512414562, 
   "mz:is_current": 1
 }

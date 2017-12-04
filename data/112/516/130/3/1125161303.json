@@ -1,6 +1,24 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400685, 
+  "wof:lastmodified": 1512414539, 
+  "wof:tags": [
+    "maintenance", 
+    "marking", 
+    "parking", 
+    "executive", 
+    "body", 
+    "legislative", 
+    "street", 
+    "city", 
+    "collection", 
+    "dept", 
+    "garage", 
+    "government-city", 
+    "govt", 
+    "township", 
+    "transportation", 
+    "village"
+  ], 
   "wof:brand_name": "Street Dept", 
   "wof:brand_id": 1125161303
 }

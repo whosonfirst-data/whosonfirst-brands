@@ -1,6 +1,24 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400609, 
+  "wof:lastmodified": 1512414494, 
+  "wof:tags": [
+    "association", 
+    "community", 
+    "contractor", 
+    "crop", 
+    "facility", 
+    "fitness", 
+    "fraternal", 
+    "general", 
+    "house", 
+    "lodging", 
+    "management", 
+    "membership", 
+    "operation", 
+    "physical", 
+    "social", 
+    "trust"
+  ], 
   "wof:brand_name": "Ancient Free & Accepted M", 
   "wof:brand_id": 1125155335
 }

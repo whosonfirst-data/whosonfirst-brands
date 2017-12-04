@@ -1,6 +1,15 @@
 {
   "wof:brand_size": "S", 
-  "wof:lastmodified": 1511400684, 
+  "wof:lastmodified": 1512414539, 
+  "wof:tags": [
+    "automobile", 
+    "repairing", 
+    "smog", 
+    "check", 
+    "lubrication", 
+    "diagnostic", 
+    "tune"
+  ], 
   "wof:brand_name": "Tuneup Masters", 
   "wof:brand_id": 1125162843
 }

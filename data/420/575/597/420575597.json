@@ -1,6 +1,12 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400501, 
+  "wof:lastmodified": 1512414444, 
+  "wof:tags": [
+    "department", 
+    "optician", 
+    "pharmacy", 
+    "store"
+  ], 
   "wof:brand_name": "Zellers", 
   "wof:brand_id": 420575597
 }

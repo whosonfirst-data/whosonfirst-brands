@@ -1,6 +1,14 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400568, 
+  "wof:lastmodified": 1512414469, 
+  "wof:tags": [
+    "drugstore", 
+    "drug", 
+    "store", 
+    "care", 
+    "health", 
+    "home"
+  ], 
   "wof:brand_name": "Family Pharmacy", 
   "wof:brand_id": 1125158089
 }

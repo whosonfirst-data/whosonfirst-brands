@@ -1,6 +1,16 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399899, 
+  "wof:lastmodified": 1512414482, 
+  "wof:tags": [
+    "consultant", 
+    "agency", 
+    "bureau", 
+    "agent", 
+    "accessory", 
+    "airline", 
+    "ticket", 
+    "travel"
+  ], 
   "wof:brand_name": "STA Travel", 
   "wof:brand_id": 1125153413
 }

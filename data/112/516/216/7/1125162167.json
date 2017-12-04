@@ -1,6 +1,23 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400685, 
+  "wof:lastmodified": 1512414540, 
+  "wof:tags": [
+    "body", 
+    "automotive", 
+    "automobile", 
+    "painting", 
+    "shop", 
+    "repairing", 
+    "collision", 
+    "general", 
+    "auto", 
+    "camper", 
+    "frame", 
+    "major", 
+    "paint", 
+    "patent", 
+    "tire"
+  ], 
   "wof:brand_name": "Carstar", 
   "wof:brand_id": 1125162167
 }

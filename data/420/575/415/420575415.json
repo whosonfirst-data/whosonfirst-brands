@@ -1,6 +1,27 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400513, 
+  "wof:lastmodified": 1512414449, 
+  "wof:tags": [
+    "clinic", 
+    "physician", 
+    "surgeon", 
+    "dialysis", 
+    "center", 
+    "kidney", 
+    "equipment", 
+    "artificial", 
+    "care", 
+    "health", 
+    "home", 
+    "medical", 
+    "building", 
+    "group", 
+    "instruction", 
+    "marketing", 
+    "nonresidential", 
+    "operator", 
+    "program"
+  ], 
   "wof:brand_name": "Gambro Healthcare", 
   "wof:brand_id": 420575415
 }

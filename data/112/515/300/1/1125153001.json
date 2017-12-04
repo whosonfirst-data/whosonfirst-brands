@@ -1,6 +1,15 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511401651, 
+  "wof:lastmodified": 1512414510, 
+  "wof:tags": [
+    "oil", 
+    "spirit", 
+    "energy", 
+    "industrial", 
+    "merchant", 
+    "petrol", 
+    "utilities"
+  ], 
   "wof:brand_name": "BP Oil", 
   "wof:brand_id": 1125153001
 }

@@ -1,6 +1,21 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400511, 
+  "wof:lastmodified": 1512414448, 
+  "wof:tags": [
+    "clothing", 
+    "merchandise", 
+    "cellular", 
+    "equipment", 
+    "optical", 
+    "super", 
+    "telephone", 
+    "tire", 
+    "laboratory", 
+    "drugstore", 
+    "passenger", 
+    "photo", 
+    "photography"
+  ], 
   "wof:brand_name": "Walmart", 
   "wof:brand_id": 420575293
 }

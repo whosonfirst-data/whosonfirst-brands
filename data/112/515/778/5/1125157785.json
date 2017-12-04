@@ -1,6 +1,30 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400629, 
+  "wof:lastmodified": 1512414504, 
+  "wof:tags": [
+    "plan", 
+    "medical", 
+    "benefit", 
+    "employee", 
+    "carrier", 
+    "surgical", 
+    "hospitalization", 
+    "care", 
+    "hospital", 
+    "business", 
+    "commercial", 
+    "broker", 
+    "carrie", 
+    "clinic", 
+    "company", 
+    "datum", 
+    "delivery", 
+    "disability", 
+    "life", 
+    "managed", 
+    "provider", 
+    "sales"
+  ], 
   "wof:brand_name": "Blue Cross", 
   "wof:brand_id": 1125157785
 }

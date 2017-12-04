@@ -1,6 +1,20 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400654, 
+  "wof:lastmodified": 1512414519, 
+  "wof:tags": [
+    "espresso", 
+    "sandwich", 
+    "doughnut", 
+    "breakfast", 
+    "brunch", 
+    "shop", 
+    "lunch", 
+    "coffee", 
+    "restaurant", 
+    "tea", 
+    "donut", 
+    "eating"
+  ], 
   "wof:brand_name": "Tim Horton's", 
   "wof:brand_id": 1125155191
 }

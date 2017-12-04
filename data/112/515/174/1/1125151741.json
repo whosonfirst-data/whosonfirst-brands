@@ -1,6 +1,24 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399943, 
+  "wof:lastmodified": 1512414536, 
+  "wof:tags": [
+    "contractor", 
+    "heater", 
+    "sewer", 
+    "water", 
+    "cleaning", 
+    "plumbing-drain", 
+    "plumber", 
+    "excavation", 
+    "consultant", 
+    "drain", 
+    "septic", 
+    "systems-cleaning", 
+    "tank", 
+    "contractors-commercial", 
+    "industrial", 
+    "repair"
+  ], 
   "wof:brand_name": "Roto-Rooter Plumbing & Drain Services", 
   "wof:brand_id": 1125151741
 }

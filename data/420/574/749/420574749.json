@@ -1,6 +1,32 @@
 {
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399889, 
+  "wof:lastmodified": 1512414455, 
+  "wof:tags": [
+    "protection", 
+    "department", 
+    "consultant", 
+    "dept", 
+    "county", 
+    "fire", 
+    "executive", 
+    "government-city", 
+    "township", 
+    "village", 
+    "general", 
+    "borough", 
+    "business", 
+    "center", 
+    "company", 
+    "eating", 
+    "forestry", 
+    "housing", 
+    "municipal", 
+    "program", 
+    "safety", 
+    "station", 
+    "vol", 
+    "volunteer"
+  ], 
   "wof:brand_name": "Fire Dept", 
   "wof:brand_id": 420574749
 }

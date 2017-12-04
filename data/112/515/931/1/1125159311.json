@@ -1,6 +1,24 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400593, 
+  "wof:lastmodified": 1512414485, 
+  "wof:tags": [
+    "oil", 
+    "gasoline", 
+    "station", 
+    "convenience", 
+    "grocery", 
+    "store", 
+    "beer", 
+    "car", 
+    "construction", 
+    "facsimile", 
+    "filling", 
+    "home", 
+    "house", 
+    "mobile", 
+    "transmission", 
+    "wash"
+  ], 
   "wof:brand_name": "Mobil Mart", 
   "wof:brand_id": 1125159311
 }

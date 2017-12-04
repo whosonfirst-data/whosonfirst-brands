@@ -1,6 +1,16 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400508, 
+  "wof:lastmodified": 1512414447, 
+  "wof:tags": [
+    "wine", 
+    "beer", 
+    "spirit", 
+    "wines", 
+    "alcoholic", 
+    "winery", 
+    "store", 
+    "liquor"
+  ], 
   "wof:brand_name": "Wine Rack", 
   "wof:brand_id": 420575871
 }

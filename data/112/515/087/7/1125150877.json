@@ -1,6 +1,20 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399900, 
+  "wof:lastmodified": 1512414466, 
+  "wof:tags": [
+    "inventory", 
+    "computer", 
+    "computing", 
+    "management", 
+    "consulting", 
+    "datum", 
+    "bus", 
+    "check", 
+    "control", 
+    "counting", 
+    "take", 
+    "validation"
+  ], 
   "wof:brand_name": "R G I S Inventory Specialists", 
   "wof:brand_id": 1125150877
 }

@@ -1,6 +1,15 @@
 {
   "wof:brand_size": "S", 
-  "wof:lastmodified": 1511400698, 
+  "wof:lastmodified": 1512414549, 
+  "wof:tags": [
+    "grocer", 
+    "food", 
+    "broker", 
+    "product", 
+    "facility", 
+    "party", 
+    "supply"
+  ], 
   "wof:brand_name": "Gordon Food Svc", 
   "wof:brand_id": 1125162645
 }

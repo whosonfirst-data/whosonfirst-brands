@@ -1,10 +1,28 @@
 {
   "wof:brand_name": "Guess", 
   "wof:brand_id": 1125156405, 
+  "wof:tags": [
+    "clothing", 
+    "women's", 
+    "accessory", 
+    "store", 
+    "men's", 
+    "apparel", 
+    "child", 
+    "wear", 
+    "children's", 
+    "designer", 
+    "family", 
+    "outlet", 
+    "boy", 
+    "casual", 
+    "infant", 
+    "sportswear"
+  ], 
   "wof:supersedes": [
     1125155251
   ], 
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1512143784, 
+  "wof:lastmodified": 1512414485, 
   "mz:is_current": 1
 }

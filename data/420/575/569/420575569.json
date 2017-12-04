@@ -1,6 +1,28 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400503, 
+  "wof:lastmodified": 1512414444, 
+  "wof:tags": [
+    "video", 
+    "tape", 
+    "leasing", 
+    "disc", 
+    "game", 
+    "dvds-rental", 
+    "sale", 
+    "dvd", 
+    "games-renting", 
+    "cassette", 
+    "store", 
+    "duplication", 
+    "group", 
+    "instrument", 
+    "musical", 
+    "player", 
+    "recorder", 
+    "taping", 
+    "trailer", 
+    "utility"
+  ], 
   "wof:brand_name": "Family Video", 
   "wof:brand_id": 420575569
 }

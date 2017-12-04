@@ -1,6 +1,31 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399929, 
+  "wof:lastmodified": 1512414506, 
+  "wof:tags": [
+    "resource", 
+    "state", 
+    "child", 
+    "support", 
+    "enforcement", 
+    "county", 
+    "consultant", 
+    "human", 
+    "administrative", 
+    "program", 
+    "government-united", 
+    "organization", 
+    "welfare", 
+    "administration", 
+    "agency", 
+    "day", 
+    "enforce", 
+    "establishment", 
+    "government-state", 
+    "govt", 
+    "health", 
+    "justice", 
+    "system"
+  ], 
   "wof:brand_name": "Child Support Enforcement", 
   "wof:brand_id": 1125150769
 }

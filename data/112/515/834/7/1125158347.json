@@ -1,6 +1,18 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400638, 
+  "wof:lastmodified": 1512414509, 
+  "wof:tags": [
+    "cellular", 
+    "telephone", 
+    "equipment", 
+    "supply", 
+    "paging", 
+    "signaling", 
+    "system", 
+    "telecommunication", 
+    "telecommunications-equipment", 
+    "wireless"
+  ], 
   "wof:brand_name": "Metro Pcs", 
   "wof:brand_id": 1125158347
 }

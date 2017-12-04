@@ -1,6 +1,20 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400586, 
+  "wof:lastmodified": 1512414480, 
+  "wof:tags": [
+    "commercial", 
+    "apartment", 
+    "building", 
+    "lending", 
+    "loan", 
+    "agent", 
+    "asset", 
+    "based", 
+    "branch", 
+    "company", 
+    "foreign", 
+    "lender"
+  ], 
   "wof:brand_name": "National Bank of Canada", 
   "wof:brand_id": 1125156279
 }

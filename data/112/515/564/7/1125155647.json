@@ -1,6 +1,27 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400637, 
+  "wof:lastmodified": 1512414508, 
+  "wof:tags": [
+    "physician", 
+    "surgeon", 
+    "hospital", 
+    "drinking", 
+    "merchandise", 
+    "agency", 
+    "american", 
+    "cigar", 
+    "cigarette", 
+    "dealer", 
+    "diner", 
+    "eating", 
+    "general", 
+    "maneges", 
+    "planning", 
+    "retirement", 
+    "technical", 
+    "used", 
+    "writing"
+  ], 
   "wof:brand_name": "Pegasus", 
   "wof:brand_id": 1125155647
 }

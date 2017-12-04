@@ -1,6 +1,20 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400592, 
+  "wof:lastmodified": 1512414484, 
+  "wof:tags": [
+    "mfg", 
+    "home", 
+    "mobile", 
+    "prefab", 
+    "builder", 
+    "manufactured", 
+    "prefabricated", 
+    "house", 
+    "housing", 
+    "metal", 
+    "repair", 
+    "wood"
+  ], 
   "wof:brand_name": "Fleetwood Homes", 
   "wof:brand_id": 1125156569
 }

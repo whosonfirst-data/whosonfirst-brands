@@ -1,6 +1,25 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400615, 
+  "wof:lastmodified": 1512414497, 
+  "wof:tags": [
+    "pet", 
+    "grooming", 
+    "washing", 
+    "shop", 
+    "sitting", 
+    "food", 
+    "merchandise", 
+    "boarding", 
+    "boarding/pet", 
+    "cat", 
+    "dog", 
+    "groomers", 
+    "store", 
+    "supply", 
+    "furnishing", 
+    "pets", 
+    "veterinarian"
+  ], 
   "wof:brand_name": "Paws & Claws", 
   "wof:brand_id": 1125158377
 }

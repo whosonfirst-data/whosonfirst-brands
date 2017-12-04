@@ -1,6 +1,26 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400684, 
+  "wof:lastmodified": 1512414539, 
+  "wof:tags": [
+    "accessory", 
+    "apparel", 
+    "consultant", 
+    "decorator", 
+    "design", 
+    "hair", 
+    "interior", 
+    "jewelry", 
+    "lingerie", 
+    "shop", 
+    "women's", 
+    "clothing", 
+    "en", 
+    "engraver", 
+    "gift", 
+    "shoes", 
+    "stylist", 
+    "tricotage"
+  ], 
   "wof:brand_name": "Style", 
   "wof:brand_id": 1125161305
 }

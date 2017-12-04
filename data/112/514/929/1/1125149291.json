@@ -1,6 +1,19 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400715, 
+  "wof:lastmodified": 1512414560, 
+  "wof:tags": [
+    "agency", 
+    "bureau", 
+    "cruise", 
+    "book", 
+    "consignment", 
+    "operator", 
+    "passenger", 
+    "related", 
+    "shop", 
+    "tour", 
+    "water"
+  ], 
   "wof:brand_name": "Cruise One", 
   "wof:brand_id": 1125149291
 }

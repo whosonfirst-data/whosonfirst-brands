@@ -1,6 +1,26 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400662, 
+  "wof:lastmodified": 1512414525, 
+  "wof:tags": [
+    "plan", 
+    "maintenance", 
+    "medical", 
+    "hospitalization", 
+    "surgical", 
+    "management", 
+    "consulting", 
+    "hospital", 
+    "physician", 
+    "surgeon", 
+    "doctor", 
+    "engineering", 
+    "general", 
+    "help", 
+    "lab", 
+    "supply", 
+    "system", 
+    "warehouse"
+  ], 
   "wof:brand_name": "Kaiser Foundation Health Plan", 
   "wof:brand_id": 1125156769
 }

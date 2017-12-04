@@ -1,6 +1,15 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400565, 
+  "wof:lastmodified": 1512414468, 
+  "wof:tags": [
+    "cellular", 
+    "telephone", 
+    "merchandise", 
+    "communication", 
+    "radiotelephone", 
+    "equipment", 
+    "system"
+  ], 
   "wof:brand_name": "Wireless Retail", 
   "wof:brand_id": 1125154581
 }

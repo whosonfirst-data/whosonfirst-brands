@@ -1,6 +1,21 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399907, 
+  "wof:lastmodified": 1512414472, 
+  "wof:tags": [
+    "physician", 
+    "surgeon", 
+    "medical", 
+    "pediatrics", 
+    "surgeons", 
+    "medicine", 
+    "pediatrics-emergency", 
+    "clinic", 
+    "pediatrician", 
+    "establishment", 
+    "family", 
+    "pediatrics-allergy", 
+    "practice"
+  ], 
   "wof:brand_name": "Pediatric Associates", 
   "wof:brand_id": 1125153327
 }

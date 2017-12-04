@@ -1,6 +1,12 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400545, 
+  "wof:lastmodified": 1512414460, 
+  "wof:tags": [
+    "banking", 
+    "finance", 
+    "institution", 
+    "insurance"
+  ], 
   "wof:brand_name": "Commerzbank Ag", 
   "wof:brand_id": 420574121
 }

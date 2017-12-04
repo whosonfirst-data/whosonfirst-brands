@@ -1,6 +1,21 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400685, 
+  "wof:lastmodified": 1512414540, 
+  "wof:tags": [
+    "fitness", 
+    "physical", 
+    "facility", 
+    "health", 
+    "club", 
+    "gymnasium", 
+    "studio", 
+    "center", 
+    "program", 
+    "centre", 
+    "membership", 
+    "shop", 
+    "trainer"
+  ], 
   "wof:brand_name": "Golds Gym", 
   "wof:brand_id": 1125160199
 }

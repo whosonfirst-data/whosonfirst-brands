@@ -1,6 +1,17 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400733, 
+  "wof:lastmodified": 1512414563, 
+  "wof:tags": [
+    "american", 
+    "soup", 
+    "salad", 
+    "creperies", 
+    "juice", 
+    "sandwich", 
+    "smoothy", 
+    "traditional", 
+    "wrap"
+  ], 
   "wof:brand_name": "Soup Man", 
   "wof:brand_id": 1125148947
 }

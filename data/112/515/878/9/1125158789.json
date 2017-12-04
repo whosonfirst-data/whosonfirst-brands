@@ -1,6 +1,27 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400681, 
+  "wof:lastmodified": 1512414537, 
+  "wof:tags": [
+    "college", 
+    "technical", 
+    "trade", 
+    "elementary", 
+    "high", 
+    "middle", 
+    "school", 
+    "business", 
+    "educational", 
+    "industrial", 
+    "institute", 
+    "specialty", 
+    "academic", 
+    "degree", 
+    "oriented", 
+    "program", 
+    "technology", 
+    "training", 
+    "university"
+  ], 
   "wof:brand_name": "ITT Technical Institute", 
   "wof:brand_id": 1125158789
 }

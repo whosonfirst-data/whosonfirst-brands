@@ -1,6 +1,27 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400619, 
+  "wof:lastmodified": 1512414499, 
+  "wof:tags": [
+    "ambulance", 
+    "passenger", 
+    "village", 
+    "administration", 
+    "administrative", 
+    "church", 
+    "consultant", 
+    "convalescent", 
+    "county", 
+    "executive", 
+    "health", 
+    "home", 
+    "local", 
+    "medical", 
+    "place", 
+    "program", 
+    "public", 
+    "transportation", 
+    "worship"
+  ], 
   "wof:brand_name": "Ambulance Service", 
   "wof:brand_id": 1125156695
 }

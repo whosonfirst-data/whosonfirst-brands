@@ -1,6 +1,29 @@
 {
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399888, 
+  "wof:lastmodified": 1512414453, 
+  "wof:tags": [
+    "shop", 
+    "merchandise", 
+    "department", 
+    "discount", 
+    "business", 
+    "store", 
+    "decor", 
+    "general", 
+    "grocery", 
+    "buyer", 
+    "card", 
+    "center", 
+    "drugstore", 
+    "establishment", 
+    "flooring", 
+    "flower", 
+    "hardware", 
+    "home", 
+    "resident", 
+    "sport", 
+    "used"
+  ], 
   "wof:brand_name": "Big Lots", 
   "wof:brand_id": 420573955
 }

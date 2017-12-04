@@ -1,6 +1,25 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400649, 
+  "wof:lastmodified": 1512414516, 
+  "wof:tags": [
+    "clinic", 
+    "physician", 
+    "surgeon", 
+    "occupational", 
+    "medical", 
+    "safety", 
+    "surgeons", 
+    "therapist", 
+    "assistant", 
+    "medicine", 
+    "physical", 
+    "detection", 
+    "drug", 
+    "equipment", 
+    "family", 
+    "practice", 
+    "psychiatry"
+  ], 
   "wof:brand_name": "Concentra Medical Ctr", 
   "wof:brand_id": 1125156377
 }

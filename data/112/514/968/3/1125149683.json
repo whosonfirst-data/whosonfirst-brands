@@ -1,6 +1,15 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400733, 
+  "wof:lastmodified": 1512414563, 
+  "wof:tags": [
+    "elementary", 
+    "high", 
+    "middle", 
+    "adult", 
+    "board", 
+    "day", 
+    "education"
+  ], 
   "wof:brand_name": "Detroit Public Schools", 
   "wof:brand_id": 1125149683
 }

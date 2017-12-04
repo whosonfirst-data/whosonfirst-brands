@@ -1,6 +1,20 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400690, 
+  "wof:lastmodified": 1512414543, 
+  "wof:tags": [
+    "pet", 
+    "sitting", 
+    "boarding", 
+    "boarding/pet", 
+    "animal", 
+    "care", 
+    "exercising", 
+    "home", 
+    "kennel", 
+    "mill", 
+    "specialty", 
+    "store"
+  ], 
   "wof:brand_name": "Critter Sitters", 
   "wof:brand_id": 1125161773
 }

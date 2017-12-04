@@ -1,6 +1,12 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400698, 
+  "wof:lastmodified": 1512414549, 
+  "wof:tags": [
+    "hospital", 
+    "pharmaceutical", 
+    "product", 
+    "drugstore"
+  ], 
   "wof:brand_name": "Neighbor Care Pharmacy", 
   "wof:brand_id": 1125161913
 }

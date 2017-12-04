@@ -1,6 +1,32 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400692, 
+  "wof:lastmodified": 1512414545, 
+  "wof:tags": [
+    "party", 
+    "planning", 
+    "recreation", 
+    "event", 
+    "centre", 
+    "laser", 
+    "leisure", 
+    "tag", 
+    "amusement", 
+    "bureau", 
+    "facility", 
+    "arcade", 
+    "arena", 
+    "attraction", 
+    "club", 
+    "combat", 
+    "equipment", 
+    "game", 
+    "membership", 
+    "personal", 
+    "ride", 
+    "software", 
+    "store", 
+    "supply"
+  ], 
   "wof:brand_name": "Laser Quest", 
   "wof:brand_id": 1125160885
 }

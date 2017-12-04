@@ -1,6 +1,21 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399921, 
+  "wof:lastmodified": 1512414499, 
+  "wof:tags": [
+    "support", 
+    "building", 
+    "management", 
+    "nonresidential", 
+    "broker", 
+    "buyer", 
+    "establishment", 
+    "parks", 
+    "property", 
+    "apartment", 
+    "business", 
+    "consultant", 
+    "maintenance"
+  ], 
   "wof:brand_name": "Trammell Crow Co", 
   "wof:brand_id": 1125152501
 }

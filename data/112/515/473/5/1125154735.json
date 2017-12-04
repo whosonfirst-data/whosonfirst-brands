@@ -1,6 +1,25 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400592, 
+  "wof:lastmodified": 1512414484, 
+  "wof:tags": [
+    "trucking", 
+    "operator", 
+    "local", 
+    "company", 
+    "carrier", 
+    "distance", 
+    "long", 
+    "common", 
+    "courier", 
+    "delivery", 
+    "air", 
+    "scheduled", 
+    "terminal", 
+    "truck", 
+    "arrangement", 
+    "facility", 
+    "forwarder"
+  ], 
   "wof:brand_name": "Fedex Freight East Inc", 
   "wof:brand_id": 1125154735
 }

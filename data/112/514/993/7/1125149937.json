@@ -1,6 +1,30 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399973, 
+  "wof:lastmodified": 1512414554, 
+  "wof:tags": [
+    "american", 
+    "sandwich", 
+    "pastry", 
+    "espresso", 
+    "shop", 
+    "take", 
+    "bakery", 
+    "french", 
+    "eating", 
+    "breakfast", 
+    "brunch", 
+    "cafe", 
+    "caterer", 
+    "dessert", 
+    "diner", 
+    "mfg", 
+    "outlet", 
+    "restaurant", 
+    "room", 
+    "soup", 
+    "tea", 
+    "wrap"
+  ], 
   "wof:brand_name": "Au Bon Pain", 
   "wof:brand_id": 1125149937
 }

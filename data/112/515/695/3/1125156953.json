@@ -1,6 +1,17 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400668, 
+  "wof:lastmodified": 1512414528, 
+  "wof:tags": [
+    "accountant", 
+    "consultant", 
+    "business", 
+    "taxation", 
+    "architectural", 
+    "designer", 
+    "developer", 
+    "engineer", 
+    "financing"
+  ], 
   "wof:brand_name": "Deloitte", 
   "wof:brand_id": 1125156953
 }

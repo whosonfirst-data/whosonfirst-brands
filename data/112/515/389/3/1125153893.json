@@ -1,6 +1,27 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400642, 
+  "wof:lastmodified": 1512414512, 
+  "wof:tags": [
+    "local", 
+    "authority", 
+    "centre", 
+    "organisation", 
+    "care", 
+    "residential", 
+    "book", 
+    "charity", 
+    "product", 
+    "voluntary", 
+    "concert", 
+    "creche", 
+    "hall", 
+    "housing", 
+    "modelling", 
+    "nursery", 
+    "practitioners", 
+    "sheltered", 
+    "theatre"
+  ], 
   "wof:brand_name": "Nottinghamshire County Council", 
   "wof:brand_id": 1125153893
 }

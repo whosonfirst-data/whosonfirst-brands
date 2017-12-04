@@ -1,6 +1,11 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400503, 
+  "wof:lastmodified": 1512414445, 
+  "wof:tags": [
+    "beer", 
+    "spirit", 
+    "wines"
+  ], 
   "wof:brand_name": "Thresher Wine Shop", 
   "wof:brand_id": 420575623
 }

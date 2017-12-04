@@ -1,6 +1,11 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400576, 
+  "wof:lastmodified": 1512414474, 
+  "wof:tags": [
+    "probation", 
+    "general", 
+    "legal"
+  ], 
   "wof:brand_name": "US Probation & Parole Office", 
   "wof:brand_id": 1125156499
 }

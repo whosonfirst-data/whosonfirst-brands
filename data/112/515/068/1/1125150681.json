@@ -1,6 +1,24 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399935, 
+  "wof:lastmodified": 1512414512, 
+  "wof:tags": [
+    "asian", 
+    "american", 
+    "italian", 
+    "chinese", 
+    "japanese", 
+    "salad", 
+    "soup", 
+    "thai", 
+    "bar", 
+    "noodle", 
+    "pan", 
+    "fusion", 
+    "new", 
+    "mediterranean", 
+    "traditional", 
+    "greek"
+  ], 
   "wof:brand_name": "Noodles & Company", 
   "wof:brand_id": 1125150681
 }

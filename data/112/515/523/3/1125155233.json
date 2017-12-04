@@ -1,6 +1,15 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400649, 
+  "wof:lastmodified": 1512414516, 
+  "wof:tags": [
+    "automobile", 
+    "parts", 
+    "oil", 
+    "car", 
+    "grocer", 
+    "polishing", 
+    "washing"
+  ], 
   "wof:brand_name": "Canadian Tire Gas Bar", 
   "wof:brand_id": 1125155233
 }

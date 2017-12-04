@@ -1,6 +1,14 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400674, 
+  "wof:lastmodified": 1512414532, 
+  "wof:tags": [
+    "grocer", 
+    "drugstore", 
+    "maneges", 
+    "store", 
+    "super", 
+    "warehouse"
+  ], 
   "wof:brand_name": "Meijer", 
   "wof:brand_id": 1125153883
 }

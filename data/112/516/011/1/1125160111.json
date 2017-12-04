@@ -1,6 +1,25 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400693, 
+  "wof:lastmodified": 1512414546, 
+  "wof:tags": [
+    "apartment", 
+    "operation", 
+    "lodging", 
+    "banquet", 
+    "corporate", 
+    "facility", 
+    "hall", 
+    "hotels-apartment", 
+    "reception", 
+    "executive", 
+    "extended", 
+    "inn", 
+    "management", 
+    "ownership", 
+    "stay", 
+    "suite", 
+    "venue"
+  ], 
   "wof:brand_name": "Candlewood Suites", 
   "wof:brand_id": 1125160111
 }

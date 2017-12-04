@@ -1,6 +1,26 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399919, 
+  "wof:lastmodified": 1512414497, 
+  "wof:tags": [
+    "home", 
+    "care", 
+    "nurse", 
+    "registry", 
+    "help", 
+    "contractor", 
+    "agency", 
+    "employment", 
+    "temporary", 
+    "supply", 
+    "eldercare-home", 
+    "assistant", 
+    "opportunity", 
+    "physician", 
+    "consultant", 
+    "establishment", 
+    "health", 
+    "nursing"
+  ], 
   "wof:brand_name": "Nursefinders", 
   "wof:brand_id": 1125151319
 }

@@ -1,6 +1,32 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400517, 
+  "wof:lastmodified": 1512414451, 
+  "wof:tags": [
+    "counsel", 
+    "legal", 
+    "state", 
+    "county", 
+    "attorney", 
+    "district", 
+    "executive", 
+    "justice", 
+    "prosecution", 
+    "city", 
+    "protection", 
+    "administrative", 
+    "consultant", 
+    "consulting", 
+    "general", 
+    "information", 
+    "laboratory", 
+    "lecturing", 
+    "order", 
+    "practice", 
+    "program", 
+    "referral", 
+    "safety", 
+    "system"
+  ], 
   "wof:brand_name": "District Attorney", 
   "wof:brand_id": 420575305
 }

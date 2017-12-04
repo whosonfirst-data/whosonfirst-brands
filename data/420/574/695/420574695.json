@@ -1,6 +1,20 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400554, 
+  "wof:lastmodified": 1512414463, 
+  "wof:tags": [
+    "cellular", 
+    "telephone", 
+    "communications", 
+    "communication", 
+    "company", 
+    "contractor", 
+    "equipment", 
+    "local", 
+    "painting", 
+    "radiotelephone", 
+    "telecommunication", 
+    "wireless"
+  ], 
   "wof:brand_name": "Sprint PCS", 
   "wof:brand_id": 420574695
 }

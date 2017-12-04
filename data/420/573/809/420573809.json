@@ -1,11 +1,29 @@
 {
   "wof:brand_name": "Payless Shoe Source", 
   "wof:brand_id": 420573809, 
+  "wof:tags": [
+    "store", 
+    "shoe", 
+    "accessory", 
+    "women's", 
+    "family", 
+    "footwear", 
+    "establishment", 
+    "shoes", 
+    "commercial", 
+    "equipment", 
+    "fabric", 
+    "handbag", 
+    "legal", 
+    "orthopedic", 
+    "repair", 
+    "show"
+  ], 
   "wof:supersedes": [
     420574205, 
     1125149567
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512143251, 
+  "wof:lastmodified": 1512414454, 
   "mz:is_current": 1
 }

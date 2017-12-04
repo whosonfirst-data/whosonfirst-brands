@@ -1,6 +1,14 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399943, 
+  "wof:lastmodified": 1512414536, 
+  "wof:tags": [
+    "pizza", 
+    "american", 
+    "italian", 
+    "sandwich", 
+    "shop", 
+    "eating"
+  ], 
   "wof:brand_name": "Papa Gino's", 
   "wof:brand_id": 1125150249
 }

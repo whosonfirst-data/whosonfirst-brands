@@ -1,6 +1,28 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400698, 
+  "wof:lastmodified": 1512414548, 
+  "wof:tags": [
+    "family", 
+    "planning", 
+    "centre", 
+    "clinic", 
+    "center", 
+    "outpatient", 
+    "specialty", 
+    "information", 
+    "medical", 
+    "administrative", 
+    "beauty", 
+    "care", 
+    "child", 
+    "consultant", 
+    "day", 
+    "health", 
+    "physician", 
+    "private", 
+    "program", 
+    "surgeon"
+  ], 
   "wof:brand_name": "Family Planning Clinic", 
   "wof:brand_id": 1125161815
 }

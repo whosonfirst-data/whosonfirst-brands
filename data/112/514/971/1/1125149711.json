@@ -1,6 +1,26 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400704, 
+  "wof:lastmodified": 1512414553, 
+  "wof:tags": [
+    "american", 
+    "deli", 
+    "sandwich", 
+    "delicatessen", 
+    "family", 
+    "shop", 
+    "style", 
+    "take", 
+    "eating", 
+    "caterer", 
+    "grocery", 
+    "pasta", 
+    "salad", 
+    "soup", 
+    "dessert", 
+    "traditional", 
+    "vegetarian", 
+    "wrap"
+  ], 
   "wof:brand_name": "Jason's Deli", 
   "wof:brand_id": 1125149711
 }

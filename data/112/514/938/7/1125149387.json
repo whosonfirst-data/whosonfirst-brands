@@ -1,6 +1,23 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400704, 
+  "wof:lastmodified": 1512414553, 
+  "wof:tags": [
+    "sandwich", 
+    "american", 
+    "salad", 
+    "soup", 
+    "wrap", 
+    "box", 
+    "breakfast", 
+    "brunch", 
+    "espresso", 
+    "lunch", 
+    "shop", 
+    "pastry", 
+    "diner", 
+    "contractor", 
+    "plumbing"
+  ], 
   "wof:brand_name": "Bruegger's", 
   "wof:brand_id": 1125149387
 }

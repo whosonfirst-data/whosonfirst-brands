@@ -1,6 +1,17 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399909, 
+  "wof:lastmodified": 1512414490, 
+  "wof:tags": [
+    "equipment", 
+    "agent", 
+    "automobile", 
+    "batching", 
+    "broker", 
+    "car", 
+    "motion", 
+    "racing", 
+    "repair"
+  ], 
   "wof:brand_name": "TPS", 
   "wof:brand_id": 1125150725
 }

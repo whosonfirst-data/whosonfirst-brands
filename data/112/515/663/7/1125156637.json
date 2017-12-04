@@ -1,6 +1,17 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400619, 
+  "wof:lastmodified": 1512414500, 
+  "wof:tags": [
+    "program", 
+    "state", 
+    "clinic", 
+    "government", 
+    "government-state", 
+    "physical", 
+    "rehab", 
+    "rehabilitation", 
+    "therapist"
+  ], 
   "wof:brand_name": "Rehabilitation Service", 
   "wof:brand_id": 1125156637
 }

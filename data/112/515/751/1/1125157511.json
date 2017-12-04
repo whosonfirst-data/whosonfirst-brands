@@ -1,6 +1,32 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400564, 
+  "wof:lastmodified": 1512414467, 
+  "wof:tags": [
+    "eating", 
+    "breakfast", 
+    "brunch", 
+    "espresso", 
+    "american", 
+    "room", 
+    "shop", 
+    "tea", 
+    "lunch", 
+    "sandwich", 
+    "traditional", 
+    "bakery", 
+    "bar", 
+    "burger", 
+    "cafeteria", 
+    "coffee", 
+    "delicatessen", 
+    "diner", 
+    "event", 
+    "health", 
+    "party", 
+    "planning", 
+    "retail", 
+    "snack"
+  ], 
   "wof:brand_name": "Sunrise Cafe", 
   "wof:brand_id": 1125157511
 }

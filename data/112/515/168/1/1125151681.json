@@ -1,6 +1,23 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399950, 
+  "wof:lastmodified": 1512414524, 
+  "wof:tags": [
+    "cashing", 
+    "check", 
+    "banking", 
+    "depository", 
+    "loan", 
+    "box", 
+    "broker", 
+    "institution", 
+    "jeweler", 
+    "mail", 
+    "money", 
+    "order", 
+    "personal", 
+    "postal", 
+    "ticket"
+  ], 
   "wof:brand_name": "Cashland", 
   "wof:brand_id": 1125151681
 }

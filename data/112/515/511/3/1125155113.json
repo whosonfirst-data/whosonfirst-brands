@@ -1,6 +1,26 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400613, 
+  "wof:lastmodified": 1512414496, 
+  "wof:tags": [
+    "physician", 
+    "surgeon", 
+    "medical", 
+    "dermatologist", 
+    "dermatology", 
+    "surgeons", 
+    "cardiology", 
+    "day", 
+    "health", 
+    "pediatrics", 
+    "plastic", 
+    "reconstructive", 
+    "skin", 
+    "spa", 
+    "specialists", 
+    "surgery", 
+    "treatment", 
+    "vascular"
+  ], 
   "wof:brand_name": "Dermatology Associates", 
   "wof:brand_id": 1125155113
 }

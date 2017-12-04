@@ -1,6 +1,12 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400547, 
+  "wof:lastmodified": 1512414460, 
+  "wof:tags": [
+    "chemist", 
+    "pharmacist", 
+    "drug", 
+    "store"
+  ], 
   "wof:brand_name": "Moss Chemists", 
   "wof:brand_id": 420574825
 }

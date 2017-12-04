@@ -1,6 +1,17 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400619, 
+  "wof:lastmodified": 1512414500, 
+  "wof:tags": [
+    "inn", 
+    "pubs", 
+    "brewer", 
+    "centre", 
+    "disco", 
+    "leisure", 
+    "recreation", 
+    "room", 
+    "tea"
+  ], 
   "wof:brand_name": "Punch Leisure Ltd", 
   "wof:brand_id": 1125156631
 }

@@ -1,6 +1,24 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400585, 
+  "wof:lastmodified": 1512414479, 
+  "wof:tags": [
+    "video", 
+    "tape", 
+    "disc", 
+    "leasing", 
+    "cassette", 
+    "dvds-rental", 
+    "equipment", 
+    "sale", 
+    "durable", 
+    "dvd", 
+    "game", 
+    "good", 
+    "library", 
+    "repair", 
+    "security", 
+    "tap"
+  ], 
   "wof:brand_name": "Showtime Video", 
   "wof:brand_id": 1125158395
 }

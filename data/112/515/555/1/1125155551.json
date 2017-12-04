@@ -1,6 +1,26 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400661, 
+  "wof:lastmodified": 1512414524, 
+  "wof:tags": [
+    "video", 
+    "tape", 
+    "audio", 
+    "disc", 
+    "verhuur", 
+    "leasing", 
+    "library", 
+    "radio", 
+    "television", 
+    "cassette", 
+    "equipment", 
+    "game", 
+    "rental", 
+    "audio-visual", 
+    "computer", 
+    "editing", 
+    "motion", 
+    "picture"
+  ], 
   "wof:brand_name": "Video Vision", 
   "wof:brand_id": 1125155551
 }

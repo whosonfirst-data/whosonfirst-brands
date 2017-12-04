@@ -1,6 +1,12 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399880, 
+  "wof:lastmodified": 1512414444, 
+  "wof:tags": [
+    "banking", 
+    "finance", 
+    "institution", 
+    "insurance"
+  ], 
   "wof:brand_name": "Fortis Bank", 
   "wof:brand_id": 420575311
 }

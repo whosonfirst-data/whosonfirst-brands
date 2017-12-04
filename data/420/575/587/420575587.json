@@ -1,6 +1,13 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399886, 
+  "wof:lastmodified": 1512414451, 
+  "wof:tags": [
+    "state", 
+    "taxation", 
+    "department", 
+    "motor", 
+    "vehicle"
+  ], 
   "wof:brand_name": "Revenue Dept", 
   "wof:brand_id": 420575587
 }

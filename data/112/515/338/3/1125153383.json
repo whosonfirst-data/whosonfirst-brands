@@ -1,6 +1,30 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399906, 
+  "wof:lastmodified": 1512414488, 
+  "wof:tags": [
+    "plaza", 
+    "truck", 
+    "stops", 
+    "station", 
+    "gasoline", 
+    "eating", 
+    "center", 
+    "stop", 
+    "travel", 
+    "grocery", 
+    "agency", 
+    "convenience", 
+    "diesel", 
+    "fuel", 
+    "oil", 
+    "services-commercial", 
+    "store", 
+    "fix", 
+    "freight", 
+    "petroleum", 
+    "product", 
+    "real estate"
+  ], 
   "wof:brand_name": "Flying J Travel Plaza", 
   "wof:brand_id": 1125153383
 }

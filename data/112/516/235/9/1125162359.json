@@ -1,6 +1,21 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400702, 
+  "wof:lastmodified": 1512414551, 
+  "wof:tags": [
+    "pawnbroker", 
+    "jeweler", 
+    "merchandise", 
+    "used", 
+    "banner", 
+    "business", 
+    "flag", 
+    "gun", 
+    "gunsmith", 
+    "institution", 
+    "sporting", 
+    "store", 
+    "watch"
+  ], 
   "wof:brand_name": "Pawn Shop", 
   "wof:brand_id": 1125162359
 }

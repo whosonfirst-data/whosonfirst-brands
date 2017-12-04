@@ -1,6 +1,20 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399903, 
+  "wof:lastmodified": 1512414469, 
+  "wof:tags": [
+    "grocer", 
+    "supermarket", 
+    "super", 
+    "mfg", 
+    "product", 
+    "center", 
+    "chain", 
+    "drug", 
+    "drugstore", 
+    "grocery", 
+    "independent", 
+    "market"
+  ], 
   "wof:brand_name": "Food 4 Less", 
   "wof:brand_id": 1125150591
 }

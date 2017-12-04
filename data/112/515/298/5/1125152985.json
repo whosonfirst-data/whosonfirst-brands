@@ -1,6 +1,28 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399936, 
+  "wof:lastmodified": 1512414530, 
+  "wof:tags": [
+    "american", 
+    "greek", 
+    "mediterranean", 
+    "salad", 
+    "eastern", 
+    "middle", 
+    "soup", 
+    "sandwich", 
+    "pita", 
+    "wrap", 
+    "delicatessen", 
+    "gyro", 
+    "delivery", 
+    "juice", 
+    "smoothy", 
+    "take", 
+    "cheesesteaks", 
+    "hoagy", 
+    "shop", 
+    "vegetarian"
+  ], 
   "wof:brand_name": "The Pita Pit", 
   "wof:brand_id": 1125152985
 }

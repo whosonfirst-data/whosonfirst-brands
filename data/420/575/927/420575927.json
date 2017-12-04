@@ -1,6 +1,29 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400500, 
+  "wof:lastmodified": 1512414443, 
+  "wof:tags": [
+    "shop", 
+    "hair", 
+    "hairdresser", 
+    "stylist", 
+    "unisex", 
+    "barber", 
+    "equipment", 
+    "supply", 
+    "building", 
+    "establishment", 
+    "ladies", 
+    "lady", 
+    "make-up", 
+    "manufacturer", 
+    "nonresidential", 
+    "permanent", 
+    "salon", 
+    "salons-equipment", 
+    "solarium", 
+    "supplies-wholesale", 
+    "taxicab"
+  ], 
   "wof:brand_name": "Hair Gallery", 
   "wof:brand_id": 420575927
 }

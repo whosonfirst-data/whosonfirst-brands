@@ -1,6 +1,20 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400649, 
+  "wof:lastmodified": 1512414516, 
+  "wof:tags": [
+    "sandwich", 
+    "american", 
+    "salad", 
+    "soup", 
+    "wrap", 
+    "pastry", 
+    "caterer", 
+    "bakery", 
+    "breakfast", 
+    "brunch", 
+    "frozen", 
+    "yogurt"
+  ], 
   "wof:brand_name": "Corner Bakery", 
   "wof:brand_id": 1125158261
 }

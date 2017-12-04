@@ -1,6 +1,23 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399937, 
+  "wof:lastmodified": 1512414531, 
+  "wof:tags": [
+    "consultant", 
+    "communications", 
+    "carrier", 
+    "communication", 
+    "telecommunication", 
+    "automobile", 
+    "contractor", 
+    "electrical", 
+    "instrument", 
+    "marketing", 
+    "measuring", 
+    "mfg", 
+    "repairing", 
+    "tower", 
+    "wireless"
+  ], 
   "wof:brand_name": "Crown Communications", 
   "wof:brand_id": 1125153011
 }

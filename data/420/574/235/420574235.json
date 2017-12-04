@@ -1,10 +1,24 @@
 {
   "wof:brand_name": "Natural Resources Conservation", 
   "wof:brand_id": 420574235, 
+  "wof:tags": [
+    "federal", 
+    "county", 
+    "state", 
+    "conservation", 
+    "consultant", 
+    "energy", 
+    "soil", 
+    "agricultural", 
+    "environmental", 
+    "forester", 
+    "org", 
+    "product"
+  ], 
   "wof:supersedes": [
     1125153411
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512143717, 
+  "wof:lastmodified": 1512414463, 
   "mz:is_current": 1
 }

@@ -1,6 +1,31 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400587, 
+  "wof:lastmodified": 1512414481, 
+  "wof:tags": [
+    "product", 
+    "manufacturer", 
+    "processor", 
+    "frozen", 
+    "milling", 
+    "packer", 
+    "food", 
+    "cheese", 
+    "feed", 
+    "flour", 
+    "mills", 
+    "prepared", 
+    "prod", 
+    "bird", 
+    "broker", 
+    "butter", 
+    "canned", 
+    "creamery", 
+    "fruit", 
+    "grocer", 
+    "jobber", 
+    "potato", 
+    "specialty"
+  ], 
   "wof:brand_name": "Con Agra Foods", 
   "wof:brand_id": 1125157361
 }

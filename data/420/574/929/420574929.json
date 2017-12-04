@@ -1,6 +1,32 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400548, 
+  "wof:lastmodified": 1512414461, 
+  "wof:tags": [
+    "agency", 
+    "bureau", 
+    "club", 
+    "auto", 
+    "automobile", 
+    "homeowner", 
+    "business", 
+    "commercial", 
+    "recreational", 
+    "vehicle", 
+    "services-commercial", 
+    "cruise", 
+    "airline", 
+    "bond", 
+    "check", 
+    "crop", 
+    "general", 
+    "insurance", 
+    "smog", 
+    "ticket", 
+    "tour", 
+    "towing", 
+    "travel", 
+    "wrecker"
+  ], 
   "wof:brand_name": "AAA Insurance", 
   "wof:brand_id": 420574929
 }

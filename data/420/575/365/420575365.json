@@ -1,6 +1,28 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400510, 
+  "wof:lastmodified": 1512414448, 
+  "wof:tags": [
+    "local", 
+    "authority", 
+    "book", 
+    "centre", 
+    "creche", 
+    "leisure", 
+    "recreation", 
+    "adult", 
+    "badge", 
+    "builder", 
+    "care", 
+    "day", 
+    "emblem", 
+    "higher", 
+    "housing", 
+    "organisation", 
+    "residential", 
+    "school", 
+    "sheltered", 
+    "wholesale"
+  ], 
   "wof:brand_name": "Birmingham City Council", 
   "wof:brand_id": 420575365
 }

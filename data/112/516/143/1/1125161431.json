@@ -1,6 +1,21 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400693, 
+  "wof:lastmodified": 1512414545, 
+  "wof:tags": [
+    "coffee", 
+    "shop", 
+    "tea", 
+    "break", 
+    "caterer", 
+    "doughnut", 
+    "eating", 
+    "gourmet", 
+    "merchant", 
+    "room", 
+    "smoothy", 
+    "snack-bars", 
+    "supply"
+  ], 
   "wof:brand_name": "Coffee Time", 
   "wof:brand_id": 1125161431
 }

@@ -1,6 +1,21 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400697, 
+  "wof:lastmodified": 1512414548, 
+  "wof:tags": [
+    "truck", 
+    "equipment", 
+    "paper", 
+    "gasoline", 
+    "station", 
+    "agency", 
+    "automobile", 
+    "car", 
+    "general", 
+    "passenger", 
+    "rental", 
+    "tire", 
+    "used"
+  ], 
   "wof:brand_name": "Ryder Truck Rental One Way", 
   "wof:brand_id": 1125160305
 }

@@ -1,6 +1,27 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400514, 
+  "wof:lastmodified": 1512414449, 
+  "wof:tags": [
+    "postal", 
+    "us", 
+    "shipping", 
+    "mail", 
+    "state", 
+    "government-united", 
+    "computer", 
+    "custom", 
+    "legal", 
+    "mailbox-rental", 
+    "materials-shipping", 
+    "notary", 
+    "packaging", 
+    "packing", 
+    "programing", 
+    "receiving", 
+    "s", 
+    "u", 
+    "united"
+  ], 
   "wof:brand_name": "United States Postal Service", 
   "wof:brand_id": 420575173
 }

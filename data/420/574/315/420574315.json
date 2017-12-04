@@ -1,6 +1,12 @@
 {
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399892, 
+  "wof:lastmodified": 1512414458, 
+  "wof:tags": [
+    "postal", 
+    "equipment", 
+    "facsimile", 
+    "courier"
+  ], 
   "wof:brand_name": "Australia Post", 
   "wof:brand_id": 420574315
 }

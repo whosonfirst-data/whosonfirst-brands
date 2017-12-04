@@ -1,6 +1,29 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400652, 
+  "wof:lastmodified": 1512414518, 
+  "wof:tags": [
+    "car", 
+    "dealer", 
+    "used", 
+    "automobile", 
+    "cars-wholesale", 
+    "dealers-used", 
+    "body", 
+    "repairing", 
+    "garage", 
+    "general", 
+    "modification", 
+    "painting", 
+    "accessory", 
+    "alternator", 
+    "automotive", 
+    "establishment", 
+    "generator", 
+    "parts", 
+    "sales", 
+    "shop", 
+    "wrecker"
+  ], 
   "wof:brand_name": "Auto World", 
   "wof:brand_id": 1125156909
 }

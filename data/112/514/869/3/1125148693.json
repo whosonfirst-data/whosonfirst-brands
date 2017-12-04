@@ -1,12 +1,32 @@
 {
   "wof:brand_name": "Applebee's", 
   "wof:brand_id": 1125148693, 
+  "wof:tags": [
+    "american", 
+    "burger", 
+    "sandwich", 
+    "soup", 
+    "eating", 
+    "family", 
+    "bar", 
+    "grill", 
+    "style", 
+    "drinking", 
+    "traditional", 
+    "new", 
+    "nightlife", 
+    "diner", 
+    "outlet", 
+    "casual", 
+    "dining", 
+    "regional"
+  ], 
   "wof:supersedes": [
     1125150119, 
     1125149561, 
     1125152695
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512143842, 
+  "wof:lastmodified": 1512414554, 
   "mz:is_current": 1
 }

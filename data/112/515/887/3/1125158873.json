@@ -1,6 +1,20 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400630, 
+  "wof:lastmodified": 1512414505, 
+  "wof:tags": [
+    "market", 
+    "vitamin", 
+    "health", 
+    "supplement", 
+    "diet", 
+    "product", 
+    "medical", 
+    "drugstore", 
+    "food", 
+    "house", 
+    "mail", 
+    "supply"
+  ], 
   "wof:brand_name": "The Vitamin Shoppe", 
   "wof:brand_id": 1125158873
 }

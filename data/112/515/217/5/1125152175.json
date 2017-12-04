@@ -1,6 +1,15 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399948, 
+  "wof:lastmodified": 1512414522, 
+  "wof:tags": [
+    "shop", 
+    "coffee", 
+    "tea", 
+    "espresso", 
+    "hotspot", 
+    "restaurant", 
+    "wi-fi"
+  ], 
   "wof:brand_name": "The Coffee Bean & Tea Leaf", 
   "wof:brand_id": 1125152175
 }

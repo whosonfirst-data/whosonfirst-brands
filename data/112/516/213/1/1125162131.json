@@ -1,6 +1,11 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400688, 
+  "wof:lastmodified": 1512414542, 
+  "wof:tags": [
+    "software", 
+    "game", 
+    "video"
+  ], 
   "wof:brand_name": "Babbage's Etc", 
   "wof:brand_id": 1125162131
 }

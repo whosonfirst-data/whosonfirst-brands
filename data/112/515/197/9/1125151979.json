@@ -1,6 +1,28 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399910, 
+  "wof:lastmodified": 1512414491, 
+  "wof:tags": [
+    "house", 
+    "janitor", 
+    "help", 
+    "maintenance", 
+    "supply", 
+    "butler", 
+    "maid", 
+    "contractor", 
+    "butlers'", 
+    "clean", 
+    "cleaner", 
+    "cleaners", 
+    "cleaning-industrial", 
+    "consulting", 
+    "facility", 
+    "home", 
+    "janitorial", 
+    "maids'", 
+    "management", 
+    "room"
+  ], 
   "wof:brand_name": "Cleaning Authority", 
   "wof:brand_id": 1125151979
 }

@@ -1,6 +1,25 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400667, 
+  "wof:lastmodified": 1512414528, 
+  "wof:tags": [
+    "trucking", 
+    "operator", 
+    "common", 
+    "carrier", 
+    "interstate", 
+    "local", 
+    "distance", 
+    "long", 
+    "facility", 
+    "terminal", 
+    "truck", 
+    "company", 
+    "courier", 
+    "electric", 
+    "home", 
+    "mobile", 
+    "motor"
+  ], 
   "wof:brand_name": "Watkins Motor Lines Inc", 
   "wof:brand_id": 1125155075
 }

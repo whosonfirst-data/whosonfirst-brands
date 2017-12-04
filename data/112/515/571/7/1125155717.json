@@ -1,6 +1,26 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400657, 
+  "wof:lastmodified": 1512414521, 
+  "wof:tags": [
+    "center", 
+    "alley", 
+    "drinking", 
+    "air", 
+    "amusement", 
+    "bar", 
+    "courier", 
+    "ea", 
+    "eating", 
+    "fabricated", 
+    "lane", 
+    "mfg", 
+    "operator", 
+    "p", 
+    "postal", 
+    "product", 
+    "us", 
+    "wire"
+  ], 
   "wof:brand_name": "AMF", 
   "wof:brand_id": 1125155717
 }

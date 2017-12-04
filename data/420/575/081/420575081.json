@@ -1,6 +1,21 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400504, 
+  "wof:lastmodified": 1512414445, 
+  "wof:tags": [
+    "institution", 
+    "govt", 
+    "state", 
+    "correctional", 
+    "county", 
+    "facility", 
+    "center", 
+    "city", 
+    "executive", 
+    "government-state", 
+    "medical", 
+    "support", 
+    "surgical"
+  ], 
   "wof:brand_name": "Corrections Dept", 
   "wof:brand_id": 420575081
 }

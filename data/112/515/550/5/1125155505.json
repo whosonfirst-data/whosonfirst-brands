@@ -1,6 +1,26 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400610, 
+  "wof:lastmodified": 1512414495, 
+  "wof:tags": [
+    "organization", 
+    "center", 
+    "youth", 
+    "educational", 
+    "business", 
+    "service/non-profit", 
+    "community", 
+    "establishment", 
+    "consultant", 
+    "civic", 
+    "consulting", 
+    "employer", 
+    "membership", 
+    "public", 
+    "school", 
+    "social", 
+    "trade", 
+    "welfare"
+  ], 
   "wof:brand_name": "Junior Achievement", 
   "wof:brand_id": 1125155505
 }

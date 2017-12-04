@@ -1,6 +1,25 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400656, 
+  "wof:lastmodified": 1512414521, 
+  "wof:tags": [
+    "pizza", 
+    "away", 
+    "take", 
+    "dining", 
+    "wining", 
+    "american", 
+    "eating", 
+    "calzones", 
+    "italian", 
+    "out", 
+    "pasta", 
+    "pita", 
+    "salad", 
+    "sandwich", 
+    "takeaway", 
+    "wing", 
+    "wrap"
+  ], 
   "wof:brand_name": "Pizza Haven", 
   "wof:brand_id": 1125154135
 }

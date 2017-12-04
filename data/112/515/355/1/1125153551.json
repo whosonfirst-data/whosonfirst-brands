@@ -1,6 +1,15 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400588, 
+  "wof:lastmodified": 1512414482, 
+  "wof:tags": [
+    "baker", 
+    "bakery", 
+    "cookie", 
+    "prod", 
+    "bakers-wholesale", 
+    "food", 
+    "product"
+  ], 
   "wof:brand_name": "Sara Lee Bakery Group", 
   "wof:brand_id": 1125153551
 }

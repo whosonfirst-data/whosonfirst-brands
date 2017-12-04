@@ -1,6 +1,18 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400655, 
+  "wof:lastmodified": 1512414520, 
+  "wof:tags": [
+    "physician", 
+    "surgeon", 
+    "medical", 
+    "clinic", 
+    "family", 
+    "medicine", 
+    "practice", 
+    "surgeons", 
+    "gynecology", 
+    "obstetrics"
+  ], 
   "wof:brand_name": "Family Practice Assoc", 
   "wof:brand_id": 1125157385
 }

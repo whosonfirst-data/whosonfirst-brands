@@ -1,6 +1,27 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400693, 
+  "wof:lastmodified": 1512414546, 
+  "wof:tags": [
+    "automobile", 
+    "repairing", 
+    "car", 
+    "general", 
+    "body", 
+    "clean", 
+    "detail", 
+    "engineer", 
+    "motor", 
+    "repairer", 
+    "automotive", 
+    "carwash", 
+    "detailing", 
+    "engine", 
+    "painting", 
+    "polishing", 
+    "specialist", 
+    "valet", 
+    "washing"
+  ], 
   "wof:brand_name": "Car Care", 
   "wof:brand_id": 1125160115
 }

@@ -1,6 +1,22 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400593, 
+  "wof:lastmodified": 1512414485, 
+  "wof:tags": [
+    "management", 
+    "property", 
+    "park", 
+    "agent", 
+    "apartment", 
+    "broker", 
+    "builder", 
+    "buyer", 
+    "contractor", 
+    "dry wall", 
+    "home", 
+    "letting", 
+    "public", 
+    "warehouse"
+  ], 
   "wof:brand_name": "Premier Properties", 
   "wof:brand_id": 1125159337
 }

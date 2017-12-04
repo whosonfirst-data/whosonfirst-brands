@@ -1,6 +1,27 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400702, 
+  "wof:lastmodified": 1512414552, 
+  "wof:tags": [
+    "air", 
+    "scheduled", 
+    "airline", 
+    "ticket", 
+    "passenger", 
+    "company", 
+    "transportation", 
+    "airport", 
+    "arrangement", 
+    "aircraft", 
+    "municipal", 
+    "parts", 
+    "repair", 
+    "sales", 
+    "services", 
+    "shuttle", 
+    "terminal", 
+    "tourism", 
+    "travel"
+  ], 
   "wof:brand_name": "American Airlines Inc", 
   "wof:brand_id": 1125160413
 }

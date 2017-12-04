@@ -1,10 +1,23 @@
 {
   "wof:brand_name": "Duane Reade", 
   "wof:brand_id": 1125150123, 
+  "wof:tags": [
+    "drugstore", 
+    "photography", 
+    "store", 
+    "equipment", 
+    "finishing", 
+    "health", 
+    "hospital", 
+    "local", 
+    "medical", 
+    "photo", 
+    "supply"
+  ], 
   "wof:supersedes": [
     1125152395
   ], 
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1512143785, 
+  "wof:lastmodified": 1512414493, 
   "mz:is_current": 1
 }

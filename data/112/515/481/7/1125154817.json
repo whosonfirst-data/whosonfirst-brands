@@ -1,6 +1,22 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400602, 
+  "wof:lastmodified": 1512414491, 
+  "wof:tags": [
+    "scheduled", 
+    "ticket", 
+    "air", 
+    "airline", 
+    "arrangement", 
+    "passenger", 
+    "transportation", 
+    "airport", 
+    "shuttle", 
+    "tran", 
+    "aircraft", 
+    "operated", 
+    "operates", 
+    "repair"
+  ], 
   "wof:brand_name": "US Airways", 
   "wof:brand_id": 1125154817
 }

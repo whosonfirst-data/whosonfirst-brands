@@ -1,6 +1,11 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400601, 
+  "wof:lastmodified": 1512414490, 
+  "wof:tags": [
+    "driving", 
+    "instruction", 
+    "school"
+  ], 
   "wof:brand_name": "Young Drivers of Canada", 
   "wof:brand_id": 1125157539
 }

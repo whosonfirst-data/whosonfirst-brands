@@ -1,6 +1,18 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400653, 
+  "wof:lastmodified": 1512414519, 
+  "wof:tags": [
+    "cutlery", 
+    "kitchen", 
+    "housewares", 
+    "accessory", 
+    "bath", 
+    "cooking", 
+    "mail", 
+    "sales", 
+    "utensil", 
+    "ware"
+  ], 
   "wof:brand_name": "Cutco Cutlery", 
   "wof:brand_id": 1125156219
 }

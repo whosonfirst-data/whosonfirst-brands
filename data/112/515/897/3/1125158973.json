@@ -1,6 +1,17 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400605, 
+  "wof:lastmodified": 1512414492, 
+  "wof:tags": [
+    "institution", 
+    "commercial", 
+    "federal", 
+    "savings", 
+    "saving", 
+    "loan", 
+    "financial", 
+    "state", 
+    "association"
+  ], 
   "wof:brand_name": "Dollar Bank", 
   "wof:brand_id": 1125158973
 }

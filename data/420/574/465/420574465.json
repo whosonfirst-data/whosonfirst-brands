@@ -1,11 +1,40 @@
 {
   "wof:brand_name": "Toys R Us", 
   "wof:brand_id": 420574465, 
+  "wof:tags": [
+    "store", 
+    "toy", 
+    "wear", 
+    "video", 
+    "supply", 
+    "educational", 
+    "merchandise", 
+    "clothing", 
+    "general", 
+    "infant", 
+    "child", 
+    "accessory", 
+    "day", 
+    "house", 
+    "mfg", 
+    "baby", 
+    "center", 
+    "distribution", 
+    "doll", 
+    "electronic", 
+    "family", 
+    "furniture", 
+    "gift", 
+    "hobby", 
+    "mail", 
+    "shop", 
+    "special"
+  ], 
   "wof:supersedes": [
     1125161639, 
     1125149749
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512143554, 
+  "wof:lastmodified": 1512414457, 
   "mz:is_current": 1
 }

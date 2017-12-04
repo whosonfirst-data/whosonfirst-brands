@@ -1,11 +1,32 @@
 {
   "wof:brand_name": "Macy's", 
   "wof:brand_id": 420575351, 
+  "wof:tags": [
+    "store", 
+    "clothing", 
+    "women's", 
+    "cleaning", 
+    "furniture", 
+    "general", 
+    "men's", 
+    "beauty", 
+    "carpet", 
+    "center", 
+    "datum", 
+    "decor", 
+    "dept", 
+    "division", 
+    "establishment", 
+    "information", 
+    "planning", 
+    "shop", 
+    "warehousing"
+  ], 
   "wof:supersedes": [
     1125161891, 
     1125153975
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512142223, 
+  "wof:lastmodified": 1512414449, 
   "mz:is_current": 1
 }

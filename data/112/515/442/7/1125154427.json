@@ -1,6 +1,22 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400566, 
+  "wof:lastmodified": 1512414469, 
+  "wof:tags": [
+    "shipping", 
+    "copy", 
+    "copying", 
+    "digital", 
+    "document", 
+    "duplicating", 
+    "imaging", 
+    "machine", 
+    "materials-shipping", 
+    "packaging", 
+    "packing", 
+    "notary", 
+    "courier", 
+    "delivery"
+  ], 
   "wof:brand_name": "FedEx Office Ship Center", 
   "wof:brand_id": 1125154427
 }

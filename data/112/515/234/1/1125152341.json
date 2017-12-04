@@ -1,6 +1,32 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399903, 
+  "wof:lastmodified": 1512414468, 
+  "wof:tags": [
+    "air", 
+    "courier", 
+    "scheduled", 
+    "cargo", 
+    "delivery", 
+    "ground", 
+    "carrier", 
+    "local", 
+    "transport", 
+    "operator", 
+    "trucking", 
+    "package", 
+    "surface", 
+    "business", 
+    "direct", 
+    "drop", 
+    "freight", 
+    "loading", 
+    "location", 
+    "mail", 
+    "off", 
+    "se", 
+    "truck", 
+    "vehicular"
+  ], 
   "wof:brand_name": "Federal Express Corporation", 
   "wof:brand_id": 1125152341
 }

@@ -1,6 +1,15 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399899, 
+  "wof:lastmodified": 1512414483, 
+  "wof:tags": [
+    "pizza", 
+    "american", 
+    "salad", 
+    "sandwich", 
+    "soup", 
+    "wrap", 
+    "eating"
+  ], 
   "wof:brand_name": "East of Chicago Pizza", 
   "wof:brand_id": 1125152201
 }

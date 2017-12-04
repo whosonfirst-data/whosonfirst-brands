@@ -1,6 +1,13 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400707, 
+  "wof:lastmodified": 1512414555, 
+  "wof:tags": [
+    "high", 
+    "middle", 
+    "elementary", 
+    "public", 
+    "school"
+  ], 
   "wof:brand_name": "Miami-Dade County Public Schools", 
   "wof:brand_id": 1125149199
 }

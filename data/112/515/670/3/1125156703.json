@@ -1,6 +1,24 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400672, 
+  "wof:lastmodified": 1512414531, 
+  "wof:tags": [
+    "veterinarian", 
+    "hospital", 
+    "clinic", 
+    "animal", 
+    "specialty", 
+    "boarding/pet", 
+    "sitting", 
+    "veterinary", 
+    "medical", 
+    "pet", 
+    "cat", 
+    "dog", 
+    "emergency", 
+    "grooming", 
+    "laboratories-veterinary", 
+    "store"
+  ], 
   "wof:brand_name": "Animal Medical Clinic", 
   "wof:brand_id": 1125156703
 }

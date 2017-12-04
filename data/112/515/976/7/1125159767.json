@@ -1,6 +1,15 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400620, 
+  "wof:lastmodified": 1512414500, 
+  "wof:tags": [
+    "trucking", 
+    "operator", 
+    "local", 
+    "consultant", 
+    "facility", 
+    "terminal", 
+    "truck"
+  ], 
   "wof:brand_name": "AAA Cooper Transportation", 
   "wof:brand_id": 1125159767
 }

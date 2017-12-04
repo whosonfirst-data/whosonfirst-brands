@@ -1,6 +1,21 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400691, 
+  "wof:lastmodified": 1512414544, 
+  "wof:tags": [
+    "state", 
+    "administrative", 
+    "program", 
+    "establishment", 
+    "health", 
+    "organization", 
+    "welfare", 
+    "human", 
+    "social", 
+    "association", 
+    "business", 
+    "executive", 
+    "legal"
+  ], 
   "wof:brand_name": "Guardian Ad Litem", 
   "wof:brand_id": 1125161489
 }

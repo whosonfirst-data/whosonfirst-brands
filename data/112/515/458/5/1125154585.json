@@ -1,6 +1,16 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400565, 
+  "wof:lastmodified": 1512414468, 
+  "wof:tags": [
+    "shop", 
+    "grocery", 
+    "bath", 
+    "center", 
+    "decor", 
+    "discount", 
+    "kitchen", 
+    "toy"
+  ], 
   "wof:brand_name": "99 Cents Only Store", 
   "wof:brand_id": 1125154585
 }

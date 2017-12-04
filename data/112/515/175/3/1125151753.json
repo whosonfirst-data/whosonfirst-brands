@@ -1,6 +1,26 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399924, 
+  "wof:lastmodified": 1512414502, 
+  "wof:tags": [
+    "leasing", 
+    "furniture", 
+    "appliance", 
+    "machine", 
+    "rent", 
+    "renting", 
+    "store", 
+    "rent-to-own", 
+    "washing", 
+    "agency", 
+    "bedding", 
+    "consumer", 
+    "dryers-rental", 
+    "electronics", 
+    "equipment", 
+    "lease", 
+    "rental", 
+    "washer"
+  ], 
   "wof:brand_name": "Aaron's Rental Purchase", 
   "wof:brand_id": 1125151753
 }

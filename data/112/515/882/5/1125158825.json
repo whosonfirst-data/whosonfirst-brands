@@ -1,6 +1,20 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400606, 
+  "wof:lastmodified": 1512414492, 
+  "wof:tags": [
+    "car", 
+    "new", 
+    "accessory", 
+    "dealer", 
+    "engineer", 
+    "motor", 
+    "part", 
+    "repairer", 
+    "used", 
+    "body", 
+    "painting", 
+    "repairing"
+  ], 
   "wof:brand_name": "Nissan", 
   "wof:brand_id": 1125158825
 }

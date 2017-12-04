@@ -1,6 +1,31 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400651, 
+  "wof:lastmodified": 1512414517, 
+  "wof:tags": [
+    "contractor", 
+    "house", 
+    "general", 
+    "builder", 
+    "home", 
+    "remodeling", 
+    "company", 
+    "construction", 
+    "improvement", 
+    "management", 
+    "nonresidential", 
+    "repairing", 
+    "altering", 
+    "bathroom", 
+    "construct", 
+    "downspouts", 
+    "electrical", 
+    "electronic", 
+    "gutter", 
+    "mfg", 
+    "property", 
+    "residential", 
+    "timer"
+  ], 
   "wof:brand_name": "Clark Construction", 
   "wof:brand_id": 1125157579
 }

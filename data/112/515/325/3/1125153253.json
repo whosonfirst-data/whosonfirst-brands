@@ -1,6 +1,14 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399921, 
+  "wof:lastmodified": 1512414499, 
+  "wof:tags": [
+    "inn", 
+    "pubs", 
+    "activity", 
+    "house", 
+    "function", 
+    "room"
+  ], 
   "wof:brand_name": "The Kings Arms", 
   "wof:brand_id": 1125153253
 }

@@ -1,6 +1,15 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400572, 
+  "wof:lastmodified": 1512414472, 
+  "wof:tags": [
+    "laboratory", 
+    "testing", 
+    "clinical", 
+    "laboratories-pathological", 
+    "analytical", 
+    "blood", 
+    "typing"
+  ], 
   "wof:brand_name": "Unilab Corporation", 
   "wof:brand_id": 1125157999
 }

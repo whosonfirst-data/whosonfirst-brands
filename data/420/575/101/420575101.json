@@ -1,6 +1,32 @@
 {
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399880, 
+  "wof:lastmodified": 1512414444, 
+  "wof:tags": [
+    "american", 
+    "smoothy", 
+    "juice", 
+    "cream", 
+    "ice", 
+    "eating", 
+    "parlor", 
+    "frozen", 
+    "yogurt", 
+    "product", 
+    "dairy", 
+    "dessert", 
+    "stand", 
+    "retail", 
+    "shop", 
+    "bakery", 
+    "fluid", 
+    "gasoline", 
+    "mfg", 
+    "milk", 
+    "sandwich", 
+    "station", 
+    "store", 
+    "wholesale"
+  ], 
   "wof:brand_name": "TCBY", 
   "wof:brand_id": 420575101
 }

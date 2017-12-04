@@ -1,6 +1,21 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400637, 
+  "wof:lastmodified": 1512414509, 
+  "wof:tags": [
+    "shop", 
+    "beauty", 
+    "barber", 
+    "fitness", 
+    "hairdresser", 
+    "physical", 
+    "clothing", 
+    "consultant", 
+    "decorator", 
+    "design", 
+    "equipment", 
+    "facility", 
+    "interior"
+  ], 
   "wof:brand_name": "House Of Style", 
   "wof:brand_id": 1125159887
 }

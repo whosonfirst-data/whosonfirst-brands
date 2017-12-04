@@ -1,6 +1,31 @@
 {
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399891, 
+  "wof:lastmodified": 1512414457, 
+  "wof:tags": [
+    "center", 
+    "improvement", 
+    "home", 
+    "store", 
+    "paint", 
+    "supply", 
+    "lumber", 
+    "grocer", 
+    "gardening", 
+    "nursery", 
+    "bath", 
+    "blind", 
+    "carpeting", 
+    "contractor", 
+    "design", 
+    "equipment", 
+    "fixture", 
+    "hardware", 
+    "interior", 
+    "key", 
+    "kitchen", 
+    "lighting", 
+    "shade"
+  ], 
   "wof:brand_name": "Lowe's", 
   "wof:brand_id": 420574387
 }

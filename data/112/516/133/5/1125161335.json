@@ -1,6 +1,24 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400687, 
+  "wof:lastmodified": 1512414541, 
+  "wof:tags": [
+    "cellular", 
+    "telephone", 
+    "communication", 
+    "radiotelephone", 
+    "merchandise", 
+    "phone", 
+    "system", 
+    "accessory", 
+    "alarm", 
+    "burglar", 
+    "cell", 
+    "equipment", 
+    "pager", 
+    "paging", 
+    "radio", 
+    "signaling"
+  ], 
   "wof:brand_name": "Wireless Solutions", 
   "wof:brand_id": 1125161335
 }

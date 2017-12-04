@@ -1,6 +1,18 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399937, 
+  "wof:lastmodified": 1512414513, 
+  "wof:tags": [
+    "burger", 
+    "american", 
+    "pizza", 
+    "sandwich", 
+    "wrap", 
+    "diner", 
+    "dog", 
+    "fast", 
+    "hamburger", 
+    "hot"
+  ], 
   "wof:brand_name": "Fatburger", 
   "wof:brand_id": 1125153517
 }

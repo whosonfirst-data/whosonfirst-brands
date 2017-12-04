@@ -1,11 +1,26 @@
 {
   "wof:brand_name": "Albertsons", 
   "wof:brand_id": 420574415, 
+  "wof:tags": [
+    "grocer", 
+    "drugstore", 
+    "super", 
+    "finishing", 
+    "photo", 
+    "supermarket", 
+    "delicatessen", 
+    "coffee", 
+    "pharmaceutical", 
+    "photography", 
+    "product", 
+    "shop", 
+    "store"
+  ], 
   "wof:supersedes": [
     1125158437, 
     1125160715
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512143568, 
+  "wof:lastmodified": 1512414461, 
   "mz:is_current": 1
 }

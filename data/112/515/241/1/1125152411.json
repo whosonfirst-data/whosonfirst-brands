@@ -1,6 +1,10 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399897, 
+  "wof:lastmodified": 1512414480, 
+  "wof:tags": [
+    "grocery", 
+    "store"
+  ], 
   "wof:brand_name": "IGA Supermarkets", 
   "wof:brand_id": 1125152411
 }

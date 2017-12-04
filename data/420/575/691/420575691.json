@@ -1,6 +1,27 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400513, 
+  "wof:lastmodified": 1512414449, 
+  "wof:tags": [
+    "welfare", 
+    "organization", 
+    "club", 
+    "community", 
+    "service/non-profit", 
+    "crisis", 
+    "driving", 
+    "instruction", 
+    "intervention", 
+    "alcoholism", 
+    "association", 
+    "information", 
+    "interest", 
+    "personal", 
+    "program", 
+    "referral", 
+    "services-information", 
+    "treatment", 
+    "worker"
+  ], 
   "wof:brand_name": "Mothers Against Drunk Driving", 
   "wof:brand_id": 420575691
 }

@@ -1,6 +1,21 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400564, 
+  "wof:lastmodified": 1512414468, 
+  "wof:tags": [
+    "elevator", 
+    "moving", 
+    "stairway", 
+    "chair", 
+    "lift", 
+    "ramp", 
+    "wheel", 
+    "equipment", 
+    "industrial", 
+    "consultant", 
+    "installation", 
+    "parts", 
+    "repair"
+  ], 
   "wof:brand_name": "Thyssen Krupp Elevator", 
   "wof:brand_id": 1125154931
 }

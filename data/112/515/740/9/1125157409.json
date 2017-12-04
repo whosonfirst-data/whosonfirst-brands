@@ -1,11 +1,39 @@
 {
   "wof:brand_name": "Hobby Lobby", 
   "wof:brand_id": 1125157409, 
+  "wof:tags": [
+    "supply", 
+    "craft", 
+    "art", 
+    "store", 
+    "sewing", 
+    "shop", 
+    "toy", 
+    "merchandise", 
+    "frame", 
+    "hobby", 
+    "picture", 
+    "model", 
+    "artificial", 
+    "framing", 
+    "instruction", 
+    "plant", 
+    "tree", 
+    "center", 
+    "flowers", 
+    "material", 
+    "arts", 
+    "favors", 
+    "flower", 
+    "needlework", 
+    "party", 
+    "repair"
+  ], 
   "wof:supersedes": [
     1125159009, 
     1125150325
   ], 
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1512143786, 
+  "wof:lastmodified": 1512414504, 
   "mz:is_current": 1
 }

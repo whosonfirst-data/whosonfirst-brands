@@ -1,6 +1,32 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400572, 
+  "wof:lastmodified": 1512414472, 
+  "wof:tags": [
+    "shop", 
+    "consignment", 
+    "wear", 
+    "gift", 
+    "infant", 
+    "supply", 
+    "building", 
+    "cabinet", 
+    "child", 
+    "club", 
+    "craft", 
+    "eating", 
+    "establishment", 
+    "grocer", 
+    "kitchen", 
+    "lady", 
+    "maternity", 
+    "mfg", 
+    "night", 
+    "nonresidential", 
+    "product", 
+    "store", 
+    "wedding", 
+    "wood"
+  ], 
   "wof:brand_name": "Carousel", 
   "wof:brand_id": 1125154857
 }

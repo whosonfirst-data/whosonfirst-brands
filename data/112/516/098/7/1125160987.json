@@ -1,6 +1,27 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400701, 
+  "wof:lastmodified": 1512414551, 
+  "wof:tags": [
+    "away", 
+    "take", 
+    "sandwich", 
+    "delivery", 
+    "meal", 
+    "outlet", 
+    "room", 
+    "tea", 
+    "eating", 
+    "american", 
+    "caterer", 
+    "wrap", 
+    "delicatessen", 
+    "diner", 
+    "greengrocer", 
+    "grocery", 
+    "shop", 
+    "snack", 
+    "soup"
+  ], 
   "wof:brand_name": "The Sandwich Shop", 
   "wof:brand_id": 1125160987
 }

@@ -1,6 +1,28 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400732, 
+  "wof:lastmodified": 1512414562, 
+  "wof:tags": [
+    "store", 
+    "supply", 
+    "improvement", 
+    "paint", 
+    "bath", 
+    "kitchen", 
+    "home", 
+    "gardening", 
+    "nursery", 
+    "contractor", 
+    "equipment", 
+    "blind", 
+    "decor", 
+    "fixture", 
+    "hobby", 
+    "key", 
+    "lighting", 
+    "repair", 
+    "shade", 
+    "shop"
+  ], 
   "wof:brand_name": "The Home Depot", 
   "wof:brand_id": 1125149257
 }

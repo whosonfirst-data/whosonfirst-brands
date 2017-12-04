@@ -1,6 +1,21 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400696, 
+  "wof:lastmodified": 1512414547, 
+  "wof:tags": [
+    "legal", 
+    "counsel", 
+    "state", 
+    "attorney", 
+    "defender", 
+    "establishment", 
+    "executive", 
+    "correctional", 
+    "government-state", 
+    "institution", 
+    "janitor", 
+    "prosecution", 
+    "public"
+  ], 
   "wof:brand_name": "Public Defenders Office", 
   "wof:brand_id": 1125161583
 }

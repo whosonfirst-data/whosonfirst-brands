@@ -1,10 +1,22 @@
 {
   "wof:brand_name": "Foodland", 
   "wof:brand_id": 1125158987, 
+  "wof:tags": [
+    "grocery", 
+    "store", 
+    "grocer", 
+    "liquor", 
+    "lottery", 
+    "market", 
+    "oil", 
+    "supermarket", 
+    "ticket", 
+    "vegetables-wholesale"
+  ], 
   "wof:supersedes": [
     1125161821
   ], 
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1512143787, 
+  "wof:lastmodified": 1512414510, 
   "mz:is_current": 1
 }

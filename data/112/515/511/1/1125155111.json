@@ -1,6 +1,28 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400613, 
+  "wof:lastmodified": 1512414496, 
+  "wof:tags": [
+    "grocer", 
+    "market", 
+    "alcoholic", 
+    "beer", 
+    "establishment", 
+    "gasoline", 
+    "product", 
+    "station", 
+    "ale", 
+    "delicatessen", 
+    "diet", 
+    "gas", 
+    "grocers-specialty", 
+    "health", 
+    "oil", 
+    "petroleum", 
+    "produce", 
+    "spirit", 
+    "store", 
+    "wine"
+  ], 
   "wof:brand_name": "Corner Market", 
   "wof:brand_id": 1125155111
 }

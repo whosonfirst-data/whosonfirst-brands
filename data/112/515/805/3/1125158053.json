@@ -1,6 +1,23 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400586, 
+  "wof:lastmodified": 1512414480, 
+  "wof:tags": [
+    "welfare", 
+    "mental", 
+    "organization", 
+    "health", 
+    "charitable", 
+    "institution", 
+    "social", 
+    "agency", 
+    "association", 
+    "assistance", 
+    "department", 
+    "employee", 
+    "program", 
+    "shop", 
+    "thrift"
+  ], 
   "wof:brand_name": "Canadian Mental Health Assn", 
   "wof:brand_id": 1125158053
 }

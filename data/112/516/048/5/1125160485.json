@@ -1,6 +1,18 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400699, 
+  "wof:lastmodified": 1512414549, 
+  "wof:tags": [
+    "pharmaceutical", 
+    "mfg", 
+    "preparation", 
+    "product", 
+    "public", 
+    "relations", 
+    "commercial", 
+    "medical", 
+    "representative", 
+    "warehouse"
+  ], 
   "wof:brand_name": "Eli Lilly and Company", 
   "wof:brand_id": 1125160485
 }

@@ -1,6 +1,24 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400501, 
+  "wof:lastmodified": 1512414444, 
+  "wof:tags": [
+    "automobile", 
+    "accessory", 
+    "battery", 
+    "equipment", 
+    "truck", 
+    "engines-supplies", 
+    "part", 
+    "supply", 
+    "automotive", 
+    "convenience", 
+    "filter", 
+    "gas", 
+    "gasoline", 
+    "industrial", 
+    "mfg", 
+    "store"
+  ], 
   "wof:brand_name": "CARQUEST Auto Parts", 
   "wof:brand_id": 420575059
 }

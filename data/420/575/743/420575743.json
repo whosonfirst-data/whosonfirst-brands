@@ -1,6 +1,20 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400508, 
+  "wof:lastmodified": 1512414447, 
+  "wof:tags": [
+    "bottler", 
+    "beverage", 
+    "fruit", 
+    "juice", 
+    "drink", 
+    "soft", 
+    "beer", 
+    "boring", 
+    "contractor", 
+    "spirit", 
+    "wine", 
+    "dispensing"
+  ], 
   "wof:brand_name": "Coca-Cola Bottling Co", 
   "wof:brand_id": 420575743
 }

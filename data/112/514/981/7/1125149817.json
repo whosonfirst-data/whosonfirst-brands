@@ -1,6 +1,30 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399982, 
+  "wof:lastmodified": 1512414562, 
+  "wof:tags": [
+    "consumer", 
+    "finance", 
+    "company", 
+    "institution", 
+    "personal", 
+    "mortgage", 
+    "loan", 
+    "commercial", 
+    "broker", 
+    "business", 
+    "communications", 
+    "contractor", 
+    "equity", 
+    "establishment", 
+    "financing", 
+    "floor", 
+    "home", 
+    "laying", 
+    "lender", 
+    "licensed", 
+    "originating", 
+    "surety"
+  ], 
   "wof:brand_name": "HFC", 
   "wof:brand_id": 1125149817
 }

@@ -1,6 +1,29 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399948, 
+  "wof:lastmodified": 1512414523, 
+  "wof:tags": [
+    "welfare", 
+    "organization", 
+    "resource", 
+    "state", 
+    "county", 
+    "clinic", 
+    "human", 
+    "city", 
+    "health", 
+    "program", 
+    "agency", 
+    "information", 
+    "nutritionist", 
+    "action", 
+    "breastfeeding", 
+    "center", 
+    "community", 
+    "dentist", 
+    "family", 
+    "planning", 
+    "supply"
+  ], 
   "wof:brand_name": "WIC Program", 
   "wof:brand_id": 1125152381
 }

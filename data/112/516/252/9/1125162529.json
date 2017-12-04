@@ -1,6 +1,31 @@
 {
   "wof:brand_size": "S", 
-  "wof:lastmodified": 1511400697, 
+  "wof:lastmodified": 1512414548, 
+  "wof:tags": [
+    "automobile", 
+    "parts", 
+    "part", 
+    "accessory", 
+    "manufacturer", 
+    "supply", 
+    "accessories-wholesale", 
+    "shop", 
+    "body", 
+    "automotive", 
+    "car", 
+    "carwash", 
+    "dealer", 
+    "equipment", 
+    "lube", 
+    "machine", 
+    "membership", 
+    "oil", 
+    "rebuilt", 
+    "repairing", 
+    "retail", 
+    "service-equipment", 
+    "supply-wholesale"
+  ], 
   "wof:brand_name": "Auto Value", 
   "wof:brand_id": 1125162529
 }

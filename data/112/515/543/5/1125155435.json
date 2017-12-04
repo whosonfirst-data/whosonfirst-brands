@@ -1,6 +1,17 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400588, 
+  "wof:lastmodified": 1512414481, 
+  "wof:tags": [
+    "resource", 
+    "state", 
+    "administrative", 
+    "co", 
+    "contractor", 
+    "establishment", 
+    "executive", 
+    "fraternal", 
+    "program"
+  ], 
   "wof:brand_name": "Unemployment Insurance", 
   "wof:brand_id": 1125155435
 }

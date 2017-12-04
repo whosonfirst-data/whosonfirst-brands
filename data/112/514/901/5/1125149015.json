@@ -1,11 +1,31 @@
 {
   "wof:brand_name": "Schlotzsky's", 
   "wof:brand_id": 1125149015, 
+  "wof:tags": [
+    "sandwich", 
+    "pizza", 
+    "american", 
+    "wrap", 
+    "eating", 
+    "shop", 
+    "take", 
+    "deli", 
+    "delicatessen", 
+    "drinking", 
+    "grocery", 
+    "chain", 
+    "drive", 
+    "fast", 
+    "petroleum", 
+    "product", 
+    "restaurant", 
+    "traditional"
+  ], 
   "wof:supersedes": [
     1125151391, 
     1125157249
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512143853, 
+  "wof:lastmodified": 1512414557, 
   "mz:is_current": 1
 }

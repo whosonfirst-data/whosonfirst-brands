@@ -1,6 +1,28 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400642, 
+  "wof:lastmodified": 1512414512, 
+  "wof:tags": [
+    "institution", 
+    "govt", 
+    "county", 
+    "state", 
+    "correctional", 
+    "community", 
+    "corrections", 
+    "executive", 
+    "organization", 
+    "welfare", 
+    "facility", 
+    "probation", 
+    "correction", 
+    "government-county", 
+    "mental", 
+    "outpatient", 
+    "parish", 
+    "parole", 
+    "social", 
+    "specialty"
+  ], 
   "wof:brand_name": "Community Corrections", 
   "wof:brand_id": 1125159511
 }

@@ -1,6 +1,17 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399915, 
+  "wof:lastmodified": 1512414477, 
+  "wof:tags": [
+    "oil", 
+    "gas", 
+    "producer", 
+    "product", 
+    "asphalt", 
+    "petroleum", 
+    "polishing", 
+    "tire", 
+    "washing"
+  ], 
   "wof:brand_name": "Bp Oil", 
   "wof:brand_id": 1125150197
 }

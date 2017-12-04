@@ -1,6 +1,18 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400669, 
+  "wof:lastmodified": 1512414529, 
+  "wof:tags": [
+    "inn", 
+    "operation", 
+    "lodging", 
+    "apartment", 
+    "bed", 
+    "breakfast", 
+    "building", 
+    "investment", 
+    "motel", 
+    "parks"
+  ], 
   "wof:brand_name": "Executive Inn", 
   "wof:brand_id": 1125158525
 }

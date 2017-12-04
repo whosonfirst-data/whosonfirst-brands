@@ -1,6 +1,22 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400672, 
+  "wof:lastmodified": 1512414531, 
+  "wof:tags": [
+    "facility", 
+    "storage", 
+    "general", 
+    "special", 
+    "self", 
+    "warehouse", 
+    "public", 
+    "building", 
+    "local", 
+    "nonresidential", 
+    "operator", 
+    "rental", 
+    "trucking", 
+    "warehousing"
+  ], 
   "wof:brand_name": "Susa Partnership LP", 
   "wof:brand_id": 1125154925
 }

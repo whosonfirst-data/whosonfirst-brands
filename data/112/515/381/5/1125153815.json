@@ -1,6 +1,18 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400675, 
+  "wof:lastmodified": 1512414533, 
+  "wof:tags": [
+    "shop", 
+    "store", 
+    "footwear", 
+    "boot", 
+    "camping", 
+    "equipment", 
+    "repairing", 
+    "retailer", 
+    "shoemaker", 
+    "watch"
+  ], 
   "wof:brand_name": "Shoe Express", 
   "wof:brand_id": 1125153815
 }

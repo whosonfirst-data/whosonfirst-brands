@@ -1,6 +1,20 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399949, 
+  "wof:lastmodified": 1512414523, 
+  "wof:tags": [
+    "pizza", 
+    "sandwich", 
+    "american", 
+    "italian", 
+    "wrap", 
+    "caterer", 
+    "delicatessen", 
+    "dessert", 
+    "family", 
+    "frozen", 
+    "shop", 
+    "style"
+  ], 
   "wof:brand_name": "Noble Roman's", 
   "wof:brand_id": 1125152159
 }

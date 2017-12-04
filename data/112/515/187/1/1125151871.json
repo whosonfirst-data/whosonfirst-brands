@@ -1,6 +1,26 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399933, 
+  "wof:lastmodified": 1512414510, 
+  "wof:tags": [
+    "oil", 
+    "petroleum", 
+    "product", 
+    "lubricant", 
+    "automobile", 
+    "supply", 
+    "grease", 
+    "lubricating", 
+    "lubrication", 
+    "automotive", 
+    "car", 
+    "department", 
+    "equipment", 
+    "establishment", 
+    "mfg", 
+    "racing", 
+    "retail", 
+    "store"
+  ], 
   "wof:brand_name": "Amsoil Synthetic Lubricants", 
   "wof:brand_id": 1125151871
 }

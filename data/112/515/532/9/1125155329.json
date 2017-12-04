@@ -1,6 +1,24 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400634, 
+  "wof:lastmodified": 1512414507, 
+  "wof:tags": [
+    "physical", 
+    "therapist", 
+    "therapy", 
+    "medicine", 
+    "sport", 
+    "chiropractic", 
+    "injury", 
+    "medical", 
+    "outpatient", 
+    "physician", 
+    "rehabilitation", 
+    "removing", 
+    "specialty", 
+    "surgeon", 
+    "trainer", 
+    "treatment"
+  ], 
   "wof:brand_name": "Advanced Physical Therapy", 
   "wof:brand_id": 1125155329
 }

@@ -1,6 +1,27 @@
 {
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511400523, 
+  "wof:lastmodified": 1512414453, 
+  "wof:tags": [
+    "check", 
+    "cashing", 
+    "personal", 
+    "institution", 
+    "loan", 
+    "financing", 
+    "payday", 
+    "business", 
+    "banking", 
+    "depository", 
+    "equipment", 
+    "financial", 
+    "advance", 
+    "advisory", 
+    "broker", 
+    "cash", 
+    "cashing/pay-day", 
+    "dealer", 
+    "establishment"
+  ], 
   "wof:brand_name": "Advance America", 
   "wof:brand_id": 420573835
 }

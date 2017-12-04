@@ -1,6 +1,18 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400655, 
+  "wof:lastmodified": 1512414520, 
+  "wof:tags": [
+    "kitchen", 
+    "accessory", 
+    "housewares", 
+    "bath", 
+    "outlet", 
+    "factory", 
+    "cookware", 
+    "store", 
+    "utensil", 
+    "eating"
+  ], 
   "wof:brand_name": "Kitchen Collection", 
   "wof:brand_id": 1125157425
 }

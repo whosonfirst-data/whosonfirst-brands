@@ -1,6 +1,11 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400637, 
+  "wof:lastmodified": 1512414508, 
+  "wof:tags": [
+    "car", 
+    "park", 
+    "garaging"
+  ], 
   "wof:brand_name": "National Car Parks Ltd.", 
   "wof:brand_id": 1125155641
 }

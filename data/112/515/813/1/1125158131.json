@@ -1,6 +1,12 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400643, 
+  "wof:lastmodified": 1512414513, 
+  "wof:tags": [
+    "shop", 
+    "mirror", 
+    "salon", 
+    "specialty"
+  ], 
   "wof:brand_name": "Magic Mirror", 
   "wof:brand_id": 1125158131
 }

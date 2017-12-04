@@ -1,6 +1,30 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400579, 
+  "wof:lastmodified": 1512414476, 
+  "wof:tags": [
+    "local", 
+    "authority", 
+    "book", 
+    "accomodation", 
+    "agency", 
+    "central", 
+    "charity", 
+    "children's", 
+    "coaching", 
+    "disposal", 
+    "education", 
+    "gallery", 
+    "higher", 
+    "home", 
+    "housing", 
+    "organisation", 
+    "retail", 
+    "room", 
+    "sheltered", 
+    "tea", 
+    "voluntary", 
+    "waste"
+  ], 
   "wof:brand_name": "Leeds City Council", 
   "wof:brand_id": 1125158799
 }

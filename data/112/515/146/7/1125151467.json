@@ -1,6 +1,25 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399900, 
+  "wof:lastmodified": 1512414466, 
+  "wof:tags": [
+    "equipment", 
+    "electric", 
+    "supply", 
+    "manufacturer", 
+    "supplies-wholesale", 
+    "electronic", 
+    "appliances-small", 
+    "company", 
+    "consumer", 
+    "contractor", 
+    "contractors-commercial", 
+    "electrician", 
+    "industrial", 
+    "major", 
+    "mfg", 
+    "store", 
+    "telecommunication"
+  ], 
   "wof:brand_name": "Consolidated Electrical Distr", 
   "wof:brand_id": 1125151467
 }

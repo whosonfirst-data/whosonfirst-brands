@@ -1,6 +1,29 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399951, 
+  "wof:lastmodified": 1512414525, 
+  "wof:tags": [
+    "state", 
+    "program", 
+    "resource", 
+    "rehabilitation", 
+    "administrative", 
+    "organization", 
+    "welfare", 
+    "vocational", 
+    "opportunity", 
+    "outpatient", 
+    "rehab", 
+    "specialty", 
+    "center", 
+    "consultant", 
+    "educational", 
+    "executive", 
+    "government", 
+    "government-state", 
+    "government-united", 
+    "related", 
+    "residential"
+  ], 
   "wof:brand_name": "Vocational Rehabilitation Svc", 
   "wof:brand_id": 1125152313
 }

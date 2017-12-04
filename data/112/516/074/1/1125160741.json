@@ -1,6 +1,29 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400700, 
+  "wof:lastmodified": 1512414550, 
+  "wof:tags": [
+    "automobile", 
+    "repairing", 
+    "general", 
+    "body", 
+    "painting", 
+    "brake", 
+    "inspection", 
+    "air", 
+    "automotive", 
+    "conditioning", 
+    "diagnostic", 
+    "equipment", 
+    "exhaust", 
+    "gasoline", 
+    "handyman", 
+    "oil", 
+    "part", 
+    "radiator", 
+    "related", 
+    "station", 
+    "truck"
+  ], 
   "wof:brand_name": "Bob's Auto Repair", 
   "wof:brand_id": 1125160741
 }

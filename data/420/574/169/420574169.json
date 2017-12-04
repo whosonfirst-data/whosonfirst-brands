@@ -1,6 +1,11 @@
 {
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399890, 
+  "wof:lastmodified": 1512414456, 
+  "wof:tags": [
+    "beer", 
+    "spirit", 
+    "wines"
+  ], 
   "wof:brand_name": "Thresher", 
   "wof:brand_id": 420574169
 }

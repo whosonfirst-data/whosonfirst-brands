@@ -1,6 +1,27 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400586, 
+  "wof:lastmodified": 1512414480, 
+  "wof:tags": [
+    "check", 
+    "cashing", 
+    "banking", 
+    "loan", 
+    "depository", 
+    "notary", 
+    "cashing/pay-day", 
+    "communications", 
+    "deposit", 
+    "financier", 
+    "financing", 
+    "function", 
+    "market", 
+    "money", 
+    "order", 
+    "payday", 
+    "related", 
+    "telegraph", 
+    "to"
+  ], 
   "wof:brand_name": "Cash Plus", 
   "wof:brand_id": 1125158057
 }

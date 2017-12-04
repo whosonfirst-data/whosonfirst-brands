@@ -1,6 +1,13 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400697, 
+  "wof:lastmodified": 1512414548, 
+  "wof:tags": [
+    "inn", 
+    "pubs", 
+    "activity", 
+    "house", 
+    "public"
+  ], 
   "wof:brand_name": "The Three Horseshoes", 
   "wof:brand_id": 1125160681
 }

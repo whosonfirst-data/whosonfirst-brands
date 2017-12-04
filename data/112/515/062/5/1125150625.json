@@ -1,6 +1,13 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399951, 
+  "wof:lastmodified": 1512414525, 
+  "wof:tags": [
+    "company", 
+    "title", 
+    "escrow", 
+    "abstract", 
+    "carrier"
+  ], 
   "wof:brand_name": "First American Title Co", 
   "wof:brand_id": 1125150625
 }

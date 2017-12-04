@@ -1,6 +1,13 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400655, 
+  "wof:lastmodified": 1512414520, 
+  "wof:tags": [
+    "drugstore", 
+    "florist", 
+    "grocer", 
+    "mfg", 
+    "product"
+  ], 
   "wof:brand_name": "Ralphs Grocery Company", 
   "wof:brand_id": 1125157481
 }

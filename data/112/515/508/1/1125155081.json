@@ -1,6 +1,17 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400614, 
+  "wof:lastmodified": 1512414497, 
+  "wof:tags": [
+    "baker", 
+    "mfg", 
+    "product", 
+    "bread", 
+    "delivery", 
+    "depot", 
+    "store", 
+    "thrift", 
+    "truck"
+  ], 
   "wof:brand_name": "Wonder Bread & Hostess Cakes", 
   "wof:brand_id": 1125155081
 }

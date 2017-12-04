@@ -1,6 +1,11 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399904, 
+  "wof:lastmodified": 1512414470, 
+  "wof:tags": [
+    "delivery", 
+    "haulage", 
+    "road"
+  ], 
   "wof:brand_name": "The Post Office", 
   "wof:brand_id": 1125153061
 }

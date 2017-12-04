@@ -1,6 +1,17 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400632, 
+  "wof:lastmodified": 1512414506, 
+  "wof:tags": [
+    "pizza", 
+    "american", 
+    "family", 
+    "italian", 
+    "style", 
+    "sandwich", 
+    "burger", 
+    "eating", 
+    "salad"
+  ], 
   "wof:brand_name": "Ledo Pizza", 
   "wof:brand_id": 1125155155
 }

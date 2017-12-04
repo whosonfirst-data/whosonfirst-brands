@@ -1,6 +1,28 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400587, 
+  "wof:lastmodified": 1512414481, 
+  "wof:tags": [
+    "establishment", 
+    "housing", 
+    "relocation", 
+    "apartment", 
+    "authorities", 
+    "manager", 
+    "corporate", 
+    "lodging", 
+    "management", 
+    "operation", 
+    "personal", 
+    "rental", 
+    "apartments-furnished", 
+    "assistance", 
+    "business", 
+    "finder", 
+    "hotel", 
+    "listing", 
+    "temporary", 
+    "vacancy"
+  ], 
   "wof:brand_name": "Oakwood Corporate Housing", 
   "wof:brand_id": 1125157691
 }

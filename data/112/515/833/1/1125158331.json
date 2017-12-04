@@ -1,6 +1,21 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400579, 
+  "wof:lastmodified": 1512414476, 
+  "wof:tags": [
+    "oil", 
+    "field", 
+    "well", 
+    "energy", 
+    "management", 
+    "product", 
+    "system", 
+    "hauling", 
+    "development", 
+    "exploration", 
+    "gas", 
+    "refiner", 
+    "trucking"
+  ], 
   "wof:brand_name": "Key Energy Svc", 
   "wof:brand_id": 1125158331
 }

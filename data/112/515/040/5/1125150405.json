@@ -1,6 +1,19 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399910, 
+  "wof:lastmodified": 1512414473, 
+  "wof:tags": [
+    "check", 
+    "cashing", 
+    "banking", 
+    "depository", 
+    "institution", 
+    "loan", 
+    "personal", 
+    "advance", 
+    "business", 
+    "agency", 
+    "cash"
+  ], 
   "wof:brand_name": "Check Advance", 
   "wof:brand_id": 1125150405
 }

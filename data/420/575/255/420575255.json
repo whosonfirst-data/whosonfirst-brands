@@ -1,6 +1,11 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400521, 
+  "wof:lastmodified": 1512414452, 
+  "wof:tags": [
+    "game", 
+    "video", 
+    "software"
+  ], 
   "wof:brand_name": "Game Stop Corp", 
   "wof:brand_id": 420575255
 }

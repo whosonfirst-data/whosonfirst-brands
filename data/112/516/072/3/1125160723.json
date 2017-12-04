@@ -1,6 +1,14 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400689, 
+  "wof:lastmodified": 1512414543, 
+  "wof:tags": [
+    "grocer", 
+    "supermarket", 
+    "market", 
+    "super", 
+    "product", 
+    "store"
+  ], 
   "wof:brand_name": "Associated Supermarket", 
   "wof:brand_id": 1125160723
 }

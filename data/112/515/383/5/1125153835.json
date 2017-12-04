@@ -1,6 +1,29 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400615, 
+  "wof:lastmodified": 1512414497, 
+  "wof:tags": [
+    "social", 
+    "welfare", 
+    "agency", 
+    "community", 
+    "health", 
+    "service/non-profit", 
+    "voluntary", 
+    "charity", 
+    "information", 
+    "medical", 
+    "research", 
+    "civic", 
+    "commercial", 
+    "consultant", 
+    "educational", 
+    "establishment", 
+    "fund", 
+    "noncommercial", 
+    "nonphysical", 
+    "organization", 
+    "raising"
+  ], 
   "wof:brand_name": "American Heart Association", 
   "wof:brand_id": 1125153835
 }

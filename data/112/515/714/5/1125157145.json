@@ -1,6 +1,17 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400665, 
+  "wof:lastmodified": 1512414527, 
+  "wof:tags": [
+    "agency", 
+    "bureau", 
+    "cruise", 
+    "services-commercial", 
+    "promoter", 
+    "tours-operators", 
+    "consultant", 
+    "operator", 
+    "tour"
+  ], 
   "wof:brand_name": "Cruise Holidays", 
   "wof:brand_id": 1125157145
 }

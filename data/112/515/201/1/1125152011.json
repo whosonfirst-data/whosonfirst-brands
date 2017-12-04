@@ -1,6 +1,26 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399933, 
+  "wof:lastmodified": 1512414510, 
+  "wof:tags": [
+    "aid", 
+    "first", 
+    "charity", 
+    "charitable", 
+    "instruction", 
+    "organisation", 
+    "ambulance", 
+    "supply", 
+    "voluntary", 
+    "consultant", 
+    "institution", 
+    "organization", 
+    "quantity", 
+    "safety", 
+    "shop", 
+    "social", 
+    "surveyor", 
+    "welfare"
+  ], 
   "wof:brand_name": "St John Ambulance", 
   "wof:brand_id": 1125152011
 }

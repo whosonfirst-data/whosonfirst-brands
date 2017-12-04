@@ -1,6 +1,17 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400691, 
+  "wof:lastmodified": 1512414544, 
+  "wof:tags": [
+    "pizza", 
+    "american", 
+    "eating", 
+    "italian", 
+    "cheesesteaks", 
+    "chicken", 
+    "sandwich", 
+    "shop", 
+    "wing"
+  ], 
   "wof:brand_name": "Joe's Pizza", 
   "wof:brand_id": 1125160237
 }

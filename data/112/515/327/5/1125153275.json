@@ -1,6 +1,17 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399935, 
+  "wof:lastmodified": 1512414512, 
+  "wof:tags": [
+    "cellular", 
+    "equipment", 
+    "supply", 
+    "system", 
+    "telecommunications-equipment", 
+    "provider", 
+    "wireless", 
+    "telephone", 
+    "caterer"
+  ], 
   "wof:brand_name": "Alltel Wireless", 
   "wof:brand_id": 1125153275
 }

@@ -1,6 +1,24 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400720, 
+  "wof:lastmodified": 1512414560, 
+  "wof:tags": [
+    "gas", 
+    "petroleum", 
+    "liquefied", 
+    "propane", 
+    "retail", 
+    "company", 
+    "repair", 
+    "wholesale", 
+    "product", 
+    "oil", 
+    "bottled", 
+    "dealer", 
+    "heater", 
+    "home", 
+    "merchandise", 
+    "water"
+  ], 
   "wof:brand_name": "Suburban Propane", 
   "wof:brand_id": 1125149111
 }

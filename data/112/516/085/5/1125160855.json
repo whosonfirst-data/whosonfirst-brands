@@ -1,6 +1,19 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400685, 
+  "wof:lastmodified": 1512414540, 
+  "wof:tags": [
+    "food", 
+    "diet", 
+    "health", 
+    "personal", 
+    "product", 
+    "control", 
+    "weight", 
+    "dairy", 
+    "house", 
+    "mail", 
+    "mfg"
+  ], 
   "wof:brand_name": "Herbalife Independent Distr", 
   "wof:brand_id": 1125160855
 }

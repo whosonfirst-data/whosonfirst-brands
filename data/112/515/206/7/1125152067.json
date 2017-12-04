@@ -1,6 +1,24 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399900, 
+  "wof:lastmodified": 1512414483, 
+  "wof:tags": [
+    "video", 
+    "tape", 
+    "disc", 
+    "leasing", 
+    "game", 
+    "store", 
+    "cassette", 
+    "dvds-rental", 
+    "sale", 
+    "rental", 
+    "dvd", 
+    "equipment", 
+    "jockey", 
+    "rent", 
+    "retail", 
+    "sales"
+  ], 
   "wof:brand_name": "West Coast Video", 
   "wof:brand_id": 1125152067
 }

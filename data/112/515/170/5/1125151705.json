@@ -1,6 +1,22 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399912, 
+  "wof:lastmodified": 1512414475, 
+  "wof:tags": [
+    "oil", 
+    "station", 
+    "gasoline", 
+    "grocer", 
+    "alcoholic", 
+    "bulk", 
+    "convenient", 
+    "food", 
+    "gas", 
+    "grocers-specialty", 
+    "grocery", 
+    "mart", 
+    "mexican", 
+    "pizza"
+  ], 
   "wof:brand_name": "Texaco Food Mart", 
   "wof:brand_id": 1125151705
 }

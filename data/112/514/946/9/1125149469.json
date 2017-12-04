@@ -1,6 +1,26 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400713, 
+  "wof:lastmodified": 1512414559, 
+  "wof:tags": [
+    "tire", 
+    "brake", 
+    "oil", 
+    "lube", 
+    "accessory", 
+    "automobile", 
+    "part", 
+    "rebuilt", 
+    "supplies-used", 
+    "automotive", 
+    "general", 
+    "repair", 
+    "supply", 
+    "body", 
+    "change", 
+    "contractor", 
+    "shop", 
+    "transmission"
+  ], 
   "wof:brand_name": "Sears Auto Center", 
   "wof:brand_id": 1125149469
 }

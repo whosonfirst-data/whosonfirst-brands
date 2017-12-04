@@ -1,6 +1,13 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400595, 
+  "wof:lastmodified": 1512414486, 
+  "wof:tags": [
+    "local", 
+    "authority", 
+    "centre", 
+    "organisation", 
+    "product"
+  ], 
   "wof:brand_name": "Devon County Council", 
   "wof:brand_id": 1125159535
 }

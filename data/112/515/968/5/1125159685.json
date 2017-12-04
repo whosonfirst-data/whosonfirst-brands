@@ -1,6 +1,23 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400680, 
+  "wof:lastmodified": 1512414536, 
+  "wof:tags": [
+    "village", 
+    "system", 
+    "sewerage", 
+    "treatment", 
+    "plant", 
+    "executive", 
+    "disposal", 
+    "sewage", 
+    "equipment", 
+    "conservation", 
+    "contractor", 
+    "control", 
+    "pollution", 
+    "waste", 
+    "water"
+  ], 
   "wof:brand_name": "Sewage Treatment Plant", 
   "wof:brand_id": 1125159685
 }

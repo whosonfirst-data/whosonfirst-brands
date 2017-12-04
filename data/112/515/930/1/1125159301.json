@@ -1,6 +1,27 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400609, 
+  "wof:lastmodified": 1512414494, 
+  "wof:tags": [
+    "tool", 
+    "mfg", 
+    "house", 
+    "industrial", 
+    "machine", 
+    "-", 
+    "blast", 
+    "construction", 
+    "direct", 
+    "distributor", 
+    "furnace", 
+    "hardware", 
+    "mail", 
+    "power", 
+    "retail", 
+    "sales", 
+    "stampings", 
+    "supply", 
+    "works"
+  ], 
   "wof:brand_name": "Mac Tools", 
   "wof:brand_id": 1125159301
 }

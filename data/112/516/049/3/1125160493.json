@@ -1,6 +1,31 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400693, 
+  "wof:lastmodified": 1512414545, 
+  "wof:tags": [
+    "power", 
+    "company", 
+    "energy", 
+    "construction", 
+    "electrical", 
+    "plant", 
+    "business", 
+    "center", 
+    "consulting", 
+    "customer", 
+    "distribution", 
+    "distributor", 
+    "division", 
+    "engineering", 
+    "equipment", 
+    "facility", 
+    "generating", 
+    "light", 
+    "lighting", 
+    "protection", 
+    "repair", 
+    "system", 
+    "welding"
+  ], 
   "wof:brand_name": "FPL", 
   "wof:brand_id": 1125160493
 }

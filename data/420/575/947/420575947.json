@@ -1,10 +1,24 @@
 {
   "wof:brand_name": "TJ Maxx", 
   "wof:brand_id": 420575947, 
+  "wof:tags": [
+    "clothing", 
+    "women's", 
+    "apparel", 
+    "discount", 
+    "family", 
+    "men's", 
+    "accessory", 
+    "children's", 
+    "decor", 
+    "flower", 
+    "store", 
+    "variety"
+  ], 
   "wof:supersedes": [
     1125159105
   ], 
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1512142223, 
+  "wof:lastmodified": 1512414449, 
   "mz:is_current": 1
 }

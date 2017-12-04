@@ -1,6 +1,22 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400676, 
+  "wof:lastmodified": 1512414534, 
+  "wof:tags": [
+    "oil", 
+    "gas", 
+    "producer", 
+    "gasoline", 
+    "petroleum", 
+    "product", 
+    "bulk", 
+    "grease", 
+    "lubricating", 
+    "consultant", 
+    "government", 
+    "lubricant", 
+    "refiner", 
+    "station"
+  ], 
   "wof:brand_name": "Exxon Mobil Corp", 
   "wof:brand_id": 1125155599
 }

@@ -1,6 +1,18 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400509, 
+  "wof:lastmodified": 1512414447, 
+  "wof:tags": [
+    "drug", 
+    "store", 
+    "outlet", 
+    "chemist", 
+    "dispensing", 
+    "product", 
+    "pharmaceutical", 
+    "pharmacist", 
+    "supplier", 
+    "wholesaler"
+  ], 
   "wof:brand_name": "Superdrug Stores Plc", 
   "wof:brand_id": 420575089
 }

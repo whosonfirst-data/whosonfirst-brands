@@ -1,6 +1,32 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400574, 
+  "wof:lastmodified": 1512414473, 
+  "wof:tags": [
+    "abstract", 
+    "title", 
+    "carrier", 
+    "escrow", 
+    "company", 
+    "mortgage", 
+    "agency", 
+    "abstracter", 
+    "agent", 
+    "banking", 
+    "bond", 
+    "broker", 
+    "business", 
+    "commercial", 
+    "depository", 
+    "fidelity", 
+    "home", 
+    "institution", 
+    "insurance", 
+    "personal", 
+    "protection", 
+    "real estate", 
+    "resume", 
+    "surety"
+  ], 
   "wof:brand_name": "Old Republic", 
   "wof:brand_id": 1125159965
 }

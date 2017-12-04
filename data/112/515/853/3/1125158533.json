@@ -1,11 +1,31 @@
 {
   "wof:brand_name": "General Nutrition Centers", 
   "wof:brand_id": 1125158533, 
+  "wof:tags": [
+    "health", 
+    "diet", 
+    "market", 
+    "vitamin", 
+    "nutritionist", 
+    "product", 
+    "food", 
+    "care", 
+    "trainer", 
+    "consultant", 
+    "fitness", 
+    "herb", 
+    "program", 
+    "supplement", 
+    "nut", 
+    "nutrition", 
+    "nutritional", 
+    "processing"
+  ], 
   "wof:supersedes": [
     420574223, 
     1125150087
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512143787, 
+  "wof:lastmodified": 1512414510, 
   "mz:is_current": 1
 }

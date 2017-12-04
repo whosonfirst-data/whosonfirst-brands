@@ -1,6 +1,25 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400704, 
+  "wof:lastmodified": 1512414553, 
+  "wof:tags": [
+    "self", 
+    "commercial", 
+    "storage", 
+    "paper", 
+    "household", 
+    "general", 
+    "mover", 
+    "special", 
+    "box", 
+    "corrugated", 
+    "decor", 
+    "facility", 
+    "fiber", 
+    "home", 
+    "solid", 
+    "truck", 
+    "warehousing"
+  ], 
   "wof:brand_name": "Extra Space Storage", 
   "wof:brand_id": 1125149047
 }

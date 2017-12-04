@@ -1,6 +1,32 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400714, 
+  "wof:lastmodified": 1512414560, 
+  "wof:tags": [
+    "cleaners", 
+    "plant", 
+    "drycleaning", 
+    "agent", 
+    "garment", 
+    "commercial", 
+    "cleaner", 
+    "coin", 
+    "curtain", 
+    "drapery", 
+    "except", 
+    "power", 
+    "professional", 
+    "rug", 
+    "alteration", 
+    "alterations-clothing", 
+    "cleaning-industrial", 
+    "contractor", 
+    "formal", 
+    "laundromat", 
+    "rent", 
+    "store", 
+    "tailor", 
+    "wear"
+  ], 
   "wof:brand_name": "One Hour Martinizing", 
   "wof:brand_id": 1125149141
 }

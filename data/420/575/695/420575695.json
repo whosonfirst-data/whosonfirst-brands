@@ -1,6 +1,18 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400518, 
+  "wof:lastmodified": 1512414452, 
+  "wof:tags": [
+    "tape", 
+    "video", 
+    "leasing", 
+    "disc", 
+    "player", 
+    "recorder", 
+    "game", 
+    "cassette", 
+    "duplication", 
+    "equipment"
+  ], 
   "wof:brand_name": "Rogers Video", 
   "wof:brand_id": 420575695
 }

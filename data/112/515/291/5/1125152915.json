@@ -1,6 +1,30 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399923, 
+  "wof:lastmodified": 1512414501, 
+  "wof:tags": [
+    "mover", 
+    "local", 
+    "trucking", 
+    "operator", 
+    "moving", 
+    "storage", 
+    "box", 
+    "commercial", 
+    "delivery", 
+    "fiber", 
+    "furniture", 
+    "paper", 
+    "removal", 
+    "boy", 
+    "courier", 
+    "manufacturer", 
+    "material", 
+    "packing", 
+    "products-wholesale", 
+    "services-labor", 
+    "store", 
+    "supply"
+  ], 
   "wof:brand_name": "Two Men & A Truck", 
   "wof:brand_id": 1125152915
 }

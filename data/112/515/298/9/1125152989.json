@@ -1,6 +1,15 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399936, 
+  "wof:lastmodified": 1512414531, 
+  "wof:tags": [
+    "cellular", 
+    "telephone", 
+    "radiotelephone", 
+    "communication", 
+    "carrier", 
+    "communications-common", 
+    "merchandise"
+  ], 
   "wof:brand_name": "U S Cellular", 
   "wof:brand_id": 1125152989
 }

@@ -1,6 +1,26 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400639, 
+  "wof:lastmodified": 1512414510, 
+  "wof:tags": [
+    "appraiser", 
+    "appraisers-commercial", 
+    "industrial", 
+    "commercial", 
+    "antique", 
+    "appraisal", 
+    "appraisers-business", 
+    "consultant", 
+    "design", 
+    "designer", 
+    "designers-industrial", 
+    "development", 
+    "establishment", 
+    "graphic", 
+    "housing", 
+    "management", 
+    "marketing", 
+    "product"
+  ], 
   "wof:brand_name": "Appraisal Associates", 
   "wof:brand_id": 1125159145
 }

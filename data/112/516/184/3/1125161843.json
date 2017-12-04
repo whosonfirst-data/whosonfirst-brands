@@ -1,6 +1,14 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400695, 
+  "wof:lastmodified": 1512414547, 
+  "wof:tags": [
+    "inn", 
+    "pubs", 
+    "activity", 
+    "house", 
+    "public", 
+    "shop"
+  ], 
   "wof:brand_name": "Hare & Hounds", 
   "wof:brand_id": 1125161843
 }

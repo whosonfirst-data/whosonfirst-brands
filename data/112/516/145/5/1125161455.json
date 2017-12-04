@@ -1,6 +1,18 @@
 {
   "wof:brand_size": "S", 
-  "wof:lastmodified": 1511401665, 
+  "wof:lastmodified": 1512414552, 
+  "wof:tags": [
+    "shop", 
+    "store", 
+    "toy", 
+    "art", 
+    "basket", 
+    "general", 
+    "merchandise", 
+    "mineral", 
+    "miscellaneous", 
+    "parcel"
+  ], 
   "wof:brand_name": "Discovery Channel Store", 
   "wof:brand_id": 1125161455
 }

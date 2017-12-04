@@ -1,6 +1,19 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400700, 
+  "wof:lastmodified": 1512414551, 
+  "wof:tags": [
+    "dentist", 
+    "pediatric", 
+    "clinic", 
+    "dentistry", 
+    "dentists-pediatric", 
+    "medicine", 
+    "pediatrics", 
+    "pediatrics-emergency", 
+    "physician", 
+    "surgeon", 
+    "surgeons"
+  ], 
   "wof:brand_name": "Pediatric Dentistry", 
   "wof:brand_id": 1125160931
 }

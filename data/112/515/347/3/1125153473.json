@@ -1,6 +1,25 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400654, 
+  "wof:lastmodified": 1512414519, 
+  "wof:tags": [
+    "clinic", 
+    "dialysis", 
+    "center", 
+    "kidney", 
+    "medical", 
+    "physician", 
+    "surgeon", 
+    "organization", 
+    "surgical", 
+    "county", 
+    "group", 
+    "insurance", 
+    "kidneys", 
+    "nephrology", 
+    "outpatient", 
+    "surgeons", 
+    "trainer"
+  ], 
   "wof:brand_name": "Renal Care Group", 
   "wof:brand_id": 1125153473
 }

@@ -1,6 +1,17 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400640, 
+  "wof:lastmodified": 1512414511, 
+  "wof:tags": [
+    "oil", 
+    "gasoline", 
+    "station", 
+    "gas", 
+    "producer", 
+    "broker", 
+    "carburants", 
+    "food", 
+    "stations-service"
+  ], 
   "wof:brand_name": "Total", 
   "wof:brand_id": 1125154159
 }

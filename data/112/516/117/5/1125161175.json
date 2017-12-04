@@ -1,6 +1,25 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400696, 
+  "wof:lastmodified": 1512414547, 
+  "wof:tags": [
+    "house", 
+    "builder", 
+    "home", 
+    "operative", 
+    "contractor", 
+    "family", 
+    "nonresidential", 
+    "age", 
+    "agency", 
+    "broker", 
+    "buyer", 
+    "consultant", 
+    "counselor", 
+    "developer", 
+    "establishment", 
+    "residential", 
+    "sales"
+  ], 
   "wof:brand_name": "Lennar", 
   "wof:brand_id": 1125161175
 }

@@ -1,6 +1,27 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400560, 
+  "wof:lastmodified": 1512414465, 
+  "wof:tags": [
+    "institution", 
+    "county", 
+    "state", 
+    "govt", 
+    "correctional", 
+    "justice", 
+    "agencies-government", 
+    "agency", 
+    "body", 
+    "city", 
+    "enforcement", 
+    "executive", 
+    "general", 
+    "government-county", 
+    "government-united", 
+    "law", 
+    "legislative", 
+    "parish", 
+    "residential"
+  ], 
   "wof:brand_name": "Juvenile Court", 
   "wof:brand_id": 1125156985
 }

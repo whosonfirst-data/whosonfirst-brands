@@ -1,6 +1,16 @@
 {
   "wof:brand_size": "S", 
-  "wof:lastmodified": 1511400691, 
+  "wof:lastmodified": 1512414544, 
+  "wof:tags": [
+    "shop", 
+    "club", 
+    "cosmetic", 
+    "dance", 
+    "establishment", 
+    "lounge", 
+    "manicuring", 
+    "perfume"
+  ], 
   "wof:brand_name": "Beauty Bar", 
   "wof:brand_id": 1125162535
 }

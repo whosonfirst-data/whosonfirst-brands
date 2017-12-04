@@ -1,10 +1,41 @@
 {
   "wof:brand_name": "Checkers", 
   "wof:brand_id": 1125153671, 
+  "wof:tags": [
+    "eating", 
+    "dog", 
+    "hot", 
+    "burger", 
+    "american", 
+    "hamburger", 
+    "sandwich", 
+    "wrap", 
+    "family", 
+    "style", 
+    "breakfast", 
+    "brunch", 
+    "drive", 
+    "fast", 
+    "lunch", 
+    "take", 
+    "cocktail", 
+    "custom", 
+    "dancing", 
+    "delivery", 
+    "embroidery", 
+    "inn", 
+    "italian", 
+    "lounge", 
+    "pizza", 
+    "pubs", 
+    "restaurant", 
+    "sporting", 
+    "supply"
+  ], 
   "wof:supersedes": [
     1125151213
   ], 
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1512143786, 
+  "wof:lastmodified": 1512414508, 
   "mz:is_current": 1
 }

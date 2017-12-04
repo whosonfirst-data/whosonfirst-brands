@@ -1,10 +1,37 @@
 {
   "wof:brand_name": "Circle K", 
   "wof:brand_id": 420573875, 
+  "wof:tags": [
+    "gasoline", 
+    "station", 
+    "grocer", 
+    "grocery", 
+    "gas", 
+    "convenience", 
+    "store", 
+    "oil", 
+    "petroleum", 
+    "product", 
+    "air", 
+    "as", 
+    "bean", 
+    "beer", 
+    "carwash", 
+    "chain", 
+    "company", 
+    "convenient", 
+    "courier", 
+    "filling", 
+    "general", 
+    "gr", 
+    "spirit", 
+    "storage", 
+    "wine"
+  ], 
   "wof:supersedes": [
     420574219
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512143050, 
+  "wof:lastmodified": 1512414453, 
   "mz:is_current": 1
 }

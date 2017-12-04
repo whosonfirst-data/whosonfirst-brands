@@ -1,6 +1,23 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400586, 
+  "wof:lastmodified": 1512414480, 
+  "wof:tags": [
+    "home", 
+    "apartment", 
+    "condominium", 
+    "convalescent", 
+    "academic", 
+    "adult", 
+    "banquet", 
+    "boarding", 
+    "community", 
+    "establishment", 
+    "house", 
+    "operation", 
+    "retirement", 
+    "rooms", 
+    "special"
+  ], 
   "wof:brand_name": "Manor", 
   "wof:brand_id": 1125156271
 }

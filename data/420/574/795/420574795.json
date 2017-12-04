@@ -1,6 +1,11 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400540, 
+  "wof:lastmodified": 1512414458, 
+  "wof:tags": [
+    "broker", 
+    "mortgage", 
+    "garage"
+  ], 
   "wof:brand_name": "M & T Bank", 
   "wof:brand_id": 420574795
 }

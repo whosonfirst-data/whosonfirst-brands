@@ -1,6 +1,28 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400507, 
+  "wof:lastmodified": 1512414446, 
+  "wof:tags": [
+    "automobile", 
+    "repairing", 
+    "automotive", 
+    "general", 
+    "brake", 
+    "transmission", 
+    "tune", 
+    "lube", 
+    "oil", 
+    "shop", 
+    "engine", 
+    "body", 
+    "diagnostic", 
+    "exchanging", 
+    "gasoline", 
+    "lubrication", 
+    "maintenance", 
+    "marine", 
+    "repair", 
+    "station"
+  ], 
   "wof:brand_name": "All Tune & Lube", 
   "wof:brand_id": 420575875
 }

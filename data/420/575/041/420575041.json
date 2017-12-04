@@ -1,11 +1,20 @@
 {
   "wof:brand_name": "Kohl's", 
   "wof:brand_id": 420575041, 
+  "wof:tags": [
+    "establishment", 
+    "car", 
+    "clothing", 
+    "contractor", 
+    "general", 
+    "men's", 
+    "women's"
+  ], 
   "wof:supersedes": [
     1125153787, 
     1125157427
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512142224, 
+  "wof:lastmodified": 1512414452, 
   "mz:is_current": 1
 }

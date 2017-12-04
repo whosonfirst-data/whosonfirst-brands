@@ -1,6 +1,11 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400616, 
+  "wof:lastmodified": 1512414498, 
+  "wof:tags": [
+    "banking", 
+    "finance", 
+    "insurance"
+  ], 
   "wof:brand_name": "Banca Sella Spa", 
   "wof:brand_id": 1125157333
 }

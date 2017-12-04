@@ -1,6 +1,17 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399933, 
+  "wof:lastmodified": 1512414510, 
+  "wof:tags": [
+    "cellular", 
+    "telephone", 
+    "equipment", 
+    "supply", 
+    "communication", 
+    "wireless", 
+    "merchandise", 
+    "radiotelephone", 
+    "telecommunications-equipment"
+  ], 
   "wof:brand_name": "Cellular Sales", 
   "wof:brand_id": 1125151879
 }

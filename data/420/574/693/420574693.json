@@ -1,6 +1,12 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400534, 
+  "wof:lastmodified": 1512414456, 
+  "wof:tags": [
+    "dental", 
+    "medicine", 
+    "technician", 
+    "therapy"
+  ], 
   "wof:brand_name": "Dental Surgery", 
   "wof:brand_id": 420574693
 }

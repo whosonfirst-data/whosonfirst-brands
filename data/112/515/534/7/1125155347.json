@@ -1,6 +1,14 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400663, 
+  "wof:lastmodified": 1512414526, 
+  "wof:tags": [
+    "high", 
+    "middle", 
+    "elementary", 
+    "day", 
+    "apartment", 
+    "boating"
+  ], 
   "wof:brand_name": "Boston City of", 
   "wof:brand_id": 1125155347
 }

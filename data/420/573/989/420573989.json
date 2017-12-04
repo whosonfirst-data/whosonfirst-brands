@@ -1,6 +1,27 @@
 {
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399887, 
+  "wof:lastmodified": 1512414453, 
+  "wof:tags": [
+    "automobile", 
+    "battery", 
+    "accessory", 
+    "body", 
+    "equipment", 
+    "truck", 
+    "parts", 
+    "part", 
+    "automotive", 
+    "general", 
+    "repair", 
+    "supply", 
+    "el", 
+    "industrial", 
+    "r", 
+    "repairing", 
+    "reporting", 
+    "shop", 
+    "wholesale"
+  ], 
   "wof:brand_name": "O'Reilly Auto Parts", 
   "wof:brand_id": 420573989
 }

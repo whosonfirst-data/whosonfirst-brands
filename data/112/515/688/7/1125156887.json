@@ -1,6 +1,31 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400664, 
+  "wof:lastmodified": 1512414526, 
+  "wof:tags": [
+    "loan", 
+    "institution", 
+    "personal", 
+    "financing", 
+    "return", 
+    "alternative", 
+    "business", 
+    "company", 
+    "consumer", 
+    "finance", 
+    "lender", 
+    "small", 
+    "a", 
+    "as", 
+    "operates", 
+    "preparation-business", 
+    "advisory", 
+    "broker", 
+    "consultant", 
+    "filing", 
+    "financial", 
+    "mortgage", 
+    "planning"
+  ], 
   "wof:brand_name": "World Finance", 
   "wof:brand_id": 1125156887
 }

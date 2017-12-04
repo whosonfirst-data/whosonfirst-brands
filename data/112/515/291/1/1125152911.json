@@ -1,6 +1,24 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399923, 
+  "wof:lastmodified": 1512414501, 
+  "wof:tags": [
+    "grocer", 
+    "gasoline", 
+    "oil", 
+    "station", 
+    "automobile", 
+    "coin", 
+    "delicatessen", 
+    "dryer", 
+    "establishment", 
+    "grocery", 
+    "laundries-self", 
+    "oils-petroleum", 
+    "operated", 
+    "refiner", 
+    "repairing", 
+    "washer"
+  ], 
   "wof:brand_name": "Super Stop", 
   "wof:brand_id": 1125152911
 }

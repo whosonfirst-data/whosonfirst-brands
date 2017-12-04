@@ -1,6 +1,28 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399903, 
+  "wof:lastmodified": 1512414468, 
+  "wof:tags": [
+    "rental", 
+    "line", 
+    "bus", 
+    "buses-charter", 
+    "truck", 
+    "public", 
+    "contracting", 
+    "school", 
+    "transportation", 
+    "automotive", 
+    "charter", 
+    "consultant", 
+    "establishment", 
+    "facility", 
+    "leasing", 
+    "local", 
+    "operation", 
+    "operator", 
+    "terminal", 
+    "trucking"
+  ], 
   "wof:brand_name": "First Student Inc", 
   "wof:brand_id": 1125152345
 }

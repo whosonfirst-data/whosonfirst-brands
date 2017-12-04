@@ -1,6 +1,31 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400695, 
+  "wof:lastmodified": 1512414547, 
+  "wof:tags": [
+    "medical", 
+    "physician", 
+    "family", 
+    "practice", 
+    "surgeon", 
+    "medicine", 
+    "surgeons", 
+    "center", 
+    "urgent", 
+    "care", 
+    "clinic", 
+    "control", 
+    "dr", 
+    "drug", 
+    "emergency", 
+    "general", 
+    "hospital", 
+    "internal", 
+    "osteopathic", 
+    "specialty", 
+    "surgery-general", 
+    "testing", 
+    "weight"
+  ], 
   "wof:brand_name": "Family Medical Center", 
   "wof:brand_id": 1125161103
 }

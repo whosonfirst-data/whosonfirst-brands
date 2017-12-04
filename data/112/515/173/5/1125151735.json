@@ -1,6 +1,23 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399934, 
+  "wof:lastmodified": 1512414511, 
+  "wof:tags": [
+    "physician", 
+    "surgeon", 
+    "medical", 
+    "internal", 
+    "medicine", 
+    "surgeons", 
+    "clinic", 
+    "family", 
+    "gynecology", 
+    "manipulative", 
+    "mental", 
+    "obstetrics", 
+    "osteopathic", 
+    "practice", 
+    "treatment"
+  ], 
   "wof:brand_name": "Internal Medicine Assoc", 
   "wof:brand_id": 1125151735
 }

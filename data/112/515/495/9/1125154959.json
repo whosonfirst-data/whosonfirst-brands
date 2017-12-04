@@ -1,6 +1,22 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400606, 
+  "wof:lastmodified": 1512414492, 
+  "wof:tags": [
+    "system", 
+    "security", 
+    "control", 
+    "alarm", 
+    "burglar", 
+    "equipment", 
+    "electronic", 
+    "supply", 
+    "fire", 
+    "monitoring", 
+    "business", 
+    "communications", 
+    "consultant", 
+    "television"
+  ], 
   "wof:brand_name": "ADT Security Svc", 
   "wof:brand_id": 1125154959
 }

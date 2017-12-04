@@ -1,6 +1,18 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400677, 
+  "wof:lastmodified": 1512414534, 
+  "wof:tags": [
+    "railroad", 
+    "agency", 
+    "equipment", 
+    "line", 
+    "operator", 
+    "railroads-ticket", 
+    "contractor", 
+    "lessor", 
+    "property", 
+    "rail"
+  ], 
   "wof:brand_name": "Union Pacific Railroad", 
   "wof:brand_id": 1125154265
 }

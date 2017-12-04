@@ -1,6 +1,12 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400640, 
+  "wof:lastmodified": 1512414511, 
+  "wof:tags": [
+    "agency", 
+    "bureau", 
+    "airline", 
+    "ticket"
+  ], 
   "wof:brand_name": "Marlin Travel", 
   "wof:brand_id": 1125157667
 }

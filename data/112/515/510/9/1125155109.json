@@ -1,6 +1,22 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400653, 
+  "wof:lastmodified": 1512414519, 
+  "wof:tags": [
+    "coin", 
+    "laundries-self", 
+    "dryer", 
+    "operated", 
+    "washer", 
+    "equipment", 
+    "establishment", 
+    "laundry", 
+    "eating", 
+    "gasoline", 
+    "industry", 
+    "mfg", 
+    "sta", 
+    "supply"
+  ], 
   "wof:brand_name": "Coin Laundry", 
   "wof:brand_id": 1125155109
 }

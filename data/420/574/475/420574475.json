@@ -1,11 +1,17 @@
 {
   "wof:brand_name": "Boots the Chemist", 
   "wof:brand_id": 420574475, 
+  "wof:tags": [
+    "chemist", 
+    "pharmacist", 
+    "optician", 
+    "dispensing"
+  ], 
   "wof:supersedes": [
     420574511, 
     1125155345
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512143568, 
+  "wof:lastmodified": 1512414460, 
   "mz:is_current": 1
 }

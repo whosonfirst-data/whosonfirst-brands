@@ -1,6 +1,27 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400618, 
+  "wof:lastmodified": 1512414499, 
+  "wof:tags": [
+    "contractor", 
+    "general", 
+    "house", 
+    "builder", 
+    "company", 
+    "construction", 
+    "home", 
+    "management", 
+    "industrial", 
+    "remodeling", 
+    "altering", 
+    "building", 
+    "consultant", 
+    "contractors-commercial", 
+    "establishment", 
+    "nonresidential", 
+    "repairing", 
+    "residential", 
+    "roofing"
+  ], 
   "wof:brand_name": "Turner Construction", 
   "wof:brand_id": 1125156005
 }

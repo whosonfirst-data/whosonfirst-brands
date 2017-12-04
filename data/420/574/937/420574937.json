@@ -1,6 +1,12 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400539, 
+  "wof:lastmodified": 1512414458, 
+  "wof:tags": [
+    "drugstore", 
+    "grocer", 
+    "pharmaceutical", 
+    "product"
+  ], 
   "wof:brand_name": "Sav-On Drugs", 
   "wof:brand_id": 420574937
 }

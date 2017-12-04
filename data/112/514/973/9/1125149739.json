@@ -1,6 +1,21 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399979, 
+  "wof:lastmodified": 1512414560, 
+  "wof:tags": [
+    "pizza", 
+    "salad", 
+    "american", 
+    "sandwich", 
+    "soup", 
+    "wrap", 
+    "eating", 
+    "sub", 
+    "italian", 
+    "grocery", 
+    "pizzeria", 
+    "sell", 
+    "take"
+  ], 
   "wof:brand_name": "Donatos Pizza", 
   "wof:brand_id": 1125149739
 }

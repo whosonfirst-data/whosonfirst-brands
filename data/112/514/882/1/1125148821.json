@@ -1,10 +1,41 @@
 {
   "wof:brand_name": "Friendly's", 
   "wof:brand_id": 1125148821, 
+  "wof:tags": [
+    "american", 
+    "burger", 
+    "cream", 
+    "ice", 
+    "eating", 
+    "family", 
+    "frozen", 
+    "breakfast", 
+    "brunch", 
+    "dessert", 
+    "dog", 
+    "hamburger", 
+    "hot", 
+    "lunch", 
+    "sandwich", 
+    "shop", 
+    "style", 
+    "traditional", 
+    "yogurt", 
+    "product", 
+    "dairy", 
+    "away", 
+    "carwash", 
+    "diner", 
+    "drinking", 
+    "marble", 
+    "parlor", 
+    "take", 
+    "used"
+  ], 
   "wof:supersedes": [
     1125155127
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512143852, 
+  "wof:lastmodified": 1512414557, 
   "mz:is_current": 1
 }

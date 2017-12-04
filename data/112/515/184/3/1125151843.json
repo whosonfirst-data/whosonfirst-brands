@@ -1,6 +1,19 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399929, 
+  "wof:lastmodified": 1512414506, 
+  "wof:tags": [
+    "shop", 
+    "beauty", 
+    "hair", 
+    "stylist", 
+    "merchandise", 
+    "equipment", 
+    "establishment", 
+    "manicuring", 
+    "perfume", 
+    "salons-equipment", 
+    "supply"
+  ], 
   "wof:brand_name": "Hair Shop", 
   "wof:brand_id": 1125151843
 }

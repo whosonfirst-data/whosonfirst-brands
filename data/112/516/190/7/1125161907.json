@@ -1,6 +1,17 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400694, 
+  "wof:lastmodified": 1512414546, 
+  "wof:tags": [
+    "video", 
+    "tape", 
+    "disc", 
+    "leasing", 
+    "cassette", 
+    "game", 
+    "dvds-rental", 
+    "sale", 
+    "store"
+  ], 
   "wof:brand_name": "Mr Movies", 
   "wof:brand_id": 1125161907
 }

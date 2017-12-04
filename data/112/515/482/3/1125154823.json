@@ -1,6 +1,29 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400663, 
+  "wof:lastmodified": 1512414525, 
+  "wof:tags": [
+    "video", 
+    "tape", 
+    "disc", 
+    "leasing", 
+    "library", 
+    "cassette", 
+    "dvd", 
+    "game", 
+    "dvds-rental", 
+    "equipment", 
+    "sale", 
+    "audio", 
+    "de", 
+    "duplication", 
+    "location", 
+    "player", 
+    "recorder", 
+    "rental", 
+    "satellite", 
+    "system", 
+    "vid\u00e9o"
+  ], 
   "wof:brand_name": "Video City", 
   "wof:brand_id": 1125154823
 }

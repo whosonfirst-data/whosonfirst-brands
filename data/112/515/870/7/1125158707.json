@@ -1,6 +1,30 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400564, 
+  "wof:lastmodified": 1512414468, 
+  "wof:tags": [
+    "italian", 
+    "accessory", 
+    "automobile", 
+    "balloon", 
+    "bathroom", 
+    "cabinet", 
+    "establishment", 
+    "fixtures", 
+    "gasoline", 
+    "grocery", 
+    "hair", 
+    "hardware-builders", 
+    "improvement", 
+    "manufacturer", 
+    "part", 
+    "pizza", 
+    "plumbing", 
+    "repairing", 
+    "representative", 
+    "station", 
+    "store", 
+    "supply"
+  ], 
   "wof:brand_name": "Avanti", 
   "wof:brand_id": 1125158707
 }

@@ -1,6 +1,25 @@
 {
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399888, 
+  "wof:lastmodified": 1512414454, 
+  "wof:tags": [
+    "auto", 
+    "homeowner", 
+    "analyst", 
+    "business", 
+    "commercial", 
+    "consultant", 
+    "benefit", 
+    "carrier", 
+    "employee", 
+    "bond", 
+    "broker", 
+    "casualty", 
+    "fidelity", 
+    "property", 
+    "railroad", 
+    "renter", 
+    "surety"
+  ], 
   "wof:brand_name": "American Family Insurance", 
   "wof:brand_id": 420573941
 }

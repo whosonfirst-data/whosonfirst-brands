@@ -1,6 +1,30 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400582, 
+  "wof:lastmodified": 1512414478, 
+  "wof:tags": [
+    "commercial", 
+    "storage", 
+    "self", 
+    "general", 
+    "special", 
+    "household", 
+    "paper", 
+    "fiber", 
+    "warehouse", 
+    "automobile", 
+    "box", 
+    "boxes-corrugated", 
+    "builder", 
+    "document", 
+    "facility", 
+    "merchandise", 
+    "operative", 
+    "operator", 
+    "portable", 
+    "record", 
+    "truck", 
+    "unit"
+  ], 
   "wof:brand_name": "A-1 Self Storage", 
   "wof:brand_id": 1125155707
 }

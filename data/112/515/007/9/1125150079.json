@@ -1,6 +1,28 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399906, 
+  "wof:lastmodified": 1512414471, 
+  "wof:tags": [
+    "satellite", 
+    "equipment", 
+    "system", 
+    "carrier", 
+    "television", 
+    "cable", 
+    "tv", 
+    "communications-common", 
+    "contractor", 
+    "electronics", 
+    "radio", 
+    "distribution", 
+    "dvr", 
+    "electronic", 
+    "interactive", 
+    "on-demand", 
+    "sports", 
+    "supply", 
+    "telemarketing", 
+    "telephone"
+  ], 
   "wof:brand_name": "DIRECTV", 
   "wof:brand_id": 1125150079
 }

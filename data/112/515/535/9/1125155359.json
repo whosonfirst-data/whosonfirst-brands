@@ -1,6 +1,22 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400679, 
+  "wof:lastmodified": 1512414536, 
+  "wof:tags": [
+    "eating", 
+    "drinking", 
+    "sandwich", 
+    "breakfast", 
+    "brunch", 
+    "cafe", 
+    "chinese", 
+    "american", 
+    "caterer", 
+    "delicatessen", 
+    "espresso", 
+    "mediterranean", 
+    "new", 
+    "pizza"
+  ], 
   "wof:brand_name": "City Cafe", 
   "wof:brand_id": 1125155359
 }

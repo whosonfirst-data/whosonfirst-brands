@@ -1,6 +1,29 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400611, 
+  "wof:lastmodified": 1512414495, 
+  "wof:tags": [
+    "executive", 
+    "town", 
+    "village", 
+    "general", 
+    "city", 
+    "township", 
+    "planner", 
+    "body", 
+    "county", 
+    "justice", 
+    "legislative", 
+    "clerk", 
+    "court", 
+    "development", 
+    "government-city", 
+    "government-state", 
+    "hardy", 
+    "library", 
+    "operates", 
+    "reporting", 
+    "state"
+  ], 
   "wof:brand_name": "Clerks Office", 
   "wof:brand_id": 1125159209
 }

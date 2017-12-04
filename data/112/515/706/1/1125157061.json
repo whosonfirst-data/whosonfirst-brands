@@ -1,6 +1,21 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400670, 
+  "wof:lastmodified": 1512414530, 
+  "wof:tags": [
+    "operation", 
+    "inn", 
+    "lodging", 
+    "apartment", 
+    "building", 
+    "business", 
+    "contractor", 
+    "electrical", 
+    "franchised", 
+    "hotel", 
+    "nonresidential", 
+    "ope", 
+    "tavern"
+  ], 
   "wof:brand_name": "Scottish Inn", 
   "wof:brand_id": 1125157061
 }

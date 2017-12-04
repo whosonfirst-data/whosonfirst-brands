@@ -1,6 +1,26 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400582, 
+  "wof:lastmodified": 1512414478, 
+  "wof:tags": [
+    "equipment", 
+    "dealer", 
+    "software", 
+    "processing", 
+    "consultant", 
+    "datum", 
+    "designer", 
+    "establishment", 
+    "repair", 
+    "computer", 
+    "contractor", 
+    "information", 
+    "internet", 
+    "parts", 
+    "programming", 
+    "retrieval", 
+    "supply", 
+    "system"
+  ], 
   "wof:brand_name": "Unisys Corp", 
   "wof:brand_id": 1125155701
 }

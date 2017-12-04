@@ -1,6 +1,15 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400675, 
+  "wof:lastmodified": 1512414533, 
+  "wof:tags": [
+    "company", 
+    "telecommunication", 
+    "equipment", 
+    "internet", 
+    "supply", 
+    "systems-repair", 
+    "telephone"
+  ], 
   "wof:brand_name": "TDS Telecom", 
   "wof:brand_id": 1125155859
 }

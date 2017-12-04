@@ -1,6 +1,15 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400583, 
+  "wof:lastmodified": 1512414479, 
+  "wof:tags": [
+    "physician", 
+    "surgeon", 
+    "clinic", 
+    "family", 
+    "medicine", 
+    "practice", 
+    "surgeons"
+  ], 
   "wof:brand_name": "Family Medical Ctr", 
   "wof:brand_id": 1125156745
 }

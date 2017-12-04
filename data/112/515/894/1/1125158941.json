@@ -1,6 +1,21 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400678, 
+  "wof:lastmodified": 1512414535, 
+  "wof:tags": [
+    "line", 
+    "operator", 
+    "railroad", 
+    "agency", 
+    "broker", 
+    "car", 
+    "leasing", 
+    "rail", 
+    "railroads-ticket", 
+    "to", 
+    "transfer", 
+    "truck", 
+    "trucking"
+  ], 
   "wof:brand_name": "CSX Transportation", 
   "wof:brand_id": 1125158941
 }

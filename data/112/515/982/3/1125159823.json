@@ -1,6 +1,25 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400671, 
+  "wof:lastmodified": 1512414530, 
+  "wof:tags": [
+    "telephone", 
+    "cellular", 
+    "company", 
+    "telecommunication", 
+    "communications", 
+    "equipment", 
+    "supply", 
+    "television", 
+    "alarm", 
+    "answering", 
+    "burglar", 
+    "consultant", 
+    "contractor", 
+    "internet", 
+    "local", 
+    "paging", 
+    "system"
+  ], 
   "wof:brand_name": "Century Tel", 
   "wof:brand_id": 1125159823
 }

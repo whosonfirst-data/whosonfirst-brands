@@ -1,6 +1,27 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400539, 
+  "wof:lastmodified": 1512414458, 
+  "wof:tags": [
+    "pet", 
+    "shop", 
+    "food", 
+    "supply", 
+    "cat", 
+    "dog", 
+    "furnishing", 
+    "store", 
+    "grooming", 
+    "merchandise", 
+    "animal", 
+    "washing", 
+    "aquarium", 
+    "commercial", 
+    "equipment", 
+    "industrial", 
+    "mfg", 
+    "product", 
+    "s"
+  ], 
   "wof:brand_name": "PETCO", 
   "wof:brand_id": 420574739
 }

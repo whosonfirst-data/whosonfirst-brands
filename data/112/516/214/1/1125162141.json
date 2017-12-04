@@ -1,6 +1,24 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400684, 
+  "wof:lastmodified": 1512414539, 
+  "wof:tags": [
+    "dealer", 
+    "bookseller", 
+    "rare", 
+    "book", 
+    "bookstore", 
+    "retailer", 
+    "company", 
+    "disc", 
+    "holding", 
+    "leasing", 
+    "newsagent", 
+    "second-hand", 
+    "shop", 
+    "store", 
+    "tape", 
+    "video"
+  ], 
   "wof:brand_name": "Bargain Books", 
   "wof:brand_id": 1125162141
 }

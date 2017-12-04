@@ -1,6 +1,30 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400607, 
+  "wof:lastmodified": 1512414493, 
+  "wof:tags": [
+    "resource", 
+    "city", 
+    "human", 
+    "citizen", 
+    "senior", 
+    "organization", 
+    "welfare", 
+    "council", 
+    "counseling", 
+    "establishment", 
+    "social", 
+    "agency", 
+    "aging", 
+    "association", 
+    "county", 
+    "executive", 
+    "family", 
+    "individual", 
+    "on", 
+    "shop", 
+    "state", 
+    "thrift"
+  ], 
   "wof:brand_name": "Council On Aging", 
   "wof:brand_id": 1125159521
 }

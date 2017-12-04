@@ -1,6 +1,27 @@
 {
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399889, 
+  "wof:lastmodified": 1512414455, 
+  "wof:tags": [
+    "broker", 
+    "agency", 
+    "auto", 
+    "carrier", 
+    "life", 
+    "business", 
+    "homeowner", 
+    "agriculture", 
+    "commercial", 
+    "renter", 
+    "benefit", 
+    "employee", 
+    "company", 
+    "credit", 
+    "esta", 
+    "institution", 
+    "personal", 
+    "plan", 
+    "real"
+  ], 
   "wof:brand_name": "Shelter Insurance", 
   "wof:brand_id": 420574285
 }

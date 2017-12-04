@@ -1,6 +1,14 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400687, 
+  "wof:lastmodified": 1512414541, 
+  "wof:tags": [
+    "inn", 
+    "pubs", 
+    "activity", 
+    "house", 
+    "builder", 
+    "public"
+  ], 
   "wof:brand_name": "The Railway Inn", 
   "wof:brand_id": 1125162041
 }

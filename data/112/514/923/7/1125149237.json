@@ -1,6 +1,13 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400731, 
+  "wof:lastmodified": 1512414562, 
+  "wof:tags": [
+    "market", 
+    "delicatessen", 
+    "grocer", 
+    "sandwich", 
+    "super"
+  ], 
   "wof:brand_name": "Wawa Food Market", 
   "wof:brand_id": 1125149237
 }

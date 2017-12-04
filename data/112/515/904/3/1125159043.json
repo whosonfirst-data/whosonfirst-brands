@@ -1,6 +1,24 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400560, 
+  "wof:lastmodified": 1512414465, 
+  "wof:tags": [
+    "drug", 
+    "store", 
+    "drugstore", 
+    "aid", 
+    "appliance", 
+    "care", 
+    "clinic", 
+    "equipment", 
+    "first", 
+    "health", 
+    "home", 
+    "painter", 
+    "prescription", 
+    "supply", 
+    "surgical", 
+    "vitamin"
+  ], 
   "wof:brand_name": "Medical Center Pharmacy", 
   "wof:brand_id": 1125159043
 }

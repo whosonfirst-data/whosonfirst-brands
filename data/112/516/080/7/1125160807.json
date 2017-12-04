@@ -1,6 +1,24 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400694, 
+  "wof:lastmodified": 1512414546, 
+  "wof:tags": [
+    "day", 
+    "provider", 
+    "care", 
+    "center", 
+    "child", 
+    "church", 
+    "nursery", 
+    "apartment", 
+    "baptist", 
+    "building", 
+    "community", 
+    "daycare", 
+    "outpatient", 
+    "place", 
+    "specialty", 
+    "worship"
+  ], 
   "wof:brand_name": "Day Care", 
   "wof:brand_id": 1125160807
 }

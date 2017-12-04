@@ -1,6 +1,22 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400708, 
+  "wof:lastmodified": 1512414556, 
+  "wof:tags": [
+    "grocer", 
+    "oil", 
+    "gasoline", 
+    "grocery", 
+    "station", 
+    "beer", 
+    "cigar", 
+    "cigarette", 
+    "convenience", 
+    "dealer", 
+    "eating", 
+    "independent", 
+    "store", 
+    "wine"
+  ], 
   "wof:brand_name": "Stop N Go", 
   "wof:brand_id": 1125149605
 }

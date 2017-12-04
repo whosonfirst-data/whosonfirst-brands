@@ -1,6 +1,21 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400657, 
+  "wof:lastmodified": 1512414522, 
+  "wof:tags": [
+    "elevator", 
+    "industrial", 
+    "elevators-freight", 
+    "elevators-repairing", 
+    "passenger-commercial", 
+    "moving", 
+    "parts", 
+    "stairway", 
+    "consultant", 
+    "control", 
+    "dumbwaiter", 
+    "escalator", 
+    "relay"
+  ], 
   "wof:brand_name": "Schindler Elevator Corp", 
   "wof:brand_id": 1125155305
 }

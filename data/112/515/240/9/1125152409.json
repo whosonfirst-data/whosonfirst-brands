@@ -1,6 +1,20 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399951, 
+  "wof:lastmodified": 1512414525, 
+  "wof:tags": [
+    "grocer", 
+    "caterer", 
+    "product", 
+    "baker", 
+    "boot", 
+    "cleaning", 
+    "drugstore", 
+    "dry", 
+    "laundry", 
+    "market", 
+    "repairing", 
+    "seafood"
+  ], 
   "wof:brand_name": "Hy-Vee Food Stores", 
   "wof:brand_id": 1125152409
 }

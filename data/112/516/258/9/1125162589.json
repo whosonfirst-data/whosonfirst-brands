@@ -1,6 +1,29 @@
 {
   "wof:brand_size": "S", 
-  "wof:lastmodified": 1511400690, 
+  "wof:lastmodified": 1512414543, 
+  "wof:tags": [
+    "broadcasting", 
+    "broadcast", 
+    "company", 
+    "equipment", 
+    "outdoor", 
+    "representative", 
+    "telephone", 
+    "advertising", 
+    "agency", 
+    "communication", 
+    "datum", 
+    "entertainment", 
+    "lease", 
+    "motion", 
+    "production", 
+    "radio", 
+    "space", 
+    "supply", 
+    "system", 
+    "television", 
+    "wiring"
+  ], 
   "wof:brand_name": "Clear Channel Communications", 
   "wof:brand_id": 1125162589
 }

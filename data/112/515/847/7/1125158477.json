@@ -1,6 +1,25 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400647, 
+  "wof:lastmodified": 1512414515, 
+  "wof:tags": [
+    "village", 
+    "body", 
+    "legislative", 
+    "city", 
+    "council", 
+    "executive", 
+    "government-city", 
+    "township", 
+    "authorities", 
+    "commissions", 
+    "councils", 
+    "development", 
+    "economic", 
+    "general", 
+    "department", 
+    "planner", 
+    "town"
+  ], 
   "wof:brand_name": "City Council", 
   "wof:brand_id": 1125158477
 }

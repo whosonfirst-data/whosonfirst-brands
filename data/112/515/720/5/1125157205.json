@@ -1,6 +1,28 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400623, 
+  "wof:lastmodified": 1512414501, 
+  "wof:tags": [
+    "home", 
+    "nurse", 
+    "registry", 
+    "care", 
+    "medical", 
+    "health", 
+    "instruction", 
+    "alternative", 
+    "agency", 
+    "contractor", 
+    "facility", 
+    "help", 
+    "homes-skilled", 
+    "management", 
+    "nursing", 
+    "opportunity", 
+    "organization", 
+    "staffing", 
+    "surgical", 
+    "welfare"
+  ], 
   "wof:brand_name": "Maxim Healthcare Svc", 
   "wof:brand_id": 1125157205
 }

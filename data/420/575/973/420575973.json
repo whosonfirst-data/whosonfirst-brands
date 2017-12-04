@@ -1,6 +1,29 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400513, 
+  "wof:lastmodified": 1512414449, 
+  "wof:tags": [
+    "video", 
+    "game", 
+    "hobby", 
+    "shop", 
+    "dvd's", 
+    "store", 
+    "toy", 
+    "rental", 
+    "supply", 
+    "accessory", 
+    "books", 
+    "clothing", 
+    "contractor", 
+    "mags", 
+    "music", 
+    "software", 
+    "women's", 
+    "management", 
+    "prepackaged", 
+    "property", 
+    "repair"
+  ], 
   "wof:brand_name": "GameStop", 
   "wof:brand_id": 420575973
 }

@@ -1,6 +1,29 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399901, 
+  "wof:lastmodified": 1512414467, 
+  "wof:tags": [
+    "state", 
+    "program", 
+    "county", 
+    "order", 
+    "safety", 
+    "protection", 
+    "agencies-government", 
+    "animal", 
+    "association", 
+    "city", 
+    "consultant", 
+    "correctional", 
+    "department", 
+    "enforcement", 
+    "general", 
+    "government-city", 
+    "institute", 
+    "law", 
+    "school", 
+    "township", 
+    "village"
+  ], 
   "wof:brand_name": "Public Safety Dept", 
   "wof:brand_id": 1125151663
 }

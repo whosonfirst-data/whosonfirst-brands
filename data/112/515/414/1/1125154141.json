@@ -1,6 +1,18 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400589, 
+  "wof:lastmodified": 1512414482, 
+  "wof:tags": [
+    "shop", 
+    "barber", 
+    "beauty", 
+    "automotive", 
+    "cosmetologist", 
+    "furnishing", 
+    "hair", 
+    "piece", 
+    "salon", 
+    "wig"
+  ], 
   "wof:brand_name": "Razor's Edge", 
   "wof:brand_id": 1125154141
 }

@@ -1,6 +1,22 @@
 {
   "wof:brand_size": "S", 
-  "wof:lastmodified": 1511400681, 
+  "wof:lastmodified": 1512414537, 
+  "wof:tags": [
+    "equipment", 
+    "furniture", 
+    "sales", 
+    "supply", 
+    "business", 
+    "computer", 
+    "contractor", 
+    "design", 
+    "interior", 
+    "new", 
+    "parts", 
+    "product", 
+    "store", 
+    "warehouse"
+  ], 
   "wof:brand_name": "Office Furniture USA", 
   "wof:brand_id": 1125162743
 }

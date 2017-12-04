@@ -1,6 +1,19 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400604, 
+  "wof:lastmodified": 1512414492, 
+  "wof:tags": [
+    "home", 
+    "nurse", 
+    "registry", 
+    "care", 
+    "eldercare-home", 
+    "assistant", 
+    "physician", 
+    "agency", 
+    "employment", 
+    "hospice", 
+    "house"
+  ], 
   "wof:brand_name": "Bayada Nurses", 
   "wof:brand_id": 1125156355
 }

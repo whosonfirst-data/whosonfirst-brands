@@ -1,6 +1,25 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399881, 
+  "wof:lastmodified": 1512414445, 
+  "wof:tags": [
+    "shipping", 
+    "mailing", 
+    "delivery", 
+    "trucking", 
+    "courier", 
+    "arrangement", 
+    "consulting", 
+    "dev", 
+    "direct", 
+    "home", 
+    "internet", 
+    "local", 
+    "mail", 
+    "operator", 
+    "packaging", 
+    "page", 
+    "printer"
+  ], 
   "wof:brand_name": "Fed Ex", 
   "wof:brand_id": 420575969
 }

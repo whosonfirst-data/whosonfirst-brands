@@ -1,6 +1,16 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400682, 
+  "wof:lastmodified": 1512414537, 
+  "wof:tags": [
+    "resource", 
+    "state", 
+    "county", 
+    "organization", 
+    "welfare", 
+    "day", 
+    "executive", 
+    "government"
+  ], 
   "wof:brand_name": "Child Protective Svc", 
   "wof:brand_id": 1125161053
 }

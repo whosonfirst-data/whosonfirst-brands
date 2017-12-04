@@ -1,6 +1,31 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400688, 
+  "wof:lastmodified": 1512414542, 
+  "wof:tags": [
+    "academic", 
+    "kindergarten", 
+    "school", 
+    "day", 
+    "establishment", 
+    "physical", 
+    "special", 
+    "therapist", 
+    "amusement", 
+    "child", 
+    "clinic", 
+    "corp", 
+    "counselor", 
+    "family", 
+    "guidance", 
+    "human", 
+    "marriage", 
+    "mental", 
+    "nursery", 
+    "physician", 
+    "program", 
+    "sitting", 
+    "surgeon"
+  ], 
   "wof:brand_name": "Children's Center", 
   "wof:brand_id": 1125160455
 }

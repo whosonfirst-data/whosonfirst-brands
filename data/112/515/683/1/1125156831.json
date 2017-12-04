@@ -1,6 +1,26 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400574, 
+  "wof:lastmodified": 1512414473, 
+  "wof:tags": [
+    "equipment", 
+    "electric", 
+    "supply", 
+    "fixture", 
+    "lighting", 
+    "manufacturer", 
+    "supplies-wholesale", 
+    "consumer", 
+    "industrial", 
+    "appliances-small", 
+    "construction", 
+    "contractors-commercial", 
+    "electrician", 
+    "electronic", 
+    "equipment-testing", 
+    "major", 
+    "material", 
+    "motors-used"
+  ], 
   "wof:brand_name": "Rexel", 
   "wof:brand_id": 1125156831
 }

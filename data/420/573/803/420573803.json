@@ -1,6 +1,32 @@
 {
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511400529, 
+  "wof:lastmodified": 1512414455, 
+  "wof:tags": [
+    "parts", 
+    "automobile", 
+    "accessory", 
+    "part", 
+    "battery", 
+    "equipment", 
+    "batteries-storage", 
+    "electrical", 
+    "automotive", 
+    "home", 
+    "store", 
+    "supply", 
+    "access", 
+    "repair", 
+    "com", 
+    "body", 
+    "general", 
+    "shop", 
+    "farm", 
+    "model", 
+    "product", 
+    "rebuilt", 
+    "used", 
+    "warehousing"
+  ], 
   "wof:brand_name": "Autozone", 
   "wof:brand_id": 420573803
 }

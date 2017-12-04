@@ -1,10 +1,28 @@
 {
   "wof:brand_name": "Krispy Kreme", 
   "wof:brand_id": 1125149053, 
+  "wof:tags": [
+    "american", 
+    "pastry", 
+    "doughnut", 
+    "bakery", 
+    "shop", 
+    "coffee", 
+    "mfg", 
+    "product", 
+    "baker", 
+    "donut", 
+    "dessert", 
+    "grocery", 
+    "instrument", 
+    "machinery", 
+    "musical", 
+    "retail"
+  ], 
   "wof:supersedes": [
     1125152881
   ], 
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1512143853, 
+  "wof:lastmodified": 1512414558, 
   "mz:is_current": 1
 }

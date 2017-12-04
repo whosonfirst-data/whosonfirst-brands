@@ -1,6 +1,18 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400592, 
+  "wof:lastmodified": 1512414484, 
+  "wof:tags": [
+    "cellular", 
+    "telephone", 
+    "communication", 
+    "merchandise", 
+    "radiotelephone", 
+    "equipment", 
+    "phone", 
+    "system", 
+    "supply", 
+    "telecommunications-equipment"
+  ], 
   "wof:brand_name": "Global Cellular", 
   "wof:brand_id": 1125156241
 }

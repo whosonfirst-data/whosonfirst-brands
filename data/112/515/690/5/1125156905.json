@@ -1,6 +1,13 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400652, 
+  "wof:lastmodified": 1512414518, 
+  "wof:tags": [
+    "grocer", 
+    "gasoline", 
+    "alcoholic", 
+    "delicatessen", 
+    "station"
+  ], 
   "wof:brand_name": "Ameristop Food Mart", 
   "wof:brand_id": 1125156905
 }

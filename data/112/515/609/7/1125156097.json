@@ -1,6 +1,24 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400591, 
+  "wof:lastmodified": 1512414483, 
+  "wof:tags": [
+    "security", 
+    "financial", 
+    "bond", 
+    "stock", 
+    "consultant", 
+    "planning", 
+    "advisory", 
+    "company", 
+    "consulting", 
+    "financing", 
+    "funds", 
+    "holding", 
+    "investing", 
+    "management", 
+    "mutual", 
+    "residential"
+  ], 
   "wof:brand_name": "Investment Center", 
   "wof:brand_id": 1125156097
 }

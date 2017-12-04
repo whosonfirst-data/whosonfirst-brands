@@ -1,6 +1,11 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400578, 
+  "wof:lastmodified": 1512414475, 
+  "wof:tags": [
+    "apartment", 
+    "building", 
+    "complex"
+  ], 
   "wof:brand_name": "Briarwood Apartments", 
   "wof:brand_id": 1125159171
 }

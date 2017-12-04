@@ -1,6 +1,32 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399922, 
+  "wof:lastmodified": 1512414500, 
+  "wof:tags": [
+    "equipment", 
+    "dealer", 
+    "supply", 
+    "consumer", 
+    "hardware", 
+    "cellular", 
+    "telephone", 
+    "communication", 
+    "merchandise", 
+    "software", 
+    "wireless", 
+    "electric", 
+    "radio", 
+    "sound", 
+    "store", 
+    "system", 
+    "television", 
+    "repair", 
+    "books", 
+    "computer-wholesale", 
+    "mags", 
+    "manufacturer", 
+    "music", 
+    "video"
+  ], 
   "wof:brand_name": "Apple Store", 
   "wof:brand_id": 1125152761
 }

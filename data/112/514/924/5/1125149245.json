@@ -1,6 +1,32 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400706, 
+  "wof:lastmodified": 1512414554, 
+  "wof:tags": [
+    "rental", 
+    "line", 
+    "bus", 
+    "school", 
+    "local", 
+    "charter", 
+    "consultant", 
+    "facility", 
+    "passenger", 
+    "public", 
+    "handicapped", 
+    "agency", 
+    "automotive", 
+    "community", 
+    "consulting", 
+    "deep", 
+    "employment", 
+    "maintenance", 
+    "management", 
+    "operation", 
+    "sea", 
+    "supply", 
+    "system", 
+    "tour"
+  ], 
   "wof:brand_name": "Laidlaw Transit Inc", 
   "wof:brand_id": 1125149245
 }

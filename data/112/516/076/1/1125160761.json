@@ -1,6 +1,26 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400695, 
+  "wof:lastmodified": 1512414547, 
+  "wof:tags": [
+    "automobile", 
+    "car", 
+    "dealer", 
+    "repairing", 
+    "body", 
+    "used", 
+    "general", 
+    "painting", 
+    "establishment", 
+    "accident", 
+    "alarm", 
+    "clean", 
+    "detail", 
+    "diagnostic", 
+    "parts", 
+    "reconstruction", 
+    "repair", 
+    "wrecker"
+  ], 
   "wof:brand_name": "Cars", 
   "wof:brand_id": 1125160761
 }

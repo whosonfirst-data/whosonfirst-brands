@@ -1,6 +1,26 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400672, 
+  "wof:lastmodified": 1512414531, 
+  "wof:tags": [
+    "care", 
+    "health", 
+    "managed", 
+    "clinic", 
+    "outpatient", 
+    "specialty", 
+    "rehabilitation", 
+    "job", 
+    "medical", 
+    "administration", 
+    "business", 
+    "compensation", 
+    "consultant", 
+    "establishment", 
+    "instruction", 
+    "manages", 
+    "plan", 
+    "provides"
+  ], 
   "wof:brand_name": "Corvel", 
   "wof:brand_id": 1125158491
 }

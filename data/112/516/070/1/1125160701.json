@@ -1,6 +1,12 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400700, 
+  "wof:lastmodified": 1512414550, 
+  "wof:tags": [
+    "loan", 
+    "institution", 
+    "personal", 
+    "business"
+  ], 
   "wof:brand_name": "World Acceptance Corp", 
   "wof:brand_id": 1125160701
 }

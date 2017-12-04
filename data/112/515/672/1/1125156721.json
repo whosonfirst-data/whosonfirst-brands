@@ -1,6 +1,32 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400651, 
+  "wof:lastmodified": 1512414518, 
+  "wof:tags": [
+    "equipment", 
+    "dealer", 
+    "consultant", 
+    "designer", 
+    "software", 
+    "information", 
+    "aircraft", 
+    "repair", 
+    "technology", 
+    "business", 
+    "government", 
+    "maintenance", 
+    "charter", 
+    "datum", 
+    "engineer", 
+    "fuel", 
+    "inspection", 
+    "leasing", 
+    "mfg", 
+    "prepackaged", 
+    "processing", 
+    "referral", 
+    "scientist", 
+    "telecommunication"
+  ], 
   "wof:brand_name": "Computer Sciences Corp", 
   "wof:brand_id": 1125156721
 }

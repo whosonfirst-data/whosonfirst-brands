@@ -1,6 +1,20 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400641, 
+  "wof:lastmodified": 1512414511, 
+  "wof:tags": [
+    "automobile-body", 
+    "baker", 
+    "building", 
+    "clinic", 
+    "confectioner", 
+    "contractor", 
+    "dental", 
+    "garage", 
+    "mental", 
+    "mexican", 
+    "nonresidential", 
+    "paving"
+  ], 
   "wof:brand_name": "Martin", 
   "wof:brand_id": 1125159035
 }

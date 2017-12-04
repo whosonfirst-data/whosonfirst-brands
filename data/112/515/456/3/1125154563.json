@@ -1,6 +1,23 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400594, 
+  "wof:lastmodified": 1512414485, 
+  "wof:tags": [
+    "beer", 
+    "grocer", 
+    "independent", 
+    "bureau", 
+    "convention", 
+    "delicatessen", 
+    "gasoline", 
+    "information", 
+    "merchandise", 
+    "plaza", 
+    "spirit", 
+    "station", 
+    "stops", 
+    "truck", 
+    "wine"
+  ], 
   "wof:brand_name": "Quick Mart", 
   "wof:brand_id": 1125154563
 }

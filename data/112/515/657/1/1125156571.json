@@ -1,6 +1,21 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400612, 
+  "wof:lastmodified": 1512414496, 
+  "wof:tags": [
+    "physician", 
+    "surgeon", 
+    "clinic", 
+    "establishment", 
+    "x", 
+    "apparatus", 
+    "medical", 
+    "tube", 
+    "equipment", 
+    "contractor", 
+    "electrical", 
+    "electronics", 
+    "engineer"
+  ], 
   "wof:brand_name": "GE Medical Systems", 
   "wof:brand_id": 1125156571
 }

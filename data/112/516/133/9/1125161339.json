@@ -1,6 +1,28 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400687, 
+  "wof:lastmodified": 1512414541, 
+  "wof:tags": [
+    "pharmaceutical", 
+    "mfg", 
+    "veterinary", 
+    "preparation", 
+    "vaccine", 
+    "product", 
+    "medicine", 
+    "vitamin", 
+    "warehouse", 
+    "agricultural", 
+    "animal", 
+    "biological", 
+    "distributor", 
+    "drug", 
+    "drugstore", 
+    "durable", 
+    "for", 
+    "general", 
+    "manufacturer", 
+    "products-wholesale"
+  ], 
   "wof:brand_name": "Wyeth", 
   "wof:brand_id": 1125161339
 }

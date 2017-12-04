@@ -1,6 +1,32 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400655, 
+  "wof:lastmodified": 1512414520, 
+  "wof:tags": [
+    "food", 
+    "product", 
+    "general", 
+    "broker", 
+    "distributor", 
+    "frozen", 
+    "packaged", 
+    "grocer", 
+    "facility", 
+    "meat", 
+    "shop", 
+    "blacksmith", 
+    "commercial", 
+    "consulting", 
+    "e", 
+    "equipment", 
+    "fabrication", 
+    "fro", 
+    "gourmet", 
+    "line", 
+    "management", 
+    "packer", 
+    "produce", 
+    "supply"
+  ], 
   "wof:brand_name": "US Foodservice", 
   "wof:brand_id": 1125154375
 }

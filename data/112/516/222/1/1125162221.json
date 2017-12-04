@@ -1,6 +1,28 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400698, 
+  "wof:lastmodified": 1512414548, 
+  "wof:tags": [
+    "equipment", 
+    "electric", 
+    "supply", 
+    "manufacturer", 
+    "engineer", 
+    "representative", 
+    "system", 
+    "automation", 
+    "computer", 
+    "consumer", 
+    "electrical", 
+    "electronic", 
+    "equipment-testing", 
+    "industrial", 
+    "internet", 
+    "motor", 
+    "power", 
+    "supplies-wholesale", 
+    "switchboard", 
+    "workstation"
+  ], 
   "wof:brand_name": "Eaton Cutler-Hammer", 
   "wof:brand_id": 1125162221
 }

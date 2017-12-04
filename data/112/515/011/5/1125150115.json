@@ -1,6 +1,23 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399923, 
+  "wof:lastmodified": 1512414501, 
+  "wof:tags": [
+    "state", 
+    "commercial", 
+    "national", 
+    "security", 
+    "institution", 
+    "advisory", 
+    "banker", 
+    "banking", 
+    "business", 
+    "consulting", 
+    "depository", 
+    "invest", 
+    "management", 
+    "mortgage", 
+    "personal"
+  ], 
   "wof:brand_name": "AmSouth", 
   "wof:brand_id": 1125150115
 }

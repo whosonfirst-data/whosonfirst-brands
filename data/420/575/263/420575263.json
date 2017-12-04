@@ -1,6 +1,24 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400511, 
+  "wof:lastmodified": 1512414448, 
+  "wof:tags": [
+    "oil", 
+    "station", 
+    "gasoline", 
+    "grocery", 
+    "petroleum", 
+    "refiner", 
+    "gas", 
+    "product", 
+    "bulk", 
+    "crude", 
+    "development", 
+    "exploration", 
+    "field", 
+    "petrol", 
+    "pipeline", 
+    "producer"
+  ], 
   "wof:brand_name": "Murphy Oil USA Inc", 
   "wof:brand_id": 420575263
 }

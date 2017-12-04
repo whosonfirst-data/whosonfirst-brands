@@ -1,6 +1,15 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400632, 
+  "wof:lastmodified": 1512414506, 
+  "wof:tags": [
+    "agency", 
+    "bureau", 
+    "services-commercial", 
+    "steamship", 
+    "cruise", 
+    "airline", 
+    "ticket"
+  ], 
   "wof:brand_name": "Liberty Travel", 
   "wof:brand_id": 1125154661
 }

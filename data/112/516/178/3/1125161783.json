@@ -1,6 +1,31 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400687, 
+  "wof:lastmodified": 1512414541, 
+  "wof:tags": [
+    "automobile", 
+    "clean", 
+    "detail", 
+    "carwash", 
+    "polishing", 
+    "washing", 
+    "automotive", 
+    "shop", 
+    "accessory", 
+    "auto", 
+    "body", 
+    "car", 
+    "contractor", 
+    "dealer", 
+    "detailing", 
+    "janitor", 
+    "merchandise", 
+    "part", 
+    "repairing", 
+    "trade", 
+    "truck", 
+    "used", 
+    "wrecker"
+  ], 
   "wof:brand_name": "Detail Shop", 
   "wof:brand_id": 1125161783
 }

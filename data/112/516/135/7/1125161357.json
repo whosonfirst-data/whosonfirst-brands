@@ -1,6 +1,19 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400688, 
+  "wof:lastmodified": 1512414542, 
+  "wof:tags": [
+    "broker", 
+    "buyer", 
+    "lessor", 
+    "property", 
+    "management", 
+    "building", 
+    "consulting", 
+    "investment", 
+    "listing", 
+    "maintenance", 
+    "personal"
+  ], 
   "wof:brand_name": "Action Realty", 
   "wof:brand_id": 1125161357
 }

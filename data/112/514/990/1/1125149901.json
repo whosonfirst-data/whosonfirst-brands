@@ -1,10 +1,31 @@
 {
   "wof:brand_name": "Dairy Mart", 
   "wof:brand_id": 1125149901, 
+  "wof:tags": [
+    "grocer", 
+    "product", 
+    "eating", 
+    "gasoline", 
+    "station", 
+    "dairy", 
+    "convenience", 
+    "convenient", 
+    "department", 
+    "drive", 
+    "family", 
+    "farm", 
+    "fast", 
+    "grocery", 
+    "hamburger", 
+    "restaurant", 
+    "stand", 
+    "store", 
+    "variety"
+  ], 
   "wof:supersedes": [
     1125150545
   ], 
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1512143841, 
+  "wof:lastmodified": 1512414553, 
   "mz:is_current": 1
 }

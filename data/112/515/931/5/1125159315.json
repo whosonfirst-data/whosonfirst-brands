@@ -1,6 +1,32 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400593, 
+  "wof:lastmodified": 1512414485, 
+  "wof:tags": [
+    "music", 
+    "foreground", 
+    "system", 
+    "sound", 
+    "equipment", 
+    "broadcast", 
+    "distribution", 
+    "contractor", 
+    "audio", 
+    "communication", 
+    "electrical", 
+    "install", 
+    "intercommunication", 
+    "music-background", 
+    "a", 
+    "as", 
+    "background", 
+    "electronic", 
+    "establishment", 
+    "operates", 
+    "paging", 
+    "patent", 
+    "programming", 
+    "signaling"
+  ], 
   "wof:brand_name": "Muzak", 
   "wof:brand_id": 1125159315
 }

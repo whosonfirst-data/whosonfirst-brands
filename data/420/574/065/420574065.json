@@ -1,6 +1,18 @@
 {
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399891, 
+  "wof:lastmodified": 1512414457, 
+  "wof:tags": [
+    "delivery", 
+    "haulage", 
+    "road", 
+    "good", 
+    "mail", 
+    "mailing", 
+    "direct", 
+    "international", 
+    "order", 
+    "shipping"
+  ], 
   "wof:brand_name": "Royal Mail", 
   "wof:brand_id": 420574065
 }

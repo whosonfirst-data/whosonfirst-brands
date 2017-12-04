@@ -1,6 +1,27 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400634, 
+  "wof:lastmodified": 1512414507, 
+  "wof:tags": [
+    "carrier", 
+    "agency", 
+    "business", 
+    "casualty", 
+    "commercial", 
+    "property", 
+    "accident", 
+    "adjuster", 
+    "asset", 
+    "broker", 
+    "carrie", 
+    "co", 
+    "compensation", 
+    "equipment", 
+    "fire", 
+    "health", 
+    "ins", 
+    "legal", 
+    "surety"
+  ], 
   "wof:brand_name": "CNA Insurance", 
   "wof:brand_id": 1125153933
 }

@@ -1,6 +1,17 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399952, 
+  "wof:lastmodified": 1512414542, 
+  "wof:tags": [
+    "american", 
+    "diner", 
+    "coffee", 
+    "tea", 
+    "espresso", 
+    "shop", 
+    "manufacturer", 
+    "restaurant", 
+    "tea-wholesale"
+  ], 
   "wof:brand_name": "Tully's Coffee", 
   "wof:brand_id": 1125161647
 }

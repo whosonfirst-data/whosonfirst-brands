@@ -1,6 +1,26 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400651, 
+  "wof:lastmodified": 1512414517, 
+  "wof:tags": [
+    "cafe", 
+    "eating", 
+    "coffee", 
+    "espresso", 
+    "tea", 
+    "american", 
+    "amusement", 
+    "arcade", 
+    "child", 
+    "counselor", 
+    "counselors-licensed", 
+    "family", 
+    "individual", 
+    "marriage", 
+    "out", 
+    "professional", 
+    "shop", 
+    "wine"
+  ], 
   "wof:brand_name": "Cafe", 
   "wof:brand_id": 1125157571
 }

@@ -1,6 +1,24 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400702, 
+  "wof:lastmodified": 1512414552, 
+  "wof:tags": [
+    "dealer", 
+    "magazine", 
+    "cigar", 
+    "cigarette", 
+    "medium", 
+    "print", 
+    "stand", 
+    "newspaper", 
+    "confectionery", 
+    "establishment", 
+    "grocer", 
+    "hotspot", 
+    "merchandise", 
+    "shop", 
+    "store", 
+    "wi-fi"
+  ], 
   "wof:brand_name": "Gateway Newstand", 
   "wof:brand_id": 1125160517
 }

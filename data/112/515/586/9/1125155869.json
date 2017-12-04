@@ -1,6 +1,26 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400584, 
+  "wof:lastmodified": 1512414479, 
+  "wof:tags": [
+    "pizza", 
+    "eating", 
+    "american", 
+    "sandwich", 
+    "delicatessen", 
+    "burger", 
+    "cheesesteaks", 
+    "chicken", 
+    "delivery", 
+    "frozen", 
+    "hoagy", 
+    "italian", 
+    "mfg", 
+    "pizzeria", 
+    "salad", 
+    "specialty", 
+    "wing", 
+    "wrap"
+  ], 
   "wof:brand_name": "Village Pizza", 
   "wof:brand_id": 1125155869
 }

@@ -1,6 +1,25 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400644, 
+  "wof:lastmodified": 1512414513, 
+  "wof:tags": [
+    "clinic", 
+    "dialysis", 
+    "physician", 
+    "kidneys", 
+    "nephrology", 
+    "surgeon", 
+    "surgeons", 
+    "alternative", 
+    "center", 
+    "hardware", 
+    "kidney", 
+    "medical", 
+    "medicine", 
+    "program", 
+    "referral", 
+    "services-information", 
+    "supply"
+  ], 
   "wof:brand_name": "Da Vita Inc", 
   "wof:brand_id": 1125153511
 }

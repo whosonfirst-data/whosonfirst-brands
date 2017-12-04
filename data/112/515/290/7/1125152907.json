@@ -1,6 +1,28 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399900, 
+  "wof:lastmodified": 1512414484, 
+  "wof:tags": [
+    "cigarette", 
+    "cigar", 
+    "dealer", 
+    "candy", 
+    "fountain", 
+    "supply", 
+    "product", 
+    "v", 
+    "shop", 
+    "gasoline", 
+    "station", 
+    "family", 
+    "retail", 
+    "style", 
+    "tobacco", 
+    "beverage", 
+    "farm", 
+    "mfg", 
+    "novelty", 
+    "store"
+  ], 
   "wof:brand_name": "Smoker Friendly", 
   "wof:brand_id": 1125152907
 }

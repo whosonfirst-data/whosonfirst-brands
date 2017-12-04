@@ -1,6 +1,24 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400514, 
+  "wof:lastmodified": 1512414449, 
+  "wof:tags": [
+    "garage", 
+    "automobile", 
+    "lot", 
+    "attendant", 
+    "lots", 
+    "management", 
+    "car", 
+    "park", 
+    "manages", 
+    "parking", 
+    "building", 
+    "company", 
+    "design", 
+    "nonresidential", 
+    "operator", 
+    "property"
+  ], 
   "wof:brand_name": "Central Parking System", 
   "wof:brand_id": 420575077
 }

@@ -1,6 +1,30 @@
 {
   "wof:brand_size": "S", 
-  "wof:lastmodified": 1511400695, 
+  "wof:lastmodified": 1512414547, 
+  "wof:tags": [
+    "automobile", 
+    "repairing", 
+    "general", 
+    "automotive", 
+    "body", 
+    "painting", 
+    "air conditioning", 
+    "alignment-frame", 
+    "axle", 
+    "brake", 
+    "control", 
+    "devices", 
+    "diagnostic", 
+    "equipment-service", 
+    "exhaust", 
+    "part", 
+    "related", 
+    "servicing-automotive", 
+    "smog", 
+    "truck", 
+    "wheel", 
+    "wrecker"
+  ], 
   "wof:brand_name": "Steve's Auto Repair", 
   "wof:brand_id": 1125162811
 }

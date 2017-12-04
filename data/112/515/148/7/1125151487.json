@@ -1,6 +1,31 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399915, 
+  "wof:lastmodified": 1512414494, 
+  "wof:tags": [
+    "station", 
+    "gasoline", 
+    "oil", 
+    "alcoholic", 
+    "cream", 
+    "establishment", 
+    "grocer", 
+    "ice", 
+    "parlor", 
+    "pizza", 
+    "be", 
+    "coffee", 
+    "delicatessen", 
+    "drinking", 
+    "eating", 
+    "fast", 
+    "gas", 
+    "general", 
+    "grocery", 
+    "restaurant", 
+    "shop", 
+    "tea", 
+    "variety"
+  ], 
   "wof:brand_name": "Short Stop", 
   "wof:brand_id": 1125151487
 }

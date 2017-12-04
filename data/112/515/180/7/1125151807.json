@@ -1,6 +1,27 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399908, 
+  "wof:lastmodified": 1512414473, 
+  "wof:tags": [
+    "communication", 
+    "radiotelephone", 
+    "merchandise", 
+    "cellular", 
+    "telephone", 
+    "communications", 
+    "equipment", 
+    "business", 
+    "consulting", 
+    "investor", 
+    "location", 
+    "mfg", 
+    "pager", 
+    "r", 
+    "radio", 
+    "switching", 
+    "system", 
+    "telecommunication", 
+    "wireless"
+  ], 
   "wof:brand_name": "United States Cellular Corp", 
   "wof:brand_id": 1125151807
 }

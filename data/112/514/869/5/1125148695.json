@@ -1,11 +1,30 @@
 {
   "wof:brand_name": "Little Caesar's Pizza", 
   "wof:brand_id": 1125148695, 
+  "wof:tags": [
+    "pizza", 
+    "american", 
+    "eating", 
+    "take", 
+    "delivery", 
+    "italian", 
+    "grocery", 
+    "equipment", 
+    "general", 
+    "pizzeria", 
+    "caterer", 
+    "chain", 
+    "commercial", 
+    "photo", 
+    "portrait", 
+    "studio", 
+    "wholesale"
+  ], 
   "wof:supersedes": [
     420574587, 
     420574269
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512143841, 
+  "wof:lastmodified": 1512414554, 
   "mz:is_current": 1
 }

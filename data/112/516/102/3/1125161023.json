@@ -1,6 +1,17 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400698, 
+  "wof:lastmodified": 1512414549, 
+  "wof:tags": [
+    "clothing", 
+    "recycled", 
+    "occupational", 
+    "safety", 
+    "aid", 
+    "care", 
+    "health", 
+    "home", 
+    "development"
+  ], 
   "wof:brand_name": "Australian Red Cross", 
   "wof:brand_id": 1125161023
 }

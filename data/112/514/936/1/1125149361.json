@@ -1,6 +1,25 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400705, 
+  "wof:lastmodified": 1512414554, 
+  "wof:tags": [
+    "oil", 
+    "store", 
+    "convenience", 
+    "grocery", 
+    "station", 
+    "gasoline", 
+    "gasoline-wholesale", 
+    "manufacturer", 
+    "oils-petroleum", 
+    "petroleum", 
+    "product", 
+    "products-wholesale", 
+    "beer", 
+    "eating", 
+    "gas", 
+    "spirit", 
+    "wine"
+  ], 
   "wof:brand_name": "Chevron Food Mart", 
   "wof:brand_id": 1125149361
 }

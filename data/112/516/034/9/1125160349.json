@@ -1,6 +1,31 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400693, 
+  "wof:lastmodified": 1512414546, 
+  "wof:tags": [
+    "away", 
+    "take", 
+    "room", 
+    "tea", 
+    "caterer", 
+    "sandwich", 
+    "american", 
+    "bar", 
+    "delivery", 
+    "meal", 
+    "outlet", 
+    "snack", 
+    "burger", 
+    "chicken", 
+    "dog", 
+    "ethiopian", 
+    "hairdresser", 
+    "hot", 
+    "pasta", 
+    "salad", 
+    "unisex", 
+    "vegetarian", 
+    "wrap"
+  ], 
   "wof:brand_name": "The Lunch Box", 
   "wof:brand_id": 1125160349
 }

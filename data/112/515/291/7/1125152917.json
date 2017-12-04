@@ -1,6 +1,25 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399923, 
+  "wof:lastmodified": 1512414501, 
+  "wof:tags": [
+    "self", 
+    "commercial", 
+    "household", 
+    "full", 
+    "mover", 
+    "storage", 
+    "boxes-corrugated", 
+    "fiber", 
+    "manufacturer", 
+    "materials-wholesale", 
+    "packaging", 
+    "general", 
+    "material", 
+    "moving", 
+    "paper", 
+    "services-labor", 
+    "special"
+  ], 
   "wof:brand_name": "Uncle Bob's Self Storage", 
   "wof:brand_id": 1125152917
 }

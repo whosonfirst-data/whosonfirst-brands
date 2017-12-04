@@ -1,6 +1,17 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400584, 
+  "wof:lastmodified": 1512414479, 
+  "wof:tags": [
+    "probation", 
+    "correctional", 
+    "institution", 
+    "parole", 
+    "adult", 
+    "agencies-government", 
+    "enforcement", 
+    "government-state", 
+    "law"
+  ], 
   "wof:brand_name": "Parole Office", 
   "wof:brand_id": 1125159641
 }

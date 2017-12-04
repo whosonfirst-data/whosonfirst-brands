@@ -1,6 +1,18 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399924, 
+  "wof:lastmodified": 1512414503, 
+  "wof:tags": [
+    "accessory", 
+    "telephone", 
+    "system", 
+    "equipment", 
+    "installation", 
+    "maintenance", 
+    "hardware", 
+    "facsimile", 
+    "global", 
+    "positioning"
+  ], 
   "wof:brand_name": "Telstra Shop", 
   "wof:brand_id": 1125152683
 }

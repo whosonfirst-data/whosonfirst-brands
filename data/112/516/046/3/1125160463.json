@@ -1,6 +1,30 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400685, 
+  "wof:lastmodified": 1512414540, 
+  "wof:tags": [
+    "equipment", 
+    "mfg", 
+    "peripheral", 
+    "system", 
+    "internet", 
+    "consultant", 
+    "datum", 
+    "design", 
+    "designer", 
+    "carrier", 
+    "communication", 
+    "communications", 
+    "electronic", 
+    "engineering", 
+    "mainframe", 
+    "parts", 
+    "programming", 
+    "repair", 
+    "sales", 
+    "telecommunication", 
+    "teleconferencing", 
+    "working"
+  ], 
   "wof:brand_name": "Cisco Systems Inc", 
   "wof:brand_id": 1125160463
 }

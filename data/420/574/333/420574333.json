@@ -1,11 +1,39 @@
 {
   "wof:brand_name": "Church's Chicken", 
   "wof:brand_id": 420574333, 
+  "wof:tags": [
+    "chicken", 
+    "wing", 
+    "eating", 
+    "take", 
+    "fast", 
+    "dinner", 
+    "establishment", 
+    "convenience", 
+    "gasoline", 
+    "station", 
+    "store", 
+    "a", 
+    "as", 
+    "chain", 
+    "dairy", 
+    "filling", 
+    "fried", 
+    "grocery", 
+    "mfg", 
+    "operates", 
+    "preparation", 
+    "product", 
+    "soul", 
+    "southern", 
+    "stop", 
+    "truck"
+  ], 
   "wof:supersedes": [
     1125157805, 
     1125159205
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512143670, 
+  "wof:lastmodified": 1512414461, 
   "mz:is_current": 1
 }

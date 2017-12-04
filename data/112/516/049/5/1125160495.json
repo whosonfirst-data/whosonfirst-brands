@@ -1,6 +1,21 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400693, 
+  "wof:lastmodified": 1512414545, 
+  "wof:tags": [
+    "compact", 
+    "disc", 
+    "record", 
+    "tape", 
+    "dvd's", 
+    "music", 
+    "books", 
+    "bookstore", 
+    "dealer", 
+    "mags", 
+    "mass", 
+    "medium", 
+    "video"
+  ], 
   "wof:brand_name": "FYE", 
   "wof:brand_id": 1125160495
 }

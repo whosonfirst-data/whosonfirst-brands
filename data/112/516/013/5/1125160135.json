@@ -1,6 +1,19 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400691, 
+  "wof:lastmodified": 1512414544, 
+  "wof:tags": [
+    "prefabricated", 
+    "building", 
+    "nonresidential", 
+    "contractor", 
+    "carpentry", 
+    "residential", 
+    "fabricated", 
+    "general", 
+    "mfg", 
+    "plate", 
+    "warehouse"
+  ], 
   "wof:brand_name": "Cleary Building Corp", 
   "wof:brand_id": 1125160135
 }

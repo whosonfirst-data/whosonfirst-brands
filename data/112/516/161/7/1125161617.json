@@ -1,6 +1,32 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400692, 
+  "wof:lastmodified": 1512414545, 
+  "wof:tags": [
+    "carwash", 
+    "janitor", 
+    "window", 
+    "commercial", 
+    "maintenance", 
+    "clean", 
+    "automobile", 
+    "car", 
+    "cleaner", 
+    "cleaning", 
+    "detail", 
+    "house", 
+    "supply", 
+    "blind", 
+    "domestic", 
+    "help", 
+    "marking", 
+    "pavement", 
+    "site", 
+    "transport", 
+    "upholstery", 
+    "valet", 
+    "venetian", 
+    "water"
+  ], 
   "wof:brand_name": "Squeaky Clean", 
   "wof:brand_id": 1125161617
 }

@@ -1,6 +1,18 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400587, 
+  "wof:lastmodified": 1512414481, 
+  "wof:tags": [
+    "county", 
+    "taxation", 
+    "policy", 
+    "executive", 
+    "government-city", 
+    "township", 
+    "treasurer", 
+    "village", 
+    "government-county", 
+    "parish"
+  ], 
   "wof:brand_name": "County Treasurer", 
   "wof:brand_id": 1125157367
 }

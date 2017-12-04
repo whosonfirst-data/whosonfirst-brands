@@ -1,6 +1,22 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399909, 
+  "wof:lastmodified": 1512414490, 
+  "wof:tags": [
+    "operation", 
+    "social", 
+    "membership", 
+    "carrier", 
+    "lodging", 
+    "building", 
+    "club", 
+    "drinking", 
+    "fund", 
+    "house", 
+    "management", 
+    "nonresidential", 
+    "society", 
+    "trust"
+  ], 
   "wof:brand_name": "Free & Accepted Masons of", 
   "wof:brand_id": 1125150549
 }

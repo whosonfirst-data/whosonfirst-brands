@@ -1,6 +1,20 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399916, 
+  "wof:lastmodified": 1512414477, 
+  "wof:tags": [
+    "banking", 
+    "depository", 
+    "cashing", 
+    "check", 
+    "loan", 
+    "institution", 
+    "agency", 
+    "business", 
+    "consumer", 
+    "financial", 
+    "provides", 
+    "savings"
+  ], 
   "wof:brand_name": "Check n Go", 
   "wof:brand_id": 1125151829
 }

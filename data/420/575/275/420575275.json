@@ -1,6 +1,23 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399880, 
+  "wof:lastmodified": 1512414444, 
+  "wof:tags": [
+    "oil", 
+    "petroleum", 
+    "product", 
+    "establishment", 
+    "check", 
+    "crude", 
+    "gasoline", 
+    "oils-petroleum", 
+    "pipeline", 
+    "producer", 
+    "refiner", 
+    "refinery", 
+    "smog", 
+    "station", 
+    "super"
+  ], 
   "wof:brand_name": "Valero", 
   "wof:brand_id": 420575275
 }

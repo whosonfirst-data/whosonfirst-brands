@@ -1,6 +1,24 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399925, 
+  "wof:lastmodified": 1512414503, 
+  "wof:tags": [
+    "shop", 
+    "gourmet", 
+    "product", 
+    "miscellaneous", 
+    "store", 
+    "cheese", 
+    "mail", 
+    "online", 
+    "order", 
+    "basket", 
+    "parcel", 
+    "adding", 
+    "calculating", 
+    "crop", 
+    "dairy", 
+    "general"
+  ], 
   "wof:brand_name": "Hickory Farms", 
   "wof:brand_id": 1125151035
 }

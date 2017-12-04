@@ -1,6 +1,14 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400685, 
+  "wof:lastmodified": 1512414540, 
+  "wof:tags": [
+    "dental", 
+    "dentist", 
+    "clinic", 
+    "firm", 
+    "laboratory", 
+    "practice"
+  ], 
   "wof:brand_name": "Coast Dental", 
   "wof:brand_id": 1125160465
 }

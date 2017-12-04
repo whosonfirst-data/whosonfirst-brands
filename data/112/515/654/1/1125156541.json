@@ -1,6 +1,31 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400659, 
+  "wof:lastmodified": 1512414523, 
+  "wof:tags": [
+    "gas", 
+    "petroleum", 
+    "liquefied", 
+    "transmission", 
+    "product", 
+    "appliance", 
+    "distribution", 
+    "propane", 
+    "household", 
+    "bottled", 
+    "business", 
+    "co", 
+    "company", 
+    "energy", 
+    "line", 
+    "lines-installation", 
+    "management", 
+    "natural", 
+    "pipe", 
+    "repairing", 
+    "retail", 
+    "system", 
+    "wholesale"
+  ], 
   "wof:brand_name": "Columbia Energy", 
   "wof:brand_id": 1125156541
 }

@@ -1,6 +1,25 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400729, 
+  "wof:lastmodified": 1512414562, 
+  "wof:tags": [
+    "garage", 
+    "automobile", 
+    "attendant", 
+    "lot", 
+    "parking", 
+    "accounting", 
+    "airport", 
+    "consultant", 
+    "facility", 
+    "management", 
+    "medical", 
+    "oil", 
+    "operation", 
+    "shuttle", 
+    "supply", 
+    "uniform", 
+    "valet"
+  ], 
   "wof:brand_name": "Standard Parking", 
   "wof:brand_id": 1125149153
 }

@@ -1,6 +1,11 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400680, 
+  "wof:lastmodified": 1512414536, 
+  "wof:tags": [
+    "delivery", 
+    "haulage", 
+    "road"
+  ], 
   "wof:brand_name": "Securicor Omega Express", 
   "wof:brand_id": 1125159681
 }

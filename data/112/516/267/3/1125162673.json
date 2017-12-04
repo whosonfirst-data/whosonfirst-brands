@@ -1,6 +1,21 @@
 {
   "wof:brand_size": "S", 
-  "wof:lastmodified": 1511400693, 
+  "wof:lastmodified": 1512414545, 
+  "wof:tags": [
+    "medical", 
+    "physician", 
+    "surgeon", 
+    "internal", 
+    "medicine", 
+    "surgeons", 
+    "clinic", 
+    "billing", 
+    "center", 
+    "family", 
+    "operator", 
+    "osteopathic", 
+    "practice"
+  ], 
   "wof:brand_name": "Internal Medicine Associates", 
   "wof:brand_id": 1125162673
 }

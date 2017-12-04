@@ -1,6 +1,29 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399917, 
+  "wof:lastmodified": 1512414495, 
+  "wof:tags": [
+    "security", 
+    "financial", 
+    "consultant", 
+    "planning", 
+    "advisory", 
+    "consulting", 
+    "management", 
+    "bond", 
+    "stock", 
+    "insurance", 
+    "banking", 
+    "brokerage", 
+    "business", 
+    "commodity", 
+    "company", 
+    "funds", 
+    "holding", 
+    "investment", 
+    "mfg", 
+    "mutual", 
+    "personal"
+  ], 
   "wof:brand_name": "Raymond James Financial Svcs", 
   "wof:brand_id": 1125152367
 }

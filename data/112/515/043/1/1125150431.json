@@ -1,6 +1,19 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399943, 
+  "wof:lastmodified": 1512414536, 
+  "wof:tags": [
+    "agency", 
+    "cruise", 
+    "bureau", 
+    "services-commercial", 
+    "operator", 
+    "tour", 
+    "consultant", 
+    "information", 
+    "planning", 
+    "promoter", 
+    "tours-operators"
+  ], 
   "wof:brand_name": "Cruise Planners", 
   "wof:brand_id": 1125150431
 }

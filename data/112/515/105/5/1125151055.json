@@ -1,6 +1,20 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399899, 
+  "wof:lastmodified": 1512414465, 
+  "wof:tags": [
+    "car", 
+    "hire", 
+    "minibus", 
+    "bus", 
+    "truck", 
+    "shop", 
+    "beer", 
+    "contractor", 
+    "drink", 
+    "oil", 
+    "soft", 
+    "waterproofing"
+  ], 
   "wof:brand_name": "Thrifty", 
   "wof:brand_id": 1125151055
 }

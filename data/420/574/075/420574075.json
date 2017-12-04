@@ -1,6 +1,27 @@
 {
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399894, 
+  "wof:lastmodified": 1512414460, 
+  "wof:tags": [
+    "doughnut", 
+    "coffee", 
+    "tea", 
+    "shop", 
+    "eating", 
+    "donut", 
+    "american", 
+    "breakfast", 
+    "brunch", 
+    "sandwich", 
+    "diner", 
+    "espresso", 
+    "lunch", 
+    "bakery", 
+    "fast", 
+    "franchise", 
+    "pastry", 
+    "restaurant", 
+    "retail"
+  ], 
   "wof:brand_name": "Tim Hortons", 
   "wof:brand_id": 420574075
 }

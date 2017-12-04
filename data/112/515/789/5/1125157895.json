@@ -1,6 +1,21 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400580, 
+  "wof:lastmodified": 1512414477, 
+  "wof:tags": [
+    "basket", 
+    "direct", 
+    "retail", 
+    "sales", 
+    "art", 
+    "gift", 
+    "home", 
+    "house", 
+    "improvement", 
+    "mail", 
+    "merchandise", 
+    "mfg", 
+    "supply"
+  ], 
   "wof:brand_name": "Longaberger", 
   "wof:brand_id": 1125157895
 }

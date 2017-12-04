@@ -1,10 +1,38 @@
 {
   "wof:brand_name": "Steak 'n Shake", 
   "wof:brand_id": 1125148867, 
+  "wof:tags": [
+    "american", 
+    "cream", 
+    "ice", 
+    "eating", 
+    "burger", 
+    "breakfast", 
+    "brunch", 
+    "family", 
+    "lunch", 
+    "style", 
+    "diner", 
+    "dog", 
+    "hamburger", 
+    "hot", 
+    "take", 
+    "sandwich", 
+    "juice", 
+    "salad", 
+    "smoothy", 
+    "soup", 
+    "wrap", 
+    "coffee", 
+    "general", 
+    "merchandise", 
+    "restaurant", 
+    "tea"
+  ], 
   "wof:supersedes": [
     1125157975
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512143873, 
+  "wof:lastmodified": 1512414562, 
   "mz:is_current": 1
 }

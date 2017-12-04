@@ -1,6 +1,28 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399906, 
+  "wof:lastmodified": 1512414471, 
+  "wof:tags": [
+    "station", 
+    "gasoline", 
+    "grocery", 
+    "oil", 
+    "store", 
+    "convenience", 
+    "filling", 
+    "food", 
+    "grocers-specialty", 
+    "business", 
+    "dealer", 
+    "direct", 
+    "fuel", 
+    "gas", 
+    "mart", 
+    "merchandise", 
+    "sales", 
+    "shop", 
+    "snack", 
+    "stop"
+  ], 
   "wof:brand_name": "Amoco Food Mart", 
   "wof:brand_id": 1125152841
 }

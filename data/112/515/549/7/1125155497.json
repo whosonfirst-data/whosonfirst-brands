@@ -1,6 +1,32 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400587, 
+  "wof:lastmodified": 1512414481, 
+  "wof:tags": [
+    "delivery", 
+    "courier", 
+    "operator", 
+    "trucking", 
+    "line", 
+    "local", 
+    "bus", 
+    "air", 
+    "establishment", 
+    "passenger", 
+    "agency", 
+    "public", 
+    "ticket", 
+    "transportation", 
+    "advertising", 
+    "arrangement", 
+    "cargo", 
+    "depository", 
+    "direct", 
+    "facility", 
+    "grocery", 
+    "mail", 
+    "packaging", 
+    "terminal"
+  ], 
   "wof:brand_name": "Greyhound Package Express", 
   "wof:brand_id": 1125155497
 }

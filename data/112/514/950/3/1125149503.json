@@ -1,6 +1,13 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399981, 
+  "wof:lastmodified": 1512414561, 
+  "wof:tags": [
+    "station", 
+    "gas", 
+    "gasoline", 
+    "product", 
+    "tobacco"
+  ], 
   "wof:brand_name": "Uni-Mart", 
   "wof:brand_id": 1125149503
 }

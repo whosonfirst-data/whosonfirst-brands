@@ -1,6 +1,15 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399920, 
+  "wof:lastmodified": 1512414499, 
+  "wof:tags": [
+    "postal", 
+    "us", 
+    "assembly", 
+    "mail", 
+    "parcel", 
+    "post", 
+    "shipping"
+  ], 
   "wof:brand_name": "United States Post Office", 
   "wof:brand_id": 1125152503
 }

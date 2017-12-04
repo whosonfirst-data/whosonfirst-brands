@@ -1,6 +1,31 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399916, 
+  "wof:lastmodified": 1512414478, 
+  "wof:tags": [
+    "carrier", 
+    "health", 
+    "annuity", 
+    "business", 
+    "social", 
+    "closed", 
+    "investment", 
+    "trust", 
+    "charity", 
+    "estate", 
+    "foundations-educational", 
+    "institution", 
+    "insurance", 
+    "life", 
+    "living", 
+    "management", 
+    "personal", 
+    "philanthropic", 
+    "planning", 
+    "probate", 
+    "religious", 
+    "research", 
+    "trade"
+  ], 
   "wof:brand_name": "Aid Assoc For Lutherans", 
   "wof:brand_id": 1125151343
 }

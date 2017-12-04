@@ -1,6 +1,10 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400684, 
+  "wof:lastmodified": 1512414539, 
+  "wof:tags": [
+    "guard", 
+    "patrol"
+  ], 
   "wof:brand_name": "Guardsmark Inc", 
   "wof:brand_id": 1125160847
 }

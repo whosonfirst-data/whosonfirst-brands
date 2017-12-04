@@ -1,6 +1,23 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399972, 
+  "wof:lastmodified": 1512414553, 
+  "wof:tags": [
+    "battery", 
+    "equipment", 
+    "automobile", 
+    "automotive", 
+    "batteries-storage", 
+    "cell", 
+    "charging", 
+    "commercial", 
+    "dry", 
+    "el", 
+    "electrical", 
+    "motorcycle", 
+    "parts", 
+    "power", 
+    "systems-uninterruptible"
+  ], 
   "wof:brand_name": "Interstate Battery System", 
   "wof:brand_id": 1125149909
 }

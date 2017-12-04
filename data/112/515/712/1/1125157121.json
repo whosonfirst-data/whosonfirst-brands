@@ -1,6 +1,21 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400617, 
+  "wof:lastmodified": 1512414499, 
+  "wof:tags": [
+    "television", 
+    "cable", 
+    "internet", 
+    "communication", 
+    "satellite", 
+    "tv", 
+    "agency", 
+    "company", 
+    "other", 
+    "pay", 
+    "provider", 
+    "representative", 
+    "wireless"
+  ], 
   "wof:brand_name": "Cablevision", 
   "wof:brand_id": 1125157121
 }

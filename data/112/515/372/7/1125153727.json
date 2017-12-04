@@ -1,6 +1,26 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400598, 
+  "wof:lastmodified": 1512414488, 
+  "wof:tags": [
+    "transportation", 
+    "government-united", 
+    "state", 
+    "center", 
+    "support", 
+    "system", 
+    "airway", 
+    "facility", 
+    "airport", 
+    "aviation", 
+    "executive", 
+    "federal", 
+    "administration", 
+    "field", 
+    "help", 
+    "maintenance", 
+    "sector", 
+    "supply"
+  ], 
   "wof:brand_name": "System Support Center", 
   "wof:brand_id": 1125153727
 }

@@ -1,6 +1,31 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400532, 
+  "wof:lastmodified": 1512414456, 
+  "wof:tags": [
+    "church", 
+    "churches-baptist", 
+    "churches-baptist-general", 
+    "baptist", 
+    "churches-baptist-southern", 
+    "school", 
+    "churches-baptist-independent", 
+    "religious", 
+    "academic", 
+    "churches-baptist-missionary", 
+    "churches-interdenominational", 
+    "churches-various", 
+    "clergy", 
+    "day", 
+    "denomination", 
+    "k-", 
+    "kindergarten", 
+    "membership", 
+    "organization", 
+    "physician", 
+    "private", 
+    "sch", 
+    "surgeon"
+  ], 
   "wof:brand_name": "Grace Baptist Church", 
   "wof:brand_id": 420574631
 }

@@ -1,6 +1,24 @@
 {
   "wof:brand_name": "Orkin", 
   "wof:brand_id": 1125156281, 
+  "wof:tags": [
+    "termite", 
+    "industrial", 
+    "services-commercial", 
+    "removal", 
+    "bee", 
+    "equipment", 
+    "supply", 
+    "mothproofing", 
+    "disinfecting", 
+    "home", 
+    "control", 
+    "pest", 
+    "devices", 
+    "insect", 
+    "shed", 
+    "utility"
+  ], 
   "wof:supersedes": [
     1125150285, 
     1125159971, 
@@ -8,6 +26,6 @@
     1125161223
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512143718, 
+  "wof:lastmodified": 1512414470, 
   "mz:is_current": 1
 }

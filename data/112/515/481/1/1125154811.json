@@ -1,6 +1,28 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400602, 
+  "wof:lastmodified": 1512414491, 
+  "wof:tags": [
+    "box", 
+    "fiber", 
+    "corrugated", 
+    "solid", 
+    "mfg", 
+    "bag", 
+    "container", 
+    "packaging", 
+    "paperboard", 
+    "assembly", 
+    "boxes-corrugated", 
+    "boxes-paper", 
+    "fabricating", 
+    "fiber-wholesale", 
+    "manufacturer", 
+    "material", 
+    "mill", 
+    "mills", 
+    "plant", 
+    "sheet"
+  ], 
   "wof:brand_name": "Smurfit-Stone Container Corp", 
   "wof:brand_id": 1125154811
 }

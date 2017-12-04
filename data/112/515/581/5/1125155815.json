@@ -1,6 +1,31 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400595, 
+  "wof:lastmodified": 1512414487, 
+  "wof:tags": [
+    "home", 
+    "care", 
+    "equipment", 
+    "health", 
+    "infusion", 
+    "merchandise", 
+    "therapy", 
+    "agency", 
+    "drugstore", 
+    "employment", 
+    "hospital", 
+    "medical", 
+    "company", 
+    "drug", 
+    "mi", 
+    "outpatient", 
+    "pharmaceutical", 
+    "physician", 
+    "rental", 
+    "sales", 
+    "specialty", 
+    "supply", 
+    "surgeon"
+  ], 
   "wof:brand_name": "Option Care", 
   "wof:brand_id": 1125155815
 }

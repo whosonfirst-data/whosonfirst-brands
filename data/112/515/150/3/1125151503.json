@@ -1,6 +1,17 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399945, 
+  "wof:lastmodified": 1512414520, 
+  "wof:tags": [
+    "sandwich", 
+    "american", 
+    "salad", 
+    "soup", 
+    "wrap", 
+    "shop", 
+    "delicatessen", 
+    "take", 
+    "italian"
+  ], 
   "wof:brand_name": "D'Angelo Sandwich Shops", 
   "wof:brand_id": 1125151503
 }

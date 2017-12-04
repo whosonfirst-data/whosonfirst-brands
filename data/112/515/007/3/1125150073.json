@@ -1,6 +1,23 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399906, 
+  "wof:lastmodified": 1512414471, 
+  "wof:tags": [
+    "cashing", 
+    "check", 
+    "banking", 
+    "depository", 
+    "loan", 
+    "institution", 
+    "business", 
+    "broker", 
+    "financing", 
+    "lending", 
+    "pawn", 
+    "pawnbroker", 
+    "personal", 
+    "small", 
+    "title"
+  ], 
   "wof:brand_name": "Cash Express", 
   "wof:brand_id": 1125150073
 }

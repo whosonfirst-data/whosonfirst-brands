@@ -1,6 +1,17 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400697, 
+  "wof:lastmodified": 1512414548, 
+  "wof:tags": [
+    "automobile", 
+    "garage", 
+    "lots", 
+    "lot", 
+    "management", 
+    "facility", 
+    "manages", 
+    "operates", 
+    "operator"
+  ], 
   "wof:brand_name": "Central Parking Corporation", 
   "wof:brand_id": 1125162575
 }

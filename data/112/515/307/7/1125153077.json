@@ -1,6 +1,30 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399902, 
+  "wof:lastmodified": 1512414468, 
+  "wof:tags": [
+    "home", 
+    "convalescent", 
+    "skilled", 
+    "rehabilitation", 
+    "care", 
+    "residential", 
+    "specialty", 
+    "alcoholism", 
+    "community", 
+    "facility", 
+    "hospital", 
+    "information", 
+    "lease", 
+    "manages", 
+    "nu", 
+    "nurses-home", 
+    "nursing", 
+    "operates", 
+    "outpatient", 
+    "owns", 
+    "retirement", 
+    "treatment"
+  ], 
   "wof:brand_name": "Beverly Healthcare", 
   "wof:brand_id": 1125153077
 }

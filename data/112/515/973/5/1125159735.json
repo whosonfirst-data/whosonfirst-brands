@@ -1,6 +1,18 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400637, 
+  "wof:lastmodified": 1512414509, 
+  "wof:tags": [
+    "broker", 
+    "buyer", 
+    "appraiser", 
+    "consultant", 
+    "appraisers-commercial", 
+    "industrial", 
+    "information", 
+    "management", 
+    "manager", 
+    "referral"
+  ], 
   "wof:brand_name": "United Country Real Estate", 
   "wof:brand_id": 1125159735
 }

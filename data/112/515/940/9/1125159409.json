@@ -1,6 +1,23 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400664, 
+  "wof:lastmodified": 1512414526, 
+  "wof:tags": [
+    "cigar", 
+    "cigarette", 
+    "dealer", 
+    "product", 
+    "oil", 
+    "shop", 
+    "clothing", 
+    "family", 
+    "gasoline", 
+    "manufacturer", 
+    "road", 
+    "station", 
+    "tobacco", 
+    "tobacco-wholesale", 
+    "venue"
+  ], 
   "wof:brand_name": "Tobacco Road", 
   "wof:brand_id": 1125159409
 }

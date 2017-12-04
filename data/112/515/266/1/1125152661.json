@@ -1,6 +1,27 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399941, 
+  "wof:lastmodified": 1512414535, 
+  "wof:tags": [
+    "residential", 
+    "management", 
+    "consulting", 
+    "brokerage", 
+    "manager", 
+    "real estate", 
+    "agent", 
+    "automobile", 
+    "broker", 
+    "contractor", 
+    "franchise", 
+    "investment", 
+    "investor", 
+    "lessor", 
+    "property", 
+    "regional", 
+    "rental", 
+    "sales", 
+    "trust"
+  ], 
   "wof:brand_name": "Keller Williams Realtors", 
   "wof:brand_id": 1125152661
 }

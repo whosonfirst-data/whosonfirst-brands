@@ -1,6 +1,18 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400685, 
+  "wof:lastmodified": 1512414540, 
+  "wof:tags": [
+    "apartment", 
+    "building", 
+    "complex", 
+    "apt", 
+    "builder", 
+    "finding", 
+    "house", 
+    "operative", 
+    "operator", 
+    "rental"
+  ], 
   "wof:brand_name": "Heritage Apartments", 
   "wof:brand_id": 1125160859
 }

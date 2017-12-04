@@ -1,6 +1,32 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400653, 
+  "wof:lastmodified": 1512414519, 
+  "wof:tags": [
+    "grocery", 
+    "coffee", 
+    "gasoline", 
+    "oil", 
+    "station", 
+    "billiard", 
+    "operator", 
+    "parlor", 
+    "asian", 
+    "away", 
+    "break", 
+    "caterer", 
+    "chinese", 
+    "club", 
+    "cocktail", 
+    "concessionaire", 
+    "eating", 
+    "korean", 
+    "lounge", 
+    "shop", 
+    "supply", 
+    "taiwanese", 
+    "take", 
+    "tea"
+  ], 
   "wof:brand_name": "Break Time", 
   "wof:brand_id": 1125159809
 }

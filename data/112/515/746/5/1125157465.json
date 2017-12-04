@@ -1,6 +1,26 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400593, 
+  "wof:lastmodified": 1512414485, 
+  "wof:tags": [
+    "grocer", 
+    "pharmacy", 
+    "supermarket", 
+    "an", 
+    "florist", 
+    "drug", 
+    "mfg", 
+    "eating", 
+    "prod", 
+    "a", 
+    "as", 
+    "bakery", 
+    "grocery", 
+    "indoor", 
+    "operates", 
+    "photofinishing", 
+    "store", 
+    "sundries"
+  ], 
   "wof:brand_name": "Pathmark", 
   "wof:brand_id": 1125157465
 }

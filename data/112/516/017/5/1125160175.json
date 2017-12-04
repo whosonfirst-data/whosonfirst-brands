@@ -1,6 +1,13 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400687, 
+  "wof:lastmodified": 1512414541, 
+  "wof:tags": [
+    "burger", 
+    "american", 
+    "traditional", 
+    "dog", 
+    "hot"
+  ], 
   "wof:brand_name": "Five Guys Burgers and Fries", 
   "wof:brand_id": 1125160175
 }

@@ -1,6 +1,11 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399955, 
+  "wof:lastmodified": 1512414528, 
+  "wof:tags": [
+    "central", 
+    "local", 
+    "probation"
+  ], 
   "wof:brand_name": "Probation Service", 
   "wof:brand_id": 1125152233
 }

@@ -1,10 +1,29 @@
 {
   "wof:brand_name": "Popeyes Chicken & Biscuits", 
   "wof:brand_id": 420574645, 
+  "wof:tags": [
+    "american", 
+    "wing", 
+    "eating", 
+    "chicken", 
+    "take", 
+    "fast", 
+    "southern", 
+    "restaurant", 
+    "building", 
+    "cajun/creole", 
+    "chain", 
+    "gasoline", 
+    "nonresidential", 
+    "operates", 
+    "operator", 
+    "station", 
+    "traditional"
+  ], 
   "wof:supersedes": [
     1125151019
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512143554, 
+  "wof:lastmodified": 1512414458, 
   "mz:is_current": 1
 }

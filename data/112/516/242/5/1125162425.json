@@ -1,6 +1,21 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400684, 
+  "wof:lastmodified": 1512414539, 
+  "wof:tags": [
+    "operation", 
+    "accommodation", 
+    "bed", 
+    "breakfast", 
+    "drinking", 
+    "banquet", 
+    "building", 
+    "eating", 
+    "hall", 
+    "inn", 
+    "nonresidential", 
+    "operator", 
+    "tavern"
+  ], 
   "wof:brand_name": "Sunset Inn", 
   "wof:brand_id": 1125162425
 }

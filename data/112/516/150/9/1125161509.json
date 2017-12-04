@@ -1,6 +1,17 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400699, 
+  "wof:lastmodified": 1512414549, 
+  "wof:tags": [
+    "salon", 
+    "cosmetic", 
+    "mail", 
+    "order", 
+    "perfume", 
+    "product", 
+    "shop", 
+    "swimwear", 
+    "tanning"
+  ], 
   "wof:brand_name": "Island Tan", 
   "wof:brand_id": 1125161509
 }

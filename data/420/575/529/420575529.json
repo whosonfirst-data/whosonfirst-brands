@@ -1,6 +1,25 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400502, 
+  "wof:lastmodified": 1512414444, 
+  "wof:tags": [
+    "telecommunication", 
+    "tower", 
+    "carrier", 
+    "communication", 
+    "communications-common", 
+    "radiotelephone", 
+    "communications", 
+    "establishment", 
+    "radio", 
+    "television", 
+    "business", 
+    "telephone", 
+    "construction", 
+    "contractor", 
+    "facility", 
+    "operates", 
+    "wireless"
+  ], 
   "wof:brand_name": "American Tower Corp", 
   "wof:brand_id": 420575529
 }

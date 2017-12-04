@@ -1,6 +1,30 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400639, 
+  "wof:lastmodified": 1512414510, 
+  "wof:tags": [
+    "eating", 
+    "chips", 
+    "corn", 
+    "potato", 
+    "away", 
+    "confectionery", 
+    "room", 
+    "take", 
+    "tea", 
+    "business", 
+    "cream", 
+    "gasoline", 
+    "grocer", 
+    "ice", 
+    "meal", 
+    "outlet", 
+    "packer", 
+    "parlor", 
+    "processing", 
+    "shop", 
+    "snack", 
+    "station"
+  ], 
   "wof:brand_name": "Snack Shack", 
   "wof:brand_id": 1125156651
 }

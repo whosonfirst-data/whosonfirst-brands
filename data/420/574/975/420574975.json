@@ -1,6 +1,27 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400552, 
+  "wof:lastmodified": 1512414462, 
+  "wof:tags": [
+    "cosmetic", 
+    "perfume", 
+    "finishing", 
+    "photo", 
+    "cassette", 
+    "disc", 
+    "tape", 
+    "video", 
+    "mailing", 
+    "shipping", 
+    "drugstore", 
+    "grocer", 
+    "make", 
+    "studio", 
+    "cards", 
+    "general", 
+    "greeting", 
+    "merchandise", 
+    "shop"
+  ], 
   "wof:brand_name": "Longs Drug", 
   "wof:brand_id": 420574975
 }

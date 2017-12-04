@@ -1,6 +1,27 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399940, 
+  "wof:lastmodified": 1512414534, 
+  "wof:tags": [
+    "home", 
+    "nurse", 
+    "registry", 
+    "care", 
+    "medical", 
+    "health", 
+    "assistant", 
+    "clinic", 
+    "contractor", 
+    "equipment", 
+    "help", 
+    "hospice", 
+    "instruction", 
+    "physical", 
+    "physician", 
+    "sitting", 
+    "supply", 
+    "temporary", 
+    "therapy"
+  ], 
   "wof:brand_name": "Interim Healthcare", 
   "wof:brand_id": 1125150571
 }

@@ -1,6 +1,13 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400701, 
+  "wof:lastmodified": 1512414551, 
+  "wof:tags": [
+    "beer", 
+    "club", 
+    "newsagent", 
+    "spirit", 
+    "wines"
+  ], 
   "wof:brand_name": "Spar Shop", 
   "wof:brand_id": 1125160971
 }

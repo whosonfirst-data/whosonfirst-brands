@@ -1,6 +1,17 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399906, 
+  "wof:lastmodified": 1512414471, 
+  "wof:tags": [
+    "operation", 
+    "facility", 
+    "fitness", 
+    "physical", 
+    "association", 
+    "business", 
+    "drinking", 
+    "eating", 
+    "personal"
+  ], 
   "wof:brand_name": "LA Quinta Inn", 
   "wof:brand_id": 1125150945
 }

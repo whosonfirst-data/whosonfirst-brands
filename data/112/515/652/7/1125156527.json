@@ -1,6 +1,18 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400612, 
+  "wof:lastmodified": 1512414496, 
+  "wof:tags": [
+    "beauty", 
+    "salon", 
+    "supply", 
+    "perfume", 
+    "equipment", 
+    "cosmetic", 
+    "salons-equipment", 
+    "establishment", 
+    "shop", 
+    "barber"
+  ], 
   "wof:brand_name": "Beauty Alliance", 
   "wof:brand_id": 1125156527
 }

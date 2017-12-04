@@ -1,6 +1,21 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400692, 
+  "wof:lastmodified": 1512414545, 
+  "wof:tags": [
+    "pizza", 
+    "american", 
+    "californian", 
+    "caterer", 
+    "banquet", 
+    "delivery", 
+    "drinking", 
+    "eating", 
+    "facility", 
+    "hall", 
+    "menu", 
+    "reception", 
+    "sandwich"
+  ], 
   "wof:brand_name": "Straw Hat Pizza", 
   "wof:brand_id": 1125161619
 }

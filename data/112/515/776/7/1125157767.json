@@ -1,6 +1,15 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400640, 
+  "wof:lastmodified": 1512414511, 
+  "wof:tags": [
+    "gasoline", 
+    "station", 
+    "grocery", 
+    "convenience", 
+    "general", 
+    "operates", 
+    "store"
+  ], 
   "wof:brand_name": "Am/PM Mini Market", 
   "wof:brand_id": 1125157767
 }

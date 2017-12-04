@@ -1,6 +1,17 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400691, 
+  "wof:lastmodified": 1512414544, 
+  "wof:tags": [
+    "pizza", 
+    "american", 
+    "eating", 
+    "italian", 
+    "calzones", 
+    "pasta", 
+    "salad", 
+    "sandwich", 
+    "wing"
+  ], 
   "wof:brand_name": "Johnny's Pizza", 
   "wof:brand_id": 1125160239
 }

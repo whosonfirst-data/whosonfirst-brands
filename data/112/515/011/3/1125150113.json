@@ -1,6 +1,26 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399923, 
+  "wof:lastmodified": 1512414501, 
+  "wof:tags": [
+    "market", 
+    "grocer", 
+    "health", 
+    "diet", 
+    "fruit", 
+    "vegetable", 
+    "natural", 
+    "product", 
+    "seafood", 
+    "shop", 
+    "beer", 
+    "caterer", 
+    "mfg", 
+    "p", 
+    "preparation", 
+    "spirit", 
+    "veggie", 
+    "wine"
+  ], 
   "wof:brand_name": "Whole Foods Market", 
   "wof:brand_id": 1125150113
 }

@@ -1,6 +1,26 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400595, 
+  "wof:lastmodified": 1512414486, 
+  "wof:tags": [
+    "welfare", 
+    "organization", 
+    "agency", 
+    "center", 
+    "information", 
+    "smoker", 
+    "treatment", 
+    "action", 
+    "clinic", 
+    "community", 
+    "foundation", 
+    "health", 
+    "medical", 
+    "philanthropic", 
+    "plans-information", 
+    "referral", 
+    "social", 
+    "surgical"
+  ], 
   "wof:brand_name": "American Lung Assn", 
   "wof:brand_id": 1125155215
 }

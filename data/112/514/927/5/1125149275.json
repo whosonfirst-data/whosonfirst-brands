@@ -1,6 +1,31 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400703, 
+  "wof:lastmodified": 1512414552, 
+  "wof:tags": [
+    "store", 
+    "pet", 
+    "boarding/pet", 
+    "sitting", 
+    "supply", 
+    "merchandise", 
+    "animal", 
+    "shop", 
+    "food", 
+    "cat", 
+    "dog", 
+    "furnishing", 
+    "groomers", 
+    "grooming", 
+    "training", 
+    "aquarium", 
+    "center", 
+    "distribution", 
+    "forging", 
+    "mfg", 
+    "nonferrous", 
+    "outlet", 
+    "veterinarian"
+  ], 
   "wof:brand_name": "Petco", 
   "wof:brand_id": 1125149275
 }

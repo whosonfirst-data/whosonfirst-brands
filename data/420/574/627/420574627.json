@@ -1,6 +1,27 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400536, 
+  "wof:lastmodified": 1512414457, 
+  "wof:tags": [
+    "broker", 
+    "buyer", 
+    "agency", 
+    "manager", 
+    "mortgage", 
+    "commercial", 
+    "residential", 
+    "abstract", 
+    "apartment", 
+    "brokerage", 
+    "building", 
+    "consultant", 
+    "contractor", 
+    "d", 
+    "loan", 
+    "management", 
+    "operator", 
+    "realtor", 
+    "title"
+  ], 
   "wof:brand_name": "Realty Executives", 
   "wof:brand_id": 420574627
 }

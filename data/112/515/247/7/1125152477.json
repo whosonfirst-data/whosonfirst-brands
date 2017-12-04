@@ -1,6 +1,15 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399915, 
+  "wof:lastmodified": 1512414493, 
+  "wof:tags": [
+    "grocer", 
+    "supermarket", 
+    "pharmacy", 
+    "rental", 
+    "tape", 
+    "video", 
+    "return"
+  ], 
   "wof:brand_name": "Ingles", 
   "wof:brand_id": 1125152477
 }

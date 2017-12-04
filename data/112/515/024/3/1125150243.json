@@ -1,6 +1,16 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399943, 
+  "wof:lastmodified": 1512414536, 
+  "wof:tags": [
+    "pizza", 
+    "sandwich", 
+    "eating", 
+    "delivery", 
+    "equipment", 
+    "italian", 
+    "supply", 
+    "take"
+  ], 
   "wof:brand_name": "Hungry Howie's Pizza & Subs", 
   "wof:brand_id": 1125150243
 }

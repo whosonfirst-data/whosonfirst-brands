@@ -1,6 +1,30 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399944, 
+  "wof:lastmodified": 1512414520, 
+  "wof:tags": [
+    "citizen", 
+    "senior", 
+    "executive", 
+    "organization", 
+    "village", 
+    "center", 
+    "counseling", 
+    "welfare", 
+    "activity", 
+    "amateur", 
+    "association", 
+    "business", 
+    "church", 
+    "club", 
+    "general", 
+    "government", 
+    "gr", 
+    "merchant", 
+    "residential", 
+    "shop", 
+    "social", 
+    "team"
+  ], 
   "wof:brand_name": "Senior Center", 
   "wof:brand_id": 1125153479
 }

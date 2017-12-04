@@ -1,6 +1,12 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400607, 
+  "wof:lastmodified": 1512414493, 
+  "wof:tags": [
+    "broker", 
+    "accident", 
+    "fire", 
+    "marine"
+  ], 
   "wof:brand_name": "Insurance Advisernet Australia Pty Limited", 
   "wof:brand_id": 1125159017
 }

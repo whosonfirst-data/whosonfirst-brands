@@ -1,10 +1,14 @@
 {
   "wof:brand_name": "Jean Coutu", 
   "wof:brand_id": 420575977, 
+  "wof:tags": [
+    "cosmetic", 
+    "perfume"
+  ], 
   "wof:supersedes": [
     1125150027
   ], 
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1512142224, 
+  "wof:lastmodified": 1512414451, 
   "mz:is_current": 1
 }

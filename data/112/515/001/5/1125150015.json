@@ -1,6 +1,32 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399914, 
+  "wof:lastmodified": 1512414493, 
+  "wof:tags": [
+    "transmission", 
+    "automotive", 
+    "tune", 
+    "automobile", 
+    "accessory", 
+    "air conditioning", 
+    "brake", 
+    "clutch", 
+    "diagnostic", 
+    "equipment-service", 
+    "part", 
+    "tractor", 
+    "transmissions-other", 
+    "transmissions-truck", 
+    "truck", 
+    "oil", 
+    "change", 
+    "shop", 
+    "lube", 
+    "merchandise", 
+    "rebuild", 
+    "repairing", 
+    "towing", 
+    "used"
+  ], 
   "wof:brand_name": "Aamco Transmissions", 
   "wof:brand_id": 1125150015
 }

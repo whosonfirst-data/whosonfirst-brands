@@ -1,6 +1,29 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400723, 
+  "wof:lastmodified": 1512414561, 
+  "wof:tags": [
+    "cellular", 
+    "telephone", 
+    "communication", 
+    "radiotelephone", 
+    "establishment", 
+    "merchandise", 
+    "equipment", 
+    "system", 
+    "wireless", 
+    "car", 
+    "communications", 
+    "contractor", 
+    "dealer", 
+    "electrical", 
+    "electronic", 
+    "electronics", 
+    "mass", 
+    "medium", 
+    "supply", 
+    "telecommunication", 
+    "telecommunications-equipment"
+  ], 
   "wof:brand_name": "T Mobile", 
   "wof:brand_id": 1125149411
 }

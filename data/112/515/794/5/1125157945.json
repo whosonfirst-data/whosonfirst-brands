@@ -1,6 +1,11 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400671, 
+  "wof:lastmodified": 1512414530, 
+  "wof:tags": [
+    "yogurt", 
+    "frozen", 
+    "dessert"
+  ], 
   "wof:brand_name": "Pinkberry", 
   "wof:brand_id": 1125157945
 }

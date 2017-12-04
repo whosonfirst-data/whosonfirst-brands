@@ -1,6 +1,11 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400687, 
+  "wof:lastmodified": 1512414541, 
+  "wof:tags": [
+    "coffee", 
+    "shop", 
+    "tea"
+  ], 
   "wof:brand_name": "Teavana", 
   "wof:brand_id": 1125162031
 }

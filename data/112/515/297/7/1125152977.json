@@ -1,6 +1,21 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399957, 
+  "wof:lastmodified": 1512414530, 
+  "wof:tags": [
+    "american", 
+    "pastry", 
+    "diner", 
+    "shop", 
+    "coffee", 
+    "espresso", 
+    "restaurant", 
+    "bakery", 
+    "tea", 
+    "eating", 
+    "sandwich", 
+    "soup", 
+    "wrap"
+  ], 
   "wof:brand_name": "Seattle's Best Coffee", 
   "wof:brand_id": 1125152977
 }

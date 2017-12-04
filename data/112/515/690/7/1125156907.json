@@ -1,6 +1,24 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400652, 
+  "wof:lastmodified": 1512414518, 
+  "wof:tags": [
+    "membership", 
+    "lodging", 
+    "carrier", 
+    "contractor", 
+    "association", 
+    "business", 
+    "club", 
+    "community", 
+    "industry", 
+    "management", 
+    "mfg", 
+    "operation", 
+    "organization", 
+    "social", 
+    "trade", 
+    "trust"
+  ], 
   "wof:brand_name": "Ancient Free & Accepted Masons", 
   "wof:brand_id": 1125156907
 }

@@ -1,6 +1,32 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400658, 
+  "wof:lastmodified": 1512414522, 
+  "wof:tags": [
+    "electronic", 
+    "equipment", 
+    "supply", 
+    "component", 
+    "computer", 
+    "parts", 
+    "commercial", 
+    "distribution", 
+    "distributor", 
+    "electric", 
+    "semiconductor", 
+    "arts", 
+    "consumer", 
+    "dealer", 
+    "distributes", 
+    "electronics", 
+    "graphic", 
+    "manufacturer", 
+    "mfg", 
+    "nonphysical", 
+    "peri", 
+    "peripheral", 
+    "product", 
+    "supplies-wholesale"
+  ], 
   "wof:brand_name": "Arrow Electronics Inc", 
   "wof:brand_id": 1125159151
 }

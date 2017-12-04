@@ -1,6 +1,12 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400643, 
+  "wof:lastmodified": 1512414512, 
+  "wof:tags": [
+    "broker", 
+    "mortgage", 
+    "commercial", 
+    "saving"
+  ], 
   "wof:brand_name": "TD Bank", 
   "wof:brand_id": 1125158403
 }

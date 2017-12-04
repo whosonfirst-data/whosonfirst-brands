@@ -1,6 +1,21 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400574, 
+  "wof:lastmodified": 1512414473, 
+  "wof:tags": [
+    "american", 
+    "grocer", 
+    "automobile", 
+    "barbecue", 
+    "car", 
+    "confectioner", 
+    "craft", 
+    "dealer", 
+    "polishing", 
+    "radiator", 
+    "repairing", 
+    "washing", 
+    "welding"
+  ], 
   "wof:brand_name": "Mac's", 
   "wof:brand_id": 1125153705
 }

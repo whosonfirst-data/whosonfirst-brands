@@ -1,6 +1,26 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400654, 
+  "wof:lastmodified": 1512414519, 
+  "wof:tags": [
+    "local", 
+    "authority", 
+    "agency", 
+    "education", 
+    "centre", 
+    "career", 
+    "children's", 
+    "creche", 
+    "gallery", 
+    "guidance", 
+    "home", 
+    "housing", 
+    "information", 
+    "nursery", 
+    "organisation", 
+    "product", 
+    "psychologist", 
+    "sheltered"
+  ], 
   "wof:brand_name": "Glasgow City Council", 
   "wof:brand_id": 1125159263
 }

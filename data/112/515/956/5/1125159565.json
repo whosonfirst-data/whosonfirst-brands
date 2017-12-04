@@ -1,6 +1,23 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400599, 
+  "wof:lastmodified": 1512414489, 
+  "wof:tags": [
+    "newsagent", 
+    "dealer", 
+    "group", 
+    "home", 
+    "bookseller", 
+    "newspaper", 
+    "commercial", 
+    "consultant", 
+    "dealers-wholesale", 
+    "manufacturer", 
+    "marketing", 
+    "news", 
+    "shop", 
+    "stationery-wholesale", 
+    "store"
+  ], 
   "wof:brand_name": "Good News", 
   "wof:brand_id": 1125159565
 }

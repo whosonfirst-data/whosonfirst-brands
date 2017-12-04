@@ -1,6 +1,26 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400686, 
+  "wof:lastmodified": 1512414540, 
+  "wof:tags": [
+    "automobile", 
+    "repairing", 
+    "general", 
+    "body", 
+    "car", 
+    "dealer", 
+    "automotive", 
+    "painting", 
+    "shop", 
+    "drive", 
+    "establishment", 
+    "machine", 
+    "mfg", 
+    "parts", 
+    "shaft", 
+    "sup", 
+    "tool", 
+    "used"
+  ], 
   "wof:brand_name": "Auto Shop", 
   "wof:brand_id": 1125160427
 }

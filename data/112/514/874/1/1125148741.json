@@ -1,11 +1,24 @@
 {
   "wof:brand_name": "Carl's Jr.", 
   "wof:brand_id": 1125148741, 
+  "wof:tags": [
+    "burger", 
+    "american", 
+    "dog", 
+    "hamburger", 
+    "hot", 
+    "mexican", 
+    "fast", 
+    "eating", 
+    "chain", 
+    "sandwich", 
+    "steakhouse"
+  ], 
   "wof:supersedes": [
     420575851, 
     1125155103
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512143853, 
+  "wof:lastmodified": 1512414559, 
   "mz:is_current": 1
 }

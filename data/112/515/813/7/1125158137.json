@@ -1,6 +1,10 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400643, 
+  "wof:lastmodified": 1512414512, 
+  "wof:tags": [
+    "medical", 
+    "practitioner"
+  ], 
   "wof:brand_name": "Mayne Laverty Pathology Collection Centres", 
   "wof:brand_id": 1125158137
 }

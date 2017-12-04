@@ -1,6 +1,27 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400518, 
+  "wof:lastmodified": 1512414451, 
+  "wof:tags": [
+    "security", 
+    "state", 
+    "national", 
+    "guard", 
+    "federal", 
+    "armed", 
+    "force", 
+    "recruiting", 
+    "army", 
+    "government-state", 
+    "unit", 
+    "air", 
+    "armory", 
+    "consultant", 
+    "executive", 
+    "government-united", 
+    "patrol", 
+    "search", 
+    "transportation"
+  ], 
   "wof:brand_name": "Army National Guard", 
   "wof:brand_id": 420575603
 }

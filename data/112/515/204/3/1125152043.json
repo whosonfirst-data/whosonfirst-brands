@@ -1,6 +1,16 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399897, 
+  "wof:lastmodified": 1512414481, 
+  "wof:tags": [
+    "shop", 
+    "hair", 
+    "barb", 
+    "barber", 
+    "building", 
+    "dwelling", 
+    "nonresidential", 
+    "stylist"
+  ], 
   "wof:brand_name": "Joe's Barber Shop", 
   "wof:brand_id": 1125152043
 }

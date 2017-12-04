@@ -1,6 +1,22 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400693, 
+  "wof:lastmodified": 1512414546, 
+  "wof:tags": [
+    "station", 
+    "gasoline", 
+    "grocery", 
+    "product", 
+    "petroleum", 
+    "convenience", 
+    "store", 
+    "commercial", 
+    "gas", 
+    "lubrication", 
+    "physical", 
+    "regional", 
+    "sales", 
+    "terminal"
+  ], 
   "wof:brand_name": "Conocophillips Holding Company", 
   "wof:brand_id": 1125162195
 }

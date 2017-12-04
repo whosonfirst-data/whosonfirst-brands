@@ -1,6 +1,23 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399912, 
+  "wof:lastmodified": 1512414492, 
+  "wof:tags": [
+    "loan", 
+    "financing", 
+    "return", 
+    "filing", 
+    "institution", 
+    "personal", 
+    "business", 
+    "agency", 
+    "broker", 
+    "consumer", 
+    "credit", 
+    "federal", 
+    "general", 
+    "preparation-business", 
+    "small"
+  ], 
   "wof:brand_name": "Sun Loan Co", 
   "wof:brand_id": 1125152309
 }

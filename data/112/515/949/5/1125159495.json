@@ -1,6 +1,15 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400596, 
+  "wof:lastmodified": 1512414487, 
+  "wof:tags": [
+    "oil", 
+    "gas", 
+    "gasoline", 
+    "grocery", 
+    "liquefied", 
+    "petroleum", 
+    "station"
+  ], 
   "wof:brand_name": "Cenex Convenience Store", 
   "wof:brand_id": 1125159495
 }

@@ -1,10 +1,17 @@
 {
   "wof:brand_name": "Carrabba's Italian Grill", 
   "wof:brand_id": 1125158253, 
+  "wof:tags": [
+    "italian", 
+    "bar", 
+    "family", 
+    "grill", 
+    "style"
+  ], 
   "wof:supersedes": [
     1125150041
   ], 
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1512143787, 
+  "wof:lastmodified": 1512414510, 
   "mz:is_current": 1
 }

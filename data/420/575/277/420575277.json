@@ -1,6 +1,12 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400510, 
+  "wof:lastmodified": 1512414447, 
+  "wof:tags": [
+    "broker", 
+    "mortgage", 
+    "card", 
+    "card-merchant"
+  ], 
   "wof:brand_name": "CapitalOne", 
   "wof:brand_id": 420575277
 }

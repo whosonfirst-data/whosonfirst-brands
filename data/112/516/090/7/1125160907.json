@@ -1,6 +1,14 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400691, 
+  "wof:lastmodified": 1512414544, 
+  "wof:tags": [
+    "home", 
+    "convalescent", 
+    "rehabilitation", 
+    "residential", 
+    "citizen", 
+    "senior"
+  ], 
   "wof:brand_name": "Manor Care Health Svc", 
   "wof:brand_id": 1125160907
 }

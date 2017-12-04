@@ -1,6 +1,17 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400560, 
+  "wof:lastmodified": 1512414465, 
+  "wof:tags": [
+    "shop", 
+    "hair", 
+    "beauty", 
+    "equipment", 
+    "establishment", 
+    "facility", 
+    "fitness", 
+    "physical", 
+    "stylist"
+  ], 
   "wof:brand_name": "Beauty Salon", 
   "wof:brand_id": 1125158453
 }

@@ -1,6 +1,14 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400514, 
+  "wof:lastmodified": 1512414449, 
+  "wof:tags": [
+    "catalogue", 
+    "showroom", 
+    "shop", 
+    "house", 
+    "mail", 
+    "order"
+  ], 
   "wof:brand_name": "Argos Ltd.", 
   "wof:brand_id": 420575779
 }

@@ -1,6 +1,15 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399936, 
+  "wof:lastmodified": 1512414530, 
+  "wof:tags": [
+    "supermarket", 
+    "grocer", 
+    "drug", 
+    "florist", 
+    "mfg", 
+    "br", 
+    "laboratory"
+  ], 
   "wof:brand_name": "Stater Bros Markets", 
   "wof:brand_id": 1125152981
 }

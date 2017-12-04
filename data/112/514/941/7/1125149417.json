@@ -1,6 +1,18 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400723, 
+  "wof:lastmodified": 1512414561, 
+  "wof:tags": [
+    "oil", 
+    "gasoline", 
+    "station", 
+    "store", 
+    "convenience", 
+    "business", 
+    "consultant", 
+    "grocer", 
+    "grocery", 
+    "variety"
+  ], 
   "wof:brand_name": "Super America", 
   "wof:brand_id": 1125149417
 }

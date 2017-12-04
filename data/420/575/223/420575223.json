@@ -1,6 +1,21 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400518, 
+  "wof:lastmodified": 1512414451, 
+  "wof:tags": [
+    "chinese", 
+    "asian", 
+    "eating", 
+    "pan", 
+    "american", 
+    "fast", 
+    "grocery", 
+    "out", 
+    "product", 
+    "seafood", 
+    "shop", 
+    "store", 
+    "take"
+  ], 
   "wof:brand_name": "China Wok", 
   "wof:brand_id": 420575223
 }

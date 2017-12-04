@@ -1,10 +1,25 @@
 {
   "wof:brand_name": "Chick-fil-A", 
   "wof:brand_id": 1125148735, 
+  "wof:tags": [
+    "american", 
+    "sandwich", 
+    "salad", 
+    "wrap", 
+    "soup", 
+    "eating", 
+    "chicken", 
+    "wing", 
+    "fast", 
+    "traditional", 
+    "caterer", 
+    "chain", 
+    "stand"
+  ], 
   "wof:supersedes": [
     420575221
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512143852, 
+  "wof:lastmodified": 1512414557, 
   "mz:is_current": 1
 }

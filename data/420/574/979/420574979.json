@@ -1,6 +1,20 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400552, 
+  "wof:lastmodified": 1512414462, 
+  "wof:tags": [
+    "drugstore", 
+    "drug", 
+    "store", 
+    "care", 
+    "health", 
+    "home", 
+    "pharmaceutical", 
+    "consultant", 
+    "independent", 
+    "nutritionist", 
+    "pharmacy", 
+    "product"
+  ], 
   "wof:brand_name": "Medicine Shoppe Pharmacy", 
   "wof:brand_id": 420574979
 }

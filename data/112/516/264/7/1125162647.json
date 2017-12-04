@@ -1,6 +1,32 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400698, 
+  "wof:lastmodified": 1512414549, 
+  "wof:tags": [
+    "equipment", 
+    "industrial", 
+    "electric", 
+    "general", 
+    "supplies-wholesale", 
+    "machinery-new", 
+    "used", 
+    "motor", 
+    "electrical", 
+    "product", 
+    "merchandise", 
+    "distributor", 
+    "generator", 
+    "motors-manufacturers", 
+    "air", 
+    "apparatus", 
+    "consumer", 
+    "equipment-testing", 
+    "fixture", 
+    "heat", 
+    "indus", 
+    "lighting", 
+    "manufacturer", 
+    "ref"
+  ], 
   "wof:brand_name": "Grainger Industrial Supply", 
   "wof:brand_id": 1125162647
 }

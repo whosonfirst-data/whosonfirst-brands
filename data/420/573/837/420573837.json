@@ -1,6 +1,30 @@
 {
   "wof:brand_name": "Jehovah's Witnesses", 
   "wof:brand_id": 420573837, 
+  "wof:tags": [
+    "church", 
+    "churches-jehovah's", 
+    "witness", 
+    "denomination", 
+    "churches-interdenominational", 
+    "churches-various", 
+    "place", 
+    "worship", 
+    "religion", 
+    "organisation", 
+    "miscellaneous", 
+    "establishment", 
+    "adventist", 
+    "auto", 
+    "bo", 
+    "christian", 
+    "churches-advent", 
+    "churches-seventh-day", 
+    "clergy", 
+    "membership", 
+    "security", 
+    "supply"
+  ], 
   "wof:supersedes": [
     1125158117, 
     1125153615, 
@@ -9,6 +33,6 @@
     1125156261
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512143170, 
+  "wof:lastmodified": 1512414453, 
   "mz:is_current": 1
 }

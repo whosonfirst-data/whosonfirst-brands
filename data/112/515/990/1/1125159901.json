@@ -1,6 +1,30 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400565, 
+  "wof:lastmodified": 1512414468, 
+  "wof:tags": [
+    "automobile", 
+    "repairing", 
+    "general", 
+    "inspection", 
+    "automotive", 
+    "truck", 
+    "american", 
+    "away", 
+    "body", 
+    "burger", 
+    "business", 
+    "engineer", 
+    "garage", 
+    "gasoline", 
+    "motor", 
+    "new", 
+    "repairer", 
+    "station", 
+    "take", 
+    "tire", 
+    "used", 
+    "work"
+  ], 
   "wof:brand_name": "Joe's Garage", 
   "wof:brand_id": 1125159901
 }

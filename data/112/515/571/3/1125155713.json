@@ -1,6 +1,25 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400657, 
+  "wof:lastmodified": 1512414521, 
+  "wof:tags": [
+    "trucking", 
+    "operator", 
+    "carrier", 
+    "motor", 
+    "general", 
+    "distance", 
+    "long", 
+    "1", 
+    "class", 
+    "company", 
+    "arrangement", 
+    "local", 
+    "eating", 
+    "facility", 
+    "mfg", 
+    "terminal", 
+    "truck"
+  ], 
   "wof:brand_name": "ABF", 
   "wof:brand_id": 1125155713
 }

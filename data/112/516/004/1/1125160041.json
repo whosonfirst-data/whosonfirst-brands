@@ -1,6 +1,10 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400700, 
+  "wof:lastmodified": 1512414550, 
+  "wof:tags": [
+    "bookseller", 
+    "newsagent"
+  ], 
   "wof:brand_name": "W H Smith Trading Ltd.", 
   "wof:brand_id": 1125160041
 }

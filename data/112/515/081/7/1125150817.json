@@ -1,6 +1,29 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399918, 
+  "wof:lastmodified": 1512414479, 
+  "wof:tags": [
+    "notary", 
+    "shipping", 
+    "mail", 
+    "air", 
+    "cargo", 
+    "color", 
+    "copying", 
+    "duplicating", 
+    "express", 
+    "fax", 
+    "mailbox-rental", 
+    "package", 
+    "photographic", 
+    "print", 
+    "receiving", 
+    "transparency", 
+    "courier", 
+    "delivery", 
+    "equipment", 
+    "market", 
+    "mover"
+  ], 
   "wof:brand_name": "The Ups Store", 
   "wof:brand_id": 1125150817
 }

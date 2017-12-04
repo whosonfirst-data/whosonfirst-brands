@@ -1,6 +1,27 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400666, 
+  "wof:lastmodified": 1512414527, 
+  "wof:tags": [
+    "family", 
+    "merchandise", 
+    "bedding", 
+    "clothing", 
+    "off", 
+    "city", 
+    "discount", 
+    "variety", 
+    "dept", 
+    "distributor", 
+    "establishment", 
+    "ff", 
+    "furniture", 
+    "general", 
+    "household", 
+    "importer", 
+    "shoes", 
+    "store", 
+    "warehouse"
+  ], 
   "wof:brand_name": "Value City", 
   "wof:brand_id": 1125158209
 }

@@ -1,6 +1,25 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399944, 
+  "wof:lastmodified": 1512414537, 
+  "wof:tags": [
+    "equipment", 
+    "furniture", 
+    "computer", 
+    "rooms", 
+    "builder", 
+    "custom", 
+    "filing", 
+    "consultant", 
+    "datum", 
+    "dealer", 
+    "manufacturer", 
+    "parts", 
+    "processing", 
+    "publishing", 
+    "representative", 
+    "supply", 
+    "system"
+  ], 
   "wof:brand_name": "Wright Line", 
   "wof:brand_id": 1125153265
 }

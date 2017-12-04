@@ -1,6 +1,20 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400561, 
+  "wof:lastmodified": 1512414466, 
+  "wof:tags": [
+    "loan", 
+    "pawnbroker", 
+    "cashing", 
+    "check", 
+    "banking", 
+    "depository", 
+    "agency", 
+    "business", 
+    "company", 
+    "institution", 
+    "title", 
+    "trust"
+  ], 
   "wof:brand_name": "Title Cash", 
   "wof:brand_id": 1125159719
 }

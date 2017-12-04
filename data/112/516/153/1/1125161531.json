@@ -1,6 +1,29 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400684, 
+  "wof:lastmodified": 1512414539, 
+  "wof:tags": [
+    "local", 
+    "authority", 
+    "book", 
+    "creche", 
+    "school", 
+    "adult", 
+    "agency", 
+    "births", 
+    "care", 
+    "career", 
+    "caterer", 
+    "centre", 
+    "club", 
+    "day", 
+    "death", 
+    "education", 
+    "guidance", 
+    "higher", 
+    "marriage", 
+    "medical", 
+    "residential"
+  ], 
   "wof:brand_name": "Liverpool City Council", 
   "wof:brand_id": 1125161531
 }

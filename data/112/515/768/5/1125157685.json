@@ -1,6 +1,22 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400651, 
+  "wof:lastmodified": 1512414518, 
+  "wof:tags": [
+    "line", 
+    "operator", 
+    "railroad", 
+    "rail", 
+    "arrangement", 
+    "broker", 
+    "data", 
+    "department", 
+    "equipment", 
+    "passenger", 
+    "police", 
+    "railway", 
+    "system", 
+    "transportation"
+  ], 
   "wof:brand_name": "Norfolk Southern", 
   "wof:brand_id": 1125157685
 }

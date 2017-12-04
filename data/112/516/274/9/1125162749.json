@@ -1,6 +1,10 @@
 {
   "wof:brand_size": "S", 
-  "wof:lastmodified": 1511400681, 
+  "wof:lastmodified": 1512414537, 
+  "wof:tags": [
+    "department", 
+    "police"
+  ], 
   "wof:brand_name": "Ontario Provincial Police", 
   "wof:brand_id": 1125162749
 }

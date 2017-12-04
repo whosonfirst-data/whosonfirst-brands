@@ -1,6 +1,23 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399912, 
+  "wof:lastmodified": 1512414475, 
+  "wof:tags": [
+    "eating", 
+    "american", 
+    "drinking", 
+    "traditional", 
+    "new", 
+    "burger", 
+    "bar", 
+    "barbecue", 
+    "salad", 
+    "sandwich", 
+    "seafood", 
+    "soup", 
+    "steakhouse", 
+    "wing", 
+    "wrap"
+  ], 
   "wof:brand_name": "TGI Friday's", 
   "wof:brand_id": 1125151703
 }

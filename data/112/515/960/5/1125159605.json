@@ -1,6 +1,25 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400596, 
+  "wof:lastmodified": 1512414487, 
+  "wof:tags": [
+    "management", 
+    "property", 
+    "building", 
+    "apartment", 
+    "operator", 
+    "nonresidential", 
+    "broker", 
+    "buyer", 
+    "manager", 
+    "department", 
+    "division", 
+    "facility", 
+    "for", 
+    "lessor", 
+    "ope", 
+    "parks", 
+    "residential"
+  ], 
   "wof:brand_name": "Lincoln Property Company", 
   "wof:brand_id": 1125159605
 }

@@ -1,6 +1,17 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400699, 
+  "wof:lastmodified": 1512414549, 
+  "wof:tags": [
+    "car", 
+    "passenger", 
+    "automobile", 
+    "leasing", 
+    "used", 
+    "agency", 
+    "rental", 
+    "sale", 
+    "truck"
+  ], 
   "wof:brand_name": "Elrac Inc", 
   "wof:brand_id": 1125160487
 }

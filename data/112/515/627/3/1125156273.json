@@ -1,6 +1,31 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400586, 
+  "wof:lastmodified": 1512414480, 
+  "wof:tags": [
+    "supermarket", 
+    "business", 
+    "agent", 
+    "as", 
+    "broker", 
+    "carpentry", 
+    "carrier", 
+    "closed", 
+    "company", 
+    "contractor", 
+    "establishment", 
+    "gasoline", 
+    "headquarters", 
+    "investment", 
+    "medical", 
+    "mfg", 
+    "plumbing", 
+    "representative", 
+    "resume", 
+    "same", 
+    "specialty", 
+    "station", 
+    "supply"
+  ], 
   "wof:brand_name": "Marsh", 
   "wof:brand_id": 1125156273
 }

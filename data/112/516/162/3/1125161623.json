@@ -1,6 +1,11 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400702, 
+  "wof:lastmodified": 1512414551, 
+  "wof:tags": [
+    "cellular", 
+    "telephone", 
+    "establishment"
+  ], 
   "wof:brand_name": "T-Mobile USA", 
   "wof:brand_id": 1125161623
 }

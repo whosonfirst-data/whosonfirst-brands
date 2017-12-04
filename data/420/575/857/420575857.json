@@ -1,6 +1,16 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399883, 
+  "wof:lastmodified": 1512414448, 
+  "wof:tags": [
+    "program", 
+    "state", 
+    "license", 
+    "village", 
+    "county", 
+    "electric", 
+    "motor", 
+    "transportation"
+  ], 
   "wof:brand_name": "Motor Vehicle Dept", 
   "wof:brand_id": 420575857
 }

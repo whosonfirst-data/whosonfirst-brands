@@ -1,6 +1,31 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399901, 
+  "wof:lastmodified": 1512414467, 
+  "wof:tags": [
+    "video", 
+    "tape", 
+    "disc", 
+    "leasing", 
+    "library", 
+    "cassette", 
+    "equipment", 
+    "dvds-rental", 
+    "game", 
+    "sale", 
+    "rent", 
+    "audio", 
+    "durable", 
+    "dvd", 
+    "good", 
+    "hi-fi", 
+    "investing", 
+    "player", 
+    "prerecorded", 
+    "recorder", 
+    "supply", 
+    "tv", 
+    "verhuur"
+  ], 
   "wof:brand_name": "Video World", 
   "wof:brand_id": 1125151967
 }

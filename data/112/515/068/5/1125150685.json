@@ -1,6 +1,32 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399935, 
+  "wof:lastmodified": 1512414512, 
+  "wof:tags": [
+    "broker", 
+    "buyer", 
+    "management", 
+    "agency", 
+    "manager", 
+    "mortgage", 
+    "consultant", 
+    "consulting", 
+    "brokerage", 
+    "crate", 
+    "development", 
+    "information", 
+    "investing", 
+    "listing", 
+    "mfg", 
+    "patent", 
+    "printing", 
+    "property", 
+    "realtor", 
+    "referral", 
+    "rental", 
+    "stampings", 
+    "vacancy", 
+    "wooden"
+  ], 
   "wof:brand_name": "Realty World", 
   "wof:brand_id": 1125150685
 }

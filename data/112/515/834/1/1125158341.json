@@ -1,6 +1,15 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400638, 
+  "wof:lastmodified": 1512414509, 
+  "wof:tags": [
+    "medical", 
+    "std", 
+    "testing", 
+    "aid", 
+    "information", 
+    "community", 
+    "service/non-profit"
+  ], 
   "wof:brand_name": "Local STD Testing", 
   "wof:brand_id": 1125158341
 }

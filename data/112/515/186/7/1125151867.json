@@ -1,6 +1,28 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399944, 
+  "wof:lastmodified": 1512414519, 
+  "wof:tags": [
+    "station", 
+    "gasoline", 
+    "store", 
+    "convenience", 
+    "grocery", 
+    "dealer", 
+    "conservation", 
+    "consultant", 
+    "convenient", 
+    "drinking", 
+    "energy", 
+    "exploration", 
+    "fuel", 
+    "hardware", 
+    "oil", 
+    "petroleum", 
+    "product", 
+    "refiner", 
+    "refines", 
+    "refining"
+  ], 
   "wof:brand_name": "Valero Energy Corporation", 
   "wof:brand_id": 1125151867
 }

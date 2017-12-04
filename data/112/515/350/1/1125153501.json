@@ -1,6 +1,15 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400605, 
+  "wof:lastmodified": 1512414492, 
+  "wof:tags": [
+    "uniform", 
+    "supply", 
+    "mat", 
+    "matting", 
+    "rental", 
+    "mop", 
+    "towel"
+  ], 
   "wof:brand_name": "Aramark Uniform Svc", 
   "wof:brand_id": 1125153501
 }

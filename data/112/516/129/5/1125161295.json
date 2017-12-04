@@ -1,6 +1,14 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400697, 
+  "wof:lastmodified": 1512414548, 
+  "wof:tags": [
+    "aid", 
+    "first", 
+    "ambulance", 
+    "charity", 
+    "organisation", 
+    "voluntary"
+  ], 
   "wof:brand_name": "St. John Ambulance", 
   "wof:brand_id": 1125161295
 }

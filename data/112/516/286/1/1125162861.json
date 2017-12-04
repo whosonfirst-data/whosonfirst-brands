@@ -1,6 +1,20 @@
 {
   "wof:brand_size": "S", 
-  "wof:lastmodified": 1511400683, 
+  "wof:lastmodified": 1512414538, 
+  "wof:tags": [
+    "library", 
+    "dvd", 
+    "video", 
+    "tape", 
+    "cable", 
+    "disc", 
+    "equipment", 
+    "leasing", 
+    "satellite", 
+    "system", 
+    "television", 
+    "tv"
+  ], 
   "wof:brand_name": "Video Busters", 
   "wof:brand_id": 1125162861
 }

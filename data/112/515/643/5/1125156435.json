@@ -1,6 +1,18 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400613, 
+  "wof:lastmodified": 1512414496, 
+  "wof:tags": [
+    "delicatessen", 
+    "general", 
+    "grocer", 
+    "ale", 
+    "beer", 
+    "eating", 
+    "establishment", 
+    "market", 
+    "merchandise", 
+    "out"
+  ], 
   "wof:brand_name": "Mini Market", 
   "wof:brand_id": 1125156435
 }

@@ -1,6 +1,23 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400698, 
+  "wof:lastmodified": 1512414549, 
+  "wof:tags": [
+    "shop", 
+    "beauty", 
+    "supply", 
+    "cosmetic", 
+    "cosmetologist", 
+    "hair", 
+    "hairdresser", 
+    "nail", 
+    "perfume", 
+    "product", 
+    "salon", 
+    "spa", 
+    "store", 
+    "tanning", 
+    "unisex"
+  ], 
   "wof:brand_name": "Beauty Spot", 
   "wof:brand_id": 1125161027
 }

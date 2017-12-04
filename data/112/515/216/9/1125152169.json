@@ -1,6 +1,18 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399912, 
+  "wof:lastmodified": 1512414474, 
+  "wof:tags": [
+    "coffee", 
+    "shop", 
+    "tea", 
+    "espresso", 
+    "restaurant", 
+    "american", 
+    "bakery", 
+    "manufacturer", 
+    "pastry", 
+    "tea-wholesale"
+  ], 
   "wof:brand_name": "Peet's Coffee & Tea", 
   "wof:brand_id": 1125152169
 }

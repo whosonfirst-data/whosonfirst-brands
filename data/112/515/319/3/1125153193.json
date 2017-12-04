@@ -1,6 +1,20 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399913, 
+  "wof:lastmodified": 1512414475, 
+  "wof:tags": [
+    "agency", 
+    "bureau", 
+    "travel", 
+    "automobile", 
+    "club", 
+    "auto", 
+    "carrier", 
+    "cruise", 
+    "insurance", 
+    "association", 
+    "membership", 
+    "organization"
+  ], 
   "wof:brand_name": "AAA Travel Agency", 
   "wof:brand_id": 1125153193
 }

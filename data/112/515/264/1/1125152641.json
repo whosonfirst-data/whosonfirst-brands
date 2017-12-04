@@ -1,10 +1,37 @@
 {
   "wof:brand_name": "Brookstone", 
   "wof:brand_id": 1125152641, 
+  "wof:tags": [
+    "shop", 
+    "store", 
+    "equipment", 
+    "massage", 
+    "supply", 
+    "general", 
+    "merchandise", 
+    "specialty", 
+    "establishment", 
+    "novelty", 
+    "variety", 
+    "basket", 
+    "decor", 
+    "design", 
+    "distributing", 
+    "electronic", 
+    "fidelity", 
+    "flower", 
+    "high", 
+    "house", 
+    "interior", 
+    "mail", 
+    "parcel", 
+    "sample", 
+    "stereophonic"
+  ], 
   "wof:supersedes": [
     1125151169
   ], 
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1512143838, 
+  "wof:lastmodified": 1512414519, 
   "mz:is_current": 1
 }

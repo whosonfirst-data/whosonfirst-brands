@@ -1,6 +1,25 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400682, 
+  "wof:lastmodified": 1512414538, 
+  "wof:tags": [
+    "commercial", 
+    "storage", 
+    "special", 
+    "self", 
+    "general", 
+    "warehouses-public-commercial", 
+    "household", 
+    "yard", 
+    "automobile", 
+    "boat", 
+    "campers-storage", 
+    "document", 
+    "management", 
+    "merchandise", 
+    "records-storage", 
+    "recreational", 
+    "vehicle"
+  ], 
   "wof:brand_name": "Affordable Storage", 
   "wof:brand_id": 1125162119
 }

@@ -1,6 +1,10 @@
 {
   "wof:brand_size": "S", 
-  "wof:lastmodified": 1511400701, 
+  "wof:lastmodified": 1512414551, 
+  "wof:tags": [
+    "home", 
+    "residential"
+  ], 
   "wof:brand_name": "Brook Street", 
   "wof:brand_id": 1125162547
 }

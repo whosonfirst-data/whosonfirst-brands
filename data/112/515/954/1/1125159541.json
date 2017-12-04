@@ -1,6 +1,31 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400659, 
+  "wof:lastmodified": 1512414522, 
+  "wof:tags": [
+    "program", 
+    "county", 
+    "health", 
+    "state", 
+    "environmental", 
+    "administrative", 
+    "city", 
+    "ecological", 
+    "care", 
+    "home", 
+    "management", 
+    "administration", 
+    "conservation", 
+    "consultant", 
+    "executive", 
+    "natural", 
+    "organisation", 
+    "physician", 
+    "public", 
+    "resource", 
+    "support", 
+    "surgeon", 
+    "university"
+  ], 
   "wof:brand_name": "Environmental Health", 
   "wof:brand_id": 1125159541
 }

@@ -1,6 +1,20 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400592, 
+  "wof:lastmodified": 1512414484, 
+  "wof:tags": [
+    "grocer", 
+    "market", 
+    "eating", 
+    "store", 
+    "agency", 
+    "bureau", 
+    "general", 
+    "grocers-specialty", 
+    "merchandise", 
+    "out", 
+    "shop", 
+    "variety"
+  ], 
   "wof:brand_name": "Family Market", 
   "wof:brand_id": 1125156565
 }

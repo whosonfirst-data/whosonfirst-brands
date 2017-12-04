@@ -1,6 +1,13 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399918, 
+  "wof:lastmodified": 1512414479, 
+  "wof:tags": [
+    "carburants", 
+    "stations-service", 
+    "filling", 
+    "petrol", 
+    "combustible"
+  ], 
   "wof:brand_name": "Q8", 
   "wof:brand_id": 1125150163
 }

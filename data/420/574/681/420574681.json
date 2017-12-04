@@ -1,6 +1,28 @@
 {
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399896, 
+  "wof:lastmodified": 1512414462, 
+  "wof:tags": [
+    "agency", 
+    "bureau", 
+    "cruise", 
+    "ticket", 
+    "steamship", 
+    "railroads-ticket", 
+    "services-commercial", 
+    "airline", 
+    "arrangement", 
+    "passenger", 
+    "transportation", 
+    "tour", 
+    "operator", 
+    "accountant", 
+    "computer", 
+    "corporate", 
+    "custom", 
+    "establishment", 
+    "package", 
+    "programing"
+  ], 
   "wof:brand_name": "Carlson Wagonlit Travel", 
   "wof:brand_id": 420574681
 }

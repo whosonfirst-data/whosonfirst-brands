@@ -1,6 +1,26 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400608, 
+  "wof:lastmodified": 1512414494, 
+  "wof:tags": [
+    "church", 
+    "churches-various", 
+    "denomination", 
+    "churches-interdenominational", 
+    "churches-pentecostal", 
+    "churches-pentecostal-independent", 
+    "place", 
+    "worship", 
+    "churches-assemblies", 
+    "churches-baptist", 
+    "churches-baptist-general", 
+    "churches-non-denominational", 
+    "clergy", 
+    "counseling", 
+    "god", 
+    "god-independent", 
+    "organisation", 
+    "pastoral"
+  ], 
   "wof:brand_name": "New Life Fellowship", 
   "wof:brand_id": 1125157925
 }

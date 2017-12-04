@@ -1,6 +1,23 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399929, 
+  "wof:lastmodified": 1512414507, 
+  "wof:tags": [
+    "shop", 
+    "hairdresser", 
+    "unisex", 
+    "beauty", 
+    "hair", 
+    "stylist", 
+    "cosmetology", 
+    "facility", 
+    "fitness", 
+    "manicuring", 
+    "medical", 
+    "party", 
+    "personal", 
+    "physical", 
+    "salon"
+  ], 
   "wof:brand_name": "Mane Event", 
   "wof:brand_id": 1125153043
 }

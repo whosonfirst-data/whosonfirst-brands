@@ -1,6 +1,26 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399928, 
+  "wof:lastmodified": 1512414505, 
+  "wof:tags": [
+    "television", 
+    "internet", 
+    "provider", 
+    "satellite", 
+    "cable", 
+    "isp", 
+    "telecommunication", 
+    "equipment", 
+    "system", 
+    "broadcasting", 
+    "co", 
+    "communications", 
+    "consultant", 
+    "electronics", 
+    "exporter", 
+    "local", 
+    "public", 
+    "relation"
+  ], 
   "wof:brand_name": "Charter Communications", 
   "wof:brand_id": 1125151211
 }

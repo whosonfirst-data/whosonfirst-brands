@@ -1,6 +1,20 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400647, 
+  "wof:lastmodified": 1512414515, 
+  "wof:tags": [
+    "company", 
+    "communications", 
+    "establishment", 
+    "cell", 
+    "communication", 
+    "custom", 
+    "electrical", 
+    "electronic", 
+    "internet", 
+    "phone", 
+    "programming", 
+    "telephone"
+  ], 
   "wof:brand_name": "Bellsouth", 
   "wof:brand_id": 1125157561
 }

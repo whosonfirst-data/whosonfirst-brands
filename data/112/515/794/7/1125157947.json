@@ -1,6 +1,14 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400671, 
+  "wof:lastmodified": 1512414530, 
+  "wof:tags": [
+    "eating", 
+    "american", 
+    "pizza", 
+    "building", 
+    "nonresidential", 
+    "pizzeria"
+  ], 
   "wof:brand_name": "Pizzeria", 
   "wof:brand_id": 1125157947
 }

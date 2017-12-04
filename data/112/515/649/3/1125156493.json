@@ -1,6 +1,26 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400576, 
+  "wof:lastmodified": 1512414474, 
+  "wof:tags": [
+    "church", 
+    "churches-assemblies", 
+    "churches-episcopal", 
+    "churches-episcopal-anglican", 
+    "churches-non-denominational", 
+    "episcopal", 
+    "god", 
+    "god-independent", 
+    "place", 
+    "worship", 
+    "churches-baptist", 
+    "churches-baptist-general", 
+    "churches-church", 
+    "churches-interdenominational", 
+    "churches-nazarene", 
+    "churches-various", 
+    "denomination", 
+    "nazarene"
+  ], 
   "wof:brand_name": "Trinity Church", 
   "wof:brand_id": 1125156493
 }

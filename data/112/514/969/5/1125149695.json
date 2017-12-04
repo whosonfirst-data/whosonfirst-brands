@@ -1,6 +1,23 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399974, 
+  "wof:lastmodified": 1512414555, 
+  "wof:tags": [
+    "broker", 
+    "agency", 
+    "buyer", 
+    "management", 
+    "property", 
+    "consulting", 
+    "mortgage", 
+    "realtor", 
+    "appraiser", 
+    "commercial", 
+    "consultant", 
+    "firm", 
+    "manager", 
+    "mgr", 
+    "relocation"
+  ], 
   "wof:brand_name": "Weichert Realtors", 
   "wof:brand_id": 1125149695
 }

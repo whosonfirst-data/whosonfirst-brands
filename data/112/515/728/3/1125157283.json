@@ -1,6 +1,24 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400610, 
+  "wof:lastmodified": 1512414495, 
+  "wof:tags": [
+    "agency", 
+    "bureau", 
+    "railroads-ticket", 
+    "services-commercial", 
+    "ticket", 
+    "arrangement", 
+    "passenger", 
+    "transportation", 
+    "for", 
+    "operator", 
+    "patent", 
+    "provides", 
+    "reservation", 
+    "system", 
+    "tour", 
+    "travel"
+  ], 
   "wof:brand_name": "Travel Network", 
   "wof:brand_id": 1125157283
 }

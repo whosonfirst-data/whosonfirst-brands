@@ -1,6 +1,16 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399884, 
+  "wof:lastmodified": 1512414449, 
+  "wof:tags": [
+    "station", 
+    "convenience", 
+    "store", 
+    "gasoline", 
+    "gas", 
+    "grocery", 
+    "grocer", 
+    "oil"
+  ], 
   "wof:brand_name": "E-Z Mart", 
   "wof:brand_id": 420575853
 }

@@ -1,6 +1,11 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399936, 
+  "wof:lastmodified": 1512414531, 
+  "wof:tags": [
+    "baker", 
+    "bar", 
+    "snack"
+  ], 
   "wof:brand_name": "The Bakers Oven", 
   "wof:brand_id": 1125152623
 }

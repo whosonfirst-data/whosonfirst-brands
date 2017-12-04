@@ -1,6 +1,21 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399915, 
+  "wof:lastmodified": 1512414494, 
+  "wof:tags": [
+    "bond", 
+    "stock", 
+    "security", 
+    "agent", 
+    "broker", 
+    "transfer", 
+    "advisory", 
+    "electrical", 
+    "establishment", 
+    "financial", 
+    "guard", 
+    "patrol", 
+    "repair"
+  ], 
   "wof:brand_name": "Scottrade Inc", 
   "wof:brand_id": 1125151859
 }

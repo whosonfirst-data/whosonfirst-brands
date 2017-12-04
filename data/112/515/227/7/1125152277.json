@@ -1,6 +1,27 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399901, 
+  "wof:lastmodified": 1512414467, 
+  "wof:tags": [
+    "clinic", 
+    "medical", 
+    "dialysis", 
+    "physician", 
+    "center", 
+    "kidney", 
+    "kidneys", 
+    "nephrology", 
+    "surgeon", 
+    "surgeons", 
+    "acquisition", 
+    "building", 
+    "care", 
+    "family", 
+    "home", 
+    "merger", 
+    "parks", 
+    "practice", 
+    "welfare"
+  ], 
   "wof:brand_name": "Fresenius Medical Care", 
   "wof:brand_id": 1125152277
 }

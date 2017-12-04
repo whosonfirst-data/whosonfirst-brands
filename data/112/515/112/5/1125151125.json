@@ -1,6 +1,14 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399917, 
+  "wof:lastmodified": 1512414496, 
+  "wof:tags": [
+    "gasoline", 
+    "station", 
+    "grocery", 
+    "convenience", 
+    "store", 
+    "oil"
+  ], 
   "wof:brand_name": "Racetrac", 
   "wof:brand_id": 1125151125
 }

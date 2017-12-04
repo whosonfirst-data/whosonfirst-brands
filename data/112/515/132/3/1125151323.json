@@ -1,6 +1,27 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399955, 
+  "wof:lastmodified": 1512414528, 
+  "wof:tags": [
+    "carrier", 
+    "company", 
+    "agency", 
+    "financial", 
+    "pension", 
+    "group", 
+    "plan", 
+    "advisory", 
+    "claim", 
+    "investment", 
+    "life", 
+    "security", 
+    "stock", 
+    "banker", 
+    "broker", 
+    "center", 
+    "fund", 
+    "sales", 
+    "sell"
+  ], 
   "wof:brand_name": "Principal Life Insurance Co", 
   "wof:brand_id": 1125151323
 }

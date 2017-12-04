@@ -1,6 +1,12 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400510, 
+  "wof:lastmodified": 1512414448, 
+  "wof:tags": [
+    "gas", 
+    "domestic", 
+    "centre", 
+    "electrical"
+  ], 
   "wof:brand_name": "British Gas Energy Centre", 
   "wof:brand_id": 420575605
 }

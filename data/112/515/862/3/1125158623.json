@@ -1,6 +1,14 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400597, 
+  "wof:lastmodified": 1512414487, 
+  "wof:tags": [
+    "establishment", 
+    "telephone", 
+    "tower", 
+    "cellular", 
+    "equipment", 
+    "supply"
+  ], 
   "wof:brand_name": "SBA Towers Inc", 
   "wof:brand_id": 1125158623
 }

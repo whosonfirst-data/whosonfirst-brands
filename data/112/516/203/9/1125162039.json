@@ -1,6 +1,26 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400687, 
+  "wof:lastmodified": 1512414541, 
+  "wof:tags": [
+    "away", 
+    "take", 
+    "baker", 
+    "room", 
+    "tea", 
+    "delicatessen", 
+    "american", 
+    "bar", 
+    "breakfast", 
+    "brunch", 
+    "caterer", 
+    "confectionery", 
+    "delivery", 
+    "meal", 
+    "outlet", 
+    "sandwich", 
+    "shop", 
+    "snack"
+  ], 
   "wof:brand_name": "The Pantry", 
   "wof:brand_id": 1125162039
 }

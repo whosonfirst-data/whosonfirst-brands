@@ -1,10 +1,20 @@
 {
   "wof:brand_name": "Bank of New York", 
   "wof:brand_id": 1125159161, 
+  "wof:tags": [
+    "commercial", 
+    "state", 
+    "national", 
+    "institution", 
+    "datum", 
+    "loan", 
+    "personal", 
+    "savings"
+  ], 
   "wof:supersedes": [
     1125150271
   ], 
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1512143785, 
+  "wof:lastmodified": 1512414494, 
   "mz:is_current": 1
 }

@@ -1,6 +1,27 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399912, 
+  "wof:lastmodified": 1512414492, 
+  "wof:tags": [
+    "coin", 
+    "machine", 
+    "supply", 
+    "bill", 
+    "counting", 
+    "sorting", 
+    "wrapping", 
+    "equipment", 
+    "establishment", 
+    "amusement", 
+    "business", 
+    "calculating", 
+    "commercial", 
+    "mfg", 
+    "park", 
+    "saving", 
+    "store", 
+    "super", 
+    "trade"
+  ], 
   "wof:brand_name": "Coinstar", 
   "wof:brand_id": 1125153209
 }

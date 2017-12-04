@@ -1,6 +1,26 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400685, 
+  "wof:lastmodified": 1512414539, 
+  "wof:tags": [
+    "commercial", 
+    "storage", 
+    "general", 
+    "special", 
+    "store", 
+    "accessory", 
+    "banks", 
+    "dealer", 
+    "delivery", 
+    "equipment", 
+    "food", 
+    "furniture", 
+    "house", 
+    "household", 
+    "mfg", 
+    "religious", 
+    "sales", 
+    "upholstered"
+  ], 
   "wof:brand_name": "Storehouse", 
   "wof:brand_id": 1125161301
 }

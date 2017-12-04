@@ -1,6 +1,14 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400531, 
+  "wof:lastmodified": 1512414455, 
+  "wof:tags": [
+    "newsagent", 
+    "beer", 
+    "greengrocer", 
+    "spirit", 
+    "wines", 
+    "shop"
+  ], 
   "wof:brand_name": "Londis", 
   "wof:brand_id": 420574751
 }

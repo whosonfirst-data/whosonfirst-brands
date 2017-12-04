@@ -1,6 +1,15 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400687, 
+  "wof:lastmodified": 1512414541, 
+  "wof:tags": [
+    "taxicab", 
+    "airport", 
+    "shuttle", 
+    "cab", 
+    "car", 
+    "passenger", 
+    "taxi"
+  ], 
   "wof:brand_name": "City Cab", 
   "wof:brand_id": 1125161425
 }

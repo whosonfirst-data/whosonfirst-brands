@@ -1,6 +1,14 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400508, 
+  "wof:lastmodified": 1512414447, 
+  "wof:tags": [
+    "automobile", 
+    "parts", 
+    "inspection", 
+    "repairing", 
+    "lubrication", 
+    "supply"
+  ], 
   "wof:brand_name": "Pep Boys Supercenter", 
   "wof:brand_id": 420575403
 }

@@ -1,6 +1,18 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400703, 
+  "wof:lastmodified": 1512414552, 
+  "wof:tags": [
+    "control", 
+    "weight", 
+    "health", 
+    "consultant", 
+    "fitness", 
+    "program", 
+    "club", 
+    "gymnasium", 
+    "studio", 
+    "establishment"
+  ], 
   "wof:brand_name": "L A Weight Loss Ctr Inc", 
   "wof:brand_id": 1125160249
 }

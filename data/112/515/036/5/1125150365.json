@@ -1,6 +1,31 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399952, 
+  "wof:lastmodified": 1512414526, 
+  "wof:tags": [
+    "smoothy", 
+    "juice", 
+    "american", 
+    "diet", 
+    "health", 
+    "market", 
+    "eating", 
+    "product", 
+    "refreshment", 
+    "stand", 
+    "dessert", 
+    "fountain", 
+    "shop", 
+    "soda", 
+    "bar", 
+    "beverage", 
+    "espresso", 
+    "establishment", 
+    "frozen", 
+    "hotspot", 
+    "store", 
+    "take", 
+    "wi-fi"
+  ], 
   "wof:brand_name": "Planet Smoothie", 
   "wof:brand_id": 1125150365
 }

@@ -1,11 +1,31 @@
 {
   "wof:brand_name": "Jack in the Box", 
   "wof:brand_id": 1125148691, 
+  "wof:tags": [
+    "american", 
+    "burger", 
+    "dog", 
+    "hot", 
+    "hamburger", 
+    "eating", 
+    "fast", 
+    "restaurant", 
+    "general", 
+    "chain", 
+    "franchised", 
+    "grocery", 
+    "infant", 
+    "operator", 
+    "sandwich", 
+    "stand", 
+    "warehouse", 
+    "wear"
+  ], 
   "wof:supersedes": [
     1125154321, 
     420575039
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512143842, 
+  "wof:lastmodified": 1512414554, 
   "mz:is_current": 1
 }

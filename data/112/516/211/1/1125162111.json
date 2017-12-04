@@ -1,6 +1,12 @@
 {
   "wof:brand_size": "S", 
-  "wof:lastmodified": 1511401659, 
+  "wof:lastmodified": 1512414538, 
+  "wof:tags": [
+    "automobile-body", 
+    "baker", 
+    "clothing", 
+    "confectioner"
+  ], 
   "wof:brand_name": "Adam", 
   "wof:brand_id": 1125162111
 }

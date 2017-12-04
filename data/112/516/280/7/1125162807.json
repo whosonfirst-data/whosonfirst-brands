@@ -1,6 +1,14 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400691, 
+  "wof:lastmodified": 1512414544, 
+  "wof:tags": [
+    "convalescent", 
+    "correctional", 
+    "executive", 
+    "home", 
+    "institution", 
+    "nonprofit"
+  ], 
   "wof:brand_name": "State Office", 
   "wof:brand_id": 1125162807
 }

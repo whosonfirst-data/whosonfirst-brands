@@ -1,6 +1,27 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400662, 
+  "wof:lastmodified": 1512414525, 
+  "wof:tags": [
+    "pizza", 
+    "american", 
+    "eating", 
+    "italian", 
+    "take", 
+    "away", 
+    "calzones", 
+    "sandwich", 
+    "wing", 
+    "-", 
+    "burger", 
+    "chicken", 
+    "delivery", 
+    "dog", 
+    "greek", 
+    "hot", 
+    "mediterranean", 
+    "pasta", 
+    "wrap"
+  ], 
   "wof:brand_name": "Pizza Palace", 
   "wof:brand_id": 1125154463
 }

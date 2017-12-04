@@ -1,6 +1,22 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399955, 
+  "wof:lastmodified": 1512414528, 
+  "wof:tags": [
+    "automobile", 
+    "parts", 
+    "supply", 
+    "automotive", 
+    "shop", 
+    "body", 
+    "accessory", 
+    "equipment", 
+    "home", 
+    "industrial", 
+    "junk", 
+    "machine", 
+    "repair", 
+    "warehousing"
+  ], 
   "wof:brand_name": "Fisher Auto Parts Inc", 
   "wof:brand_id": 1125150937
 }

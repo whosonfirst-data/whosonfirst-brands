@@ -1,6 +1,13 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400693, 
+  "wof:lastmodified": 1512414546, 
+  "wof:tags": [
+    "automobile", 
+    "lot", 
+    "garage", 
+    "facility", 
+    "management"
+  ], 
   "wof:brand_name": "Standard Parking Corporation", 
   "wof:brand_id": 1125160341
 }

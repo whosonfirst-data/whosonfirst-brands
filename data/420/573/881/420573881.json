@@ -1,6 +1,32 @@
 {
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399888, 
+  "wof:lastmodified": 1512414454, 
+  "wof:tags": [
+    "shop", 
+    "hair", 
+    "supply", 
+    "stylist", 
+    "accessory", 
+    "barber", 
+    "unisex", 
+    "hairdresser", 
+    "beauty", 
+    "cutting", 
+    "cosmetic", 
+    "merchandise", 
+    "establishment", 
+    "family", 
+    "spa", 
+    "auto", 
+    "body", 
+    "clothing", 
+    "combined", 
+    "cosmetology", 
+    "equipment", 
+    "franchise", 
+    "rel", 
+    "training"
+  ], 
   "wof:brand_name": "Supercuts", 
   "wof:brand_id": 420573881
 }

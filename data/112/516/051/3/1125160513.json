@@ -1,6 +1,15 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400702, 
+  "wof:lastmodified": 1512414552, 
+  "wof:tags": [
+    "oil", 
+    "equipment", 
+    "gas", 
+    "gasoline-wholesale", 
+    "manufacturer", 
+    "plant", 
+    "products-wholesale"
+  ], 
   "wof:brand_name": "Gas America", 
   "wof:brand_id": 1125160513
 }

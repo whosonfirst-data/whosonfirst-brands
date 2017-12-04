@@ -1,6 +1,21 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399973, 
+  "wof:lastmodified": 1512414554, 
+  "wof:tags": [
+    "radio", 
+    "telephone", 
+    "cellular", 
+    "paging", 
+    "signaling", 
+    "equipment", 
+    "system", 
+    "carrier", 
+    "television", 
+    "beeper", 
+    "company", 
+    "mobile", 
+    "repair"
+  ], 
   "wof:brand_name": "USA Mobility Inc", 
   "wof:brand_id": 1125149893
 }

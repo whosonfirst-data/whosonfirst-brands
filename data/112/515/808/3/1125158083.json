@@ -1,6 +1,17 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400568, 
+  "wof:lastmodified": 1512414469, 
+  "wof:tags": [
+    "component", 
+    "factor", 
+    "accessory", 
+    "car", 
+    "part", 
+    "away", 
+    "meal", 
+    "outlet", 
+    "take"
+  ], 
   "wof:brand_name": "Express Factors", 
   "wof:brand_id": 1125158083
 }

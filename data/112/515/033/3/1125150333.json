@@ -1,6 +1,24 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399942, 
+  "wof:lastmodified": 1512414535, 
+  "wof:tags": [
+    "builder", 
+    "operative", 
+    "home", 
+    "family", 
+    "house", 
+    "mortgage", 
+    "lending", 
+    "contractor", 
+    "general", 
+    "residential", 
+    "broker", 
+    "banker", 
+    "buyer", 
+    "construction", 
+    "developer", 
+    "real estate"
+  ], 
   "wof:brand_name": "Pulte", 
   "wof:brand_id": 1125150333
 }

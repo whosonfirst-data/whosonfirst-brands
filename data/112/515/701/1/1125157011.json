@@ -1,6 +1,31 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400668, 
+  "wof:lastmodified": 1512414528, 
+  "wof:tags": [
+    "grocer", 
+    "market", 
+    "shop", 
+    "antique", 
+    "beer", 
+    "delicatessen", 
+    "diet", 
+    "establishment", 
+    "facility", 
+    "fitness", 
+    "food", 
+    "gourmet", 
+    "grocers-specialty", 
+    "health", 
+    "natural", 
+    "party", 
+    "physical", 
+    "spirit", 
+    "store", 
+    "super", 
+    "supermarket", 
+    "supply", 
+    "wine"
+  ], 
   "wof:brand_name": "Main Street Market", 
   "wof:brand_id": 1125157011
 }

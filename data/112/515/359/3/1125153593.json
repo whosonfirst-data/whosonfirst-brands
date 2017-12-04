@@ -1,6 +1,24 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400599, 
+  "wof:lastmodified": 1512414489, 
+  "wof:tags": [
+    "operation", 
+    "eating", 
+    "apartment", 
+    "building", 
+    "corporate", 
+    "drinking", 
+    "fitness", 
+    "hotel", 
+    "lodging", 
+    "physical", 
+    "business", 
+    "center", 
+    "conference", 
+    "house", 
+    "management", 
+    "shop"
+  ], 
   "wof:brand_name": "Courtyard By Marriott", 
   "wof:brand_id": 1125153593
 }

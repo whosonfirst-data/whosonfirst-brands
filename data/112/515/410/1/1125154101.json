@@ -1,6 +1,30 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400587, 
+  "wof:lastmodified": 1512414481, 
+  "wof:tags": [
+    "system", 
+    "collection", 
+    "garbage", 
+    "center", 
+    "landfill", 
+    "recycling", 
+    "disposal", 
+    "waste", 
+    "rubbish", 
+    "sanitary", 
+    "consultant", 
+    "equipment", 
+    "establishment", 
+    "local", 
+    "manufacturer", 
+    "medical", 
+    "operator", 
+    "refuse", 
+    "removal", 
+    "transporting", 
+    "trucking", 
+    "village"
+  ], 
   "wof:brand_name": "BFI", 
   "wof:brand_id": 1125154101
 }

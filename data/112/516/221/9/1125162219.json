@@ -1,6 +1,17 @@
 {
   "wof:brand_size": "S", 
-  "wof:lastmodified": 1511401663, 
+  "wof:lastmodified": 1512414546, 
+  "wof:tags": [
+    "program", 
+    "state", 
+    "county", 
+    "department", 
+    "driving", 
+    "govt", 
+    "instruction", 
+    "mfg", 
+    "stampings"
+  ], 
   "wof:brand_name": "Drivers License Dept", 
   "wof:brand_id": 1125162219
 }

@@ -1,6 +1,32 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399939, 
+  "wof:lastmodified": 1512414515, 
+  "wof:tags": [
+    "company", 
+    "communications", 
+    "telecommunication", 
+    "communication", 
+    "radiotelephone", 
+    "business", 
+    "contractor", 
+    "equipment", 
+    "system", 
+    "answering", 
+    "automotive", 
+    "building", 
+    "center", 
+    "construction", 
+    "design", 
+    "electrical", 
+    "internet", 
+    "management", 
+    "merchandise", 
+    "paging", 
+    "telemarketing", 
+    "tower", 
+    "transmitting", 
+    "work"
+  ], 
   "wof:brand_name": "Bell South", 
   "wof:brand_id": 1125150229
 }

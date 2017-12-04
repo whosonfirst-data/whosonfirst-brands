@@ -1,6 +1,26 @@
 {
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399891, 
+  "wof:lastmodified": 1512414457, 
+  "wof:tags": [
+    "mail", 
+    "order", 
+    "internet", 
+    "catalog", 
+    "shopping", 
+    "appliance", 
+    "department", 
+    "rug", 
+    "carpet", 
+    "cleaners", 
+    "center", 
+    "copying", 
+    "dealer", 
+    "duplicating", 
+    "mailing", 
+    "mall", 
+    "shipping", 
+    "store"
+  ], 
   "wof:brand_name": "Sears Canada Inc", 
   "wof:brand_id": 420574017
 }

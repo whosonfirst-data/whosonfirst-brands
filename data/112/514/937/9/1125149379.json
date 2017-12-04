@@ -1,6 +1,30 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400709, 
+  "wof:lastmodified": 1512414556, 
+  "wof:tags": [
+    "cellular", 
+    "telephone", 
+    "equipment", 
+    "supply", 
+    "communication", 
+    "wireless", 
+    "system", 
+    "telecommunications-equipment", 
+    "agent", 
+    "car", 
+    "hotspot", 
+    "manufacturers'", 
+    "merchandise", 
+    "passenger", 
+    "radio", 
+    "radiotelephone", 
+    "representative", 
+    "sound", 
+    "store", 
+    "telecommunication", 
+    "television", 
+    "wi-fi"
+  ], 
   "wof:brand_name": "Sprint Store", 
   "wof:brand_id": 1125149379
 }

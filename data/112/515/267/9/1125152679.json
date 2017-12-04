@@ -1,6 +1,12 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399921, 
+  "wof:lastmodified": 1512414500, 
+  "wof:tags": [
+    "medical", 
+    "practitioner", 
+    "laboratory", 
+    "pathology"
+  ], 
   "wof:brand_name": "Sullivan Nicolaides Pathology", 
   "wof:brand_id": 1125152679
 }

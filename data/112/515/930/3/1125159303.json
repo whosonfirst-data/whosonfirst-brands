@@ -1,6 +1,31 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400609, 
+  "wof:lastmodified": 1512414494, 
+  "wof:tags": [
+    "self", 
+    "commercial", 
+    "storage", 
+    "household", 
+    "special", 
+    "mover", 
+    "general", 
+    "boxes-corrugated", 
+    "fiber", 
+    "automobile", 
+    "boat", 
+    "building", 
+    "campers-storage", 
+    "full", 
+    "manufacturer", 
+    "materials-wholesale", 
+    "moving-self", 
+    "packaging", 
+    "paper", 
+    "recreational", 
+    "truck", 
+    "vehicle", 
+    "warehouses-public-commercial"
+  ], 
   "wof:brand_name": "Metro Self Storage", 
   "wof:brand_id": 1125159303
 }

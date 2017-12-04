@@ -1,6 +1,30 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399952, 
+  "wof:lastmodified": 1512414526, 
+  "wof:tags": [
+    "environmental", 
+    "org", 
+    "ecological", 
+    "conservation", 
+    "consultant", 
+    "business", 
+    "charitable", 
+    "institution", 
+    "consulting", 
+    "management", 
+    "natural", 
+    "parks", 
+    "reclamation", 
+    "resource", 
+    "agency", 
+    "association", 
+    "conservancy", 
+    "energy", 
+    "land", 
+    "organization", 
+    "surveyor", 
+    "welfare"
+  ], 
   "wof:brand_name": "Nature Conservancy", 
   "wof:brand_id": 1125150361
 }

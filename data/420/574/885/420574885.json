@@ -1,6 +1,32 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400537, 
+  "wof:lastmodified": 1512414457, 
+  "wof:tags": [
+    "contractor", 
+    "road", 
+    "maintenance", 
+    "marking", 
+    "parking", 
+    "executive", 
+    "transportation", 
+    "grading", 
+    "highway", 
+    "hwy", 
+    "construction", 
+    "department", 
+    "dept", 
+    "program", 
+    "county", 
+    "government-county", 
+    "local", 
+    "parish", 
+    "protection", 
+    "regulation", 
+    "state", 
+    "street", 
+    "superintendent", 
+    "town"
+  ], 
   "wof:brand_name": "Highway Dept", 
   "wof:brand_id": 420574885
 }

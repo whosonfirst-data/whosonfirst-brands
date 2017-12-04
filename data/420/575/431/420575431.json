@@ -1,6 +1,29 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400506, 
+  "wof:lastmodified": 1512414446, 
+  "wof:tags": [
+    "national", 
+    "commercial", 
+    "mortgage", 
+    "banker", 
+    "state", 
+    "business", 
+    "federal", 
+    "institution", 
+    "security", 
+    "advisory", 
+    "agency", 
+    "banking", 
+    "company", 
+    "datum", 
+    "investment", 
+    "it", 
+    "management", 
+    "procurement", 
+    "savings", 
+    "trust", 
+    "warehousing"
+  ], 
   "wof:brand_name": "SunTrust", 
   "wof:brand_id": 420575431
 }

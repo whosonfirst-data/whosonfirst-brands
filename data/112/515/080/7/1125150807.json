@@ -1,6 +1,22 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399924, 
+  "wof:lastmodified": 1512414502, 
+  "wof:tags": [
+    "drug", 
+    "store", 
+    "drugstore", 
+    "medical", 
+    "proprietary", 
+    "cards", 
+    "care", 
+    "equipment", 
+    "greeting", 
+    "health", 
+    "home", 
+    "merchandise", 
+    "operates", 
+    "supply"
+  ], 
   "wof:brand_name": "Medicap Pharmacy", 
   "wof:brand_id": 1125150807
 }

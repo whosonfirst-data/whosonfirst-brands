@@ -1,6 +1,13 @@
 {
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399889, 
+  "wof:lastmodified": 1512414455, 
+  "wof:tags": [
+    "pharmacy", 
+    "post", 
+    "cosmetic", 
+    "grocer", 
+    "perfume"
+  ], 
   "wof:brand_name": "Shoppers Drug Mart", 
   "wof:brand_id": 420574353
 }

@@ -1,6 +1,11 @@
 {
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399895, 
+  "wof:lastmodified": 1512414461, 
+  "wof:tags": [
+    "federal", 
+    "dev", 
+    "planning"
+  ], 
   "wof:brand_name": "US Consolidated Farm Svc Agcy", 
   "wof:brand_id": 420574349
 }

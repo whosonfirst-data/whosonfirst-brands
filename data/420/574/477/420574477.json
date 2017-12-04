@@ -1,6 +1,12 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400549, 
+  "wof:lastmodified": 1512414461, 
+  "wof:tags": [
+    "chemist", 
+    "pharmacist", 
+    "drug", 
+    "store"
+  ], 
   "wof:brand_name": "Lloyds Chemist", 
   "wof:brand_id": 420574477
 }

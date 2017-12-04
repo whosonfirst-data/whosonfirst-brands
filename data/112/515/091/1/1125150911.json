@@ -1,6 +1,28 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399900, 
+  "wof:lastmodified": 1512414467, 
+  "wof:tags": [
+    "car", 
+    "airport", 
+    "truck", 
+    "bus", 
+    "hire", 
+    "leasing", 
+    "minibus", 
+    "renting", 
+    "establishment", 
+    "agency", 
+    "rental", 
+    "automobile", 
+    "financing", 
+    "furniture", 
+    "moving", 
+    "removal", 
+    "repairing", 
+    "supply", 
+    "telecommunication", 
+    "yard"
+  ], 
   "wof:brand_name": "Budget", 
   "wof:brand_id": 1125150911
 }

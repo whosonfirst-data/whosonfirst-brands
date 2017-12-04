@@ -1,6 +1,28 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400694, 
+  "wof:lastmodified": 1512414546, 
+  "wof:tags": [
+    "management", 
+    "property", 
+    "commercial", 
+    "advisory", 
+    "nonresidential", 
+    "broker", 
+    "building", 
+    "car", 
+    "investment", 
+    "maintenance", 
+    "apartment", 
+    "asset", 
+    "brokerage", 
+    "company", 
+    "construction", 
+    "financial", 
+    "investing", 
+    "loan", 
+    "manager", 
+    "ope"
+  ], 
   "wof:brand_name": "Jones Lang Lasalle Americas", 
   "wof:brand_id": 1125162689
 }

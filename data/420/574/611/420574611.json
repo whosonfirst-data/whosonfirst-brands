@@ -1,6 +1,17 @@
 {
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399889, 
+  "wof:lastmodified": 1512414455, 
+  "wof:tags": [
+    "dealer", 
+    "store", 
+    "bookstore", 
+    "magazine", 
+    "news", 
+    "dvd's", 
+    "merchandise", 
+    "music", 
+    "software"
+  ], 
   "wof:brand_name": "Waldenbooks", 
   "wof:brand_id": 420574611
 }

@@ -1,6 +1,31 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400602, 
+  "wof:lastmodified": 1512414490, 
+  "wof:tags": [
+    "citizen", 
+    "senior", 
+    "organization", 
+    "welfare", 
+    "county", 
+    "resource", 
+    "community", 
+    "establishment", 
+    "home", 
+    "retirement", 
+    "administrative", 
+    "assistance", 
+    "center", 
+    "computer", 
+    "counseling", 
+    "development", 
+    "federal", 
+    "human", 
+    "planning", 
+    "program", 
+    "regional", 
+    "technical", 
+    "training"
+  ], 
   "wof:brand_name": "Area Agency On Aging", 
   "wof:brand_id": 1125154277
 }

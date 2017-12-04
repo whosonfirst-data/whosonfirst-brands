@@ -1,6 +1,15 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400695, 
+  "wof:lastmodified": 1512414547, 
+  "wof:tags": [
+    "optician", 
+    "eyewear", 
+    "store", 
+    "eyeglass", 
+    "radio", 
+    "tv", 
+    "video"
+  ], 
   "wof:brand_name": "Vision World", 
   "wof:brand_id": 1125162071
 }

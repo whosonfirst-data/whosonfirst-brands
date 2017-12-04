@@ -1,6 +1,26 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399935, 
+  "wof:lastmodified": 1512414512, 
+  "wof:tags": [
+    "baker", 
+    "mfg", 
+    "product", 
+    "bread", 
+    "cookie", 
+    "grocery", 
+    "prod", 
+    "bakery", 
+    "eating", 
+    "baked", 
+    "breakfast", 
+    "brunch", 
+    "buns", 
+    "food", 
+    "pr", 
+    "retail", 
+    "roll", 
+    "sandwich"
+  ], 
   "wof:brand_name": "Great Harvest Bread Co", 
   "wof:brand_id": 1125152655
 }

@@ -1,10 +1,41 @@
 {
   "wof:brand_name": "Charles Schwab", 
   "wof:brand_id": 1125150275, 
+  "wof:tags": [
+    "bond", 
+    "stock", 
+    "brokerage", 
+    "firm", 
+    "investing", 
+    "security", 
+    "management", 
+    "consultant", 
+    "planning", 
+    "discount", 
+    "broker", 
+    "mortgage", 
+    "trust", 
+    "benefit", 
+    "directed", 
+    "employee", 
+    "for", 
+    "plan", 
+    "trustee", 
+    "advising", 
+    "commercial", 
+    "company", 
+    "facility", 
+    "holding", 
+    "i", 
+    "invest", 
+    "nonphysical", 
+    "open", 
+    "research"
+  ], 
   "wof:supersedes": [
     1125151351
   ], 
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1512143839, 
+  "wof:lastmodified": 1512414526, 
   "mz:is_current": 1
 }

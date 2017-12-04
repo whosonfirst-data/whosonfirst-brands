@@ -1,6 +1,26 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400702, 
+  "wof:lastmodified": 1512414552, 
+  "wof:tags": [
+    "system", 
+    "alarm", 
+    "burglar", 
+    "control", 
+    "security", 
+    "equipment", 
+    "equipment-wholesale", 
+    "establishment", 
+    "guard", 
+    "installs", 
+    "manufacturer", 
+    "medical", 
+    "monitor", 
+    "monitoring", 
+    "patrol", 
+    "protection", 
+    "surveillance", 
+    "television"
+  ], 
   "wof:brand_name": "Sonitrol", 
   "wof:brand_id": 1125160331
 }

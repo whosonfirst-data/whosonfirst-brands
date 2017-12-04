@@ -1,10 +1,24 @@
 {
   "wof:brand_name": "Haagen Dazs", 
   "wof:brand_id": 1125151181, 
+  "wof:tags": [
+    "american", 
+    "cream", 
+    "ice", 
+    "parlor", 
+    "frozen", 
+    "yogurt", 
+    "dessert", 
+    "mobile", 
+    "outlet", 
+    "parlour", 
+    "shop", 
+    "stand"
+  ], 
   "wof:supersedes": [
     1125160203
   ], 
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1512143786, 
+  "wof:lastmodified": 1512414500, 
   "mz:is_current": 1
 }

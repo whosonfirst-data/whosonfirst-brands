@@ -1,6 +1,10 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400699, 
+  "wof:lastmodified": 1512414550, 
+  "wof:tags": [
+    "supermarket", 
+    "grocer"
+  ], 
   "wof:brand_name": "C-Town", 
   "wof:brand_id": 1125162157
 }

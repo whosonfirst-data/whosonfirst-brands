@@ -1,6 +1,20 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399925, 
+  "wof:lastmodified": 1512414503, 
+  "wof:tags": [
+    "resource", 
+    "state", 
+    "bureau", 
+    "consultant", 
+    "executive", 
+    "government-state", 
+    "government-united", 
+    "human", 
+    "information", 
+    "program", 
+    "social", 
+    "welfare"
+  ], 
   "wof:brand_name": "Human Service Dept", 
   "wof:brand_id": 1125151039
 }

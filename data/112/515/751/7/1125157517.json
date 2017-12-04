@@ -1,6 +1,32 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400563, 
+  "wof:lastmodified": 1512414467, 
+  "wof:tags": [
+    "shop", 
+    "thrift", 
+    "membership", 
+    "hand", 
+    "resale", 
+    "second", 
+    "baker", 
+    "merchandise", 
+    "product", 
+    "store", 
+    "used", 
+    "bakery", 
+    "charitable", 
+    "charity", 
+    "clothing", 
+    "direct", 
+    "furniture", 
+    "general", 
+    "mfg", 
+    "organization", 
+    "religious", 
+    "retail", 
+    "sales", 
+    "specialty"
+  ], 
   "wof:brand_name": "Thrift Store", 
   "wof:brand_id": 1125157517
 }

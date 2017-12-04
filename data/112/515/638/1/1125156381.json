@@ -1,6 +1,32 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400637, 
+  "wof:lastmodified": 1512414509, 
+  "wof:tags": [
+    "hosted-unfied-communications", 
+    "hosted-voip", 
+    "microsoft-ocs", 
+    "telecommunications", 
+    "telephony", 
+    "ucaas", 
+    "unified-communications", 
+    "unified-communications-as-a-service", 
+    "voip", 
+    "carrier", 
+    "communication", 
+    "telecommunication", 
+    "consultant", 
+    "communications", 
+    "agency", 
+    "business", 
+    "cable", 
+    "company", 
+    "consulting", 
+    "internet", 
+    "isp", 
+    "management", 
+    "provider", 
+    "satellite"
+  ], 
   "wof:brand_name": "Cypress Communications", 
   "wof:brand_id": 1125156381
 }

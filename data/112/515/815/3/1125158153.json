@@ -1,6 +1,22 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400629, 
+  "wof:lastmodified": 1512414504, 
+  "wof:tags": [
+    "trucking", 
+    "operator", 
+    "broker", 
+    "container", 
+    "agent", 
+    "consultant", 
+    "distance", 
+    "hauling", 
+    "help", 
+    "local", 
+    "long", 
+    "shipping", 
+    "supply", 
+    "trucking-motor"
+  ], 
   "wof:brand_name": "Old Dominion Freight Line", 
   "wof:brand_id": 1125158153
 }

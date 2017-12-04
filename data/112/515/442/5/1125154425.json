@@ -1,6 +1,32 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400566, 
+  "wof:lastmodified": 1512414469, 
+  "wof:tags": [
+    "cleaners", 
+    "plant", 
+    "drycleaning", 
+    "garment", 
+    "agent", 
+    "cleaner", 
+    "curtain", 
+    "drapery", 
+    "bridal", 
+    "gown", 
+    "preservation", 
+    "alteration", 
+    "coin", 
+    "commercial", 
+    "damage", 
+    "dryer", 
+    "fire", 
+    "operated", 
+    "operates", 
+    "power", 
+    "restoration", 
+    "sewing", 
+    "tailor", 
+    "washer"
+  ], 
   "wof:brand_name": "Fashion Cleaners", 
   "wof:brand_id": 1125154425
 }

@@ -1,6 +1,25 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400629, 
+  "wof:lastmodified": 1512414504, 
+  "wof:tags": [
+    "village", 
+    "contractor", 
+    "road", 
+    "executive", 
+    "garage", 
+    "general", 
+    "transportation", 
+    "automobile", 
+    "breakdown", 
+    "car", 
+    "county", 
+    "highway", 
+    "modification", 
+    "recovery", 
+    "repairing", 
+    "used", 
+    "wrecker"
+  ], 
   "wof:brand_name": "Highway Garage", 
   "wof:brand_id": 1125157407
 }

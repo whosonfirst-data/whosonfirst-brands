@@ -1,6 +1,31 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400724, 
+  "wof:lastmodified": 1512414561, 
+  "wof:tags": [
+    "supply", 
+    "perfume", 
+    "body", 
+    "health", 
+    "perfumery", 
+    "car", 
+    "automobile", 
+    "painting", 
+    "repairing", 
+    "shop", 
+    "trainer", 
+    "merchandise", 
+    "care", 
+    "club", 
+    "contractor", 
+    "customizing", 
+    "dent", 
+    "detailing", 
+    "excavation", 
+    "product", 
+    "removal", 
+    "skin", 
+    "towing"
+  ], 
   "wof:brand_name": "The Body Shop", 
   "wof:brand_id": 1125149419
 }

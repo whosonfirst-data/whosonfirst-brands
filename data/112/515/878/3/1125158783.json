@@ -1,6 +1,19 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400680, 
+  "wof:lastmodified": 1512414537, 
+  "wof:tags": [
+    "shop", 
+    "party", 
+    "basket", 
+    "gift", 
+    "house", 
+    "internet", 
+    "mail", 
+    "parcel", 
+    "supply", 
+    "tourism", 
+    "travel"
+  ], 
   "wof:brand_name": "Gifts Galore", 
   "wof:brand_id": 1125158783
 }

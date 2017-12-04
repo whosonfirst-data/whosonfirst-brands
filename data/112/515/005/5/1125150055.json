@@ -1,6 +1,20 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400598, 
+  "wof:lastmodified": 1512414488, 
+  "wof:tags": [
+    "grocer", 
+    "super", 
+    "grocers-wholesale", 
+    "products-wholesale", 
+    "store", 
+    "general", 
+    "beer", 
+    "convenience", 
+    "related", 
+    "spirit", 
+    "supermarket", 
+    "wine"
+  ], 
   "wof:brand_name": "Smart & Final", 
   "wof:brand_id": 1125150055
 }

@@ -1,6 +1,25 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399934, 
+  "wof:lastmodified": 1512414511, 
+  "wof:tags": [
+    "oil", 
+    "gasoline", 
+    "bulk", 
+    "grocer", 
+    "polishing", 
+    "washing", 
+    "automobile", 
+    "car", 
+    "company", 
+    "convenience", 
+    "gas", 
+    "laundry", 
+    "petroleum", 
+    "product", 
+    "propane", 
+    "repairing", 
+    "store"
+  ], 
   "wof:brand_name": "Shell Canada Products Ltd", 
   "wof:brand_id": 1125150787
 }

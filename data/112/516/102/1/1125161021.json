@@ -1,6 +1,25 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400699, 
+  "wof:lastmodified": 1512414549, 
+  "wof:tags": [
+    "amateur", 
+    "team", 
+    "government-city", 
+    "township", 
+    "village", 
+    "meeting", 
+    "planning", 
+    "airport", 
+    "attorney", 
+    "container", 
+    "garbage", 
+    "government-state", 
+    "planner", 
+    "practice", 
+    "removal", 
+    "rubbish", 
+    "town"
+  ], 
   "wof:brand_name": "Atlanta City Government", 
   "wof:brand_id": 1125161021
 }

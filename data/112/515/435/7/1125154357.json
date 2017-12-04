@@ -1,6 +1,27 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400558, 
+  "wof:lastmodified": 1512414464, 
+  "wof:tags": [
+    "trucking", 
+    "operator", 
+    "terminal", 
+    "truck", 
+    "facility", 
+    "long", 
+    "trucking-motor", 
+    "distance", 
+    "local", 
+    "contract", 
+    "firm", 
+    "hauling", 
+    "interstate", 
+    "carrier", 
+    "company", 
+    "common", 
+    "help", 
+    "motor", 
+    "supply"
+  ], 
   "wof:brand_name": "Roadway Express", 
   "wof:brand_id": 1125154357
 }

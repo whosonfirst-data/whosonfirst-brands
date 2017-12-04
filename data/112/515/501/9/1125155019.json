@@ -1,6 +1,21 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400660, 
+  "wof:lastmodified": 1512414524, 
+  "wof:tags": [
+    "gasoline", 
+    "station", 
+    "ale", 
+    "beer", 
+    "boat", 
+    "convenient", 
+    "establishment", 
+    "gas", 
+    "plaza", 
+    "repairing", 
+    "stops", 
+    "store", 
+    "truck"
+  ], 
   "wof:brand_name": "KWIK Stop", 
   "wof:brand_id": 1125155019
 }

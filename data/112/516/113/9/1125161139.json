@@ -1,6 +1,20 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400694, 
+  "wof:lastmodified": 1512414546, 
+  "wof:tags": [
+    "gas", 
+    "petroleum", 
+    "liquefied", 
+    "propane", 
+    "bulk", 
+    "gas-liquefied", 
+    "petroleum-bottled", 
+    "bottled", 
+    "company", 
+    "gas-equipment", 
+    "retail", 
+    "supply"
+  ], 
   "wof:brand_name": "Heritage Propane", 
   "wof:brand_id": 1125161139
 }

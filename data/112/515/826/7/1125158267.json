@@ -1,6 +1,15 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400649, 
+  "wof:lastmodified": 1512414516, 
+  "wof:tags": [
+    "grocer", 
+    "drugstore", 
+    "super", 
+    "florist", 
+    "supermarket", 
+    "eating", 
+    "chain"
+  ], 
   "wof:brand_name": "Cub Foods", 
   "wof:brand_id": 1125158267
 }

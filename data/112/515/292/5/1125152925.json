@@ -1,6 +1,25 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399903, 
+  "wof:lastmodified": 1512414486, 
+  "wof:tags": [
+    "agency", 
+    "promoter", 
+    "tours-operators", 
+    "sightseeing", 
+    "tour", 
+    "air", 
+    "agent", 
+    "cargo", 
+    "airfreight", 
+    "airport", 
+    "arrangement", 
+    "express", 
+    "package", 
+    "passenger", 
+    "scheduled", 
+    "ticket", 
+    "transportation"
+  ], 
   "wof:brand_name": "American Airlines", 
   "wof:brand_id": 1125152925
 }

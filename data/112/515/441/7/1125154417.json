@@ -1,6 +1,27 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400681, 
+  "wof:lastmodified": 1512414537, 
+  "wof:tags": [
+    "cellular", 
+    "equipment", 
+    "supply", 
+    "telephone", 
+    "communication", 
+    "radiotelephone", 
+    "system", 
+    "telecommunications-equipment", 
+    "apartment", 
+    "carrier", 
+    "communications-common", 
+    "copying", 
+    "drinking", 
+    "duplicating", 
+    "ready", 
+    "shop", 
+    "sportswear", 
+    "wear", 
+    "wireless"
+  ], 
   "wof:brand_name": "Cricket", 
   "wof:brand_id": 1125154417
 }

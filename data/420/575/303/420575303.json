@@ -1,6 +1,32 @@
 {
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1511399879, 
+  "wof:lastmodified": 1512414444, 
+  "wof:tags": [
+    "american", 
+    "juice", 
+    "smoothy", 
+    "cream", 
+    "ice", 
+    "frozen", 
+    "yogurt", 
+    "parlor", 
+    "dessert", 
+    "eating", 
+    "fountain", 
+    "shop", 
+    "soda", 
+    "baker", 
+    "business", 
+    "butter", 
+    "caterer", 
+    "creamery", 
+    "dairy", 
+    "event", 
+    "freezer", 
+    "party", 
+    "planning", 
+    "product"
+  ], 
   "wof:brand_name": "Cold Stone Creamery", 
   "wof:brand_id": 420575303
 }

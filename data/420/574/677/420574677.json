@@ -1,6 +1,13 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400554, 
+  "wof:lastmodified": 1512414463, 
+  "wof:tags": [
+    "financial", 
+    "institution", 
+    "ftse", 
+    "trade", 
+    "union"
+  ], 
   "wof:brand_name": "The Royal Bank of Scotland Plc", 
   "wof:brand_id": 420574677
 }

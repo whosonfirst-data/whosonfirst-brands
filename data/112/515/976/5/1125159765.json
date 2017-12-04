@@ -1,6 +1,26 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400620, 
+  "wof:lastmodified": 1512414500, 
+  "wof:tags": [
+    "self", 
+    "commercial", 
+    "storage", 
+    "household", 
+    "mover", 
+    "full", 
+    "general", 
+    "record", 
+    "special", 
+    "business", 
+    "decor", 
+    "document", 
+    "mini", 
+    "moving", 
+    "paper", 
+    "personal", 
+    "rental", 
+    "warehouse"
+  ], 
   "wof:brand_name": "A-American Self Storage", 
   "wof:brand_id": 1125159765
 }

@@ -1,6 +1,15 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399956, 
+  "wof:lastmodified": 1512414529, 
+  "wof:tags": [
+    "therapist", 
+    "physical", 
+    "rehabilitation", 
+    "clinic", 
+    "occupational", 
+    "physician", 
+    "surgeon"
+  ], 
   "wof:brand_name": "Healthsouth Rehabilitation Ctr", 
   "wof:brand_id": 1125150979
 }

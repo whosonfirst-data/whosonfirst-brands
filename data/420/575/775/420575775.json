@@ -1,10 +1,16 @@
 {
   "wof:brand_name": "Adams Childrenswear Ltd.", 
   "wof:brand_id": 420575775, 
+  "wof:tags": [
+    "babywear", 
+    "childrens", 
+    "child", 
+    "shop"
+  ], 
   "wof:supersedes": [
     1125162113
   ], 
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1512142145, 
+  "wof:lastmodified": 1512414446, 
   "mz:is_current": 1
 }

@@ -1,6 +1,32 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400580, 
+  "wof:lastmodified": 1512414476, 
+  "wof:tags": [
+    "health", 
+    "program", 
+    "state", 
+    "mental", 
+    "specialty", 
+    "administrative", 
+    "executive", 
+    "government-state", 
+    "outpatient", 
+    "administration", 
+    "govt", 
+    "agency", 
+    "alcohol", 
+    "center", 
+    "counseling", 
+    "county", 
+    "drug", 
+    "educational", 
+    "government-county", 
+    "information", 
+    "laboratory", 
+    "medical", 
+    "parish", 
+    "treatment"
+  ], 
   "wof:brand_name": "Mental Health Dept", 
   "wof:brand_id": 1125155803
 }

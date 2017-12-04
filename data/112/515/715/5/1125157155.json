@@ -1,6 +1,21 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400578, 
+  "wof:lastmodified": 1512414476, 
+  "wof:tags": [
+    "physician", 
+    "surgeon", 
+    "family", 
+    "practice", 
+    "medicine", 
+    "surgeons", 
+    "medical", 
+    "dentist", 
+    "clinic", 
+    "chiropractic", 
+    "drug", 
+    "general", 
+    "osteopathic"
+  ], 
   "wof:brand_name": "Family Practice", 
   "wof:brand_id": 1125157155
 }

@@ -1,6 +1,18 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400656, 
+  "wof:lastmodified": 1512414521, 
+  "wof:tags": [
+    "drugstore", 
+    "super", 
+    "delicatessen", 
+    "grocer", 
+    "beer", 
+    "spirit", 
+    "wine", 
+    "florist", 
+    "photography", 
+    "supermarket"
+  ], 
   "wof:brand_name": "Publix Super Markets", 
   "wof:brand_id": 1125154139
 }

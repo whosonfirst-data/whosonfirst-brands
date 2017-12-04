@@ -1,6 +1,22 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400703, 
+  "wof:lastmodified": 1512414552, 
+  "wof:tags": [
+    "affairs", 
+    "admin", 
+    "state", 
+    "veteran", 
+    "military", 
+    "county", 
+    "administrative", 
+    "executive", 
+    "city", 
+    "government-united", 
+    "national", 
+    "organization", 
+    "security", 
+    "welfare"
+  ], 
   "wof:brand_name": "Veterans Affairs", 
   "wof:brand_id": 1125160997
 }

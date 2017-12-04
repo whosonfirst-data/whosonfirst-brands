@@ -1,6 +1,17 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399902, 
+  "wof:lastmodified": 1512414468, 
+  "wof:tags": [
+    "automobile", 
+    "repairing", 
+    "brake", 
+    "accessory", 
+    "exhaust", 
+    "muffler", 
+    "part", 
+    "system", 
+    "tire"
+  ], 
   "wof:brand_name": "Tuffy Auto Svc Ctr", 
   "wof:brand_id": 1125150641
 }

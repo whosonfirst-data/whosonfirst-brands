@@ -1,6 +1,13 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399941, 
+  "wof:lastmodified": 1512414534, 
+  "wof:tags": [
+    "carburants", 
+    "stations-service", 
+    "car wash", 
+    "gasoline", 
+    "oil"
+  ], 
   "wof:brand_name": "Bp", 
   "wof:brand_id": 1125151457
 }

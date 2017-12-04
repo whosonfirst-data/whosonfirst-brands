@@ -1,6 +1,30 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400601, 
+  "wof:lastmodified": 1512414490, 
+  "wof:tags": [
+    "operation", 
+    "lodging", 
+    "corporate", 
+    "hotels-apartment", 
+    "apartment", 
+    "business", 
+    "banquet", 
+    "building", 
+    "company", 
+    "consultant", 
+    "facility", 
+    "hall", 
+    "hotel", 
+    "inn", 
+    "meeting", 
+    "ownership", 
+    "party", 
+    "personal", 
+    "planning", 
+    "reception", 
+    "s", 
+    "venue"
+  ], 
   "wof:brand_name": "Homewood Suites", 
   "wof:brand_id": 1125156583
 }

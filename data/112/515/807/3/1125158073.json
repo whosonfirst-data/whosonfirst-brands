@@ -1,6 +1,19 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400620, 
+  "wof:lastmodified": 1512414500, 
+  "wof:tags": [
+    "institution", 
+    "county", 
+    "govt", 
+    "correctional", 
+    "executive", 
+    "government-county", 
+    "parish", 
+    "department", 
+    "organization", 
+    "protection", 
+    "religious"
+  ], 
   "wof:brand_name": "County Jail", 
   "wof:brand_id": 1125158073
 }

@@ -1,6 +1,13 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400693, 
+  "wof:lastmodified": 1512414546, 
+  "wof:tags": [
+    "shop", 
+    "barber", 
+    "beauty", 
+    "hair", 
+    "hairdresser"
+  ], 
   "wof:brand_name": "Plaza Barber Shop", 
   "wof:brand_id": 1125161245
 }

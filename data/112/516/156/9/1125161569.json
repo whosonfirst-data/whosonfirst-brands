@@ -1,6 +1,32 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400692, 
+  "wof:lastmodified": 1512414545, 
+  "wof:tags": [
+    "medical", 
+    "clinic", 
+    "agency", 
+    "physician", 
+    "surgeon", 
+    "information", 
+    "program", 
+    "referral", 
+    "benefit", 
+    "biological", 
+    "bureau", 
+    "business", 
+    "commercial", 
+    "consultant", 
+    "employee", 
+    "facility", 
+    "fitness", 
+    "home", 
+    "mfg", 
+    "nurse", 
+    "physical", 
+    "product", 
+    "registry", 
+    "welfare"
+  ], 
   "wof:brand_name": "Passport Health", 
   "wof:brand_id": 1125161569
 }

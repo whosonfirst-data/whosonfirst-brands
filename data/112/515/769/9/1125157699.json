@@ -1,6 +1,22 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400587, 
+  "wof:lastmodified": 1512414481, 
+  "wof:tags": [
+    "carrier", 
+    "accident", 
+    "mutual", 
+    "agency", 
+    "business", 
+    "commercial", 
+    "medical", 
+    "benefit", 
+    "carrie", 
+    "employee", 
+    "health", 
+    "life", 
+    "physician", 
+    "surgeon"
+  ], 
   "wof:brand_name": "Physicians Mutual Insurance Co", 
   "wof:brand_id": 1125157699
 }

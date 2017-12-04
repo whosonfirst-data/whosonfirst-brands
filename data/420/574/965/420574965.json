@@ -1,11 +1,24 @@
 {
   "wof:brand_name": "Allied Home Mortgage Capital", 
   "wof:brand_id": 420574965, 
+  "wof:tags": [
+    "loan", 
+    "real estate", 
+    "mortgage", 
+    "broker", 
+    "banker", 
+    "a", 
+    "correspondent", 
+    "institution", 
+    "personal", 
+    "related", 
+    "security"
+  ], 
   "wof:supersedes": [
     420575843, 
     1125156341
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512143687, 
+  "wof:lastmodified": 1512414463, 
   "mz:is_current": 1
 }

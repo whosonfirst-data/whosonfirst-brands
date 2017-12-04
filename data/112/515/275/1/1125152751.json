@@ -1,6 +1,26 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399911, 
+  "wof:lastmodified": 1512414474, 
+  "wof:tags": [
+    "equipment", 
+    "electric", 
+    "supply", 
+    "industrial", 
+    "distribution", 
+    "datum", 
+    "communications", 
+    "conduit", 
+    "fitting", 
+    "communication", 
+    "contractor", 
+    "distributing", 
+    "electronic", 
+    "marketing", 
+    "motor", 
+    "program", 
+    "sample", 
+    "utility"
+  ], 
   "wof:brand_name": "Wesco Distributing Inc", 
   "wof:brand_id": 1125152751
 }

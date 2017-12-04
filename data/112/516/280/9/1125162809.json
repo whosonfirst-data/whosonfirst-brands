@@ -1,6 +1,12 @@
 {
   "wof:brand_size": "S", 
-  "wof:lastmodified": 1511400692, 
+  "wof:lastmodified": 1512414544, 
+  "wof:tags": [
+    "state", 
+    "department", 
+    "guard", 
+    "patrol"
+  ], 
   "wof:brand_name": "State Police Dept", 
   "wof:brand_id": 1125162809
 }

@@ -1,6 +1,25 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400600, 
+  "wof:lastmodified": 1512414489, 
+  "wof:tags": [
+    "management", 
+    "broker", 
+    "building", 
+    "fuel", 
+    "parks", 
+    "property", 
+    "appraiser", 
+    "attorney", 
+    "business", 
+    "buyer", 
+    "commercial", 
+    "consultant", 
+    "investing", 
+    "manager", 
+    "nonresidential", 
+    "opera", 
+    "rental"
+  ], 
   "wof:brand_name": "Cushman & Wakefield Inc", 
   "wof:brand_id": 1125157825
 }

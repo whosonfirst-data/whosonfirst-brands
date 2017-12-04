@@ -1,6 +1,26 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399903, 
+  "wof:lastmodified": 1512414469, 
+  "wof:tags": [
+    "sandwich", 
+    "american", 
+    "pizza", 
+    "salad", 
+    "soup", 
+    "wrap", 
+    "delicatessen", 
+    "hotspot", 
+    "shop", 
+    "wi-fi", 
+    "eating", 
+    "-", 
+    "artificial", 
+    "flower", 
+    "furniture", 
+    "plant", 
+    "taxi's", 
+    "water"
+  ], 
   "wof:brand_name": "Cosi", 
   "wof:brand_id": 1125151723
 }

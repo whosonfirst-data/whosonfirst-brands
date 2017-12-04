@@ -1,6 +1,22 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400516, 
+  "wof:lastmodified": 1512414450, 
+  "wof:tags": [
+    "company", 
+    "title", 
+    "escrow", 
+    "abstract", 
+    "carrier", 
+    "insurance", 
+    "agency", 
+    "brokerage", 
+    "co", 
+    "consultant", 
+    "financial", 
+    "firm", 
+    "loan", 
+    "planning"
+  ], 
   "wof:brand_name": "Chicago Title Co", 
   "wof:brand_id": 420575347
 }

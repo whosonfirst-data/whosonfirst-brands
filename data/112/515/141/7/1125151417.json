@@ -1,6 +1,17 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399938, 
+  "wof:lastmodified": 1512414514, 
+  "wof:tags": [
+    "carrier", 
+    "adjuster", 
+    "business", 
+    "casualty", 
+    "commercial", 
+    "consultant", 
+    "life", 
+    "plan", 
+    "property"
+  ], 
   "wof:brand_name": "Farmers Union Insurance", 
   "wof:brand_id": 1125151417
 }

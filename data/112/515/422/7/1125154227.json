@@ -1,6 +1,29 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400577, 
+  "wof:lastmodified": 1512414475, 
+  "wof:tags": [
+    "interest", 
+    "special", 
+    "educational", 
+    "program", 
+    "administrative", 
+    "executive", 
+    "law", 
+    "legal", 
+    "administration", 
+    "library", 
+    "research", 
+    "attorney", 
+    "counsel", 
+    "county", 
+    "general", 
+    "government", 
+    "governmental", 
+    "justice", 
+    "prosecution", 
+    "state", 
+    "university"
+  ], 
   "wof:brand_name": "Law Library", 
   "wof:brand_id": 1125154227
 }

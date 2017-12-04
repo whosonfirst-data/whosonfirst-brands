@@ -1,6 +1,22 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400694, 
+  "wof:lastmodified": 1512414546, 
+  "wof:tags": [
+    "check", 
+    "loan", 
+    "cashing", 
+    "cashing/pay-day", 
+    "money", 
+    "order", 
+    "real estate", 
+    "community", 
+    "facsimile", 
+    "mortgage", 
+    "pawnbroker", 
+    "payday", 
+    "service/non-profit", 
+    "transmission"
+  ], 
   "wof:brand_name": "Moneytree", 
   "wof:brand_id": 1125161903
 }

@@ -1,6 +1,13 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400601, 
+  "wof:lastmodified": 1512414490, 
+  "wof:tags": [
+    "chemist", 
+    "pharmacist", 
+    "dispensing", 
+    "drug", 
+    "store"
+  ], 
   "wof:brand_name": "Co-Op Pharmacy", 
   "wof:brand_id": 1125155901
 }

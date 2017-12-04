@@ -1,6 +1,10 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400637, 
+  "wof:lastmodified": 1512414509, 
+  "wof:tags": [
+    "-broker", 
+    "versicherungsagenturen"
+  ], 
   "wof:brand_name": "Winterthur-versicherungen Agentur", 
   "wof:brand_id": 1125159439
 }

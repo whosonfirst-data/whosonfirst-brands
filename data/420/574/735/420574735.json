@@ -1,6 +1,13 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511400535, 
+  "wof:lastmodified": 1512414457, 
+  "wof:tags": [
+    "tv", 
+    "dvd", 
+    "radio", 
+    "rental", 
+    "video"
+  ], 
   "wof:brand_name": "Granada Home Technology", 
   "wof:brand_id": 420574735
 }

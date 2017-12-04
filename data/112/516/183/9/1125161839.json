@@ -1,6 +1,20 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400699, 
+  "wof:lastmodified": 1512414550, 
+  "wof:tags": [
+    "oil", 
+    "field", 
+    "well", 
+    "energy", 
+    "management", 
+    "product", 
+    "system", 
+    "gas", 
+    "cementing", 
+    "explosive", 
+    "logging", 
+    "perforating"
+  ], 
   "wof:brand_name": "Halliburton Energy Svc", 
   "wof:brand_id": 1125161839
 }

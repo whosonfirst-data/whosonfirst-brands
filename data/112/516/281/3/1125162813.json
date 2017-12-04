@@ -1,6 +1,26 @@
 {
   "wof:brand_size": "S", 
-  "wof:lastmodified": 1511400695, 
+  "wof:lastmodified": 1512414547, 
+  "wof:tags": [
+    "local", 
+    "authority", 
+    "centre", 
+    "day", 
+    "care", 
+    "residential", 
+    "housing", 
+    "sheltered", 
+    "home", 
+    "business", 
+    "charity", 
+    "children's", 
+    "concert", 
+    "hall", 
+    "organisation", 
+    "rental", 
+    "theatre", 
+    "voluntary"
+  ], 
   "wof:brand_name": "Stoke-on-Trent City Council", 
   "wof:brand_id": 1125162813
 }

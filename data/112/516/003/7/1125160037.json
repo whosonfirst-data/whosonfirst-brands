@@ -1,6 +1,17 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400701, 
+  "wof:lastmodified": 1512414551, 
+  "wof:tags": [
+    "accommodation", 
+    "activity", 
+    "house", 
+    "inn", 
+    "pubs", 
+    "public", 
+    "reception", 
+    "venue", 
+    "wedding"
+  ], 
   "wof:brand_name": "Victoria Hotel", 
   "wof:brand_id": 1125160037
 }

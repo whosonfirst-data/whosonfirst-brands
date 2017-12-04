@@ -1,6 +1,30 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400665, 
+  "wof:lastmodified": 1512414527, 
+  "wof:tags": [
+    "organization", 
+    "welfare", 
+    "human", 
+    "establishment", 
+    "academic", 
+    "banks", 
+    "community", 
+    "county", 
+    "family", 
+    "food", 
+    "kindergarten", 
+    "resource", 
+    "school", 
+    "action", 
+    "business", 
+    "center", 
+    "civic", 
+    "day", 
+    "individual", 
+    "information", 
+    "referral", 
+    "warehouse"
+  ], 
   "wof:brand_name": "Community Action Agency", 
   "wof:brand_id": 1125157143
 }

@@ -1,6 +1,23 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400681, 
+  "wof:lastmodified": 1512414537, 
+  "wof:tags": [
+    "automobile", 
+    "repairing", 
+    "general", 
+    "body", 
+    "painting", 
+    "check", 
+    "smog", 
+    "automotive", 
+    "shop", 
+    "day", 
+    "engineer", 
+    "equipment", 
+    "service-equipment", 
+    "supply", 
+    "transmission"
+  ], 
   "wof:brand_name": "Precision Automotive", 
   "wof:brand_id": 1125160619
 }

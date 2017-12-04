@@ -1,6 +1,21 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400566, 
+  "wof:lastmodified": 1512414469, 
+  "wof:tags": [
+    "state", 
+    "county", 
+    "executive", 
+    "justice", 
+    "administrative", 
+    "correctional", 
+    "facility", 
+    "health", 
+    "institution", 
+    "pro", 
+    "public", 
+    "superior", 
+    "support"
+  ], 
   "wof:brand_name": "Superior Court", 
   "wof:brand_id": 1125159709
 }

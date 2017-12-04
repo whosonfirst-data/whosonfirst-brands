@@ -1,6 +1,12 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400702, 
+  "wof:lastmodified": 1512414552, 
+  "wof:tags": [
+    "dentist", 
+    "clinic", 
+    "dental", 
+    "medical"
+  ], 
   "wof:brand_name": "Dental Office", 
   "wof:brand_id": 1125161453
 }

@@ -1,6 +1,27 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400698, 
+  "wof:lastmodified": 1512414549, 
+  "wof:tags": [
+    "auto", 
+    "business", 
+    "commercial", 
+    "annuity", 
+    "boat", 
+    "carpet", 
+    "cleaners", 
+    "control", 
+    "directory", 
+    "life", 
+    "marine", 
+    "motorcycle", 
+    "other", 
+    "pain", 
+    "publishing", 
+    "recreational", 
+    "rug", 
+    "telephone", 
+    "vehicle"
+  ], 
   "wof:brand_name": "Insurance Services", 
   "wof:brand_id": 1125160553
 }

@@ -1,6 +1,15 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400678, 
+  "wof:lastmodified": 1512414535, 
+  "wof:tags": [
+    "physician", 
+    "surgeon", 
+    "cardiologist", 
+    "medical", 
+    "consultant", 
+    "bureau", 
+    "information"
+  ], 
   "wof:brand_name": "Cardiology Consultants", 
   "wof:brand_id": 1125158945
 }

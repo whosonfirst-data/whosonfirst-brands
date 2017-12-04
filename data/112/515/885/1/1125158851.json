@@ -1,6 +1,31 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400590, 
+  "wof:lastmodified": 1512414483, 
+  "wof:tags": [
+    "electric", 
+    "equipment", 
+    "automation", 
+    "supply", 
+    "consultant", 
+    "motor", 
+    "control", 
+    "system", 
+    "software", 
+    "power", 
+    "aircraft", 
+    "cd-rom", 
+    "changer", 
+    "charter", 
+    "electronic", 
+    "gear", 
+    "industrial", 
+    "leasing", 
+    "mechanical", 
+    "porcelain", 
+    "relay", 
+    "speed", 
+    "transmission"
+  ], 
   "wof:brand_name": "Rockwell Automation", 
   "wof:brand_id": 1125158851
 }

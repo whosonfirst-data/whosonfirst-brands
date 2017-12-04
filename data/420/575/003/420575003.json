@@ -1,10 +1,37 @@
 {
   "wof:brand_name": "Bed Bath & Beyond", 
   "wof:brand_id": 420575003, 
+  "wof:tags": [
+    "housewares", 
+    "linen", 
+    "decor", 
+    "bath", 
+    "kitchen", 
+    "house", 
+    "accessory", 
+    "bathroom", 
+    "bedding", 
+    "cabinet", 
+    "fixtures", 
+    "domestic", 
+    "merchandise", 
+    "store", 
+    "establishment", 
+    "mattress", 
+    "cosmetic", 
+    "department", 
+    "event", 
+    "fixture", 
+    "general", 
+    "outlet", 
+    "perfume", 
+    "planning", 
+    "spa"
+  ], 
   "wof:supersedes": [
     1125151823
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512142224, 
+  "wof:lastmodified": 1512414452, 
   "mz:is_current": 1
 }

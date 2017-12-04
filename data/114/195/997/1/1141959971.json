@@ -1,5 +1,11 @@
 {
-  "wof:brand_id": 1141959971, 
-  "wof:brand_name": "Mimi Cheng's Dumplings",
-  "wof:brand_size":""    
+  "wof:brand_size": "", 
+  "wof:lastmodified": 1512414563, 
+  "wof:brand_name": "Mimi Cheng's Dumplings", 
+  "wof:tags": [
+    "dumplings", 
+    "chinese", 
+    "restaurant"
+  ], 
+  "wof:brand_id": 1141959971
 }

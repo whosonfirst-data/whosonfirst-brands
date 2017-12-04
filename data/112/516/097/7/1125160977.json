@@ -1,6 +1,31 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400701, 
+  "wof:lastmodified": 1512414551, 
+  "wof:tags": [
+    "storage", 
+    "commercial", 
+    "special", 
+    "general", 
+    "self", 
+    "household", 
+    "management", 
+    "mover", 
+    "automobile", 
+    "boat", 
+    "cold", 
+    "document", 
+    "full", 
+    "local", 
+    "operation", 
+    "operator", 
+    "property", 
+    "records-storage", 
+    "trucking", 
+    "warehouse", 
+    "warehouses-merchandise", 
+    "warehousing", 
+    "who"
+  ], 
   "wof:brand_name": "Storage Depot", 
   "wof:brand_id": 1125160977
 }

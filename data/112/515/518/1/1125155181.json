@@ -1,6 +1,22 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400638, 
+  "wof:lastmodified": 1512414509, 
+  "wof:tags": [
+    "supermarket", 
+    "drug", 
+    "drugstore", 
+    "florist", 
+    "mfg", 
+    "alcoholic", 
+    "bakery", 
+    "buddhist", 
+    "chain", 
+    "eating", 
+    "ice", 
+    "italian", 
+    "prod", 
+    "retail"
+  ], 
   "wof:brand_name": "Ralphs", 
   "wof:brand_id": 1125155181
 }

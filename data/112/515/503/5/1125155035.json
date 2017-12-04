@@ -1,6 +1,29 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400588, 
+  "wof:lastmodified": 1512414481, 
+  "wof:tags": [
+    "telephone", 
+    "repair", 
+    "communications", 
+    "accessory", 
+    "audio", 
+    "beeper", 
+    "business", 
+    "cellular", 
+    "commercial", 
+    "communication", 
+    "consultant", 
+    "custom", 
+    "datum", 
+    "electronic", 
+    "instrument", 
+    "medium", 
+    "merchandise", 
+    "print", 
+    "programing", 
+    "satellite", 
+    "system"
+  ], 
   "wof:brand_name": "Network Communications", 
   "wof:brand_id": 1125155035
 }

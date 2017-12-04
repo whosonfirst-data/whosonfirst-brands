@@ -1,6 +1,22 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399942, 
+  "wof:lastmodified": 1512414535, 
+  "wof:tags": [
+    "drugstore", 
+    "market", 
+    "supermarket", 
+    "super", 
+    "bakery", 
+    "health", 
+    "florist", 
+    "mfg", 
+    "delicatessen", 
+    "eating", 
+    "medical", 
+    "pharmacy", 
+    "prod", 
+    "product"
+  ], 
   "wof:brand_name": "Publix", 
   "wof:brand_id": 1125150637
 }

@@ -1,6 +1,25 @@
 {
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1511399912, 
+  "wof:lastmodified": 1512414491, 
+  "wof:tags": [
+    "transmission", 
+    "automobile", 
+    "repairing", 
+    "automotive", 
+    "brake", 
+    "general", 
+    "part", 
+    "transmissions-other", 
+    "accessory", 
+    "clutch", 
+    "coupon", 
+    "diagnostic", 
+    "lube", 
+    "oil", 
+    "shop", 
+    "truck", 
+    "tune"
+  ], 
   "wof:brand_name": "Mr Transmission", 
   "wof:brand_id": 1125152889
 }

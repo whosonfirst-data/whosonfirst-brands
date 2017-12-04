@@ -1,6 +1,15 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400608, 
+  "wof:lastmodified": 1512414494, 
+  "wof:tags": [
+    "advertising", 
+    "direct", 
+    "local", 
+    "mail", 
+    "operator", 
+    "social", 
+    "trucking"
+  ], 
   "wof:brand_name": "National Assoc of Letter", 
   "wof:brand_id": 1125159949
 }

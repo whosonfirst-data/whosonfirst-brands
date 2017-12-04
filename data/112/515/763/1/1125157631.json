@@ -1,6 +1,25 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400637, 
+  "wof:lastmodified": 1512414509, 
+  "wof:tags": [
+    "apartment", 
+    "building", 
+    "complex", 
+    "management", 
+    "community", 
+    "finder", 
+    "listing", 
+    "rental", 
+    "vacancy", 
+    "condominium", 
+    "help", 
+    "home", 
+    "medical", 
+    "out", 
+    "property", 
+    "residential", 
+    "retirement"
+  ], 
   "wof:brand_name": "Hillcrest Apartments", 
   "wof:brand_id": 1125157631
 }

@@ -1,6 +1,18 @@
 {
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1511400611, 
+  "wof:lastmodified": 1512414495, 
+  "wof:tags": [
+    "television", 
+    "radio", 
+    "equipment", 
+    "electronic", 
+    "supply", 
+    "appliance", 
+    "consumer", 
+    "audio", 
+    "commercial", 
+    "electrical"
+  ], 
   "wof:brand_name": "Rex TV & Appliances", 
   "wof:brand_id": 1125156471
 }
