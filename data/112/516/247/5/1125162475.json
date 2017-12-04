@@ -1,10 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414544, 
+  "wof:brand_name": "Wingstreet", 
+  "wof:brand_id": 1125162475, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "pizza", 
     "chicken"
   ], 
-  "wof:brand_name": "Wingstreet", 
-  "wof:brand_id": 1125162475
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416301
 }

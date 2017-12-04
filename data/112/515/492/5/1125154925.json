@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414531, 
+  "wof:brand_name": "Susa Partnership LP", 
+  "wof:brand_id": 1125154925, 
+  "wof:categories": [
+    "sg:transportation=freight", 
+    "services:real_estate=real_estate_operator", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "facility", 
     "storage", 
@@ -17,6 +22,6 @@
     "trucking", 
     "warehousing"
   ], 
-  "wof:brand_name": "Susa Partnership LP", 
-  "wof:brand_id": 1125154925
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416291
 }

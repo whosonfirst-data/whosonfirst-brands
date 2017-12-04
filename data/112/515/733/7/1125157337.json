@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414498, 
+  "wof:brand_name": "Bj's Wholesale Club", 
+  "wof:brand_id": 1125157337, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "sg:retail_goods=food_and_beverages", 
+    "services:health_services=optometrist", 
+    "sg:services=health_services", 
+    "manufacturing_and_wholesale_goods:wholesale=toys_and_hobbies", 
+    "services:organizations=community_association", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "club", 
     "wholesale", 
@@ -13,6 +27,6 @@
     "general", 
     "wholesaler"
   ], 
-  "wof:brand_name": "Bj's Wholesale Club", 
-  "wof:brand_id": 1125157337
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416265
 }

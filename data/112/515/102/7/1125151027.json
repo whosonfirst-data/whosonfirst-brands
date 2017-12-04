@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414519, 
+  "wof:brand_name": "Alzheimer's Association", 
+  "wof:brand_id": 1125151027, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=professional_association", 
+    "sg:services=social_services", 
+    "services:organizations=nonprofit_organization", 
+    "sg:services=health_services", 
+    "services:health_services=clinic", 
+    "services:health_services=medical_lab", 
+    "services:insurance=health_insurance", 
+    "services:organizations=membership_organization", 
+    "sg:services=insurance", 
+    "services:health_services=doctor", 
+    "services:professional=management_and_consulting", 
+    "sg:public_place=science_facility", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "citizen", 
     "senior", 
@@ -45,6 +61,6 @@
     "social", 
     "surgeons"
   ], 
-  "wof:brand_name": "Alzheimer's Association", 
-  "wof:brand_id": 1125151027
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416282
 }

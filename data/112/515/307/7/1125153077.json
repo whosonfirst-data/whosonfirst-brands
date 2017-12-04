@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414468, 
+  "wof:brand_name": "Beverly Healthcare", 
+  "wof:brand_id": 1125153077, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=nursing_and_care_facility", 
+    "sg:services=social_services", 
+    "services:health_services=clinic", 
+    "services:social_services=job_training", 
+    "services:social_services=adult_care", 
+    "services:health_services=hospital"
+  ], 
   "wof:tags": [
     "home", 
     "convalescent", 
@@ -25,6 +34,6 @@
     "retirement", 
     "treatment"
   ], 
-  "wof:brand_name": "Beverly Healthcare", 
-  "wof:brand_id": 1125153077
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416240
 }

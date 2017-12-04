@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414500, 
+  "wof:brand_name": "Dale Carnegie Training", 
+  "wof:brand_id": 1125153859, 
+  "wof:categories": [
+    "sg:public_place=education", 
+    "public_place:education=special_training", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "public_place:education=school", 
+    "services:social_services=job_training", 
+    "sg:services=social_services", 
+    "entertainment:sports_and_exercise=playing_field", 
+    "sg:entertainment=sports_and_exercise", 
+    "public_place:education=vocational_school", 
+    "public_place:education=junior_college", 
+    "services:professional=business_services", 
+    "services:professional=employment_agencies", 
+    "sg:public_place=shopping_center"
+  ], 
   "wof:tags": [
     "program", 
     "consultant", 
@@ -36,6 +52,6 @@
     "specialty", 
     "technical"
   ], 
-  "wof:brand_name": "Dale Carnegie Training", 
-  "wof:brand_id": 1125153859
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416266
 }

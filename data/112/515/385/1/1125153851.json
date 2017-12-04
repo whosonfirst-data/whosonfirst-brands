@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414500, 
+  "wof:brand_name": "China Dragon", 
+  "wof:brand_id": 1125153851, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "manufacturing_and_wholesale_goods:manufacturing=glass_and_minerals", 
+    "services:personal=massage", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "chinese", 
     "eating", 
@@ -14,6 +22,6 @@
     "indian", 
     "therapy"
   ], 
-  "wof:brand_name": "China Dragon", 
-  "wof:brand_id": 1125153851
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416266
 }

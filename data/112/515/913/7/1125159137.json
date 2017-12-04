@@ -1,6 +1,35 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414520, 
+  "wof:brand_name": "Advanced Communications", 
+  "wof:brand_id": 1125159137, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "sg:services=communications", 
+    "sg:services=utilities", 
+    "sg:services=professional", 
+    "services:utilities=telephone", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "services:professional=business_services", 
+    "sg:services=building_and_trades", 
+    "retail_goods:shopping=mobile_phones", 
+    "services:building_and_trades=electrical", 
+    "services:utilities=mobile_phone", 
+    "services:professional=computer_services", 
+    "services:professional=management_and_consulting", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "entertainment:cinema=movie_rental", 
+    "manufacturing_and_wholesale_goods:manufacturing=building_materials", 
+    "manufacturing_and_wholesale_goods:manufacturing=electronics", 
+    "public_place:education=special_training", 
+    "services:building_and_trades=construction", 
+    "services:communications=radio_station", 
+    "services:professional=detective_and_security_services", 
+    "sg:entertainment=cinema", 
+    "sg:entertainment=recreation", 
+    "sg:public_place=education", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "telephone", 
     "cellular", 
@@ -63,6 +92,6 @@
     "video", 
     "voice"
   ], 
-  "wof:brand_name": "Advanced Communications", 
-  "wof:brand_id": 1125159137
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416282
 }

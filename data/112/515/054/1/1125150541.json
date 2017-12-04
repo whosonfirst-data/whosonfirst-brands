@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414490, 
+  "wof:brand_name": "Christ Episcopal Church", 
+  "wof:brand_id": 1125150541, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship"
+  ], 
   "wof:tags": [
     "church", 
     "churches-episcopal", 
@@ -11,6 +17,6 @@
     "elementary", 
     "school"
   ], 
-  "wof:brand_name": "Christ Episcopal Church", 
-  "wof:brand_id": 1125150541
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416258
 }

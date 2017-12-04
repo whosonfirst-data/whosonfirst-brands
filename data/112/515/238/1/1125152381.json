@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414523, 
+  "wof:brand_name": "WIC Program", 
+  "wof:brand_id": 1125152381, 
+  "wof:categories": [
+    "sg:services=social_services", 
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:services=health_services", 
+    "services:health_services=doctor", 
+    "sg:services=organizations", 
+    "services:organizations=nonprofit_organization", 
+    "services:health_services=clinic", 
+    "services:health_services=health_practitioner", 
+    "services:organizations=membership_organization", 
+    "services:social_services=child_care"
+  ], 
   "wof:tags": [
     "welfare", 
     "organization", 
@@ -24,6 +37,6 @@
     "planning", 
     "supply"
   ], 
-  "wof:brand_name": "WIC Program", 
-  "wof:brand_id": 1125152381
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416284
 }

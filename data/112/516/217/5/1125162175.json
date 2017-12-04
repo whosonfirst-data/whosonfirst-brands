@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414549, 
+  "wof:brand_name": "Central", 
+  "wof:brand_id": 1125162175, 
+  "wof:categories": [
+    "sg:food_and_drink=bars_and_pubs", 
+    "food_and_drink:bars_and_pubs=lounge", 
+    "entertainment:recreation=dance_hall", 
+    "manufacturing_and_wholesale_goods:wholesale=hardware", 
+    "retail_goods:home_and_garden=furniture", 
+    "sg:entertainment=recreation", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=professional", 
+    "sg:transportation=taxi"
+  ], 
   "wof:tags": [
     "air", 
     "club", 
@@ -11,6 +23,6 @@
     "supply", 
     "taxicab"
   ], 
-  "wof:brand_name": "Central", 
-  "wof:brand_id": 1125162175
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416305
 }

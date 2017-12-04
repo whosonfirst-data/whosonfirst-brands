@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414552, 
+  "wof:brand_name": "Budget Self Storage", 
+  "wof:brand_id": 1125162553, 
+  "wof:categories": [
+    "sg:transportation=freight", 
+    "services:retail=storage", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:manufacturing=paper_products", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=personal", 
+    "public_place:structure=warehouse", 
+    "sg:public_place=structure", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "storage", 
     "commercial", 
@@ -20,6 +31,6 @@
     "packaging", 
     "warehouses-public-commercial"
   ], 
-  "wof:brand_name": "Budget Self Storage", 
-  "wof:brand_id": 1125162553
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416308
 }

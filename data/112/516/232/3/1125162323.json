@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414537, 
+  "wof:brand_name": "Mandarin House", 
+  "wof:brand_id": 1125162323, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food"
+  ], 
   "wof:tags": [
     "chinese", 
     "away", 
@@ -11,6 +15,6 @@
     "eating", 
     "pan"
   ], 
-  "wof:brand_name": "Mandarin House", 
-  "wof:brand_id": 1125162323
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416296
 }

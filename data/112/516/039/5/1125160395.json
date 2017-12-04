@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414552, 
+  "wof:brand_name": "lululemon athletica", 
+  "wof:brand_id": 1125160395, 
+  "wof:categories": [
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=shopping", 
+    "entertainment:sports_and_exercise=bicycle_rental", 
+    "sg:entertainment=sports_and_exercise", 
+    "entertainment:sports_and_exercise=gym", 
+    "retail_goods:shopping=bicycles_and_sporting_goods"
+  ], 
   "wof:tags": [
     "wear", 
     "clothing", 
@@ -13,6 +21,6 @@
     "sport", 
     "store"
   ], 
-  "wof:brand_name": "lululemon athletica", 
-  "wof:brand_id": 1125160395
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416307
 }

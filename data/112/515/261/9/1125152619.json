@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414501, 
+  "wof:brand_name": "Repco Authorised Service", 
+  "wof:brand_id": 1125152619, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "engineer", 
     "motor", 
@@ -10,6 +14,6 @@
     "brake", 
     "clutch"
   ], 
-  "wof:brand_name": "Repco Authorised Service", 
-  "wof:brand_id": 1125152619
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416267
 }

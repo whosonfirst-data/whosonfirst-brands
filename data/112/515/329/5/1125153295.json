@@ -1,6 +1,27 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414524, 
+  "wof:brand_name": "Forestry Commission", 
+  "wof:brand_id": 1125153295, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:manufacturing=lumber", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "services:building_and_trades=landscaping_services", 
+    "sg:services=building_and_trades", 
+    "services:utilities=sewage", 
+    "sg:services=utilities", 
+    "entertainment:recreation=campground", 
+    "entertainment:travel=hotels_and_motels", 
+    "public_place:education=special_training", 
+    "public_place:government=office", 
+    "services:organizations=community_association", 
+    "services:professional=computer_services", 
+    "sg:entertainment=recreation", 
+    "sg:entertainment=travel", 
+    "sg:public_place=community_center", 
+    "sg:public_place=education", 
+    "sg:public_place=government", 
+    "sg:services=organizations", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "government", 
     "tree", 
@@ -12,6 +33,6 @@
     "product", 
     "site"
   ], 
-  "wof:brand_name": "Forestry Commission", 
-  "wof:brand_id": 1125153295
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416285
 }

@@ -1,7 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414480, 
-  "wof:tags": [], 
   "wof:brand_name": "Mobil Oil Aust Pty Ltd", 
-  "wof:brand_id": 1125154239
+  "wof:brand_id": 1125154239, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416250
 }

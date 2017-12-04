@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414527, 
+  "wof:brand_name": "The Hair Studio", 
+  "wof:brand_id": 1125154493, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=tanning_parlor", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "services:personal=barber", 
+    "services:personal=nail_salon", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "hairdresser", 
     "unisex", 
@@ -10,6 +19,6 @@
     "shop", 
     "tanning"
   ], 
-  "wof:brand_name": "The Hair Studio", 
-  "wof:brand_id": 1125154493
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416288
 }

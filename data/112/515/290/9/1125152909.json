@@ -1,9 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414484, 
+  "wof:brand_name": "Stars News Shops", 
+  "wof:brand_id": 1125152909, 
+  "wof:categories": [
+    "retail_goods:shopping=news", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "newsagent"
   ], 
-  "wof:brand_name": "Stars News Shops", 
-  "wof:brand_id": 1125152909
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416253
 }

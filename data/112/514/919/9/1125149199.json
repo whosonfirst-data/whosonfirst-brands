@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414555, 
+  "wof:brand_name": "Miami-Dade County Public Schools", 
+  "wof:brand_id": 1125149199, 
+  "wof:categories": [
+    "public_place:education=school", 
+    "sg:public_place=education", 
+    "services:professional=employment_agencies", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "high", 
     "middle", 
@@ -8,6 +14,6 @@
     "public", 
     "school"
   ], 
-  "wof:brand_name": "Miami-Dade County Public Schools", 
-  "wof:brand_id": 1125149199
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416310
 }

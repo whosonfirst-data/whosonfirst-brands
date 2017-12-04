@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414467, 
+  "wof:brand_name": "GAB Robins", 
+  "wof:brand_id": 1125152279, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=hazard_insurance", 
+    "services:professional=business_services", 
+    "sg:services=professional", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:professional=credit_reporting_and_collection", 
+    "services:real_estate=real_estate_services", 
+    "services:real_estate=surveying", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "adjuster", 
     "processing", 
@@ -16,6 +29,6 @@
     "debt", 
     "industrial"
   ], 
-  "wof:brand_name": "GAB Robins", 
-  "wof:brand_id": 1125152279
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416239
 }

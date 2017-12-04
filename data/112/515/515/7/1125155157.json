@@ -1,12 +1,24 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414506, 
+  "wof:brand_name": "Maranatha Baptist Church", 
+  "wof:brand_id": 1125155157, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "manufacturing_and_wholesale_goods:manufacturing=furniture", 
+    "public_place:education=school", 
+    "public_place:place_of_worship=church", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:public_place=education", 
+    "sg:public_place=place_of_worship", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "church", 
     "baptist", 
     "churches-baptist", 
     "churches-baptist-independent-fundamental"
   ], 
-  "wof:brand_name": "Maranatha Baptist Church", 
-  "wof:brand_id": 1125155157
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416271
 }

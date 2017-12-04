@@ -1,6 +1,30 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414451, 
+  "wof:brand_name": "ServiceMaster Clean", 
+  "wof:brand_id": 420575183, 
+  "wof:categories": [
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:services=retail", 
+    "services:utilities=water", 
+    "sg:services=utilities", 
+    "retail_goods:home_and_garden=carpets_and_floor_coverings", 
+    "sg:services=personal", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "services:building_and_trades=construction", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=real_estate", 
+    "public_place:government=fire_station", 
+    "sg:public_place=government", 
+    "services:communications=film_and_video_production", 
+    "services:professional=employment_agencies", 
+    "services:retail=repair_shop", 
+    "sg:services=communications", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "cleaning-industrial", 
     "vacuum", 
@@ -52,6 +76,6 @@
     "scene", 
     "trauma"
   ], 
-  "wof:brand_name": "ServiceMaster Clean", 
-  "wof:brand_id": 420575183
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416227
 }

@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414541, 
+  "wof:brand_name": "South Lanarkshire Council", 
+  "wof:brand_id": 1125162413, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:public_place=education", 
+    "sg:services=professional", 
+    "public_place:education=special_training", 
+    "services:professional=employment_agencies", 
+    "sg:services=social_services", 
+    "public_place:education=library", 
+    "public_place:education=preschool", 
+    "public_place:government=city_hall", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:professional=management_and_consulting", 
+    "services:social_services=adult_care", 
+    "services:social_services=retirement_home"
+  ], 
   "wof:tags": [
     "local", 
     "career", 
@@ -15,6 +31,6 @@
     "residential", 
     "sheltered"
   ], 
-  "wof:brand_name": "South Lanarkshire Council", 
-  "wof:brand_id": 1125162413
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416298
 }

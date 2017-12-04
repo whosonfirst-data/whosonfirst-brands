@@ -1,12 +1,18 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414539, 
+  "wof:brand_name": "Farmers Trading Co Ltd", 
+  "wof:brand_id": 1125160823, 
+  "wof:categories": [
+    "retail_goods:home_and_garden=furniture", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "furnishing", 
     "furniture/furnishings", 
     "clothing", 
     "fabric"
   ], 
-  "wof:brand_name": "Farmers Trading Co Ltd", 
-  "wof:brand_id": 1125160823
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416297
 }

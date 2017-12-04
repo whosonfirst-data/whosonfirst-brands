@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414494, 
+  "wof:brand_name": "Amnesty International", 
+  "wof:brand_id": 1125155333, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=nonprofit_organization", 
+    "sg:services=social_services", 
+    "services:organizations=professional_association", 
+    "sg:services=professional", 
+    "services:professional=art_services", 
+    "services:professional=business_services"
+  ], 
   "wof:tags": [
     "charity", 
     "organisation", 
@@ -10,6 +19,6 @@
     "charitable", 
     "foreninger"
   ], 
-  "wof:brand_name": "Amnesty International", 
-  "wof:brand_id": 1125155333
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416261
 }

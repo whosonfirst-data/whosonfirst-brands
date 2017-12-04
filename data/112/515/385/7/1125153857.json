@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414500, 
+  "wof:brand_name": "Cornerstone Community Church", 
+  "wof:brand_id": 1125153857, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship"
+  ], 
   "wof:tags": [
     "church", 
     "christ", 
@@ -12,6 +18,6 @@
     "free", 
     "methodist"
   ], 
-  "wof:brand_name": "Cornerstone Community Church", 
-  "wof:brand_id": 1125153857
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416266
 }

@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414541, 
+  "wof:brand_name": "Titlemax", 
+  "wof:brand_id": 1125162049, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=pawn_shop", 
+    "retail_goods:shopping=used_merchandise", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=real_estate", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "pawnbroker", 
     "title", 
@@ -14,6 +25,6 @@
     "pawn", 
     "shop"
   ], 
-  "wof:brand_name": "Titlemax", 
-  "wof:brand_id": 1125162049
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416299
 }

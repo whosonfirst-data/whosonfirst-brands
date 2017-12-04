@@ -1,6 +1,41 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414508, 
+  "wof:brand_name": "Ambiance", 
+  "wof:brand_id": 1125155455, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "sg:services=professional", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:professional=business_services", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:home_and_garden=furniture", 
+    "services:building_and_trades=construction", 
+    "services:professional=art_services", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:manufacturing=building_materials", 
+    "manufacturing_and_wholesale_goods:wholesale=home_furnishings", 
+    "manufacturing_and_wholesale_goods:wholesale=jewelry", 
+    "public_place:education=special_training", 
+    "retail_goods:home_and_garden=carpets_and_floor_coverings", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=florist", 
+    "retail_goods:shopping=jewelry", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:personal=day_spa", 
+    "services:personal=massage", 
+    "services:professional=management_and_consulting", 
+    "services:utilities=mobile_phone", 
+    "sg:food_and_drink=restaurant", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:public_place=education", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "shop", 
     "interior", 
@@ -56,6 +91,6 @@
     "wi-fi", 
     "\u00e9v\u00e9nements"
   ], 
-  "wof:brand_name": "Ambiance", 
-  "wof:brand_id": 1125155455
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416273
 }

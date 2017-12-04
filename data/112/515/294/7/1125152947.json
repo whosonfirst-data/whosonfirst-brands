@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414533, 
+  "wof:brand_name": "Hans Anders Opticiens", 
+  "wof:brand_id": 1125152947, 
+  "wof:categories": [
+    "retail_goods:shopping=optician", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "-"
   ], 
-  "wof:brand_name": "Hans Anders Opticiens", 
-  "wof:brand_id": 1125152947
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416293
 }

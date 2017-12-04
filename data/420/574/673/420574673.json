@@ -1,6 +1,30 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414460, 
+  "wof:brand_name": "MetLife", 
+  "wof:brand_id": 420574673, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=life_insurance", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=hazard_insurance", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:professional=business_services", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate", 
+    "manufacturing_and_wholesale_goods:farming=farm", 
+    "manufacturing_and_wholesale_goods:wholesale=medical_equipment_and_supplies", 
+    "services:insurance=health_insurance", 
+    "services:insurance=title_insurance", 
+    "services:personal=hair_removal", 
+    "services:professional=credit_reporting_and_collection", 
+    "services:professional=lawyer_and_legal_services", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "carrier", 
     "agency", 
@@ -40,6 +64,6 @@
     "plan", 
     "renter"
   ], 
-  "wof:brand_name": "MetLife", 
-  "wof:brand_id": 420574673
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416233
 }

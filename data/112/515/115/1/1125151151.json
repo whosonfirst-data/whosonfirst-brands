@@ -1,11 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414479, 
+  "wof:brand_name": "Price Attack", 
+  "wof:brand_id": 1125151151, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=skin_care"
+  ], 
   "wof:tags": [
     "hairdresser", 
     "hair", 
     "product"
   ], 
-  "wof:brand_name": "Price Attack", 
-  "wof:brand_id": 1125151151
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416249
 }

@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414504, 
+  "wof:brand_name": "Old Dominion Freight Line", 
+  "wof:brand_id": 1125158153, 
+  "wof:categories": [
+    "sg:transportation=freight", 
+    "sg:transportation=transit_center", 
+    "transportation:transit_center=freight", 
+    "services:professional=employment_agencies", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "trucking", 
     "operator", 
@@ -17,6 +24,6 @@
     "supply", 
     "trucking-motor"
   ], 
-  "wof:brand_name": "Old Dominion Freight Line", 
-  "wof:brand_id": 1125158153
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416270
 }

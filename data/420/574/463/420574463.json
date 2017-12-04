@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414460, 
+  "wof:brand_name": "Aarons Sales & Lease Ownership", 
+  "wof:brand_id": 420574463, 
+  "wof:categories": [
+    "services:building_and_trades=equipment_rental", 
+    "sg:services=building_and_trades", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=professional", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:home_and_garden=furniture", 
+    "services:professional=computer_services", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:professional=business_services", 
+    "services:communications=radio_station", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=communications", 
+    "sg:services=real_estate", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "services:professional=advertising", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "leasing", 
     "furniture", 
@@ -34,6 +54,6 @@
     "retail", 
     "washer"
   ], 
-  "wof:brand_name": "Aarons Sales & Lease Ownership", 
-  "wof:brand_id": 420574463
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416234
 }

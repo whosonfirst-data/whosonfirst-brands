@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414501, 
+  "wof:brand_name": "Torrid", 
+  "wof:brand_id": 1125159721, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=jewelry", 
+    "retail_goods:shopping=used_merchandise", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "clothing", 
     "women's", 
@@ -14,6 +23,6 @@
     "merchandise", 
     "vintage"
   ], 
-  "wof:brand_name": "Torrid", 
-  "wof:brand_id": 1125159721
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416267
 }

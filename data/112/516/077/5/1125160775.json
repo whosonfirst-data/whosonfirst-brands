@@ -1,6 +1,35 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414548, 
+  "wof:brand_name": "Chop Shop", 
+  "wof:brand_id": 1125160775, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "sg:food_and_drink=restaurant", 
+    "services:personal=barber", 
+    "sg:services=retail", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=motorcycle_sales", 
+    "services:retail=repair_shop", 
+    "retail_goods:food_and_beverages=meat_and_fish", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "services:retail=auto_repair", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:food_and_beverages=specialty", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:professional=management_and_consulting", 
+    "sg:food_and_drink=deli", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "scooter", 
     "shop", 
@@ -31,6 +60,6 @@
     "unisex", 
     "wrecking"
   ], 
-  "wof:brand_name": "Chop Shop", 
-  "wof:brand_id": 1125160775
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416304
 }

@@ -1,11 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414448, 
+  "wof:brand_name": "Banca Carige Spa", 
+  "wof:brand_id": 420575669, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "banker", 
     "banksmortgage", 
     "correspondent"
   ], 
-  "wof:brand_name": "Banca Carige Spa", 
-  "wof:brand_id": 420575669
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416224
 }

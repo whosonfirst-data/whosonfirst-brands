@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414486, 
+  "wof:brand_name": "American General Financial Services", 
+  "wof:brand_id": 1125150455, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=professional", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "mortgage", 
     "broker", 
@@ -8,6 +17,6 @@
     "loan", 
     "processing"
   ], 
-  "wof:brand_name": "American General Financial Services", 
-  "wof:brand_id": 1125150455
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416254
 }

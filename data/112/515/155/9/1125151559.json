@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414521, 
+  "wof:brand_name": "March Of Dimes", 
+  "wof:brand_id": 1125151559, 
+  "wof:categories": [
+    "sg:services=social_services", 
+    "sg:services=organizations", 
+    "services:organizations=nonprofit_organization", 
+    "services:organizations=professional_association", 
+    "services:organizations=membership_organization", 
+    "services:health_services=clinic", 
+    "sg:services=health_services", 
+    "sg:services=professional", 
+    "services:professional=secretarial_services"
+  ], 
   "wof:tags": [
     "welfare", 
     "organization", 
@@ -22,6 +33,6 @@
     "pregnancy", 
     "reporting"
   ], 
-  "wof:brand_name": "March Of Dimes", 
-  "wof:brand_id": 1125151559
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416283
 }

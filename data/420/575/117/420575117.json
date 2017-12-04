@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414449, 
+  "wof:brand_name": "Publix Super Market", 
+  "wof:brand_id": 420575117, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "sg:food_and_drink=deli", 
+    "retail_goods:shopping=pharmacy", 
+    "sg:retail_goods=shopping", 
+    "sg:food_and_drink=bakery"
+  ], 
   "wof:tags": [
     "grocer", 
     "super", 
@@ -13,6 +22,6 @@
     "mfg", 
     "prod"
   ], 
-  "wof:brand_name": "Publix Super Market", 
-  "wof:brand_id": 420575117
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416225
 }

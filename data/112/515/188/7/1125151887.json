@@ -1,6 +1,27 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414465, 
+  "wof:brand_name": "Finance Dept", 
+  "wof:brand_id": 1125151887, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:services=professional", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:insurance=insurance_agent", 
+    "sg:public_place=education", 
+    "sg:services=insurance", 
+    "public_place:education=college", 
+    "public_place:education=school", 
+    "public_place:government=police_station", 
+    "services:health_services=hospital", 
+    "services:insurance=hazard_insurance", 
+    "services:professional=business_services", 
+    "services:professional=computer_services", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=health_services", 
+    "sg:services=real_estate", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "taxation", 
     "policy", 
@@ -53,6 +74,6 @@
     "treasury", 
     "village"
   ], 
-  "wof:brand_name": "Finance Dept", 
-  "wof:brand_id": 1125151887
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416238
 }

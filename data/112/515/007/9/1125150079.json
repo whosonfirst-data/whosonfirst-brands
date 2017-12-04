@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414471, 
+  "wof:brand_name": "DIRECTV", 
+  "wof:brand_id": 1125150079, 
+  "wof:categories": [
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "sg:retail_goods=shopping", 
+    "services:utilities=cable", 
+    "sg:services=utilities", 
+    "sg:services=communications", 
+    "services:communications=television_station", 
+    "services:retail=repair_shop", 
+    "sg:services=professional", 
+    "sg:services=retail", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "services:professional=advertising", 
+    "services:professional=business_services", 
+    "services:professional=computer_services"
+  ], 
   "wof:tags": [
     "satellite", 
     "equipment", 
@@ -23,6 +39,6 @@
     "telemarketing", 
     "telephone"
   ], 
-  "wof:brand_name": "DIRECTV", 
-  "wof:brand_id": 1125150079
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416243
 }

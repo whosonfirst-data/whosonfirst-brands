@@ -1,12 +1,21 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414470, 
+  "wof:brand_name": "Open Polytechnic of New Zealand", 
+  "wof:brand_id": 1125156617, 
+  "wof:categories": [
+    "sg:public_place=education", 
+    "public_place:education=special_training", 
+    "public_place:education=university", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=banks_and_credit_unions", 
+    "services:social_services=job_training", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "training", 
     "education", 
     "college", 
     "educational"
   ], 
-  "wof:brand_name": "Open Polytechnic of New Zealand", 
-  "wof:brand_id": 1125156617
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416242
 }

@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414447, 
+  "wof:brand_name": "Girl Scouts", 
+  "wof:brand_id": 420575443, 
+  "wof:categories": [
+    "sg:services=social_services", 
+    "sg:services=organizations", 
+    "services:organizations=professional_association", 
+    "services:organizations=community_association", 
+    "entertainment:travel=campground", 
+    "sg:entertainment=travel", 
+    "services:organizations=nonprofit_organization", 
+    "public_place:community_center=youth", 
+    "sg:public_place=community_center", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "services:organizations=membership_organization", 
+    "services:professional=business_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "organization", 
     "youth", 
@@ -17,6 +34,6 @@
     "scout", 
     "service/non-profit"
   ], 
-  "wof:brand_name": "Girl Scouts", 
-  "wof:brand_id": 420575443
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416224
 }

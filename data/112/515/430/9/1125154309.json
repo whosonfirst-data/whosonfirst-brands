@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414509, 
+  "wof:brand_name": "Gastroenterology Associates", 
+  "wof:brand_id": 1125154309, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=doctor", 
+    "services:health_services=clinic"
+  ], 
   "wof:tags": [
     "physician", 
     "surgeon", 
@@ -14,6 +19,6 @@
     "outpatient", 
     "practitioner"
   ], 
-  "wof:brand_name": "Gastroenterology Associates", 
-  "wof:brand_id": 1125154309
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416274
 }

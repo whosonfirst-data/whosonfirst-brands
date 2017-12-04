@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414453, 
+  "wof:brand_name": "Jiffy Lube", 
+  "wof:brand_id": 420573899, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=auto_repair", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "services:retail=car_wash", 
+    "services:professional=business_services", 
+    "sg:services=professional", 
+    "services:retail=repair_shop", 
+    "sg:manufacturing_and_wholesale_goods=mining_and_drilling", 
+    "manufacturing_and_wholesale_goods:wholesale=scrap", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "lubrication", 
     "automobile", 
@@ -53,6 +70,6 @@
     "sup", 
     "transmission"
   ], 
-  "wof:brand_name": "Jiffy Lube", 
-  "wof:brand_id": 420573899
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416228
 }

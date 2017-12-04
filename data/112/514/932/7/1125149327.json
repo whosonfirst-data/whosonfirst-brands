@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414559, 
+  "wof:brand_name": "Dippin' Dots", 
+  "wof:brand_id": 1125149327, 
+  "wof:categories": [
+    "sg:food_and_drink=ice_cream", 
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=dairy", 
+    "sg:retail_goods=food_and_beverages", 
+    "manufacturing_and_wholesale_goods:wholesale=dairy", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "american", 
     "cream", 
@@ -15,6 +24,6 @@
     "eating", 
     "product"
   ], 
-  "wof:brand_name": "Dippin' Dots", 
-  "wof:brand_id": 1125149327
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416313
 }

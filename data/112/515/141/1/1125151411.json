@@ -1,6 +1,28 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414514, 
+  "wof:brand_name": "Dog House", 
+  "wof:brand_id": 1125151411, 
+  "wof:categories": [
+    "services:retail=animal_services", 
+    "sg:services=retail", 
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "entertainment:recreation=dog_park", 
+    "food_and_drink:bars_and_pubs=sports_bar", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "manufacturing_and_wholesale_goods:wholesale=meat", 
+    "retail_goods:food_and_beverages=meat_and_fish", 
+    "retail_goods:home_and_garden=building_materials", 
+    "retail_goods:shopping=pets_and_pet_supplies", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:professional=business_services", 
+    "sg:entertainment=recreation", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "pet", 
     "grooming", 
@@ -32,6 +54,6 @@
     "surplus", 
     "tavern"
   ], 
-  "wof:brand_name": "Dog House", 
-  "wof:brand_id": 1125151411
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416277
 }

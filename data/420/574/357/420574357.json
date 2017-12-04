@@ -1,6 +1,36 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414464, 
+  "wof:brand_name": "Head Start", 
+  "wof:brand_id": 420574357, 
+  "wof:categories": [
+    "sg:services=social_services", 
+    "services:social_services=child_care", 
+    "sg:public_place=education", 
+    "public_place:education=school", 
+    "sg:services=organizations", 
+    "public_place:education=preschool", 
+    "public_place:education=special_training", 
+    "services:organizations=nonprofit_organization", 
+    "services:personal=beauty_salon", 
+    "sg:services=personal", 
+    "services:organizations=community_association", 
+    "services:personal=barber", 
+    "public_place:government=office", 
+    "services:organizations=membership_organization", 
+    "services:organizations=professional_association", 
+    "sg:public_place=government", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:farming=nursery", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:communications=radio_station", 
+    "services:organizations=religious_organization", 
+    "services:professional=management_and_consulting", 
+    "services:professional=research", 
+    "services:utilities=mobile_phone", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:retail_goods=shopping", 
+    "sg:services=communications", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "academic", 
     "school", 
@@ -52,6 +82,6 @@
     "referral", 
     "wi-fi"
   ], 
-  "wof:brand_name": "Head Start", 
-  "wof:brand_id": 420574357
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416237
 }

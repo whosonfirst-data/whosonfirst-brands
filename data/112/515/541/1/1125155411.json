@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414530, 
+  "wof:brand_name": "Panda Garden", 
+  "wof:brand_id": 1125155411, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "sg:services=professional", 
+    "retail_goods:food_and_beverages=ethnic_foods", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "chinese", 
     "eating", 
@@ -14,6 +23,6 @@
     "japanese", 
     "take"
   ], 
-  "wof:brand_name": "Panda Garden", 
-  "wof:brand_id": 1125155411
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416290
 }

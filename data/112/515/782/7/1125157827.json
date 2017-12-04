@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414489, 
+  "wof:brand_name": "Dekalb County Board of Education", 
+  "wof:brand_id": 1125157827, 
+  "wof:categories": [
+    "public_place:education=school", 
+    "sg:public_place=education", 
+    "public_place:government=office", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:public_place=government", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "high", 
     "middle", 
@@ -8,6 +16,6 @@
     "government-united", 
     "state"
   ], 
-  "wof:brand_name": "Dekalb County Board of Education", 
-  "wof:brand_id": 1125157827
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416257
 }

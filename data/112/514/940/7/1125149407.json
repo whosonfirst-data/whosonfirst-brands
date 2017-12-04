@@ -1,6 +1,24 @@
 {
   "wof:brand_name": "Borders", 
   "wof:brand_id": 1125149407, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=books", 
+    "retail_goods:shopping=music", 
+    "sg:food_and_drink=coffee_and_tea", 
+    "manufacturing_and_wholesale_goods:wholesale=books_periodicals_and_newspapers", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:utilities=mobile_phone", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=utilities", 
+    "entertainment:cinema=movie_rental", 
+    "sg:entertainment=cinema", 
+    "services:communications=newspaper", 
+    "sg:services=communications", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "retail_goods:shopping=news", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "dealer", 
     "music", 
@@ -30,6 +48,6 @@
     1125154285
   ], 
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414562, 
+  "wof:lastmodified": 1512416316, 
   "mz:is_current": 1
 }

@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414495, 
+  "wof:brand_name": "Golden Nails", 
+  "wof:brand_id": 1125154435, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "services:personal=tanning_parlor", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "manicuring", 
     "shop", 
@@ -9,6 +17,6 @@
     "make-up", 
     "permanent"
   ], 
-  "wof:brand_name": "Golden Nails", 
-  "wof:brand_id": 1125154435
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416262
 }

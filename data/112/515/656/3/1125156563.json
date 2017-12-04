@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414484, 
+  "wof:brand_name": "Faith Presbyterian Church", 
+  "wof:brand_id": 1125156563, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship", 
+    "public_place:education=preschool", 
+    "public_place:education=school", 
+    "services:social_services=child_care", 
+    "sg:public_place=education", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "church", 
     "churches-presbyterian", 
@@ -14,6 +25,6 @@
     "elementary", 
     "preschool"
   ], 
-  "wof:brand_name": "Faith Presbyterian Church", 
-  "wof:brand_id": 1125156563
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416253
 }

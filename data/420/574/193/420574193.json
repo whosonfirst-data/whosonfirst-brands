@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414457, 
+  "wof:brand_name": "Raymond James Financial Svc", 
+  "wof:brand_id": 420574193, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "sg:services=professional", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=business_services", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:insurance=hazard_insurance", 
+    "services:professional=management_and_consulting", 
+    "sg:retail_goods=shopping", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "financial", 
     "advisory", 
@@ -25,6 +41,6 @@
     "retirement", 
     "warranty"
   ], 
-  "wof:brand_name": "Raymond James Financial Svc", 
-  "wof:brand_id": 420574193
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416232
 }

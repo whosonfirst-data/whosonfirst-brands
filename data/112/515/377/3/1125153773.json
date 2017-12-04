@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414474, 
+  "wof:brand_name": "Hair Designers", 
+  "wof:brand_id": 1125153773, 
+  "wof:categories": [
+    "services:personal=beauty_salon", 
+    "sg:services=personal", 
+    "services:personal=nail_salon", 
+    "services:professional=computer_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "shop", 
     "barber", 
@@ -11,6 +18,6 @@
     "manicuring", 
     "unisex"
   ], 
-  "wof:brand_name": "Hair Designers", 
-  "wof:brand_id": 1125153773
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416245
 }

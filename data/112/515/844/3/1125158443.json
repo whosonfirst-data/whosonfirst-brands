@@ -1,9 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414477, 
+  "wof:brand_name": "American General Life & Accdnt", 
+  "wof:brand_id": 1125158443, 
+  "wof:categories": [
+    "services:insurance=insurance_agent", 
+    "sg:services=insurance", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "loan"
   ], 
-  "wof:brand_name": "American General Life & Accdnt", 
-  "wof:brand_id": 1125158443
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416247
 }

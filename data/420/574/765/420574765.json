@@ -1,6 +1,28 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414457, 
+  "wof:brand_name": "Social Security Administration", 
+  "wof:brand_id": 420574765, 
+  "wof:categories": [
+    "sg:public_place=government", 
+    "public_place:government=office", 
+    "sg:services=social_services", 
+    "public_place:government=city_hall", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=professional", 
+    "services:professional=detective_and_security_services", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "services:professional=lawyer_and_legal_services", 
+    "public_place:government=court_house", 
+    "public_place:government=police_station", 
+    "public_place:landmark=historic", 
+    "services:health_services=doctor", 
+    "services:professional=business_services", 
+    "services:professional=employment_agencies", 
+    "services:professional=management_and_consulting", 
+    "sg:public_place=landmark", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "security", 
     "social", 
@@ -50,6 +72,6 @@
     "surgeon", 
     "training"
   ], 
-  "wof:brand_name": "Social Security Administration", 
-  "wof:brand_id": 420574765
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416232
 }

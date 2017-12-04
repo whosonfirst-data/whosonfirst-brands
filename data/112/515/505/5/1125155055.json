@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414481, 
+  "wof:brand_name": "Strathfield", 
+  "wof:brand_id": 1125155055, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:shopping=mobile_phones", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "automotive", 
     "radio", 
@@ -8,6 +14,6 @@
     "accessory", 
     "telephone"
   ], 
-  "wof:brand_name": "Strathfield", 
-  "wof:brand_id": 1125155055
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416251
 }

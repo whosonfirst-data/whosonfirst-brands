@@ -1,6 +1,29 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414521, 
+  "wof:brand_name": "Boys & Girls Club", 
+  "wof:brand_id": 1125150295, 
+  "wof:categories": [
+    "sg:services=social_services", 
+    "sg:services=organizations", 
+    "services:organizations=community_association", 
+    "sg:entertainment=recreation", 
+    "services:organizations=nonprofit_organization", 
+    "services:organizations=professional_association", 
+    "services:social_services=child_care", 
+    "sg:public_place=education", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "public_place:community_center=youth", 
+    "public_place:education=school", 
+    "public_place:education=special_training", 
+    "public_place:government=office", 
+    "services:health_services=dentist", 
+    "services:organizations=membership_organization", 
+    "services:professional=employment_agencies", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:public_place=community_center", 
+    "sg:public_place=government", 
+    "sg:services=health_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "center", 
     "organization", 
@@ -25,6 +48,6 @@
     "volunteer", 
     "workers'"
   ], 
-  "wof:brand_name": "Boys & Girls Club", 
-  "wof:brand_id": 1125150295
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416283
 }

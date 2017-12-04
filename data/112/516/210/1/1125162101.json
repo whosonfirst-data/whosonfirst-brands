@@ -1,10 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414541, 
+  "wof:brand_name": "24 Hour 7 Day Emrgncy Lcksmth", 
+  "wof:brand_id": 1125162101, 
+  "wof:categories": [
+    "services:retail=repair_shop", 
+    "sg:services=retail", 
+    "services:building_and_trades=locksmith", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "lock", 
     "locksmith"
   ], 
-  "wof:brand_name": "24 Hour 7 Day Emrgncy Lcksmth", 
-  "wof:brand_id": 1125162101
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416299
 }

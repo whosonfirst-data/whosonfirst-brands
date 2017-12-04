@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414485, 
+  "wof:brand_name": "Longs Drug Store", 
+  "wof:brand_id": 1125157659, 
+  "wof:categories": [
+    "retail_goods:shopping=pharmacy", 
+    "sg:retail_goods=shopping", 
+    "services:retail=portrait_studio", 
+    "sg:services=retail", 
+    "entertainment:cinema=movie_rental", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "services:professional=art_services", 
+    "sg:entertainment=cinema", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "store", 
     "variety", 
@@ -22,6 +34,6 @@
     "sundries", 
     "video"
   ], 
-  "wof:brand_name": "Longs Drug Store", 
-  "wof:brand_id": 1125157659
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416254
 }

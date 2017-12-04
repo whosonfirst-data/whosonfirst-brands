@@ -1,12 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414476, 
+  "wof:brand_name": "Pre-Paid Legal Svc Inc", 
+  "wof:brand_id": 1125150465, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:health_services=doctor", 
+    "services:professional=accounting_and_tax_preparation", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "plan", 
     "accountant", 
     "physician", 
     "surgeon"
   ], 
-  "wof:brand_name": "Pre-Paid Legal Svc Inc", 
-  "wof:brand_id": 1125150465
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416247
 }

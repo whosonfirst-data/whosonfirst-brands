@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414508, 
+  "wof:brand_name": "Honey Dew Donuts", 
+  "wof:brand_id": 1125153611, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:food_and_drink=donuts", 
+    "sg:food_and_drink=restaurant", 
+    "food_and_drink:donuts=none", 
+    "sg:food_and_drink=bakery", 
+    "sg:food_and_drink=coffee_and_tea", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "sg:food_and_drink=fast_food", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:manufacturing=wood_products", 
+    "manufacturing_and_wholesale_goods:wholesale=construction_materials", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries"
+  ], 
   "wof:tags": [
     "doughnut", 
     "shop", 
@@ -18,6 +34,6 @@
     "sandwich", 
     "store"
   ], 
-  "wof:brand_name": "Honey Dew Donuts", 
-  "wof:brand_id": 1125153611
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416273
 }

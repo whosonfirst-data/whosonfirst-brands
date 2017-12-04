@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414526, 
+  "wof:brand_name": "Holiday Inn Express", 
+  "wof:brand_id": 1125151067, 
+  "wof:categories": [
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel", 
+    "sg:food_and_drink=restaurant", 
+    "services:retail=event_space", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "operation", 
     "banquet", 
@@ -10,6 +17,6 @@
     "lodging", 
     "reception"
   ], 
-  "wof:brand_name": "Holiday Inn Express", 
-  "wof:brand_id": 1125151067
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416287
 }

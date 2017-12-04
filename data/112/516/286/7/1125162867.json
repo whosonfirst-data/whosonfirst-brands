@@ -1,12 +1,16 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414538, 
+  "wof:brand_name": "Weekley Homes LP", 
+  "wof:brand_id": 1125162867, 
+  "wof:categories": [
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "builder", 
     "operative", 
     "house", 
     "newspaper"
   ], 
-  "wof:brand_name": "Weekley Homes LP", 
-  "wof:brand_id": 1125162867
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416296
 }

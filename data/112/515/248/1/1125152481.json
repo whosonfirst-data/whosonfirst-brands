@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414509, 
+  "wof:brand_name": "New York Pizza", 
+  "wof:brand_id": 1125152481, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:food_and_drink=fast_food", 
+    "services:professional=business_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "pizza", 
     "afhaal", 
@@ -14,6 +22,6 @@
     "pasta", 
     "sandwich"
   ], 
-  "wof:brand_name": "New York Pizza", 
-  "wof:brand_id": 1125152481
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416274
 }

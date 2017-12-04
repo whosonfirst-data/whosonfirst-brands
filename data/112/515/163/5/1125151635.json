@@ -1,6 +1,31 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414491, 
+  "wof:brand_name": "Cheers", 
+  "wof:brand_id": 1125151635, 
+  "wof:categories": [
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:retail_goods=shopping", 
+    "food_and_drink:bars_and_pubs=nightclub", 
+    "sg:entertainment=recreation", 
+    "food_and_drink:bars_and_pubs=lounge", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:services=personal", 
+    "sg:services=professional", 
+    "entertainment:cinema=movie_rental", 
+    "manufacturing_and_wholesale_goods:farming=vineyard", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "retail_goods:home_and_garden=building_materials", 
+    "services:personal=beauty_salon", 
+    "services:professional=employment_agencies", 
+    "sg:entertainment=cinema", 
+    "sg:food_and_drink=cafe", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "drinking", 
     "beer", 
@@ -40,6 +65,6 @@
     "winery", 
     "writing"
   ], 
-  "wof:brand_name": "Cheers", 
-  "wof:brand_id": 1125151635
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416258
 }

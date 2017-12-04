@@ -1,6 +1,26 @@
 {
   "wof:brand_name": "Fantastic Sam's", 
   "wof:brand_id": 420574337, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=professional", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "services:professional=business_services", 
+    "sg:public_place=education", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:wholesale=drugs", 
+    "public_place:education=library", 
+    "public_place:education=university", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:personal=hair_removal", 
+    "services:personal=tanning_parlor", 
+    "services:professional=management_and_consulting", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
@@ -43,6 +63,6 @@
     420575323
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414462, 
+  "wof:lastmodified": 1512416235, 
   "mz:is_current": 1
 }

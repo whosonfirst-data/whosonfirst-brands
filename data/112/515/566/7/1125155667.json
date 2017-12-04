@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414514, 
+  "wof:brand_name": "Red Robin Gourmet Burgers", 
+  "wof:brand_id": 1125155667, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "retail_goods:food_and_beverages=meat_and_fish", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "dog", 
     "hot", 
@@ -12,6 +18,6 @@
     "burger", 
     "traditional"
   ], 
-  "wof:brand_name": "Red Robin Gourmet Burgers", 
-  "wof:brand_id": 1125155667
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416277
 }

@@ -1,12 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414533, 
+  "wof:brand_name": "Harry & David", 
+  "wof:brand_id": 1125158101, 
+  "wof:categories": [
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:retail_goods=shopping", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:food_and_drink=bakery", 
+    "retail_goods:food_and_beverages=chocolate"
+  ], 
   "wof:tags": [
     "shop", 
     "flower", 
     "gourmet", 
     "chocolatiers"
   ], 
-  "wof:brand_name": "Harry & David", 
-  "wof:brand_id": 1125158101
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416293
 }

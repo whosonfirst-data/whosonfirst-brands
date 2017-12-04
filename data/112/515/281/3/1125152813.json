@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414507, 
+  "wof:brand_name": "Ralph's", 
+  "wof:brand_id": 1125152813, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:services=personal", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "retail_goods:food_and_beverages=meat_and_fish", 
+    "retail_goods:shopping=pharmacy", 
+    "services:personal=barber", 
+    "services:personal=beauty_salon", 
+    "services:social_services=child_care", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "grocer", 
     "drugstore", 
@@ -9,6 +24,6 @@
     "rebuilt", 
     "unisex"
   ], 
-  "wof:brand_name": "Ralph's", 
-  "wof:brand_id": 1125152813
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416272
 }

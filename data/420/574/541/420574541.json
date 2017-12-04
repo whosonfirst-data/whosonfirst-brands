@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414463, 
+  "wof:brand_name": "Ross Dress For Less", 
+  "wof:brand_id": 420574541, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=shoes", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:shopping=thrift_store", 
+    "entertainment:sports_and_exercise=bicycle_rental", 
+    "manufacturing_and_wholesale_goods:manufacturing=leather_goods", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "retail_goods:shopping=jewelry", 
+    "retail_goods:shopping=luggage_and_leather_goods", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "clothing", 
     "family", 
@@ -29,6 +47,6 @@
     "shop", 
     "supply"
   ], 
-  "wof:brand_name": "Ross Dress For Less", 
-  "wof:brand_id": 420574541
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416236
 }

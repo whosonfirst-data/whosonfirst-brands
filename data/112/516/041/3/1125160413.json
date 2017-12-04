@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414552, 
+  "wof:brand_name": "American Airlines Inc", 
+  "wof:brand_id": 1125160413, 
+  "wof:categories": [
+    "sg:transportation=airline", 
+    "entertainment:travel=travel_agent", 
+    "sg:entertainment=travel", 
+    "sg:transportation=airport", 
+    "sg:transportation=local_transit", 
+    "manufacturing_and_wholesale_goods:manufacturing=aerospace", 
+    "services:professional=business_services", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "air", 
     "scheduled", 
@@ -22,6 +33,6 @@
     "tourism", 
     "travel"
   ], 
-  "wof:brand_name": "American Airlines Inc", 
-  "wof:brand_id": 1125160413
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416307
 }

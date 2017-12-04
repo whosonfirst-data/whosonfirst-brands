@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414458, 
+  "wof:brand_name": "Seventh-Day Adventist Church", 
+  "wof:brand_id": 420574283, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=religious_organization", 
+    "sg:public_place=place_of_worship", 
+    "public_place:place_of_worship=church", 
+    "public_place:education=school", 
+    "sg:public_place=education", 
+    "sg:services=social_services", 
+    "services:banks_and_credit_unions=bank", 
+    "services:organizations=nonprofit_organization", 
+    "services:social_services=child_care", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "church", 
     "adventist", 
@@ -18,6 +31,6 @@
     "state", 
     "welfare"
   ], 
-  "wof:brand_name": "Seventh-Day Adventist Church", 
-  "wof:brand_id": 420574283
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416232
 }

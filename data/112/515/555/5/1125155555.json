@@ -1,12 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414524, 
+  "wof:brand_name": "0 Waiting Time Locksmith Service", 
+  "wof:brand_id": 1125155555, 
+  "wof:categories": [
+    "services:building_and_trades=locksmith", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "key", 
     "industrial", 
     "lock", 
     "locksmiths-commercial"
   ], 
-  "wof:brand_name": "0 Waiting Time Locksmith Service", 
-  "wof:brand_id": 1125155555
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416285
 }

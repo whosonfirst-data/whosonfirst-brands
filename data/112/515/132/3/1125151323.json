@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414528, 
+  "wof:brand_name": "Principal Life Insurance Co", 
+  "wof:brand_id": 1125151323, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=life_insurance", 
+    "services:insurance=health_insurance", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=banks_and_credit_unions", 
+    "services:insurance=hazard_insurance"
+  ], 
   "wof:tags": [
     "carrier", 
     "company", 
@@ -22,6 +33,6 @@
     "sales", 
     "sell"
   ], 
-  "wof:brand_name": "Principal Life Insurance Co", 
-  "wof:brand_id": 1125151323
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416289
 }

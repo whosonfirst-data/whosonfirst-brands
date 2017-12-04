@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414525, 
+  "wof:brand_name": "Pizza Palace", 
+  "wof:brand_id": 1125154463, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:food_and_drink=deli"
+  ], 
   "wof:tags": [
     "pizza", 
     "american", 
@@ -22,6 +29,6 @@
     "pasta", 
     "wrap"
   ], 
-  "wof:brand_name": "Pizza Palace", 
-  "wof:brand_id": 1125154463
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416286
 }

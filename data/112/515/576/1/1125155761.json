@@ -1,12 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414517, 
+  "wof:brand_name": "In-N-Out Burger", 
+  "wof:brand_id": 1125155761, 
+  "wof:categories": [
+    "sg:food_and_drink=fast_food", 
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "burger", 
     "fast", 
     "american", 
     "traditional"
   ], 
-  "wof:brand_name": "In-N-Out Burger", 
-  "wof:brand_id": 1125155761
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416280
 }

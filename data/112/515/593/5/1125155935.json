@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414501, 
+  "wof:brand_name": "Hollister Co", 
+  "wof:brand_id": 1125155935, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:services=professional", 
+    "retail_goods:shopping=department_store", 
+    "services:professional=employment_agencies"
+  ], 
   "wof:tags": [
     "furnishing", 
     "clothing", 
@@ -13,6 +20,6 @@
     "shop", 
     "sportswear"
   ], 
-  "wof:brand_name": "Hollister Co", 
-  "wof:brand_id": 1125155935
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416267
 }

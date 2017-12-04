@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414477, 
+  "wof:brand_name": "American Classifieds", 
+  "wof:brand_id": 1125158441, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=advertising", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "services:communications=newspaper", 
+    "sg:services=communications", 
+    "manufacturing_and_wholesale_goods:manufacturing=electronics", 
+    "manufacturing_and_wholesale_goods:wholesale=books_periodicals_and_newspapers", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "services:communications=news_services", 
+    "services:professional=printing_and_photocopies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "newspaper", 
     "guide", 
@@ -17,6 +32,6 @@
     "stand", 
     "supply"
   ], 
-  "wof:brand_name": "American Classifieds", 
-  "wof:brand_id": 1125158441
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416247
 }

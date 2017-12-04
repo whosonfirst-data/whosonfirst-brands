@@ -1,12 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414495, 
+  "wof:brand_name": "Mountain Mike's Pizza", 
+  "wof:brand_id": 1125152537, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "pizza", 
     "american", 
     "italian", 
     "out"
   ], 
-  "wof:brand_name": "Mountain Mike's Pizza", 
-  "wof:brand_id": 1125152537
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416262
 }

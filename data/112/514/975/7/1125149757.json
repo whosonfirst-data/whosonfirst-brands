@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414561, 
+  "wof:brand_name": "Free Methodist Church", 
+  "wof:brand_id": 1125149757, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship"
+  ], 
   "wof:tags": [
     "church", 
     "churches-methodist", 
@@ -13,6 +19,6 @@
     "clergy", 
     "denomination"
   ], 
-  "wof:brand_name": "Free Methodist Church", 
-  "wof:brand_id": 1125149757
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416315
 }

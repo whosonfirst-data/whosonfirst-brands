@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414549, 
+  "wof:brand_name": "Irish Pub", 
+  "wof:brand_id": 1125160555, 
+  "wof:categories": [
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:food_and_drink=restaurant", 
+    "food_and_drink:bars_and_pubs=lounge", 
+    "food_and_drink:bars_and_pubs=sports_bar"
+  ], 
   "wof:tags": [
     "drinking", 
     "american", 
@@ -15,6 +21,6 @@
     "pub", 
     "serving"
   ], 
-  "wof:brand_name": "Irish Pub", 
-  "wof:brand_id": 1125160555
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416305
 }

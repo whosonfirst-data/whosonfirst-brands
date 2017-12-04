@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414538, 
+  "wof:brand_name": "Wackenhut Corporation", 
+  "wof:brand_id": 1125162863, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=detective_and_security_services", 
+    "services:professional=employment_agencies", 
+    "services:professional=management_and_consulting"
+  ], 
   "wof:tags": [
     "car", 
     "guard", 
@@ -19,6 +25,6 @@
     "security", 
     "temporary"
   ], 
-  "wof:brand_name": "Wackenhut Corporation", 
-  "wof:brand_id": 1125162863
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416296
 }

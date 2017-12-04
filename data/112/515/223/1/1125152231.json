@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414528, 
+  "wof:brand_name": "Plato's Closet", 
+  "wof:brand_id": 1125152231, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=used_merchandise", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=department_store", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "retail_goods:shopping=thrift_store", 
+    "sg:services=professional", 
+    "retail_goods:shopping=shoes", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:utilities=mobile_phone", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "clothing", 
     "consignment", 
@@ -23,6 +37,6 @@
     "merchandise", 
     "wi-fi"
   ], 
-  "wof:brand_name": "Plato's Closet", 
-  "wof:brand_id": 1125152231
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416288
 }

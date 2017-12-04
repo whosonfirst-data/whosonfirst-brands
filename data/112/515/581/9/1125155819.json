@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414487, 
+  "wof:brand_name": "PCA International LLC", 
+  "wof:brand_id": 1125155819, 
+  "wof:categories": [
+    "services:retail=portrait_studio", 
+    "sg:services=retail", 
+    "services:professional=art_services", 
+    "sg:services=professional", 
+    "retail_goods:shopping=department_store", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "photo", 
     "commercial", 
@@ -10,6 +18,6 @@
     "photographic", 
     "picture"
   ], 
-  "wof:brand_name": "PCA International LLC", 
-  "wof:brand_id": 1125155819
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416255
 }

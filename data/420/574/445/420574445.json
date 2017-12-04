@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414458, 
+  "wof:brand_name": "Key Bank", 
+  "wof:brand_id": 420574445, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "public_place:government=office", 
+    "services:communications=film_and_video_production", 
+    "services:organizations=professional_association", 
+    "services:real_estate=real_estate_agent", 
+    "sg:public_place=government", 
+    "sg:services=communications", 
+    "sg:services=organizations", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "loan", 
     "commercial", 
@@ -13,6 +25,6 @@
     "state", 
     "taping"
   ], 
-  "wof:brand_name": "Key Bank", 
-  "wof:brand_id": 420574445
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416232
 }

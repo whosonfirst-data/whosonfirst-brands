@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414536, 
+  "wof:brand_name": "Shop Rite Supermarket", 
+  "wof:brand_id": 1125156643, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "retail_goods:food_and_beverages=meat_and_fish", 
+    "retail_goods:shopping=pharmacy", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "grocer", 
     "market", 
@@ -8,6 +16,6 @@
     "store", 
     "supermarket"
   ], 
-  "wof:brand_name": "Shop Rite Supermarket", 
-  "wof:brand_id": 1125156643
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416294
 }

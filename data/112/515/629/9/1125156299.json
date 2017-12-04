@@ -1,10 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414487, 
+  "wof:brand_name": "SDS Pathology", 
+  "wof:brand_id": 1125156299, 
+  "wof:categories": [
+    "services:health_services=doctor", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "medical", 
     "practitioner"
   ], 
-  "wof:brand_name": "SDS Pathology", 
-  "wof:brand_id": 1125156299
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416255
 }

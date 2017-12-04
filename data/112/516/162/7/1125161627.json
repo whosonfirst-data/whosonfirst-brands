@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414551, 
+  "wof:brand_name": "The Coffee Pot", 
+  "wof:brand_id": 1125161627, 
+  "wof:categories": [
+    "sg:food_and_drink=cafe", 
+    "sg:food_and_drink=fast_food", 
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=bakery", 
+    "retail_goods:home_and_garden=kitchen_supply", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:food_and_drink=coffee_and_tea", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "room", 
     "tea", 
@@ -15,6 +26,6 @@
     "snack", 
     "style"
   ], 
-  "wof:brand_name": "The Coffee Pot", 
-  "wof:brand_id": 1125161627
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416307
 }

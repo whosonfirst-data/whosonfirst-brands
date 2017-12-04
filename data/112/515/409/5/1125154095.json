@@ -1,12 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414520, 
+  "wof:brand_name": "24 Hour A Day Towing", 
+  "wof:brand_id": 1125154095, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=auto_repair", 
+    "services:retail=repair_shop", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "wrecker", 
     "towing", 
     "lock", 
     "locksmith"
   ], 
-  "wof:brand_name": "24 Hour A Day Towing", 
-  "wof:brand_id": 1125154095
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416282
 }

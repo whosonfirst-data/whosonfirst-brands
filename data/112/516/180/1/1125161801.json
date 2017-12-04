@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414539, 
+  "wof:brand_name": "Edina Realty Inc", 
+  "wof:brand_id": 1125161801, 
+  "wof:categories": [
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_agent", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=banks_and_credit_unions", 
+    "services:communications=newspaper", 
+    "services:real_estate=real_estate_operator", 
+    "sg:services=communications"
+  ], 
   "wof:tags": [
     "agency", 
     "broker", 
@@ -11,6 +20,6 @@
     "medium", 
     "print"
   ], 
-  "wof:brand_name": "Edina Realty Inc", 
-  "wof:brand_id": 1125161801
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416297
 }

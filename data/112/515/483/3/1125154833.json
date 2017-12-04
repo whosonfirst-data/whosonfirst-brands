@@ -1,11 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414523, 
+  "wof:brand_name": "Allied Carpet Stores", 
+  "wof:brand_id": 1125154833, 
+  "wof:categories": [
+    "retail_goods:home_and_garden=carpets_and_floor_coverings", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:shopping=baby_store", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "carpets", 
     "matting", 
     "rug"
   ], 
-  "wof:brand_name": "Allied Carpet Stores", 
-  "wof:brand_id": 1125154833
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416285
 }

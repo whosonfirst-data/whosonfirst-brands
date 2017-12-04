@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414509, 
+  "wof:brand_name": "Bob Evans Farms Restaurant", 
+  "wof:brand_id": 1125156917, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:farming=farm", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "manufacturing_and_wholesale_goods:wholesale=meat", 
+    "sg:manufacturing_and_wholesale_goods=farming"
+  ], 
   "wof:tags": [
     "eating", 
     "family", 
@@ -10,6 +18,6 @@
     "product", 
     "sausage"
   ], 
-  "wof:brand_name": "Bob Evans Farms Restaurant", 
-  "wof:brand_id": 1125156917
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416274
 }

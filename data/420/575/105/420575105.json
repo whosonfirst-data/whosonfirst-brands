@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414444, 
+  "wof:brand_name": "The Cancer Research Campaign", 
+  "wof:brand_id": 420575105, 
+  "wof:categories": [
+    "services:organizations=nonprofit_organization", 
+    "sg:services=organizations", 
+    "retail_goods:shopping=thrift_store", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "charity", 
     "organisation", 
@@ -8,6 +14,6 @@
     "charitable", 
     "shop"
   ], 
-  "wof:brand_name": "The Cancer Research Campaign", 
-  "wof:brand_id": 420575105
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416221
 }

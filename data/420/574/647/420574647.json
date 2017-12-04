@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414459, 
+  "wof:brand_name": "Punch Retail (Holdings) Ltd.", 
+  "wof:brand_id": 420574647, 
+  "wof:categories": [
+    "sg:food_and_drink=bars_and_pubs", 
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel", 
+    "sg:food_and_drink=restaurant", 
+    "entertainment:sports_and_exercise=bowling", 
+    "food_and_drink:bars_and_pubs=nightclub", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:food_and_drink=brewery", 
+    "sg:food_and_drink=fast_food"
+  ], 
   "wof:tags": [
     "inn", 
     "pubs", 
@@ -9,6 +20,6 @@
     "night", 
     "take"
   ], 
-  "wof:brand_name": "Punch Retail (Holdings) Ltd.", 
-  "wof:brand_id": 420574647
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416233
 }

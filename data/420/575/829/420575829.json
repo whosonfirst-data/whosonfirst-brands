@@ -1,10 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414446, 
+  "wof:brand_name": "Lloyds T S B Bank Plc", 
+  "wof:brand_id": 420575829, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "financial", 
     "institution"
   ], 
-  "wof:brand_name": "Lloyds T S B Bank Plc", 
-  "wof:brand_id": 420575829
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416223
 }

@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414477, 
+  "wof:brand_name": "CSX", 
+  "wof:brand_id": 1125150929, 
+  "wof:categories": [
+    "sg:transportation=railroad", 
+    "sg:transportation=freight", 
+    "sg:services=professional", 
+    "entertainment:travel=travel_agent", 
+    "manufacturing_and_wholesale_goods:manufacturing=petroleum_products", 
+    "public_place:education=vocational_school", 
+    "services:building_and_trades=construction", 
+    "services:professional=engineering", 
+    "services:retail=repair_shop", 
+    "sg:entertainment=travel", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:public_place=education", 
+    "sg:services=building_and_trades", 
+    "sg:services=retail", 
+    "sg:transportation=local_transit"
+  ], 
   "wof:tags": [
     "line", 
     "operator", 
@@ -36,6 +53,6 @@
     "transportation", 
     "yard"
   ], 
-  "wof:brand_name": "CSX", 
-  "wof:brand_id": 1125150929
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416248
 }

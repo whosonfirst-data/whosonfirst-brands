@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414563, 
+  "wof:brand_name": "Church Of The Living God", 
+  "wof:brand_id": 1125149929, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "sg:public_place=place_of_worship", 
+    "public_place:place_of_worship=church", 
+    "sg:entertainment=recreation"
+  ], 
   "wof:tags": [
     "church", 
     "churches-various", 
@@ -11,6 +18,6 @@
     "place", 
     "worship"
   ], 
-  "wof:brand_name": "Church Of The Living God", 
-  "wof:brand_id": 1125149929
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416316
 }

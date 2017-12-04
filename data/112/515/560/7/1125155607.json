@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414469, 
+  "wof:brand_name": "Forestry Division", 
+  "wof:brand_id": 1125155607, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:manufacturing=lumber", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "government"
   ], 
-  "wof:brand_name": "Forestry Division", 
-  "wof:brand_id": 1125155607
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416241
 }

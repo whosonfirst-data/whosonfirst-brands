@@ -1,6 +1,33 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414551, 
+  "wof:brand_name": "Taylors", 
+  "wof:brand_id": 1125161625, 
+  "wof:categories": [
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate", 
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:retail_goods=shopping", 
+    "sg:services=personal", 
+    "manufacturing_and_wholesale_goods:wholesale=home_furnishings", 
+    "public_place:government=customs_house", 
+    "public_place:military_area=air_force_base", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "retail_goods:autos_and_motor_vehicles=recreational_vehicle_sales", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:personal=beauty_salon", 
+    "services:professional=business_services", 
+    "services:retail=auto_repair", 
+    "sg:entertainment=casinos_and_gambling", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=government", 
+    "sg:public_place=military_area", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=professional", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "accessory", 
     "crop", 
@@ -9,6 +36,6 @@
     "shop", 
     "super"
   ], 
-  "wof:brand_name": "Taylors", 
-  "wof:brand_id": 1125161625
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416307
 }

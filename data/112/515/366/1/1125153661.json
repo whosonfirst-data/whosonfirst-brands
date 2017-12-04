@@ -1,6 +1,28 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414504, 
+  "wof:brand_name": "Abbott Laboratories", 
+  "wof:brand_id": 1125153661, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=drugs", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "manufacturing_and_wholesale_goods:wholesale=medical_equipment_and_supplies", 
+    "services:professional=research", 
+    "services:health_services=medical_lab", 
+    "sg:services=health_services", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "services:professional=management_and_consulting", 
+    "services:professional=testing_lab", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "retail_goods:shopping=pharmacy", 
+    "services:professional=business_services", 
+    "services:retail=repair_shop", 
+    "sg:retail_goods=shopping", 
+    "sg:services=retail", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "pharmaceutical", 
     "mfg", 
@@ -48,6 +70,6 @@
     "toilet", 
     "warehouse"
   ], 
-  "wof:brand_name": "Abbott Laboratories", 
-  "wof:brand_id": 1125153661
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416270
 }

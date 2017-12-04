@@ -1,12 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414552, 
+  "wof:brand_name": "Carine", 
+  "wof:brand_id": 1125161747, 
+  "wof:categories": [
+    "retail_goods:shopping=crafts_and_fabrics", 
+    "services:personal=beauty_salon", 
+    "sg:retail_goods=shopping", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "lady", 
     "-", 
     "hairdressing", 
     "needlework"
   ], 
-  "wof:brand_name": "Carine", 
-  "wof:brand_id": 1125161747
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416308
 }

@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414524, 
+  "wof:brand_name": "Getty", 
+  "wof:brand_id": 1125151989, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=chemicals_and_plastics", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "station", 
     "gasoline", 
@@ -28,6 +39,6 @@
     "supply", 
     "truck"
   ], 
-  "wof:brand_name": "Getty", 
-  "wof:brand_id": 1125151989
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416285
 }

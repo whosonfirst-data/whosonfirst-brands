@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414540, 
+  "wof:brand_name": "Artemis", 
+  "wof:brand_id": 1125160421, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:services=professional", 
+    "services:professional=art_services", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "manufacturing_and_wholesale_goods:wholesale=sporting_goods", 
+    "retail_goods:shopping=antiques", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "services:personal=beauty_salon", 
+    "services:professional=employment_agencies", 
+    "services:professional=engineering", 
+    "sg:food_and_drink=restaurant", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=building_and_trades", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "-", 
     "lingerie", 
@@ -20,6 +40,6 @@
     "sport-", 
     "underwear"
   ], 
-  "wof:brand_name": "Artemis", 
-  "wof:brand_id": 1125160421
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416298
 }

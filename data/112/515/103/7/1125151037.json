@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414503, 
+  "wof:brand_name": "Hudson United Bank", 
+  "wof:brand_id": 1125151037, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services"
+  ], 
   "wof:tags": [
     "commercial", 
     "state", 
@@ -18,6 +23,6 @@
     "mutual", 
     "saving"
   ], 
-  "wof:brand_name": "Hudson United Bank", 
-  "wof:brand_id": 1125151037
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416268
 }

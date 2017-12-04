@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414499, 
+  "wof:brand_name": "Martine", 
+  "wof:brand_id": 1125155797, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=psychics_and_astrologers", 
+    "sg:food_and_drink=bakery", 
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "-", 
     "hairdressing", 
@@ -9,6 +16,6 @@
     "baker", 
     "confectioner"
   ], 
-  "wof:brand_name": "Martine", 
-  "wof:brand_id": 1125155797
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416266
 }

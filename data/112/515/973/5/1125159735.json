@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414509, 
+  "wof:brand_name": "United Country Real Estate", 
+  "wof:brand_id": 1125159735, 
+  "wof:categories": [
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_services", 
+    "services:real_estate=surveying"
+  ], 
   "wof:tags": [
     "broker", 
     "buyer", 
@@ -13,6 +19,6 @@
     "manager", 
     "referral"
   ], 
-  "wof:brand_name": "United Country Real Estate", 
-  "wof:brand_id": 1125159735
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416273
 }

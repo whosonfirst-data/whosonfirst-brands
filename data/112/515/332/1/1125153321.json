@@ -1,12 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414472, 
+  "wof:brand_name": "Multiple Sclerosis Society of Great Britain & Northern Ireland", 
+  "wof:brand_id": 1125153321, 
+  "wof:categories": [
+    "services:organizations=nonprofit_organization", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "charity", 
     "organisation", 
     "voluntary", 
     "charitable"
   ], 
-  "wof:brand_name": "Multiple Sclerosis Society of Great Britain & Northern Ireland", 
-  "wof:brand_id": 1125153321
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416244
 }

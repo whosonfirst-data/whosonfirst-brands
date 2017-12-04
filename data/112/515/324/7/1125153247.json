@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414506, 
+  "wof:brand_name": "Shaklee Products", 
+  "wof:brand_id": 1125153247, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=drugs", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "services:health_services=health_practitioner", 
+    "sg:services=health_services", 
+    "sg:services=personal", 
+    "manufacturing_and_wholesale_goods:wholesale=chemicals_and_plastics", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "retail_goods:shopping=catalog_store", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "direct", 
     "establishment", 
@@ -36,6 +56,6 @@
     "public", 
     "seamstress"
   ], 
-  "wof:brand_name": "Shaklee Products", 
-  "wof:brand_id": 1125153247
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416271
 }

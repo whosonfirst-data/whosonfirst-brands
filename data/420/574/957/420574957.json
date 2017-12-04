@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414459, 
+  "wof:brand_name": "Midas Muffler", 
+  "wof:brand_id": 420574957, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=auto_repair", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:manufacturing=motor_vehicles_and_parts", 
+    "services:professional=art_services", 
+    "services:retail=auto_rental", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "exhaust", 
     "automotive", 
@@ -53,6 +66,6 @@
     "total", 
     "vehicle"
   ], 
-  "wof:brand_name": "Midas Muffler", 
-  "wof:brand_id": 420574957
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416233
 }

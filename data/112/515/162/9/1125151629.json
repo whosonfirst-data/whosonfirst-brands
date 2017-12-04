@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414533, 
+  "wof:brand_name": "Carline Mufflers", 
+  "wof:brand_id": 1125151629, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=motor_vehicles_and_parts", 
+    "manufacturing_and_wholesale_goods:manufacturing=glass_and_minerals", 
+    "public_place:government=fire_station", 
+    "sg:public_place=government", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "exhaust", 
     "muffler", 
@@ -17,6 +27,6 @@
     "towing", 
     "tube"
   ], 
-  "wof:brand_name": "Carline Mufflers", 
-  "wof:brand_id": 1125151629
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416292
 }

@@ -1,6 +1,33 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414540, 
+  "wof:brand_name": "Community Services", 
+  "wof:brand_id": 1125160469, 
+  "wof:categories": [
+    "sg:public_place=government", 
+    "public_place:government=office", 
+    "sg:services=social_services", 
+    "sg:services=organizations", 
+    "sg:services=professional", 
+    "services:organizations=community_association", 
+    "services:organizations=professional_association", 
+    "public_place:education=school", 
+    "services:organizations=nonprofit_organization", 
+    "services:professional=business_services", 
+    "services:social_services=adult_care", 
+    "services:social_services=child_care", 
+    "sg:public_place=education", 
+    "public_place:government=police_station", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:health_services=clinic", 
+    "services:insurance=health_insurance", 
+    "services:organizations=religious_organization", 
+    "services:personal=beauty_salon", 
+    "services:professional=management_and_consulting", 
+    "sg:entertainment=recreation", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=health_services", 
+    "sg:services=insurance", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "village", 
     "executive", 
@@ -57,6 +84,6 @@
     "training", 
     "welfare"
   ], 
-  "wof:brand_name": "Community Services", 
-  "wof:brand_id": 1125160469
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416298
 }

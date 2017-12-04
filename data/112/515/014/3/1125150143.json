@@ -1,6 +1,33 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414480, 
+  "wof:brand_name": "Y M C A", 
+  "wof:brand_id": 1125150143, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=nonprofit_organization", 
+    "services:organizations=community_association", 
+    "sg:services=social_services", 
+    "services:social_services=child_care", 
+    "entertainment:sports_and_exercise=gym", 
+    "sg:entertainment=sports_and_exercise", 
+    "retail_goods:shopping=thrift_store", 
+    "sg:entertainment=recreation", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional", 
+    "public_place:government=office", 
+    "services:organizations=membership_organization", 
+    "services:professional=employment_agencies", 
+    "sg:entertainment=travel", 
+    "sg:public_place=community_center", 
+    "sg:public_place=government", 
+    "entertainment:arena=sports_club", 
+    "entertainment:travel=campground", 
+    "entertainment:travel=hotels_and_motels", 
+    "public_place:community_center=youth", 
+    "public_place:education=school", 
+    "services:professional=business_services", 
+    "sg:entertainment=arena", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "charity", 
     "organisation", 
@@ -35,6 +62,6 @@
     "program", 
     "woman"
   ], 
-  "wof:brand_name": "Y M C A", 
-  "wof:brand_id": 1125150143
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416250
 }

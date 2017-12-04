@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414505, 
+  "wof:brand_name": "Computer Solutions", 
+  "wof:brand_id": 1125150257, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=computer_services", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "manufacturing_and_wholesale_goods:wholesale=computers", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "services:professional=business_services", 
+    "sg:services=utilities", 
+    "services:professional=management_and_consulting", 
+    "services:retail=repair_shop", 
+    "services:utilities=telephone", 
+    "sg:services=retail", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "services:professional=engineering", 
+    "services:utilities=mobile_phone"
+  ], 
   "wof:tags": [
     "repair", 
     "equipment", 
@@ -53,6 +70,6 @@
     "training", 
     "upgrade"
   ], 
-  "wof:brand_name": "Computer Solutions", 
-  "wof:brand_id": 1125150257
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416270
 }

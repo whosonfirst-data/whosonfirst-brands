@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414482, 
+  "wof:brand_name": "Pet Smart", 
+  "wof:brand_id": 1125155287, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=pets_and_pet_supplies", 
+    "services:retail=animal_services", 
+    "sg:services=retail", 
+    "services:communications=newspaper", 
+    "sg:services=communications"
+  ], 
   "wof:tags": [
     "pet", 
     "food", 
@@ -10,6 +18,6 @@
     "washing", 
     "magazine"
   ], 
-  "wof:brand_name": "Pet Smart", 
-  "wof:brand_id": 1125155287
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416252
 }

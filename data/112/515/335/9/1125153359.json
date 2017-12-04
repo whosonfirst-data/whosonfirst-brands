@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414489, 
+  "wof:brand_name": "CB Richard Ellis Inc", 
+  "wof:brand_id": 1125153359, 
+  "wof:categories": [
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_agent", 
+    "services:real_estate=real_estate_operator", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "services:real_estate=real_estate_services"
+  ], 
   "wof:tags": [
     "commercial", 
     "management", 
@@ -17,6 +25,6 @@
     "facility", 
     "maintenance"
   ], 
-  "wof:brand_name": "CB Richard Ellis Inc", 
-  "wof:brand_id": 1125153359
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416257
 }

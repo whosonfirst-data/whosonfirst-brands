@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414458, 
+  "wof:brand_name": "Beltone Hearing Aid Ctr", 
+  "wof:brand_id": 420574775, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "sg:services=health_services", 
+    "services:health_services=health_practitioner", 
+    "services:retail=repair_shop", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "services:health_services=clinic", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "hearing", 
     "equipment", 
@@ -13,6 +24,6 @@
     "audiometer", 
     "establishment"
   ], 
-  "wof:brand_name": "Beltone Hearing Aid Ctr", 
-  "wof:brand_id": 420574775
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416232
 }

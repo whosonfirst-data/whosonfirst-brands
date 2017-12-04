@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414530, 
+  "wof:brand_name": "La Dolce Vita", 
+  "wof:brand_id": 1125159027, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=food_and_beverages", 
+    "services:personal=beauty_salon", 
+    "sg:food_and_drink=fast_food", 
+    "sg:services=personal", 
+    "retail_goods:food_and_beverages=bakery", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "retail_goods:food_and_beverages=meat_and_fish", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:real_estate=real_estate_agent", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:food_and_drink=coffee_and_tea", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "italian", 
     "shop", 
@@ -24,6 +41,6 @@
     "sales", 
     "style"
   ], 
-  "wof:brand_name": "La Dolce Vita", 
-  "wof:brand_id": 1125159027
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416290
 }

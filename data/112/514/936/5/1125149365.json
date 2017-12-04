@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414554, 
+  "wof:brand_name": "Direct Sat TV - An Authorized DIRECTV Dealer", 
+  "wof:brand_id": 1125149365, 
+  "wof:categories": [
+    "sg:services=communications", 
+    "services:communications=television_station", 
+    "services:professional=computer_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "satellite", 
     "cable", 
@@ -11,6 +17,6 @@
     "provider", 
     "tv"
   ], 
-  "wof:brand_name": "Direct Sat TV - An Authorized DIRECTV Dealer", 
-  "wof:brand_id": 1125149365
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416309
 }

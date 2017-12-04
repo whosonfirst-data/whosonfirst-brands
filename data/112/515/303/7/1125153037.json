@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414466, 
+  "wof:brand_name": "Launderland", 
+  "wof:brand_id": 1125153037, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=selfservice_laundry", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "services:retail=repair_shop", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "coin", 
     "laundry", 
@@ -15,6 +24,6 @@
     "sewing", 
     "washer"
   ], 
-  "wof:brand_name": "Launderland", 
-  "wof:brand_id": 1125153037
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416239
 }

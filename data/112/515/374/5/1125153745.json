@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414509, 
+  "wof:brand_name": "Better Homes and Gardens", 
+  "wof:brand_id": 1125153745, 
+  "wof:categories": [
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_agent", 
+    "public_place:education=vocational_school", 
+    "services:real_estate=real_estate_operator", 
+    "sg:public_place=education", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "agency", 
     "broker", 
@@ -18,6 +26,6 @@
     "real estate", 
     "specializing"
   ], 
-  "wof:brand_name": "Better Homes and Gardens", 
-  "wof:brand_id": 1125153745
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416274
 }

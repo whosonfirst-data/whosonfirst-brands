@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414479, 
+  "wof:brand_name": "Quick", 
+  "wof:brand_id": 1125151519, 
+  "wof:categories": [
+    "sg:food_and_drink=fast_food", 
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel", 
+    "sg:services=professional", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "meeneem", 
     "restaurant", 
@@ -10,6 +17,6 @@
     "restaurants", 
     "\u00c0"
   ], 
-  "wof:brand_name": "Quick", 
-  "wof:brand_id": 1125151519
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416249
 }

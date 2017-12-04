@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414559, 
+  "wof:brand_name": "Lenscrafters", 
+  "wof:brand_id": 1125149099, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=optician", 
+    "sg:services=health_services", 
+    "services:health_services=optometrist", 
+    "retail_goods:shopping=optical_goods", 
+    "services:personal=shoe_repair_and_shine", 
+    "sg:public_place=shopping_center", 
+    "sg:services=personal", 
+    "entertainment:sports_and_exercise=gym", 
+    "sg:entertainment=sports_and_exercise", 
+    "services:health_services=clinic", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:health_services=doctor", 
+    "services:health_services=medical_lab", 
+    "services:utilities=mobile_phone", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "eyewear", 
     "optical", 
@@ -27,6 +47,6 @@
     "visual", 
     "wi-fi"
   ], 
-  "wof:brand_name": "Lenscrafters", 
-  "wof:brand_id": 1125149099
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416313
 }

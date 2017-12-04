@@ -1,6 +1,27 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414465, 
+  "wof:brand_name": "Wellness Center", 
+  "wof:brand_id": 1125156169, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=clinic", 
+    "entertainment:sports_and_exercise=gym", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:services=personal", 
+    "services:health_services=doctor", 
+    "services:health_services=health_practitioner", 
+    "sg:services=social_services", 
+    "services:health_services=chiropractor", 
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:retail_goods=food_and_beverages", 
+    "public_place:education=school", 
+    "services:health_services=hospital", 
+    "services:organizations=religious_organization", 
+    "services:social_services=job_training", 
+    "sg:entertainment=recreation", 
+    "sg:public_place=education", 
+    "sg:services=organizations", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "program", 
     "wellness", 
@@ -39,6 +60,6 @@
     "specialty", 
     "trainer"
   ], 
-  "wof:brand_name": "Wellness Center", 
-  "wof:brand_id": 1125156169
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416238
 }

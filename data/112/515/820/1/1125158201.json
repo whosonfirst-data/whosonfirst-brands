@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414527, 
+  "wof:brand_name": "Tuffy Auto Service Centers", 
+  "wof:brand_id": 1125158201, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:services=personal", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station"
+  ], 
   "wof:tags": [
     "automotive", 
     "exhaust", 
@@ -30,6 +38,6 @@
     "station", 
     "wheels-frame"
   ], 
-  "wof:brand_name": "Tuffy Auto Service Centers", 
-  "wof:brand_id": 1125158201
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416288
 }

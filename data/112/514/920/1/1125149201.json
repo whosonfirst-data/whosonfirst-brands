@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414558, 
+  "wof:brand_name": "Napa Auto Parts", 
+  "wof:brand_id": 1125149201, 
+  "wof:categories": [
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "manufacturing_and_wholesale_goods:manufacturing=motor_vehicles_and_parts", 
+    "retail_goods:home_and_garden=hardware", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=home_and_garden", 
+    "services:communications=newspaper", 
+    "sg:retail_goods=shopping", 
+    "sg:services=communications"
+  ], 
   "wof:tags": [
     "automobile", 
     "part", 
@@ -19,6 +36,6 @@
     "medium", 
     "print"
   ], 
-  "wof:brand_name": "Napa Auto Parts", 
-  "wof:brand_id": 1125149201
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416312
 }

@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414509, 
+  "wof:brand_name": "AON", 
+  "wof:brand_id": 1125158019, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "services:insurance=health_insurance", 
+    "public_place:education=vocational_school", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:public_place=education", 
+    "sg:services=banks_and_credit_unions", 
+    "manufacturing_and_wholesale_goods:wholesale=computers", 
+    "services:insurance=hazard_insurance", 
+    "services:professional=computer_services", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "broker", 
     "benefit", 
@@ -41,6 +56,6 @@
     "surety", 
     "warranty"
   ], 
-  "wof:brand_name": "AON", 
-  "wof:brand_id": 1125158019
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416274
 }

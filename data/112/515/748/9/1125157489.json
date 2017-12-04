@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414520, 
+  "wof:brand_name": "Roly Poly", 
+  "wof:brand_id": 1125157489, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:food_and_drink=fast_food", 
+    "sg:food_and_drink=deli", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "sandwich", 
     "eating", 
@@ -12,6 +21,6 @@
     "delivery", 
     "wrap"
   ], 
-  "wof:brand_name": "Roly Poly", 
-  "wof:brand_id": 1125157489
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416282
 }

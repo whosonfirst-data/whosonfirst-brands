@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414512, 
+  "wof:brand_name": "Cafe Express", 
+  "wof:brand_id": 1125157795, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=cafe", 
+    "sg:food_and_drink=coffee_and_tea", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:food_and_drink=deli", 
+    "sg:services=professional", 
+    "food_and_drink:bagels=none", 
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:food_and_drink=bagels", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:food_and_drink=fast_food"
+  ], 
   "wof:tags": [
     "american", 
     "tea", 
@@ -22,6 +36,6 @@
     "shop", 
     "take"
   ], 
-  "wof:brand_name": "Cafe Express", 
-  "wof:brand_id": 1125157795
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416276
 }

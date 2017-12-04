@@ -1,11 +1,19 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414546, 
+  "wof:brand_name": "Westlake Ace Hardware", 
+  "wof:brand_id": 1125160693, 
+  "wof:categories": [
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=hardware", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "manufacturing_and_wholesale_goods:wholesale=painting_supplies", 
+    "retail_goods:home_and_garden=building_materials", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "store", 
     "nurseryman", 
     "paint"
   ], 
-  "wof:brand_name": "Westlake Ace Hardware", 
-  "wof:brand_id": 1125160693
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416302
 }

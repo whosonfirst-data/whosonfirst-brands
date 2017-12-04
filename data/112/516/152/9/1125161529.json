@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414551, 
+  "wof:brand_name": "Little Italy", 
+  "wof:brand_id": 1125161529, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "italian", 
     "eating", 
@@ -16,6 +22,6 @@
     "local", 
     "sandwich"
   ], 
-  "wof:brand_name": "Little Italy", 
-  "wof:brand_id": 1125161529
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416307
 }

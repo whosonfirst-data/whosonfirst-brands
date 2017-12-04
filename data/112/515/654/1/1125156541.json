@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414523, 
+  "wof:brand_name": "Columbia Energy", 
+  "wof:brand_id": 1125156541, 
+  "wof:categories": [
+    "sg:services=utilities", 
+    "services:utilities=natural_gas", 
+    "services:utilities=fuel_oil_and_lpg", 
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=construction", 
+    "services:building_and_trades=equipment_rental", 
+    "services:building_and_trades=plumbing", 
+    "services:professional=management_and_consulting", 
+    "services:utilities=electric", 
+    "sg:services=professional", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "gas", 
     "petroleum", 
@@ -26,6 +39,6 @@
     "system", 
     "wholesale"
   ], 
-  "wof:brand_name": "Columbia Energy", 
-  "wof:brand_id": 1125156541
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416284
 }

@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414501, 
+  "wof:brand_name": "Red Carpet Inn", 
+  "wof:brand_id": 1125154077, 
+  "wof:categories": [
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel", 
+    "entertainment:travel=bed_and_breakfast", 
+    "services:professional=business_services", 
+    "sg:food_and_drink=restaurant", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "operation", 
     "business", 
@@ -18,6 +26,6 @@
     "reservation", 
     "rooms"
   ], 
-  "wof:brand_name": "Red Carpet Inn", 
-  "wof:brand_id": 1125154077
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416267
 }

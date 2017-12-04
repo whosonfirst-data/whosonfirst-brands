@@ -1,6 +1,29 @@
 {
   "wof:brand_name": "OfficeMax", 
   "wof:brand_id": 1125150311, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional", 
+    "services:professional=printing_and_photocopies", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "manufacturing_and_wholesale_goods:wholesale=office_equipment", 
+    "retail_goods:home_and_garden=furniture", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:wholesale=furniture", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "manufacturing_and_wholesale_goods:manufacturing=furniture", 
+    "manufacturing_and_wholesale_goods:wholesale=computers", 
+    "sg:transportation=freight", 
+    "manufacturing_and_wholesale_goods:manufacturing=paper_products", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "retail_goods:shopping=catalog_store", 
+    "services:building_and_trades=plumbing", 
+    "services:professional=management_and_consulting", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "equipment", 
     "furniture", 
@@ -55,6 +78,6 @@
     420574459
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414503, 
+  "wof:lastmodified": 1512416269, 
   "mz:is_current": 1
 }

@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414528, 
+  "wof:brand_name": "Modell's Sporting Goods", 
+  "wof:brand_id": 1125157017, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "entertainment:sports_and_exercise=bicycle_rental", 
+    "sg:entertainment=sports_and_exercise"
+  ], 
   "wof:tags": [
     "wear", 
     "sportswear", 
@@ -14,6 +21,6 @@
     "sporting", 
     "store"
   ], 
-  "wof:brand_name": "Modell's Sporting Goods", 
-  "wof:brand_id": 1125157017
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416289
 }

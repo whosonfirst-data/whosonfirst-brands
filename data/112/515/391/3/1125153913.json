@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414517, 
+  "wof:brand_name": "Wolf Camera and Video", 
+  "wof:brand_id": 1125153913, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=photographic_equipment", 
+    "services:retail=photofinishing", 
+    "sg:services=retail", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "services:communications=film_and_video_production", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=communications"
+  ], 
   "wof:tags": [
     "supply", 
     "camera", 
@@ -21,6 +32,6 @@
     "shop", 
     "tape"
   ], 
-  "wof:brand_name": "Wolf Camera and Video", 
-  "wof:brand_id": 1125153913
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416279
 }

@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414476, 
+  "wof:brand_name": "Liquor Stores", 
+  "wof:brand_id": 1125158339, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "beer", 
     "spirit", 
@@ -9,6 +13,6 @@
     "alcoholic", 
     "government"
   ], 
-  "wof:brand_name": "Liquor Stores", 
-  "wof:brand_id": 1125158339
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416247
 }

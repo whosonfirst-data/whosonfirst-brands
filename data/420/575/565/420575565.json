@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414445, 
+  "wof:brand_name": "Beneficial", 
+  "wof:brand_id": 420575565, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=real_estate", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:health_services=clinic", 
+    "services:professional=computer_services", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "institution", 
     "personal", 
@@ -41,6 +56,6 @@
     "payday", 
     "trust"
   ], 
-  "wof:brand_name": "Beneficial", 
-  "wof:brand_id": 420575565
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416223
 }

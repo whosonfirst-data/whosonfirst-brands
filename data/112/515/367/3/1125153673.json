@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414508, 
+  "wof:brand_name": "Citizens State Bank", 
+  "wof:brand_id": 1125153673, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=financial_services"
+  ], 
   "wof:tags": [
     "commercial", 
     "state", 
@@ -13,6 +18,6 @@
     "national", 
     "savings"
   ], 
-  "wof:brand_name": "Citizens State Bank", 
-  "wof:brand_id": 1125153673
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416272
 }

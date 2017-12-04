@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414533, 
+  "wof:brand_name": "Gentle Dental", 
+  "wof:brand_id": 1125153865, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=dentist", 
+    "services:health_services=doctor", 
+    "manufacturing_and_wholesale_goods:farming=livestock_farm", 
+    "services:retail=veterinary_services", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "dentist", 
     "clinic", 
@@ -11,6 +20,6 @@
     "medical", 
     "specialty"
   ], 
-  "wof:brand_name": "Gentle Dental", 
-  "wof:brand_id": 1125153865
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416292
 }

@@ -1,11 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414545, 
+  "wof:brand_name": "Kim Nails", 
+  "wof:brand_id": 1125162703, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon", 
+    "services:personal=tanning_parlor"
+  ], 
   "wof:tags": [
     "manicuring", 
     "shop", 
     "nail"
   ], 
-  "wof:brand_name": "Kim Nails", 
-  "wof:brand_id": 1125162703
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416302
 }

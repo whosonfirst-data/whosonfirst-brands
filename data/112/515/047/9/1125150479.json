@@ -1,6 +1,25 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414498, 
+  "wof:brand_name": "Crabtree & Evelyn", 
+  "wof:brand_id": 1125150479, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "services:personal=skin_care", 
+    "sg:services=personal", 
+    "retail_goods:shopping=pharmacy", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:transportation=transit_center", 
+    "transportation:transit_center=passenger", 
+    "manufacturing_and_wholesale_goods:wholesale=drugs", 
+    "entertainment:arts_and_performance=art_gallery", 
+    "manufacturing_and_wholesale_goods:wholesale=chemicals_and_plastics", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "services:personal=day_spa", 
+    "sg:entertainment=arts_and_performance"
+  ], 
   "wof:tags": [
     "shop", 
     "perfume", 
@@ -25,6 +44,6 @@
     "supplier", 
     "w'sale"
   ], 
-  "wof:brand_name": "Crabtree & Evelyn", 
-  "wof:brand_id": 1125150479
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416265
 }

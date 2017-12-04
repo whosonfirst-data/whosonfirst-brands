@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414486, 
+  "wof:brand_name": "American Airlines", 
+  "wof:brand_id": 1125152925, 
+  "wof:categories": [
+    "sg:transportation=airline", 
+    "entertainment:travel=travel_agent", 
+    "sg:entertainment=travel", 
+    "public_place:landmark=tourist_attraction", 
+    "public_place:landmark=tourist_information", 
+    "sg:public_place=landmark", 
+    "sg:transportation=freight", 
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:transportation=transit_center", 
+    "transportation:transit_center=freight"
+  ], 
   "wof:tags": [
     "agency", 
     "promoter", 
@@ -20,6 +33,6 @@
     "ticket", 
     "transportation"
   ], 
-  "wof:brand_name": "American Airlines", 
-  "wof:brand_id": 1125152925
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416255
 }

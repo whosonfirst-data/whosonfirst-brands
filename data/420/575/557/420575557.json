@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414450, 
+  "wof:brand_name": "BB&T", 
+  "wof:brand_id": 420575557, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "public_place:education=library", 
+    "services:insurance=insurance_agent", 
+    "sg:public_place=education", 
+    "sg:services=insurance"
+  ], 
   "wof:tags": [
     "state", 
     "commercial", 
@@ -24,6 +33,6 @@
     "library", 
     "life"
   ], 
-  "wof:brand_name": "BB&T", 
-  "wof:brand_id": 420575557
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416226
 }

@@ -1,12 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414479, 
+  "wof:brand_name": "Snap Printing", 
+  "wof:brand_id": 1125151159, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=printing_and_photocopies", 
+    "services:professional=art_services", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "photocopying", 
     "designer", 
     "graphic", 
     "printer"
   ], 
-  "wof:brand_name": "Snap Printing", 
-  "wof:brand_id": 1125151159
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416249
 }

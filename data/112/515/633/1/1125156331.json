@@ -1,6 +1,28 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414498, 
+  "wof:brand_name": "A Stitch In Time", 
+  "wof:brand_id": 1125156331, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:services=retail", 
+    "retail_goods:shopping=crafts_and_fabrics", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "sg:retail_goods=home_and_garden", 
+    "services:retail=repair_shop", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "sg:services=personal", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "manufacturing_and_wholesale_goods:manufacturing=toys_and_sporting_goods", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "alteration", 
     "sewing", 
@@ -46,6 +68,6 @@
     "window", 
     "wool"
   ], 
-  "wof:brand_name": "A Stitch In Time", 
-  "wof:brand_id": 1125156331
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416265
 }

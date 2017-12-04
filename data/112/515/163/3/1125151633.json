@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414491, 
+  "wof:brand_name": "Chase Manhattan Bank", 
+  "wof:brand_id": 1125151633, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=financial_services"
+  ], 
   "wof:tags": [
     "commercial", 
     "state", 
@@ -12,6 +17,6 @@
     "saving", 
     "banker"
   ], 
-  "wof:brand_name": "Chase Manhattan Bank", 
-  "wof:brand_id": 1125151633
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416258
 }

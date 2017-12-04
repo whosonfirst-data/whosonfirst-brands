@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414528, 
+  "wof:brand_name": "Fitness Together", 
+  "wof:brand_id": 1125150709, 
+  "wof:categories": [
+    "entertainment:sports_and_exercise=gym", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:services=personal", 
+    "entertainment:arena=sports_club", 
+    "sg:entertainment=arena", 
+    "sg:services=health_services", 
+    "services:health_services=clinic", 
+    "sg:entertainment=recreation", 
+    "sg:services=professional", 
+    "services:health_services=health_practitioner", 
+    "services:professional=management_and_consulting", 
+    "public_place:education=special_training", 
+    "services:professional=business_services", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "health", 
     "trainer", 
@@ -28,6 +44,6 @@
     "training", 
     "weight"
   ], 
-  "wof:brand_name": "Fitness Together", 
-  "wof:brand_id": 1125150709
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416288
 }

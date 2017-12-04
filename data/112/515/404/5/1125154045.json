@@ -1,6 +1,42 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414488, 
+  "wof:brand_name": "Essentials", 
+  "wof:brand_id": 1125154045, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "sg:services=personal", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:personal=beauty_salon", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:services=professional", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:shopping=department_store", 
+    "services:professional=management_and_consulting", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "entertainment:sports_and_exercise=gym", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:retail_goods=home_and_garden", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "manufacturing_and_wholesale_goods:wholesale=sporting_goods", 
+    "public_place:education=college", 
+    "retail_goods:food_and_beverages=specialty", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "retail_goods:shopping=jewelry", 
+    "retail_goods:shopping=pharmacy", 
+    "retail_goods:shopping=tobacco", 
+    "services:building_and_trades=construction", 
+    "services:personal=tanning_parlor", 
+    "services:professional=business_services", 
+    "services:professional=computer_services", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:public_place=education", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "shop", 
     "fitness", 
@@ -53,6 +89,6 @@
     "wig", 
     "women's"
   ], 
-  "wof:brand_name": "Essentials", 
-  "wof:brand_id": 1125154045
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416256
 }

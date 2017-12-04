@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414532, 
+  "wof:brand_name": "California Nails", 
+  "wof:brand_id": 1125150377, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon", 
+    "services:retail=repair_shop", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "manicuring", 
     "shop", 
@@ -10,6 +17,6 @@
     "salon", 
     "tanning"
   ], 
-  "wof:brand_name": "California Nails", 
-  "wof:brand_id": 1125150377
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416291
 }

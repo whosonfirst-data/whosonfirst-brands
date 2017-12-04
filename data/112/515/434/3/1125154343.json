@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414513, 
+  "wof:brand_name": "National Bank Of Commerce", 
+  "wof:brand_id": 1125154343, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "public_place:education=library", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "commercial", 
     "national", 
@@ -9,6 +15,6 @@
     "savings", 
     "state"
   ], 
-  "wof:brand_name": "National Bank Of Commerce", 
-  "wof:brand_id": 1125154343
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416277
 }

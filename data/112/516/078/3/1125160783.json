@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414548, 
+  "wof:brand_name": "Classic Car Wash", 
+  "wof:brand_id": 1125160783, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=car_wash", 
+    "services:retail=auto_repair"
+  ], 
   "wof:tags": [
     "polishing", 
     "washing", 
@@ -12,6 +17,6 @@
     "automatic", 
     "automotive"
   ], 
-  "wof:brand_name": "Classic Car Wash", 
-  "wof:brand_id": 1125160783
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416304
 }

@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414549, 
+  "wof:brand_name": "Island Tan", 
+  "wof:brand_id": 1125161509, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=tanning_parlor", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=drugs", 
+    "retail_goods:shopping=catalog_store", 
+    "services:personal=beauty_salon", 
+    "services:professional=business_services", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "salon", 
     "cosmetic", 
@@ -12,6 +24,6 @@
     "swimwear", 
     "tanning"
   ], 
-  "wof:brand_name": "Island Tan", 
-  "wof:brand_id": 1125161509
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416305
 }

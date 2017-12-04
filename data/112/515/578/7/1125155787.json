@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414507, 
+  "wof:brand_name": "Legg Mason Wood Walker Inc", 
+  "wof:brand_id": 1125155787, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional", 
+    "services:banks_and_credit_unions=bank"
+  ], 
   "wof:tags": [
     "stock", 
     "bond", 
@@ -25,6 +32,6 @@
     "loan", 
     "management"
   ], 
-  "wof:brand_name": "Legg Mason Wood Walker Inc", 
-  "wof:brand_id": 1125155787
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416271
 }

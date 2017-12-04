@@ -1,9 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414464, 
+  "wof:brand_name": "Halifax Property Services", 
+  "wof:brand_id": 420574655, 
+  "wof:categories": [
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "retail_goods:home_and_garden=furniture", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:real_estate=real_estate_operator", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "consultant"
   ], 
-  "wof:brand_name": "Halifax Property Services", 
-  "wof:brand_id": 420574655
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416237
 }

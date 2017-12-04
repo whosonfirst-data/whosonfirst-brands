@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414535, 
+  "wof:brand_name": "Racetrac Petroleum Inc", 
+  "wof:brand_id": 1125151609, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "manufacturing_and_wholesale_goods:manufacturing=petroleum_products", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "oil", 
     "plaza", 
@@ -11,6 +19,6 @@
     "product", 
     "station"
   ], 
-  "wof:brand_name": "Racetrac Petroleum Inc", 
-  "wof:brand_id": 1125151609
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416294
 }

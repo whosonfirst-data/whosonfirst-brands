@@ -1,12 +1,19 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414458, 
+  "wof:brand_name": "Australia Post", 
+  "wof:brand_id": 420574315, 
+  "wof:categories": [
+    "public_place:government=post_office", 
+    "sg:public_place=government", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "postal", 
     "equipment", 
     "facsimile", 
     "courier"
   ], 
-  "wof:brand_name": "Australia Post", 
-  "wof:brand_id": 420574315
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416232
 }

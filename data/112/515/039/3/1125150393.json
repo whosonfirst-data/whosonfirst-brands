@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414535, 
+  "wof:brand_name": "See's Candies", 
+  "wof:brand_id": 1125150393, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=candy", 
+    "retail_goods:food_and_beverages=chocolate", 
+    "sg:public_place=shopping_center", 
+    "manufacturing_and_wholesale_goods:manufacturing=leather_goods", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "services:professional=computer_services", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "confectionery", 
     "store", 
@@ -10,6 +22,6 @@
     "dessert", 
     "candle"
   ], 
-  "wof:brand_name": "See's Candies", 
-  "wof:brand_id": 1125150393
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416294
 }

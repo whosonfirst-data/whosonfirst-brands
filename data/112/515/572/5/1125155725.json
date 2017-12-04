@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414502, 
+  "wof:brand_name": "Bethel Lutheran Church", 
+  "wof:brand_id": 1125155725, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship"
+  ], 
   "wof:tags": [
     "church", 
     "churches-lutheran", 
@@ -12,6 +18,6 @@
     "missouri", 
     "synod"
   ], 
-  "wof:brand_name": "Bethel Lutheran Church", 
-  "wof:brand_id": 1125155725
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416268
 }

@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414559, 
+  "wof:brand_name": "Jet", 
+  "wof:brand_id": 1125149097, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "entertainment:arts_and_performance=theater", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "public_place:military_area=naval_base", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=shoes", 
+    "services:utilities=fuel_oil_and_lpg", 
+    "sg:entertainment=arts_and_performance", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:public_place=military_area", 
+    "sg:retail_goods=shopping", 
+    "sg:services=utilities", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "carburants", 
     "stations-service", 
@@ -19,6 +35,6 @@
     "trucking", 
     "women's"
   ], 
-  "wof:brand_name": "Jet", 
-  "wof:brand_id": 1125149097
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416313
 }

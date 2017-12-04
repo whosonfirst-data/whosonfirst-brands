@@ -1,7 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414548, 
-  "wof:tags": [], 
   "wof:brand_name": "Carlson Worldchoice", 
-  "wof:brand_id": 1125161413
+  "wof:brand_id": 1125161413, 
+  "wof:categories": [
+    "entertainment:travel=travel_agent", 
+    "sg:entertainment=travel"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416304
 }

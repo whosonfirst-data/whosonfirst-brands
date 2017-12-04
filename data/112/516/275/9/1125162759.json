@@ -1,11 +1,14 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414540, 
+  "wof:brand_name": "Pizzeria Bella Napoli", 
+  "wof:brand_id": 1125162759, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "pizzeria", 
     "italian", 
     "pizza"
   ], 
-  "wof:brand_name": "Pizzeria Bella Napoli", 
-  "wof:brand_id": 1125162759
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416297
 }

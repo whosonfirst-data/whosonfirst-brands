@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414452, 
+  "wof:brand_name": "Sheriffs Dept", 
+  "wof:brand_id": 420575429, 
+  "wof:categories": [
+    "sg:public_place=government", 
+    "public_place:government=police_station", 
+    "public_place:government=jail", 
+    "public_place:government=office", 
+    "sg:services=professional", 
+    "sg:services=social_services", 
+    "entertainment:sports_and_exercise=gym", 
+    "public_place:government=court_house", 
+    "services:health_services=medical_lab", 
+    "services:professional=computer_services", 
+    "services:professional=management_and_consulting", 
+    "services:professional=testing_lab", 
+    "services:retail=auto_repair", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:food_and_drink=restaurant", 
+    "sg:services=health_services", 
+    "sg:services=retail", 
+    "sg:transportation=local_transit"
+  ], 
   "wof:tags": [
     "protection", 
     "correctional", 
@@ -41,6 +61,6 @@
     "transportation", 
     "utility"
   ], 
-  "wof:brand_name": "Sheriffs Dept", 
-  "wof:brand_id": 420575429
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416227
 }

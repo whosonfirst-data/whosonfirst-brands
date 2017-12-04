@@ -1,6 +1,14 @@
 {
   "wof:brand_name": "Steak 'n Shake", 
   "wof:brand_id": 1125148867, 
+  "wof:categories": [
+    "sg:food_and_drink=ice_cream", 
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "sg:food_and_drink=coffee_and_tea", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "american", 
     "cream", 
@@ -33,6 +41,6 @@
     1125157975
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414562, 
+  "wof:lastmodified": 1512416315, 
   "mz:is_current": 1
 }

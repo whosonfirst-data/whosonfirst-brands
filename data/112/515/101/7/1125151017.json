@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414471, 
+  "wof:brand_name": "PPG Porter Paints", 
+  "wof:brand_id": 1125151017, 
+  "wof:categories": [
+    "retail_goods:home_and_garden=building_materials", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=painting_supplies", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts"
+  ], 
   "wof:tags": [
     "paint", 
     "coating", 
@@ -15,6 +25,6 @@
     "wall", 
     "wallpaper"
   ], 
-  "wof:brand_name": "PPG Porter Paints", 
-  "wof:brand_id": 1125151017
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416243
 }

@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414486, 
+  "wof:brand_name": "CFIC Home Mortgage", 
+  "wof:brand_id": 1125151931, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate", 
+    "services:banks_and_credit_unions=investment_brokerage"
+  ], 
   "wof:tags": [
     "loan", 
     "real estate", 
@@ -11,6 +18,6 @@
     "foreclosure", 
     "mortgage"
   ], 
-  "wof:brand_name": "CFIC Home Mortgage", 
-  "wof:brand_id": 1125151931
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416255
 }

@@ -1,9 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414545, 
+  "wof:brand_name": "Consultation Nourrissons", 
+  "wof:brand_id": 1125161439, 
+  "wof:categories": [
+    "services:health_services=hospital", 
+    "sg:public_place=community_center", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "medical"
   ], 
-  "wof:brand_name": "Consultation Nourrissons", 
-  "wof:brand_id": 1125161439
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416302
 }

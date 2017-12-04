@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414477, 
+  "wof:brand_name": "Bp Oil", 
+  "wof:brand_id": 1125150197, 
+  "wof:categories": [
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:manufacturing_and_wholesale_goods=mining_and_drilling", 
+    "manufacturing_and_wholesale_goods:manufacturing=petroleum_products", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "services:building_and_trades=construction", 
+    "services:retail=car_wash", 
+    "services:utilities=fuel_oil_and_lpg", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=building_and_trades", 
+    "sg:services=retail", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "oil", 
     "gas", 
@@ -12,6 +26,6 @@
     "tire", 
     "washing"
   ], 
-  "wof:brand_name": "Bp Oil", 
-  "wof:brand_id": 1125150197
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416248
 }

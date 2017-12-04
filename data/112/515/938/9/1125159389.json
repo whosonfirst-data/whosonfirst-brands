@@ -1,11 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414467, 
+  "wof:brand_name": "SupaSnaps", 
+  "wof:brand_id": 1125159389, 
+  "wof:categories": [
+    "services:retail=photofinishing", 
+    "sg:services=retail", 
+    "services:professional=art_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "photographic", 
     "processor", 
     "photographer"
   ], 
-  "wof:brand_name": "SupaSnaps", 
-  "wof:brand_id": 1125159389
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416240
 }

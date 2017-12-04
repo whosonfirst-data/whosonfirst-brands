@@ -1,11 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414522, 
+  "wof:brand_name": "Galilee Baptist Church", 
+  "wof:brand_id": 1125156399, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=religious_organization", 
+    "services:organizations=professional_association"
+  ], 
   "wof:tags": [
     "church", 
     "baptist", 
     "school"
   ], 
-  "wof:brand_name": "Galilee Baptist Church", 
-  "wof:brand_id": 1125156399
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416284
 }

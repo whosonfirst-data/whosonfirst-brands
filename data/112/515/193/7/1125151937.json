@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414486, 
+  "wof:brand_name": "Childtime Learning Ctr", 
+  "wof:brand_id": 1125151937, 
+  "wof:categories": [
+    "sg:services=social_services", 
+    "services:social_services=child_care", 
+    "sg:public_place=education", 
+    "sg:entertainment=recreation", 
+    "public_place:education=school", 
+    "public_place:education=special_training", 
+    "public_place:education=preschool", 
+    "entertainment:travel=campground", 
+    "public_place:government=office", 
+    "services:health_services=hospital", 
+    "services:social_services=job_training", 
+    "sg:entertainment=travel", 
+    "sg:public_place=government", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "kindergarten", 
     "academic", 
@@ -13,6 +29,6 @@
     "rehabilitation", 
     "tutoring"
   ], 
-  "wof:brand_name": "Childtime Learning Ctr", 
-  "wof:brand_id": 1125151937
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416254
 }

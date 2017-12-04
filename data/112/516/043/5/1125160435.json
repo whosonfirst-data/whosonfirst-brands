@@ -1,6 +1,33 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414552, 
+  "wof:brand_name": "Barn", 
+  "wof:brand_id": 1125160435, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "retail_goods:shopping=used_merchandise", 
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:entertainment=recreation", 
+    "sg:services=professional", 
+    "services:building_and_trades=construction", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:farming=livestock_farm", 
+    "public_place:government=office", 
+    "retail_goods:food_and_beverages=fruits_and_vegetables", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "retail_goods:shopping=shoes", 
+    "retail_goods:shopping=tobacco", 
+    "services:retail=auto_repair", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:public_place=government", 
+    "sg:services=retail", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "furniture", 
     "antique", 
@@ -39,6 +66,6 @@
     "shop", 
     "trucking"
   ], 
-  "wof:brand_name": "Barn", 
-  "wof:brand_id": 1125160435
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416308
 }

@@ -1,11 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414546, 
+  "wof:brand_name": "Gap Outlet", 
+  "wof:brand_id": 1125160183, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=department_store", 
+    "entertainment:sports_and_exercise=bicycle_rental", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:public_place=shopping_center"
+  ], 
   "wof:tags": [
     "outlet", 
     "family", 
     "wear"
   ], 
-  "wof:brand_name": "Gap Outlet", 
-  "wof:brand_id": 1125160183
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416302
 }

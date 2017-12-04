@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414509, 
+  "wof:brand_name": "Ultimate Electronics", 
+  "wof:brand_id": 1125159733, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:services=retail", 
+    "food_and_drink:bars_and_pubs=champagne_bar", 
+    "services:professional=computer_services", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=computers", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "equipment", 
     "supply", 
@@ -34,6 +51,6 @@
     "dealer", 
     "installation"
   ], 
-  "wof:brand_name": "Ultimate Electronics", 
-  "wof:brand_id": 1125159733
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416273
 }

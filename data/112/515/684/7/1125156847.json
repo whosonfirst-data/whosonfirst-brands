@@ -1,6 +1,38 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414497, 
+  "wof:brand_name": "Something Different", 
+  "wof:brand_id": 1125156847, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:personal=beauty_salon", 
+    "sg:services=personal", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=used_merchandise", 
+    "sg:services=professional", 
+    "sg:food_and_drink=restaurant", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=food_and_beverages", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "sg:retail_goods=home_and_garden", 
+    "manufacturing_and_wholesale_goods:manufacturing=wood_products", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "manufacturing_and_wholesale_goods:wholesale=toys_and_hobbies", 
+    "public_place:education=library", 
+    "retail_goods:food_and_beverages=bakery", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "retail_goods:shopping=florist", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "retail_goods:shopping=luggage_and_leather_goods", 
+    "retail_goods:shopping=pets_and_pet_supplies", 
+    "services:professional=management_and_consulting", 
+    "services:retail=event_space", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:public_place=education", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "shop", 
     "merchandise", 
@@ -41,6 +73,6 @@
     "supplier", 
     "variety"
   ], 
-  "wof:brand_name": "Something Different", 
-  "wof:brand_id": 1125156847
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416264
 }

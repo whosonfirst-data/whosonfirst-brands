@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414497, 
+  "wof:brand_name": "Aames Home Loan", 
+  "wof:brand_id": 1125155449, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "loan", 
     "real estate", 
@@ -14,6 +18,6 @@
     "consulting", 
     "management"
   ], 
-  "wof:brand_name": "Aames Home Loan", 
-  "wof:brand_id": 1125155449
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416264
 }

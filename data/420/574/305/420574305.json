@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414462, 
+  "wof:brand_name": "Speedway", 
+  "wof:brand_id": 420574305, 
+  "wof:categories": [
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "manufacturing_and_wholesale_goods:manufacturing=petroleum_products", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=professional", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "manufacturing_and_wholesale_goods:wholesale=petroleum", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "services:building_and_trades=plumbing", 
+    "services:professional=management_and_consulting", 
+    "sg:food_and_drink=restaurant", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "oil", 
     "gasoline", 
@@ -22,6 +39,6 @@
     "products-wholesale", 
     "program"
   ], 
-  "wof:brand_name": "Speedway", 
-  "wof:brand_id": 420574305
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416236
 }

@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414521, 
+  "wof:brand_name": "New York & Company", 
+  "wof:brand_id": 1125154133, 
+  "wof:categories": [
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=baby_store", 
+    "retail_goods:shopping=department_store", 
+    "manufacturing_and_wholesale_goods:manufacturing=leather_goods", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "clothing", 
     "women's", 
@@ -12,6 +20,6 @@
     "wear", 
     "men's"
   ], 
-  "wof:brand_name": "New York & Company", 
-  "wof:brand_id": 1125154133
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416283
 }

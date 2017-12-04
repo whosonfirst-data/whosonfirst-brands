@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414534, 
+  "wof:brand_name": "WHSmith High Street", 
+  "wof:brand_id": 1125158891, 
+  "wof:categories": [
+    "retail_goods:shopping=books", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "bookseller"
   ], 
-  "wof:brand_name": "WHSmith High Street", 
-  "wof:brand_id": 1125158891
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416293
 }

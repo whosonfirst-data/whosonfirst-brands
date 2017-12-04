@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414498, 
+  "wof:brand_name": "Mony Group", 
+  "wof:brand_id": 1125157211, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=banks_and_credit_unions", 
+    "services:insurance=hazard_insurance", 
+    "sg:services=professional", 
+    "services:professional=computer_services"
+  ], 
   "wof:tags": [
     "financial", 
     "pension", 
@@ -18,6 +27,6 @@
     "retirement", 
     "software"
   ], 
-  "wof:brand_name": "Mony Group", 
-  "wof:brand_id": 1125157211
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416265
 }

@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414476, 
+  "wof:brand_name": "Hair Design", 
+  "wof:brand_id": 1125150461, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "services:personal=nail_salon", 
+    "services:personal=tanning_parlor"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
@@ -13,6 +20,6 @@
     "manicuring", 
     "stylist"
   ], 
-  "wof:brand_name": "Hair Design", 
-  "wof:brand_id": 1125150461
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416247
 }

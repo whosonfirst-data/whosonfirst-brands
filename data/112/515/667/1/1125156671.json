@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414532, 
+  "wof:brand_name": "Travelers Insurance", 
+  "wof:brand_id": 1125156671, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=hazard_insurance", 
+    "services:insurance=life_insurance", 
+    "services:insurance=health_insurance", 
+    "sg:services=professional", 
+    "services:insurance=title_insurance", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate", 
+    "public_place:government=office", 
+    "services:professional=management_and_consulting", 
+    "sg:public_place=government"
+  ], 
   "wof:tags": [
     "casualty", 
     "property", 
@@ -40,6 +55,6 @@
     "plan", 
     "travel"
   ], 
-  "wof:brand_name": "Travelers Insurance", 
-  "wof:brand_id": 1125156671
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416291
 }

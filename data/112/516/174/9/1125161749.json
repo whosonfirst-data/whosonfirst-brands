@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414552, 
+  "wof:brand_name": "Children's Clinic", 
+  "wof:brand_id": 1125161749, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=doctor", 
+    "services:professional=accounting_and_tax_preparation", 
+    "sg:services=professional", 
+    "services:health_services=clinic", 
+    "services:health_services=health_practitioner", 
+    "services:health_services=hospital", 
+    "sg:public_place=community_center", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "physician", 
     "surgeon", 
@@ -18,6 +29,6 @@
     "pediatrician", 
     "psychologist"
   ], 
-  "wof:brand_name": "Children's Clinic", 
-  "wof:brand_id": 1125161749
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416308
 }

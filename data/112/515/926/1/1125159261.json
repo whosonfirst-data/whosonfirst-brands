@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414519, 
+  "wof:brand_name": "Fox and Hound", 
+  "wof:brand_id": 1125159261, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=bars_and_pubs"
+  ], 
   "wof:tags": [
     "american", 
     "pizza", 
@@ -10,6 +14,6 @@
     "steakhouse", 
     "tavern"
   ], 
-  "wof:brand_name": "Fox and Hound", 
-  "wof:brand_id": 1125159261
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416281
 }

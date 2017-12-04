@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414549, 
+  "wof:brand_name": "Beauty Spot", 
+  "wof:brand_id": 1125161027, 
+  "wof:categories": [
+    "services:personal=beauty_salon", 
+    "sg:services=personal", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "manufacturing_and_wholesale_goods:manufacturing=retail_goods", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "services:insurance=health_insurance", 
+    "services:personal=hair_removal", 
+    "services:personal=nail_salon", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=insurance"
+  ], 
   "wof:tags": [
     "shop", 
     "beauty", 
@@ -18,6 +32,6 @@
     "tanning", 
     "unisex"
   ], 
-  "wof:brand_name": "Beauty Spot", 
-  "wof:brand_id": 1125161027
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416305
 }

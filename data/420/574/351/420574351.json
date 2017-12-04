@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414461, 
+  "wof:brand_name": "British Red Cross", 
+  "wof:brand_id": 420574351, 
+  "wof:categories": [
+    "services:organizations=nonprofit_organization", 
+    "sg:services=organizations", 
+    "retail_goods:shopping=thrift_store", 
+    "sg:retail_goods=shopping", 
+    "sg:services=health_services", 
+    "services:health_services=clinic", 
+    "public_place:education=preschool", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:health_services=doctor", 
+    "services:health_services=nursing_and_care_facility", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "charity", 
     "organisation", 
@@ -12,6 +25,6 @@
     "poster", 
     "pre-school"
   ], 
-  "wof:brand_name": "British Red Cross", 
-  "wof:brand_id": 420574351
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416235
 }

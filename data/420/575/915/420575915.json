@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414451, 
+  "wof:brand_name": "Chicago Title Insurance Co", 
+  "wof:brand_id": 420575915, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=title_insurance", 
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:insurance=hazard_insurance", 
+    "services:banks_and_credit_unions=bank", 
+    "services:insurance=insurance_agent", 
+    "services:real_estate=real_estate_agent"
+  ], 
   "wof:tags": [
     "company", 
     "title", 
@@ -11,6 +23,6 @@
     "carrier", 
     "real estate"
   ], 
-  "wof:brand_name": "Chicago Title Insurance Co", 
-  "wof:brand_id": 420575915
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416226
 }

@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414538, 
+  "wof:brand_name": "Montessori Children's House", 
+  "wof:brand_id": 1125160913, 
+  "wof:categories": [
+    "services:social_services=child_care", 
+    "sg:services=social_services", 
+    "public_place:education=school", 
+    "sg:public_place=education", 
+    "public_place:education=preschool", 
+    "sg:entertainment=recreation"
+  ], 
   "wof:tags": [
     "kindergarten", 
     "academic", 
@@ -17,6 +25,6 @@
     "montessori", 
     "nursery"
   ], 
-  "wof:brand_name": "Montessori Children's House", 
-  "wof:brand_id": 1125160913
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416296
 }

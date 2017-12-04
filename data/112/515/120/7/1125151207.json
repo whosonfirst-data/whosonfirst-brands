@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414466, 
+  "wof:brand_name": "ABC Supply Co", 
+  "wof:brand_id": 1125151207, 
+  "wof:categories": [
+    "retail_goods:home_and_garden=building_materials", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=construction_materials", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "manufacturing_and_wholesale_goods:wholesale=toys_and_hobbies", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "roofing", 
     "building", 
@@ -20,6 +32,6 @@
     "product", 
     "wholesaler"
   ], 
-  "wof:brand_name": "ABC Supply Co", 
-  "wof:brand_id": 1125151207
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416239
 }

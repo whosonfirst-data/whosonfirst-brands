@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414556, 
+  "wof:brand_name": "Waddell & Reed Inc", 
+  "wof:brand_id": 1125149311, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=insurance", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=life_insurance", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:insurance=hazard_insurance", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=business_services"
+  ], 
   "wof:tags": [
     "financial", 
     "consultant", 
@@ -31,6 +44,6 @@
     "retirement", 
     "se"
   ], 
-  "wof:brand_name": "Waddell & Reed Inc", 
-  "wof:brand_id": 1125149311
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416310
 }

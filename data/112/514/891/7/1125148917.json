@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414554, 
+  "wof:brand_name": "Zaxby's", 
+  "wof:brand_id": 1125148917, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food"
+  ], 
   "wof:tags": [
     "american", 
     "wing", 
@@ -10,6 +14,6 @@
     "take", 
     "traditional"
   ], 
-  "wof:brand_name": "Zaxby's", 
-  "wof:brand_id": 1125148917
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416309
 }

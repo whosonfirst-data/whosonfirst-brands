@@ -1,6 +1,39 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414509, 
+  "wof:brand_name": "Home", 
+  "wof:brand_id": 1125157633, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:services=building_and_trades", 
+    "sg:services=professional", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:building_and_trades=construction", 
+    "sg:entertainment=travel", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=health_services", 
+    "sg:services=organizations", 
+    "sg:services=utilities", 
+    "entertainment:travel=bed_and_breakfast", 
+    "entertainment:travel=travel_agent", 
+    "manufacturing_and_wholesale_goods:wholesale=home_furnishings", 
+    "public_place:education=school", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=mobile_phones", 
+    "services:building_and_trades=landscaping_services", 
+    "services:health_services=clinic", 
+    "services:health_services=nursing_and_care_facility", 
+    "services:organizations=membership_organization", 
+    "services:organizations=religious_organization", 
+    "services:retail=auto_repair", 
+    "services:utilities=refuse", 
+    "sg:food_and_drink=restaurant", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=education", 
+    "sg:services=retail", 
+    "sg:services=social_services", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "home", 
     "body", 
@@ -36,6 +69,6 @@
     "vintage", 
     "welfare"
   ], 
-  "wof:brand_name": "Home", 
-  "wof:brand_id": 1125157633
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416273
 }

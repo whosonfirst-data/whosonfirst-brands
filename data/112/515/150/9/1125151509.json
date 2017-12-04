@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414520, 
+  "wof:brand_name": "Holden", 
+  "wof:brand_id": 1125151509, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "engineer", 
     "motor", 
@@ -8,6 +14,6 @@
     "car", 
     "new"
   ], 
-  "wof:brand_name": "Holden", 
-  "wof:brand_id": 1125151509
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416282
 }

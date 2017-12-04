@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414515, 
+  "wof:brand_name": "Rural Development", 
+  "wof:brand_id": 1125153175, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "public_place:government=court_house", 
+    "services:professional=engineering", 
+    "services:real_estate=developer", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "rural", 
     "development", 
@@ -22,6 +32,6 @@
     "justice", 
     "state"
   ], 
-  "wof:brand_name": "Rural Development", 
-  "wof:brand_id": 1125153175
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416278
 }

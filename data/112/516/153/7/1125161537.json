@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414539, 
+  "wof:brand_name": "Maison Des Jeunes", 
+  "wof:brand_id": 1125161537, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=community_association", 
+    "sg:services=social_services", 
+    "services:organizations=professional_association", 
+    "public_place:community_center=youth", 
+    "services:communications=film_and_video_production", 
+    "services:professional=business_services", 
+    "sg:entertainment=recreation", 
+    "sg:food_and_drink=cafe", 
+    "sg:public_place=community_center", 
+    "sg:services=communications", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "organisation", 
     "organization", 
@@ -18,6 +32,6 @@
     "recreation", 
     "referral"
   ], 
-  "wof:brand_name": "Maison Des Jeunes", 
-  "wof:brand_id": 1125161537
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416297
 }

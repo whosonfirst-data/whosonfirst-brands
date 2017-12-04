@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414457, 
+  "wof:brand_name": "Petsmart", 
+  "wof:brand_id": 420574675, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=pets_and_pet_supplies", 
+    "sg:services=retail", 
+    "services:retail=animal_services", 
+    "services:retail=pet_boarding", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "entertainment:museum=aquarium", 
+    "entertainment:recreation=dog_park", 
+    "manufacturing_and_wholesale_goods:farming=fish_and_marine_products", 
+    "sg:entertainment=museum", 
+    "sg:entertainment=recreation", 
+    "services:retail=veterinary_services", 
+    "manufacturing_and_wholesale_goods:farming=livestock_farm", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "sg:public_place=animal_shelter"
+  ], 
   "wof:tags": [
     "pet", 
     "shop", 
@@ -24,6 +41,6 @@
     "sporting", 
     "veterinarian"
   ], 
-  "wof:brand_name": "Petsmart", 
-  "wof:brand_id": 420574675
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416231
 }

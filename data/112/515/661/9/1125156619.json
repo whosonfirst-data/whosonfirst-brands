@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414470, 
+  "wof:brand_name": "Pet Valu Discount Pet Foods", 
+  "wof:brand_id": 1125156619, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=farm_supplies", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "services:retail=animal_services", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "pet", 
     "food", 
@@ -9,6 +17,6 @@
     "grooming", 
     "washing"
   ], 
-  "wof:brand_name": "Pet Valu Discount Pet Foods", 
-  "wof:brand_id": 1125156619
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416242
 }

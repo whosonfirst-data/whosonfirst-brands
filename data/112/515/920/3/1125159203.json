@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414495, 
+  "wof:brand_name": "Church Of Nazarene", 
+  "wof:brand_id": 1125159203, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship", 
+    "manufacturing_and_wholesale_goods:wholesale=furniture", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "church", 
     "churches-nazarene", 
@@ -11,6 +19,6 @@
     "place", 
     "worship"
   ], 
-  "wof:brand_name": "Church Of Nazarene", 
-  "wof:brand_id": 1125159203
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416263
 }

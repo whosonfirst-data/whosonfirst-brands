@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414535, 
+  "wof:brand_name": "First Church-Christ Scientist", 
+  "wof:brand_id": 1125150413, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=religious_organization", 
+    "services:organizations=membership_organization", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship"
+  ], 
   "wof:tags": [
     "church", 
     "science", 
@@ -14,6 +21,6 @@
     "churches-church", 
     "testament"
   ], 
-  "wof:brand_name": "First Church-Christ Scientist", 
-  "wof:brand_id": 1125150413
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416294
 }

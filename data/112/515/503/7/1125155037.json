@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414481, 
+  "wof:brand_name": "New Hope Community Church", 
+  "wof:brand_id": 1125155037, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:retail_goods=shopping", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "church", 
     "christ", 
@@ -19,6 +28,6 @@
     "religious", 
     "worship"
   ], 
-  "wof:brand_name": "New Hope Community Church", 
-  "wof:brand_id": 1125155037
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416251
 }

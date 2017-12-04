@@ -1,6 +1,35 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414445, 
+  "wof:brand_name": "Public Works Dept", 
+  "wof:brand_id": 420575835, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=construction", 
+    "sg:services=utilities", 
+    "sg:services=professional", 
+    "services:utilities=refuse", 
+    "services:utilities=water", 
+    "services:professional=management_and_consulting", 
+    "public_place:education=library", 
+    "services:organizations=professional_association", 
+    "services:professional=engineering", 
+    "services:utilities=recycling", 
+    "sg:entertainment=recreation", 
+    "sg:public_place=education", 
+    "sg:services=organizations", 
+    "entertainment:recreation=amusement_park", 
+    "manufacturing_and_wholesale_goods:manufacturing=furniture", 
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "services:building_and_trades=electrical", 
+    "services:building_and_trades=landscaping_services", 
+    "services:professional=business_services", 
+    "services:professional=testing_lab", 
+    "services:retail=auto_repair", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=retail", 
+    "sg:transportation=airport"
+  ], 
   "wof:tags": [
     "maintenance", 
     "marking", 
@@ -93,6 +122,6 @@
     "supply", 
     "surveyor"
   ], 
-  "wof:brand_name": "Public Works Dept", 
-  "wof:brand_id": 420575835
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416222
 }

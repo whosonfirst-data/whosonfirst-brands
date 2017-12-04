@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414516, 
+  "wof:brand_name": "Christine", 
+  "wof:brand_id": 1125155235, 
+  "wof:categories": [
+    "services:personal=beauty_salon", 
+    "sg:services=personal", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:professional=management_and_consulting", 
+    "retail_goods:shopping=florist", 
+    "services:professional=testing_lab", 
+    "sg:food_and_drink=bakery"
+  ], 
   "wof:tags": [
     "-", 
     "hairdressing", 
@@ -13,6 +24,6 @@
     "retail", 
     "sales"
   ], 
-  "wof:brand_name": "Christine", 
-  "wof:brand_id": 1125155235
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416279
 }

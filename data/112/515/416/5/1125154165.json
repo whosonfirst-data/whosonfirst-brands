@@ -1,11 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414505, 
+  "wof:brand_name": "Western-Southern Life Ins Co", 
+  "wof:brand_id": 1125154165, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=hazard_insurance", 
+    "services:insurance=life_insurance"
+  ], 
   "wof:tags": [
     "consultant", 
     "accident", 
     "health"
   ], 
-  "wof:brand_name": "Western-Southern Life Ins Co", 
-  "wof:brand_id": 1125154165
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416271
 }

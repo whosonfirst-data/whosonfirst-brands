@@ -1,12 +1,27 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414467, 
+  "wof:brand_name": "Civitan International", 
+  "wof:brand_id": 1125153143, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=community_association", 
+    "services:organizations=membership_organization", 
+    "services:health_services=hospital", 
+    "services:organizations=nonprofit_organization", 
+    "services:organizations=political_organization", 
+    "services:organizations=professional_association", 
+    "services:professional=management_and_consulting", 
+    "services:social_services=adult_care", 
+    "sg:entertainment=recreation", 
+    "sg:services=health_services", 
+    "sg:services=professional", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "club", 
     "membership", 
     "residential", 
     "social"
   ], 
-  "wof:brand_name": "Civitan International", 
-  "wof:brand_id": 1125153143
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416240
 }

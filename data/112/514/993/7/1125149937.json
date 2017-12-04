@@ -1,6 +1,28 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414554, 
+  "wof:brand_name": "Au Bon Pain", 
+  "wof:brand_id": 1125149937, 
+  "wof:categories": [
+    "sg:food_and_drink=bakery", 
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:food_and_drink=coffee_and_tea", 
+    "retail_goods:food_and_beverages=bakery", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:food_and_drink=fast_food", 
+    "sg:food_and_drink=deli", 
+    "sg:retail_goods=shopping", 
+    "food_and_drink:bagels=none", 
+    "manufacturing_and_wholesale_goods:manufacturing=furniture", 
+    "retail_goods:food_and_beverages=candy", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "services:health_services=clinic", 
+    "sg:food_and_drink=bagels", 
+    "sg:food_and_drink=cafe", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=health_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "american", 
     "sandwich", 
@@ -25,6 +47,6 @@
     "tea", 
     "wrap"
   ], 
-  "wof:brand_name": "Au Bon Pain", 
-  "wof:brand_id": 1125149937
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416309
 }

@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414454, 
+  "wof:brand_name": "Eckerd", 
+  "wof:brand_id": 420573929, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=pharmacy", 
+    "services:utilities=mobile_phone", 
+    "sg:services=utilities", 
+    "services:retail=photofinishing", 
+    "sg:services=retail", 
+    "retail_goods:shopping=department_store", 
+    "sg:transportation=freight", 
+    "manufacturing_and_wholesale_goods:wholesale=drugs", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "drug", 
     "store", 
@@ -32,6 +48,6 @@
     "state", 
     "telegraph"
   ], 
-  "wof:brand_name": "Eckerd", 
-  "wof:brand_id": 420573929
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416229
 }

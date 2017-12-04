@@ -1,6 +1,28 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414494, 
+  "wof:brand_name": "Small Business Development Ctr", 
+  "wof:brand_id": 1125150905, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "sg:public_place=education", 
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "public_place:education=college", 
+    "services:professional=business_services", 
+    "public_place:education=junior_college", 
+    "public_place:education=school", 
+    "services:organizations=professional_association", 
+    "sg:services=organizations", 
+    "sg:services=social_services", 
+    "public_place:education=special_training", 
+    "public_place:education=university", 
+    "public_place:education=vocational_school", 
+    "services:banks_and_credit_unions=bank", 
+    "services:professional=research", 
+    "services:real_estate=real_estate_operator", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "business", 
     "consultant", 
@@ -44,6 +66,6 @@
     "strategic", 
     "technical"
   ], 
-  "wof:brand_name": "Small Business Development Ctr", 
-  "wof:brand_id": 1125150905
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416262
 }

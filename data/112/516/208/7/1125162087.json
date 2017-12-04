@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414542, 
+  "wof:brand_name": "Westwood Apartments", 
+  "wof:brand_id": 1125162087, 
+  "wof:categories": [
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_operator", 
+    "services:real_estate=real_estate_agent", 
+    "services:real_estate=real_estate_services"
+  ], 
   "wof:tags": [
     "apartment", 
     "building", 
@@ -13,6 +19,6 @@
     "listing", 
     "vacancy"
   ], 
-  "wof:brand_name": "Westwood Apartments", 
-  "wof:brand_id": 1125162087
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416299
 }

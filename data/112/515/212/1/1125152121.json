@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414500, 
+  "wof:brand_name": "Admin. Contrib. Directes", 
+  "wof:brand_id": 1125152121, 
+  "wof:categories": [
+    "services:health_services=nursing_and_care_facility", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "public"
   ], 
-  "wof:brand_name": "Admin. Contrib. Directes", 
-  "wof:brand_id": 1125152121
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416266
 }

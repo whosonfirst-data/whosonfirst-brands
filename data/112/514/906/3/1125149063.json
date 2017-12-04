@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414555, 
+  "wof:brand_name": "O.c.m.w.", 
+  "wof:brand_id": 1125149063, 
+  "wof:categories": [
+    "services:health_services=nursing_and_care_facility", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "public", 
     "de", 
@@ -8,6 +12,6 @@
     "placement", 
     "s\u00e9lection"
   ], 
-  "wof:brand_name": "O.c.m.w.", 
-  "wof:brand_id": 1125149063
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416310
 }

@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414504, 
+  "wof:brand_name": "Farmers & Merchants Bank", 
+  "wof:brand_id": 1125152939, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=financial_services"
+  ], 
   "wof:tags": [
     "commercial", 
     "loan", 
@@ -9,6 +14,6 @@
     "real estate", 
     "state"
   ], 
-  "wof:brand_name": "Farmers & Merchants Bank", 
-  "wof:brand_id": 1125152939
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416270
 }

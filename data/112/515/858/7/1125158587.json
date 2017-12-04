@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414504, 
+  "wof:brand_name": "Olivers", 
+  "wof:brand_id": 1125158587, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=shoes", 
+    "services:personal=beauty_salon", 
+    "sg:services=personal", 
+    "food_and_drink:bars_and_pubs=nightclub", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "retail_goods:shopping=department_store", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:food_and_drink=cafe", 
+    "sg:food_and_drink=fast_food", 
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "away", 
     "beer", 
@@ -15,6 +30,6 @@
     "variety", 
     "wines"
   ], 
-  "wof:brand_name": "Olivers", 
-  "wof:brand_id": 1125158587
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416269
 }

@@ -1,6 +1,33 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414493, 
+  "wof:brand_name": "Postal Annex", 
+  "wof:brand_id": 1125150955, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "services:professional=lawyer_and_legal_services", 
+    "sg:transportation=freight", 
+    "services:professional=printing_and_photocopies", 
+    "services:professional=advertising", 
+    "public_place:government=post_office", 
+    "sg:public_place=government", 
+    "sg:services=personal", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:manufacturing=paper_products", 
+    "public_place:government=embassy", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "services:retail=pet_boarding", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=retail", 
+    "sg:services=communications", 
+    "sg:transportation=transit_center", 
+    "transportation:transit_center=freight", 
+    "entertainment:travel=travel_agent", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "services:communications=film_and_video_production", 
+    "services:communications=news_services", 
+    "sg:entertainment=travel", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "shipping", 
     "packaging", 
@@ -44,6 +71,6 @@
     "public", 
     "taping"
   ], 
-  "wof:brand_name": "Postal Annex", 
-  "wof:brand_id": 1125150955
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416260
 }

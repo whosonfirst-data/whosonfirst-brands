@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414469, 
+  "wof:brand_name": "Airport Traffic Control Tower", 
+  "wof:brand_id": 1125150599, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "services:building_and_trades=electrical", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "control", 
     "tower", 
@@ -17,6 +23,6 @@
     "regulation", 
     "facility"
   ], 
-  "wof:brand_name": "Airport Traffic Control Tower", 
-  "wof:brand_id": 1125150599
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416241
 }

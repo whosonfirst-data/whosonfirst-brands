@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414469, 
+  "wof:brand_name": "County Clerk", 
+  "wof:brand_id": 1125156945, 
+  "wof:categories": [
+    "sg:public_place=government", 
+    "public_place:government=office", 
+    "public_place:government=court_house", 
+    "public_place:government=department_of_motor_vehicles", 
+    "services:professional=lawyer_and_legal_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "county", 
     "executive", 
@@ -15,6 +23,6 @@
     "record", 
     "registration"
   ], 
-  "wof:brand_name": "County Clerk", 
-  "wof:brand_id": 1125156945
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416241
 }

@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414486, 
+  "wof:brand_name": "American Residential Funding", 
+  "wof:brand_id": 1125155217, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:building_and_trades=construction", 
+    "services:communications=film_and_video_production", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=building_and_trades", 
+    "sg:services=communications", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "loan", 
     "real estate", 
@@ -12,6 +23,6 @@
     "lender", 
     "processing"
   ], 
-  "wof:brand_name": "American Residential Funding", 
-  "wof:brand_id": 1125155217
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416255
 }

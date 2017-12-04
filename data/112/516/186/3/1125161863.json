@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414549, 
+  "wof:brand_name": "Jones New York", 
+  "wof:brand_id": 1125161863, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=shoes", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "retail_goods:shopping=baby_store", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=jewelry", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "clothing", 
     "accessory", 
@@ -23,6 +39,6 @@
     "warehouse", 
     "wear"
   ], 
-  "wof:brand_name": "Jones New York", 
-  "wof:brand_id": 1125161863
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416305
 }

@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414545, 
+  "wof:brand_name": "Community Health Council", 
+  "wof:brand_id": 1125161437, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:organizations=membership_organization", 
+    "sg:services=organizations", 
+    "public_place:government=office", 
+    "services:professional=computer_services", 
+    "sg:public_place=government", 
+    "public_place:community_center=social", 
+    "sg:public_place=community_center", 
+    "sg:services=social_services", 
+    "sg:services=health_services", 
+    "services:banks_and_credit_unions=bureau_de_change", 
+    "services:health_services=clinic", 
+    "services:health_services=hospital", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "advice", 
     "counselling", 
@@ -19,6 +36,6 @@
     "panel", 
     "welfare"
   ], 
-  "wof:brand_name": "Community Health Council", 
-  "wof:brand_id": 1125161437
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416302
 }

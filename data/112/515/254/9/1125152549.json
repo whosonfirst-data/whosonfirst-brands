@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414529, 
+  "wof:brand_name": "Readymix", 
+  "wof:brand_id": 1125152549, 
+  "wof:categories": [
+    "retail_goods:home_and_garden=building_materials", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=professional", 
+    "services:professional=testing_lab", 
+    "manufacturing_and_wholesale_goods:wholesale=construction_materials", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "concrete", 
     "pre-mixed", 
@@ -14,6 +22,6 @@
     "supply", 
     "transport"
   ], 
-  "wof:brand_name": "Readymix", 
-  "wof:brand_id": 1125152549
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416289
 }

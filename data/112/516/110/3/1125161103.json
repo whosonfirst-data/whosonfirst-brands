@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414547, 
+  "wof:brand_name": "Family Medical Center", 
+  "wof:brand_id": 1125161103, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=doctor", 
+    "sg:public_place=community_center", 
+    "services:health_services=clinic", 
+    "services:health_services=hospital", 
+    "services:health_services=chiropractor", 
+    "services:health_services=medical_lab", 
+    "services:health_services=nursing_and_care_facility", 
+    "sg:services=personal", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "medical", 
     "physician", 
@@ -26,6 +38,6 @@
     "testing", 
     "weight"
   ], 
-  "wof:brand_name": "Family Medical Center", 
-  "wof:brand_id": 1125161103
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416303
 }

@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414530, 
+  "wof:brand_name": "Calvary Bible Church", 
+  "wof:brand_id": 1125156369, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship"
+  ], 
   "wof:tags": [
     "church", 
     "churches-non-denominational", 
@@ -12,6 +18,6 @@
     "clergy", 
     "membership"
   ], 
-  "wof:brand_name": "Calvary Bible Church", 
-  "wof:brand_id": 1125156369
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416290
 }

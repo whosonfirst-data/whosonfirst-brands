@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414546, 
+  "wof:brand_name": "Senior Citizen Ctr", 
+  "wof:brand_id": 1125160315, 
+  "wof:categories": [
+    "sg:services=social_services", 
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "services:social_services=adult_care", 
+    "sg:entertainment=recreation", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "citizen", 
     "senior", 
@@ -10,6 +18,6 @@
     "center", 
     "establishment"
   ], 
-  "wof:brand_name": "Senior Citizen Ctr", 
-  "wof:brand_id": 1125160315
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416303
 }

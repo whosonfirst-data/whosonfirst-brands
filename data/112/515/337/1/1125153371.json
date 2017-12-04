@@ -1,6 +1,25 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414518, 
+  "wof:brand_name": "Crown Trophy", 
+  "wof:brand_id": 1125153371, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "sg:services=professional", 
+    "services:professional=printing_and_photocopies", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "services:professional=credit_reporting_and_collection", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "services:professional=advertising", 
+    "services:professional=business_services", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "manufacturing_and_wholesale_goods:manufacturing=jewelry", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "manufacturing_and_wholesale_goods:manufacturing=signs", 
+    "manufacturing_and_wholesale_goods:wholesale=metals_and_minerals", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "medal", 
     "award", 
@@ -29,6 +48,6 @@
     "specialty", 
     "tablet"
   ], 
-  "wof:brand_name": "Crown Trophy", 
-  "wof:brand_id": 1125153371
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416280
 }

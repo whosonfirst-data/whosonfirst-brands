@@ -1,12 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414537, 
+  "wof:brand_name": "Greyhound Canada", 
+  "wof:brand_id": 1125162253, 
+  "wof:categories": [
+    "sg:transportation=freight", 
+    "sg:transportation=local_transit", 
+    "public_place:government=office", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:public_place=government", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "courier", 
     "bus", 
     "line", 
     "delivery"
   ], 
-  "wof:brand_name": "Greyhound Canada", 
-  "wof:brand_id": 1125162253
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416296
 }

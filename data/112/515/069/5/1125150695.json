@@ -1,12 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414501, 
+  "wof:brand_name": "Tru Green Chem Lawn", 
+  "wof:brand_id": 1125150695, 
+  "wof:categories": [
+    "services:building_and_trades=landscaping_services", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "grounds", 
     "lawn", 
     "maintenance", 
     "tree"
   ], 
-  "wof:brand_name": "Tru Green Chem Lawn", 
-  "wof:brand_id": 1125150695
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416267
 }

@@ -1,6 +1,35 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414537, 
+  "wof:brand_name": "Gathering Place", 
+  "wof:brand_id": 1125158781, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:services=organizations", 
+    "sg:retail_goods=shopping", 
+    "sg:services=social_services", 
+    "services:organizations=religious_organization", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:services=personal", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:organizations=nonprofit_organization", 
+    "sg:services=professional", 
+    "services:social_services=adult_care", 
+    "sg:entertainment=recreation", 
+    "sg:entertainment=travel", 
+    "sg:services=health_services", 
+    "entertainment:travel=campground", 
+    "entertainment:travel=hotels_and_motels", 
+    "public_place:education=dance_studio", 
+    "retail_goods:food_and_beverages=specialty", 
+    "retail_goods:shopping=books", 
+    "retail_goods:shopping=crafts_and_fabrics", 
+    "retail_goods:shopping=florist", 
+    "services:health_services=hospital", 
+    "services:health_services=nursing_and_care_facility", 
+    "services:personal=beauty_salon", 
+    "services:professional=business_services", 
+    "sg:public_place=education", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "church", 
     "shop", 
@@ -38,6 +67,6 @@
     "supply", 
     "youth"
   ], 
-  "wof:brand_name": "Gathering Place", 
-  "wof:brand_id": 1125158781
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416295
 }

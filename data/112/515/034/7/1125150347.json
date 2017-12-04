@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414501, 
+  "wof:brand_name": "Agricore United", 
+  "wof:brand_id": 1125150347, 
+  "wof:categories": [
+    "sg:transportation=freight", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "manufacturing_and_wholesale_goods:farming=farm_and_veterinary_services", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=farm_supplies", 
+    "manufacturing_and_wholesale_goods:farming=nursery", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=chemicals_and_plastics", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "sg:retail_goods=home_and_garden", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "services:utilities=electric", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "grain", 
     "elevator", 
@@ -16,6 +33,6 @@
     "farm", 
     "seed"
   ], 
-  "wof:brand_name": "Agricore United", 
-  "wof:brand_id": 1125150347
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416267
 }

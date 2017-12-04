@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414477, 
+  "wof:brand_name": "Combi", 
+  "wof:brand_id": 1125157813, 
+  "wof:categories": [
+    "services:health_services=doctor", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "medical"
   ], 
-  "wof:brand_name": "Combi", 
-  "wof:brand_id": 1125157813
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416247
 }

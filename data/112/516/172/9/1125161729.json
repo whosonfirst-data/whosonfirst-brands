@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414538, 
+  "wof:brand_name": "Browning-Ferris Industries", 
+  "wof:brand_id": 1125161729, 
+  "wof:categories": [
+    "services:utilities=refuse", 
+    "sg:services=utilities", 
+    "manufacturing_and_wholesale_goods:wholesale=scrap", 
+    "services:building_and_trades=construction", 
+    "services:professional=engineering", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=building_and_trades", 
+    "sg:services=professional", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "system", 
     "collection", 
@@ -27,6 +38,6 @@
     "solid", 
     "special"
   ], 
-  "wof:brand_name": "Browning-Ferris Industries", 
-  "wof:brand_id": 1125161729
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416297
 }

@@ -1,6 +1,32 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414526, 
+  "wof:brand_name": "Fiserv", 
+  "wof:brand_id": 1125156965, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=computer_services", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "services:professional=business_services", 
+    "sg:retail_goods=shopping", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:professional=management_and_consulting", 
+    "sg:public_place=education", 
+    "manufacturing_and_wholesale_goods:manufacturing=rubber_and_plastics", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "public_place:education=library", 
+    "public_place:education=vocational_school", 
+    "retail_goods:shopping=books", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "services:organizations=professional_association", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=credit_reporting_and_collection", 
+    "services:professional=printing_and_photocopies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "datum", 
     "processing", 
@@ -59,6 +85,6 @@
     "trust", 
     "web"
   ], 
-  "wof:brand_name": "Fiserv", 
-  "wof:brand_id": 1125156965
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416287
 }

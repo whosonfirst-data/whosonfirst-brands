@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414522, 
+  "wof:brand_name": "Southern States Cooperative", 
+  "wof:brand_id": 1125151091, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=farm_supplies", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "manufacturing_and_wholesale_goods:manufacturing=pet_food", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "services:professional=advertising", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=petroleum_products", 
+    "manufacturing_and_wholesale_goods:wholesale=poultry", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "services:real_estate=real_estate_agent", 
+    "services:utilities=natural_gas", 
+    "sg:services=real_estate", 
+    "sg:services=utilities", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "feed", 
     "fertilizer", 
@@ -38,6 +58,6 @@
     "turf", 
     "wood"
   ], 
-  "wof:brand_name": "Southern States Cooperative", 
-  "wof:brand_id": 1125151091
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416284
 }

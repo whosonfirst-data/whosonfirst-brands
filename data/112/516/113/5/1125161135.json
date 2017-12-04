@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414546, 
+  "wof:brand_name": "Haymans Electrical", 
+  "wof:brand_id": 1125161135, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "wholesaler"
   ], 
-  "wof:brand_name": "Haymans Electrical", 
-  "wof:brand_id": 1125161135
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416303
 }

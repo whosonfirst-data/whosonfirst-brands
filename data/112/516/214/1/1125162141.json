@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414539, 
+  "wof:brand_name": "Bargain Books", 
+  "wof:brand_id": 1125162141, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=books", 
+    "retail_goods:shopping=used_merchandise", 
+    "entertainment:cinema=movie_rental", 
+    "manufacturing_and_wholesale_goods:wholesale=books_periodicals_and_newspapers", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=news", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:entertainment=cinema", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "dealer", 
     "bookseller", 
@@ -19,6 +32,6 @@
     "tape", 
     "video"
   ], 
-  "wof:brand_name": "Bargain Books", 
-  "wof:brand_id": 1125162141
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416297
 }

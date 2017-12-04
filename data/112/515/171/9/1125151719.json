@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414495, 
+  "wof:brand_name": "Brooks Brothers", 
+  "wof:brand_id": 1125151719, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=department_store", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "entertainment:arts_and_performance=theater", 
+    "manufacturing_and_wholesale_goods:farming=farm", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "services:building_and_trades=construction", 
+    "sg:entertainment=arts_and_performance", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=building_and_trades", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "furnishing", 
     "clothing", 
@@ -25,6 +42,6 @@
     "retailer", 
     "shop"
   ], 
-  "wof:brand_name": "Brooks Brothers", 
-  "wof:brand_id": 1125151719
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416263
 }

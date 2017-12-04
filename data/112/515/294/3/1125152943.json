@@ -1,6 +1,35 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414533, 
+  "wof:brand_name": "Garage", 
+  "wof:brand_id": 1125152943, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:transportation=parking", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:services=professional", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "entertainment:sports_and_exercise=bowling", 
+    "food_and_drink:bars_and_pubs=sports_bar", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "public_place:education=school", 
+    "retail_goods:shopping=antiques", 
+    "services:professional=advertising", 
+    "services:professional=business_services", 
+    "services:professional=management_and_consulting", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=education", 
+    "sg:transportation=bus_charters", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "automobile", 
     "repairing", 
@@ -36,6 +65,6 @@
     "tire", 
     "warehouse"
   ], 
-  "wof:brand_name": "Garage", 
-  "wof:brand_id": 1125152943
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416293
 }

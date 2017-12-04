@@ -1,6 +1,38 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414512, 
+  "wof:brand_name": "Palace", 
+  "wof:brand_id": 1125159973, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:personal=beauty_salon", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:services=personal", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:services=professional", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=used_merchandise", 
+    "sg:food_and_drink=fast_food", 
+    "entertainment:recreation=amusement_park", 
+    "entertainment:travel=hotels_and_motels", 
+    "manufacturing_and_wholesale_goods:farming=fish_and_marine_products", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "retail_goods:home_and_garden=carpets_and_floor_coverings", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:health_services=nursing_and_care_facility", 
+    "services:professional=business_services", 
+    "services:real_estate=real_estate_operator", 
+    "sg:entertainment=recreation", 
+    "sg:entertainment=travel", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=health_services", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "shop", 
     "t", 
@@ -38,6 +70,6 @@
     "vintage", 
     "wear"
   ], 
-  "wof:brand_name": "Palace", 
-  "wof:brand_id": 1125159973
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416276
 }

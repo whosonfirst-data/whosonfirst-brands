@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414473, 
+  "wof:brand_name": "Sterling Optical", 
+  "wof:brand_id": 1125152429, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=optical_goods", 
+    "sg:services=health_services", 
+    "services:health_services=optometrist", 
+    "retail_goods:shopping=optician", 
+    "services:health_services=doctor"
+  ], 
   "wof:tags": [
     "eyewear", 
     "optician", 
@@ -22,6 +30,6 @@
     "patent", 
     "retail"
   ], 
-  "wof:brand_name": "Sterling Optical", 
-  "wof:brand_id": 1125152429
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416244
 }

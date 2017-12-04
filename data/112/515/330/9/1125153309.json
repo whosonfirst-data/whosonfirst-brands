@@ -1,6 +1,28 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414527, 
+  "wof:brand_name": "Home Helpers", 
+  "wof:brand_id": 1125153309, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=clinic", 
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=construction", 
+    "sg:services=social_services", 
+    "services:health_services=health_practitioner", 
+    "services:social_services=adult_care", 
+    "services:health_services=nursing_and_care_facility", 
+    "sg:public_place=community_center", 
+    "sg:services=professional", 
+    "services:social_services=child_care", 
+    "services:social_services=retirement_home", 
+    "sg:services=personal", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "public_place:community_center=senior", 
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "services:professional=employment_agencies", 
+    "services:professional=lawyer_and_legal_services", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "home", 
     "builder", 
@@ -34,6 +56,6 @@
     "supply", 
     "system"
   ], 
-  "wof:brand_name": "Home Helpers", 
-  "wof:brand_id": 1125153309
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416288
 }

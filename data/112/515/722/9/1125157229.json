@@ -1,6 +1,40 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414536, 
+  "wof:brand_name": "Performance Plus", 
+  "wof:brand_id": 1125157229, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=auto_repair", 
+    "sg:services=professional", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "services:professional=management_and_consulting", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "sg:services=building_and_trades", 
+    "services:professional=business_services", 
+    "services:retail=repair_shop", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:public_place=education", 
+    "manufacturing_and_wholesale_goods:manufacturing=motor_vehicles_and_parts", 
+    "public_place:education=special_training", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "retail_goods:autos_and_motor_vehicles=motorcycle_sales", 
+    "sg:services=health_services", 
+    "sg:services=personal", 
+    "sg:services=social_services", 
+    "manufacturing_and_wholesale_goods:manufacturing=pet_food", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "public_place:education=dance_studio", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "services:health_services=chiropractor", 
+    "services:health_services=health_practitioner", 
+    "services:personal=beauty_salon", 
+    "services:professional=employment_agencies", 
+    "services:professional=research", 
+    "services:professional=secretarial_services", 
+    "services:social_services=job_training", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=shopping_center"
+  ], 
   "wof:tags": [
     "automobile", 
     "repairing", 
@@ -48,6 +82,6 @@
     "tune", 
     "used"
   ], 
-  "wof:brand_name": "Performance Plus", 
-  "wof:brand_id": 1125157229
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416294
 }

@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414494, 
+  "wof:brand_name": "Roto-Rooter", 
+  "wof:brand_id": 1125151483, 
+  "wof:categories": [
+    "services:retail=repair_shop", 
+    "sg:services=retail", 
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=plumbing", 
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "services:building_and_trades=construction", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "services:building_and_trades=equipment_rental", 
+    "services:professional=business_services", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional", 
+    "sg:transportation=airline"
+  ], 
   "wof:tags": [
     "contractor", 
     "sewer", 
@@ -32,6 +47,6 @@
     "tank", 
     "toilet"
   ], 
-  "wof:brand_name": "Roto-Rooter", 
-  "wof:brand_id": 1125151483
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416261
 }

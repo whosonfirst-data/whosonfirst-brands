@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414510, 
+  "wof:brand_name": "Royal Alliance Associates", 
+  "wof:brand_id": 1125155049, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:professional=business_services", 
+    "services:personal=hair_removal", 
+    "sg:services=personal", 
+    "services:banks_and_credit_unions=bank", 
+    "services:insurance=hazard_insurance", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=computer_services", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:professional=research"
+  ], 
   "wof:tags": [
     "security", 
     "advisory", 
@@ -35,6 +53,6 @@
     "seminar", 
     "transfer"
   ], 
-  "wof:brand_name": "Royal Alliance Associates", 
-  "wof:brand_id": 1125155049
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416275
 }

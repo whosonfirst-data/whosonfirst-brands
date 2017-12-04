@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414545, 
+  "wof:brand_name": "Great Florida Insurance", 
+  "wof:brand_id": 1125160527, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=hazard_insurance", 
+    "services:professional=accounting_and_tax_preparation", 
+    "sg:services=professional", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "business", 
     "commercial", 
@@ -17,6 +26,6 @@
     "preparation-business", 
     "resume"
   ], 
-  "wof:brand_name": "Great Florida Insurance", 
-  "wof:brand_id": 1125160527
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416301
 }

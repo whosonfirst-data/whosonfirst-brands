@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414484, 
+  "wof:brand_name": "Wherehouse Music", 
+  "wof:brand_id": 1125158005, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=music", 
+    "entertainment:cinema=movie_rental", 
+    "retail_goods:shopping=musical_instruments", 
+    "sg:entertainment=cinema"
+  ], 
   "wof:tags": [
     "disc", 
     "compact", 
@@ -18,6 +25,6 @@
     "performing", 
     "prerecorded"
   ], 
-  "wof:brand_name": "Wherehouse Music", 
-  "wof:brand_id": 1125158005
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416253
 }

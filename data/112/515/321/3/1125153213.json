@@ -1,6 +1,41 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414472, 
+  "wof:brand_name": "Delphi", 
+  "wof:brand_id": 1125153213, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=motor_vehicles_and_parts", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "services:professional=engineering", 
+    "services:insurance=life_insurance", 
+    "services:professional=computer_services", 
+    "sg:services=insurance", 
+    "sg:transportation=freight", 
+    "manufacturing_and_wholesale_goods:manufacturing=electronics", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "public_place:government=department_of_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "retail_goods:home_and_garden=furniture", 
+    "services:building_and_trades=landscaping_services", 
+    "services:health_services=nursing_and_care_facility", 
+    "services:organizations=community_association", 
+    "services:professional=business_services", 
+    "services:professional=management_and_consulting", 
+    "services:professional=testing_lab", 
+    "services:retail=auto_repair", 
+    "services:social_services=job_training", 
+    "services:utilities=recycling", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=government", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=building_and_trades", 
+    "sg:services=health_services", 
+    "sg:services=organizations", 
+    "sg:services=retail", 
+    "sg:services=social_services", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "mfg", 
     "automotive", 
@@ -57,6 +92,6 @@
     "vie", 
     "warehouse"
   ], 
-  "wof:brand_name": "Delphi", 
-  "wof:brand_id": 1125153213
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416243
 }

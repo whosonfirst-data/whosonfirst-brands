@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414483, 
+  "wof:brand_name": "Caltex", 
+  "wof:brand_id": 1125152081, 
+  "wof:categories": [
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:services=retail", 
+    "services:retail=car_wash", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "services:retail=auto_rental", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "oil", 
     "merchant", 
@@ -15,6 +27,6 @@
     "minibus", 
     "truck"
   ], 
-  "wof:brand_name": "Caltex", 
-  "wof:brand_id": 1125152081
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416252
 }

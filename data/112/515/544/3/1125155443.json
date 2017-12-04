@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414496, 
+  "wof:brand_name": "Wit-gele Kruis", 
+  "wof:brand_id": 1125155443, 
+  "wof:categories": [
+    "services:health_services=nursing_and_care_facility", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "home"
   ], 
-  "wof:brand_name": "Wit-gele Kruis", 
-  "wof:brand_id": 1125155443
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416264
 }

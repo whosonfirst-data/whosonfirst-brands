@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414540, 
+  "wof:brand_name": "Coiffure Rita", 
+  "wof:brand_id": 1125160791, 
+  "wof:categories": [
+    "services:personal=beauty_salon", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "coiffure", 
     "de", 
@@ -8,6 +12,6 @@
     "hairdressing", 
     "lady"
   ], 
-  "wof:brand_name": "Coiffure Rita", 
-  "wof:brand_id": 1125160791
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416298
 }

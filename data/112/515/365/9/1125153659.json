@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414501, 
+  "wof:brand_name": "A Locksmith", 
+  "wof:brand_id": 1125153659, 
+  "wof:categories": [
+    "services:building_and_trades=locksmith", 
+    "sg:services=building_and_trades", 
+    "services:retail=repair_shop", 
+    "sg:services=retail", 
+    "entertainment:arts_and_performance=art_gallery", 
+    "retail_goods:home_and_garden=building_materials", 
+    "sg:entertainment=arts_and_performance", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "key", 
     "lock", 
@@ -9,6 +19,6 @@
     "plate", 
     "window"
   ], 
-  "wof:brand_name": "A Locksmith", 
-  "wof:brand_id": 1125153659
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416267
 }

@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414485, 
+  "wof:brand_name": "Quick Mart", 
+  "wof:brand_id": 1125154563, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "services:professional=business_services", 
+    "sg:food_and_drink=deli", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "beer", 
     "grocer", 
@@ -18,6 +31,6 @@
     "truck", 
     "wine"
   ], 
-  "wof:brand_name": "Quick Mart", 
-  "wof:brand_id": 1125154563
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416254
 }

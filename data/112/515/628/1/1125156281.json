@@ -1,6 +1,17 @@
 {
   "wof:brand_name": "Orkin", 
   "wof:brand_id": 1125156281, 
+  "wof:categories": [
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=pest_control", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:public_place=animal_shelter", 
+    "sg:services=personal", 
+    "manufacturing_and_wholesale_goods:wholesale=farm_supplies", 
+    "services:building_and_trades=construction", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "termite", 
     "industrial", 
@@ -26,6 +37,6 @@
     1125161223
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414470, 
+  "wof:lastmodified": 1512416242, 
   "mz:is_current": 1
 }

@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414458, 
+  "wof:brand_name": "Fashion Bug", 
+  "wof:brand_id": 420574197, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "entertainment:sports_and_exercise=swimming_pool", 
+    "sg:entertainment=sports_and_exercise", 
+    "retail_goods:shopping=department_store", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "retail_goods:shopping=shoes", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "store", 
     "accessory", 
@@ -19,6 +29,6 @@
     "child", 
     "infant"
   ], 
-  "wof:brand_name": "Fashion Bug", 
-  "wof:brand_id": 420574197
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416232
 }

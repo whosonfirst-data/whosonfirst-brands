@@ -1,11 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414534, 
+  "wof:brand_name": "1 24 Hour A Day A Locksmith", 
+  "wof:brand_id": 1125158899, 
+  "wof:categories": [
+    "services:building_and_trades=locksmith", 
+    "sg:services=building_and_trades", 
+    "services:retail=repair_shop", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "key", 
     "locksmith", 
     "lock"
   ], 
-  "wof:brand_name": "1 24 Hour A Day A Locksmith", 
-  "wof:brand_id": 1125158899
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416293
 }

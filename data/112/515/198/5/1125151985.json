@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414524, 
+  "wof:brand_name": "Fidelity Investments", 
+  "wof:brand_id": 1125151985, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=bank", 
+    "services:insurance=insurance_agent", 
+    "services:real_estate=real_estate_agent", 
+    "sg:manufacturing_and_wholesale_goods=mining_and_drilling", 
+    "sg:services=insurance", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "security", 
     "advisory", 
@@ -30,6 +41,6 @@
     "management", 
     "oil"
   ], 
-  "wof:brand_name": "Fidelity Investments", 
-  "wof:brand_id": 1125151985
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416285
 }

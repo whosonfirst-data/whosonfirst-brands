@@ -1,9 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414561, 
+  "wof:brand_name": "C.p.a.s.", 
+  "wof:brand_id": 1125149261, 
+  "wof:categories": [
+    "services:health_services=nursing_and_care_facility", 
+    "sg:services=health_services", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "public"
   ], 
-  "wof:brand_name": "C.p.a.s.", 
-  "wof:brand_id": 1125149261
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416315
 }

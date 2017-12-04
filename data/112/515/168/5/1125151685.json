@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414524, 
+  "wof:brand_name": "Fife Council", 
+  "wof:brand_id": 1125151685, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:public_place=education", 
+    "public_place:education=library", 
+    "entertainment:arts_and_performance=theater", 
+    "entertainment:museum=art_museum", 
+    "public_place:education=school", 
+    "services:social_services=adult_care", 
+    "sg:entertainment=arts_and_performance", 
+    "sg:entertainment=museum", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "local", 
     "authority", 
@@ -11,6 +24,6 @@
     "sheltered", 
     "theatre"
   ], 
-  "wof:brand_name": "Fife Council", 
-  "wof:brand_id": 1125151685
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416285
 }

@@ -1,11 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414548, 
+  "wof:brand_name": "Childrens Place Ret Stores Inc", 
+  "wof:brand_id": 1125160771, 
+  "wof:categories": [
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "wear", 
     "accessory", 
     "mfg"
   ], 
-  "wof:brand_name": "Childrens Place Ret Stores Inc", 
-  "wof:brand_id": 1125160771
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416304
 }

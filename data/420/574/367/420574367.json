@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414460, 
+  "wof:brand_name": "United Way", 
+  "wof:brand_id": 420574367, 
+  "wof:categories": [
+    "sg:services=social_services", 
+    "sg:services=organizations", 
+    "services:organizations=nonprofit_organization", 
+    "services:organizations=professional_association", 
+    "services:organizations=membership_organization", 
+    "sg:services=professional", 
+    "services:organizations=community_association", 
+    "services:professional=business_services", 
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "public_place:education=special_training", 
+    "sg:public_place=education", 
+    "services:organizations=labor_organization", 
+    "services:professional=employment_agencies"
+  ], 
   "wof:tags": [
     "welfare", 
     "organization", 
@@ -43,6 +59,6 @@
     "representative", 
     "voluntary"
   ], 
-  "wof:brand_name": "United Way", 
-  "wof:brand_id": 420574367
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416234
 }

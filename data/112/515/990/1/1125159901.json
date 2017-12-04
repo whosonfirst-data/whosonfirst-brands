@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414468, 
+  "wof:brand_name": "Joe's Garage", 
+  "wof:brand_id": 1125159901, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "sg:food_and_drink=fast_food", 
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "retail_goods:shopping=department_store", 
+    "sg:transportation=parking"
+  ], 
   "wof:tags": [
     "automobile", 
     "repairing", 
@@ -25,6 +38,6 @@
     "used", 
     "work"
   ], 
-  "wof:brand_name": "Joe's Garage", 
-  "wof:brand_id": 1125159901
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416240
 }

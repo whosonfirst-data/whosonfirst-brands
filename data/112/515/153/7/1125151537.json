@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414471, 
+  "wof:brand_name": "Assembly Of God", 
+  "wof:brand_id": 1125151537, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship", 
+    "manufacturing_and_wholesale_goods:manufacturing=retail_goods", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "public_place:education=preschool", 
+    "sg:public_place=education", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "church", 
     "churches-assemblies", 
@@ -17,6 +28,6 @@
     "place", 
     "worship"
   ], 
-  "wof:brand_name": "Assembly Of God", 
-  "wof:brand_id": 1125151537
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416243
 }

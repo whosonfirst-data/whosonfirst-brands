@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414476, 
+  "wof:brand_name": "Qualex Inc", 
+  "wof:brand_id": 1125151233, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=photofinishing", 
+    "services:retail=portrait_studio", 
+    "services:professional=printing_and_photocopies", 
+    "services:retail=repair_shop", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "photo", 
     "finishing", 
@@ -21,6 +29,6 @@
     "photographic", 
     "specializing"
   ], 
-  "wof:brand_name": "Qualex Inc", 
-  "wof:brand_id": 1125151233
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416246
 }

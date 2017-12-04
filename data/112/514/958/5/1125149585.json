@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414561, 
+  "wof:brand_name": "Casual Male Big & Tall", 
+  "wof:brand_id": 1125149585, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=department_store", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "furnishing", 
     "clothing", 
@@ -10,6 +18,6 @@
     "sport", 
     "wear"
   ], 
-  "wof:brand_name": "Casual Male Big & Tall", 
-  "wof:brand_id": 1125149585
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416314
 }

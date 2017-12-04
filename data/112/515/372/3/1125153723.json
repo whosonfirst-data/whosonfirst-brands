@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414488, 
+  "wof:brand_name": "Sunbelt Rentals Inc", 
+  "wof:brand_id": 1125153723, 
+  "wof:categories": [
+    "services:building_and_trades=equipment_rental", 
+    "sg:services=building_and_trades", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "construction", 
     "heavy", 
@@ -17,6 +27,6 @@
     "mach", 
     "pump"
   ], 
-  "wof:brand_name": "Sunbelt Rentals Inc", 
-  "wof:brand_id": 1125153723
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416256
 }

@@ -1,6 +1,29 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414513, 
+  "wof:brand_name": "Learning Center", 
+  "wof:brand_id": 1125153971, 
+  "wof:categories": [
+    "sg:public_place=education", 
+    "sg:services=social_services", 
+    "services:social_services=child_care", 
+    "public_place:education=special_training", 
+    "public_place:education=school", 
+    "public_place:education=college", 
+    "public_place:education=vocational_school", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "public_place:education=junior_college", 
+    "services:communications=film_and_video_production", 
+    "services:organizations=religious_organization", 
+    "services:professional=employment_agencies", 
+    "services:social_services=job_training", 
+    "sg:retail_goods=shopping", 
+    "sg:services=communications", 
+    "sg:services=organizations", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "day", 
     "center", 
@@ -27,6 +50,6 @@
     "test", 
     "university"
   ], 
-  "wof:brand_name": "Learning Center", 
-  "wof:brand_id": 1125153971
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416277
 }

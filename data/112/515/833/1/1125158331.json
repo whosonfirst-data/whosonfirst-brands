@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414476, 
+  "wof:brand_name": "Key Energy Svc", 
+  "wof:brand_id": 1125158331, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=mining_and_drilling", 
+    "services:building_and_trades=plumbing", 
+    "sg:services=building_and_trades", 
+    "sg:transportation=freight", 
+    "manufacturing_and_wholesale_goods:manufacturing=petroleum_products", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "oil", 
     "field", 
@@ -16,6 +24,6 @@
     "refiner", 
     "trucking"
   ], 
-  "wof:brand_name": "Key Energy Svc", 
-  "wof:brand_id": 1125158331
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416247
 }

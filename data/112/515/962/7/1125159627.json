@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414494, 
+  "wof:brand_name": "National Rural Letter Car", 
+  "wof:brand_id": 1125159627, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "sg:services=organizations", 
+    "services:organizations=labor_organization", 
+    "sg:transportation=freight", 
+    "services:organizations=membership_organization", 
+    "services:professional=business_services"
+  ], 
   "wof:tags": [
     "trucking", 
     "local", 
@@ -8,6 +16,6 @@
     "postal", 
     "us"
   ], 
-  "wof:brand_name": "National Rural Letter Car", 
-  "wof:brand_id": 1125159627
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416261
 }

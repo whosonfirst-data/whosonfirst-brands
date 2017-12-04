@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414538, 
+  "wof:brand_name": "Armani Exchange", 
+  "wof:brand_id": 1125162517, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "entertainment:sports_and_exercise=bicycle_rental", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "services:professional=business_services", 
+    "services:utilities=mobile_phone", 
+    "sg:food_and_drink=bakery", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=shopping_center", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "clothing", 
     "women's", 
@@ -17,6 +35,6 @@
     "outlet", 
     "wi-fi"
   ], 
-  "wof:brand_name": "Armani Exchange", 
-  "wof:brand_id": 1125162517
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416296
 }

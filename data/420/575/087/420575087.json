@@ -1,6 +1,38 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414444, 
+  "wof:brand_name": "New Look", 
+  "wof:brand_id": 420575087, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "sg:services=professional", 
+    "services:building_and_trades=construction", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=building_and_trades", 
+    "sg:services=retail", 
+    "retail_goods:home_and_garden=building_materials", 
+    "services:personal=barber", 
+    "manufacturing_and_wholesale_goods:manufacturing=electronics", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:home_and_garden=kitchen_supply", 
+    "retail_goods:shopping=shoes", 
+    "services:health_services=optometrist", 
+    "services:personal=tanning_parlor", 
+    "services:professional=art_services", 
+    "services:professional=business_services", 
+    "services:professional=management_and_consulting", 
+    "services:retail=auto_repair", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "services:retail=repair_shop", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "shop", 
     "-", 
@@ -40,6 +72,6 @@
     "underwear", 
     "window"
   ], 
-  "wof:brand_name": "New Look", 
-  "wof:brand_id": 420575087
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416221
 }

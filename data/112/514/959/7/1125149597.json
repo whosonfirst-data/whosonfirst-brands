@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414561, 
+  "wof:brand_name": "Forever 21", 
+  "wof:brand_id": 1125149597, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=department_store", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "retail_goods:shopping=jewelry", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "clothing", 
     "women's", 
@@ -12,6 +21,6 @@
     "woman", 
     "work"
   ], 
-  "wof:brand_name": "Forever 21", 
-  "wof:brand_id": 1125149597
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416314
 }

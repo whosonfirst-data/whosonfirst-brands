@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414544, 
+  "wof:brand_name": "India Palace", 
+  "wof:brand_id": 1125160231, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "public_place:education=special_training", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:public_place=education", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "indian", 
     "asian", 
@@ -8,6 +15,6 @@
     "pakistani", 
     "vegetarian"
   ], 
-  "wof:brand_name": "India Palace", 
-  "wof:brand_id": 1125160231
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416301
 }

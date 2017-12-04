@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414447, 
+  "wof:brand_name": "Video Ezy", 
+  "wof:brand_id": 420575023, 
+  "wof:categories": [
+    "services:communications=film_and_video_production", 
+    "sg:services=communications"
+  ], 
   "wof:tags": [
     "library", 
     "dvd", 
@@ -8,6 +12,6 @@
     "leisure", 
     "sport"
   ], 
-  "wof:brand_name": "Video Ezy", 
-  "wof:brand_id": 420575023
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416224
 }

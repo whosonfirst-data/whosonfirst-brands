@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414478, 
+  "wof:brand_name": "Tires Plus Total Car Care", 
+  "wof:brand_id": 1125150107, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "manufacturing_and_wholesale_goods:manufacturing=rubber_and_plastics", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "tire", 
     "automobile", 
@@ -17,6 +25,6 @@
     "tires-wholesale", 
     "wheel"
   ], 
-  "wof:brand_name": "Tires Plus Total Car Care", 
-  "wof:brand_id": 1125150107
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416248
 }

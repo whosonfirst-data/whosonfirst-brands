@@ -1,6 +1,13 @@
 {
   "wof:brand_name": "Big Boy Restaurants", 
   "wof:brand_id": 1125150621, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:food_and_drink=fast_food", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:food_and_drink=coffee_and_tea"
+  ], 
   "wof:tags": [
     "american", 
     "dog", 
@@ -30,6 +37,6 @@
     1125161717
   ], 
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414525, 
+  "wof:lastmodified": 1512416286, 
   "mz:is_current": 1
 }

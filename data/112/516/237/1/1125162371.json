@@ -1,6 +1,33 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414552, 
+  "wof:brand_name": "Pumpkin Patch", 
+  "wof:brand_id": 1125162371, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "services:social_services=child_care", 
+    "sg:services=social_services", 
+    "retail_goods:shopping=baby_store", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=used_merchandise", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=fruits_and_vegetables", 
+    "manufacturing_and_wholesale_goods:wholesale=fruits_and_vegetables", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:shopping=catalog_store", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "services:banks_and_credit_unions=bank", 
+    "services:professional=business_services", 
+    "sg:entertainment=recreation", 
+    "sg:food_and_drink=restaurant", 
+    "sg:public_place=shopping_center", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "children's", 
     "wear", 
@@ -28,6 +55,6 @@
     "state", 
     "vintage"
   ], 
-  "wof:brand_name": "Pumpkin Patch", 
-  "wof:brand_id": 1125162371
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416307
 }

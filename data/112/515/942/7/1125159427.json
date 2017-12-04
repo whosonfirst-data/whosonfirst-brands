@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414468, 
+  "wof:brand_name": "Untitled", 
+  "wof:brand_id": 1125159427, 
+  "wof:categories": [
+    "services:professional=art_services", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=shoes", 
+    "services:communications=film_and_video_production", 
+    "sg:services=communications"
+  ], 
   "wof:tags": [
     "artwork", 
     "public_art", 
@@ -14,6 +23,6 @@
     "studio", 
     "women's"
   ], 
-  "wof:brand_name": "Untitled", 
-  "wof:brand_id": 1125159427
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416241
 }

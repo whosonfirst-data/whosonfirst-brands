@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414538, 
+  "wof:brand_name": "Iglesia Ni Cristo", 
+  "wof:brand_id": 1125162277, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "sg:public_place=place_of_worship", 
+    "public_place:place_of_worship=church"
+  ], 
   "wof:tags": [
     "church", 
     "christ", 
@@ -12,6 +18,6 @@
     "place", 
     "worship"
   ], 
-  "wof:brand_name": "Iglesia Ni Cristo", 
-  "wof:brand_id": 1125162277
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416296
 }

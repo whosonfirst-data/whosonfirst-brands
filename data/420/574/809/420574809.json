@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414460, 
+  "wof:brand_name": "Hanger Prosthetics & Orthotics", 
+  "wof:brand_id": 420574809, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:wholesale=medical_equipment_and_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=health_services", 
+    "services:health_services=doctor", 
+    "retail_goods:shopping=pharmacy", 
+    "services:health_services=health_practitioner", 
+    "retail_goods:shopping=shoes", 
+    "services:health_services=clinic", 
+    "services:health_services=medical_lab", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:social_services=job_training", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "limb", 
     "artificial", 
@@ -50,6 +67,6 @@
     "therapy", 
     "w"
   ], 
-  "wof:brand_name": "Hanger Prosthetics & Orthotics", 
-  "wof:brand_id": 420574809
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416234
 }

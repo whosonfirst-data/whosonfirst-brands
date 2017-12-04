@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414488, 
+  "wof:brand_name": "Smart & Final", 
+  "wof:brand_id": 1125150055, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "grocer", 
     "super", 
@@ -15,6 +24,6 @@
     "supermarket", 
     "wine"
   ], 
-  "wof:brand_name": "Smart & Final", 
-  "wof:brand_id": 1125150055
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416257
 }

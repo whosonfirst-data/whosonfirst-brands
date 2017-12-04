@@ -1,6 +1,25 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414508, 
+  "wof:brand_name": "Ali Baba", 
+  "wof:brand_id": 1125155451, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=bakery", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:food_and_drink=coffee_and_tea", 
+    "sg:food_and_drink=fast_food", 
+    "food_and_drink:bars_and_pubs=hookah_bar", 
+    "manufacturing_and_wholesale_goods:manufacturing=retail_goods", 
+    "manufacturing_and_wholesale_goods:wholesale=fruits_and_vegetables", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:entertainment=recreation", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:food_and_drink=deli", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "pizza", 
     "eastern", 
@@ -34,6 +53,6 @@
     "trip", 
     "wrap"
   ], 
-  "wof:brand_name": "Ali Baba", 
-  "wof:brand_id": 1125155451
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416273
 }

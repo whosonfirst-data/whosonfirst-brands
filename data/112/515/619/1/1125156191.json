@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414480, 
+  "wof:brand_name": "Americas Best Value Inn", 
+  "wof:brand_id": 1125156191, 
+  "wof:categories": [
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel", 
+    "entertainment:travel=bed_and_breakfast", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "lodging", 
     "inn", 
@@ -8,6 +15,6 @@
     "consultant", 
     "corporate"
   ], 
-  "wof:brand_name": "Americas Best Value Inn", 
-  "wof:brand_id": 1125156191
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416249
 }

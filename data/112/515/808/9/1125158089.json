@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414469, 
+  "wof:brand_name": "Family Pharmacy", 
+  "wof:brand_id": 1125158089, 
+  "wof:categories": [
+    "retail_goods:shopping=pharmacy", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:wholesale=medical_equipment_and_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "drugstore", 
     "drug", 
@@ -9,6 +15,6 @@
     "health", 
     "home"
   ], 
-  "wof:brand_name": "Family Pharmacy", 
-  "wof:brand_id": 1125158089
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416241
 }

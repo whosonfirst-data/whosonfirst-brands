@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414497, 
+  "wof:brand_name": "Frank's Barber Shop", 
+  "wof:brand_id": 1125154873, 
+  "wof:categories": [
+    "services:personal=barber", 
+    "sg:services=personal", 
+    "services:insurance=hazard_insurance", 
+    "services:personal=beauty_salon", 
+    "sg:services=insurance"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
@@ -12,6 +19,6 @@
     "salon", 
     "sharing"
   ], 
-  "wof:brand_name": "Frank's Barber Shop", 
-  "wof:brand_id": 1125154873
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416264
 }

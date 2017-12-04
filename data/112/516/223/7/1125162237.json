@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414550, 
+  "wof:brand_name": "Fiesta Mexicana", 
+  "wof:brand_id": 1125162237, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=music"
+  ], 
   "wof:tags": [
     "eating", 
     "mexican", 
@@ -13,6 +21,6 @@
     "travel", 
     "wedding"
   ], 
-  "wof:brand_name": "Fiesta Mexicana", 
-  "wof:brand_id": 1125162237
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416306
 }

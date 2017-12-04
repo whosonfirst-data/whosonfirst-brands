@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414556, 
+  "wof:brand_name": "Comet Cleaners", 
+  "wof:brand_id": 1125149565, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "services:retail=selfservice_laundry", 
+    "entertainment:travel=travel_agent", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "services:professional=business_services", 
+    "services:retail=repair_shop", 
+    "sg:entertainment=travel", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=building_and_trades", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "cleaners", 
     "drycleaning", 
@@ -28,6 +42,6 @@
     "rug", 
     "storage"
   ], 
-  "wof:brand_name": "Comet Cleaners", 
-  "wof:brand_id": 1125149565
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416311
 }

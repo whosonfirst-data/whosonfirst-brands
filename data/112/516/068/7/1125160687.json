@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414548, 
+  "wof:brand_name": "Unifirst", 
+  "wof:brand_id": 1125160687, 
+  "wof:categories": [
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:services=retail", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "industrial", 
     "supply", 
@@ -24,6 +32,6 @@
     "sup", 
     "warehouse"
   ], 
-  "wof:brand_name": "Unifirst", 
-  "wof:brand_id": 1125160687
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416304
 }

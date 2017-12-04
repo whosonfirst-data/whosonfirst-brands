@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414456, 
+  "wof:brand_name": "Men's Wearhouse", 
+  "wof:brand_id": 420574799, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=shoes", 
+    "sg:services=personal", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "retail_goods:shopping=bridal", 
+    "retail_goods:shopping=department_store", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "furnishing", 
     "clothing", 
@@ -26,6 +38,6 @@
     "mi", 
     "s"
   ], 
-  "wof:brand_name": "Men's Wearhouse", 
-  "wof:brand_id": 420574799
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416230
 }

@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414553, 
+  "wof:brand_name": "TCF Bank", 
+  "wof:brand_id": 1125149381, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:professional=accounting_and_tax_preparation", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "federal", 
     "savings", 
@@ -15,6 +22,6 @@
     "broker", 
     "business"
   ], 
-  "wof:brand_name": "TCF Bank", 
-  "wof:brand_id": 1125149381
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416308
 }

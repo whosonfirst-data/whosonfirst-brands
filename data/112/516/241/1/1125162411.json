@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414541, 
+  "wof:brand_name": "South Ayrshire Council", 
+  "wof:brand_id": 1125162411, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:services=social_services", 
+    "services:social_services=adult_care", 
+    "sg:public_place=education", 
+    "public_place:education=library", 
+    "public_place:education=school"
+  ], 
   "wof:tags": [
     "local", 
     "housing", 
@@ -8,6 +17,6 @@
     "authority", 
     "book"
   ], 
-  "wof:brand_name": "South Ayrshire Council", 
-  "wof:brand_id": 1125162411
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416299
 }

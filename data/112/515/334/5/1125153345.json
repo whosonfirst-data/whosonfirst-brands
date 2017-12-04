@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414515, 
+  "wof:brand_name": "United Check Cashing Co", 
+  "wof:brand_id": 1125153345, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "services:professional=management_and_consulting", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "cashing", 
     "check", 
@@ -21,6 +30,6 @@
     "telegram", 
     "ticket"
   ], 
-  "wof:brand_name": "United Check Cashing Co", 
-  "wof:brand_id": 1125153345
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416278
 }

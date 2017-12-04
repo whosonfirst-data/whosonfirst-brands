@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414463, 
+  "wof:brand_name": "Farm Bureau Insurance", 
+  "wof:brand_id": 420574057, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=hazard_insurance", 
+    "sg:services=organizations", 
+    "services:insurance=life_insurance", 
+    "services:organizations=professional_association", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional", 
+    "services:insurance=health_insurance", 
+    "services:insurance=title_insurance", 
+    "sg:services=banks_and_credit_unions", 
+    "services:organizations=membership_organization", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:health_services=clinic", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "business", 
     "commercial", 
@@ -48,6 +66,6 @@
     "sharing", 
     "type"
   ], 
-  "wof:brand_name": "Farm Bureau Insurance", 
-  "wof:brand_id": 420574057
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416237
 }

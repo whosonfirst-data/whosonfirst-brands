@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414553, 
+  "wof:brand_name": "Buckle", 
+  "wof:brand_id": 1125149393, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=department_store", 
+    "services:real_estate=architect", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "family", 
     "store", 
@@ -16,6 +23,6 @@
     "merchandise", 
     "used"
   ], 
-  "wof:brand_name": "Buckle", 
-  "wof:brand_id": 1125149393
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416308
 }

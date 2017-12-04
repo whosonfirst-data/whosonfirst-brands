@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414562, 
+  "wof:brand_name": "Standard Parking", 
+  "wof:brand_id": 1125149153, 
+  "wof:categories": [
+    "sg:transportation=parking", 
+    "sg:services=health_services", 
+    "sg:services=professional", 
+    "transportation:parking=garage", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "services:health_services=doctor", 
+    "services:health_services=hospital", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:real_estate=real_estate_agent", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=personal", 
+    "sg:services=real_estate", 
+    "sg:services=retail", 
+    "sg:transportation=airline", 
+    "sg:transportation=local_transit"
+  ], 
   "wof:tags": [
     "garage", 
     "automobile", 
@@ -20,6 +40,6 @@
     "uniform", 
     "valet"
   ], 
-  "wof:brand_name": "Standard Parking", 
-  "wof:brand_id": 1125149153
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416315
 }

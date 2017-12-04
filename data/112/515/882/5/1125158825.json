@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414492, 
+  "wof:brand_name": "Nissan", 
+  "wof:brand_id": 1125158825, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies"
+  ], 
   "wof:tags": [
     "car", 
     "new", 
@@ -15,6 +22,6 @@
     "painting", 
     "repairing"
   ], 
-  "wof:brand_name": "Nissan", 
-  "wof:brand_id": 1125158825
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416260
 }

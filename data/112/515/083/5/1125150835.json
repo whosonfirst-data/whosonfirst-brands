@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414487, 
+  "wof:brand_name": "Lincare Inc", 
+  "wof:brand_id": 1125150835, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=medical_equipment_and_supplies", 
+    "services:building_and_trades=equipment_rental", 
+    "sg:services=building_and_trades", 
+    "sg:services=health_services", 
+    "services:health_services=clinic", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:wholesale=chemicals_and_plastics", 
+    "sg:services=professional", 
+    "services:health_services=hospital", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "services:organizations=labor_organization", 
+    "services:professional=accounting_and_tax_preparation", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "medical", 
     "merchandise", 
@@ -36,6 +54,6 @@
     "sales", 
     "welding"
   ], 
-  "wof:brand_name": "Lincare Inc", 
-  "wof:brand_id": 1125150835
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416255
 }

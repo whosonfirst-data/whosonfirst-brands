@@ -1,11 +1,16 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414456, 
+  "wof:brand_name": "Thresher", 
+  "wof:brand_id": 420574169, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores"
+  ], 
   "wof:tags": [
     "beer", 
     "spirit", 
     "wines"
   ], 
-  "wof:brand_name": "Thresher", 
-  "wof:brand_id": 420574169
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416230
 }

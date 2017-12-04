@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414449, 
+  "wof:brand_name": "Travis Perkins Trading Co. Ltd.", 
+  "wof:brand_id": 420575951, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=building_materials", 
+    "manufacturing_and_wholesale_goods:manufacturing=lumber", 
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=construction", 
+    "entertainment:travel=travel_agent", 
+    "services:building_and_trades=equipment_rental", 
+    "sg:entertainment=travel"
+  ], 
   "wof:tags": [
     "builder", 
     "merchant", 
@@ -12,6 +22,6 @@
     "machinery", 
     "plant"
   ], 
-  "wof:brand_name": "Travis Perkins Trading Co. Ltd.", 
-  "wof:brand_id": 420575951
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416226
 }

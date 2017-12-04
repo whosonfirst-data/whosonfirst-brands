@@ -1,6 +1,33 @@
 {
   "wof:brand_name": "Enterprise Rent-A-Car", 
   "wof:brand_id": 420573775, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=auto_rental", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate", 
+    "sg:services=professional", 
+    "services:retail=auto_repair", 
+    "sg:transportation=local_transit", 
+    "services:building_and_trades=equipment_rental", 
+    "sg:services=building_and_trades", 
+    "services:professional=business_services", 
+    "services:professional=management_and_consulting", 
+    "entertainment:cinema=movie_rental", 
+    "services:professional=computer_services", 
+    "sg:entertainment=cinema", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:transportation=airline", 
+    "entertainment:travel=travel_agent", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "manufacturing_and_wholesale_goods:wholesale=dairy", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=lawyer_and_legal_services", 
+    "sg:entertainment=travel", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "car", 
     "automobile", 
@@ -62,6 +89,6 @@
     420574157
   ], 
   "wof:brand_size": "XXL", 
-  "wof:lastmodified": 1512414453, 
+  "wof:lastmodified": 1512416228, 
   "mz:is_current": 1
 }

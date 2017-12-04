@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414485, 
+  "wof:brand_name": "Pedders Suspension", 
+  "wof:brand_id": 1125154553, 
+  "wof:categories": [
+    "sg:public_place=government", 
+    "public_place:government=fire_station", 
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "public_place:landmark=fountain", 
+    "sg:public_place=landmark", 
+    "public_place:government=police_station", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "spring", 
     "absorbers", 
@@ -20,6 +32,6 @@
     "towing", 
     "tyre"
   ], 
-  "wof:brand_name": "Pedders Suspension", 
-  "wof:brand_id": 1125154553
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416253
 }

@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414550, 
+  "wof:brand_name": "Premier Car Rental", 
+  "wof:brand_id": 1125160625, 
+  "wof:categories": [
+    "services:retail=auto_rental", 
+    "sg:services=retail", 
+    "services:professional=business_services", 
+    "sg:services=professional", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "car", 
     "passenger", 
@@ -9,6 +17,6 @@
     "leasing", 
     "replacement"
   ], 
-  "wof:brand_name": "Premier Car Rental", 
-  "wof:brand_id": 1125160625
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416305
 }

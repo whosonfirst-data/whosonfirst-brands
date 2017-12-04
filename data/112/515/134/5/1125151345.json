@@ -1,12 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414478, 
+  "wof:brand_name": "Anytime Emergency Locksmith", 
+  "wof:brand_id": 1125151345, 
+  "wof:categories": [
+    "services:building_and_trades=locksmith", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "key", 
     "industrial", 
     "lock", 
     "locksmiths-commercial"
   ], 
-  "wof:brand_name": "Anytime Emergency Locksmith", 
-  "wof:brand_id": 1125151345
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416248
 }

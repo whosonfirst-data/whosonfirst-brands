@@ -1,10 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414475, 
+  "wof:brand_name": "Woolwich Property Services", 
+  "wof:brand_id": 1125153191, 
+  "wof:categories": [
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_agent", 
+    "services:real_estate=real_estate_operator"
+  ], 
   "wof:tags": [
     "agent", 
     "letting"
   ], 
-  "wof:brand_name": "Woolwich Property Services", 
-  "wof:brand_id": 1125153191
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416246
 }

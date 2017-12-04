@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414507, 
+  "wof:brand_name": "Family Chiropractic", 
+  "wof:brand_id": 1125154637, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=chiropractor", 
+    "services:health_services=doctor", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "services:health_services=health_practitioner", 
+    "services:health_services=hospital", 
+    "services:personal=massage", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "chiropractic", 
     "clinic", 
@@ -15,6 +26,6 @@
     "sleep", 
     "treatment"
   ], 
-  "wof:brand_name": "Family Chiropractic", 
-  "wof:brand_id": 1125154637
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416272
 }

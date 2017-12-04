@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414554, 
+  "wof:brand_name": "Pizza Factory", 
+  "wof:brand_id": 1125149919, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "retail_goods:shopping=party_supplies", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "pizza", 
     "american", 
@@ -11,6 +18,6 @@
     "caterer", 
     "promotional"
   ], 
-  "wof:brand_name": "Pizza Factory", 
-  "wof:brand_id": 1125149919
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416309
 }

@@ -1,6 +1,29 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414548, 
+  "wof:brand_name": "Players", 
+  "wof:brand_id": 1125161949, 
+  "wof:categories": [
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:entertainment=recreation", 
+    "sg:retail_goods=shopping", 
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:entertainment=sports_and_exercise", 
+    "entertainment:recreation=arcade", 
+    "entertainment:sports_and_exercise=bowling", 
+    "food_and_drink:bars_and_pubs=lounge", 
+    "food_and_drink:bars_and_pubs=sports_bar", 
+    "entertainment:sports_and_exercise=bicycle_rental", 
+    "entertainment:sports_and_exercise=sports_center", 
+    "manufacturing_and_wholesale_goods:wholesale=toys_and_hobbies", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "services:organizations=community_association", 
+    "services:retail=auto_repair", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=organizations", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "drinking", 
     "billiard", 
@@ -33,6 +56,6 @@
     "wear", 
     "woman"
   ], 
-  "wof:brand_name": "Players", 
-  "wof:brand_id": 1125161949
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416304
 }

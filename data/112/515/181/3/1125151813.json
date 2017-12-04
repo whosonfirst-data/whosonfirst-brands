@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414515, 
+  "wof:brand_name": "24 Hour 7 Day Emergency", 
+  "wof:brand_id": 1125151813, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=repair_shop", 
+    "services:retail=auto_repair", 
+    "services:building_and_trades=locksmith", 
+    "sg:services=building_and_trades", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "lock", 
     "locksmith", 
@@ -8,6 +16,6 @@
     "establishment", 
     "key"
   ], 
-  "wof:brand_name": "24 Hour 7 Day Emergency", 
-  "wof:brand_id": 1125151813
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416278
 }

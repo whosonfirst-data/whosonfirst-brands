@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414494, 
+  "wof:brand_name": "Acapulco", 
+  "wof:brand_id": 1125158905, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "food_and_drink:bars_and_pubs=nightclub", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "mexican", 
     "american", 
@@ -10,6 +22,6 @@
     "establishment", 
     "mediterranean"
   ], 
-  "wof:brand_name": "Acapulco", 
-  "wof:brand_id": 1125158905
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416261
 }

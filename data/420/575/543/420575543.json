@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414445, 
+  "wof:brand_name": "Michaels Arts & Crafts Store", 
+  "wof:brand_id": 420575543, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "sg:entertainment=museum", 
+    "retail_goods:shopping=crafts_and_fabrics", 
+    "retail_goods:shopping=stationery_and_office_supplies"
+  ], 
   "wof:tags": [
     "craft", 
     "supply", 
@@ -14,6 +21,6 @@
     "gallery", 
     "scrapbook"
   ], 
-  "wof:brand_name": "Michaels Arts & Crafts Store", 
-  "wof:brand_id": 420575543
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416223
 }

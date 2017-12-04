@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414453, 
+  "wof:brand_name": "O'Reilly Auto Parts", 
+  "wof:brand_id": 420573989, 
+  "wof:categories": [
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=motor_vehicles_and_parts", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "services:professional=business_services", 
+    "services:professional=secretarial_services"
+  ], 
   "wof:tags": [
     "automobile", 
     "battery", 
@@ -22,6 +38,6 @@
     "shop", 
     "wholesale"
   ], 
-  "wof:brand_name": "O'Reilly Auto Parts", 
-  "wof:brand_id": 420573989
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416228
 }

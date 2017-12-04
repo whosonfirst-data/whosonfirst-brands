@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414513, 
+  "wof:brand_name": "Mensland", 
+  "wof:brand_id": 1125155951, 
+  "wof:categories": [
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "menswear"
   ], 
-  "wof:brand_name": "Mensland", 
-  "wof:brand_id": 1125155951
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416276
 }

@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414543, 
+  "wof:brand_name": "Herb Shop", 
+  "wof:brand_id": 1125160543, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:retail_goods=food_and_beverages", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "sg:manufacturing_and_wholesale_goods=mining_and_drilling", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "herb", 
     "diet", 
@@ -16,6 +25,6 @@
     "spice", 
     "therapist"
   ], 
-  "wof:brand_name": "Herb Shop", 
-  "wof:brand_id": 1125160543
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416300
 }

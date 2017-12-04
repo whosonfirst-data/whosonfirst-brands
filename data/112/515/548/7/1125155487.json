@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414527, 
+  "wof:brand_name": "Ethan Allen", 
+  "wof:brand_id": 1125155487, 
+  "wof:categories": [
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=furniture", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "sg:services=professional", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "services:professional=art_services", 
+    "manufacturing_and_wholesale_goods:manufacturing=furniture", 
+    "manufacturing_and_wholesale_goods:wholesale=furniture", 
+    "retail_goods:home_and_garden=carpets_and_floor_coverings", 
+    "services:professional=business_services", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "store", 
     "interior", 
@@ -22,6 +37,6 @@
     "treatment", 
     "window"
   ], 
-  "wof:brand_name": "Ethan Allen", 
-  "wof:brand_id": 1125155487
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416288
 }

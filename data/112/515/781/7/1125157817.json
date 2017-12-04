@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414477, 
+  "wof:brand_name": "Country Suites By Carlson", 
+  "wof:brand_id": 1125157817, 
+  "wof:categories": [
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel", 
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:services=real_estate", 
+    "entertainment:travel=bed_and_breakfast", 
+    "retail_goods:food_and_beverages=specialty", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:real_estate=real_estate_agent", 
+    "services:real_estate=real_estate_operator", 
+    "services:retail=animal_services", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "operation", 
     "drinking", 
@@ -22,6 +38,6 @@
     "style", 
     "used"
   ], 
-  "wof:brand_name": "Country Suites By Carlson", 
-  "wof:brand_id": 1125157817
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416247
 }

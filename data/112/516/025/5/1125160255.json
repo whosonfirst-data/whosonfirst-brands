@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414547, 
+  "wof:brand_name": "Lord & Taylor", 
+  "wof:brand_id": 1125160255, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=jewelry", 
+    "services:professional=business_services", 
+    "sg:public_place=shopping_center", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "merchandise", 
     "apparel", 
@@ -11,6 +20,6 @@
     "boys'", 
     "family"
   ], 
-  "wof:brand_name": "Lord & Taylor", 
-  "wof:brand_id": 1125160255
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416303
 }

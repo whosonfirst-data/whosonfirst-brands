@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414498, 
+  "wof:brand_name": "State Farm Bank", 
+  "wof:brand_id": 1125150529, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:insurance=hazard_insurance", 
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:professional=lawyer_and_legal_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "auto", 
     "consultant", 
@@ -10,6 +20,6 @@
     "notary", 
     "saving"
   ], 
-  "wof:brand_name": "State Farm Bank", 
-  "wof:brand_id": 1125150529
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416265
 }

@@ -1,6 +1,30 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414480, 
+  "wof:brand_name": "My Favorite Things", 
+  "wof:brand_id": 1125156277, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=used_merchandise", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=florist", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:shopping=antiques", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=watercraft", 
+    "manufacturing_and_wholesale_goods:wholesale=jewelry", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:shopping=jewelry", 
+    "services:communications=film_and_video_production", 
+    "services:professional=business_services", 
+    "services:retail=repair_shop", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=communications", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "shop", 
     "antique", 
@@ -35,6 +59,6 @@
     "repair", 
     "thrift"
   ], 
-  "wof:brand_name": "My Favorite Things", 
-  "wof:brand_id": 1125156277
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416250
 }

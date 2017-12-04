@@ -1,10 +1,16 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414444, 
+  "wof:brand_name": "Westpac", 
+  "wof:brand_id": 420575015, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=professional", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "establishment", 
     "trucking"
   ], 
-  "wof:brand_name": "Westpac", 
-  "wof:brand_id": 420575015
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416221
 }

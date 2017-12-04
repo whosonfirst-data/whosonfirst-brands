@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414537, 
+  "wof:brand_name": "Office Furniture USA", 
+  "wof:brand_id": 1125162743, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:wholesale=furniture", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:home_and_garden=furniture", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=construction", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:building_and_trades=equipment_rental", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "equipment", 
     "furniture", 
@@ -17,6 +32,6 @@
     "store", 
     "warehouse"
   ], 
-  "wof:brand_name": "Office Furniture USA", 
-  "wof:brand_id": 1125162743
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416296
 }

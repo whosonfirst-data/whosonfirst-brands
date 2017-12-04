@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414475, 
+  "wof:brand_name": "Jim's Auto Repair", 
+  "wof:brand_id": 1125159899, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "automobile", 
     "repairing", 
@@ -11,6 +17,6 @@
     "automotive", 
     "supply"
   ], 
-  "wof:brand_name": "Jim's Auto Repair", 
-  "wof:brand_id": 1125159899
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416246
 }

@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414493, 
+  "wof:brand_name": "Natural Rsrces Cnservation Svc", 
+  "wof:brand_id": 1125151077, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "conservation", 
     "natural", 
@@ -13,6 +19,6 @@
     "administrator", 
     "agency"
   ], 
-  "wof:brand_name": "Natural Rsrces Cnservation Svc", 
-  "wof:brand_id": 1125151077
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416260
 }

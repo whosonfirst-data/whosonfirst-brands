@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414451, 
+  "wof:brand_name": "Olan Mills Portrait Studio", 
+  "wof:brand_id": 420575217, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=portrait_studio", 
+    "services:professional=art_services", 
+    "sg:services=professional", 
+    "services:retail=photofinishing", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "photographer", 
     "photography", 
@@ -11,6 +19,6 @@
     "supply", 
     "wedding"
   ], 
-  "wof:brand_name": "Olan Mills Portrait Studio", 
-  "wof:brand_id": 420575217
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416226
 }

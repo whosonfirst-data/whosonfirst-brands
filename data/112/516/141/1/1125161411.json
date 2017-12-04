@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414548, 
+  "wof:brand_name": "Car-X Muffler & Brake", 
+  "wof:brand_id": 1125161411, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales"
+  ], 
   "wof:tags": [
     "automobile", 
     "repairing", 
@@ -23,6 +30,6 @@
     "system", 
     "under"
   ], 
-  "wof:brand_name": "Car-X Muffler & Brake", 
-  "wof:brand_id": 1125161411
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416304
 }

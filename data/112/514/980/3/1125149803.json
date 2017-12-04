@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414561, 
+  "wof:brand_name": "Classic Cuts", 
+  "wof:brand_id": 1125149803, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "manufacturing_and_wholesale_goods:manufacturing=retail_goods", 
+    "services:personal=nail_salon", 
+    "services:personal=tanning_parlor", 
+    "services:retail=animal_services", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=professional", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "shop", 
     "hairdresser", 
@@ -14,6 +26,6 @@
     "stylist", 
     "tanning"
   ], 
-  "wof:brand_name": "Classic Cuts", 
-  "wof:brand_id": 1125149803
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416315
 }

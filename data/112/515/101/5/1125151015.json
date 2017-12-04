@@ -1,11 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414471, 
+  "wof:brand_name": "Naturalizer Shoes", 
+  "wof:brand_id": 1125151015, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=shoes"
+  ], 
   "wof:tags": [
     "store", 
     "factory", 
     "outlet"
   ], 
-  "wof:brand_name": "Naturalizer Shoes", 
-  "wof:brand_id": 1125151015
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416243
 }

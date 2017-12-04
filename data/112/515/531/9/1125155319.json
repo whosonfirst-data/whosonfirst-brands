@@ -1,10 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414492, 
+  "wof:brand_name": "Trinity United Church", 
+  "wof:brand_id": 1125155319, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "sg:public_place=place_of_worship"
+  ], 
   "wof:tags": [
     "church", 
     "christ"
   ], 
-  "wof:brand_name": "Trinity United Church", 
-  "wof:brand_id": 1125155319
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416260
 }

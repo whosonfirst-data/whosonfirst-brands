@@ -1,11 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414480, 
+  "wof:brand_name": "Middendorp Electric Co Pty Ltd", 
+  "wof:brand_id": 1125156275, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "services:communications=film_and_video_production", 
+    "sg:services=communications"
+  ], 
   "wof:tags": [
     "wholesaler", 
     "blower", 
     "fan"
   ], 
-  "wof:brand_name": "Middendorp Electric Co Pty Ltd", 
-  "wof:brand_id": 1125156275
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416250
 }

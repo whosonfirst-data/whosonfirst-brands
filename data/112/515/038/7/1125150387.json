@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414530, 
+  "wof:brand_name": "Mortgage Choice", 
+  "wof:brand_id": 1125150387, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:professional=business_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "mortgage", 
     "broker", 
@@ -12,6 +19,6 @@
     "real estate", 
     "referral"
   ], 
-  "wof:brand_name": "Mortgage Choice", 
-  "wof:brand_id": 1125150387
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416290
 }

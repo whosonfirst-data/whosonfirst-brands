@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414467, 
+  "wof:brand_name": "FBI", 
+  "wof:brand_id": 1125153145, 
+  "wof:categories": [
+    "sg:public_place=government", 
+    "public_place:government=police_station", 
+    "sg:services=professional", 
+    "public_place:government=office", 
+    "services:real_estate=real_estate_operator", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "investigation", 
     "protection", 
@@ -14,6 +22,6 @@
     "general", 
     "warehouse"
   ], 
-  "wof:brand_name": "FBI", 
-  "wof:brand_id": 1125153145
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416240
 }

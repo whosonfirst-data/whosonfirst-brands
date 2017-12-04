@@ -1,12 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414549, 
+  "wof:brand_name": "Evergreen Baptist Church", 
+  "wof:brand_id": 1125161097, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship"
+  ], 
   "wof:tags": [
     "church", 
     "churches-baptist", 
     "churches-baptist-general", 
     "clergy"
   ], 
-  "wof:brand_name": "Evergreen Baptist Church", 
-  "wof:brand_id": 1125161097
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416305
 }

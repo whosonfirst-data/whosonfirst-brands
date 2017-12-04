@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414484, 
+  "wof:brand_name": "Hot Topic Inc", 
+  "wof:brand_id": 1125152599, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "retail_goods:shopping=department_store", 
+    "services:personal=tattoo_parlor", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=personal", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "accessory", 
     "establishment", 
@@ -11,6 +22,6 @@
     "dress", 
     "women's"
   ], 
-  "wof:brand_name": "Hot Topic Inc", 
-  "wof:brand_id": 1125152599
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416253
 }

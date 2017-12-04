@@ -1,11 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414531, 
+  "wof:brand_name": "Batigroup Ag", 
+  "wof:brand_id": 1125158037, 
+  "wof:categories": [
+    "public_place:structure=bridge", 
+    "services:utilities=fuel_oil_and_lpg", 
+    "sg:public_place=structure", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "blasting", 
     "construction", 
     "explosive"
   ], 
-  "wof:brand_name": "Batigroup Ag", 
-  "wof:brand_id": 1125158037
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416291
 }

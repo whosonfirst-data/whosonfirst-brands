@@ -1,6 +1,32 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414539, 
+  "wof:brand_name": "Athena", 
+  "wof:brand_id": 1125161017, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "sg:food_and_drink=fast_food", 
+    "sg:food_and_drink=restaurant", 
+    "sg:public_place=education", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "public_place:education=music_school", 
+    "public_place:education=university", 
+    "retail_goods:food_and_beverages=meat_and_fish", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=jewelry", 
+    "services:building_and_trades=construction", 
+    "services:building_and_trades=plumbing", 
+    "services:personal=beauty_salon", 
+    "services:professional=art_services", 
+    "services:real_estate=real_estate_operator", 
+    "services:retail=auto_rental", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=personal", 
+    "sg:services=professional", 
+    "sg:services=real_estate", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "contractor", 
     "greek", 
@@ -26,6 +52,6 @@
     "teacher", 
     "truck"
   ], 
-  "wof:brand_name": "Athena", 
-  "wof:brand_id": 1125161017
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416297
 }

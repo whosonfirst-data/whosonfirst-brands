@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414444, 
+  "wof:brand_name": "Probation Dept", 
+  "wof:brand_id": 420575583, 
+  "wof:categories": [
+    "sg:services=social_services", 
+    "sg:public_place=government", 
+    "public_place:government=jail", 
+    "public_place:government=office", 
+    "public_place:government=court_house", 
+    "public_place:education=special_training", 
+    "sg:public_place=education", 
+    "public_place:government=police_station", 
+    "services:health_services=clinic", 
+    "services:social_services=adult_care", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "probation", 
     "correctional", 
@@ -29,6 +42,6 @@
     "special", 
     "specialty"
   ], 
-  "wof:brand_name": "Probation Dept", 
-  "wof:brand_id": 420575583
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416222
 }

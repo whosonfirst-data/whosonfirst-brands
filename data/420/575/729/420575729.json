@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414445, 
+  "wof:brand_name": "Ryan Homes", 
+  "wof:brand_id": 420575729, 
+  "wof:categories": [
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:manufacturing=buildings", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "builder", 
     "home", 
@@ -17,6 +25,6 @@
     "remodeling", 
     "repairing"
   ], 
-  "wof:brand_name": "Ryan Homes", 
-  "wof:brand_id": 420575729
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416222
 }

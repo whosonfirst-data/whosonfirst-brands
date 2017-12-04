@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414543, 
+  "wof:brand_name": "Barnie's Coffee & Tea Co", 
+  "wof:brand_id": 1125160727, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=coffee_and_tea"
+  ], 
   "wof:tags": [
     "coffee", 
     "tea", 
@@ -18,6 +26,6 @@
     "re", 
     "store"
   ], 
-  "wof:brand_name": "Barnie's Coffee & Tea Co", 
-  "wof:brand_id": 1125160727
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416300
 }

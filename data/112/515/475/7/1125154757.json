@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414507, 
+  "wof:brand_name": "House Master Of America", 
+  "wof:brand_id": 1125154757, 
+  "wof:categories": [
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate", 
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "services:professional=engineering", 
+    "services:professional=testing_lab", 
+    "services:professional=lawyer_and_legal_services"
+  ], 
   "wof:tags": [
     "inspection", 
     "building", 
@@ -10,6 +19,6 @@
     "attorney", 
     "establishment"
   ], 
-  "wof:brand_name": "House Master Of America", 
-  "wof:brand_id": 1125154757
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416272
 }

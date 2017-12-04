@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414467, 
+  "wof:brand_name": "Butternut Bread", 
+  "wof:brand_id": 1125158467, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:retail_goods=food_and_beverages", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:food_and_drink=bakery"
+  ], 
   "wof:tags": [
     "baker", 
     "product", 
@@ -9,6 +18,6 @@
     "bakery", 
     "retail"
   ], 
-  "wof:brand_name": "Butternut Bread", 
-  "wof:brand_id": 1125158467
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416239
 }

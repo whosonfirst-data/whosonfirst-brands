@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414531, 
+  "wof:brand_name": "Amvets", 
+  "wof:brand_id": 1125154595, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=community_association", 
+    "services:organizations=professional_association", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:organizations=membership_organization", 
+    "services:organizations=nonprofit_organization", 
+    "sg:retail_goods=shopping", 
+    "sg:entertainment=recreation", 
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:services=social_services", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:food_and_drink=restaurant", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "military", 
     "club", 
@@ -24,6 +40,6 @@
     "room", 
     "service/non-profit"
   ], 
-  "wof:brand_name": "Amvets", 
-  "wof:brand_id": 1125154595
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416291
 }

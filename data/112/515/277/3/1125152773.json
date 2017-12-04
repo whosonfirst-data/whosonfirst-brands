@@ -1,12 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414499, 
+  "wof:brand_name": "Clarks Shoes", 
+  "wof:brand_id": 1125152773, 
+  "wof:categories": [
+    "retail_goods:shopping=shoes", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "shop", 
     "store", 
     "manufacturer", 
     "shoes-wholesale"
   ], 
-  "wof:brand_name": "Clarks Shoes", 
-  "wof:brand_id": 1125152773
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416266
 }

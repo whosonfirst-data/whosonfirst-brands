@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414505, 
+  "wof:brand_name": "Mortgage Solutions", 
+  "wof:brand_id": 1125157915, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_services", 
+    "services:real_estate=real_estate_agent"
+  ], 
   "wof:tags": [
     "loan", 
     "real estate", 
@@ -11,6 +19,6 @@
     "insurance", 
     "security"
   ], 
-  "wof:brand_name": "Mortgage Solutions", 
-  "wof:brand_id": 1125157915
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416270
 }

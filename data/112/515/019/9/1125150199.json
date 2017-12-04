@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414477, 
+  "wof:brand_name": "Chicago Title", 
+  "wof:brand_id": 1125150199, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=title_insurance", 
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_services", 
+    "services:insurance=hazard_insurance", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=professional", 
+    "services:insurance=insurance_agent", 
+    "services:professional=research", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=banks_and_credit_unions", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:professional=business_services"
+  ], 
   "wof:tags": [
     "carrier", 
     "abstract", 
@@ -23,6 +38,6 @@
     "search", 
     "underwriter"
   ], 
-  "wof:brand_name": "Chicago Title", 
-  "wof:brand_id": 1125150199
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416248
 }

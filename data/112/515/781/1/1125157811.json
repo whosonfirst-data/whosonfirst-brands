@@ -1,6 +1,30 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414477, 
+  "wof:brand_name": "Colonial", 
+  "wof:brand_id": 1125157811, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=insurance", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "services:insurance=life_insurance", 
+    "sg:services=building_and_trades", 
+    "sg:services=real_estate", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:building_and_trades=equipment_rental", 
+    "services:building_and_trades=pest_control", 
+    "services:insurance=hazard_insurance", 
+    "services:professional=management_and_consulting", 
+    "services:real_estate=developer", 
+    "services:real_estate=real_estate_agent", 
+    "services:real_estate=real_estate_services", 
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=professional", 
+    "sg:transportation=taxi"
+  ], 
   "wof:tags": [
     "agent", 
     "alcoholic", 
@@ -18,6 +42,6 @@
     "resume", 
     "taxicab"
   ], 
-  "wof:brand_name": "Colonial", 
-  "wof:brand_id": 1125157811
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416247
 }

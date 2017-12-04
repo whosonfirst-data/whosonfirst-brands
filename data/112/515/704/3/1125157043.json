@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414514, 
+  "wof:brand_name": "Prosperity Bank", 
+  "wof:brand_id": 1125157043, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:organizations=professional_association", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=organizations", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "commercial", 
     "saving", 
@@ -14,6 +23,6 @@
     "savings", 
     "state"
   ], 
-  "wof:brand_name": "Prosperity Bank", 
-  "wof:brand_id": 1125157043
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416278
 }

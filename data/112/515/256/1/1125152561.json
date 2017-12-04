@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414474, 
+  "wof:brand_name": "Water Dept", 
+  "wof:brand_id": 1125152561, 
+  "wof:categories": [
+    "sg:services=utilities", 
+    "services:utilities=water", 
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "services:utilities=recycling", 
+    "services:utilities=refuse", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "services:professional=business_services", 
+    "services:retail=auto_repair", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "company", 
     "sewage", 
@@ -35,6 +49,6 @@
     "recycling", 
     "utility"
   ], 
-  "wof:brand_name": "Water Dept", 
-  "wof:brand_id": 1125152561
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416245
 }

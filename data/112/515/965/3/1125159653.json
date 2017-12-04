@@ -1,6 +1,42 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414526, 
+  "wof:brand_name": "Pioneer", 
+  "wof:brand_id": 1125159653, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=farm_supplies", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=professional", 
+    "services:professional=research", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "public_place:government=office", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:food_and_beverages=meat_and_fish", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "services:building_and_trades=construction", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:public_place=government", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:farming=nursery", 
+    "manufacturing_and_wholesale_goods:manufacturing=rubber_and_plastics", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "retail_goods:autos_and_motor_vehicles=recreational_vehicle_sales", 
+    "retail_goods:food_and_beverages=farmers_market", 
+    "retail_goods:home_and_garden=building_materials", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "services:health_services=clinic", 
+    "services:organizations=community_association", 
+    "services:professional=management_and_consulting", 
+    "services:professional=testing_lab", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:manufacturing_and_wholesale_goods=mining_and_drilling", 
+    "sg:services=health_services", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "seed", 
     "commercial", 
@@ -50,6 +86,6 @@
     "supplier", 
     "underwater"
   ], 
-  "wof:brand_name": "Pioneer", 
-  "wof:brand_id": 1125159653
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416286
 }

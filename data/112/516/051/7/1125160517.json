@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414552, 
+  "wof:brand_name": "Gateway Newstand", 
+  "wof:brand_id": 1125160517, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=news", 
+    "sg:services=communications", 
+    "sg:retail_goods=food_and_beverages", 
+    "services:communications=newspaper", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=tobacco", 
+    "services:communications=news_services", 
+    "retail_goods:food_and_beverages=candy", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "manufacturing_and_wholesale_goods:wholesale=tobacco_products", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:utilities=mobile_phone", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "dealer", 
     "magazine", 
@@ -19,6 +39,6 @@
     "store", 
     "wi-fi"
   ], 
-  "wof:brand_name": "Gateway Newstand", 
-  "wof:brand_id": 1125160517
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416307
 }

@@ -1,11 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414501, 
+  "wof:brand_name": "Angel Nails", 
+  "wof:brand_id": 1125151249, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "manicuring", 
     "shop", 
     "nail"
   ], 
-  "wof:brand_name": "Angel Nails", 
-  "wof:brand_id": 1125151249
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416267
 }

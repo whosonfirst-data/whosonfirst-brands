@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414481, 
+  "wof:brand_name": "Yankee Candle Co", 
+  "wof:brand_id": 1125150171, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=gifts_and_souvenirs"
+  ], 
   "wof:tags": [
     "candle", 
     "shop", 
@@ -9,6 +13,6 @@
     "specialty", 
     "flower"
   ], 
-  "wof:brand_name": "Yankee Candle Co", 
-  "wof:brand_id": 1125150171
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416251
 }

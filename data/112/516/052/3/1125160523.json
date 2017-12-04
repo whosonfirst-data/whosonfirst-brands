@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414545, 
+  "wof:brand_name": "Globus", 
+  "wof:brand_id": 1125160523, 
+  "wof:categories": [
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "services:building_and_trades=construction", 
+    "sg:food_and_drink=restaurant", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "asian", 
     "contractor", 
@@ -11,6 +20,6 @@
     "software", 
     "thai"
   ], 
-  "wof:brand_name": "Globus", 
-  "wof:brand_id": 1125160523
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416301
 }

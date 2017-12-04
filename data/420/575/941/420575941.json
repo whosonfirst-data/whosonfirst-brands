@@ -1,10 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414450, 
+  "wof:brand_name": "Saq", 
+  "wof:brand_id": 420575941, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:professional=management_and_consulting", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "store", 
     "environmental"
   ], 
-  "wof:brand_name": "Saq", 
-  "wof:brand_id": 420575941
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416226
 }

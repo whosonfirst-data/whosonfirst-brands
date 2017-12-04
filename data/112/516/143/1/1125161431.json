@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414545, 
+  "wof:brand_name": "Coffee Time", 
+  "wof:brand_id": 1125161431, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:food_and_drink=coffee_and_tea", 
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:food_and_drink=cafe", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional", 
+    "food_and_drink:juice_bar=none", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "manufacturing_and_wholesale_goods:wholesale=vending_machines", 
+    "services:professional=management_and_consulting", 
+    "sg:food_and_drink=juice_bar"
+  ], 
   "wof:tags": [
     "coffee", 
     "shop", 
@@ -16,6 +31,6 @@
     "snack-bars", 
     "supply"
   ], 
-  "wof:brand_name": "Coffee Time", 
-  "wof:brand_id": 1125161431
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416302
 }

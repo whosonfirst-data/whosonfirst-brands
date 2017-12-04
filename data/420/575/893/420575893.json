@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414445, 
+  "wof:brand_name": "Public Defender", 
+  "wof:brand_id": 420575893, 
+  "wof:categories": [
+    "sg:public_place=government", 
+    "public_place:government=court_house", 
+    "sg:services=professional", 
+    "services:professional=lawyer_and_legal_services", 
+    "sg:services=social_services", 
+    "public_place:government=office", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "counsel", 
     "state", 
@@ -26,6 +35,6 @@
     "prosecution", 
     "protection"
   ], 
-  "wof:brand_name": "Public Defender", 
-  "wof:brand_id": 420575893
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416222
 }

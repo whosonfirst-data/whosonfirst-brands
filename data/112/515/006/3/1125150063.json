@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414489, 
+  "wof:brand_name": "Axa Advisors", 
+  "wof:brand_id": 1125150063, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:insurance=hazard_insurance", 
+    "services:personal=hair_removal", 
+    "services:professional=business_services", 
+    "services:professional=lawyer_and_legal_services", 
+    "sg:services=personal", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:insurance=life_insurance", 
+    "services:professional=accounting_and_tax_preparation", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "consultant", 
     "financial", 
@@ -37,6 +55,6 @@
     "surety", 
     "trust"
   ], 
-  "wof:brand_name": "Axa Advisors", 
-  "wof:brand_id": 1125150063
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416257
 }

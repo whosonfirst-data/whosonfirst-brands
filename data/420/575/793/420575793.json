@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414448, 
+  "wof:brand_name": "Community Bank", 
+  "wof:brand_id": 420575793, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "commercial", 
     "saving", 
@@ -19,6 +27,6 @@
     "financial", 
     "holding"
   ], 
-  "wof:brand_name": "Community Bank", 
-  "wof:brand_id": 420575793
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416225
 }

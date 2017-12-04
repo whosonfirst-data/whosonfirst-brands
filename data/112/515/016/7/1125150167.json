@@ -1,6 +1,29 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414479, 
+  "wof:brand_name": "St Vincent De Paul Society", 
+  "wof:brand_id": 1125150167, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:services=organizations", 
+    "services:organizations=community_association", 
+    "retail_goods:shopping=used_merchandise", 
+    "sg:services=social_services", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "retail_goods:shopping=thrift_store", 
+    "services:organizations=religious_organization", 
+    "services:organizations=nonprofit_organization", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "services:organizations=membership_organization", 
+    "services:organizations=professional_association", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "services:social_services=adult_care", 
+    "services:utilities=recycling", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=retail", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "clothing", 
     "recycled", 
@@ -33,6 +56,6 @@
     "social", 
     "supply"
   ], 
-  "wof:brand_name": "St Vincent De Paul Society", 
-  "wof:brand_id": 1125150167
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416249
 }

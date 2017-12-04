@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414499, 
+  "wof:brand_name": "Allied Van Lines", 
+  "wof:brand_id": 1125156693, 
+  "wof:categories": [
+    "sg:transportation=freight", 
+    "sg:services=personal", 
+    "services:retail=event_space", 
+    "sg:services=professional", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "mover", 
     "trucking", 
@@ -18,6 +25,6 @@
     "furniture", 
     "hauling"
   ], 
-  "wof:brand_name": "Allied Van Lines", 
-  "wof:brand_id": 1125156693
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416266
 }

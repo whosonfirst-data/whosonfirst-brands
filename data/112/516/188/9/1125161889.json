@@ -1,7 +1,12 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414537, 
-  "wof:tags": [], 
   "wof:brand_name": "Lyonnaise De Banque", 
-  "wof:brand_id": 1125161889
+  "wof:brand_id": 1125161889, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416296
 }

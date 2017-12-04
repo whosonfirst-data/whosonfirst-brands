@@ -1,12 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414467, 
+  "wof:brand_name": "Fountain Tire", 
+  "wof:brand_id": 1125153149, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "manufacturing_and_wholesale_goods:manufacturing=rubber_and_plastics", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "repairing", 
     "automobile", 
     "tire", 
     "parts"
   ], 
-  "wof:brand_name": "Fountain Tire", 
-  "wof:brand_id": 1125153149
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416240
 }

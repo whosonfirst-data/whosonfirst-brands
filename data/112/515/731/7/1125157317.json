@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414473, 
+  "wof:brand_name": "Advanced Automotive", 
+  "wof:brand_id": 1125157317, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "public_place:government=office", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "services:retail=repair_shop", 
+    "sg:public_place=government", 
+    "sg:transportation=local_transit"
+  ], 
   "wof:tags": [
     "automobile", 
     "repairing", 
@@ -24,6 +35,6 @@
     "truck", 
     "tune"
   ], 
-  "wof:brand_name": "Advanced Automotive", 
-  "wof:brand_id": 1125157317
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416245
 }

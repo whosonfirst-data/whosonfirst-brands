@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414507, 
+  "wof:brand_name": "West Marine", 
+  "wof:brand_id": 1125150449, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=boat_sales", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping", 
+    "entertainment:recreation=boat_charter", 
+    "sg:entertainment=recreation", 
+    "sg:transportation=marine", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "sg:transportation=ferry"
+  ], 
   "wof:tags": [
     "equipment", 
     "supply", 
@@ -21,6 +33,6 @@
     "outdoor", 
     "transportation"
   ], 
-  "wof:brand_name": "West Marine", 
-  "wof:brand_id": 1125150449
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416271
 }

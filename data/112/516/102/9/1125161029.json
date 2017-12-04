@@ -1,9 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414549, 
+  "wof:brand_name": "Bierstube", 
+  "wof:brand_id": 1125161029, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "german"
   ], 
-  "wof:brand_name": "Bierstube", 
-  "wof:brand_id": 1125161029
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416305
 }

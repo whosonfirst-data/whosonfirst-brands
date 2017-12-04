@@ -1,6 +1,37 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414446, 
+  "wof:brand_name": "Airgas", 
+  "wof:brand_id": 420575629, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "manufacturing_and_wholesale_goods:wholesale=chemicals_and_plastics", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:wholesale=medical_equipment_and_supplies", 
+    "services:utilities=natural_gas", 
+    "sg:services=utilities", 
+    "food_and_drink:bars_and_pubs=oxygen_bar", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "retail_goods:shopping=pharmacy", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=food_and_beverages", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "sg:services=personal", 
+    "sg:services=professional", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "services:retail=repair_shop", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "manufacturing_and_wholesale_goods:wholesale=hardware", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:home_and_garden=hardware", 
+    "retail_goods:shopping=party_supplies", 
+    "services:professional=business_services", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "welding", 
     "industrial", 
@@ -91,6 +122,6 @@
     "wedding", 
     "western"
   ], 
-  "wof:brand_name": "Airgas", 
-  "wof:brand_id": 420575629
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416223
 }

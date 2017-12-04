@@ -1,10 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414497, 
+  "wof:brand_name": "US Internal Revenue Svc", 
+  "wof:brand_id": 1125151613, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "federal", 
     "taxation"
   ], 
-  "wof:brand_name": "US Internal Revenue Svc", 
-  "wof:brand_id": 1125151613
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416264
 }

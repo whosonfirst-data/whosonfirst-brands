@@ -1,12 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414516, 
+  "wof:brand_name": "Rally's Hamburgers Inc", 
+  "wof:brand_id": 1125156463, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=meat_and_fish", 
+    "sg:food_and_drink=fast_food", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "eating", 
     "burger", 
     "dog", 
     "hot"
   ], 
-  "wof:brand_name": "Rally's Hamburgers Inc", 
-  "wof:brand_id": 1125156463
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416279
 }

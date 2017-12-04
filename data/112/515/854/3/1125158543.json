@@ -1,6 +1,9 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414520, 
+  "wof:brand_name": "Ground Round", 
+  "wof:brand_id": 1125158543, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "eating", 
     "american", 
@@ -9,6 +12,6 @@
     "lounge", 
     "sandwich"
   ], 
-  "wof:brand_name": "Ground Round", 
-  "wof:brand_id": 1125158543
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416282
 }

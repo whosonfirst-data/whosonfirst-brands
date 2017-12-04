@@ -1,10 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414455, 
+  "wof:brand_name": "Abbey National Plc", 
+  "wof:brand_id": 420574583, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "services:insurance=health_insurance", 
+    "services:insurance=insurance_agent", 
+    "sg:services=insurance"
+  ], 
   "wof:tags": [
     "financial", 
     "institution"
   ], 
-  "wof:brand_name": "Abbey National Plc", 
-  "wof:brand_id": 420574583
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416230
 }

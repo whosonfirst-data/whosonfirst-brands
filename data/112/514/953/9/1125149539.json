@@ -1,10 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414556, 
+  "wof:brand_name": "US Forestry Dept", 
+  "wof:brand_id": 1125149539, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:manufacturing=lumber", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "entertainment:travel=campground", 
+    "sg:entertainment=travel"
+  ], 
   "wof:tags": [
     "government", 
     "forestry"
   ], 
-  "wof:brand_name": "US Forestry Dept", 
-  "wof:brand_id": 1125149539
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416310
 }

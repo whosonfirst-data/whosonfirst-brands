@@ -1,6 +1,28 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414559, 
+  "wof:brand_name": "Mary Kay", 
+  "wof:brand_id": 1125149995, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=drugs", 
+    "services:personal=beauty_salon", 
+    "sg:services=personal", 
+    "retail_goods:shopping=catalog_store", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "services:organizations=professional_association", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=organizations", 
+    "manufacturing_and_wholesale_goods:farming=livestock_farm", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:food_and_beverages=specialty", 
+    "services:social_services=child_care", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "merchandise", 
     "direct", 
@@ -38,6 +60,6 @@
     "sell", 
     "skin"
   ], 
-  "wof:brand_name": "Mary Kay", 
-  "wof:brand_id": 1125149995
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416313
 }

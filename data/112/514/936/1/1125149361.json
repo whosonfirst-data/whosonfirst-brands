@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414554, 
+  "wof:brand_name": "Chevron Food Mart", 
+  "wof:brand_id": 1125149361, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "manufacturing_and_wholesale_goods:wholesale=petroleum", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "oil", 
     "store", 
@@ -20,6 +29,6 @@
     "spirit", 
     "wine"
   ], 
-  "wof:brand_name": "Chevron Food Mart", 
-  "wof:brand_id": 1125149361
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416309
 }

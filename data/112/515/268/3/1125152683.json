@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414503, 
+  "wof:brand_name": "Telstra Shop", 
+  "wof:brand_id": 1125152683, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=mobile_phones", 
+    "services:utilities=telephone", 
+    "sg:services=utilities", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "retail_goods:shopping=stationery_and_office_supplies"
+  ], 
   "wof:tags": [
     "accessory", 
     "telephone", 
@@ -13,6 +21,6 @@
     "global", 
     "positioning"
   ], 
-  "wof:brand_name": "Telstra Shop", 
-  "wof:brand_id": 1125152683
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416268
 }

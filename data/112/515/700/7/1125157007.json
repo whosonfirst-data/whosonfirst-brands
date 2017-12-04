@@ -1,6 +1,30 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414483, 
+  "wof:brand_name": "Learning Tree", 
+  "wof:brand_id": 1125157007, 
+  "wof:categories": [
+    "services:social_services=child_care", 
+    "sg:services=social_services", 
+    "sg:public_place=education", 
+    "sg:retail_goods=shopping", 
+    "public_place:education=special_training", 
+    "public_place:education=school", 
+    "retail_goods:shopping=books", 
+    "sg:services=organizations", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "public_place:education=preschool", 
+    "public_place:education=vocational_school", 
+    "retail_goods:shopping=comic_books", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "services:organizations=nonprofit_organization", 
+    "services:organizations=political_organization", 
+    "services:professional=management_and_consulting", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=place_of_worship", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "day", 
     "school", 
@@ -26,6 +50,6 @@
     "training", 
     "tutoring"
   ], 
-  "wof:brand_name": "Learning Tree", 
-  "wof:brand_id": 1125157007
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416252
 }

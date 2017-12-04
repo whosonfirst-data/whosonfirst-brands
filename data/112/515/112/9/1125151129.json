@@ -1,12 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414496, 
+  "wof:brand_name": "Women's Royal Voluntary Service", 
+  "wof:brand_id": 1125151129, 
+  "wof:categories": [
+    "services:organizations=nonprofit_organization", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "charity", 
     "organisation", 
     "voluntary", 
     "charitable"
   ], 
-  "wof:brand_name": "Women's Royal Voluntary Service", 
-  "wof:brand_id": 1125151129
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416263
 }

@@ -1,6 +1,29 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414448, 
+  "wof:brand_name": "Amway Distributors", 
+  "wof:brand_id": 420575025, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=chemicals_and_plastics", 
+    "services:professional=advertising", 
+    "services:professional=business_services", 
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:retail_goods=food_and_beverages", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "manufacturing_and_wholesale_goods:wholesale=hardware", 
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:wholesale=metals_and_minerals", 
+    "retail_goods:shopping=catalog_store", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "sg:services=personal", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "demonstration", 
     "home", 
@@ -49,6 +72,6 @@
     "warehouse", 
     "wheat"
   ], 
-  "wof:brand_name": "Amway Distributors", 
-  "wof:brand_id": 420575025
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416225
 }

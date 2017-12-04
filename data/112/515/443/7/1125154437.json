@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414495, 
+  "wof:brand_name": "Jerry's Subs & Pizza", 
+  "wof:brand_id": 1125154437, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "pizza", 
     "sandwich", 
@@ -12,6 +17,6 @@
     "wrap", 
     "seafood"
   ], 
-  "wof:brand_name": "Jerry's Subs & Pizza", 
-  "wof:brand_id": 1125154437
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416262
 }

@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414531, 
+  "wof:brand_name": "American Greetings", 
+  "wof:brand_id": 1125155093, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "manufacturing_and_wholesale_goods:manufacturing=paper_products", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "sg:public_place=shopping_center"
+  ], 
   "wof:tags": [
     "greeting", 
     "cards", 
@@ -19,6 +32,6 @@
     "novelty", 
     "paper"
   ], 
-  "wof:brand_name": "American Greetings", 
-  "wof:brand_id": 1125155093
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416290
 }

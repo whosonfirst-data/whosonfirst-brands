@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414448, 
+  "wof:brand_name": "KB Home", 
+  "wof:brand_id": 420575797, 
+  "wof:categories": [
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:manufacturing=buildings", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=home_and_garden", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "builder", 
     "home", 
@@ -10,6 +20,6 @@
     "general", 
     "house"
   ], 
-  "wof:brand_name": "KB Home", 
-  "wof:brand_id": 420575797
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416225
 }

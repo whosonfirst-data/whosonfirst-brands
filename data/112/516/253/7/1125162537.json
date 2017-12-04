@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414544, 
+  "wof:brand_name": "Belle Tire", 
+  "wof:brand_id": 1125162537, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "services:retail=auto_repair", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "tire", 
     "brake", 
@@ -8,6 +14,6 @@
     "automobile", 
     "wheel"
   ], 
-  "wof:brand_name": "Belle Tire", 
-  "wof:brand_id": 1125162537
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416301
 }

@@ -1,10 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414483, 
+  "wof:brand_name": "Jamin", 
+  "wof:brand_id": 1125156099, 
+  "wof:categories": [
+    "sg:food_and_drink=bakery"
+  ], 
   "wof:tags": [
     "banket", 
     "brood"
   ], 
-  "wof:brand_name": "Jamin", 
-  "wof:brand_id": 1125156099
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416253
 }

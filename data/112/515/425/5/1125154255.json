@@ -1,11 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414504, 
+  "wof:brand_name": "Taco Mayo", 
+  "wof:brand_id": 1125154255, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food"
+  ], 
   "wof:tags": [
     "mexican", 
     "eating", 
     "take"
   ], 
-  "wof:brand_name": "Taco Mayo", 
-  "wof:brand_id": 1125154255
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416269
 }

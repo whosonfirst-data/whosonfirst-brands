@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414487, 
+  "wof:brand_name": "Curl Up & Dye", 
+  "wof:brand_id": 1125154627, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "services:personal=nail_salon", 
+    "services:personal=massage", 
+    "services:personal=tanning_parlor", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "hairdresser", 
     "shop", 
@@ -9,6 +18,6 @@
     "establishment", 
     "manicuring"
   ], 
-  "wof:brand_name": "Curl Up & Dye", 
-  "wof:brand_id": 1125154627
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416255
 }

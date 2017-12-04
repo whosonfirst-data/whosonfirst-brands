@@ -1,6 +1,18 @@
 {
   "wof:brand_name": "Guess", 
   "wof:brand_id": 1125156405, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=department_store", 
+    "entertainment:sports_and_exercise=bicycle_rental", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=shopping_center", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=shoes"
+  ], 
   "wof:tags": [
     "clothing", 
     "women's", 
@@ -23,6 +35,6 @@
     1125155251
   ], 
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414485, 
+  "wof:lastmodified": 1512416254, 
   "mz:is_current": 1
 }

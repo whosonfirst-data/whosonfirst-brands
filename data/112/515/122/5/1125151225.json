@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414501, 
+  "wof:brand_name": "Just Tires", 
+  "wof:brand_id": 1125151225, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "services:utilities=recycling", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "tire", 
     "recap", 
@@ -20,6 +32,6 @@
     "metalworking", 
     "part"
   ], 
-  "wof:brand_name": "Just Tires", 
-  "wof:brand_id": 1125151225
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416267
 }

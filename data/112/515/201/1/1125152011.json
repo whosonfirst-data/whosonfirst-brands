@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414510, 
+  "wof:brand_name": "St John Ambulance", 
+  "wof:brand_id": 1125152011, 
+  "wof:categories": [
+    "public_place:education=special_training", 
+    "sg:public_place=education", 
+    "sg:services=organizations", 
+    "sg:services=health_services", 
+    "services:health_services=clinic", 
+    "services:organizations=nonprofit_organization", 
+    "services:organizations=professional_association", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional", 
+    "services:health_services=hospital", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=pharmacy", 
+    "retail_goods:shopping=thrift_store", 
+    "services:real_estate=surveying", 
+    "sg:services=real_estate", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "aid", 
     "first", 
@@ -21,6 +39,6 @@
     "surveyor", 
     "welfare"
   ], 
-  "wof:brand_name": "St John Ambulance", 
-  "wof:brand_id": 1125152011
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416274
 }

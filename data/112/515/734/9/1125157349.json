@@ -1,12 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414519, 
+  "wof:brand_name": "CHI-Chis", 
+  "wof:brand_id": 1125157349, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "eating", 
     "mexican", 
     "drinking", 
     "personal"
   ], 
-  "wof:brand_name": "CHI-Chis", 
-  "wof:brand_id": 1125157349
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416281
 }

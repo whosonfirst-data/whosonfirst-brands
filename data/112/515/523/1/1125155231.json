@@ -1,10 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414516, 
+  "wof:brand_name": "CPL British Fuels", 
+  "wof:brand_id": 1125155231, 
+  "wof:categories": [
+    "services:utilities=fuel_oil_and_lpg", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "coal", 
     "smokeless"
   ], 
-  "wof:brand_name": "CPL British Fuels", 
-  "wof:brand_id": 1125155231
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416279
 }

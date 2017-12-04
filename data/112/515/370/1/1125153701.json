@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414473, 
+  "wof:brand_name": "Kwik - Fill", 
+  "wof:brand_id": 1125153701, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=specialty", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "sg:transportation=airline"
+  ], 
   "wof:tags": [
     "gasoline", 
     "station", 
@@ -11,6 +20,6 @@
     "chartered", 
     "super"
   ], 
-  "wof:brand_name": "Kwik - Fill", 
-  "wof:brand_id": 1125153701
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416244
 }

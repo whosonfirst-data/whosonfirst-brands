@@ -1,12 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414558, 
+  "wof:brand_name": "Fashion Nails", 
+  "wof:brand_id": 1125149767, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon", 
+    "services:personal=hair_removal"
+  ], 
   "wof:tags": [
     "manicuring", 
     "shop", 
     "nail", 
     "school"
   ], 
-  "wof:brand_name": "Fashion Nails", 
-  "wof:brand_id": 1125149767
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416312
 }

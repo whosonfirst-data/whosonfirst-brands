@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414553, 
+  "wof:brand_name": "Yellow Transportation Inc", 
+  "wof:brand_id": 1125149831, 
+  "wof:categories": [
+    "sg:transportation=freight", 
+    "sg:transportation=local_transit", 
+    "sg:transportation=taxi"
+  ], 
   "wof:tags": [
     "trucking", 
     "carrier", 
@@ -22,6 +27,6 @@
     "passenger", 
     "taxicab"
   ], 
-  "wof:brand_name": "Yellow Transportation Inc", 
-  "wof:brand_id": 1125149831
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416309
 }

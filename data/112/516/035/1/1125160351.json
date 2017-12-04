@@ -1,12 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414545, 
+  "wof:brand_name": "The Nags Head", 
+  "wof:brand_id": 1125160351, 
+  "wof:categories": [
+    "sg:food_and_drink=bars_and_pubs", 
+    "public_place:community_center=social", 
+    "sg:food_and_drink=restaurant", 
+    "sg:public_place=community_center"
+  ], 
   "wof:tags": [
     "inn", 
     "pubs", 
     "activity", 
     "house"
   ], 
-  "wof:brand_name": "The Nags Head", 
-  "wof:brand_id": 1125160351
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416301
 }

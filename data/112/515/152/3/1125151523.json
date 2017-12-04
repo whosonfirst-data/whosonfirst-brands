@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414534, 
+  "wof:brand_name": "Tax Collector", 
+  "wof:brand_id": 1125151523, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:services=professional", 
+    "services:professional=accounting_and_tax_preparation", 
+    "public_place:government=city_hall", 
+    "services:professional=business_services"
+  ], 
   "wof:tags": [
     "taxation", 
     "city", 
@@ -28,6 +36,6 @@
     "transportation", 
     "village"
   ], 
-  "wof:brand_name": "Tax Collector", 
-  "wof:brand_id": 1125151523
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416293
 }

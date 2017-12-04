@@ -1,6 +1,27 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414541, 
+  "wof:brand_name": "Crystal Clean", 
+  "wof:brand_id": 1125162209, 
+  "wof:categories": [
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "sg:services=building_and_trades", 
+    "sg:services=retail", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "services:retail=repair_shop", 
+    "retail_goods:home_and_garden=carpets_and_floor_coverings", 
+    "sg:retail_goods=home_and_garden", 
+    "manufacturing_and_wholesale_goods:manufacturing=electronics", 
+    "manufacturing_and_wholesale_goods:wholesale=hardware", 
+    "public_place:military_area=air_force_base", 
+    "services:professional=employment_agencies", 
+    "services:retail=auto_repair", 
+    "services:retail=car_wash", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=military_area", 
+    "sg:services=professional", 
+    "sg:transportation=freight", 
+    "sg:transportation=parking"
+  ], 
   "wof:tags": [
     "janitor", 
     "carpet", 
@@ -28,6 +49,6 @@
     "valet", 
     "waste"
   ], 
-  "wof:brand_name": "Crystal Clean", 
-  "wof:brand_id": 1125162209
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416299
 }

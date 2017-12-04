@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414536, 
+  "wof:brand_name": "Liberty Mutual Insurance", 
+  "wof:brand_id": 1125150247, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:insurance=hazard_insurance", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "consultant", 
     "business", 
@@ -8,6 +15,6 @@
     "funds", 
     "mutual"
   ], 
-  "wof:brand_name": "Liberty Mutual Insurance", 
-  "wof:brand_id": 1125150247
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416294
 }

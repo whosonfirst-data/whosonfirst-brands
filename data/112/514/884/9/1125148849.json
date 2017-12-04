@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414559, 
+  "wof:brand_name": "CiCi's Pizza Buffet", 
+  "wof:brand_id": 1125148849, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food"
+  ], 
   "wof:tags": [
     "pizza", 
     "american", 
@@ -10,6 +14,6 @@
     "italian", 
     "style"
   ], 
-  "wof:brand_name": "CiCi's Pizza Buffet", 
-  "wof:brand_id": 1125148849
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416313
 }

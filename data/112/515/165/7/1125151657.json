@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414491, 
+  "wof:brand_name": "Marks & Spencer Plc", 
+  "wof:brand_id": 1125151657, 
+  "wof:categories": [
+    "retail_goods:shopping=department_store", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "departmental"
   ], 
-  "wof:brand_name": "Marks & Spencer Plc", 
-  "wof:brand_id": 1125151657
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416258
 }

@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414478, 
+  "wof:brand_name": "Urology Associates", 
+  "wof:brand_id": 1125157291, 
+  "wof:categories": [
+    "services:health_services=doctor", 
+    "sg:services=health_services", 
+    "services:health_services=clinic", 
+    "sg:public_place=community_center"
+  ], 
   "wof:tags": [
     "physician", 
     "surgeon", 
@@ -13,6 +19,6 @@
     "pediatrics", 
     "surgery-general"
   ], 
-  "wof:brand_name": "Urology Associates", 
-  "wof:brand_id": 1125157291
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416248
 }

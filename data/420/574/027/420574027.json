@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414463, 
+  "wof:brand_name": "American Express Financial Adv", 
+  "wof:brand_id": 420574027, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "services:banks_and_credit_unions=bank", 
+    "services:professional=business_services", 
+    "sg:services=personal", 
+    "services:insurance=insurance_agent", 
+    "services:personal=hair_removal", 
+    "sg:services=insurance"
+  ], 
   "wof:tags": [
     "financial", 
     "consultant", 
@@ -17,6 +29,6 @@
     "personal", 
     "plan"
   ], 
-  "wof:brand_name": "American Express Financial Adv", 
-  "wof:brand_id": 420574027
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416236
 }

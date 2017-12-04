@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414455, 
+  "wof:brand_name": "Terminix International Co", 
+  "wof:brand_id": 420574895, 
+  "wof:categories": [
+    "services:building_and_trades=pest_control", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "mothproofing", 
     "industrial", 
@@ -8,6 +12,6 @@
     "services-commercial", 
     "store"
   ], 
-  "wof:brand_name": "Terminix International Co", 
-  "wof:brand_id": 420574895
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416230
 }

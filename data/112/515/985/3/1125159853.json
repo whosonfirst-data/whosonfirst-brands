@@ -1,12 +1,19 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414494, 
+  "wof:brand_name": "Erie Insurance", 
+  "wof:brand_id": 1125159853, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=hazard_insurance", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "business", 
     "commercial", 
     "adjuster", 
     "equipment"
   ], 
-  "wof:brand_name": "Erie Insurance", 
-  "wof:brand_id": 1125159853
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416262
 }

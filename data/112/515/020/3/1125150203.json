@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414470, 
+  "wof:brand_name": "Dollarama", 
+  "wof:brand_id": 1125150203, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=used_merchandise", 
+    "retail_goods:shopping=gifts_and_souvenirs"
+  ], 
   "wof:tags": [
     "shop", 
     "merchandise", 
@@ -10,6 +17,6 @@
     "store", 
     "variety"
   ], 
-  "wof:brand_name": "Dollarama", 
-  "wof:brand_id": 1125150203
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416242
 }

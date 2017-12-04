@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414452, 
+  "wof:brand_name": "Hair Studio", 
+  "wof:brand_id": 420575491, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "services:personal=nail_salon", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:personal=piercing", 
+    "services:personal=tanning_parlor", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
@@ -13,6 +23,6 @@
     "tanning", 
     "treatment"
   ], 
-  "wof:brand_name": "Hair Studio", 
-  "wof:brand_id": 420575491
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416227
 }

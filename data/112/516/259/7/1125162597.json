@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414542, 
+  "wof:brand_name": "Colliers International", 
+  "wof:brand_id": 1125162597, 
+  "wof:categories": [
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_agent", 
+    "services:real_estate=real_estate_services", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:real_estate=developer", 
+    "services:real_estate=real_estate_operator", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "management", 
     "broker", 
@@ -17,6 +26,6 @@
     "industrial", 
     "investing"
   ], 
-  "wof:brand_name": "Colliers International", 
-  "wof:brand_id": 1125162597
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416299
 }

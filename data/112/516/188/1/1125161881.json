@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414537, 
+  "wof:brand_name": "L A Weight Loss", 
+  "wof:brand_id": 1125161881, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:health_services=clinic", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "control", 
     "weight", 
@@ -14,6 +19,6 @@
     "specialty", 
     "wellness"
   ], 
-  "wof:brand_name": "L A Weight Loss", 
-  "wof:brand_id": 1125161881
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416296
 }

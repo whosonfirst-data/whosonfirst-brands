@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414490, 
+  "wof:brand_name": "Games Workshop", 
+  "wof:brand_id": 1125157393, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "retail_goods:shopping=crafts_and_fabrics", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "manufacturing_and_wholesale_goods:wholesale=toys_and_hobbies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "supply", 
     "shop", 
@@ -14,6 +22,6 @@
     "computer", 
     "rental"
   ], 
-  "wof:brand_name": "Games Workshop", 
-  "wof:brand_id": 1125157393
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416258
 }

@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414545, 
+  "wof:brand_name": "Straw Hat Pizza", 
+  "wof:brand_id": 1125161619, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:services=professional", 
+    "retail_goods:food_and_beverages=bakery", 
+    "services:retail=event_space", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "pizza", 
     "american", 
@@ -16,6 +24,6 @@
     "reception", 
     "sandwich"
   ], 
-  "wof:brand_name": "Straw Hat Pizza", 
-  "wof:brand_id": 1125161619
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416301
 }

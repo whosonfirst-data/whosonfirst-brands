@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414539, 
+  "wof:brand_name": "Tuneup Masters", 
+  "wof:brand_id": 1125162843, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "automobile", 
     "repairing", 
@@ -10,6 +18,6 @@
     "diagnostic", 
     "tune"
   ], 
-  "wof:brand_name": "Tuneup Masters", 
-  "wof:brand_id": 1125162843
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416297
 }

@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414532, 
+  "wof:brand_name": "Labcorp", 
+  "wof:brand_id": 1125153881, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "sg:services=health_services", 
+    "services:health_services=medical_lab", 
+    "services:health_services=clinic", 
+    "services:professional=research", 
+    "services:professional=testing_lab", 
+    "services:health_services=doctor", 
+    "sg:public_place=community_center", 
+    "services:health_services=hospital", 
+    "services:professional=employment_agencies", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "laboratory", 
     "establishment", 
@@ -14,6 +27,6 @@
     "local", 
     "plan"
   ], 
-  "wof:brand_name": "Labcorp", 
-  "wof:brand_id": 1125153881
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416292
 }

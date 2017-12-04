@@ -1,6 +1,29 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414476, 
+  "wof:brand_name": "Otis Elevator Company", 
+  "wof:brand_id": 1125151231, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "services:retail=repair_shop", 
+    "sg:services=retail", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=construction_materials", 
+    "services:professional=engineering", 
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "services:professional=management_and_consulting", 
+    "manufacturing_and_wholesale_goods:wholesale=farm_supplies", 
+    "manufacturing_and_wholesale_goods:wholesale=office_equipment", 
+    "retail_goods:autos_and_motor_vehicles=boat_sales", 
+    "services:real_estate=real_estate_operator", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:retail_goods=shopping", 
+    "sg:services=real_estate", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "elevator", 
     "equipment", 
@@ -39,6 +62,6 @@
     "se", 
     "stairway"
   ], 
-  "wof:brand_name": "Otis Elevator Company", 
-  "wof:brand_id": 1125151231
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416246
 }

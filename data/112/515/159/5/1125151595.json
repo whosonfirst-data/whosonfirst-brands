@@ -1,12 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414473, 
+  "wof:brand_name": "Hair Hut", 
+  "wof:brand_id": 1125151595, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "services:personal=nail_salon"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
     "stylist", 
     "hairdresser"
   ], 
-  "wof:brand_name": "Hair Hut", 
-  "wof:brand_id": 1125151595
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416244
 }

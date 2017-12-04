@@ -1,6 +1,42 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414457, 
+  "wof:brand_name": "Marshalls", 
+  "wof:brand_id": 420574525, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=professional", 
+    "sg:services=retail", 
+    "sg:transportation=freight", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "services:retail=auto_repair", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=building_and_trades", 
+    "sg:services=personal", 
+    "entertainment:recreation=marina", 
+    "manufacturing_and_wholesale_goods:wholesale=fruits_and_vegetables", 
+    "retail_goods:food_and_beverages=fruits_and_vegetables", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "retail_goods:home_and_garden=hardware", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:shopping=florist", 
+    "retail_goods:shopping=shoes", 
+    "retail_goods:shopping=tobacco", 
+    "services:building_and_trades=landscaping_services", 
+    "services:building_and_trades=plumbing", 
+    "services:personal=barber", 
+    "services:personal=beauty_salon", 
+    "services:professional=business_services", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:entertainment=recreation", 
+    "sg:food_and_drink=restaurant", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "clothing", 
     "discount", 
@@ -28,6 +64,6 @@
     "supply", 
     "warehouse"
   ], 
-  "wof:brand_name": "Marshalls", 
-  "wof:brand_id": 420574525
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416232
 }

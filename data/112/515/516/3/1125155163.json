@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414512, 
+  "wof:brand_name": "Maurices", 
+  "wof:brand_id": 1125155163, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:personal=beauty_salon", 
+    "sg:services=personal", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "women's", 
     "apparel", 
@@ -14,6 +21,6 @@
     "shop", 
     "wear"
   ], 
-  "wof:brand_name": "Maurices", 
-  "wof:brand_id": 1125155163
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416276
 }

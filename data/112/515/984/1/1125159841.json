@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414477, 
+  "wof:brand_name": "Corner Bakery Cafe", 
+  "wof:brand_id": 1125159841, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=bakery", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:food_and_drink=coffee_and_tea", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "services:utilities=mobile_phone", 
+    "sg:services=utilities", 
+    "sg:services=professional", 
+    "sg:food_and_drink=deli", 
+    "retail_goods:food_and_beverages=candy", 
+    "food_and_drink:bagels=none", 
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:food_and_drink=bagels", 
+    "sg:food_and_drink=fast_food"
+  ], 
   "wof:tags": [
     "sandwich", 
     "american", 
@@ -17,6 +34,6 @@
     "new", 
     "traditional"
   ], 
-  "wof:brand_name": "Corner Bakery Cafe", 
-  "wof:brand_id": 1125159841
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416247
 }

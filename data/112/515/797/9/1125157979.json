@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414505, 
+  "wof:brand_name": "Suncorp", 
+  "wof:brand_id": 1125157979, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=hazard_insurance", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:insurance=life_insurance"
+  ], 
   "wof:tags": [
     "motor", 
     "vehicle", 
@@ -12,6 +20,6 @@
     "rollover", 
     "superannuation"
   ], 
-  "wof:brand_name": "Suncorp", 
-  "wof:brand_id": 1125157979
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416271
 }

@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414530, 
+  "wof:brand_name": "Hewden Hire Centres", 
+  "wof:brand_id": 1125153699, 
+  "wof:categories": [
+    "services:building_and_trades=equipment_rental", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "centre", 
     "hire", 
@@ -8,6 +12,6 @@
     "machinery", 
     "tool"
   ], 
-  "wof:brand_name": "Hewden Hire Centres", 
-  "wof:brand_id": 1125153699
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416290
 }

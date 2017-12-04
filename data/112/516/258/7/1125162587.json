@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414543, 
+  "wof:brand_name": "Classic Catering", 
+  "wof:brand_id": 1125162587, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:home_and_garden=kitchen_supply", 
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "services:organizations=religious_organization", 
+    "services:professional=management_and_consulting", 
+    "sg:entertainment=recreation", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=building_and_trades", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "caterer", 
     "eating", 
@@ -17,6 +33,6 @@
     "personal", 
     "rooms"
   ], 
-  "wof:brand_name": "Classic Catering", 
-  "wof:brand_id": 1125162587
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416300
 }

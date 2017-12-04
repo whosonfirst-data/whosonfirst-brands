@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414523, 
+  "wof:brand_name": "Noble Roman's", 
+  "wof:brand_id": 1125152159, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:food_and_drink=deli", 
+    "sg:food_and_drink=ice_cream", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "pizza", 
     "sandwich", 
@@ -15,6 +23,6 @@
     "shop", 
     "style"
   ], 
-  "wof:brand_name": "Noble Roman's", 
-  "wof:brand_id": 1125152159
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416285
 }

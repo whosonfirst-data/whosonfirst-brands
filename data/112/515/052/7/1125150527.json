@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414497, 
+  "wof:brand_name": "Roly Poly Sandwiches", 
+  "wof:brand_id": 1125150527, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=deli", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=bakery", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores"
+  ], 
   "wof:tags": [
     "sandwich", 
     "american", 
@@ -11,6 +18,6 @@
     "soup", 
     "traditional"
   ], 
-  "wof:brand_name": "Roly Poly Sandwiches", 
-  "wof:brand_id": 1125150527
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416265
 }

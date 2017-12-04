@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414456, 
+  "wof:brand_name": "Safelite Auto Glass", 
+  "wof:brand_id": 420574919, 
+  "wof:categories": [
+    "retail_goods:home_and_garden=building_materials", 
+    "sg:retail_goods=home_and_garden", 
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "manufacturing_and_wholesale_goods:manufacturing=glass_and_minerals", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales"
+  ], 
   "wof:tags": [
     "glass", 
     "plate", 
@@ -20,6 +31,6 @@
     "provides", 
     "repair"
   ], 
-  "wof:brand_name": "Safelite Auto Glass", 
-  "wof:brand_id": 420574919
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416231
 }

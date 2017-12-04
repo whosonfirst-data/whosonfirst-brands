@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414511, 
+  "wof:brand_name": "Allied Cash Advance", 
+  "wof:brand_id": 1125151161, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "cashing", 
     "check", 
@@ -14,6 +20,6 @@
     "personal", 
     "se"
   ], 
-  "wof:brand_name": "Allied Cash Advance", 
-  "wof:brand_id": 1125151161
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416275
 }

@@ -1,6 +1,27 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414473, 
+  "wof:brand_name": "Mac's", 
+  "wof:brand_id": 1125153705, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:food_and_drink=restaurant", 
+    "sg:services=retail", 
+    "sg:retail_goods=shopping", 
+    "public_place:military_area=air_force_base", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "retail_goods:food_and_beverages=candy", 
+    "retail_goods:food_and_beverages=fruits_and_vegetables", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "retail_goods:shopping=news", 
+    "services:retail=auto_repair", 
+    "services:retail=car_wash", 
+    "services:retail=driving_school", 
+    "services:retail=repair_shop", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:food_and_drink=deli", 
+    "sg:public_place=military_area", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "american", 
     "grocer", 
@@ -16,6 +37,6 @@
     "washing", 
     "welding"
   ], 
-  "wof:brand_name": "Mac's", 
-  "wof:brand_id": 1125153705
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416244
 }

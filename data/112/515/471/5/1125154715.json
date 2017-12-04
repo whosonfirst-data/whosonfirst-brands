@@ -1,6 +1,28 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414474, 
+  "wof:brand_name": "Champs", 
+  "wof:brand_id": 1125154715, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "retail_goods:shopping=shoes", 
+    "entertainment:sports_and_exercise=bicycle_rental", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "food_and_drink:bars_and_pubs=lounge", 
+    "retail_goods:shopping=tobacco", 
+    "services:insurance=hazard_insurance", 
+    "services:organizations=nonprofit_organization", 
+    "services:personal=beauty_salon", 
+    "services:social_services=child_care", 
+    "services:utilities=mobile_phone", 
+    "sg:services=insurance", 
+    "sg:services=organizations", 
+    "sg:services=personal", 
+    "sg:services=social_services", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "store", 
     "wear", 
@@ -22,6 +44,6 @@
     "trophy", 
     "wi-fi"
   ], 
-  "wof:brand_name": "Champs", 
-  "wof:brand_id": 1125154715
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416245
 }

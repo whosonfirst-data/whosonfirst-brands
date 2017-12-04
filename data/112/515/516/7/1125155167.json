@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414512, 
+  "wof:brand_name": "Moben Kitchens", 
+  "wof:brand_id": 1125155167, 
+  "wof:categories": [
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "manufacturing_and_wholesale_goods:manufacturing=wood_products", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "public_place:education=music_school", 
+    "retail_goods:home_and_garden=building_materials", 
+    "sg:public_place=education", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:home_and_garden=kitchen_supply"
+  ], 
   "wof:tags": [
     "furnishers", 
     "kitchen", 
@@ -11,6 +22,6 @@
     "conservatory", 
     "ware"
   ], 
-  "wof:brand_name": "Moben Kitchens", 
-  "wof:brand_id": 1125155167
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416276
 }

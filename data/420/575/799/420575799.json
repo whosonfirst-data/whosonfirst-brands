@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414444, 
+  "wof:brand_name": "Kelly Services Inc", 
+  "wof:brand_id": 420575799, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=employment_agencies", 
+    "services:professional=secretarial_services", 
+    "services:professional=management_and_consulting"
+  ], 
   "wof:tags": [
     "help", 
     "contractor", 
@@ -14,6 +20,6 @@
     "temp", 
     "word"
   ], 
-  "wof:brand_name": "Kelly Services Inc", 
-  "wof:brand_id": 420575799
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416222
 }

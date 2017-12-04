@@ -1,6 +1,38 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414554, 
+  "wof:brand_name": "Time Warner", 
+  "wof:brand_id": 1125149891, 
+  "wof:categories": [
+    "sg:services=utilities", 
+    "services:utilities=cable", 
+    "sg:services=communications", 
+    "sg:services=professional", 
+    "services:communications=television_station", 
+    "services:professional=advertising", 
+    "services:communications=film_and_video_production", 
+    "services:professional=business_services", 
+    "services:professional=computer_services", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "sg:transportation=freight", 
+    "services:professional=management_and_consulting", 
+    "services:utilities=telephone", 
+    "services:communications=radio_station", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:manufacturing=electronics", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "public_place:government=office", 
+    "retail_goods:shopping=news", 
+    "services:building_and_trades=construction", 
+    "services:building_and_trades=electrical", 
+    "services:health_services=clinic", 
+    "services:organizations=labor_organization", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=government", 
+    "sg:retail_goods=shopping", 
+    "sg:services=health_services", 
+    "sg:services=organizations", 
+    "sg:transportation=railroad"
+  ], 
   "wof:tags": [
     "television", 
     "cable", 
@@ -84,6 +116,6 @@
     "warehouse", 
     "web"
   ], 
-  "wof:brand_name": "Time Warner", 
-  "wof:brand_id": 1125149891
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416309
 }

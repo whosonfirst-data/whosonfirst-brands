@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414456, 
+  "wof:brand_name": "US Social Security Adm", 
+  "wof:brand_id": 420574747, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "services:organizations=professional_association", 
+    "sg:services=organizations", 
+    "services:professional=lawyer_and_legal_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "federal", 
     "human", 
@@ -9,6 +17,6 @@
     "security", 
     "social"
   ], 
-  "wof:brand_name": "US Social Security Adm", 
-  "wof:brand_id": 420574747
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416231
 }

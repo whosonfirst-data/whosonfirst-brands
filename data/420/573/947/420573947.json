@@ -1,6 +1,35 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414454, 
+  "wof:brand_name": "Masonic Lodge", 
+  "wof:brand_id": 420573947, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=community_association", 
+    "services:organizations=professional_association", 
+    "services:organizations=membership_organization", 
+    "sg:entertainment=recreation", 
+    "services:organizations=nonprofit_organization", 
+    "sg:services=professional", 
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel", 
+    "public_place:education=college", 
+    "services:professional=employment_agencies", 
+    "sg:public_place=education", 
+    "sg:services=social_services", 
+    "services:organizations=religious_organization", 
+    "sg:retail_goods=shopping", 
+    "entertainment:arena=sports_club", 
+    "public_place:place_of_worship=temple", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=business_services", 
+    "services:professional=research", 
+    "sg:entertainment=arena", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:public_place=place_of_worship", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "fraternal", 
     "club", 
@@ -43,6 +72,6 @@
     "trust", 
     "wedding"
   ], 
-  "wof:brand_name": "Masonic Lodge", 
-  "wof:brand_id": 420573947
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416229
 }

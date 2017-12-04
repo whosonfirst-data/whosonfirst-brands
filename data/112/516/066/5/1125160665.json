@@ -1,6 +1,34 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414550, 
+  "wof:brand_name": "Somewhere In Time", 
+  "wof:brand_id": 1125160665, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=used_merchandise", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=antiques", 
+    "entertainment:travel=hotels_and_motels", 
+    "retail_goods:shopping=florist", 
+    "sg:entertainment=travel", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "entertainment:recreation=amusement_park", 
+    "manufacturing_and_wholesale_goods:wholesale=books_periodicals_and_newspapers", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "retail_goods:food_and_beverages=bakery", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=crafts_and_fabrics", 
+    "services:professional=business_services", 
+    "services:real_estate=real_estate_agent", 
+    "sg:entertainment=recreation", 
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=professional", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "drinking", 
     "antique", 
@@ -23,6 +51,6 @@
     "vintage", 
     "yarn"
   ], 
-  "wof:brand_name": "Somewhere In Time", 
-  "wof:brand_id": 1125160665
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416306
 }

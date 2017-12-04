@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414525, 
+  "wof:brand_name": "SAS Shoe Store", 
+  "wof:brand_id": 1125158179, 
+  "wof:categories": [
+    "retail_goods:shopping=shoes", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "store"
   ], 
-  "wof:brand_name": "SAS Shoe Store", 
-  "wof:brand_id": 1125158179
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416286
 }

@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414462, 
+  "wof:brand_name": "Longs Drug", 
+  "wof:brand_id": 420574975, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=pharmacy", 
+    "services:retail=photofinishing", 
+    "sg:services=retail", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=music", 
+    "services:professional=advertising", 
+    "sg:services=professional", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:personal=beauty_salon", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "cosmetic", 
     "perfume", 
@@ -22,6 +37,6 @@
     "merchandise", 
     "shop"
   ], 
-  "wof:brand_name": "Longs Drug", 
-  "wof:brand_id": 420574975
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416235
 }

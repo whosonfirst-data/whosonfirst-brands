@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414510, 
+  "wof:brand_name": "Oral & Maxillofacial Surgery", 
+  "wof:brand_id": 1125155041, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=doctor", 
+    "services:health_services=dentist", 
+    "services:real_estate=real_estate_operator", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "dentist", 
     "physician", 
@@ -11,6 +18,6 @@
     "medical", 
     "nonresidential"
   ], 
-  "wof:brand_name": "Oral & Maxillofacial Surgery", 
-  "wof:brand_id": 1125155041
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416275
 }

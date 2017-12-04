@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414533, 
+  "wof:brand_name": "Hallmark Creations", 
+  "wof:brand_id": 1125153869, 
+  "wof:categories": [
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=jewelry", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "retail_goods:shopping=party_supplies"
+  ], 
   "wof:tags": [
     "shop", 
     "card", 
@@ -11,6 +22,6 @@
     "mfg", 
     "novelty"
   ], 
-  "wof:brand_name": "Hallmark Creations", 
-  "wof:brand_id": 1125153869
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416292
 }

@@ -1,7 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414462, 
-  "wof:tags": [], 
   "wof:brand_name": "Schweiz. Mobiliar", 
-  "wof:brand_id": 420574029
+  "wof:brand_id": 420574029, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416235
 }

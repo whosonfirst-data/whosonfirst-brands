@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414447, 
+  "wof:brand_name": "Hsbc Bank USA National Assn", 
+  "wof:brand_id": 420575721, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:building_and_trades=equipment_rental", 
+    "services:professional=credit_reporting_and_collection", 
+    "sg:services=building_and_trades", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "commercial", 
     "state", 
@@ -17,6 +26,6 @@
     "security", 
     "short"
   ], 
-  "wof:brand_name": "Hsbc Bank USA National Assn", 
-  "wof:brand_id": 420575721
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416224
 }

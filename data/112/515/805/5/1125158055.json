@@ -1,6 +1,28 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414480, 
+  "wof:brand_name": "Cardtronics", 
+  "wof:brand_id": 1125158055, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=atm", 
+    "services:professional=computer_services", 
+    "services:utilities=natural_gas", 
+    "sg:services=utilities", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "services:professional=business_services", 
+    "services:professional=detective_and_security_services", 
+    "services:professional=engineering", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:transportation=school_buses"
+  ], 
   "wof:tags": [
     "establishment", 
     "cards", 
@@ -22,6 +44,6 @@
     "shop", 
     "system"
   ], 
-  "wof:brand_name": "Cardtronics", 
-  "wof:brand_id": 1125158055
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416250
 }

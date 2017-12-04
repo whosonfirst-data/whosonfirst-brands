@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414478, 
+  "wof:brand_name": "Jr Food Market", 
+  "wof:brand_id": 1125156593, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:food_and_drink=fast_food", 
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "gasoline", 
     "station", 
@@ -10,6 +18,6 @@
     "petroleum", 
     "take"
   ], 
-  "wof:brand_name": "Jr Food Market", 
-  "wof:brand_id": 1125156593
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416248
 }

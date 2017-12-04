@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414540, 
+  "wof:brand_name": "Ashley Furniture Home Store", 
+  "wof:brand_id": 1125160423, 
+  "wof:categories": [
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:home_and_garden=carpets_and_floor_coverings", 
+    "manufacturing_and_wholesale_goods:wholesale=furniture", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "services:professional=advertising", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "store", 
     "dealer", 
@@ -11,6 +22,6 @@
     "mattress", 
     "rug"
   ], 
-  "wof:brand_name": "Ashley Furniture Home Store", 
-  "wof:brand_id": 1125160423
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416298
 }

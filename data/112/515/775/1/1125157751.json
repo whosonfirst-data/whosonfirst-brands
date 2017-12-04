@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414490, 
+  "wof:brand_name": "Viking Sewing Gallery", 
+  "wof:brand_id": 1125157751, 
+  "wof:categories": [
+    "retail_goods:home_and_garden=household_appliances", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:shopping=crafts_and_fabrics", 
+    "sg:retail_goods=shopping", 
+    "services:professional=business_services", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=textiles", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "sewing", 
     "machine", 
@@ -12,6 +23,6 @@
     "shop", 
     "store"
   ], 
-  "wof:brand_name": "Viking Sewing Gallery", 
-  "wof:brand_id": 1125157751
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416258
 }

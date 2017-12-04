@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414553, 
+  "wof:brand_name": "Adecco Staffing", 
+  "wof:brand_id": 1125149041, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=employment_agencies", 
+    "services:professional=management_and_consulting", 
+    "services:social_services=job_training", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "help", 
     "supply", 
@@ -26,6 +33,6 @@
     "s", 
     "selling"
   ], 
-  "wof:brand_name": "Adecco Staffing", 
-  "wof:brand_id": 1125149041
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416308
 }

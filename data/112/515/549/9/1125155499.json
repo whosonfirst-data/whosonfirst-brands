@@ -1,6 +1,25 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414481, 
+  "wof:brand_name": "Gymboree Play & Music Ctr", 
+  "wof:brand_id": 1125155499, 
+  "wof:categories": [
+    "sg:entertainment=recreation", 
+    "sg:services=social_services", 
+    "sg:public_place=education", 
+    "public_place:education=special_training", 
+    "services:social_services=child_care", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional", 
+    "sg:retail_goods=shopping", 
+    "public_place:education=music_school", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "manufacturing_and_wholesale_goods:wholesale=sporting_goods", 
+    "public_place:education=school", 
+    "retail_goods:shopping=baby_store", 
+    "retail_goods:shopping=musical_instruments", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=community_center"
+  ], 
   "wof:tags": [
     "instruction", 
     "gymnastic", 
@@ -31,6 +50,6 @@
     "recreation", 
     "supply"
   ], 
-  "wof:brand_name": "Gymboree Play & Music Ctr", 
-  "wof:brand_id": 1125155499
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416251
 }

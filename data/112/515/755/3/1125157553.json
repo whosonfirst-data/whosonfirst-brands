@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414503, 
+  "wof:brand_name": "American Speedy Printing Ctr", 
+  "wof:brand_id": 1125157553, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=professional", 
+    "services:professional=printing_and_photocopies", 
+    "services:professional=art_services"
+  ], 
   "wof:tags": [
     "printer", 
     "commercial", 
@@ -15,6 +22,6 @@
     "duplicating", 
     "graphic"
   ], 
-  "wof:brand_name": "American Speedy Printing Ctr", 
-  "wof:brand_id": 1125157553
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416268
 }

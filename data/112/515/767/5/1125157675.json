@@ -1,6 +1,30 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414490, 
+  "wof:brand_name": "Michael's", 
+  "wof:brand_id": 1125157675, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:services=personal", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=crafts_and_fabrics", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "manufacturing_and_wholesale_goods:manufacturing=signs", 
+    "public_place:education=college", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=luggage_and_leather_goods", 
+    "services:professional=art_services", 
+    "services:retail=repair_shop", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:public_place=education", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=professional", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "art", 
     "supply", 
@@ -27,6 +51,6 @@
     "specialty", 
     "upholsterer"
   ], 
-  "wof:brand_name": "Michael's", 
-  "wof:brand_id": 1125157675
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416258
 }

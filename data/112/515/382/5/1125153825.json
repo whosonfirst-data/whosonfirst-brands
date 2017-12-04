@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414471, 
+  "wof:brand_name": "Trader Publishing Company", 
+  "wof:brand_id": 1125153825, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=professional", 
+    "services:professional=advertising", 
+    "manufacturing_and_wholesale_goods:wholesale=books_periodicals_and_newspapers", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "services:professional=accounting_and_tax_preparation"
+  ], 
   "wof:tags": [
     "periodical", 
     "advertising", 
@@ -28,6 +37,6 @@
     "weekly", 
     "work"
   ], 
-  "wof:brand_name": "Trader Publishing Company", 
-  "wof:brand_id": 1125153825
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416243
 }

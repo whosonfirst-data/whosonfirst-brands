@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414513, 
+  "wof:brand_name": "Imo's Pizza", 
+  "wof:brand_id": 1125153969, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:food_and_drink=deli", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "pizza", 
     "american", 
@@ -12,6 +19,6 @@
     "pizzeria", 
     "salad"
   ], 
-  "wof:brand_name": "Imo's Pizza", 
-  "wof:brand_id": 1125153969
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416277
 }

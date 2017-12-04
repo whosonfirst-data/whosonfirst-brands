@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414506, 
+  "wof:brand_name": "Bebe", 
+  "wof:brand_id": 1125150765, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "retail_goods:shopping=department_store", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:shopping=baby_store", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "retail_goods:shopping=crafts_and_fabrics", 
+    "retail_goods:shopping=used_merchandise", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:public_place=shopping_center", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "women's", 
     "accessory", 
@@ -22,6 +37,6 @@
     "supply", 
     "wear"
   ], 
-  "wof:brand_name": "Bebe", 
-  "wof:brand_id": 1125150765
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416271
 }

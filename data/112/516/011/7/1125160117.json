@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414546, 
+  "wof:brand_name": "Cardservice International", 
+  "wof:brand_id": 1125160117, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "manufacturing_and_wholesale_goods:wholesale=office_equipment", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional", 
+    "services:professional=computer_services", 
+    "manufacturing_and_wholesale_goods:manufacturing=rubber_and_plastics", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=business_services", 
+    "services:professional=credit_reporting_and_collection", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "card", 
     "plan", 
@@ -15,6 +32,6 @@
     "merchant", 
     "terminal"
   ], 
-  "wof:brand_name": "Cardservice International", 
-  "wof:brand_id": 1125160117
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416302
 }

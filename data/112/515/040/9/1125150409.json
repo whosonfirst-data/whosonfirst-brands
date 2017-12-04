@@ -1,6 +1,32 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414474, 
+  "wof:brand_name": "Crime Stoppers", 
+  "wof:brand_id": 1125150409, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=nonprofit_organization", 
+    "sg:public_place=government", 
+    "public_place:government=police_station", 
+    "sg:services=professional", 
+    "sg:services=social_services", 
+    "services:organizations=community_association", 
+    "services:organizations=membership_organization", 
+    "services:professional=detective_and_security_services", 
+    "public_place:government=office", 
+    "services:organizations=professional_association", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "services:professional=business_services", 
+    "services:professional=computer_services", 
+    "services:professional=management_and_consulting", 
+    "services:utilities=electric", 
+    "sg:entertainment=recreation", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=personal", 
+    "sg:services=utilities", 
+    "sg:transportation=local_transit"
+  ], 
   "wof:tags": [
     "crime", 
     "program", 
@@ -53,6 +79,6 @@
     "work", 
     "work-supplies"
   ], 
-  "wof:brand_name": "Crime Stoppers", 
-  "wof:brand_id": 1125150409
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416245
 }

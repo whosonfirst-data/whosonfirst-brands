@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414512, 
+  "wof:brand_name": "Concordia Lutheran Church", 
+  "wof:brand_id": 1125159517, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship", 
+    "public_place:education=school", 
+    "sg:public_place=education", 
+    "sg:transportation=airport"
+  ], 
   "wof:tags": [
     "church", 
     "lutheran", 
@@ -20,6 +29,6 @@
     "missouri", 
     "synod"
   ], 
-  "wof:brand_name": "Concordia Lutheran Church", 
-  "wof:brand_id": 1125159517
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416276
 }

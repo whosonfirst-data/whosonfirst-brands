@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414554, 
+  "wof:brand_name": "Ecole Primaire", 
+  "wof:brand_id": 1125148913, 
+  "wof:categories": [
+    "public_place:education=school", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "primary"
   ], 
-  "wof:brand_name": "Ecole Primaire", 
-  "wof:brand_id": 1125148913
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416309
 }

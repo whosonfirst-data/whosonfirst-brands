@@ -1,11 +1,19 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414490, 
+  "wof:brand_name": "Young Drivers of Canada", 
+  "wof:brand_id": 1125157539, 
+  "wof:categories": [
+    "sg:public_place=education", 
+    "public_place:education=special_training", 
+    "public_place:education=school", 
+    "public_place:education=vocational_school", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "driving", 
     "instruction", 
     "school"
   ], 
-  "wof:brand_name": "Young Drivers of Canada", 
-  "wof:brand_id": 1125157539
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416258
 }

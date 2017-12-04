@@ -1,6 +1,38 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414461, 
+  "wof:brand_name": "JC Penney", 
+  "wof:brand_id": 420574397, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=catalog_store", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "services:personal=beauty_salon", 
+    "sg:services=personal", 
+    "sg:services=professional", 
+    "sg:transportation=freight", 
+    "retail_goods:shopping=pharmacy", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:professional=business_services", 
+    "services:professional=management_and_consulting", 
+    "retail_goods:shopping=baby_store", 
+    "retail_goods:shopping=optical_goods", 
+    "services:insurance=life_insurance", 
+    "sg:services=insurance", 
+    "manufacturing_and_wholesale_goods:wholesale=home_furnishings", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:shopping=optician", 
+    "services:banks_and_credit_unions=bank", 
+    "services:professional=advertising", 
+    "services:professional=engineering", 
+    "services:retail=portrait_studio", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=retail", 
+    "sg:transportation=airline"
+  ], 
   "wof:tags": [
     "mail", 
     "house", 
@@ -59,6 +91,6 @@
     "wat", 
     "watch"
   ], 
-  "wof:brand_name": "JC Penney", 
-  "wof:brand_id": 420574397
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416235
 }

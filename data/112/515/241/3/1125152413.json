@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414480, 
+  "wof:brand_name": "Loomis Fargo & Co", 
+  "wof:brand_id": 1125152413, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=detective_and_security_services", 
+    "services:professional=business_services", 
+    "services:professional=management_and_consulting", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:transportation=freight", 
+    "manufacturing_and_wholesale_goods:wholesale=motor_vehicles", 
+    "manufacturing_and_wholesale_goods:wholesale=office_equipment"
+  ], 
   "wof:tags": [
     "car", 
     "armored", 
@@ -12,6 +22,6 @@
     "security", 
     "trucking"
   ], 
-  "wof:brand_name": "Loomis Fargo & Co", 
-  "wof:brand_id": 1125152413
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416250
 }

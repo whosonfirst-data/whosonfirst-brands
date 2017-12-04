@@ -1,7 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414456, 
-  "wof:tags": [], 
   "wof:brand_name": "Electricite De France (edf)", 
-  "wof:brand_id": 420574991
+  "wof:brand_id": 420574991, 
+  "wof:categories": [
+    "sg:services=utilities", 
+    "services:utilities=electric", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:professional=business_services", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=professional"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416230
 }

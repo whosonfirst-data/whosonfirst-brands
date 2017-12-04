@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414471, 
+  "wof:brand_name": "Cellular Connection", 
+  "wof:brand_id": 1125151769, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "sg:services=utilities", 
+    "services:utilities=mobile_phone", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "retail_goods:shopping=mobile_phones", 
+    "manufacturing_and_wholesale_goods:manufacturing=electronics", 
+    "services:retail=repair_shop", 
+    "services:utilities=telephone", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:wholesale=computers", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "services:professional=business_services", 
+    "services:utilities=cable", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "cellular", 
     "telephone", 
@@ -26,6 +46,6 @@
     "software", 
     "television"
   ], 
-  "wof:brand_name": "Cellular Connection", 
-  "wof:brand_id": 1125151769
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416243
 }

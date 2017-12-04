@@ -1,11 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414503, 
+  "wof:brand_name": "Eroski Sociedad Cooperativa", 
+  "wof:brand_id": 1125151033, 
+  "wof:categories": [
+    "services:professional=management_and_consulting", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "asesor\u00cda", 
     "en", 
     "marketing"
   ], 
-  "wof:brand_name": "Eroski Sociedad Cooperativa", 
-  "wof:brand_id": 1125151033
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416269
 }

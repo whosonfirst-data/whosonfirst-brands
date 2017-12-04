@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414514, 
+  "wof:brand_name": "Law Offices", 
+  "wof:brand_id": 1125152957, 
+  "wof:categories": [
+    "services:professional=lawyer_and_legal_services", 
+    "sg:services=professional", 
+    "services:real_estate=real_estate_operator", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "attorney", 
     "law", 
@@ -17,6 +23,6 @@
     "planning", 
     "practice"
   ], 
-  "wof:brand_name": "Law Offices", 
-  "wof:brand_id": 1125152957
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416277
 }

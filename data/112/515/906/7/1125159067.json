@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414477, 
+  "wof:brand_name": "Pizza Guys", 
+  "wof:brand_id": 1125159067, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food"
+  ], 
   "wof:tags": [
     "pizza", 
     "american", 
@@ -8,6 +12,6 @@
     "italian", 
     "take"
   ], 
-  "wof:brand_name": "Pizza Guys", 
-  "wof:brand_id": 1125159067
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416247
 }

@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414508, 
+  "wof:brand_name": "Cut & Curl", 
+  "wof:brand_id": 1125158747, 
+  "wof:categories": [
+    "services:personal=beauty_salon", 
+    "sg:services=personal", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:personal=barber", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "shop", 
     "hairdresser", 
@@ -12,6 +19,6 @@
     "merchandise", 
     "salon"
   ], 
-  "wof:brand_name": "Cut & Curl", 
-  "wof:brand_id": 1125158747
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416272
 }

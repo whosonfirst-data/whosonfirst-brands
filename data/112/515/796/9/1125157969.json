@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414532, 
+  "wof:brand_name": "Safeway Liquor", 
+  "wof:brand_id": 1125157969, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "store"
   ], 
-  "wof:brand_name": "Safeway Liquor", 
-  "wof:brand_id": 1125157969
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416291
 }

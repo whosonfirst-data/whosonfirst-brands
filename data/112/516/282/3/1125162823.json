@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414541, 
+  "wof:brand_name": "The Labour Party", 
+  "wof:brand_id": 1125162823, 
+  "wof:categories": [
+    "services:organizations=political_organization", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "party"
   ], 
-  "wof:brand_name": "The Labour Party", 
-  "wof:brand_id": 1125162823
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416298
 }

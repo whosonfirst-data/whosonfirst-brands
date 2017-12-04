@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414462, 
+  "wof:brand_name": "Friendship Baptist Church", 
+  "wof:brand_id": 420574783, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "sg:public_place=place_of_worship", 
+    "public_place:place_of_worship=church"
+  ], 
   "wof:tags": [
     "church", 
     "churches-baptist", 
@@ -10,6 +16,6 @@
     "clergy", 
     "membership"
   ], 
-  "wof:brand_name": "Friendship Baptist Church", 
-  "wof:brand_id": 420574783
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416235
 }

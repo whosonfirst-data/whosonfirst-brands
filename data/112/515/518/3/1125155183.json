@@ -1,6 +1,35 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414509, 
+  "wof:brand_name": "Sandwell Metropolitan Borough Council", 
+  "wof:brand_id": 1125155183, 
+  "wof:categories": [
+    "sg:public_place=education", 
+    "public_place:education=school", 
+    "public_place:education=library", 
+    "sg:services=social_services", 
+    "sg:public_place=government", 
+    "public_place:government=office", 
+    "sg:public_place=community_center", 
+    "public_place:education=special_training", 
+    "manufacturing_and_wholesale_goods:farming=nursery", 
+    "services:social_services=adult_care", 
+    "services:social_services=retirement_home", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:services=professional", 
+    "public_place:education=university", 
+    "entertainment:sports_and_exercise=swimming_pool", 
+    "public_place:community_center=youth", 
+    "public_place:government=fire_station", 
+    "public_place:landmark=tourist_attraction", 
+    "services:professional=business_services", 
+    "services:professional=computer_services", 
+    "services:professional=employment_agencies", 
+    "services:real_estate=real_estate_agent", 
+    "services:social_services=child_care", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:public_place=commercial_area", 
+    "sg:public_place=landmark", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "local", 
     "authority", 
@@ -26,6 +55,6 @@
     "residential", 
     "shop"
   ], 
-  "wof:brand_name": "Sandwell Metropolitan Borough Council", 
-  "wof:brand_id": 1125155183
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416274
 }

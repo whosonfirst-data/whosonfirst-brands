@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414534, 
+  "wof:brand_name": "Joe's Crab Shack", 
+  "wof:brand_id": 1125150573, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "food_and_drink:bars_and_pubs=nightclub", 
+    "sg:food_and_drink=bars_and_pubs"
+  ], 
   "wof:tags": [
     "seafood", 
     "american", 
@@ -10,6 +15,6 @@
     "personal", 
     "nightlife"
   ], 
-  "wof:brand_name": "Joe's Crab Shack", 
-  "wof:brand_id": 1125150573
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416293
 }

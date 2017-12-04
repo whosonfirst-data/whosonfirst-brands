@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414527, 
+  "wof:brand_name": "Floor Store", 
+  "wof:brand_id": 1125159253, 
+  "wof:categories": [
+    "retail_goods:home_and_garden=carpets_and_floor_coverings", 
+    "sg:retail_goods=home_and_garden", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:manufacturing=building_materials", 
+    "retail_goods:home_and_garden=building_materials", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "rug", 
     "dealer", 
@@ -19,6 +30,6 @@
     "materials-wholesale", 
     "tile-contractors"
   ], 
-  "wof:brand_name": "Floor Store", 
-  "wof:brand_id": 1125159253
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416287
 }

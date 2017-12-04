@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414493, 
+  "wof:brand_name": "Dean Witter", 
+  "wof:brand_id": 1125152461, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=banks_and_credit_unions", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "security", 
     "brokerage", 
@@ -20,6 +29,6 @@
     "plan", 
     "retirement"
   ], 
-  "wof:brand_name": "Dean Witter", 
-  "wof:brand_id": 1125152461
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416260
 }

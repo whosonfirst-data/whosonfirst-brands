@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414507, 
+  "wof:brand_name": "Pottery Barn", 
+  "wof:brand_id": 1125151283, 
+  "wof:categories": [
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:home_and_garden=furniture", 
+    "manufacturing_and_wholesale_goods:wholesale=home_furnishings", 
+    "retail_goods:home_and_garden=kitchen_supply", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "housewares", 
     "store", 
@@ -22,6 +36,6 @@
     "shop", 
     "wear"
   ], 
-  "wof:brand_name": "Pottery Barn", 
-  "wof:brand_id": 1125151283
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416272
 }

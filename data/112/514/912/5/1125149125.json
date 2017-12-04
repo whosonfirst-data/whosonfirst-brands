@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414554, 
+  "wof:brand_name": "Beaurepaires", 
+  "wof:brand_id": 1125149125, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "sg:transportation=transit_center", 
+    "transportation:transit_center=freight"
+  ], 
   "wof:tags": [
     "automotive", 
     "battery", 
@@ -14,6 +22,6 @@
     "brake", 
     "clutch"
   ], 
-  "wof:brand_name": "Beaurepaires", 
-  "wof:brand_id": 1125149125
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416309
 }

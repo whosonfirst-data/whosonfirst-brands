@@ -1,6 +1,27 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414530, 
+  "wof:brand_name": "Silhouette", 
+  "wof:brand_id": 1125157067, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "retail_goods:shopping=department_store", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "public_place:education=dance_studio", 
+    "retail_goods:shopping=adult", 
+    "retail_goods:shopping=optical_goods", 
+    "services:communications=film_and_video_production", 
+    "services:personal=barber", 
+    "services:personal=sauna", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=education", 
+    "sg:services=communications", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "lady", 
     "wear", 
@@ -21,6 +42,6 @@
     "underwear", 
     "women's"
   ], 
-  "wof:brand_name": "Silhouette", 
-  "wof:brand_id": 1125157067
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416290
 }

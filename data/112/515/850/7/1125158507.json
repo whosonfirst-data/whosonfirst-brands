@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414475, 
+  "wof:brand_name": "Deutsche Bank", 
+  "wof:brand_id": 1125158507, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=professional", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:professional=business_services", 
+    "services:professional=computer_services"
+  ], 
   "wof:tags": [
     "establishment", 
     "bond", 
@@ -15,6 +24,6 @@
     "repair", 
     "stock"
   ], 
-  "wof:brand_name": "Deutsche Bank", 
-  "wof:brand_id": 1125158507
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416246
 }

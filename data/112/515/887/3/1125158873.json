@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414505, 
+  "wof:brand_name": "The Vitamin Shoppe", 
+  "wof:brand_id": 1125158873, 
+  "wof:categories": [
+    "services:insurance=health_insurance", 
+    "sg:services=insurance", 
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:retail_goods=shopping", 
+    "services:health_services=clinic", 
+    "sg:services=health_services", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "retail_goods:shopping=catalog_store", 
+    "retail_goods:shopping=pharmacy", 
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "market", 
     "vitamin", 
@@ -15,6 +28,6 @@
     "mail", 
     "supply"
   ], 
-  "wof:brand_name": "The Vitamin Shoppe", 
-  "wof:brand_id": 1125158873
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416270
 }

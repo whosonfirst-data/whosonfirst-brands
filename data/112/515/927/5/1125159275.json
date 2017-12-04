@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414464, 
+  "wof:brand_name": "Harry and David", 
+  "wof:brand_id": 1125159275, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=catalog_store", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=specialty", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "manufacturing_and_wholesale_goods:wholesale=fruits_and_vegetables", 
+    "retail_goods:food_and_beverages=chocolate", 
+    "retail_goods:shopping=department_store", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "basket", 
     "gift", 
@@ -17,6 +28,6 @@
     "flower", 
     "veggie"
   ], 
-  "wof:brand_name": "Harry and David", 
-  "wof:brand_id": 1125159275
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416237
 }

@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414485, 
+  "wof:brand_name": "Ray White Real Estate", 
+  "wof:brand_id": 1125154567, 
+  "wof:categories": [
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate", 
+    "entertainment:travel=hotels_and_motels", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:real_estate=real_estate_services", 
+    "sg:entertainment=travel", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "-", 
     "accommodation", 
@@ -11,6 +20,6 @@
     "rental", 
     "tourism"
   ], 
-  "wof:brand_name": "Ray White Real Estate", 
-  "wof:brand_id": 1125154567
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416254
 }

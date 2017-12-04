@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414562, 
+  "wof:brand_name": "Mothers Work", 
+  "wof:brand_id": 1125149443, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:shopping=department_store", 
+    "services:professional=business_services", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "maternity", 
     "wear", 
@@ -14,6 +23,6 @@
     "clothing", 
     "custom"
   ], 
-  "wof:brand_name": "Mothers Work", 
-  "wof:brand_id": 1125149443
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416315
 }

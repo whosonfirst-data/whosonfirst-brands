@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414550, 
+  "wof:brand_name": "S & S Auto Sales", 
+  "wof:brand_id": 1125161985, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "car", 
     "dealer", 
@@ -9,6 +14,6 @@
     "cars-wholesale", 
     "dealers-used"
   ], 
-  "wof:brand_name": "S & S Auto Sales", 
-  "wof:brand_id": 1125161985
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416305
 }

@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414559, 
+  "wof:brand_name": "Sears Auto Center", 
+  "wof:brand_id": 1125149469, 
+  "wof:categories": [
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "retail_goods:shopping=department_store", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "services:building_and_trades=plumbing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "tire", 
     "brake", 
@@ -21,6 +34,6 @@
     "shop", 
     "transmission"
   ], 
-  "wof:brand_name": "Sears Auto Center", 
-  "wof:brand_id": 1125149469
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416313
 }

@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414450, 
+  "wof:brand_name": "Dallas Independent School District", 
+  "wof:brand_id": 420575461, 
+  "wof:categories": [
+    "public_place:education=school", 
+    "sg:public_place=education", 
+    "entertainment:recreation=water_park", 
+    "entertainment:sports_and_exercise=swimming_pool", 
+    "sg:entertainment=recreation", 
+    "sg:entertainment=sports_and_exercise"
+  ], 
   "wof:tags": [
     "high", 
     "middle", 
@@ -9,6 +17,6 @@
     "k-", 
     "private"
   ], 
-  "wof:brand_name": "Dallas Independent School District", 
-  "wof:brand_id": 420575461
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416226
 }

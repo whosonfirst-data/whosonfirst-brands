@@ -1,10 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414517, 
+  "wof:brand_name": "Johnson Cleaners UK Ltd", 
+  "wof:brand_id": 1125155767, 
+  "wof:categories": [
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "alteration", 
     "cleaner"
   ], 
-  "wof:brand_name": "Johnson Cleaners UK Ltd", 
-  "wof:brand_id": 1125155767
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416280
 }

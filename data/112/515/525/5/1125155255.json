@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414483, 
+  "wof:brand_name": "Hong Kong Buffet", 
+  "wof:brand_id": 1125155255, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food"
+  ], 
   "wof:tags": [
     "eating", 
     "chinese", 
@@ -9,6 +13,6 @@
     "pan", 
     "take"
   ], 
-  "wof:brand_name": "Hong Kong Buffet", 
-  "wof:brand_id": 1125155255
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416252
 }

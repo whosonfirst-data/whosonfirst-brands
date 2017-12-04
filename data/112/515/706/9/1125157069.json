@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414530, 
+  "wof:brand_name": "Speedy Auto Svc", 
+  "wof:brand_id": 1125157069, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "automobile", 
     "repairing", 
@@ -10,6 +15,6 @@
     "brake", 
     "lubrication"
   ], 
-  "wof:brand_name": "Speedy Auto Svc", 
-  "wof:brand_id": 1125157069
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416290
 }

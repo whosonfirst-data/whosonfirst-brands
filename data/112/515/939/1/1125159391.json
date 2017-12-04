@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414464, 
+  "wof:brand_name": "Supra", 
+  "wof:brand_id": 1125159391, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=news"
+  ], 
   "wof:tags": [
     "grocer", 
     "department", 
@@ -8,6 +16,6 @@
     "newsagent", 
     "shop"
   ], 
-  "wof:brand_name": "Supra", 
-  "wof:brand_id": 1125159391
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416237
 }

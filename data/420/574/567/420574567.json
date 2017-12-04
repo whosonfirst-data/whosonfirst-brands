@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414463, 
+  "wof:brand_name": "Aldi", 
+  "wof:brand_id": 420574567, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "grocer"
   ], 
-  "wof:brand_name": "Aldi", 
-  "wof:brand_id": 420574567
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416236
 }

@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414515, 
+  "wof:brand_name": "Washington Elementary School", 
+  "wof:brand_id": 1125150225, 
+  "wof:categories": [
+    "public_place:education=school", 
+    "sg:public_place=education", 
+    "education_and_religion:education=school", 
+    "public_place:education=preschool", 
+    "public_place:education=special_training"
+  ], 
   "wof:tags": [
     "elementary", 
     "high", 
@@ -13,6 +20,6 @@
     "kindergarten", 
     "school"
   ], 
-  "wof:brand_name": "Washington Elementary School", 
-  "wof:brand_id": 1125150225
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416278
 }

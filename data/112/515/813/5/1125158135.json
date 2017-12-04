@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414512, 
+  "wof:brand_name": "Match", 
+  "wof:brand_id": 1125158135, 
+  "wof:categories": [
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:food_and_drink=restaurant", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "food_and_drink:bars_and_pubs=lounge", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "public_place:education=school", 
+    "services:communications=newspaper", 
+    "services:health_services=clinic", 
+    "sg:public_place=education", 
+    "sg:services=communications", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "american", 
     "burger", 
@@ -9,6 +23,6 @@
     "pasta", 
     "tapa"
   ], 
-  "wof:brand_name": "Match", 
-  "wof:brand_id": 1125158135
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416276
 }

@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414549, 
+  "wof:brand_name": "Hollister", 
+  "wof:brand_id": 1125160223, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:services=professional", 
+    "entertainment:sports_and_exercise=bicycle_rental", 
+    "sg:entertainment=sports_and_exercise", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:professional=employment_agencies", 
+    "sg:public_place=shopping_center"
+  ], 
   "wof:tags": [
     "clothing", 
     "women's", 
@@ -13,6 +24,6 @@
     "family", 
     "merchandise"
   ], 
-  "wof:brand_name": "Hollister", 
-  "wof:brand_id": 1125160223
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416305
 }

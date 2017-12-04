@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414490, 
+  "wof:brand_name": "Co-Op Pharmacy", 
+  "wof:brand_id": 1125155901, 
+  "wof:categories": [
+    "retail_goods:shopping=pharmacy", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "chemist", 
     "pharmacist", 
@@ -8,6 +12,6 @@
     "drug", 
     "store"
   ], 
-  "wof:brand_name": "Co-Op Pharmacy", 
-  "wof:brand_id": 1125155901
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416258
 }

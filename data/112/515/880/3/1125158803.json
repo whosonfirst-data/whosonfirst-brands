@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414466, 
+  "wof:brand_name": "Lotus House", 
+  "wof:brand_id": 1125158803, 
+  "wof:categories": [
+    "sg:food_and_drink=fast_food", 
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=meat_and_fish", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:food_and_drink=coffee_and_tea", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "away", 
     "take", 
@@ -15,6 +24,6 @@
     "gallery", 
     "shop"
   ], 
-  "wof:brand_name": "Lotus House", 
-  "wof:brand_id": 1125158803
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416239
 }

@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414478, 
+  "wof:brand_name": "Kids Korner", 
+  "wof:brand_id": 1125156597, 
+  "wof:categories": [
+    "services:social_services=child_care", 
+    "sg:services=social_services", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=baby_store", 
+    "retail_goods:shopping=used_merchandise", 
+    "sg:services=professional", 
+    "public_place:education=kindergarten", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "services:professional=management_and_consulting", 
+    "sg:public_place=education", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:shopping=crafts_and_fabrics", 
+    "services:professional=business_services", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "day", 
     "wear", 
@@ -32,6 +49,6 @@
     "toy", 
     "wool"
   ], 
-  "wof:brand_name": "Kids Korner", 
-  "wof:brand_id": 1125156597
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416248
 }

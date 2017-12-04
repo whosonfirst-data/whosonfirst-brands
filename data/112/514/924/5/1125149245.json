@@ -1,6 +1,27 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414554, 
+  "wof:brand_name": "Laidlaw Transit Inc", 
+  "wof:brand_id": 1125149245, 
+  "wof:categories": [
+    "sg:transportation=bus_charters", 
+    "sg:transportation=school_buses", 
+    "sg:transportation=local_transit", 
+    "sg:transportation=freight", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:transportation=bus_station", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "manufacturing_and_wholesale_goods:wholesale=motor_vehicles", 
+    "entertainment:travel=travel_agent", 
+    "public_place:education=school", 
+    "public_place:landmark=tourist_information", 
+    "services:professional=management_and_consulting", 
+    "services:retail=auto_repair", 
+    "sg:entertainment=travel", 
+    "sg:public_place=education", 
+    "sg:public_place=landmark", 
+    "sg:services=professional", 
+    "sg:services=retail", 
+    "sg:transportation=ferry"
+  ], 
   "wof:tags": [
     "rental", 
     "line", 
@@ -27,6 +48,6 @@
     "system", 
     "tour"
   ], 
-  "wof:brand_name": "Laidlaw Transit Inc", 
-  "wof:brand_id": 1125149245
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416309
 }

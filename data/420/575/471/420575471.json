@@ -1,10 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414444, 
+  "wof:brand_name": "Johnsons The Cleaners", 
+  "wof:brand_id": 420575471, 
+  "wof:categories": [
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "alteration", 
     "cleaner"
   ], 
-  "wof:brand_name": "Johnsons The Cleaners", 
-  "wof:brand_id": 420575471
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416222
 }

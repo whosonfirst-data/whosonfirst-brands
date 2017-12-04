@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414557, 
+  "wof:brand_name": "St Paul Lutheran Church", 
+  "wof:brand_id": 1125149527, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship", 
+    "public_place:education=school", 
+    "sg:public_place=education", 
+    "services:social_services=child_care", 
+    "sg:services=social_services", 
+    "public_place:education=preschool", 
+    "services:professional=business_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "church", 
     "lutheran", 
@@ -24,6 +37,6 @@
     "operates", 
     "private"
   ], 
-  "wof:brand_name": "St Paul Lutheran Church", 
-  "wof:brand_id": 1125149527
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416311
 }

@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414448, 
+  "wof:brand_name": "Spencer Gifts", 
+  "wof:brand_id": 420575475, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "manufacturing_and_wholesale_goods:manufacturing=jewelry", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "sg:public_place=animal_shelter", 
+    "sg:public_place=shopping_center", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "shop", 
     "novelty", 
@@ -10,6 +22,6 @@
     "adult", 
     "toy"
   ], 
-  "wof:brand_name": "Spencer Gifts", 
-  "wof:brand_id": 420575475
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416225
 }

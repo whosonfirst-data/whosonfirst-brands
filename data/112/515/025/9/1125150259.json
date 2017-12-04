@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414505, 
+  "wof:brand_name": "Express Mart", 
+  "wof:brand_id": 1125150259, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=petroleum", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "manufacturing_and_wholesale_goods:wholesale=wine_and_distilled_alcoholic_beverages", 
+    "retail_goods:food_and_beverages=fruits_and_vegetables"
+  ], 
   "wof:tags": [
     "gasoline", 
     "station", 
@@ -22,6 +33,6 @@
     "which", 
     "wine"
   ], 
-  "wof:brand_name": "Express Mart", 
-  "wof:brand_id": 1125150259
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416270
 }

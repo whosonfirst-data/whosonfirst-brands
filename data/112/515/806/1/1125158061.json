@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414478, 
+  "wof:brand_name": "CiCi's Pizza", 
+  "wof:brand_id": 1125158061, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "services:professional=business_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "pizza", 
     "buffet", 
@@ -8,6 +14,6 @@
     "eating", 
     "delivery"
   ], 
-  "wof:brand_name": "CiCi's Pizza", 
-  "wof:brand_id": 1125158061
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416248
 }

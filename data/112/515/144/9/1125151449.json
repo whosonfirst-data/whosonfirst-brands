@@ -1,6 +1,29 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414525, 
+  "wof:brand_name": "Print Shop", 
+  "wof:brand_id": 1125151449, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "sg:services=professional", 
+    "sg:retail_goods=shopping", 
+    "public_place:government=office", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "services:professional=printing_and_photocopies", 
+    "sg:public_place=government", 
+    "sg:public_place=education", 
+    "public_place:education=school", 
+    "services:professional=business_services", 
+    "sg:transportation=freight", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "manufacturing_and_wholesale_goods:manufacturing=electronics", 
+    "manufacturing_and_wholesale_goods:manufacturing=signs", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "manufacturing_and_wholesale_goods:wholesale=office_equipment", 
+    "public_place:education=college", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:professional=art_services", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "commercial", 
     "printer", 
@@ -35,6 +58,6 @@
     "trade", 
     "warehouse"
   ], 
-  "wof:brand_name": "Print Shop", 
-  "wof:brand_id": 1125151449
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416286
 }

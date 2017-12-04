@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414533, 
+  "wof:brand_name": "Developmental Disabilities", 
+  "wof:brand_id": 1125153863, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:services=organizations", 
+    "services:organizations=nonprofit_organization", 
+    "sg:services=social_services", 
+    "sg:services=professional", 
+    "services:organizations=professional_association", 
+    "sg:services=health_services", 
+    "services:health_services=nursing_and_care_facility", 
+    "services:professional=business_services", 
+    "services:social_services=adult_care", 
+    "services:social_services=job_training", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:health_services=clinic", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "resource", 
     "state", 
@@ -30,6 +47,6 @@
     "trust", 
     "welfare"
   ], 
-  "wof:brand_name": "Developmental Disabilities", 
-  "wof:brand_id": 1125153863
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416292
 }

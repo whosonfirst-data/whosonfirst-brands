@@ -1,6 +1,41 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414468, 
+  "wof:brand_name": "Traditions", 
+  "wof:brand_id": 1125154933, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=professional", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:professional=business_services", 
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:shopping=used_merchandise", 
+    "sg:services=personal", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "services:personal=beauty_salon", 
+    "services:retail=repair_shop", 
+    "sg:services=retail", 
+    "retail_goods:food_and_beverages=specialty", 
+    "retail_goods:shopping=antiques", 
+    "services:building_and_trades=construction", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "manufacturing_and_wholesale_goods:wholesale=furniture", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "manufacturing_and_wholesale_goods:wholesale=home_furnishings", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:shopping=florist", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "services:real_estate=real_estate_agent", 
+    "services:social_services=adult_care", 
+    "services:utilities=telephone", 
+    "sg:services=real_estate", 
+    "sg:services=social_services", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "shop", 
     "interior", 
@@ -55,6 +90,6 @@
     "trade", 
     "wedding"
   ], 
-  "wof:brand_name": "Traditions", 
-  "wof:brand_id": 1125154933
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416240
 }

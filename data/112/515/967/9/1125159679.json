@@ -1,6 +1,29 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414497, 
+  "wof:brand_name": "Scoops", 
+  "wof:brand_id": 1125159679, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=shopping", 
+    "sg:food_and_drink=ice_cream", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:food_and_beverages=candy", 
+    "retail_goods:food_and_beverages=dairy", 
+    "sg:food_and_drink=bakery", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "manufacturing_and_wholesale_goods:wholesale=construction_materials", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:food_and_beverages=ethnic_foods", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:home_and_garden=kitchen_supply", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=news", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "cream", 
     "ice", 
@@ -33,6 +56,6 @@
     "traditional", 
     "wedding"
   ], 
-  "wof:brand_name": "Scoops", 
-  "wof:brand_id": 1125159679
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416265
 }

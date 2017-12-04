@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414480, 
+  "wof:brand_name": "Coffee Bean & Tea Leaf", 
+  "wof:brand_id": 1125157809, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=coffee_and_tea", 
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:retail_goods=food_and_beverages", 
+    "services:utilities=mobile_phone", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "coffee", 
     "shop", 
@@ -10,6 +18,6 @@
     "restaurant", 
     "wi-fi"
   ], 
-  "wof:brand_name": "Coffee Bean & Tea Leaf", 
-  "wof:brand_id": 1125157809
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416250
 }

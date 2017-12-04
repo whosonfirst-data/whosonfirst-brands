@@ -1,11 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414529, 
+  "wof:brand_name": "Elders Real Estate", 
+  "wof:brand_id": 1125150977, 
+  "wof:categories": [
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_agent", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=banks_and_credit_unions", 
+    "services:real_estate=real_estate_services"
+  ], 
   "wof:tags": [
     "management", 
     "property", 
     "valuer"
   ], 
-  "wof:brand_name": "Elders Real Estate", 
-  "wof:brand_id": 1125150977
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416289
 }

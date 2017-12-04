@@ -1,11 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414487, 
+  "wof:brand_name": "Penningtons Superstore", 
+  "wof:brand_id": 1125157033, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=department_store"
+  ], 
   "wof:tags": [
     "shop", 
     "specialty", 
     "sportswear"
   ], 
-  "wof:brand_name": "Penningtons Superstore", 
-  "wof:brand_id": 1125157033
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416255
 }

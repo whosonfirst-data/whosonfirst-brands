@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414465, 
+  "wof:brand_name": "Clippers", 
+  "wof:brand_id": 1125154977, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "entertainment:recreation=dog_park", 
+    "services:retail=animal_services", 
+    "sg:entertainment=recreation", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "services:personal=nail_salon", 
+    "services:personal=tanning_parlor", 
+    "sg:food_and_drink=restaurant", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "hairdresser", 
     "unisex", 
@@ -17,6 +31,6 @@
     "hairdressing", 
     "spa"
   ], 
-  "wof:brand_name": "Clippers", 
-  "wof:brand_id": 1125154977
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416238
 }

@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414534, 
+  "wof:brand_name": "Management Recruiters", 
+  "wof:brand_id": 1125150511, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=employment_agencies", 
+    "services:professional=management_and_consulting", 
+    "entertainment:arena=sports_club", 
+    "sg:entertainment=arena"
+  ], 
   "wof:tags": [
     "contractor", 
     "help", 
@@ -14,6 +21,6 @@
     "promoter", 
     "recruiter"
   ], 
-  "wof:brand_name": "Management Recruiters", 
-  "wof:brand_id": 1125150511
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416293
 }

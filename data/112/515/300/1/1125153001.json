@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414510, 
+  "wof:brand_name": "BP Oil", 
+  "wof:brand_id": 1125153001, 
+  "wof:categories": [
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "services:utilities=fuel_oil_and_lpg", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "oil", 
     "spirit", 
@@ -10,6 +17,6 @@
     "petrol", 
     "utilities"
   ], 
-  "wof:brand_name": "BP Oil", 
-  "wof:brand_id": 1125153001
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416275
 }

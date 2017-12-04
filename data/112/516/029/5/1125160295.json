@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414549, 
+  "wof:brand_name": "Quality Roofing", 
+  "wof:brand_id": 1125160295, 
+  "wof:categories": [
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=construction", 
+    "manufacturing_and_wholesale_goods:manufacturing=building_materials", 
+    "manufacturing_and_wholesale_goods:wholesale=construction_materials", 
+    "retail_goods:home_and_garden=building_materials", 
+    "services:banks_and_credit_unions=bank", 
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "contractor", 
     "roofing", 
@@ -24,6 +37,6 @@
     "skylight", 
     "snow"
   ], 
-  "wof:brand_name": "Quality Roofing", 
-  "wof:brand_id": 1125160295
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416305
 }

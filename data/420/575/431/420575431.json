@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414446, 
+  "wof:brand_name": "SunTrust", 
+  "wof:brand_id": 420575431, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional", 
+    "sg:transportation=airport"
+  ], 
   "wof:tags": [
     "national", 
     "commercial", 
@@ -24,6 +33,6 @@
     "trust", 
     "warehousing"
   ], 
-  "wof:brand_name": "SunTrust", 
-  "wof:brand_id": 420575431
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416223
 }

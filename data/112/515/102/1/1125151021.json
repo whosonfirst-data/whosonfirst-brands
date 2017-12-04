@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414519, 
+  "wof:brand_name": "Standard Register Company", 
+  "wof:brand_id": 1125151021, 
+  "wof:categories": [
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "sg:retail_goods=shopping", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "manufacturing_and_wholesale_goods:manufacturing=paper_products", 
+    "manufacturing_and_wholesale_goods:wholesale=office_equipment", 
+    "services:retail=repair_shop", 
+    "sg:services=retail", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "business", 
     "form", 
@@ -46,6 +59,6 @@
     "store", 
     "trade"
   ], 
-  "wof:brand_name": "Standard Register Company", 
-  "wof:brand_id": 1125151021
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416282
 }

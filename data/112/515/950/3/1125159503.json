@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414520, 
+  "wof:brand_name": "Club Z In Home Tutoring", 
+  "wof:brand_id": 1125159503, 
+  "wof:categories": [
+    "sg:public_place=education", 
+    "public_place:education=special_training", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional", 
+    "public_place:education=school"
+  ], 
   "wof:tags": [
     "tutoring", 
     "educational", 
@@ -11,6 +18,6 @@
     "music", 
     "school"
   ], 
-  "wof:brand_name": "Club Z In Home Tutoring", 
-  "wof:brand_id": 1125159503
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416282
 }

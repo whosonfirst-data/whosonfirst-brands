@@ -1,11 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414506, 
+  "wof:brand_name": "Louis Delhaize", 
+  "wof:brand_id": 1125152795, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:food_and_beverages=supermarket"
+  ], 
   "wof:tags": [
     "grocer", 
     "department", 
     "store"
   ], 
-  "wof:brand_name": "Louis Delhaize", 
-  "wof:brand_id": 1125152795
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416271
 }

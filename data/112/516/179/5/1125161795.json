@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414549, 
+  "wof:brand_name": "Dvv", 
+  "wof:brand_id": 1125161795, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=life_insurance", 
+    "services:insurance=insurance_agent", 
+    "services:communications=radio_station", 
+    "sg:services=communications"
+  ], 
   "wof:tags": [
     "assurance", 
     "expert", 
@@ -10,6 +17,6 @@
     "habitation", 
     "vie"
   ], 
-  "wof:brand_name": "Dvv", 
-  "wof:brand_id": 1125161795
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416305
 }

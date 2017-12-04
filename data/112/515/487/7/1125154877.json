@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414497, 
+  "wof:brand_name": "Hair Place", 
+  "wof:brand_id": 1125154877, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
@@ -12,6 +18,6 @@
     "styling", 
     "unisex"
   ], 
-  "wof:brand_name": "Hair Place", 
-  "wof:brand_id": 1125154877
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416264
 }

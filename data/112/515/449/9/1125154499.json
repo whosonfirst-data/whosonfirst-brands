@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414527, 
+  "wof:brand_name": "Zales The Diamond Store", 
+  "wof:brand_id": 1125154499, 
+  "wof:categories": [
+    "retail_goods:shopping=jewelry", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "jeweler"
   ], 
-  "wof:brand_name": "Zales The Diamond Store", 
-  "wof:brand_id": 1125154499
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416288
 }

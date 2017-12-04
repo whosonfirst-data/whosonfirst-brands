@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414461, 
+  "wof:brand_name": "Pantry", 
+  "wof:brand_id": 420574997, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=specialty", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "services:organizations=nonprofit_organization", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "grocer", 
     "eating", 
@@ -20,6 +35,6 @@
     "parcel", 
     "social"
   ], 
-  "wof:brand_name": "Pantry", 
-  "wof:brand_id": 420574997
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416235
 }

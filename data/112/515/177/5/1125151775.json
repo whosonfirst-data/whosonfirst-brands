@@ -1,12 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414492, 
+  "wof:brand_name": "Deb", 
+  "wof:brand_id": 1125151775, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=used_merchandise"
+  ], 
   "wof:tags": [
     "women's", 
     "apparel", 
     "clothing", 
     "store"
   ], 
-  "wof:brand_name": "Deb", 
-  "wof:brand_id": 1125151775
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416260
 }

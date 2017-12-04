@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414527, 
+  "wof:brand_name": "Casa", 
+  "wof:brand_id": 1125150663, 
+  "wof:categories": [
+    "sg:services=social_services", 
+    "services:organizations=nonprofit_organization", 
+    "sg:services=organizations", 
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "services:professional=lawyer_and_legal_services", 
+    "sg:services=health_services", 
+    "public_place:government=office", 
+    "retail_goods:home_and_garden=furniture", 
+    "services:health_services=hospital", 
+    "services:health_services=nursing_and_care_facility", 
+    "services:professional=management_and_consulting", 
+    "services:social_services=child_care", 
+    "sg:food_and_drink=restaurant", 
+    "sg:public_place=government", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "information", 
     "treatment", 
@@ -34,6 +52,6 @@
     "train", 
     "volunteer"
   ], 
-  "wof:brand_name": "Casa", 
-  "wof:brand_id": 1125150663
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416288
 }

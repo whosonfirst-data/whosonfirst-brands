@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414450, 
+  "wof:brand_name": "Papa Johns", 
+  "wof:brand_id": 420575935, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "services:professional=management_and_consulting", 
+    "services:real_estate=real_estate_agent", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "eating", 
     "pizza", 
@@ -20,6 +36,6 @@
     "station", 
     "take"
   ], 
-  "wof:brand_name": "Papa Johns", 
-  "wof:brand_id": 420575935
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416226
 }

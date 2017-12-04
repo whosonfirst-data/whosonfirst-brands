@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414477, 
+  "wof:brand_name": "Longaberger", 
+  "wof:brand_id": 1125157895, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "services:professional=management_and_consulting", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:retail_goods=home_and_garden", 
+    "manufacturing_and_wholesale_goods:manufacturing=wood_products", 
+    "retail_goods:shopping=catalog_store", 
+    "retail_goods:shopping=crafts_and_fabrics", 
+    "services:building_and_trades=construction", 
+    "services:professional=business_services", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "basket", 
     "direct", 
@@ -16,6 +34,6 @@
     "mfg", 
     "supply"
   ], 
-  "wof:brand_name": "Longaberger", 
-  "wof:brand_id": 1125157895
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416247
 }

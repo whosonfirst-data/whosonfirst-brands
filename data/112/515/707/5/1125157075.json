@@ -1,12 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414498, 
+  "wof:brand_name": "Super 10", 
+  "wof:brand_id": 1125157075, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=clothing_apparel_and_fashions"
+  ], 
   "wof:tags": [
     "shop", 
     "accessory", 
     "clothing", 
     "women's"
   ], 
-  "wof:brand_name": "Super 10", 
-  "wof:brand_id": 1125157075
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416265
 }

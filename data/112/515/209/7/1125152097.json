@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414496, 
+  "wof:brand_name": "Human Resources Dept", 
+  "wof:brand_id": 1125152097, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "services:professional=employment_agencies", 
+    "public_place:education=school", 
+    "sg:public_place=education", 
+    "sg:transportation=school_buses"
+  ], 
   "wof:tags": [
     "resource", 
     "state", 
@@ -28,6 +38,6 @@
     "private", 
     "relations"
   ], 
-  "wof:brand_name": "Human Resources Dept", 
-  "wof:brand_id": 1125152097
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416263
 }

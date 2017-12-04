@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414547, 
+  "wof:brand_name": "A Advanced Satellite Television", 
+  "wof:brand_id": 1125162483, 
+  "wof:categories": [
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "sg:retail_goods=shopping", 
+    "services:communications=television_station", 
+    "sg:services=communications", 
+    "services:retail=repair_shop", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "cable", 
     "satellite", 
@@ -12,6 +20,6 @@
     "carrier", 
     "communications-common"
   ], 
-  "wof:brand_name": "A Advanced Satellite Television", 
-  "wof:brand_id": 1125162483
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416304
 }

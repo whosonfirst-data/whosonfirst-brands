@@ -1,6 +1,37 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414485, 
+  "wof:brand_name": "Perfect Image", 
+  "wof:brand_id": 1125159335, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "sg:services=professional", 
+    "sg:services=retail", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "services:professional=printing_and_photocopies", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:personal=barber", 
+    "services:professional=business_services", 
+    "services:retail=car_wash", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "entertainment:arts_and_performance=theater", 
+    "manufacturing_and_wholesale_goods:wholesale=furniture", 
+    "manufacturing_and_wholesale_goods:wholesale=home_furnishings", 
+    "retail_goods:shopping=catalog_store", 
+    "services:building_and_trades=landscaping_services", 
+    "services:communications=film_and_video_production", 
+    "services:health_services=doctor", 
+    "services:professional=art_services", 
+    "services:retail=auto_repair", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "services:retail=photofinishing", 
+    "services:retail=portrait_studio", 
+    "sg:entertainment=arts_and_performance", 
+    "sg:services=building_and_trades", 
+    "sg:services=communications", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "shop", 
     "automobile", 
@@ -38,6 +69,6 @@
     "theatrical", 
     "unisex"
   ], 
-  "wof:brand_name": "Perfect Image", 
-  "wof:brand_id": 1125159335
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416254
 }

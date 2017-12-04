@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414537, 
+  "wof:brand_name": "H Q Global Workplaces", 
+  "wof:brand_id": 1125158785, 
+  "wof:categories": [
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_operator", 
+    "services:real_estate=real_estate_agent", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "services:professional=secretarial_services", 
+    "public_place:structure=office_building", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "sg:public_place=conference_center", 
+    "sg:public_place=industrial_area", 
+    "sg:public_place=structure", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "lessor", 
     "property", 
@@ -25,6 +40,6 @@
     "specializing", 
     "sublease"
   ], 
-  "wof:brand_name": "H Q Global Workplaces", 
-  "wof:brand_id": 1125158785
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416295
 }

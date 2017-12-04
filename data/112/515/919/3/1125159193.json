@@ -1,6 +1,25 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414478, 
+  "wof:brand_name": "Checkmate", 
+  "wof:brand_id": 1125159193, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=professional", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:professional=employment_agencies", 
+    "services:professional=business_services", 
+    "sg:services=personal", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:insurance=insurance_agent", 
+    "services:personal=barber", 
+    "services:personal=beauty_salon", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=management_and_consulting", 
+    "services:retail=repair_shop", 
+    "sg:retail_goods=shopping", 
+    "sg:services=insurance", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "cashing", 
     "check", 
@@ -26,6 +45,6 @@
     "plan", 
     "unisex"
   ], 
-  "wof:brand_name": "Checkmate", 
-  "wof:brand_id": 1125159193
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416248
 }

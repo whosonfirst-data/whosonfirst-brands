@@ -1,6 +1,34 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414516, 
+  "wof:brand_name": "Community Development", 
+  "wof:brand_id": 1125153365, 
+  "wof:categories": [
+    "sg:public_place=government", 
+    "public_place:government=office", 
+    "sg:services=professional", 
+    "sg:services=real_estate", 
+    "services:professional=management_and_consulting", 
+    "sg:services=organizations", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=social_services", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:building_and_trades=construction", 
+    "services:organizations=community_association", 
+    "services:real_estate=surveying", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:manufacturing=furniture", 
+    "public_place:government=city_hall", 
+    "public_place:government=police_station", 
+    "services:banks_and_credit_unions=bank", 
+    "services:health_services=hospital", 
+    "services:organizations=membership_organization", 
+    "services:organizations=nonprofit_organization", 
+    "services:professional=business_services", 
+    "services:real_estate=developer", 
+    "services:real_estate=real_estate_agent", 
+    "services:real_estate=real_estate_services", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "planning", 
     "city", 
@@ -64,6 +92,6 @@
     "transportation", 
     "village"
   ], 
-  "wof:brand_name": "Community Development", 
-  "wof:brand_id": 1125153365
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416279
 }

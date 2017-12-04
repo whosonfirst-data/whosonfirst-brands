@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414512, 
+  "wof:brand_name": "Long & Foster Realtors", 
+  "wof:brand_id": 1125150865, 
+  "wof:categories": [
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_agent", 
+    "services:real_estate=real_estate_services"
+  ], 
   "wof:tags": [
     "broker", 
     "buyer", 
@@ -12,6 +17,6 @@
     "firm", 
     "residential"
   ], 
-  "wof:brand_name": "Long & Foster Realtors", 
-  "wof:brand_id": 1125150865
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416276
 }

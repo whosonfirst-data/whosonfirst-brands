@@ -1,6 +1,28 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414475, 
+  "wof:brand_name": "I T S", 
+  "wof:brand_id": 1125159891, 
+  "wof:categories": [
+    "sg:transportation=freight", 
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "services:professional=computer_services", 
+    "services:utilities=telephone", 
+    "sg:services=real_estate", 
+    "sg:services=utilities", 
+    "entertainment:travel=travel_agent", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "services:professional=art_services", 
+    "services:professional=employment_agencies", 
+    "services:professional=engineering", 
+    "services:professional=management_and_consulting", 
+    "services:real_estate=real_estate_services", 
+    "services:real_estate=surveying", 
+    "sg:entertainment=travel", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:transportation=marine"
+  ], 
   "wof:tags": [
     "appraisal", 
     "surveying", 
@@ -40,6 +62,6 @@
     "vehicle", 
     "water"
   ], 
-  "wof:brand_name": "I T S", 
-  "wof:brand_id": 1125159891
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416246
 }

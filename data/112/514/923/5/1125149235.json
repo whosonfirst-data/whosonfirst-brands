@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414562, 
+  "wof:brand_name": "Tire Kingdom", 
+  "wof:brand_id": 1125149235, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "tire", 
     "brake", 
@@ -18,6 +26,6 @@
     "shop", 
     "tube"
   ], 
-  "wof:brand_name": "Tire Kingdom", 
-  "wof:brand_id": 1125149235
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416315
 }

@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414545, 
+  "wof:brand_name": "Tony's", 
+  "wof:brand_id": 1125162051, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:shopping=used_merchandise", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "public_place:community_center=social", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "retail_goods:shopping=musical_instruments", 
+    "services:retail=auto_repair", 
+    "services:retail=repair_shop", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:public_place=community_center", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "italian", 
     "american", 
@@ -20,6 +38,6 @@
     "sewing", 
     "store"
   ], 
-  "wof:brand_name": "Tony's", 
-  "wof:brand_id": 1125162051
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416302
 }

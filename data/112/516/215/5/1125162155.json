@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414549, 
+  "wof:brand_name": "Busy Body Home Fitness", 
+  "wof:brand_id": 1125162155, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "sg:entertainment=sports_and_exercise", 
+    "entertainment:sports_and_exercise=gym", 
+    "entertainment:sports_and_exercise=playing_field", 
+    "manufacturing_and_wholesale_goods:wholesale=sporting_goods", 
+    "services:professional=management_and_consulting", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "equipment", 
     "exercise", 
@@ -17,6 +28,6 @@
     "system", 
     "trainer"
   ], 
-  "wof:brand_name": "Busy Body Home Fitness", 
-  "wof:brand_id": 1125162155
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416305
 }

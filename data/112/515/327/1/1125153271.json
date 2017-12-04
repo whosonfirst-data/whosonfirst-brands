@@ -1,12 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414512, 
+  "wof:brand_name": "A 24 Locksmith", 
+  "wof:brand_id": 1125153271, 
+  "wof:categories": [
+    "services:building_and_trades=locksmith", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "key", 
     "lock", 
     "industrial", 
     "locksmiths-commercial"
   ], 
-  "wof:brand_name": "A 24 Locksmith", 
-  "wof:brand_id": 1125153271
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416276
 }

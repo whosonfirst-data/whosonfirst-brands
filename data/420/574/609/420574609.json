@@ -1,6 +1,37 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414457, 
+  "wof:brand_name": "Catholic Charities", 
+  "wof:brand_id": 420574609, 
+  "wof:categories": [
+    "sg:services=social_services", 
+    "sg:services=organizations", 
+    "services:organizations=nonprofit_organization", 
+    "services:organizations=religious_organization", 
+    "sg:services=health_services", 
+    "services:social_services=child_care", 
+    "services:organizations=membership_organization", 
+    "services:health_services=hospital", 
+    "services:social_services=adult_care", 
+    "services:health_services=clinic", 
+    "sg:public_place=education", 
+    "sg:retail_goods=shopping", 
+    "public_place:education=preschool", 
+    "public_place:education=school", 
+    "retail_goods:shopping=used_merchandise", 
+    "sg:services=professional", 
+    "services:organizations=community_association", 
+    "public_place:community_center=senior", 
+    "public_place:education=kindergarten", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:health_services=doctor", 
+    "services:organizations=professional_association", 
+    "services:professional=employment_agencies", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:real_estate=architect", 
+    "services:social_services=job_training", 
+    "sg:public_place=community_center", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "welfare", 
     "organization", 
@@ -84,6 +115,6 @@
     "work", 
     "workers'"
   ], 
-  "wof:brand_name": "Catholic Charities", 
-  "wof:brand_id": 420574609
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416232
 }

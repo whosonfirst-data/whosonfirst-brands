@@ -1,11 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414522, 
+  "wof:brand_name": "US Interior Dept", 
+  "wof:brand_id": 1125152177, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "services:professional=business_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "federal", 
     "agency", 
     "credit"
   ], 
-  "wof:brand_name": "US Interior Dept", 
-  "wof:brand_id": 1125152177
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416284
 }

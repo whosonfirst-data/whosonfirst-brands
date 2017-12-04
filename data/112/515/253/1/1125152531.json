@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414495, 
+  "wof:brand_name": "Icing By Claire's", 
+  "wof:brand_id": 1125152531, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=jewelry", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "sg:services=personal", 
+    "retail_goods:shopping=optician", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "shop", 
     "specialty", 
@@ -17,6 +26,6 @@
     "jewelry", 
     "women's"
   ], 
-  "wof:brand_name": "Icing By Claire's", 
-  "wof:brand_id": 1125152531
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416262
 }

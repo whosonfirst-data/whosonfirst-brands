@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414556, 
+  "wof:brand_name": "Sleepy's, The Mattress Professionals", 
+  "wof:brand_id": 1125149537, 
+  "wof:categories": [
+    "retail_goods:home_and_garden=carpets_and_floor_coverings", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "mattress"
   ], 
-  "wof:brand_name": "Sleepy's, The Mattress Professionals", 
-  "wof:brand_id": 1125149537
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416310
 }

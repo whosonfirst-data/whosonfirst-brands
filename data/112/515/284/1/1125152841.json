@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414471, 
+  "wof:brand_name": "Amoco Food Mart", 
+  "wof:brand_id": 1125152841, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:services=professional", 
+    "services:professional=engineering", 
+    "services:professional=management_and_consulting", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "station", 
     "gasoline", 
@@ -23,6 +34,6 @@
     "snack", 
     "stop"
   ], 
-  "wof:brand_name": "Amoco Food Mart", 
-  "wof:brand_id": 1125152841
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416243
 }

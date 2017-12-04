@@ -1,6 +1,38 @@
 {
   "wof:brand_name": "Bank of America", 
   "wof:brand_id": 420573893, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=atm", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=professional", 
+    "sg:services=organizations", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "services:organizations=professional_association", 
+    "services:professional=business_services", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=real_estate", 
+    "sg:transportation=freight", 
+    "services:building_and_trades=equipment_rental", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=computer_services", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=building_and_trades", 
+    "public_place:education=vocational_school", 
+    "services:insurance=insurance_agent", 
+    "services:organizations=membership_organization", 
+    "services:professional=advertising", 
+    "services:professional=employment_agencies", 
+    "services:professional=management_and_consulting", 
+    "services:real_estate=real_estate_services", 
+    "services:social_services=job_training", 
+    "sg:public_place=education", 
+    "sg:services=insurance", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "commercial", 
     "national", 
@@ -82,6 +114,6 @@
     1125152699
   ], 
   "wof:brand_size": "XXL", 
-  "wof:lastmodified": 1512414453, 
+  "wof:lastmodified": 1512416228, 
   "mz:is_current": 1
 }

@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414467, 
+  "wof:brand_name": "Hot Nails", 
+  "wof:brand_id": 1125155759, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "services:personal=barber", 
+    "services:personal=day_spa", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "manicuring", 
     "shop", 
@@ -11,6 +20,6 @@
     "stylist", 
     "supply"
   ], 
-  "wof:brand_name": "Hot Nails", 
-  "wof:brand_id": 1125155759
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416239
 }

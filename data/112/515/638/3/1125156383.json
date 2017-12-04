@@ -1,6 +1,34 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414509, 
+  "wof:brand_name": "Eaton Corporation", 
+  "wof:brand_id": 1125156383, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "manufacturing_and_wholesale_goods:manufacturing=electronics", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=rubber_and_plastics", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:manufacturing=motor_vehicles_and_parts", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "services:retail=repair_shop", 
+    "sg:services=retail", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "services:building_and_trades=electrical", 
+    "services:professional=engineering", 
+    "services:professional=management_and_consulting", 
+    "manufacturing_and_wholesale_goods:wholesale=construction_materials", 
+    "services:building_and_trades=construction", 
+    "services:professional=business_services", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:professional=testing_lab", 
+    "services:utilities=electric", 
+    "sg:services=utilities", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "mfg", 
     "power", 
@@ -68,6 +96,6 @@
     "valve", 
     "vehicle"
   ], 
-  "wof:brand_name": "Eaton Corporation", 
-  "wof:brand_id": 1125156383
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416273
 }

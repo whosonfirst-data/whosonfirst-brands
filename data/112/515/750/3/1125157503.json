@@ -1,6 +1,38 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414475, 
+  "wof:brand_name": "Special Effects", 
+  "wof:brand_id": 1125157503, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=carpets_and_floor_coverings", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:building_and_trades=construction", 
+    "services:personal=barber", 
+    "sg:services=building_and_trades", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=retail", 
+    "entertainment:arts_and_performance=art_gallery", 
+    "entertainment:cinema=movie_rental", 
+    "entertainment:travel=travel_agent", 
+    "manufacturing_and_wholesale_goods:manufacturing=glass_and_minerals", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:professional=advertising", 
+    "services:retail=auto_repair", 
+    "services:retail=portrait_studio", 
+    "sg:entertainment=arts_and_performance", 
+    "sg:entertainment=cinema", 
+    "sg:entertainment=travel"
+  ], 
   "wof:tags": [
     "shop", 
     "dealer", 
@@ -42,6 +74,6 @@
     "video", 
     "vinyl"
   ], 
-  "wof:brand_name": "Special Effects", 
-  "wof:brand_id": 1125157503
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416246
 }

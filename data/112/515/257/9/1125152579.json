@@ -1,12 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414512, 
+  "wof:brand_name": "Breadeaux Pizza", 
+  "wof:brand_id": 1125152579, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food"
+  ], 
   "wof:tags": [
     "pizza", 
     "american", 
     "eating", 
     "take"
   ], 
-  "wof:brand_name": "Breadeaux Pizza", 
-  "wof:brand_id": 1125152579
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416276
 }

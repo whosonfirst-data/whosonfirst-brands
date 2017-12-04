@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414510, 
+  "wof:brand_name": "Sns", 
+  "wof:brand_id": 1125156653, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:building_and_trades=electrical", 
+    "sg:food_and_drink=restaurant", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "leasing", 
     "communication", 
@@ -9,6 +15,6 @@
     "installer", 
     "wireless"
   ], 
-  "wof:brand_name": "Sns", 
-  "wof:brand_id": 1125156653
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416275
 }

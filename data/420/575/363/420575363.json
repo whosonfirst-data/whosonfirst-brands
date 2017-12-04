@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414446, 
+  "wof:brand_name": "ADT Security Services Inc", 
+  "wof:brand_id": 420575363, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=detective_and_security_services", 
+    "sg:services=utilities", 
+    "services:building_and_trades=electrical", 
+    "sg:services=building_and_trades", 
+    "services:utilities=telephone", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping", 
+    "services:professional=management_and_consulting", 
+    "services:retail=repair_shop", 
+    "services:utilities=mobile_phone", 
+    "sg:services=retail", 
+    "services:professional=business_services", 
+    "sg:transportation=freight", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=computer_services", 
+    "services:professional=engineering"
+  ], 
   "wof:tags": [
     "system", 
     "electrical", 
@@ -63,6 +83,6 @@
     "switching", 
     "warehouse"
   ], 
-  "wof:brand_name": "ADT Security Services Inc", 
-  "wof:brand_id": 420575363
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416223
 }

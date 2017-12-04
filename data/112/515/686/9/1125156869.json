@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414468, 
+  "wof:brand_name": "United Studios of Self Defense", 
+  "wof:brand_id": 1125156869, 
+  "wof:categories": [
+    "entertainment:arena=sports_club", 
+    "sg:entertainment=arena", 
+    "sg:entertainment=recreation", 
+    "sg:entertainment=sports_and_exercise", 
+    "entertainment:sports_and_exercise=gym", 
+    "entertainment:sports_and_exercise=playing_field", 
+    "public_place:education=special_training", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "sg:public_place=education", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "martial art", 
     "instruction", 
@@ -11,6 +23,6 @@
     "specialty", 
     "trainer"
   ], 
-  "wof:brand_name": "United Studios of Self Defense", 
-  "wof:brand_id": 1125156869
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416240
 }

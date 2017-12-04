@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414543, 
+  "wof:brand_name": "Crs", 
+  "wof:brand_id": 1125161077, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "sg:services=professional", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "manufacturing_and_wholesale_goods:wholesale=office_equipment", 
+    "public_place:education=special_training", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "services:building_and_trades=construction", 
+    "services:building_and_trades=plumbing", 
+    "services:professional=employment_agencies", 
+    "services:professional=management_and_consulting", 
+    "services:retail=auto_repair", 
+    "sg:public_place=education", 
+    "sg:retail_goods=shopping", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "apparatus", 
     "art", 
@@ -19,6 +39,6 @@
     "scientific", 
     "shop"
   ], 
-  "wof:brand_name": "Crs", 
-  "wof:brand_id": 1125161077
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416300
 }

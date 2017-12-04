@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414476, 
+  "wof:brand_name": "Williams-Sonoma", 
+  "wof:brand_id": 1125152247, 
+  "wof:categories": [
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "retail_goods:home_and_garden=kitchen_supply", 
+    "manufacturing_and_wholesale_goods:manufacturing=glass_and_minerals", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:shopping=baby_store", 
+    "retail_goods:shopping=clothing_apparel_and_fashions"
+  ], 
   "wof:tags": [
     "kitchen", 
     "accessory", 
@@ -22,6 +38,6 @@
     "furniture", 
     "gear"
   ], 
-  "wof:brand_name": "Williams-Sonoma", 
-  "wof:brand_id": 1125152247
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416246
 }

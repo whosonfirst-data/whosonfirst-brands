@@ -1,10 +1,19 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414471, 
+  "wof:brand_name": "The Swan", 
+  "wof:brand_id": 1125156311, 
+  "wof:categories": [
+    "sg:food_and_drink=bars_and_pubs", 
+    "public_place:community_center=social", 
+    "sg:public_place=community_center", 
+    "entertainment:travel=hotels_and_motels", 
+    "retail_goods:shopping=news", 
+    "sg:entertainment=travel", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "inn", 
     "pubs"
   ], 
-  "wof:brand_name": "The Swan", 
-  "wof:brand_id": 1125156311
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416243
 }

@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414528, 
+  "wof:brand_name": "Jefferson Elementary School", 
+  "wof:brand_id": 1125150981, 
+  "wof:categories": [
+    "public_place:education=school", 
+    "sg:public_place=education", 
+    "education_and_religion:education=school"
+  ], 
   "wof:tags": [
     "elementary", 
     "middle", 
@@ -12,6 +17,6 @@
     "school", 
     "secondary"
   ], 
-  "wof:brand_name": "Jefferson Elementary School", 
-  "wof:brand_id": 1125150981
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416289
 }

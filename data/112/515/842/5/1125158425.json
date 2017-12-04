@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414480, 
+  "wof:brand_name": "Wonder Bread", 
+  "wof:brand_id": 1125158425, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:retail_goods=food_and_beverages", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:food_and_drink=bakery", 
+    "retail_goods:shopping=department_store", 
+    "sg:retail_goods=shopping", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "product", 
     "baker", 
@@ -22,6 +34,6 @@
     "thrift", 
     "wonder"
   ], 
-  "wof:brand_name": "Wonder Bread", 
-  "wof:brand_id": 1125158425
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416249
 }

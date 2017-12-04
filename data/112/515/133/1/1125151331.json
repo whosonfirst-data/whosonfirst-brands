@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414481, 
+  "wof:brand_name": "Sisters Of Mercy", 
+  "wof:brand_id": 1125151331, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=monastery", 
+    "sg:public_place=place_of_worship", 
+    "sg:services=social_services", 
+    "public_place:place_of_worship=church", 
+    "services:health_services=hospital", 
+    "services:social_services=adult_care", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "convent", 
     "monastery", 
@@ -10,6 +21,6 @@
     "organisation", 
     "residential"
   ], 
-  "wof:brand_name": "Sisters Of Mercy", 
-  "wof:brand_id": 1125151331
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416251
 }

@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414500, 
+  "wof:brand_name": "Dorothy Perkins", 
+  "wof:brand_id": 1125150499, 
+  "wof:categories": [
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=shoes"
+  ], 
   "wof:tags": [
     "ladieswear", 
     "fashionwear", 
@@ -8,6 +13,6 @@
     "menswear", 
     "shop"
   ], 
-  "wof:brand_name": "Dorothy Perkins", 
-  "wof:brand_id": 1125150499
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416267
 }

@@ -1,11 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414494, 
+  "wof:brand_name": "Beaumont Tiles", 
+  "wof:brand_id": 1125159167, 
+  "wof:categories": [
+    "retail_goods:home_and_garden=carpets_and_floor_coverings", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "tile", 
     "wall", 
     "layer"
   ], 
-  "wof:brand_name": "Beaumont Tiles", 
-  "wof:brand_id": 1125159167
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416261
 }

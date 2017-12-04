@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414555, 
+  "wof:brand_name": "Dollar Rent A Car", 
+  "wof:brand_id": 1125149649, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=auto_rental", 
+    "services:retail=storage", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:home_and_garden=building_materials", 
+    "services:banks_and_credit_unions=bank", 
+    "services:retail=auto_repair", 
+    "services:retail=car_wash", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:transportation=local_transit"
+  ], 
   "wof:tags": [
     "automobile", 
     "car", 
@@ -34,6 +50,6 @@
     "used", 
     "washing"
   ], 
-  "wof:brand_name": "Dollar Rent A Car", 
-  "wof:brand_id": 1125149649
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416310
 }

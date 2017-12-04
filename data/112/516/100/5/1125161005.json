@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414542, 
+  "wof:brand_name": "Wesley Foundation", 
+  "wof:brand_id": 1125161005, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=religious_organization", 
+    "sg:services=professional", 
+    "sg:services=social_services", 
+    "public_place:education=college", 
+    "public_place:place_of_worship=church", 
+    "services:organizations=membership_organization", 
+    "services:organizations=nonprofit_organization", 
+    "services:professional=research", 
+    "services:social_services=child_care", 
+    "sg:public_place=education", 
+    "sg:public_place=place_of_worship"
+  ], 
   "wof:tags": [
     "church", 
     "academic", 
@@ -16,6 +30,6 @@
     "school", 
     "united"
   ], 
-  "wof:brand_name": "Wesley Foundation", 
-  "wof:brand_id": 1125161005
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416300
 }

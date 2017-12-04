@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414562, 
+  "wof:brand_name": "Leonidas", 
+  "wof:brand_id": 1125149401, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=chocolate", 
+    "retail_goods:food_and_beverages=candy", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "confectionery", 
     "-", 
@@ -13,6 +22,6 @@
     "shop", 
     "store"
   ], 
-  "wof:brand_name": "Leonidas", 
-  "wof:brand_id": 1125149401
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416316
 }

@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414516, 
+  "wof:brand_name": "Virgin Megastore", 
+  "wof:brand_id": 1125158217, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=music", 
+    "services:communications=film_and_video_production", 
+    "sg:services=communications", 
+    "retail_goods:shopping=used_merchandise", 
+    "retail_goods:shopping=books"
+  ], 
   "wof:tags": [
     "record", 
     "tape", 
@@ -17,6 +25,6 @@
     "used", 
     "video"
   ], 
-  "wof:brand_name": "Virgin Megastore", 
-  "wof:brand_id": 1125158217
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416279
 }

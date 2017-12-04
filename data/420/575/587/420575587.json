@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414451, 
+  "wof:brand_name": "Revenue Dept", 
+  "wof:brand_id": 420575587, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:services=personal", 
+    "services:professional=accounting_and_tax_preparation", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "state", 
     "taxation", 
@@ -8,6 +15,6 @@
     "motor", 
     "vehicle"
   ], 
-  "wof:brand_name": "Revenue Dept", 
-  "wof:brand_id": 420575587
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416227
 }

@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414525, 
+  "wof:brand_name": "Pet Stop", 
+  "wof:brand_id": 1125154461, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=pets_and_pet_supplies", 
+    "sg:services=retail", 
+    "services:retail=animal_services", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=construction_materials", 
+    "services:retail=pet_boarding", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "manufacturing_and_wholesale_goods:wholesale=farm_supplies", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "services:building_and_trades=construction", 
+    "services:professional=business_services", 
+    "services:retail=veterinary_services", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=building_and_trades", 
+    "sg:services=personal", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "pet", 
     "shop", 
@@ -23,6 +43,6 @@
     "wall", 
     "wallpaper"
   ], 
-  "wof:brand_name": "Pet Stop", 
-  "wof:brand_id": 1125154461
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416286
 }

@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414558, 
+  "wof:brand_name": "US Army Corps Of Engineers", 
+  "wof:brand_id": 1125149575, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "services:professional=engineering", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "federal", 
     "engineering", 
@@ -15,6 +21,6 @@
     "military", 
     "water"
   ], 
-  "wof:brand_name": "US Army Corps Of Engineers", 
-  "wof:brand_id": 1125149575
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416312
 }

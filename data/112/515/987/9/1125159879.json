@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414522, 
+  "wof:brand_name": "Hairways", 
+  "wof:brand_id": 1125159879, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "hairdresser", 
     "unisex", 
@@ -11,6 +18,6 @@
     "men's", 
     "stylist"
   ], 
-  "wof:brand_name": "Hairways", 
-  "wof:brand_id": 1125159879
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416283
 }

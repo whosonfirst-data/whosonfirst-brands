@@ -1,6 +1,30 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414456, 
+  "wof:brand_name": "American Cancer Society", 
+  "wof:brand_id": 420574787, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=professional_association", 
+    "sg:services=social_services", 
+    "services:organizations=nonprofit_organization", 
+    "services:social_services=child_care", 
+    "sg:services=professional", 
+    "services:professional=research", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=used_merchandise", 
+    "sg:services=health_services", 
+    "services:health_services=clinic", 
+    "services:organizations=membership_organization", 
+    "sg:public_place=government", 
+    "public_place:government=office", 
+    "public_place:government=city_hall", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=florist", 
+    "services:health_services=hospital", 
+    "services:professional=management_and_consulting", 
+    "sg:public_place=community_center", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "cancer", 
     "fund", 
@@ -49,6 +73,6 @@
     "society", 
     "specialty"
   ], 
-  "wof:brand_name": "American Cancer Society", 
-  "wof:brand_id": 420574787
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416231
 }

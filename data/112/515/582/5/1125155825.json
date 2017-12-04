@@ -1,12 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414514, 
+  "wof:brand_name": "Pentecostal Holiness Church", 
+  "wof:brand_id": 1125155825, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship"
+  ], 
   "wof:tags": [
     "church", 
     "churches-pentecostal-holiness", 
     "churches-various", 
     "denomination"
   ], 
-  "wof:brand_name": "Pentecostal Holiness Church", 
-  "wof:brand_id": 1125155825
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416277
 }

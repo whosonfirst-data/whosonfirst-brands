@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414480, 
+  "wof:brand_name": "Maximus Inc", 
+  "wof:brand_id": 1125154235, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "sg:services=social_services", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate", 
+    "services:professional=business_services", 
+    "services:professional=employment_agencies", 
+    "services:professional=research", 
+    "services:social_services=job_training", 
+    "sg:services=organizations", 
+    "services:organizations=nonprofit_organization", 
+    "services:organizations=professional_association"
+  ], 
   "wof:tags": [
     "business", 
     "consultant", 
@@ -32,6 +47,6 @@
     "se", 
     "to"
   ], 
-  "wof:brand_name": "Maximus Inc", 
-  "wof:brand_id": 1125154235
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416250
 }

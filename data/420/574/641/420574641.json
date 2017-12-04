@@ -1,11 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414460, 
+  "wof:brand_name": "Gemeindebibliothek", 
+  "wof:brand_id": 420574641, 
+  "wof:categories": [
+    "public_place:education=library", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "archive", 
     "bibliotheken", 
     "u"
   ], 
-  "wof:brand_name": "Gemeindebibliothek", 
-  "wof:brand_id": 420574641
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416233
 }

@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414505, 
+  "wof:brand_name": "Graybar Electric Co", 
+  "wof:brand_id": 1125151219, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "services:building_and_trades=electrical", 
+    "sg:services=building_and_trades", 
+    "sg:retail_goods=home_and_garden", 
+    "manufacturing_and_wholesale_goods:manufacturing=electronics", 
+    "retail_goods:home_and_garden=building_materials", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:utilities=electric", 
+    "sg:retail_goods=shopping", 
+    "sg:services=utilities", 
+    "retail_goods:home_and_garden=hardware", 
+    "retail_goods:home_and_garden=household_appliances"
+  ], 
   "wof:tags": [
     "electric", 
     "equipment", 
@@ -16,6 +33,6 @@
     "major", 
     "store"
   ], 
-  "wof:brand_name": "Graybar Electric Co", 
-  "wof:brand_id": 1125151219
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416271
 }

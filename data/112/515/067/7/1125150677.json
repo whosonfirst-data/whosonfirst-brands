@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414497, 
+  "wof:brand_name": "Nail Studio", 
+  "wof:brand_id": 1125150677, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "manicuring", 
     "shop", 
@@ -10,6 +17,6 @@
     "salon", 
     "technician"
   ], 
-  "wof:brand_name": "Nail Studio", 
-  "wof:brand_id": 1125150677
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416264
 }

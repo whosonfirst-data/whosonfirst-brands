@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414548, 
+  "wof:brand_name": "Auto Value", 
+  "wof:brand_id": 1125162529, 
+  "wof:categories": [
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=retail", 
+    "services:retail=auto_repair", 
+    "manufacturing_and_wholesale_goods:manufacturing=motor_vehicles_and_parts", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "retail_goods:home_and_garden=hardware", 
+    "services:organizations=professional_association", 
+    "services:retail=car_wash", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "automobile", 
     "parts", 
@@ -26,6 +42,6 @@
     "service-equipment", 
     "supply-wholesale"
   ], 
-  "wof:brand_name": "Auto Value", 
-  "wof:brand_id": 1125162529
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416304
 }

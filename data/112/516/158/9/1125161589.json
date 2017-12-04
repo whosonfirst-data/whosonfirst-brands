@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414547, 
+  "wof:brand_name": "Resurrection Lutheran Church", 
+  "wof:brand_id": 1125161589, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship", 
+    "public_place:education=preschool", 
+    "sg:public_place=education", 
+    "services:social_services=child_care", 
+    "sg:services=social_services", 
+    "public_place:education=school"
+  ], 
   "wof:tags": [
     "church", 
     "churches-lutheran", 
@@ -21,6 +32,6 @@
     "organization", 
     "private"
   ], 
-  "wof:brand_name": "Resurrection Lutheran Church", 
-  "wof:brand_id": 1125161589
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416304
 }

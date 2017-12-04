@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414451, 
+  "wof:brand_name": "Army National Guard", 
+  "wof:brand_id": 420575603, 
+  "wof:categories": [
+    "sg:public_place=government", 
+    "public_place:government=office", 
+    "sg:public_place=military_area", 
+    "sg:services=professional", 
+    "public_place:government=city_hall", 
+    "services:professional=detective_and_security_services", 
+    "services:professional=employment_agencies", 
+    "services:retail=auto_repair", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "security", 
     "state", 
@@ -22,6 +33,6 @@
     "search", 
     "transportation"
   ], 
-  "wof:brand_name": "Army National Guard", 
-  "wof:brand_id": 420575603
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416227
 }

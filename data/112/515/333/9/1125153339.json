@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414514, 
+  "wof:brand_name": "The Original Pancake House", 
+  "wof:brand_id": 1125153339, 
+  "wof:categories": [
+    "sg:food_and_drink=bakery", 
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "american", 
     "diner", 
@@ -15,6 +19,6 @@
     "eating", 
     "scandinavian"
   ], 
-  "wof:brand_name": "The Original Pancake House", 
-  "wof:brand_id": 1125153339
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416277
 }

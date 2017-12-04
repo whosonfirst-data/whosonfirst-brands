@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414524, 
+  "wof:brand_name": "Equity One Inc", 
+  "wof:brand_id": 1125153291, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "services:personal=hair_removal", 
+    "services:real_estate=real_estate_operator", 
+    "sg:services=personal", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "loan", 
     "real estate", 
@@ -17,6 +25,6 @@
     "investment", 
     "trust"
   ], 
-  "wof:brand_name": "Equity One Inc", 
-  "wof:brand_id": 1125153291
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416285
 }

@@ -1,6 +1,25 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414521, 
+  "wof:brand_name": "Auto Mart", 
+  "wof:brand_id": 1125159791, 
+  "wof:categories": [
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "services:professional=advertising", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional", 
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:wholesale=motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "retail_goods:shopping=news", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "car", 
     "dealer", 
@@ -24,6 +43,6 @@
     "sample", 
     "shop"
   ], 
-  "wof:brand_name": "Auto Mart", 
-  "wof:brand_id": 1125159791
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416283
 }

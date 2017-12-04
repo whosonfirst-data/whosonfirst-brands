@@ -1,6 +1,26 @@
 {
   "wof:brand_name": "Eddie Bauer", 
   "wof:brand_id": 1125149169, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "entertainment:sports_and_exercise=bicycle_rental", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:shopping=baby_store", 
+    "retail_goods:shopping=jewelry", 
+    "retail_goods:shopping=luggage_and_leather_goods", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "sg:services=professional", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:home_and_garden=hardware", 
+    "services:professional=computer_services", 
+    "services:professional=management_and_consulting", 
+    "sg:public_place=shopping_center"
+  ], 
   "wof:tags": [
     "wear", 
     "clothing", 
@@ -36,6 +56,6 @@
     1125156737
   ], 
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414558, 
+  "wof:lastmodified": 1512416312, 
   "mz:is_current": 1
 }

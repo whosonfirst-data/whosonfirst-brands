@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414542, 
+  "wof:brand_name": "Coach Leatherware", 
+  "wof:brand_id": 1125162593, 
+  "wof:categories": [
+    "retail_goods:shopping=luggage_and_leather_goods", 
+    "sg:retail_goods=shopping", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "manufacturing_and_wholesale_goods:manufacturing=leather_goods", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "accessory", 
     "for", 
@@ -9,6 +18,6 @@
     "shoes-wholesale", 
     "woman"
   ], 
-  "wof:brand_name": "Coach Leatherware", 
-  "wof:brand_id": 1125162593
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416299
 }

@@ -1,6 +1,9 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414477, 
+  "wof:brand_name": "Bertucci's", 
+  "wof:brand_id": 1125155467, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "italian", 
     "pizza", 
@@ -10,6 +13,6 @@
     "salad", 
     "soup"
   ], 
-  "wof:brand_name": "Bertucci's", 
-  "wof:brand_id": 1125155467
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416247
 }

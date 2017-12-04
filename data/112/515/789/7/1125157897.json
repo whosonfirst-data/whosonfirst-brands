@@ -1,6 +1,9 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414477, 
+  "wof:brand_name": "Luby's", 
+  "wof:brand_id": 1125157897, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "american", 
     "new", 
@@ -10,6 +13,6 @@
     "seafood", 
     "southern"
   ], 
-  "wof:brand_name": "Luby's", 
-  "wof:brand_id": 1125157897
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416247
 }

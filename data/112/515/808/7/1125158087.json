@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414469, 
+  "wof:brand_name": "Family Health Ctr", 
+  "wof:brand_id": 1125158087, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=doctor", 
+    "services:health_services=chiropractor", 
+    "services:health_services=hospital", 
+    "services:health_services=clinic", 
+    "public_place:government=office", 
+    "services:health_services=nursing_and_care_facility", 
+    "sg:public_place=government", 
+    "services:health_services=podiatrist"
+  ], 
   "wof:tags": [
     "physician", 
     "surgeon", 
@@ -14,6 +25,6 @@
     "state", 
     "surgical"
   ], 
-  "wof:brand_name": "Family Health Ctr", 
-  "wof:brand_id": 1125158087
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416241
 }

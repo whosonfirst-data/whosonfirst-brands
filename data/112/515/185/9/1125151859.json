@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414494, 
+  "wof:brand_name": "Scottrade Inc", 
+  "wof:brand_id": 1125151859, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=professional", 
+    "services:banks_and_credit_unions=bank", 
+    "services:professional=business_services", 
+    "services:professional=detective_and_security_services"
+  ], 
   "wof:tags": [
     "bond", 
     "stock", 
@@ -16,6 +24,6 @@
     "patrol", 
     "repair"
   ], 
-  "wof:brand_name": "Scottrade Inc", 
-  "wof:brand_id": 1125151859
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416261
 }

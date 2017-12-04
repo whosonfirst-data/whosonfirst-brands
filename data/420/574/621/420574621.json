@@ -1,6 +1,38 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414462, 
+  "wof:brand_name": "A Cut Above", 
+  "wof:brand_id": 420574621, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=landscaping_services", 
+    "sg:services=retail", 
+    "services:personal=nail_salon", 
+    "services:retail=animal_services", 
+    "sg:services=professional", 
+    "services:building_and_trades=construction", 
+    "services:personal=tanning_parlor", 
+    "services:professional=business_services", 
+    "sg:retail_goods=shopping", 
+    "services:building_and_trades=plumbing", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=building_materials", 
+    "manufacturing_and_wholesale_goods:manufacturing=wood_products", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=jewelry", 
+    "services:personal=skin_care", 
+    "services:retail=auto_repair", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "services:social_services=job_training", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
@@ -61,6 +93,6 @@
     "women's", 
     "wood"
   ], 
-  "wof:brand_name": "A Cut Above", 
-  "wof:brand_id": 420574621
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416235
 }

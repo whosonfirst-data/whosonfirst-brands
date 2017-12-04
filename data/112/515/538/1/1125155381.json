@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414467, 
+  "wof:brand_name": "Kitchen Solvers", 
+  "wof:brand_id": 1125155381, 
+  "wof:categories": [
+    "sg:retail_goods=home_and_garden", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:home_and_garden=building_materials", 
+    "sg:food_and_drink=restaurant", 
+    "manufacturing_and_wholesale_goods:manufacturing=building_materials", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:wholesale=construction_materials", 
+    "services:retail=repair_shop", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=retail", 
+    "entertainment:sports_and_exercise=swimming_pool", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "kitchen", 
     "cabinet", 
@@ -41,6 +59,6 @@
     "trade", 
     "wooden"
   ], 
-  "wof:brand_name": "Kitchen Solvers", 
-  "wof:brand_id": 1125155381
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416240
 }

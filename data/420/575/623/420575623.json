@@ -1,11 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414445, 
+  "wof:brand_name": "Thresher Wine Shop", 
+  "wof:brand_id": 420575623, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "beer", 
     "spirit", 
     "wines"
   ], 
-  "wof:brand_name": "Thresher Wine Shop", 
-  "wof:brand_id": 420575623
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416222
 }

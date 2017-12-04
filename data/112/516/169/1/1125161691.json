@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414539, 
+  "wof:brand_name": "American Mortgage", 
+  "wof:brand_id": 1125161691, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_agent", 
+    "services:real_estate=real_estate_services", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:insurance=insurance_agent", 
+    "sg:services=insurance"
+  ], 
   "wof:tags": [
     "loan", 
     "real estate", 
@@ -11,6 +22,6 @@
     "processing", 
     "security"
   ], 
-  "wof:brand_name": "American Mortgage", 
-  "wof:brand_id": 1125161691
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416297
 }

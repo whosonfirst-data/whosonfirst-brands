@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414511, 
+  "wof:brand_name": "Prince Of Peace Lutheran Chr", 
+  "wof:brand_id": 1125158603, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship"
+  ], 
   "wof:tags": [
     "church", 
     "churches-lutheran", 
@@ -12,6 +18,6 @@
     "covenant", 
     "lutheran"
   ], 
-  "wof:brand_name": "Prince Of Peace Lutheran Chr", 
-  "wof:brand_id": 1125158603
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416275
 }

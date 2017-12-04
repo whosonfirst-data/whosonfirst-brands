@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414513, 
+  "wof:brand_name": "Mrs Fields Original Cookies", 
+  "wof:brand_id": 1125155953, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:retail_goods=food_and_beverages", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "sg:food_and_drink=restaurant", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "cookie", 
     "baked", 
@@ -22,6 +31,6 @@
     "representing", 
     "store"
   ], 
-  "wof:brand_name": "Mrs Fields Original Cookies", 
-  "wof:brand_id": 1125155953
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416276
 }

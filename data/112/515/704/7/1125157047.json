@@ -1,7 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414514, 
-  "wof:tags": [], 
   "wof:brand_name": "Restaurant Traube", 
-  "wof:brand_id": 1125157047
+  "wof:brand_id": 1125157047, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416277
 }

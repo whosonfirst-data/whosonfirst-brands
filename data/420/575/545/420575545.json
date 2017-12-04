@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414449, 
+  "wof:brand_name": "Pro-Cuts", 
+  "wof:brand_id": 420575545, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "services:building_and_trades=landscaping_services", 
+    "sg:services=building_and_trades", 
+    "public_place:education=vocational_school", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "hair", 
     "shop", 
@@ -16,6 +25,6 @@
     "salon", 
     "styling"
   ], 
-  "wof:brand_name": "Pro-Cuts", 
-  "wof:brand_id": 420575545
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416225
 }

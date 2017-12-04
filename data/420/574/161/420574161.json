@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414459, 
+  "wof:brand_name": "Cato", 
+  "wof:brand_id": 420574161, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=department_store", 
+    "entertainment:travel=travel_agent", 
+    "manufacturing_and_wholesale_goods:wholesale=drugs", 
+    "services:personal=beauty_salon", 
+    "services:professional=business_services", 
+    "services:real_estate=real_estate_agent", 
+    "sg:entertainment=travel", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=personal", 
+    "sg:services=professional", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "accessory", 
     "women's", 
@@ -30,6 +45,6 @@
     "unisex", 
     "wear"
   ], 
-  "wof:brand_name": "Cato", 
-  "wof:brand_id": 420574161
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416233
 }

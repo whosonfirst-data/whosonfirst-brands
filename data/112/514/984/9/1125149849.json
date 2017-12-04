@@ -1,12 +1,21 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414555, 
+  "wof:brand_name": "Shoe Show", 
+  "wof:brand_id": 1125149849, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=shoes", 
+    "manufacturing_and_wholesale_goods:manufacturing=leather_goods", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "store", 
     "shoe", 
     "shoes", 
     "supply"
   ], 
-  "wof:brand_name": "Shoe Show", 
-  "wof:brand_id": 1125149849
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416310
 }

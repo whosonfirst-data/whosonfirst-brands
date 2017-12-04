@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414529, 
+  "wof:brand_name": "Healthsouth Rehabilitation Ctr", 
+  "wof:brand_id": 1125150979, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=health_practitioner", 
+    "services:social_services=job_training", 
+    "sg:services=social_services", 
+    "services:health_services=hospital", 
+    "services:health_services=doctor"
+  ], 
   "wof:tags": [
     "therapist", 
     "physical", 
@@ -10,6 +18,6 @@
     "physician", 
     "surgeon"
   ], 
-  "wof:brand_name": "Healthsouth Rehabilitation Ctr", 
-  "wof:brand_id": 1125150979
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416289
 }

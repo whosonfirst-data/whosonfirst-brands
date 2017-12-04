@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414544, 
+  "wof:brand_name": "Mayflower", 
+  "wof:brand_id": 1125162719, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "sg:transportation=freight", 
+    "sg:services=professional", 
+    "entertainment:travel=travel_agent", 
+    "sg:entertainment=travel", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "local", 
     "asian", 
@@ -23,6 +32,6 @@
     "sum", 
     "transfer"
   ], 
-  "wof:brand_name": "Mayflower", 
-  "wof:brand_id": 1125162719
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416301
 }

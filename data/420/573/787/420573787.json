@@ -1,6 +1,19 @@
 {
   "wof:brand_name": "Pizza Hut", 
   "wof:brand_id": 420573787, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "sg:services=professional", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:retail_goods=food_and_beverages", 
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:professional=computer_services", 
+    "services:professional=management_and_consulting", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "pizza", 
     "american", 
@@ -45,6 +58,6 @@
     1125161945
   ], 
   "wof:brand_size": "XXL", 
-  "wof:lastmodified": 1512414453, 
+  "wof:lastmodified": 1512416228, 
   "mz:is_current": 1
 }

@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414552, 
+  "wof:brand_name": "Real Estate Solutions", 
+  "wof:brand_id": 1125162379, 
+  "wof:categories": [
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_agent", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=banks_and_credit_unions", 
+    "services:professional=business_services", 
+    "sg:services=professional", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:building_and_trades=construction", 
+    "services:real_estate=developer", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "broker", 
     "buyer", 
@@ -12,6 +26,6 @@
     "investor", 
     "property"
   ], 
-  "wof:brand_name": "Real Estate Solutions", 
-  "wof:brand_id": 1125162379
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416307
 }

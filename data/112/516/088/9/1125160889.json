@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414545, 
+  "wof:brand_name": "Lincoln Financial Advisors", 
+  "wof:brand_id": 1125160889, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:insurance=hazard_insurance"
+  ], 
   "wof:tags": [
     "financial", 
     "planning", 
@@ -15,6 +23,6 @@
     "retirement", 
     "sharing"
   ], 
-  "wof:brand_name": "Lincoln Financial Advisors", 
-  "wof:brand_id": 1125160889
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416302
 }

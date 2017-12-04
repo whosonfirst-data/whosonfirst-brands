@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414458, 
+  "wof:brand_name": "Wachovia Securities", 
+  "wof:brand_id": 420574897, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:professional=detective_and_security_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "stock", 
     "bond", 
@@ -25,6 +33,6 @@
     "saving", 
     "transfer"
   ], 
-  "wof:brand_name": "Wachovia Securities", 
-  "wof:brand_id": 420574897
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416232
 }

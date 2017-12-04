@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414536, 
+  "wof:brand_name": "Mas Tec", 
+  "wof:brand_id": 1125157903, 
+  "wof:categories": [
+    "services:utilities=telephone", 
+    "sg:services=utilities", 
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=construction", 
+    "services:building_and_trades=electrical", 
+    "sg:services=professional", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:professional=business_services", 
+    "services:professional=computer_services", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "telecommunication", 
     "contractor", 
@@ -12,6 +24,6 @@
     "satellite", 
     "system"
   ], 
-  "wof:brand_name": "Mas Tec", 
-  "wof:brand_id": 1125157903
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416295
 }

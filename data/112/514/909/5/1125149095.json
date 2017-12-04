@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414559, 
+  "wof:brand_name": "Esso", 
+  "wof:brand_id": 1125149095, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=retail", 
+    "sg:services=utilities", 
+    "entertainment:recreation=dance_hall", 
+    "food_and_drink:bars_and_pubs=lounge", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "services:retail=auto_rental", 
+    "services:retail=car_wash", 
+    "services:utilities=fuel_oil_and_lpg", 
+    "sg:entertainment=recreation", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "carburants", 
     "stations-service", 
@@ -8,6 +23,6 @@
     "combustible", 
     "oil"
   ], 
-  "wof:brand_name": "Esso", 
-  "wof:brand_id": 1125149095
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416313
 }

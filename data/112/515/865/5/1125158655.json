@@ -1,6 +1,9 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414496, 
+  "wof:brand_name": "Tony Roma's", 
+  "wof:brand_id": 1125158655, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "eating", 
     "italian", 
@@ -11,6 +14,6 @@
     "new", 
     "personal"
   ], 
-  "wof:brand_name": "Tony Roma's", 
-  "wof:brand_id": 1125158655
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416263
 }

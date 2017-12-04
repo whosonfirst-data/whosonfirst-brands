@@ -1,6 +1,34 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414547, 
+  "wof:brand_name": "Smith & Assoc", 
+  "wof:brand_id": 1125162791, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "sg:services=real_estate", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:real_estate=real_estate_agent", 
+    "services:insurance=insurance_agent", 
+    "services:professional=management_and_consulting", 
+    "sg:services=insurance", 
+    "services:professional=lawyer_and_legal_services", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:professional=advertising", 
+    "services:real_estate=surveying", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:manufacturing=electronics", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "public_place:education=school", 
+    "services:banks_and_credit_unions=bank", 
+    "services:building_and_trades=landscaping_services", 
+    "services:building_and_trades=plumbing", 
+    "services:health_services=optometrist", 
+    "services:professional=business_services", 
+    "services:professional=detective_and_security_services", 
+    "services:professional=employment_agencies", 
+    "sg:public_place=education", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "accountant", 
     "appraiser", 
@@ -29,6 +57,6 @@
     "semiconductor", 
     "survey"
   ], 
-  "wof:brand_name": "Smith & Assoc", 
-  "wof:brand_id": 1125162791
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416303
 }

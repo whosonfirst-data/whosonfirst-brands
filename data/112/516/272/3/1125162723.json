@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414537, 
+  "wof:brand_name": "Mitre 10", 
+  "wof:brand_id": 1125162723, 
+  "wof:categories": [
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:home_and_garden=hardware", 
+    "services:building_and_trades=pest_control", 
+    "services:personal=shoe_repair_and_shine", 
+    "sg:services=building_and_trades", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "accessory", 
     "footwear", 
@@ -8,6 +17,6 @@
     "repair", 
     "tool"
   ], 
-  "wof:brand_name": "Mitre 10", 
-  "wof:brand_id": 1125162723
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416296
 }

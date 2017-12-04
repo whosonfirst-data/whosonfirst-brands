@@ -1,7 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414450, 
-  "wof:tags": [], 
   "wof:brand_name": "Banco Di Roma", 
-  "wof:brand_id": 420575847
+  "wof:brand_id": 420575847, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416226
 }

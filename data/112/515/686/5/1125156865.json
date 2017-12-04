@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414468, 
+  "wof:brand_name": "Top Video", 
+  "wof:brand_id": 1125156865, 
+  "wof:categories": [
+    "sg:services=communications", 
+    "services:communications=film_and_video_production", 
+    "entertainment:cinema=movie_rental", 
+    "sg:entertainment=cinema", 
+    "retail_goods:shopping=music", 
+    "sg:retail_goods=shopping", 
+    "services:communications=television_station"
+  ], 
   "wof:tags": [
     "library", 
     "dvd", 
@@ -21,6 +30,6 @@
     "tv", 
     "verhuur"
   ], 
-  "wof:brand_name": "Top Video", 
-  "wof:brand_id": 1125156865
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416240
 }

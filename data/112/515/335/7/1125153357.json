@@ -1,6 +1,31 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414489, 
+  "wof:brand_name": "Black & Decker", 
+  "wof:brand_id": 1125153357, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=home_and_garden", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "retail_goods:home_and_garden=hardware", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "services:retail=repair_shop", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:wholesale=hardware", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "services:utilities=cable", 
+    "sg:services=professional", 
+    "sg:services=utilities", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:professional=business_services", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:professional=management_and_consulting", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "tool", 
     "power", 
@@ -45,6 +70,6 @@
     "tv", 
     "who"
   ], 
-  "wof:brand_name": "Black & Decker", 
-  "wof:brand_id": 1125153357
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416257
 }

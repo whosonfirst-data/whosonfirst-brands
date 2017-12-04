@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414493, 
+  "wof:brand_name": "Fast-Fix Jewelry Repairs", 
+  "wof:brand_id": 1125159555, 
+  "wof:categories": [
+    "services:retail=repair_shop", 
+    "sg:services=retail", 
+    "retail_goods:shopping=jewelry", 
+    "sg:retail_goods=shopping", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=jewelry", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "jewelry", 
     "watch", 
@@ -14,6 +24,6 @@
     "manufacturer", 
     "polishing"
   ], 
-  "wof:brand_name": "Fast-Fix Jewelry Repairs", 
-  "wof:brand_id": 1125159555
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416261
 }

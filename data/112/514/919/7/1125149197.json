@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414555, 
+  "wof:brand_name": "Ritz Camera", 
+  "wof:brand_id": 1125149197, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=photographic_equipment", 
+    "sg:services=retail", 
+    "services:retail=photofinishing", 
+    "services:retail=portrait_studio", 
+    "manufacturing_and_wholesale_goods:wholesale=sporting_goods", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "retail_goods:autos_and_motor_vehicles=boat_sales", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "supply", 
     "camera", 
@@ -40,6 +54,6 @@
     "shop", 
     "video"
   ], 
-  "wof:brand_name": "Ritz Camera", 
-  "wof:brand_id": 1125149197
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416310
 }

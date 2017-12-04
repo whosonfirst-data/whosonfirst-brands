@@ -1,11 +1,16 @@
 {
-  "wof:brand_size": "O", 
-  "wof:lastmodified": 1512414464, 
+  "wof:brand_name": "Burma Superstar", 
+  "wof:brand_id": 1126130039, 
+  "wof:categories": [
+    "eat_and_drink:eat=restaurant", 
+    "sg:services=personal", 
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "burmese", 
     "restaurant", 
     "asian"
   ], 
-  "wof:brand_name": "Burma Superstar", 
-  "wof:brand_id": 1126130039
+  "wof:brand_size": "O", 
+  "wof:lastmodified": 1512416237
 }

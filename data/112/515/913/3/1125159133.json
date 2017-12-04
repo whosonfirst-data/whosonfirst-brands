@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414520, 
+  "wof:brand_name": "Abundant Life Church", 
+  "wof:brand_id": 1125159133, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship"
+  ], 
   "wof:tags": [
     "church", 
     "churches-assemblies", 
@@ -13,6 +19,6 @@
     "god", 
     "god-independent"
   ], 
-  "wof:brand_name": "Abundant Life Church", 
-  "wof:brand_id": 1125159133
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416282
 }

@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414542, 
+  "wof:brand_name": "AARP", 
+  "wof:brand_id": 1125160059, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=nonprofit_organization", 
+    "sg:services=social_services", 
+    "services:organizations=professional_association", 
+    "sg:services=professional", 
+    "services:social_services=adult_care", 
+    "manufacturing_and_wholesale_goods:wholesale=hardware", 
+    "services:organizations=community_association", 
+    "services:organizations=membership_organization", 
+    "services:professional=employment_agencies", 
+    "services:social_services=job_training", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "citizen", 
     "senior", 
@@ -16,6 +30,6 @@
     "nonprofit", 
     "opportunity"
   ], 
-  "wof:brand_name": "AARP", 
-  "wof:brand_id": 1125160059
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416300
 }

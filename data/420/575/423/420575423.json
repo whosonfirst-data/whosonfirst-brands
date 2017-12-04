@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414445, 
+  "wof:brand_name": "PIP Printing", 
+  "wof:brand_id": 420575423, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=professional", 
+    "services:professional=printing_and_photocopies", 
+    "services:professional=business_services", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "services:professional=engineering", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "printer", 
     "commercial", 
@@ -49,6 +59,6 @@
     "stationery", 
     "typeset"
   ], 
-  "wof:brand_name": "PIP Printing", 
-  "wof:brand_id": 420575423
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416223
 }

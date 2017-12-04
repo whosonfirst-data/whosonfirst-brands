@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414541, 
+  "wof:brand_name": "John's Auto Repair", 
+  "wof:brand_id": 1125161513, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "public_place:government=office", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=government"
+  ], 
   "wof:tags": [
     "automobile", 
     "repairing", 
@@ -17,6 +27,6 @@
     "supply", 
     "truck"
   ], 
-  "wof:brand_name": "John's Auto Repair", 
-  "wof:brand_id": 1125161513
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416298
 }

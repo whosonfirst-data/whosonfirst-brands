@@ -1,11 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414543, 
+  "wof:brand_name": "The Card Shop", 
+  "wof:brand_id": 1125162437, 
+  "wof:categories": [
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=department_store"
+  ], 
   "wof:tags": [
     "card", 
     "poster", 
     "shop"
   ], 
-  "wof:brand_name": "The Card Shop", 
-  "wof:brand_id": 1125162437
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416300
 }

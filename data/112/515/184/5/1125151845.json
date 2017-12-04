@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414506, 
+  "wof:brand_name": "Joseph A Bank Clothiers", 
+  "wof:brand_id": 1125151845, 
+  "wof:categories": [
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "furnishing", 
     "clothing", 
@@ -10,6 +16,6 @@
     "men's", 
     "tailored"
   ], 
-  "wof:brand_name": "Joseph A Bank Clothiers", 
-  "wof:brand_id": 1125151845
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416271
 }

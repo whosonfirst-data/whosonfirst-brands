@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414558, 
+  "wof:brand_name": "Ponderosa Steakhouse", 
+  "wof:brand_id": 1125149763, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "manufacturing_and_wholesale_goods:farming=livestock_farm", 
+    "sg:manufacturing_and_wholesale_goods=farming"
+  ], 
   "wof:tags": [
     "eating", 
     "family", 
@@ -13,6 +18,6 @@
     "feedlot", 
     "franchise"
   ], 
-  "wof:brand_name": "Ponderosa Steakhouse", 
-  "wof:brand_id": 1125149763
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416312
 }

@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414454, 
+  "wof:brand_name": "Budget Truck Rental", 
+  "wof:brand_id": 420573923, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=auto_rental", 
+    "services:building_and_trades=equipment_rental", 
+    "sg:services=building_and_trades", 
+    "services:retail=storage", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "sg:services=professional", 
+    "sg:services=personal", 
+    "sg:transportation=freight", 
+    "services:professional=business_services", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:retail=auto_repair"
+  ], 
   "wof:tags": [
     "renting", 
     "truck", 
@@ -31,6 +51,6 @@
     "self", 
     "trucking"
   ], 
-  "wof:brand_name": "Budget Truck Rental", 
-  "wof:brand_id": 420573923
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416229
 }

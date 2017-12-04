@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414512, 
+  "wof:brand_name": "BOC Gases", 
+  "wof:brand_id": 1125153139, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "services:utilities=natural_gas", 
+    "sg:services=utilities", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "manufacturing_and_wholesale_goods:wholesale=chemicals_and_plastics", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "gas", 
     "bulk", 
@@ -19,6 +29,6 @@
     "carbonic", 
     "oxygen"
   ], 
-  "wof:brand_name": "BOC Gases", 
-  "wof:brand_id": 1125153139
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416276
 }

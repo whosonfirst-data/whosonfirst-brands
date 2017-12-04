@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414531, 
+  "wof:brand_name": "B Dalton Bookseller", 
+  "wof:brand_id": 1125155099, 
+  "wof:categories": [
+    "retail_goods:shopping=books", 
+    "sg:retail_goods=shopping", 
+    "services:communications=newspaper", 
+    "sg:services=communications", 
+    "manufacturing_and_wholesale_goods:wholesale=books_periodicals_and_newspapers", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "dealer", 
     "bookstore", 
@@ -11,6 +19,6 @@
     "music", 
     "video"
   ], 
-  "wof:brand_name": "B Dalton Bookseller", 
-  "wof:brand_id": 1125155099
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416290
 }

@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414495, 
+  "wof:brand_name": "Ziebart", 
+  "wof:brand_id": 1125154501, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=auto_repair", 
+    "services:retail=car_wash", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=glass_and_minerals", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "retail_goods:autos_and_motor_vehicles=recreational_vehicle_sales", 
+    "services:professional=business_services", 
+    "services:retail=auto_rental", 
+    "services:retail=repair_shop", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "automotive", 
     "automobile", 
@@ -58,6 +75,6 @@
     "window", 
     "without"
   ], 
-  "wof:brand_name": "Ziebart", 
-  "wof:brand_id": 1125154501
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416262
 }

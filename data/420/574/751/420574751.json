@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414455, 
+  "wof:brand_name": "Londis", 
+  "wof:brand_id": 420574751, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=department_store", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "retail_goods:shopping=news", 
+    "retail_goods:food_and_beverages=fruits_and_vegetables", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "public_place:government=post_office", 
+    "sg:public_place=government"
+  ], 
   "wof:tags": [
     "newsagent", 
     "beer", 
@@ -9,6 +22,6 @@
     "wines", 
     "shop"
   ], 
-  "wof:brand_name": "Londis", 
-  "wof:brand_id": 420574751
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416230
 }

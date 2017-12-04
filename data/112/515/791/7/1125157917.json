@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414505, 
+  "wof:brand_name": "Mrs Winners Chicken & Biscuits", 
+  "wof:brand_id": 1125157917, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food"
+  ], 
   "wof:tags": [
     "eating", 
     "fast", 
@@ -9,6 +13,6 @@
     "out", 
     "take"
   ], 
-  "wof:brand_name": "Mrs Winners Chicken & Biscuits", 
-  "wof:brand_id": 1125157917
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416270
 }

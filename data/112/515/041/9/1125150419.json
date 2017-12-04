@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414535, 
+  "wof:brand_name": "Herbalife Australasia Pty Ltd", 
+  "wof:brand_id": 1125150419, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "reducing", 
     "treatment", 
@@ -8,6 +13,6 @@
     "health", 
     "product"
   ], 
-  "wof:brand_name": "Herbalife Australasia Pty Ltd", 
-  "wof:brand_id": 1125150419
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416294
 }

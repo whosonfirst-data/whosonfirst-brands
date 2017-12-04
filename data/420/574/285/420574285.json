@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414455, 
+  "wof:brand_name": "Shelter Insurance", 
+  "wof:brand_id": 420574285, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=hazard_insurance", 
+    "services:insurance=life_insurance", 
+    "services:insurance=title_insurance", 
+    "services:insurance=health_insurance", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "broker", 
     "agency", 
@@ -22,6 +32,6 @@
     "plan", 
     "real"
   ], 
-  "wof:brand_name": "Shelter Insurance", 
-  "wof:brand_id": 420574285
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416230
 }

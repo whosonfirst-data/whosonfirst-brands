@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414503, 
+  "wof:brand_name": "Medicine Shoppe The", 
+  "wof:brand_id": 1125157445, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=pharmacy", 
+    "retail_goods:shopping=catalog_store", 
+    "services:professional=business_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "drug", 
     "store", 
@@ -11,6 +18,6 @@
     "operates", 
     "pharmacy"
   ], 
-  "wof:brand_name": "Medicine Shoppe The", 
-  "wof:brand_id": 1125157445
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416269
 }

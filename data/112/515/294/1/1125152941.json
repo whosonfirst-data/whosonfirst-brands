@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414533, 
+  "wof:brand_name": "Farmers Furniture", 
+  "wof:brand_id": 1125152941, 
+  "wof:categories": [
+    "retail_goods:home_and_garden=furniture", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "store"
   ], 
-  "wof:brand_name": "Farmers Furniture", 
-  "wof:brand_id": 1125152941
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416293
 }

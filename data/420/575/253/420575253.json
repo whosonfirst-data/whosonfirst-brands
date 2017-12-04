@@ -1,9 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414447, 
+  "wof:brand_name": "Friedman's", 
+  "wof:brand_id": 420575253, 
+  "wof:categories": [
+    "retail_goods:shopping=jewelry", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:wholesale=jewelry", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "jeweler"
   ], 
-  "wof:brand_name": "Friedman's", 
-  "wof:brand_id": 420575253
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416224
 }

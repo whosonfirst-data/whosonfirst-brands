@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414552, 
+  "wof:brand_name": "Mac's Convenience Store", 
+  "wof:brand_id": 1125160573, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "grocer"
   ], 
-  "wof:brand_name": "Mac's Convenience Store", 
-  "wof:brand_id": 1125160573
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416307
 }

@@ -1,11 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414510, 
+  "wof:brand_name": "Le Salon", 
+  "wof:brand_id": 1125159293, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
     "nail"
   ], 
-  "wof:brand_name": "Le Salon", 
-  "wof:brand_id": 1125159293
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416275
 }

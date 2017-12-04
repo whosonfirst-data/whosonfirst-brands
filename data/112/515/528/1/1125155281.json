@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414482, 
+  "wof:brand_name": "Martin The Newsagent", 
+  "wof:brand_id": 1125155281, 
+  "wof:categories": [
+    "retail_goods:shopping=news", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "newsagent"
   ], 
-  "wof:brand_name": "Martin The Newsagent", 
-  "wof:brand_id": 1125155281
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416252
 }

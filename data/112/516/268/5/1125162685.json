@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414546, 
+  "wof:brand_name": "Jewel Box", 
+  "wof:brand_id": 1125162685, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=jewelry", 
+    "manufacturing_and_wholesale_goods:manufacturing=jewelry", 
+    "retail_goods:shopping=comic_books", 
+    "services:retail=repair_shop", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:wholesale=jewelry", 
+    "services:social_services=child_care", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=social_services", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "jeweler", 
     "jeweller", 
@@ -15,6 +30,6 @@
     "warehouse", 
     "watch"
   ], 
-  "wof:brand_name": "Jewel Box", 
-  "wof:brand_id": 1125162685
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416303
 }

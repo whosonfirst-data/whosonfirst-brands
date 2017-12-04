@@ -1,6 +1,18 @@
 {
   "wof:brand_name": "Foot Locker", 
   "wof:brand_id": 420574009, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=shoes", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:entertainment=sports_and_exercise", 
+    "entertainment:sports_and_exercise=bicycle_rental", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "entertainment:sports_and_exercise=sports_center", 
+    "sg:public_place=shopping_center", 
+    "services:professional=lawyer_and_legal_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "store", 
     "sportswear", 
@@ -27,6 +39,6 @@
     1125160179
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414458, 
+  "wof:lastmodified": 1512416232, 
   "mz:is_current": 1
 }

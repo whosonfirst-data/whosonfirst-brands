@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414487, 
+  "wof:brand_name": "Immanuel Baptist Church", 
+  "wof:brand_id": 1125150025, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=religious_organization", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship", 
+    "sg:services=social_services", 
+    "services:organizations=community_association", 
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "church", 
     "churches-baptist", 
@@ -17,6 +26,6 @@
     "social", 
     "youth"
   ], 
-  "wof:brand_name": "Immanuel Baptist Church", 
-  "wof:brand_id": 1125150025
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416255
 }

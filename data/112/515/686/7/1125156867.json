@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414468, 
+  "wof:brand_name": "Tutoring Club", 
+  "wof:brand_id": 1125156867, 
+  "wof:categories": [
+    "sg:public_place=education", 
+    "public_place:education=special_training", 
+    "public_place:education=school", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "services:social_services=child_care", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "tutoring", 
     "elementary", 
@@ -19,6 +28,6 @@
     "test", 
     "tutor"
   ], 
-  "wof:brand_name": "Tutoring Club", 
-  "wof:brand_id": 1125156867
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416240
 }

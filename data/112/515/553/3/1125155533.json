@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414529, 
+  "wof:brand_name": "Rehab Works", 
+  "wof:brand_id": 1125155533, 
+  "wof:categories": [
+    "sg:services=social_services", 
+    "services:social_services=job_training", 
+    "sg:services=health_services", 
+    "services:health_services=health_practitioner", 
+    "services:health_services=clinic", 
+    "services:health_services=nursing_and_care_facility", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=medical_equipment_and_supplies", 
+    "services:health_services=chiropractor", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "rehabilitation", 
     "outpatient", 
@@ -20,6 +32,6 @@
     "pathologist", 
     "speech"
   ], 
-  "wof:brand_name": "Rehab Works", 
-  "wof:brand_id": 1125155533
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416289
 }

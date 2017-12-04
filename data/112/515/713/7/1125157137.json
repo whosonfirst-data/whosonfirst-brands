@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414469, 
+  "wof:brand_name": "Cleo", 
+  "wof:brand_id": 1125157137, 
+  "wof:categories": [
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=shopping", 
+    "services:personal=beauty_salon", 
+    "sg:services=personal", 
+    "sg:food_and_drink=restaurant", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "-", 
     "eating", 
@@ -8,6 +17,6 @@
     "mediterranean", 
     "underwear"
   ], 
-  "wof:brand_name": "Cleo", 
-  "wof:brand_id": 1125157137
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416241
 }

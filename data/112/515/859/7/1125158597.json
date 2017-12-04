@@ -1,6 +1,30 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414533, 
+  "wof:brand_name": "Packaging Store", 
+  "wof:brand_id": 1125158597, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "sg:transportation=freight", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=personal", 
+    "manufacturing_and_wholesale_goods:manufacturing=wood_products", 
+    "manufacturing_and_wholesale_goods:manufacturing=paper_products", 
+    "manufacturing_and_wholesale_goods:manufacturing=rubber_and_plastics", 
+    "services:professional=advertising", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping", 
+    "entertainment:travel=travel_agent", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "public_place:government=post_office", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "services:retail=pet_boarding", 
+    "sg:entertainment=travel", 
+    "sg:public_place=government", 
+    "sg:services=retail", 
+    "sg:transportation=transit_center", 
+    "transportation:transit_center=freight"
+  ], 
   "wof:tags": [
     "packaging", 
     "mover", 
@@ -46,6 +70,6 @@
     "solid", 
     "wrapping"
   ], 
-  "wof:brand_name": "Packaging Store", 
-  "wof:brand_id": 1125158597
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416292
 }

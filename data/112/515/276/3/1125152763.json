@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414500, 
+  "wof:brand_name": "B & Q Diy Supercentre", 
+  "wof:brand_id": 1125152763, 
+  "wof:categories": [
+    "retail_goods:home_and_garden=hardware", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "diy", 
     "retailer", 
@@ -8,6 +12,6 @@
     "centre", 
     "improvement"
   ], 
-  "wof:brand_name": "B & Q Diy Supercentre", 
-  "wof:brand_id": 1125152763
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416266
 }

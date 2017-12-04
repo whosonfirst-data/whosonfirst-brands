@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414531, 
+  "wof:brand_name": "Brink's Inc", 
+  "wof:brand_id": 1125156709, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=detective_and_security_services", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "services:professional=computer_services", 
+    "services:retail=auto_repair", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=retail", 
+    "sg:transportation=airline", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "armored", 
     "car", 
@@ -19,6 +30,6 @@
     "security", 
     "system"
   ], 
-  "wof:brand_name": "Brink's Inc", 
-  "wof:brand_id": 1125156709
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416290
 }

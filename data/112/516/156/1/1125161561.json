@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414545, 
+  "wof:brand_name": "Nutrition House", 
+  "wof:brand_id": 1125161561, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "diet", 
     "health", 
@@ -8,6 +13,6 @@
     "asian", 
     "chinese"
   ], 
-  "wof:brand_name": "Nutrition House", 
-  "wof:brand_id": 1125161561
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416302
 }

@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414452, 
+  "wof:brand_name": "Ferrellgas", 
+  "wof:brand_id": 420575037, 
+  "wof:categories": [
+    "sg:services=utilities", 
+    "services:utilities=fuel_oil_and_lpg", 
+    "services:utilities=natural_gas", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=professional", 
+    "sg:transportation=freight", 
+    "manufacturing_and_wholesale_goods:wholesale=hardware", 
+    "services:building_and_trades=construction", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=building_and_trades", 
+    "sg:services=personal", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "gas", 
     "propane", 
@@ -36,6 +53,6 @@
     "warehouse", 
     "who"
   ], 
-  "wof:brand_name": "Ferrellgas", 
-  "wof:brand_id": 420575037
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416227
 }

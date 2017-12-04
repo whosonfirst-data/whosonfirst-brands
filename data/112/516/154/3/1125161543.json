@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414542, 
+  "wof:brand_name": "Michaels Stores", 
+  "wof:brand_id": 1125161543, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:shopping=crafts_and_fabrics", 
+    "services:professional=computer_services", 
+    "sg:entertainment=museum", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "craft", 
     "supply", 
@@ -13,6 +24,6 @@
     "organization", 
     "picture"
   ], 
-  "wof:brand_name": "Michaels Stores", 
-  "wof:brand_id": 1125161543
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416299
 }

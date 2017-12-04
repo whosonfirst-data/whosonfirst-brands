@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414496, 
+  "wof:brand_name": "UBS Financial Services Inc", 
+  "wof:brand_id": 1125151127, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=banks_and_credit_unions", 
+    "services:insurance=insurance_agent", 
+    "sg:services=insurance"
+  ], 
   "wof:tags": [
     "security", 
     "stock", 
@@ -21,6 +27,6 @@
     "i", 
     "management"
   ], 
-  "wof:brand_name": "UBS Financial Services Inc", 
-  "wof:brand_id": 1125151127
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416263
 }

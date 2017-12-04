@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414491, 
+  "wof:brand_name": "Lenscrafters Inc", 
+  "wof:brand_id": 1125151655, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=optical_goods", 
+    "services:health_services=optometrist", 
+    "sg:services=health_services", 
+    "retail_goods:shopping=optician"
+  ], 
   "wof:tags": [
     "store", 
     "merchandise", 
@@ -15,6 +22,6 @@
     "good", 
     "optical"
   ], 
-  "wof:brand_name": "Lenscrafters Inc", 
-  "wof:brand_id": 1125151655
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416258
 }

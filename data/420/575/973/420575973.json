@@ -1,6 +1,25 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414449, 
+  "wof:brand_name": "GameStop", 
+  "wof:brand_id": 420575973, 
+  "wof:categories": [
+    "entertainment:cinema=movie_rental", 
+    "sg:entertainment=cinema", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "retail_goods:shopping=music", 
+    "manufacturing_and_wholesale_goods:wholesale=computers", 
+    "retail_goods:shopping=books", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "services:professional=computer_services", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=professional", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "video", 
     "game", 
@@ -24,6 +43,6 @@
     "property", 
     "repair"
   ], 
-  "wof:brand_name": "GameStop", 
-  "wof:brand_id": 420575973
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416225
 }

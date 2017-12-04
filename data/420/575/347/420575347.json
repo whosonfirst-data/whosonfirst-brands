@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414450, 
+  "wof:brand_name": "Chicago Title Co", 
+  "wof:brand_id": 420575347, 
+  "wof:categories": [
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=insurance", 
+    "services:insurance=title_insurance", 
+    "services:insurance=insurance_agent", 
+    "services:real_estate=real_estate_agent", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=investment_brokerage"
+  ], 
   "wof:tags": [
     "company", 
     "title", 
@@ -17,6 +29,6 @@
     "loan", 
     "planning"
   ], 
-  "wof:brand_name": "Chicago Title Co", 
-  "wof:brand_id": 420575347
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416226
 }

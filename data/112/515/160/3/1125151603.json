@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414535, 
+  "wof:brand_name": "Pepsi-Cola Bottling Co", 
+  "wof:brand_id": 1125151603, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "sg:food_and_drink=restaurant", 
+    "manufacturing_and_wholesale_goods:wholesale=vending_machines", 
+    "manufacturing_and_wholesale_goods:wholesale=hardware", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies"
+  ], 
   "wof:tags": [
     "beverage", 
     "bottler", 
@@ -12,6 +23,6 @@
     "product", 
     "bottle"
   ], 
-  "wof:brand_name": "Pepsi-Cola Bottling Co", 
-  "wof:brand_id": 1125151603
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416294
 }

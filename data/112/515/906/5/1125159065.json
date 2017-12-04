@@ -1,7 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414477, 
-  "wof:tags": [], 
   "wof:brand_name": "Pharmaprix", 
-  "wof:brand_id": 1125159065
+  "wof:brand_id": 1125159065, 
+  "wof:categories": [
+    "retail_goods:shopping=pharmacy", 
+    "sg:retail_goods=shopping"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416247
 }

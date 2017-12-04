@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414518, 
+  "wof:brand_name": "Amadeus", 
+  "wof:brand_id": 1125156901, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:services=professional", 
+    "services:professional=computer_services", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:retail_goods=shopping", 
+    "entertainment:travel=travel_agent", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "retail_goods:shopping=jewelry", 
+    "sg:entertainment=travel"
+  ], 
   "wof:tags": [
     "consultant", 
     "consulting", 
@@ -10,6 +21,6 @@
     "software", 
     "tavern"
   ], 
-  "wof:brand_name": "Amadeus", 
-  "wof:brand_id": 1125156901
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416281
 }

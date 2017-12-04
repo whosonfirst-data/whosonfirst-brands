@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414530, 
+  "wof:brand_name": "Childtime Learning Centers", 
+  "wof:brand_id": 1125159827, 
+  "wof:categories": [
+    "services:social_services=child_care", 
+    "sg:services=social_services", 
+    "public_place:education=preschool", 
+    "public_place:education=school", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "elementary", 
     "day", 
@@ -8,6 +15,6 @@
     "academic", 
     "kindergarten"
   ], 
-  "wof:brand_name": "Childtime Learning Centers", 
-  "wof:brand_id": 1125159827
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416290
 }

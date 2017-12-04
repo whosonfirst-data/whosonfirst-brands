@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414444, 
+  "wof:brand_name": "Valero", 
+  "wof:brand_id": 420575275, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "manufacturing_and_wholesale_goods:manufacturing=petroleum_products", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=professional", 
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "sg:services=utilities", 
+    "manufacturing_and_wholesale_goods:wholesale=petroleum", 
+    "public_place:government=office", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "services:professional=business_services", 
+    "services:utilities=fuel_oil_and_lpg", 
+    "services:utilities=natural_gas", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=government"
+  ], 
   "wof:tags": [
     "oil", 
     "petroleum", 
@@ -18,6 +38,6 @@
     "station", 
     "super"
   ], 
-  "wof:brand_name": "Valero", 
-  "wof:brand_id": 420575275
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416222
 }

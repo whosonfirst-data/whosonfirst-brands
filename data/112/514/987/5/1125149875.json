@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414561, 
+  "wof:brand_name": "Senior Citizens Ctr", 
+  "wof:brand_id": 1125149875, 
+  "wof:categories": [
+    "sg:services=social_services", 
+    "services:social_services=adult_care", 
+    "sg:services=organizations", 
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "services:organizations=nonprofit_organization", 
+    "services:organizations=professional_association", 
+    "sg:entertainment=recreation", 
+    "services:organizations=community_association", 
+    "services:organizations=membership_organization", 
+    "services:health_services=clinic", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "citizen", 
     "senior", 
@@ -15,6 +29,6 @@
     "home", 
     "human"
   ], 
-  "wof:brand_name": "Senior Citizens Ctr", 
-  "wof:brand_id": 1125149875
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416315
 }

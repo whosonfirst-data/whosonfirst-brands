@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414488, 
+  "wof:brand_name": "Limited The", 
+  "wof:brand_id": 1125152291, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "services:professional=business_services", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=professional", 
+    "sg:transportation=taxi"
+  ], 
   "wof:tags": [
     "woman", 
     "accessory", 
@@ -19,6 +31,6 @@
     "residential", 
     "taxicab"
   ], 
-  "wof:brand_name": "Limited The", 
-  "wof:brand_id": 1125152291
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416256
 }

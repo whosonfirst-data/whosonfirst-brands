@@ -1,6 +1,28 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414528, 
+  "wof:brand_name": "Dollar Plus", 
+  "wof:brand_id": 1125153761, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "entertainment:cinema=movie_rental", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:personal=beauty_salon", 
+    "services:real_estate=real_estate_operator", 
+    "services:retail=repair_shop", 
+    "sg:entertainment=cinema", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=shopping_center", 
+    "sg:services=personal", 
+    "sg:services=professional", 
+    "sg:services=real_estate", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "shop", 
     "general", 
@@ -18,6 +40,6 @@
     "supply", 
     "video"
   ], 
-  "wof:brand_name": "Dollar Plus", 
-  "wof:brand_id": 1125153761
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416288
 }

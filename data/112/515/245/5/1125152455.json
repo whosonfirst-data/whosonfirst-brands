@@ -1,12 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414491, 
+  "wof:brand_name": "Catalina Marketing Corp", 
+  "wof:brand_id": 1125152455, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=management_and_consulting"
+  ], 
   "wof:tags": [
     "marketing", 
     "program", 
     "consultant", 
     "establishment"
   ], 
-  "wof:brand_name": "Catalina Marketing Corp", 
-  "wof:brand_id": 1125152455
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416259
 }

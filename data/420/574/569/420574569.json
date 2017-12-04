@@ -1,6 +1,32 @@
 {
   "wof:brand_name": "Goodyear", 
   "wof:brand_id": 420574569, 
+  "wof:categories": [
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=rubber_and_plastics", 
+    "sg:transportation=freight", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "services:utilities=recycling", 
+    "sg:services=utilities", 
+    "manufacturing_and_wholesale_goods:manufacturing=textiles", 
+    "public_place:government=office", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:professional=detective_and_security_services", 
+    "services:real_estate=real_estate_operator", 
+    "sg:public_place=government", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "tire", 
     "general", 
@@ -122,6 +148,6 @@
     1125160843
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414456, 
+  "wof:lastmodified": 1512416230, 
   "mz:is_current": 1
 }

@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414519, 
+  "wof:brand_name": "Builder Center", 
+  "wof:brand_id": 1125157343, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=building_materials", 
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=construction", 
+    "manufacturing_and_wholesale_goods:manufacturing=lumber", 
+    "services:building_and_trades=plumbing"
+  ], 
   "wof:tags": [
     "builder", 
     "merchant", 
@@ -8,6 +16,6 @@
     "general", 
     "plumbers'"
   ], 
-  "wof:brand_name": "Builder Center", 
-  "wof:brand_id": 1125157343
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416281
 }

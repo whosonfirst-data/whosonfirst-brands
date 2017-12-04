@@ -1,11 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414518, 
+  "wof:brand_name": "Family Chiropractic Ctr", 
+  "wof:brand_id": 1125153379, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=chiropractor", 
+    "services:health_services=doctor", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "chiropractic", 
     "massage", 
     "therapist"
   ], 
-  "wof:brand_name": "Family Chiropractic Ctr", 
-  "wof:brand_id": 1125153379
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416280
 }

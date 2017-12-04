@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414494, 
+  "wof:brand_name": "Short Stop", 
+  "wof:brand_id": 1125151487, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "sg:food_and_drink=fast_food", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "station", 
     "gasoline", 
@@ -26,6 +43,6 @@
     "tea", 
     "variety"
   ], 
-  "wof:brand_name": "Short Stop", 
-  "wof:brand_id": 1125151487
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416261
 }

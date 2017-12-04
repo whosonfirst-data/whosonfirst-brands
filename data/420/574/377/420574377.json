@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414456, 
+  "wof:brand_name": "Old Navy", 
+  "wof:brand_id": 420574377, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=baby_store", 
+    "entertainment:sports_and_exercise=bicycle_rental", 
+    "sg:entertainment=sports_and_exercise", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=used_merchandise", 
+    "sg:services=professional", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "services:professional=computer_services", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "family", 
     "clothing", 
@@ -30,6 +43,6 @@
     "grocery", 
     "shopping"
   ], 
-  "wof:brand_name": "Old Navy", 
-  "wof:brand_id": 420574377
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416231
 }

@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414480, 
+  "wof:brand_name": "Charley's Steakery", 
+  "wof:brand_id": 1125157353, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:food_and_drink=fast_food"
+  ], 
   "wof:tags": [
     "eating", 
     "sandwich", 
@@ -9,6 +15,6 @@
     "shop", 
     "wrap"
   ], 
-  "wof:brand_name": "Charley's Steakery", 
-  "wof:brand_id": 1125157353
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416250
 }

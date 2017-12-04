@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414522, 
+  "wof:brand_name": "Wreckair", 
+  "wof:brand_id": 1125159751, 
+  "wof:categories": [
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "builders", 
     "contractor", 
@@ -8,6 +12,6 @@
     "handyman's", 
     "hire"
   ], 
-  "wof:brand_name": "Wreckair", 
-  "wof:brand_id": 1125159751
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416284
 }

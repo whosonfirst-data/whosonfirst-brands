@@ -1,6 +1,25 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414451, 
+  "wof:brand_name": "Age Concern England (National Council of", 
+  "wof:brand_id": 420575411, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=nonprofit_organization", 
+    "retail_goods:shopping=thrift_store", 
+    "sg:retail_goods=shopping", 
+    "public_place:education=special_training", 
+    "sg:public_place=education", 
+    "services:professional=computer_services", 
+    "sg:services=professional", 
+    "services:social_services=adult_care", 
+    "sg:services=social_services", 
+    "entertainment:sports_and_exercise=sports_center", 
+    "entertainment:travel=hostel", 
+    "public_place:government=office", 
+    "services:organizations=membership_organization", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:entertainment=travel", 
+    "sg:public_place=government"
+  ], 
   "wof:tags": [
     "charity", 
     "organisation", 
@@ -16,6 +35,6 @@
     "gov", 
     "project"
   ], 
-  "wof:brand_name": "Age Concern England (National Council of", 
-  "wof:brand_id": 420575411
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416227
 }

@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414541, 
+  "wof:brand_name": "World Gym Fitness Ctr", 
+  "wof:brand_id": 1125161337, 
+  "wof:categories": [
+    "entertainment:sports_and_exercise=gym", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:services=personal", 
+    "services:professional=advertising", 
+    "sg:services=professional", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "gymnasium", 
     "club", 
@@ -13,6 +21,6 @@
     "mail", 
     "mover"
   ], 
-  "wof:brand_name": "World Gym Fitness Ctr", 
-  "wof:brand_id": 1125161337
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416299
 }

@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414464, 
+  "wof:brand_name": "Guys & Dolls", 
+  "wof:brand_id": 1125159271, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "services:social_services=child_care", 
+    "sg:retail_goods=shopping", 
+    "sg:services=social_services", 
+    "services:organizations=community_association", 
+    "services:personal=tanning_parlor", 
+    "sg:entertainment=recreation", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "hairdresser", 
     "unisex", 
@@ -18,6 +32,6 @@
     "store", 
     "toy"
   ], 
-  "wof:brand_name": "Guys & Dolls", 
-  "wof:brand_id": 1125159271
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416237
 }

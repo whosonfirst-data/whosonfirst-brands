@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414553, 
+  "wof:brand_name": "Wingstop", 
+  "wof:brand_id": 1125148993, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "sg:services=professional", 
+    "services:personal=beauty_salon", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "wing", 
     "american", 
@@ -11,6 +19,6 @@
     "caterer", 
     "drinking"
   ], 
-  "wof:brand_name": "Wingstop", 
-  "wof:brand_id": 1125148993
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416308
 }

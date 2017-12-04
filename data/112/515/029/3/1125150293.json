@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414521, 
+  "wof:brand_name": "Beazer Homes", 
+  "wof:brand_id": 1125150293, 
+  "wof:categories": [
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_agent", 
+    "services:real_estate=developer", 
+    "manufacturing_and_wholesale_goods:manufacturing=buildings", 
+    "services:professional=management_and_consulting", 
+    "services:real_estate=real_estate_services", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "builder", 
     "home", 
@@ -8,6 +20,6 @@
     "house", 
     "construction"
   ], 
-  "wof:brand_name": "Beazer Homes", 
-  "wof:brand_id": 1125150293
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416283
 }

@@ -1,9 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414535, 
+  "wof:brand_name": "United Reformed Church", 
+  "wof:brand_id": 1125153735, 
+  "wof:categories": [
+    "sg:public_place=place_of_worship", 
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:government=city_hall", 
+    "sg:public_place=government"
+  ], 
   "wof:tags": [
     "church"
   ], 
-  "wof:brand_name": "United Reformed Church", 
-  "wof:brand_id": 1125153735
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416294
 }

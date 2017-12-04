@@ -1,12 +1,21 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414508, 
+  "wof:brand_name": "International Brotherhood", 
+  "wof:brand_id": 1125153613, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=labor_organization", 
+    "sg:services=professional", 
+    "services:banks_and_credit_unions=bank", 
+    "services:organizations=membership_organization", 
+    "services:professional=management_and_consulting", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "establishment", 
     "union", 
     "consultant", 
     "international"
   ], 
-  "wof:brand_name": "International Brotherhood", 
-  "wof:brand_id": 1125153613
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416273
 }

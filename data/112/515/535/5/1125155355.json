@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414536, 
+  "wof:brand_name": "Children's Place the", 
+  "wof:brand_id": 1125155355, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:social_services=child_care", 
+    "sg:services=social_services", 
+    "retail_goods:shopping=baby_store", 
+    "retail_goods:shopping=used_merchandise"
+  ], 
   "wof:tags": [
     "clothing", 
     "children's", 
@@ -12,6 +20,6 @@
     "vintage", 
     "women's"
   ], 
-  "wof:brand_name": "Children's Place the", 
-  "wof:brand_id": 1125155355
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416294
 }

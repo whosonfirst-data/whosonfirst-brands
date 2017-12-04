@@ -1,7 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414499, 
-  "wof:tags": [], 
   "wof:brand_name": "Mervyn's", 
-  "wof:brand_id": 1125151437
+  "wof:brand_id": 1125151437, 
+  "wof:categories": [
+    "retail_goods:shopping=department_store", 
+    "sg:retail_goods=shopping"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416266
 }

@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414529, 
+  "wof:brand_name": "Compusa", 
+  "wof:brand_id": 1125151257, 
+  "wof:categories": [
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:wholesale=computers", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional", 
+    "services:professional=computer_services", 
+    "public_place:education=vocational_school", 
+    "sg:public_place=education", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "equipment", 
     "dealer", 
@@ -12,6 +23,6 @@
     "general", 
     "training"
   ], 
-  "wof:brand_name": "Compusa", 
-  "wof:brand_id": 1125151257
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416289
 }

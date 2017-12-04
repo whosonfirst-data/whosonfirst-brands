@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414540, 
+  "wof:brand_name": "Heritage Apartments", 
+  "wof:brand_id": 1125160859, 
+  "wof:categories": [
+    "services:real_estate=real_estate_operator", 
+    "sg:services=real_estate", 
+    "services:building_and_trades=construction", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "apartment", 
     "building", 
@@ -13,6 +20,6 @@
     "operator", 
     "rental"
   ], 
-  "wof:brand_name": "Heritage Apartments", 
-  "wof:brand_id": 1125160859
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416298
 }

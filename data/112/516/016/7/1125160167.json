@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414541, 
+  "wof:brand_name": "Fairweather", 
+  "wof:brand_id": 1125160167, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "retail_goods:food_and_beverages=farmers_market", 
+    "retail_goods:shopping=department_store", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:real_estate=real_estate_operator", 
+    "services:retail=auto_repair", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=mining_and_drilling", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=real_estate", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "accountant", 
     "apartment", 
@@ -12,6 +28,6 @@
     "oil", 
     "operator"
   ], 
-  "wof:brand_name": "Fairweather", 
-  "wof:brand_id": 1125160167
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416298
 }

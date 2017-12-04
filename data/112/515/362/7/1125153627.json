@@ -1,12 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414536, 
+  "wof:brand_name": "Lucky Nails", 
+  "wof:brand_id": 1125153627, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon", 
+    "services:personal=hair_removal"
+  ], 
   "wof:tags": [
     "manicuring", 
     "shop", 
     "nail", 
     "manicurist"
   ], 
-  "wof:brand_name": "Lucky Nails", 
-  "wof:brand_id": 1125153627
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416295
 }

@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414444, 
+  "wof:brand_name": "Ritz Camera Ctr", 
+  "wof:brand_id": 420575375, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=photographic_equipment", 
+    "sg:services=retail", 
+    "services:retail=photofinishing", 
+    "services:retail=portrait_studio", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=photographic_equipment", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:professional=art_services", 
+    "services:professional=printing_and_photocopies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "services:building_and_trades=equipment_rental", 
+    "services:communications=film_and_video_production", 
+    "sg:services=building_and_trades", 
+    "sg:services=communications"
+  ], 
   "wof:tags": [
     "supply", 
     "finishing", 
@@ -13,6 +30,6 @@
     "duplication", 
     "tape"
   ], 
-  "wof:brand_name": "Ritz Camera Ctr", 
-  "wof:brand_id": 420575375
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416222
 }

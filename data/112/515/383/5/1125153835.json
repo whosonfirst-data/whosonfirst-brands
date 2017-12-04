@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414497, 
+  "wof:brand_name": "American Heart Association", 
+  "wof:brand_id": 1125153835, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=nonprofit_organization", 
+    "services:organizations=professional_association", 
+    "sg:services=social_services", 
+    "sg:services=health_services", 
+    "services:health_services=clinic", 
+    "sg:services=professional", 
+    "services:organizations=community_association", 
+    "services:health_services=medical_lab", 
+    "services:professional=research", 
+    "public_place:government=city_hall", 
+    "services:health_services=doctor", 
+    "services:organizations=membership_organization", 
+    "services:professional=management_and_consulting", 
+    "sg:public_place=government"
+  ], 
   "wof:tags": [
     "social", 
     "welfare", 
@@ -24,6 +41,6 @@
     "organization", 
     "raising"
   ], 
-  "wof:brand_name": "American Heart Association", 
-  "wof:brand_id": 1125153835
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416264
 }

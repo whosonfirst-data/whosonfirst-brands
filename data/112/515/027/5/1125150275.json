@@ -1,6 +1,15 @@
 {
   "wof:brand_name": "Charles Schwab", 
   "wof:brand_id": 1125150275, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "services:professional=management_and_consulting"
+  ], 
   "wof:tags": [
     "bond", 
     "stock", 
@@ -36,6 +45,6 @@
     1125151351
   ], 
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414526, 
+  "wof:lastmodified": 1512416287, 
   "mz:is_current": 1
 }

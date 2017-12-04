@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414526, 
+  "wof:brand_name": "Aid Association For Lutherans", 
+  "wof:brand_id": 1125158023, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "sg:services=organizations", 
+    "services:organizations=professional_association", 
+    "services:insurance=life_insurance", 
+    "services:insurance=hazard_insurance", 
+    "services:organizations=religious_organization", 
+    "sg:services=social_services", 
+    "services:organizations=membership_organization", 
+    "services:organizations=nonprofit_organization", 
+    "services:professional=management_and_consulting", 
+    "services:social_services=adult_care", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "carrier", 
     "annuity", 
@@ -12,6 +27,6 @@
     "residential", 
     "social"
   ], 
-  "wof:brand_name": "Aid Association For Lutherans", 
-  "wof:brand_id": 1125158023
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416287
 }

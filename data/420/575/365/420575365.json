@@ -1,6 +1,30 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414448, 
+  "wof:brand_name": "Birmingham City Council", 
+  "wof:brand_id": 420575365, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:public_place=education", 
+    "public_place:education=school", 
+    "sg:services=social_services", 
+    "public_place:education=library", 
+    "sg:public_place=community_center", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:farming=nursery", 
+    "public_place:education=special_training", 
+    "public_place:education=university", 
+    "services:social_services=adult_care", 
+    "services:social_services=retirement_home", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "manufacturing_and_wholesale_goods:manufacturing=textiles", 
+    "public_place:community_center=youth", 
+    "services:building_and_trades=construction", 
+    "services:professional=business_services", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:professional=printing_and_photocopies", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "local", 
     "authority", 
@@ -23,6 +47,6 @@
     "sheltered", 
     "wholesale"
   ], 
-  "wof:brand_name": "Birmingham City Council", 
-  "wof:brand_id": 420575365
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416224
 }

@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414519, 
+  "wof:brand_name": "Jewson Ltd", 
+  "wof:brand_id": 1125155147, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:manufacturing=building_materials", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "retail_goods:home_and_garden=hardware", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "builder", 
     "merchant", 
@@ -8,6 +14,6 @@
     "equipment", 
     "fitting"
   ], 
-  "wof:brand_name": "Jewson Ltd", 
-  "wof:brand_id": 1125155147
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416281
 }

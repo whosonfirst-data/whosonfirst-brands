@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414463, 
+  "wof:brand_name": "Loyal Order Of Moose", 
+  "wof:brand_id": 420574125, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=community_association", 
+    "services:organizations=professional_association", 
+    "services:organizations=nonprofit_organization", 
+    "services:organizations=membership_organization", 
+    "sg:services=social_services", 
+    "public_place:education=college", 
+    "services:professional=business_services", 
+    "sg:public_place=education", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "fraternal", 
     "club", 
@@ -19,6 +31,6 @@
     "welfare", 
     "workers'"
   ], 
-  "wof:brand_name": "Loyal Order Of Moose", 
-  "wof:brand_id": 420574125
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416236
 }

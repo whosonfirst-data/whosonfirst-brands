@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414549, 
+  "wof:brand_name": "Rogers Jewelers", 
+  "wof:brand_id": 1125161263, 
+  "wof:categories": [
+    "retail_goods:shopping=jewelry", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:manufacturing=jewelry", 
+    "services:retail=repair_shop", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "jeweler", 
     "diamond", 
@@ -14,6 +22,6 @@
     "stone", 
     "watch"
   ], 
-  "wof:brand_name": "Rogers Jewelers", 
-  "wof:brand_id": 1125161263
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416305
 }

@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414486, 
+  "wof:brand_name": "Department of Motor Vehicles", 
+  "wof:brand_id": 1125159531, 
+  "wof:categories": [
+    "sg:public_place=government", 
+    "public_place:government=city_hall", 
+    "public_place:government=office", 
+    "public_place:government=department_of_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "transportation", 
     "automotive", 
@@ -17,6 +25,6 @@
     "test", 
     "to"
   ], 
-  "wof:brand_name": "Department of Motor Vehicles", 
-  "wof:brand_id": 1125159531
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416255
 }

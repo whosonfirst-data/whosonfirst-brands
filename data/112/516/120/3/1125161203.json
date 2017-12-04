@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414538, 
+  "wof:brand_name": "Miranda", 
+  "wof:brand_id": 1125161203, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "sg:services=professional", 
+    "retail_goods:shopping=adult", 
+    "retail_goods:shopping=florist", 
+    "services:personal=beauty_salon", 
+    "services:professional=business_services", 
+    "services:professional=detective_and_security_services", 
+    "sg:food_and_drink=restaurant", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "-", 
     "alarm", 
@@ -16,6 +27,6 @@
     "system", 
     "tricotage"
   ], 
-  "wof:brand_name": "Miranda", 
-  "wof:brand_id": 1125161203
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416296
 }

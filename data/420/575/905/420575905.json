@@ -1,6 +1,38 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414448, 
+  "wof:brand_name": "United Cerebral Palsy", 
+  "wof:brand_id": 420575905, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=professional_association", 
+    "sg:services=social_services", 
+    "services:organizations=nonprofit_organization", 
+    "sg:services=health_services", 
+    "services:organizations=membership_organization", 
+    "services:health_services=clinic", 
+    "sg:services=professional", 
+    "services:social_services=adult_care", 
+    "public_place:education=school", 
+    "services:health_services=nursing_and_care_facility", 
+    "services:social_services=child_care", 
+    "sg:public_place=education", 
+    "services:health_services=doctor", 
+    "services:organizations=community_association", 
+    "services:social_services=job_training", 
+    "sg:services=communications", 
+    "public_place:education=special_training", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:building_and_trades=landscaping_services", 
+    "services:health_services=health_practitioner", 
+    "services:insurance=hazard_insurance", 
+    "services:insurance=health_insurance", 
+    "services:organizations=religious_organization", 
+    "services:professional=employment_agencies", 
+    "services:professional=management_and_consulting", 
+    "services:professional=printing_and_photocopies", 
+    "sg:retail_goods=shopping", 
+    "sg:services=building_and_trades", 
+    "sg:services=insurance"
+  ], 
   "wof:tags": [
     "welfare", 
     "organization", 
@@ -48,6 +80,6 @@
     "therapist", 
     "thrift"
   ], 
-  "wof:brand_name": "United Cerebral Palsy", 
-  "wof:brand_id": 420575905
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416224
 }

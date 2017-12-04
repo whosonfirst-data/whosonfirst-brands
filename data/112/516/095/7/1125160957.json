@@ -1,10 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414543, 
+  "wof:brand_name": "Shoe Carnival Inc", 
+  "wof:brand_id": 1125160957, 
+  "wof:categories": [
+    "retail_goods:shopping=shoes", 
+    "sg:retail_goods=shopping", 
+    "services:organizations=religious_organization", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "family", 
     "church"
   ], 
-  "wof:brand_name": "Shoe Carnival Inc", 
-  "wof:brand_id": 1125160957
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416300
 }

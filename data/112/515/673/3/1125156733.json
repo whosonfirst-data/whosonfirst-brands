@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414502, 
+  "wof:brand_name": "Drivers License Office", 
+  "wof:brand_id": 1125156733, 
+  "wof:categories": [
+    "sg:public_place=government", 
+    "public_place:government=office", 
+    "public_place:government=department_of_motor_vehicles", 
+    "public_place:government=police_station", 
+    "services:professional=business_services", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "transportation", 
     "program", 
@@ -16,6 +27,6 @@
     "exam", 
     "protection"
   ], 
-  "wof:brand_name": "Drivers License Office", 
-  "wof:brand_id": 1125156733
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416268
 }

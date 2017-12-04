@@ -1,6 +1,31 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414467, 
+  "wof:brand_name": "Thrift Store", 
+  "wof:brand_id": 1125157517, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=used_merchandise", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=organizations", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "services:organizations=religious_organization", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "retail_goods:food_and_beverages=bakery", 
+    "retail_goods:shopping=thrift_store", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=health_services", 
+    "sg:services=social_services", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "services:health_services=clinic", 
+    "services:health_services=hospital", 
+    "services:organizations=membership_organization", 
+    "services:professional=business_services", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "shop", 
     "thrift", 
@@ -27,6 +52,6 @@
     "sales", 
     "specialty"
   ], 
-  "wof:brand_name": "Thrift Store", 
-  "wof:brand_id": 1125157517
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416240
 }

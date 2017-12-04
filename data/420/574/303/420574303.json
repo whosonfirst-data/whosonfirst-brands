@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414455, 
+  "wof:brand_name": "Fraternal Order Of Eagles", 
+  "wof:brand_id": 420574303, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=community_association", 
+    "services:organizations=nonprofit_organization", 
+    "services:organizations=professional_association", 
+    "sg:food_and_drink=restaurant", 
+    "sg:services=social_services", 
+    "services:organizations=membership_organization", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "services:organizations=labor_organization", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "fraternal", 
     "club", 
@@ -11,6 +23,6 @@
     "establishment", 
     "welfare"
   ], 
-  "wof:brand_name": "Fraternal Order Of Eagles", 
-  "wof:brand_id": 420574303
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416230
 }

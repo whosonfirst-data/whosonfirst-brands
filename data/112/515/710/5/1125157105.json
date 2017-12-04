@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414530, 
+  "wof:brand_name": "Alterra Sterling House", 
+  "wof:brand_id": 1125157105, 
+  "wof:categories": [
+    "services:social_services=adult_care", 
+    "sg:services=social_services", 
+    "services:health_services=nursing_and_care_facility", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "home", 
     "residential", 
@@ -9,6 +15,6 @@
     "retirement", 
     "personal"
   ], 
-  "wof:brand_name": "Alterra Sterling House", 
-  "wof:brand_id": 1125157105
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416290
 }

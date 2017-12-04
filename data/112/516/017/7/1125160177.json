@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414541, 
+  "wof:brand_name": "Flower Gallery", 
+  "wof:brand_id": 1125160177, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=florist", 
+    "manufacturing_and_wholesale_goods:wholesale=plants", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "gift", 
     "shop", 
@@ -12,6 +18,6 @@
     "propane", 
     "supply"
   ], 
-  "wof:brand_name": "Flower Gallery", 
-  "wof:brand_id": 1125160177
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416299
 }

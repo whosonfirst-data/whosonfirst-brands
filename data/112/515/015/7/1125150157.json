@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414465, 
+  "wof:brand_name": "Hair It Is", 
+  "wof:brand_id": 1125150157, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "services:personal=nail_salon", 
+    "services:personal=tanning_parlor", 
+    "sg:retail_goods=shopping", 
+    "services:health_services=health_practitioner", 
+    "services:personal=massage", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
@@ -16,6 +27,6 @@
     "spa", 
     "unisex"
   ], 
-  "wof:brand_name": "Hair It Is", 
-  "wof:brand_id": 1125150157
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416238
 }

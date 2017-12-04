@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414538, 
+  "wof:brand_name": "Alexander Technique", 
+  "wof:brand_id": 1125162499, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=health_practitioner", 
+    "entertainment:sports_and_exercise=gym", 
+    "services:health_services=clinic", 
+    "sg:entertainment=sports_and_exercise", 
+    "public_place:education=special_training", 
+    "sg:public_place=education", 
+    "sg:services=personal", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "alexander", 
     "technique", 
@@ -23,6 +34,6 @@
     "trainer", 
     "treatment"
   ], 
-  "wof:brand_name": "Alexander Technique", 
-  "wof:brand_id": 1125162499
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416296
 }

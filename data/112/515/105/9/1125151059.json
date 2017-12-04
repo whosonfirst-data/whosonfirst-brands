@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414465, 
+  "wof:brand_name": "Union Pacific Railroad Company", 
+  "wof:brand_id": 1125151059, 
+  "wof:categories": [
+    "sg:transportation=railroad", 
+    "sg:transportation=freight", 
+    "entertainment:travel=travel_agent", 
+    "sg:entertainment=travel", 
+    "manufacturing_and_wholesale_goods:manufacturing=motor_vehicles_and_parts", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "services:retail=repair_shop", 
+    "services:social_services=job_training", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional", 
+    "sg:services=retail", 
+    "sg:services=social_services", 
+    "sg:transportation=train_station", 
+    "transportation:train_station=rail"
+  ], 
   "wof:tags": [
     "line", 
     "operator", 
@@ -24,6 +41,6 @@
     "transportation", 
     "trucking"
   ], 
-  "wof:brand_name": "Union Pacific Railroad Company", 
-  "wof:brand_id": 1125151059
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416238
 }

@@ -1,6 +1,30 @@
 {
   "wof:brand_name": "Sonic Drive-In", 
   "wof:brand_id": 420574111, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "sg:services=professional", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=banks_and_credit_unions", 
+    "entertainment:cinema=drivein_theater", 
+    "entertainment:travel=travel_agent", 
+    "public_place:government=office", 
+    "retail_goods:food_and_beverages=candy", 
+    "retail_goods:food_and_beverages=meat_and_fish", 
+    "services:building_and_trades=plumbing", 
+    "services:professional=management_and_consulting", 
+    "services:real_estate=real_estate_operator", 
+    "sg:entertainment=cinema", 
+    "sg:entertainment=travel", 
+    "sg:food_and_drink=food_court", 
+    "sg:food_and_drink=ice_cream", 
+    "sg:public_place=government", 
+    "sg:services=building_and_trades", 
+    "sg:services=real_estate", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "american", 
     "burger", 
@@ -39,6 +63,6 @@
     1125148681
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414463, 
+  "wof:lastmodified": 1512416236, 
   "mz:is_current": 1
 }

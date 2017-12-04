@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414451, 
+  "wof:brand_name": "China Buffet", 
+  "wof:brand_id": 420575677, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:retail_goods=food_and_beverages", 
+    "services:retail=event_space", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "eating", 
     "chinese", 
@@ -21,6 +28,6 @@
     "soul", 
     "sushi"
   ], 
-  "wof:brand_name": "China Buffet", 
-  "wof:brand_id": 420575677
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416227
 }

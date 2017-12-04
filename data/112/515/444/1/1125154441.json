@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414480, 
+  "wof:brand_name": "Kelley-Moore Paint Co", 
+  "wof:brand_id": 1125154441, 
+  "wof:categories": [
+    "retail_goods:home_and_garden=building_materials", 
+    "sg:retail_goods=home_and_garden", 
+    "manufacturing_and_wholesale_goods:wholesale=painting_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=building_materials", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "paint", 
     "equipment", 
@@ -12,6 +23,6 @@
     "contractor", 
     "wallcoverings-installation"
   ], 
-  "wof:brand_name": "Kelley-Moore Paint Co", 
-  "wof:brand_id": 1125154441
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416250
 }

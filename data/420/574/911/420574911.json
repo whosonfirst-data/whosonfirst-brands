@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414461, 
+  "wof:brand_name": "First American Title Ins Co", 
+  "wof:brand_id": 420574911, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=title_insurance", 
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=hazard_insurance", 
+    "services:real_estate=real_estate_agent", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:professional=research", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "company", 
     "title", 
@@ -14,6 +29,6 @@
     "real estate", 
     "search"
   ], 
-  "wof:brand_name": "First American Title Ins Co", 
-  "wof:brand_id": 420574911
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416235
 }

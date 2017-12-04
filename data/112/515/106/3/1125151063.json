@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414526, 
+  "wof:brand_name": "City Nails", 
+  "wof:brand_id": 1125151063, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=construction_materials", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "manicuring", 
     "shop", 
@@ -9,6 +19,6 @@
     "establishment", 
     "supply"
   ], 
-  "wof:brand_name": "City Nails", 
-  "wof:brand_id": 1125151063
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416287
 }

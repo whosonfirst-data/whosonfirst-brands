@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414446, 
+  "wof:brand_name": "H Samuel", 
+  "wof:brand_id": 420575213, 
+  "wof:categories": [
+    "retail_goods:shopping=comic_books", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "jeweller"
   ], 
-  "wof:brand_name": "H Samuel", 
-  "wof:brand_id": 420575213
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416223
 }

@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414480, 
+  "wof:brand_name": "National Guard Armory", 
+  "wof:brand_id": 1125152417, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:services=professional", 
+    "services:organizations=community_association", 
+    "sg:public_place=military_area", 
+    "sg:services=organizations", 
+    "services:retail=repair_shop", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "security", 
     "state", 
@@ -19,6 +29,6 @@
     "executive", 
     "homeland"
   ], 
-  "wof:brand_name": "National Guard Armory", 
-  "wof:brand_id": 1125152417
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416250
 }

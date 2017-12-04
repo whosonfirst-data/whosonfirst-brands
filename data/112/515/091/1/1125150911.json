@@ -1,6 +1,25 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414467, 
+  "wof:brand_name": "Budget", 
+  "wof:brand_id": 1125150911, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=auto_rental", 
+    "sg:transportation=airline", 
+    "services:retail=auto_repair", 
+    "sg:services=professional", 
+    "services:building_and_trades=equipment_rental", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=building_and_trades", 
+    "sg:services=real_estate", 
+    "services:banks_and_credit_unions=bank", 
+    "services:insurance=hazard_insurance", 
+    "services:professional=business_services", 
+    "services:retail=storage", 
+    "services:utilities=telephone", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=insurance", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "car", 
     "airport", 
@@ -23,6 +42,6 @@
     "telecommunication", 
     "yard"
   ], 
-  "wof:brand_name": "Budget", 
-  "wof:brand_id": 1125150911
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416239
 }

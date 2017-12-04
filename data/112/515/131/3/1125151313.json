@@ -1,12 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414497, 
+  "wof:brand_name": "Lesco Service Ctr", 
+  "wof:brand_id": 1125151313, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:wholesale=farm_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "sg:retail_goods=home_and_garden", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "fertilizer", 
     "equipment", 
     "landscaping", 
     "lawn"
   ], 
-  "wof:brand_name": "Lesco Service Ctr", 
-  "wof:brand_id": 1125151313
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416264
 }

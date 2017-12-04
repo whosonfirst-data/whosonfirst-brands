@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414484, 
+  "wof:brand_name": "Willems", 
+  "wof:brand_id": 1125158007, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "public_place:structure=office_building", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "retail_goods:shopping=books", 
+    "services:building_and_trades=electrical", 
+    "services:health_services=health_practitioner", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:food_and_drink=bakery", 
+    "sg:public_place=structure", 
+    "sg:services=building_and_trades", 
+    "sg:services=health_services", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "-", 
     "baker", 
@@ -17,6 +31,6 @@
     "speech", 
     "therapist"
   ], 
-  "wof:brand_name": "Willems", 
-  "wof:brand_id": 1125158007
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416253
 }

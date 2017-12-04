@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414527, 
+  "wof:brand_name": "Fossil Inc", 
+  "wof:brand_id": 1125159257, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=jewelry", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=department_store", 
+    "manufacturing_and_wholesale_goods:wholesale=jewelry", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional", 
+    "retail_goods:shopping=luggage_and_leather_goods", 
+    "services:professional=research"
+  ], 
   "wof:tags": [
     "watch", 
     "factory", 
@@ -12,6 +23,6 @@
     "jeweler", 
     "women's"
   ], 
-  "wof:brand_name": "Fossil Inc", 
-  "wof:brand_id": 1125159257
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416287
 }

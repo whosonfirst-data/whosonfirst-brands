@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414471, 
+  "wof:brand_name": "Advantage Rent-A-Car", 
+  "wof:brand_id": 1125151535, 
+  "wof:categories": [
+    "services:retail=auto_rental", 
+    "sg:services=retail", 
+    "services:retail=storage"
+  ], 
   "wof:tags": [
     "car", 
     "renting", 
@@ -15,6 +20,6 @@
     "trailer", 
     "truck"
   ], 
-  "wof:brand_name": "Advantage Rent-A-Car", 
-  "wof:brand_id": 1125151535
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416243
 }

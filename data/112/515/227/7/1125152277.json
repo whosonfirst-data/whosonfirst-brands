@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414467, 
+  "wof:brand_name": "Fresenius Medical Care", 
+  "wof:brand_id": 1125152277, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=doctor", 
+    "services:health_services=clinic", 
+    "sg:public_place=community_center", 
+    "services:health_services=hospital", 
+    "manufacturing_and_wholesale_goods:wholesale=medical_equipment_and_supplies", 
+    "retail_goods:shopping=pharmacy", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:health_services=medical_lab", 
+    "services:health_services=nursing_and_care_facility", 
+    "services:organizations=religious_organization", 
+    "services:real_estate=real_estate_operator", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=organizations", 
+    "sg:services=professional", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "clinic", 
     "medical", 
@@ -22,6 +42,6 @@
     "practice", 
     "welfare"
   ], 
-  "wof:brand_name": "Fresenius Medical Care", 
-  "wof:brand_id": 1125152277
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416239
 }

@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414459, 
+  "wof:brand_name": "Kay Jewelers", 
+  "wof:brand_id": 420574669, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=jewelry", 
+    "manufacturing_and_wholesale_goods:manufacturing=jewelry", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:public_place=shopping_center"
+  ], 
   "wof:tags": [
     "jeweler", 
     "precious", 
@@ -11,6 +18,6 @@
     "store", 
     "diamond"
   ], 
-  "wof:brand_name": "Kay Jewelers", 
-  "wof:brand_id": 420574669
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416233
 }

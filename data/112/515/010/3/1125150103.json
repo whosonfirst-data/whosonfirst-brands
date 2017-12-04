@@ -1,10 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414478, 
+  "wof:brand_name": "Shoes In The Box", 
+  "wof:brand_id": 1125150103, 
+  "wof:categories": [
+    "retail_goods:shopping=shoes", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "-", 
     "slipper"
   ], 
-  "wof:brand_name": "Shoes In The Box", 
-  "wof:brand_id": 1125150103
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416248
 }

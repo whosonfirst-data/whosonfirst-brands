@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414504, 
+  "wof:brand_name": "Chesterbrook Academy", 
+  "wof:brand_id": 1125156535, 
+  "wof:categories": [
+    "sg:public_place=education", 
+    "services:social_services=child_care", 
+    "sg:services=social_services", 
+    "public_place:education=school", 
+    "public_place:education=preschool", 
+    "public_place:education=special_training", 
+    "sg:entertainment=recreation"
+  ], 
   "wof:tags": [
     "day", 
     "elementary", 
@@ -18,6 +27,6 @@
     "childcare", 
     "daycare"
   ], 
-  "wof:brand_name": "Chesterbrook Academy", 
-  "wof:brand_id": 1125156535
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416270
 }

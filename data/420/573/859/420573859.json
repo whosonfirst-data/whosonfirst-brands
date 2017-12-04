@@ -1,10 +1,15 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414455, 
+  "wof:brand_name": "Banque Nationale De Paris", 
+  "wof:brand_id": 420573859, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services"
+  ], 
   "wof:tags": [
     "banking", 
     "institution"
   ], 
-  "wof:brand_name": "Banque Nationale De Paris", 
-  "wof:brand_id": 420573859
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416230
 }

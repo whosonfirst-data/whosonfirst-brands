@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414489, 
+  "wof:brand_name": "Otis Elevator Co", 
+  "wof:brand_id": 1125153635, 
+  "wof:categories": [
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=construction_materials", 
+    "services:professional=engineering", 
+    "services:professional=management_and_consulting"
+  ], 
   "wof:tags": [
     "elevator", 
     "dumbwaiter", 
@@ -14,6 +26,6 @@
     "passenger-commercial", 
     "stairway"
   ], 
-  "wof:brand_name": "Otis Elevator Co", 
-  "wof:brand_id": 1125153635
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416257
 }

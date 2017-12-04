@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414474, 
+  "wof:brand_name": "Donut Connection", 
+  "wof:brand_id": 1125151305, 
+  "wof:categories": [
+    "sg:food_and_drink=donuts", 
+    "sg:food_and_drink=bakery", 
+    "sg:food_and_drink=coffee_and_tea", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:retail_goods=food_and_beverages", 
+    "food_and_drink:donuts=none", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "sg:food_and_drink=restaurant", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "american", 
     "pastry", 
@@ -17,6 +29,6 @@
     "mfg", 
     "product"
   ], 
-  "wof:brand_name": "Donut Connection", 
-  "wof:brand_id": 1125151305
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416245
 }

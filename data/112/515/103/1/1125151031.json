@@ -1,12 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414503, 
+  "wof:brand_name": "Bo Rics Haircare", 
+  "wof:brand_id": 1125151031, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
     "replacement", 
     "weaving"
   ], 
-  "wof:brand_name": "Bo Rics Haircare", 
-  "wof:brand_id": 1125151031
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416269
 }

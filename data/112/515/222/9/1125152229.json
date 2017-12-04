@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414515, 
+  "wof:brand_name": "Planet Fitness", 
+  "wof:brand_id": 1125152229, 
+  "wof:categories": [
+    "sg:entertainment=sports_and_exercise", 
+    "entertainment:sports_and_exercise=gym", 
+    "entertainment:arena=sports_club", 
+    "sg:entertainment=arena", 
+    "sg:services=personal", 
+    "services:personal=tanning_parlor", 
+    "sg:entertainment=recreation", 
+    "entertainment:sports_and_exercise=sports_center", 
+    "services:health_services=clinic", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "health", 
     "fitness", 
@@ -21,6 +33,6 @@
     "life", 
     "medical"
   ], 
-  "wof:brand_name": "Planet Fitness", 
-  "wof:brand_id": 1125152229
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416278
 }

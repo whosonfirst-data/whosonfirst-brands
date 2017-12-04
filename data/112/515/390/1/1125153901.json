@@ -1,10 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414499, 
+  "wof:brand_name": "Super Cheap Auto", 
+  "wof:brand_id": 1125153901, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:manufacturing=motor_vehicles_and_parts", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "accessory", 
     "replacement"
   ], 
-  "wof:brand_name": "Super Cheap Auto", 
-  "wof:brand_id": 1125153901
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416266
 }

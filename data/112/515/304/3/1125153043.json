@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414507, 
+  "wof:brand_name": "Mane Event", 
+  "wof:brand_id": 1125153043, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "entertainment:sports_and_exercise=race_track", 
+    "services:health_services=doctor", 
+    "services:personal=tanning_parlor", 
+    "services:professional=management_and_consulting", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:services=health_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "shop", 
     "hairdresser", 
@@ -18,6 +30,6 @@
     "physical", 
     "salon"
   ], 
-  "wof:brand_name": "Mane Event", 
-  "wof:brand_id": 1125153043
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416271
 }

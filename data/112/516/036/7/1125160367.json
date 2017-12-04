@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414550, 
+  "wof:brand_name": "U.S. Cellular", 
+  "wof:brand_id": 1125160367, 
+  "wof:categories": [
+    "services:utilities=mobile_phone", 
+    "sg:services=utilities", 
+    "retail_goods:shopping=mobile_phones", 
+    "sg:retail_goods=shopping", 
+    "sg:services=communications", 
+    "manufacturing_and_wholesale_goods:manufacturing=electronics", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "cellular", 
     "telephone", 
@@ -10,6 +19,6 @@
     "communication", 
     "telecommunications-equipment"
   ], 
-  "wof:brand_name": "U.S. Cellular", 
-  "wof:brand_id": 1125160367
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416306
 }

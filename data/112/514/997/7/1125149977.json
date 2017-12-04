@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414560, 
+  "wof:brand_name": "Pet Supplies Plus", 
+  "wof:brand_id": 1125149977, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=pets_and_pet_supplies", 
+    "services:retail=animal_services", 
+    "sg:services=retail", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "entertainment:museum=aquarium", 
+    "manufacturing_and_wholesale_goods:manufacturing=pet_food", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "services:building_and_trades=construction", 
+    "sg:entertainment=museum", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "pet", 
     "supply", 
@@ -22,6 +39,6 @@
     "miscellaneous", 
     "product"
   ], 
-  "wof:brand_name": "Pet Supplies Plus", 
-  "wof:brand_id": 1125149977
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416314
 }

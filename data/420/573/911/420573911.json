@@ -1,6 +1,25 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414454, 
+  "wof:brand_name": "Movie Gallery", 
+  "wof:brand_id": 420573911, 
+  "wof:categories": [
+    "sg:entertainment=cinema", 
+    "entertainment:cinema=movie_rental", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=music", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=banks_and_credit_unions", 
+    "entertainment:cinema=movie_theater", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "services:building_and_trades=equipment_rental", 
+    "services:communications=radio_station", 
+    "services:retail=repair_shop", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=building_and_trades", 
+    "sg:services=communications", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "video", 
     "tape", 
@@ -24,6 +43,6 @@
     "theater", 
     "wheat"
   ], 
-  "wof:brand_name": "Movie Gallery", 
-  "wof:brand_id": 420573911
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416229
 }

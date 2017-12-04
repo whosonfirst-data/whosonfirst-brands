@@ -1,6 +1,25 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414470, 
+  "wof:brand_name": "Herbalife Independent Distributor", 
+  "wof:brand_id": 1125158315, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:services=personal", 
+    "sg:services=health_services", 
+    "services:insurance=health_insurance", 
+    "sg:services=insurance", 
+    "entertainment:sports_and_exercise=gym", 
+    "services:health_services=clinic", 
+    "services:health_services=doctor", 
+    "services:health_services=health_practitioner", 
+    "sg:entertainment=sports_and_exercise", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "retail_goods:shopping=pharmacy", 
+    "services:professional=management_and_consulting", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "health", 
     "product", 
@@ -33,6 +52,6 @@
     "sale", 
     "wellness"
   ], 
-  "wof:brand_name": "Herbalife Independent Distributor", 
-  "wof:brand_id": 1125158315
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416242
 }

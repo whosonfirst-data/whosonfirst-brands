@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414476, 
+  "wof:brand_name": "Motor World Ltd.", 
+  "wof:brand_id": 1125158357, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "accessory", 
     "part", 
@@ -8,6 +13,6 @@
     "audio", 
     "component"
   ], 
-  "wof:brand_name": "Motor World Ltd.", 
-  "wof:brand_id": 1125158357
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416247
 }

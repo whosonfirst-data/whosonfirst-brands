@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414508, 
+  "wof:brand_name": "Western Dental Centers", 
+  "wof:brand_id": 1125156323, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=dentist", 
+    "services:health_services=doctor", 
+    "services:banks_and_credit_unions=bank", 
+    "services:insurance=health_insurance", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=insurance"
+  ], 
   "wof:tags": [
     "dentistry", 
     "dentists-pediatric", 
@@ -12,6 +21,6 @@
     "maintenance", 
     "organization"
   ], 
-  "wof:brand_name": "Western Dental Centers", 
-  "wof:brand_id": 1125156323
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416272
 }

@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414525, 
+  "wof:brand_name": "Nail Spa", 
+  "wof:brand_id": 1125151441, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "manufacturing_and_wholesale_goods:manufacturing=retail_goods", 
+    "services:personal=day_spa", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "manicuring", 
     "shop", 
@@ -16,6 +27,6 @@
     "spa", 
     "toilet"
   ], 
-  "wof:brand_name": "Nail Spa", 
-  "wof:brand_id": 1125151441
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416286
 }

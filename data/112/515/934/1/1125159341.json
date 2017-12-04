@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414502, 
+  "wof:brand_name": "Pro Clean", 
+  "wof:brand_id": 1125159341, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "services:retail=repair_shop", 
+    "services:building_and_trades=construction", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=chemicals_and_plastics", 
+    "services:retail=car_wash", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "retail_goods:home_and_garden=carpets_and_floor_coverings", 
+    "services:retail=selfservice_laundry", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "janitor", 
     "carpet", 
@@ -34,6 +52,6 @@
     "mfg", 
     "pressure"
   ], 
-  "wof:brand_name": "Pro Clean", 
-  "wof:brand_id": 1125159341
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416268
 }

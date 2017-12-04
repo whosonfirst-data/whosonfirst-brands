@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414532, 
+  "wof:brand_name": "Randstad North America LP", 
+  "wof:brand_id": 1125154913, 
+  "wof:categories": [
+    "services:professional=employment_agencies", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "help", 
     "supply", 
@@ -9,6 +13,6 @@
     "consulting", 
     "management"
   ], 
-  "wof:brand_name": "Randstad North America LP", 
-  "wof:brand_id": 1125154913
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416292
 }

@@ -1,11 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414528, 
+  "wof:brand_name": "Shoe Discount", 
+  "wof:brand_id": 1125152237, 
+  "wof:categories": [
+    "retail_goods:shopping=shoes", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "-", 
     "slipper", 
     "store"
   ], 
-  "wof:brand_name": "Shoe Discount", 
-  "wof:brand_id": 1125152237
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416288
 }

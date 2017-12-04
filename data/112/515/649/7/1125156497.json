@@ -1,10 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414474, 
+  "wof:brand_name": "US District Court Clerk", 
+  "wof:brand_id": 1125156497, 
+  "wof:categories": [
+    "public_place:government=court_house", 
+    "sg:public_place=government"
+  ], 
   "wof:tags": [
     "federal", 
     "executive"
   ], 
-  "wof:brand_name": "US District Court Clerk", 
-  "wof:brand_id": 1125156497
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416245
 }

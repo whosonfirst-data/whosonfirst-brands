@@ -1,6 +1,41 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414541, 
+  "wof:brand_name": "Waterworks", 
+  "wof:brand_id": 1125161331, 
+  "wof:categories": [
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=building_and_trades", 
+    "retail_goods:home_and_garden=building_materials", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "services:building_and_trades=construction", 
+    "services:building_and_trades=plumbing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=hardware", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "retail_goods:food_and_beverages=specialty", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "services:professional=business_services", 
+    "services:utilities=water", 
+    "sg:entertainment=recreation", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:retail_goods=shopping", 
+    "sg:services=retail", 
+    "sg:services=utilities", 
+    "manufacturing_and_wholesale_goods:wholesale=construction_materials", 
+    "manufacturing_and_wholesale_goods:wholesale=home_furnishings", 
+    "public_place:government=office", 
+    "retail_goods:home_and_garden=hardware", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "services:professional=management_and_consulting", 
+    "services:professional=testing_lab", 
+    "services:real_estate=real_estate_operator", 
+    "services:retail=car_wash", 
+    "services:retail=repair_shop", 
+    "sg:food_and_drink=restaurant", 
+    "sg:public_place=government", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "fixture", 
     "plumbing", 
@@ -55,6 +90,6 @@
     "vacuum", 
     "washing"
   ], 
-  "wof:brand_name": "Waterworks", 
-  "wof:brand_id": 1125161331
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416299
 }

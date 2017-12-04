@@ -1,6 +1,20 @@
 {
   "wof:brand_name": "Natural Resources Conservation", 
   "wof:brand_id": 420574235, 
+  "wof:categories": [
+    "sg:public_place=government", 
+    "public_place:government=office", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "manufacturing_and_wholesale_goods:farming=farm_and_veterinary_services", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "manufacturing_and_wholesale_goods:manufacturing=lumber", 
+    "public_place:government=post_office", 
+    "services:organizations=community_association", 
+    "services:professional=lawyer_and_legal_services", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "federal", 
     "county", 
@@ -19,6 +33,6 @@
     1125153411
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414463, 
+  "wof:lastmodified": 1512416237, 
   "mz:is_current": 1
 }

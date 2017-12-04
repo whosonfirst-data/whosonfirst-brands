@@ -1,6 +1,32 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414562, 
+  "wof:brand_name": "Tractor Supply Co", 
+  "wof:brand_id": 1125149405, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=farm_supplies", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "retail_goods:home_and_garden=hardware", 
+    "retail_goods:shopping=pets_and_pet_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:transportation=train_station", 
+    "transportation:train_station=rail", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "manufacturing_and_wholesale_goods:wholesale=construction_materials", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:farming=farm", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "retail_goods:shopping=department_store", 
+    "services:building_and_trades=construction", 
+    "services:building_and_trades=plumbing", 
+    "services:retail=repair_shop", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "equipment", 
     "tractor", 
@@ -27,6 +53,6 @@
     "pet", 
     "shop"
   ], 
-  "wof:brand_name": "Tractor Supply Co", 
-  "wof:brand_id": 1125149405
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416316
 }

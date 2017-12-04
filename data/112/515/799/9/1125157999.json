@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414472, 
+  "wof:brand_name": "Unilab Corporation", 
+  "wof:brand_id": 1125157999, 
+  "wof:categories": [
+    "services:health_services=medical_lab", 
+    "sg:services=health_services", 
+    "services:professional=testing_lab", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "laboratory", 
     "testing", 
@@ -10,6 +16,6 @@
     "blood", 
     "typing"
   ], 
-  "wof:brand_name": "Unilab Corporation", 
-  "wof:brand_id": 1125157999
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416243
 }

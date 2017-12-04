@@ -1,12 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414550, 
+  "wof:brand_name": "All Day 24 Hour Locksmith", 
+  "wof:brand_id": 1125161689, 
+  "wof:categories": [
+    "services:building_and_trades=locksmith", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "key", 
     "industrial", 
     "lock", 
     "locksmiths-commercial"
   ], 
-  "wof:brand_name": "All Day 24 Hour Locksmith", 
-  "wof:brand_id": 1125161689
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416305
 }

@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414502, 
+  "wof:brand_name": "Dots", 
+  "wof:brand_id": 1125156731, 
+  "wof:categories": [
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=used_merchandise", 
+    "sg:food_and_drink=restaurant", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "women's", 
     "clothing", 
@@ -17,6 +24,6 @@
     "trucking", 
     "vintage"
   ], 
-  "wof:brand_name": "Dots", 
-  "wof:brand_id": 1125156731
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416268
 }

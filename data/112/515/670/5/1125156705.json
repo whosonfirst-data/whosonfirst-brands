@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414531, 
+  "wof:brand_name": "Bay Trading Co", 
+  "wof:brand_id": 1125156705, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=shoes", 
+    "retail_goods:shopping=used_merchandise", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "ladieswear", 
     "fashionwear", 
@@ -9,6 +18,6 @@
     "antique", 
     "grocery"
   ], 
-  "wof:brand_name": "Bay Trading Co", 
-  "wof:brand_id": 1125156705
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416290
 }

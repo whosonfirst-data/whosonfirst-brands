@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414535, 
+  "wof:brand_name": "Arthritis Foundation", 
+  "wof:brand_id": 1125153577, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=nonprofit_organization", 
+    "services:organizations=professional_association", 
+    "sg:services=social_services", 
+    "sg:services=health_services", 
+    "sg:services=professional", 
+    "services:health_services=clinic", 
+    "services:professional=research", 
+    "services:organizations=community_association", 
+    "services:health_services=doctor", 
+    "services:professional=employment_agencies", 
+    "manufacturing_and_wholesale_goods:wholesale=medical_equipment_and_supplies", 
+    "public_place:government=city_hall", 
+    "services:organizations=membership_organization", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=government"
+  ], 
   "wof:tags": [
     "social", 
     "health", 
@@ -34,6 +52,6 @@
     "united", 
     "volunteer"
   ], 
-  "wof:brand_name": "Arthritis Foundation", 
-  "wof:brand_id": 1125153577
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416294
 }

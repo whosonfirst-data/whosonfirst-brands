@@ -1,12 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414541, 
+  "wof:brand_name": "A Automobile Locksmith", 
+  "wof:brand_id": 1125162103, 
+  "wof:categories": [
+    "services:building_and_trades=locksmith", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "key", 
     "industrial", 
     "lock", 
     "locksmiths-commercial"
   ], 
-  "wof:brand_name": "A Automobile Locksmith", 
-  "wof:brand_id": 1125162103
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416299
 }

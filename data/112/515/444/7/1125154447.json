@@ -1,6 +1,30 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414480, 
+  "wof:brand_name": "Lockheed Martin Corp", 
+  "wof:brand_id": 1125154447, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "manufacturing_and_wholesale_goods:manufacturing=aerospace", 
+    "services:professional=engineering", 
+    "services:professional=computer_services", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:professional=business_services", 
+    "sg:retail_goods=shopping", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:manufacturing=electronics", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "manufacturing_and_wholesale_goods:manufacturing=musical_instruments", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "services:utilities=telephone", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=utilities", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "industry", 
     "aerospace", 
@@ -53,6 +77,6 @@
     "vehicle", 
     "warehouse"
   ], 
-  "wof:brand_name": "Lockheed Martin Corp", 
-  "wof:brand_id": 1125154447
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416250
 }

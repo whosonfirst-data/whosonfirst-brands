@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414522, 
+  "wof:brand_name": "The Queens Head", 
+  "wof:brand_id": 1125155545, 
+  "wof:categories": [
+    "sg:food_and_drink=bars_and_pubs", 
+    "public_place:community_center=social", 
+    "sg:public_place=community_center", 
+    "entertainment:travel=hotels_and_motels", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:entertainment=travel", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "inn", 
     "pubs", 
@@ -10,6 +19,6 @@
     "hr", 
     "petrol"
   ], 
-  "wof:brand_name": "The Queens Head", 
-  "wof:brand_id": 1125155545
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416284
 }

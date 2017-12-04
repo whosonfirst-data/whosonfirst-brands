@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414492, 
+  "wof:brand_name": "Kingdom Hall", 
+  "wof:brand_id": 1125153103, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=religious_organization", 
+    "sg:public_place=place_of_worship", 
+    "public_place:place_of_worship=church", 
+    "services:organizations=community_association", 
+    "sg:entertainment=recreation", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "church", 
     "churches-interdenominational", 
@@ -13,6 +22,6 @@
     "hall", 
     "witness"
   ], 
-  "wof:brand_name": "Kingdom Hall", 
-  "wof:brand_id": 1125153103
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416259
 }

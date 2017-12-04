@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414545, 
+  "wof:brand_name": "Reflections Hair Salon", 
+  "wof:brand_id": 1125162773, 
+  "wof:categories": [
+    "services:personal=beauty_salon", 
+    "sg:services=personal", 
+    "services:personal=barber", 
+    "services:personal=massage"
+  ], 
   "wof:tags": [
     "shop", 
     "hairdresser", 
@@ -10,6 +16,6 @@
     "supply", 
     "unisex"
   ], 
-  "wof:brand_name": "Reflections Hair Salon", 
-  "wof:brand_id": 1125162773
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416302
 }

@@ -1,6 +1,32 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414508, 
+  "wof:brand_name": "Amway Products Distributors", 
+  "wof:brand_id": 1125155459, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=chemicals_and_plastics", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:retail_goods=food_and_beverages", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "manufacturing_and_wholesale_goods:manufacturing=soap", 
+    "manufacturing_and_wholesale_goods:wholesale=drugs", 
+    "manufacturing_and_wholesale_goods:wholesale=hardware", 
+    "retail_goods:shopping=pharmacy", 
+    "services:health_services=doctor", 
+    "services:health_services=health_practitioner", 
+    "services:professional=business_services", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "services:utilities=telephone", 
+    "sg:services=health_services", 
+    "sg:services=retail", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "home", 
     "demonstration", 
@@ -39,6 +65,6 @@
     "tel", 
     "telephone"
   ], 
-  "wof:brand_name": "Amway Products Distributors", 
-  "wof:brand_id": 1125155459
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416273
 }

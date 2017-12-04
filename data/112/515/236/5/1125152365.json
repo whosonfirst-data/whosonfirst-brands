@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414495, 
+  "wof:brand_name": "Petland", 
+  "wof:brand_id": 1125152365, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=pets_and_pet_supplies", 
+    "services:retail=animal_services", 
+    "sg:services=retail", 
+    "entertainment:museum=aquarium", 
+    "manufacturing_and_wholesale_goods:farming=livestock_farm", 
+    "sg:entertainment=museum", 
+    "sg:manufacturing_and_wholesale_goods=farming"
+  ], 
   "wof:tags": [
     "pet", 
     "shop", 
@@ -16,6 +26,6 @@
     "animal", 
     "reptile"
   ], 
-  "wof:brand_name": "Petland", 
-  "wof:brand_id": 1125152365
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416263
 }

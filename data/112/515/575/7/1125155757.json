@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414467, 
+  "wof:brand_name": "Greggs Plc", 
+  "wof:brand_id": 1125155757, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:retail_goods=food_and_beverages", 
+    "services:professional=engineering", 
+    "sg:food_and_drink=ice_cream", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "baker", 
     "shop", 
@@ -9,6 +16,6 @@
     "engineer", 
     "mnfr"
   ], 
-  "wof:brand_name": "Greggs Plc", 
-  "wof:brand_id": 1125155757
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416239
 }

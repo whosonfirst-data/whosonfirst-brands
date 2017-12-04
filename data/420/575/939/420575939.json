@@ -1,6 +1,32 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414443, 
+  "wof:brand_name": "SBC", 
+  "wof:brand_id": 420575939, 
+  "wof:categories": [
+    "sg:services=utilities", 
+    "services:utilities=telephone", 
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "services:professional=advertising", 
+    "services:professional=management_and_consulting", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "services:retail=repair_shop", 
+    "services:utilities=mobile_phone", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=communications", 
+    "sg:services=retail", 
+    "sg:transportation=freight", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:communications=radio_station", 
+    "services:health_services=clinic", 
+    "services:professional=engineering", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "communications", 
     "company", 
@@ -56,6 +82,6 @@
     "wisconsin", 
     "yellow"
   ], 
-  "wof:brand_name": "SBC", 
-  "wof:brand_id": 420575939
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416221
 }

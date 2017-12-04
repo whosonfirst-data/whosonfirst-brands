@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414511, 
+  "wof:brand_name": "Shurgard Storage Ctr", 
+  "wof:brand_id": 1125150789, 
+  "wof:categories": [
+    "sg:transportation=freight", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:manufacturing=paper_products", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "commercial", 
     "storage", 
@@ -11,6 +18,6 @@
     "recreational", 
     "vehicle"
   ], 
-  "wof:brand_name": "Shurgard Storage Ctr", 
-  "wof:brand_id": 1125150789
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416275
 }

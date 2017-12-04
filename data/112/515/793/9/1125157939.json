@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414504, 
+  "wof:brand_name": "Petland Discounts", 
+  "wof:brand_id": 1125157939, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=pets_and_pet_supplies"
+  ], 
   "wof:tags": [
     "store", 
     "pet", 
@@ -9,6 +13,6 @@
     "supply", 
     "food"
   ], 
-  "wof:brand_name": "Petland Discounts", 
-  "wof:brand_id": 1125157939
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416269
 }

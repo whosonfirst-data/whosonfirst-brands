@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414494, 
+  "wof:brand_name": "Nielsen Media Research", 
+  "wof:brand_id": 1125157025, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=professional", 
+    "services:professional=research", 
+    "services:professional=management_and_consulting", 
+    "services:professional=advertising"
+  ], 
   "wof:tags": [
     "multimedia", 
     "market", 
@@ -15,6 +23,6 @@
     "medium", 
     "television"
   ], 
-  "wof:brand_name": "Nielsen Media Research", 
-  "wof:brand_id": 1125157025
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416261
 }

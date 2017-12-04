@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414548, 
+  "wof:brand_name": "Charlie's Barber Shop", 
+  "wof:brand_id": 1125162579, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=barber", 
+    "services:personal=beauty_salon", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "shop", 
     "hairdresser", 
@@ -8,6 +15,6 @@
     "hair", 
     "unisex"
   ], 
-  "wof:brand_name": "Charlie's Barber Shop", 
-  "wof:brand_id": 1125162579
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416304
 }

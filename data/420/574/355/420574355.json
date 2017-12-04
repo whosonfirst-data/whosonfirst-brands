@@ -1,6 +1,40 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414457, 
+  "wof:brand_name": "Sunoco", 
+  "wof:brand_id": 420574355, 
+  "wof:categories": [
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:services=retail", 
+    "services:retail=auto_repair", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=utilities", 
+    "manufacturing_and_wholesale_goods:wholesale=petroleum", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "services:utilities=fuel_oil_and_lpg", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=petroleum_products", 
+    "services:retail=car_wash", 
+    "services:utilities=natural_gas", 
+    "sg:manufacturing_and_wholesale_goods=mining_and_drilling", 
+    "sg:transportation=freight", 
+    "services:banks_and_credit_unions=bank", 
+    "services:professional=management_and_consulting", 
+    "sg:services=banks_and_credit_unions", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "services:building_and_trades=construction", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=business_services", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:wholesale=scrap", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "retail_goods:food_and_beverages=candy", 
+    "services:professional=employment_agencies", 
+    "services:professional=engineering", 
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "gasoline", 
     "station", 
@@ -97,6 +131,6 @@
     "truck", 
     "waste"
   ], 
-  "wof:brand_name": "Sunoco", 
-  "wof:brand_id": 420574355
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416231
 }

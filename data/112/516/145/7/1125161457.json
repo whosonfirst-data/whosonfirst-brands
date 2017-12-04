@@ -1,6 +1,42 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414552, 
+  "wof:brand_name": "Do It Best", 
+  "wof:brand_id": 1125161457, 
+  "wof:categories": [
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=building_materials", 
+    "retail_goods:home_and_garden=hardware", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:manufacturing=lumber", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:manufacturing=buildings", 
+    "manufacturing_and_wholesale_goods:manufacturing=wood_products", 
+    "services:building_and_trades=construction", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "retail_goods:home_and_garden=furniture", 
+    "sg:retail_goods=shopping", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "manufacturing_and_wholesale_goods:wholesale=construction_materials", 
+    "manufacturing_and_wholesale_goods:wholesale=hardware", 
+    "manufacturing_and_wholesale_goods:wholesale=medical_equipment_and_supplies", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "manufacturing_and_wholesale_goods:wholesale=painting_supplies", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "retail_goods:home_and_garden=carpets_and_floor_coverings", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:building_and_trades=equipment_rental", 
+    "services:health_services=doctor", 
+    "services:retail=funeral_services", 
+    "services:retail=repair_shop", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=communications", 
+    "sg:services=health_services", 
+    "sg:services=utilities", 
+    "sg:transportation=parking", 
+    "transportation:parking=garage"
+  ], 
   "wof:tags": [
     "store", 
     "equipment", 
@@ -48,6 +84,6 @@
     "wallcoverings", 
     "wallpaper"
   ], 
-  "wof:brand_name": "Do It Best", 
-  "wof:brand_id": 1125161457
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416307
 }

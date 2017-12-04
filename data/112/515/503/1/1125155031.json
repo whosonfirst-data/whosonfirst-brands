@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414481, 
+  "wof:brand_name": "Metlife", 
+  "wof:brand_id": 1125155031, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=hazard_insurance", 
+    "services:insurance=life_insurance", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:insurance=health_insurance", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:health_services=hospital", 
+    "services:professional=management_and_consulting", 
+    "services:real_estate=real_estate_services", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=health_services", 
+    "sg:services=professional", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "business", 
     "commercial", 
@@ -35,6 +53,6 @@
     "surety", 
     "surgical"
   ], 
-  "wof:brand_name": "Metlife", 
-  "wof:brand_id": 1125155031
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416251
 }

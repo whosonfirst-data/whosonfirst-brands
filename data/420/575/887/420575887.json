@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414448, 
+  "wof:brand_name": "Housing Authority", 
+  "wof:brand_id": 420575887, 
+  "wof:categories": [
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_agent", 
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "services:real_estate=real_estate_operator", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "sg:services=social_services", 
+    "services:real_estate=real_estate_services", 
+    "services:social_services=child_care", 
+    "services:organizations=professional_association", 
+    "sg:services=organizations", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "housing", 
     "authorities", 
@@ -39,6 +54,6 @@
     "real estate", 
     "rent"
   ], 
-  "wof:brand_name": "Housing Authority", 
-  "wof:brand_id": 420575887
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416225
 }

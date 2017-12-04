@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414541, 
+  "wof:brand_name": "Acceptance Insurance Agency", 
+  "wof:brand_id": 1125162109, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=hazard_insurance", 
+    "services:insurance=title_insurance"
+  ], 
   "wof:tags": [
     "business", 
     "commercial", 
@@ -13,6 +19,6 @@
     "property", 
     "surety"
   ], 
-  "wof:brand_name": "Acceptance Insurance Agency", 
-  "wof:brand_id": 1125162109
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416299
 }

@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414492, 
+  "wof:brand_name": "El Tapatio", 
+  "wof:brand_id": 1125158977, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:manufacturing=leather_goods", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=music", 
+    "services:personal=beauty_salon", 
+    "services:retail=auto_repair", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=personal", 
+    "sg:services=professional", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "mexican", 
     "eating", 
@@ -20,6 +38,6 @@
     "style", 
     "system"
   ], 
-  "wof:brand_name": "El Tapatio", 
-  "wof:brand_id": 1125158977
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416260
 }

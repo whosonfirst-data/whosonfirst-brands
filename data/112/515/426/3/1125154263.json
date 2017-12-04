@@ -1,10 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414534, 
+  "wof:brand_name": "US Attorney", 
+  "wof:brand_id": 1125154263, 
+  "wof:categories": [
+    "public_place:government=court_house", 
+    "sg:public_place=government"
+  ], 
   "wof:tags": [
     "counsel", 
     "federal"
   ], 
-  "wof:brand_name": "US Attorney", 
-  "wof:brand_id": 1125154263
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416293
 }

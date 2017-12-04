@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414551, 
+  "wof:brand_name": "Spar Shop", 
+  "wof:brand_id": 1125160971, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "retail_goods:shopping=news", 
+    "services:organizations=membership_organization", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "beer", 
     "club", 
@@ -8,6 +19,6 @@
     "spirit", 
     "wines"
   ], 
-  "wof:brand_name": "Spar Shop", 
-  "wof:brand_id": 1125160971
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416306
 }

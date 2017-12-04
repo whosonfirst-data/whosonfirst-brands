@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414550, 
+  "wof:brand_name": "Kimco Realty Corp", 
+  "wof:brand_id": 1125160561, 
+  "wof:categories": [
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_services", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:real_estate=developer", 
+    "sg:public_place=shopping_center", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "broker", 
     "buyer", 
@@ -10,6 +19,6 @@
     "real estate", 
     "trust"
   ], 
-  "wof:brand_name": "Kimco Realty Corp", 
-  "wof:brand_id": 1125160561
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416306
 }

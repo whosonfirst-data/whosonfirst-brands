@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414562, 
+  "wof:brand_name": "Monro Muffler Brake & Svc", 
+  "wof:brand_id": 1125149403, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "automobile", 
     "repairing", 
@@ -19,6 +25,6 @@
     "sup", 
     "tire"
   ], 
-  "wof:brand_name": "Monro Muffler Brake & Svc", 
-  "wof:brand_id": 1125149403
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416316
 }

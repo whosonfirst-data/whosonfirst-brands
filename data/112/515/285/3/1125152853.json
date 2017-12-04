@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414466, 
+  "wof:brand_name": "CMH", 
+  "wof:brand_id": 1125152853, 
+  "wof:categories": [
+    "retail_goods:home_and_garden=mobile_homes", 
+    "sg:retail_goods=home_and_garden", 
+    "services:real_estate=real_estate_operator", 
+    "sg:services=real_estate", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:manufacturing=buildings", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:wholesale=seafood", 
+    "services:building_and_trades=plumbing", 
+    "services:professional=business_services", 
+    "sg:services=building_and_trades", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "home", 
     "mobile", 
@@ -20,6 +35,6 @@
     "sub", 
     "telemarketing"
   ], 
-  "wof:brand_name": "CMH", 
-  "wof:brand_id": 1125152853
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416239
 }

@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414473, 
+  "wof:brand_name": "Old Republic", 
+  "wof:brand_id": 1125159965, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=title_insurance", 
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_services", 
+    "services:insurance=insurance_agent", 
+    "sg:services=banks_and_credit_unions", 
+    "services:insurance=hazard_insurance", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:professional=research", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=professional", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=investment_brokerage"
+  ], 
   "wof:tags": [
     "abstract", 
     "title", 
@@ -27,6 +42,6 @@
     "resume", 
     "surety"
   ], 
-  "wof:brand_name": "Old Republic", 
-  "wof:brand_id": 1125159965
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416244
 }

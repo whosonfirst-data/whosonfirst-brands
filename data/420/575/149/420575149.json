@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414452, 
+  "wof:brand_name": "Meineke Car Care Ctr", 
+  "wof:brand_id": 420575149, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "automobile", 
     "repairing", 
@@ -11,6 +17,6 @@
     "lubrication", 
     "parts"
   ], 
-  "wof:brand_name": "Meineke Car Care Ctr", 
-  "wof:brand_id": 420575149
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416227
 }

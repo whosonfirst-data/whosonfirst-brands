@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414499, 
+  "wof:brand_name": "Stage", 
+  "wof:brand_id": 1125153251, 
+  "wof:categories": [
+    "retail_goods:shopping=department_store", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=shoes", 
+    "entertainment:arts_and_performance=theater", 
+    "food_and_drink:bars_and_pubs=nightclub", 
+    "public_place:education=vocational_school", 
+    "services:building_and_trades=construction", 
+    "sg:entertainment=arts_and_performance", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:public_place=education", 
+    "sg:services=building_and_trades", 
+    "sg:transportation=local_transit"
+  ], 
   "wof:tags": [
     "clothing", 
     "art", 
@@ -10,6 +25,6 @@
     "theatrical", 
     "variety"
   ], 
-  "wof:brand_name": "Stage", 
-  "wof:brand_id": 1125153251
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416266
 }

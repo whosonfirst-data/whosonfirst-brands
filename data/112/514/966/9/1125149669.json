@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414555, 
+  "wof:brand_name": "Banfield The Pet Hospital", 
+  "wof:brand_id": 1125149669, 
+  "wof:categories": [
+    "services:retail=veterinary_services", 
+    "sg:services=retail", 
+    "sg:retail_goods=shopping", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=farm_supplies", 
+    "manufacturing_and_wholesale_goods:wholesale=medical_equipment_and_supplies", 
+    "retail_goods:shopping=pets_and_pet_supplies", 
+    "services:insurance=hazard_insurance", 
+    "sg:services=insurance"
+  ], 
   "wof:tags": [
     "veterinarian", 
     "hospital", 
@@ -18,6 +29,6 @@
     "product", 
     "store"
   ], 
-  "wof:brand_name": "Banfield The Pet Hospital", 
-  "wof:brand_id": 1125149669
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416310
 }

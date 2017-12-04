@@ -1,6 +1,38 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414458, 
+  "wof:brand_name": "Norfolk County Council", 
+  "wof:brand_id": 420574495, 
+  "wof:categories": [
+    "sg:public_place=education", 
+    "public_place:education=school", 
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:services=social_services", 
+    "services:social_services=retirement_home", 
+    "public_place:education=library", 
+    "services:social_services=adult_care", 
+    "sg:public_place=community_center", 
+    "public_place:education=university", 
+    "public_place:community_center=youth", 
+    "entertainment:museum=art_museum", 
+    "sg:entertainment=museum", 
+    "sg:services=health_services", 
+    "services:health_services=nursing_and_care_facility", 
+    "sg:services=professional", 
+    "sg:public_place=landmark", 
+    "sg:services=organizations", 
+    "entertainment:arts_and_performance=theater", 
+    "manufacturing_and_wholesale_goods:farming=nursery", 
+    "public_place:education=special_training", 
+    "public_place:government=city_hall", 
+    "public_place:landmark=tourist_attraction", 
+    "public_place:landmark=tourist_information", 
+    "services:health_services=clinic", 
+    "services:health_services=hospital", 
+    "services:organizations=community_association", 
+    "services:organizations=nonprofit_organization", 
+    "sg:entertainment=arts_and_performance", 
+    "sg:manufacturing_and_wholesale_goods=farming"
+  ], 
   "wof:tags": [
     "local", 
     "authority", 
@@ -33,6 +65,6 @@
     "trust", 
     "voluntary"
   ], 
-  "wof:brand_name": "Norfolk County Council", 
-  "wof:brand_id": 420574495
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416232
 }

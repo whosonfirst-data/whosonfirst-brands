@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414472, 
+  "wof:brand_name": "United Dairy Farmers", 
+  "wof:brand_id": 1125150845, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "station", 
     "gasoline", 
@@ -17,6 +23,6 @@
     "preparation", 
     "roasted"
   ], 
-  "wof:brand_name": "United Dairy Farmers", 
-  "wof:brand_id": 1125150845
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416244
 }

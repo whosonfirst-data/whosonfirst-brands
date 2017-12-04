@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414543, 
+  "wof:brand_name": "Wage and Hour Div Field Off", 
+  "wof:brand_id": 1125162469, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government"
+  ], 
   "wof:tags": [
     "wage", 
     "agency", 
@@ -12,6 +16,6 @@
     "division", 
     "hour"
   ], 
-  "wof:brand_name": "Wage and Hour Div Field Off", 
-  "wof:brand_id": 1125162469
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416300
 }

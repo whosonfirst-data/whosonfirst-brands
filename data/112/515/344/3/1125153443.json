@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414517, 
+  "wof:brand_name": "Costco Warehouse", 
+  "wof:brand_id": 1125153443, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=department_store", 
+    "manufacturing_and_wholesale_goods:wholesale=toys_and_hobbies", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:shopping=pharmacy", 
+    "sg:public_place=shopping_center", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "tire", 
     "wholesaler", 
@@ -12,6 +25,6 @@
     "merchandise", 
     "optical"
   ], 
-  "wof:brand_name": "Costco Warehouse", 
-  "wof:brand_id": 1125153443
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416279
 }

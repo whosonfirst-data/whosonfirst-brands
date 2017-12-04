@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414490, 
+  "wof:brand_name": "Mighty Auto Parts", 
+  "wof:brand_id": 1125157677, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "automobile", 
     "supply", 
@@ -13,6 +21,6 @@
     "floor", 
     "recyclers"
   ], 
-  "wof:brand_name": "Mighty Auto Parts", 
-  "wof:brand_id": 1125157677
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416258
 }

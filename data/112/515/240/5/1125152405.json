@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414525, 
+  "wof:brand_name": "Handyman Connection", 
+  "wof:brand_id": 1125152405, 
+  "wof:categories": [
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=construction", 
+    "sg:services=personal", 
+    "retail_goods:home_and_garden=building_materials", 
+    "sg:retail_goods=home_and_garden", 
+    "services:building_and_trades=electrical", 
+    "services:building_and_trades=plumbing", 
+    "services:retail=repair_shop", 
+    "sg:services=retail", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "services:professional=employment_agencies", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "handyman", 
     "contractor", 
@@ -35,6 +49,6 @@
     "interior", 
     "patent"
   ], 
-  "wof:brand_name": "Handyman Connection", 
-  "wof:brand_id": 1125152405
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416286
 }

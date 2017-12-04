@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414460, 
+  "wof:brand_name": "Jo-Ann Fabrics & Crafts", 
+  "wof:brand_id": 420574281, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=crafts_and_fabrics", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "services:professional=art_services", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "sewing", 
     "shop", 
@@ -28,6 +41,6 @@
     "upholstery", 
     "yard"
   ], 
-  "wof:brand_name": "Jo-Ann Fabrics & Crafts", 
-  "wof:brand_id": 420574281
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416234
 }

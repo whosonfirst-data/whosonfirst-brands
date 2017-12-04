@@ -1,7 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414457, 
-  "wof:tags": [], 
   "wof:brand_name": "Bhw Bausparkasse Ag", 
-  "wof:brand_id": 420574133
+  "wof:brand_id": 420574133, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416231
 }

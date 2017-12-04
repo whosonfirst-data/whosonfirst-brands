@@ -1,6 +1,25 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414525, 
+  "wof:brand_name": "Surf City Squeeze", 
+  "wof:brand_id": 1125152311, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=food_and_beverages", 
+    "food_and_drink:juice_bar=none", 
+    "sg:food_and_drink=juice_bar", 
+    "retail_goods:food_and_beverages=fruits_and_vegetables", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "retail_goods:food_and_beverages=dairy", 
+    "services:insurance=health_insurance", 
+    "sg:services=insurance", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "sg:food_and_drink=coffee_and_tea", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=shopping_center", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "juice", 
     "smoothy", 
@@ -13,6 +32,6 @@
     "product", 
     "stand"
   ], 
-  "wof:brand_name": "Surf City Squeeze", 
-  "wof:brand_id": 1125152311
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416286
 }

@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414525, 
+  "wof:brand_name": "Golden China", 
+  "wof:brand_id": 1125154749, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "manufacturing_and_wholesale_goods:wholesale=home_furnishings", 
+    "sg:food_and_drink=fast_food", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "chinese", 
     "eating", 
@@ -12,6 +18,6 @@
     "out", 
     "take"
   ], 
-  "wof:brand_name": "Golden China", 
-  "wof:brand_id": 1125154749
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416286
 }

@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414535, 
+  "wof:brand_name": "Prouds The Jewellers", 
+  "wof:brand_id": 1125152665, 
+  "wof:categories": [
+    "retail_goods:shopping=jewelry", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "jeweller"
   ], 
-  "wof:brand_name": "Prouds The Jewellers", 
-  "wof:brand_id": 1125152665
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416294
 }

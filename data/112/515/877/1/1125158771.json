@@ -1,6 +1,9 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414504, 
+  "wof:brand_name": "Fazolis", 
+  "wof:brand_id": 1125158771, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "eating", 
     "italian", 
@@ -9,6 +12,6 @@
     "management", 
     "operator"
   ], 
-  "wof:brand_name": "Fazolis", 
-  "wof:brand_id": 1125158771
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416270
 }

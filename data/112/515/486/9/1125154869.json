@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414492, 
+  "wof:brand_name": "Emergency Towing", 
+  "wof:brand_id": 1125154869, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=auto_repair", 
+    "sg:services=personal", 
+    "services:retail=repair_shop"
+  ], 
   "wof:tags": [
     "wrecker", 
     "towing", 
@@ -11,6 +17,6 @@
     "motorcycle", 
     "scooter"
   ], 
-  "wof:brand_name": "Emergency Towing", 
-  "wof:brand_id": 1125154869
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416259
 }

@@ -1,10 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414473, 
+  "wof:brand_name": "Scientific Games Intl Inc", 
+  "wof:brand_id": 1125156837, 
+  "wof:categories": [
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "supply", 
     "establishment"
   ], 
-  "wof:brand_name": "Scientific Games Intl Inc", 
-  "wof:brand_id": 1125156837
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416244
 }

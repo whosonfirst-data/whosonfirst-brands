@@ -1,6 +1,38 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414507, 
+  "wof:brand_name": "Watkins Products", 
+  "wof:brand_id": 1125150447, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "retail_goods:shopping=catalog_store", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "sg:retail_goods=home_and_garden", 
+    "manufacturing_and_wholesale_goods:wholesale=chemicals_and_plastics", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "retail_goods:food_and_beverages=fruits_and_vegetables", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "services:professional=advertising", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "manufacturing_and_wholesale_goods:manufacturing=toys_and_sporting_goods", 
+    "manufacturing_and_wholesale_goods:wholesale=hardware", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:insurance=health_insurance", 
+    "services:professional=business_services", 
+    "sg:services=insurance", 
+    "sg:services=personal", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "spice", 
     "merchandise", 
@@ -41,6 +73,6 @@
     "shopping", 
     "syrup"
   ], 
-  "wof:brand_name": "Watkins Products", 
-  "wof:brand_id": 1125150447
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416271
 }

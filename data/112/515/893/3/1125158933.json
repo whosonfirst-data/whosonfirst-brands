@@ -1,6 +1,27 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414477, 
+  "wof:brand_name": "Bloomers", 
+  "wof:brand_id": 1125158933, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=florist", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "manufacturing_and_wholesale_goods:farming=nursery", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:services=professional", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:building_and_trades=landscaping_services", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:farming=livestock_farm", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "services:professional=business_services", 
+    "manufacturing_and_wholesale_goods:manufacturing=retail_goods", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "services:professional=research", 
+    "sg:food_and_drink=cafe", 
+    "sg:food_and_drink=fast_food", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "greenhouse", 
     "landscape", 
@@ -30,6 +51,6 @@
     "tea", 
     "wear"
   ], 
-  "wof:brand_name": "Bloomers", 
-  "wof:brand_id": 1125158933
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416248
 }

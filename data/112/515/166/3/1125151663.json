@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414467, 
+  "wof:brand_name": "Public Safety Dept", 
+  "wof:brand_id": 1125151663, 
+  "wof:categories": [
+    "sg:public_place=government", 
+    "public_place:government=office", 
+    "public_place:government=police_station", 
+    "public_place:government=fire_station", 
+    "public_place:government=jail", 
+    "public_place:government=court_house", 
+    "services:health_services=health_practitioner", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "state", 
     "program", 
@@ -24,6 +34,6 @@
     "township", 
     "village"
   ], 
-  "wof:brand_name": "Public Safety Dept", 
-  "wof:brand_id": 1125151663
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416240
 }

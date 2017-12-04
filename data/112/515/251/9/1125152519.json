@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414467, 
+  "wof:brand_name": "Computer Sciences Corporation", 
+  "wof:brand_id": 1125152519, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=computer_services", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "sg:retail_goods=shopping", 
+    "services:professional=research", 
+    "services:professional=engineering", 
+    "services:professional=management_and_consulting", 
+    "manufacturing_and_wholesale_goods:wholesale=computers", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "food_and_drink:internet_cafe=none", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=credit_reporting_and_collection", 
+    "services:professional=detective_and_security_services", 
+    "sg:food_and_drink=internet_cafe", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "system", 
     "design", 
@@ -60,6 +77,6 @@
     "support", 
     "technical"
   ], 
-  "wof:brand_name": "Computer Sciences Corporation", 
-  "wof:brand_id": 1125152519
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416239
 }

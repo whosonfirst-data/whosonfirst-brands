@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414452, 
+  "wof:brand_name": "World Savings Bank", 
+  "wof:brand_id": 420575667, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "savings", 
     "loan", 
@@ -19,6 +23,6 @@
     "national", 
     "security"
   ], 
-  "wof:brand_name": "World Savings Bank", 
-  "wof:brand_id": 420575667
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416227
 }

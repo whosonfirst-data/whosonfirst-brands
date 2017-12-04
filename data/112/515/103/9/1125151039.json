@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414503, 
+  "wof:brand_name": "Human Service Dept", 
+  "wof:brand_id": 1125151039, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:services=professional", 
+    "sg:services=social_services", 
+    "services:professional=detective_and_security_services", 
+    "services:professional=management_and_consulting"
+  ], 
   "wof:tags": [
     "resource", 
     "state", 
@@ -15,6 +23,6 @@
     "social", 
     "welfare"
   ], 
-  "wof:brand_name": "Human Service Dept", 
-  "wof:brand_id": 1125151039
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416269
 }

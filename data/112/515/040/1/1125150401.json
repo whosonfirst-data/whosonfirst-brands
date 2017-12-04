@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414474, 
+  "wof:brand_name": "Athlete's Foot", 
+  "wof:brand_id": 1125150401, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=shoes", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "retail_goods:shopping=clothing_apparel_and_fashions"
+  ], 
   "wof:tags": [
     "store", 
     "athletic", 
@@ -10,6 +16,6 @@
     "outlet", 
     "shoe"
   ], 
-  "wof:brand_name": "Athlete's Foot", 
-  "wof:brand_id": 1125150401
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416245
 }

@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414480, 
+  "wof:brand_name": "Manor", 
+  "wof:brand_id": 1125156271, 
+  "wof:categories": [
+    "services:real_estate=real_estate_operator", 
+    "sg:services=real_estate", 
+    "services:health_services=nursing_and_care_facility", 
+    "sg:services=health_services", 
+    "entertainment:travel=hotels_and_motels", 
+    "food_and_drink:bars_and_pubs=lounge", 
+    "public_place:education=school", 
+    "services:organizations=nonprofit_organization", 
+    "sg:entertainment=travel", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:food_and_drink=restaurant", 
+    "sg:public_place=education", 
+    "sg:services=organizations", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "home", 
     "apartment", 
@@ -18,6 +34,6 @@
     "rooms", 
     "special"
   ], 
-  "wof:brand_name": "Manor", 
-  "wof:brand_id": 1125156271
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416250
 }

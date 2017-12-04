@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414463, 
+  "wof:brand_name": "Family Dentistry", 
+  "wof:brand_id": 420574551, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=doctor", 
+    "services:health_services=dentist", 
+    "public_place:education=school", 
+    "services:health_services=health_practitioner", 
+    "services:health_services=medical_lab", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "dentist", 
     "clinic", 
@@ -25,6 +34,6 @@
     "surgeons", 
     "surgery"
   ], 
-  "wof:brand_name": "Family Dentistry", 
-  "wof:brand_id": 420574551
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416236
 }

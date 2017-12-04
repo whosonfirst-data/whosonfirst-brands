@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414451, 
+  "wof:brand_name": "Fancy Nails", 
+  "wof:brand_id": 420575923, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "retail_goods:shopping=photographic_equipment", 
+    "services:personal=barber", 
+    "services:personal=hair_removal", 
+    "services:personal=tanning_parlor", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "manicuring", 
     "shop", 
@@ -15,6 +31,6 @@
     "supply", 
     "toilet"
   ], 
-  "wof:brand_name": "Fancy Nails", 
-  "wof:brand_id": 420575923
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416227
 }

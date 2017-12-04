@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414506, 
+  "wof:brand_name": "ITP The Income Tax Professionals", 
+  "wof:brand_id": 1125155621, 
+  "wof:categories": [
+    "services:professional=accounting_and_tax_preparation", 
+    "sg:services=professional", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "consultant", 
     "taxation", 
@@ -9,6 +15,6 @@
     "bookkeeping", 
     "finance"
   ], 
-  "wof:brand_name": "ITP The Income Tax Professionals", 
-  "wof:brand_id": 1125155621
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416271
 }

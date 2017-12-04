@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414493, 
+  "wof:brand_name": "Diet Center", 
+  "wof:brand_id": 1125152465, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "sg:services=health_services", 
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:retail_goods=food_and_beverages", 
+    "services:health_services=health_practitioner", 
+    "entertainment:sports_and_exercise=gym", 
+    "sg:entertainment=sports_and_exercise", 
+    "services:health_services=clinic", 
+    "services:insurance=health_insurance", 
+    "sg:services=insurance", 
+    "services:health_services=doctor", 
+    "manufacturing_and_wholesale_goods:wholesale=drugs", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "weight", 
     "control", 
@@ -30,6 +50,6 @@
     "retail", 
     "specialty"
   ], 
-  "wof:brand_name": "Diet Center", 
-  "wof:brand_id": 1125152465
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416260
 }

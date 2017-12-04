@@ -1,6 +1,25 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414530, 
+  "wof:brand_name": "Portamedic", 
+  "wof:brand_id": 1125150389, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=clinic", 
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:health_services=medical_lab", 
+    "sg:services=professional", 
+    "services:health_services=doctor", 
+    "services:health_services=health_practitioner", 
+    "services:insurance=hazard_insurance", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "services:insurance=health_insurance", 
+    "services:professional=employment_agencies", 
+    "services:professional=management_and_consulting", 
+    "services:real_estate=real_estate_agent", 
+    "sg:retail_goods=shopping", 
+    "sg:services=real_estate", 
+    "sg:transportation=local_transit"
+  ], 
   "wof:tags": [
     "examination", 
     "medical", 
@@ -33,6 +52,6 @@
     "surgeon", 
     "surgical"
   ], 
-  "wof:brand_name": "Portamedic", 
-  "wof:brand_id": 1125150389
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416290
 }

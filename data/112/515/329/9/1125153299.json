@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414524, 
+  "wof:brand_name": "Frontier Adjusters America Inc", 
+  "wof:brand_id": 1125153299, 
+  "wof:categories": [
+    "services:insurance=insurance_agent", 
+    "sg:services=insurance", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "adjuster", 
     "artificial", 
@@ -10,6 +15,6 @@
     "processing", 
     "tree"
   ], 
-  "wof:brand_name": "Frontier Adjusters America Inc", 
-  "wof:brand_id": 1125153299
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416285
 }

@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414472, 
+  "wof:brand_name": "The Corp Of Church Of Christ Latter-Day St", 
+  "wof:brand_id": 1125157085, 
+  "wof:categories": [
+    "sg:public_place=place_of_worship", 
+    "public_place:place_of_worship=church", 
+    "services:organizations=religious_organization", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "christ", 
     "churches-church", 
@@ -15,6 +21,6 @@
     "churches-pentecostal", 
     "churches-pentecostal-independent"
   ], 
-  "wof:brand_name": "The Corp Of Church Of Christ Latter-Day St", 
-  "wof:brand_id": 1125157085
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416243
 }

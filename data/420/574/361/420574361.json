@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414460, 
+  "wof:brand_name": "Pier 1 Imports", 
+  "wof:brand_id": 420574361, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=department_store", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "manufacturing_and_wholesale_goods:manufacturing=glass_and_minerals", 
+    "manufacturing_and_wholesale_goods:manufacturing=pottery", 
+    "retail_goods:home_and_garden=carpets_and_floor_coverings", 
+    "sg:public_place=community_center", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:manufacturing=furniture", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "sg:public_place=shopping_center"
+  ], 
   "wof:tags": [
     "shop", 
     "store", 
@@ -32,6 +52,6 @@
     "reed", 
     "willow"
   ], 
-  "wof:brand_name": "Pier 1 Imports", 
-  "wof:brand_id": 420574361
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416234
 }

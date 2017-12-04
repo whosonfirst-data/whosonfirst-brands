@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414503, 
+  "wof:brand_name": "Hair Flair", 
+  "wof:brand_id": 1125152783, 
+  "wof:categories": [
+    "services:personal=beauty_salon", 
+    "sg:services=personal", 
+    "services:personal=barber", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:personal=nail_salon", 
+    "services:personal=skin_care", 
+    "services:personal=tanning_parlor", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "hairdresser", 
     "unisex", 
@@ -16,6 +26,6 @@
     "parlor", 
     "party"
   ], 
-  "wof:brand_name": "Hair Flair", 
-  "wof:brand_id": 1125152783
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416269
 }

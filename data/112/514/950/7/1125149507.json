@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414561, 
+  "wof:brand_name": "Gadzooks", 
+  "wof:brand_id": 1125149507, 
+  "wof:categories": [
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:manufacturing=pottery", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "store", 
     "casual", 
@@ -11,6 +17,6 @@
     "clothing", 
     "family"
   ], 
-  "wof:brand_name": "Gadzooks", 
-  "wof:brand_id": 1125149507
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416315
 }

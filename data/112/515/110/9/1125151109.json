@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414506, 
+  "wof:brand_name": "Great American Cookie Co", 
+  "wof:brand_id": 1125151109, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=bakery", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:food_and_drink=restaurant", 
+    "sg:services=professional", 
+    "retail_goods:food_and_beverages=candy", 
+    "sg:food_and_drink=bakery", 
+    "sg:services=communications"
+  ], 
   "wof:tags": [
     "cookie", 
     "cracker", 
@@ -17,6 +28,6 @@
     "fresh", 
     "gourmet"
   ], 
-  "wof:brand_name": "Great American Cookie Co", 
-  "wof:brand_id": 1125151109
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416271
 }

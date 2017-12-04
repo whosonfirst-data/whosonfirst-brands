@@ -1,6 +1,33 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414463, 
+  "wof:brand_name": "Lincare", 
+  "wof:brand_id": 420574559, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=chemicals_and_plastics", 
+    "manufacturing_and_wholesale_goods:wholesale=medical_equipment_and_supplies", 
+    "sg:services=health_services", 
+    "services:health_services=clinic", 
+    "sg:retail_goods=shopping", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "sg:services=professional", 
+    "services:building_and_trades=equipment_rental", 
+    "sg:services=building_and_trades", 
+    "retail_goods:shopping=pharmacy", 
+    "services:health_services=nursing_and_care_facility", 
+    "services:health_services=doctor", 
+    "services:health_services=health_practitioner", 
+    "services:retail=repair_shop", 
+    "sg:services=retail", 
+    "entertainment:recreation=water_park", 
+    "manufacturing_and_wholesale_goods:manufacturing=petroleum_products", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "services:health_services=hospital", 
+    "services:insurance=insurance_agent", 
+    "sg:entertainment=recreation", 
+    "sg:public_place=community_center", 
+    "sg:services=insurance"
+  ], 
   "wof:tags": [
     "oxygen", 
     "hospital", 
@@ -33,6 +60,6 @@
     "respirator", 
     "wheelchairs-rental"
   ], 
-  "wof:brand_name": "Lincare", 
-  "wof:brand_id": 420574559
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416237
 }

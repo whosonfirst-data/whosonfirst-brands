@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414512, 
+  "wof:brand_name": "Paul's Barber Shop", 
+  "wof:brand_id": 1125159977, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=barber", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "services:personal=beauty_salon", 
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "shop", 
     "hairdresser", 
@@ -8,6 +16,6 @@
     "eating", 
     "unisex"
   ], 
-  "wof:brand_name": "Paul's Barber Shop", 
-  "wof:brand_id": 1125159977
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416276
 }

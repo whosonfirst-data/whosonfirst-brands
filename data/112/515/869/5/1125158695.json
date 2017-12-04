@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414469, 
+  "wof:brand_name": "Allied Security", 
+  "wof:brand_id": 1125158695, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=detective_and_security_services", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:manufacturing=electronics", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:building_and_trades=electrical", 
+    "services:professional=management_and_consulting", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=shopping", 
+    "sg:services=building_and_trades", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "guard", 
     "patrol", 
@@ -25,6 +39,6 @@
     "smoke", 
     "surveillance"
   ], 
-  "wof:brand_name": "Allied Security", 
-  "wof:brand_id": 1125158695
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416241
 }

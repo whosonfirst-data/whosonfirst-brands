@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414514, 
+  "wof:brand_name": "Mellow Mushroom", 
+  "wof:brand_id": 1125154777, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=bakery", 
+    "food_and_drink:bars_and_pubs=sports_bar", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "manufacturing_and_wholesale_goods:manufacturing=pet_food", 
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "pizza", 
     "american", 
@@ -16,6 +27,6 @@
     "pizza-wholesale", 
     "style"
   ], 
-  "wof:brand_name": "Mellow Mushroom", 
-  "wof:brand_id": 1125154777
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416278
 }

@@ -1,12 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414473, 
+  "wof:brand_name": "Le Bistro", 
+  "wof:brand_id": 1125159917, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=cafe"
+  ], 
   "wof:tags": [
     "eating", 
     "french", 
     "caf\u00e9s", 
     "sandwich"
   ], 
-  "wof:brand_name": "Le Bistro", 
-  "wof:brand_id": 1125159917
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416244
 }

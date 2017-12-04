@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414499, 
+  "wof:brand_name": "Morning Star Baptist Church", 
+  "wof:brand_id": 1125152057, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "sg:public_place=place_of_worship", 
+    "public_place:place_of_worship=church", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "church", 
     "churches-baptist", 
@@ -10,6 +18,6 @@
     "religious", 
     "state"
   ], 
-  "wof:brand_name": "Morning Star Baptist Church", 
-  "wof:brand_id": 1125152057
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416266
 }

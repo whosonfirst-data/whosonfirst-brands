@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414509, 
+  "wof:brand_name": "Schneider Electric", 
+  "wof:brand_id": 1125155185, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "services:building_and_trades=electrical", 
+    "sg:services=building_and_trades", 
+    "services:utilities=electric", 
+    "sg:services=utilities", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:retail=repair_shop", 
+    "sg:retail_goods=shopping", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:manufacturing=electronics", 
+    "manufacturing_and_wholesale_goods:wholesale=plants"
+  ], 
   "wof:tags": [
     "equipment", 
     "mfg", 
@@ -29,6 +45,6 @@
     "rep", 
     "repair"
   ], 
-  "wof:brand_name": "Schneider Electric", 
-  "wof:brand_id": 1125155185
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416274
 }

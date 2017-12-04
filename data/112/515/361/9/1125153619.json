@@ -1,12 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414508, 
+  "wof:brand_name": "Kansas City Life Insurance Co", 
+  "wof:brand_id": 1125153619, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=life_insurance", 
+    "services:insurance=hazard_insurance", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "carrier", 
     "consultant", 
     "insurance", 
     "life"
   ], 
-  "wof:brand_name": "Kansas City Life Insurance Co", 
-  "wof:brand_id": 1125153619
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416273
 }

@@ -1,10 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414490, 
+  "wof:brand_name": "Hungry Jacks Pty Ltd", 
+  "wof:brand_id": 1125153157, 
+  "wof:categories": [
+    "sg:food_and_drink=fast_food"
+  ], 
   "wof:tags": [
     "away", 
     "take"
   ], 
-  "wof:brand_name": "Hungry Jacks Pty Ltd", 
-  "wof:brand_id": 1125153157
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416258
 }

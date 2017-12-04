@@ -1,12 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414475, 
+  "wof:brand_name": "Vodafone", 
+  "wof:brand_id": 1125151707, 
+  "wof:categories": [
+    "retail_goods:shopping=mobile_phones", 
+    "sg:retail_goods=shopping", 
+    "sg:services=communications", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "accessory", 
     "telephone", 
     "telecommunication", 
     "supplier"
   ], 
-  "wof:brand_name": "Vodafone", 
-  "wof:brand_id": 1125151707
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416245
 }

@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414461, 
+  "wof:brand_name": "Office Depot", 
+  "wof:brand_id": 420574129, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=computers", 
+    "services:professional=printing_and_photocopies", 
+    "sg:services=professional", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "manufacturing_and_wholesale_goods:wholesale=office_equipment", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "manufacturing_and_wholesale_goods:wholesale=furniture", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:shopping=mobile_phones", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=home_and_garden", 
+    "manufacturing_and_wholesale_goods:manufacturing=paper_products", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "retail_goods:shopping=department_store", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "equipment", 
     "furniture", 
@@ -34,6 +54,6 @@
     "warehouse", 
     "wholesale"
   ], 
-  "wof:brand_name": "Office Depot", 
-  "wof:brand_id": 420574129
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416235
 }

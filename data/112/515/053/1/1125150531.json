@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414532, 
+  "wof:brand_name": "Sylvan Learning Center", 
+  "wof:brand_id": 1125150531, 
+  "wof:categories": [
+    "sg:public_place=education", 
+    "public_place:education=special_training", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional", 
+    "public_place:education=library", 
+    "public_place:education=school", 
+    "services:social_services=child_care", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "tutoring", 
     "equipment", 
@@ -27,6 +37,6 @@
     "supplemental", 
     "tutor"
   ], 
-  "wof:brand_name": "Sylvan Learning Center", 
-  "wof:brand_id": 1125150531
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416291
 }

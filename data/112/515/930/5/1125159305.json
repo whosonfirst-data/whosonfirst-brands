@@ -1,12 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414494, 
+  "wof:brand_name": "Miami Subs Grill", 
+  "wof:brand_id": 1125159305, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "sandwich", 
     "american", 
     "wrap", 
     "new"
   ], 
-  "wof:brand_name": "Miami Subs Grill", 
-  "wof:brand_id": 1125159305
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416262
 }

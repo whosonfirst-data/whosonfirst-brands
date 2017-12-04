@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414476, 
+  "wof:brand_name": "Gnc", 
+  "wof:brand_id": 1125157173, 
+  "wof:categories": [
+    "services:insurance=health_insurance", 
+    "sg:services=insurance", 
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=health_services", 
+    "services:health_services=health_practitioner", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:food_and_beverages=fruits_and_vegetables", 
+    "retail_goods:shopping=pharmacy", 
+    "sg:services=professional", 
+    "entertainment:sports_and_exercise=gym", 
+    "services:health_services=clinic", 
+    "sg:entertainment=sports_and_exercise"
+  ], 
   "wof:tags": [
     "market", 
     "diet", 
@@ -17,6 +32,6 @@
     "trainer", 
     "medical"
   ], 
-  "wof:brand_name": "Gnc", 
-  "wof:brand_id": 1125157173
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416247
 }

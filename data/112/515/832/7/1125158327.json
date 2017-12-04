@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414523, 
+  "wof:brand_name": "Justice", 
+  "wof:brand_id": 1125158327, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=baby_store", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "public_place:government=court_house", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "retail_goods:home_and_garden=hardware", 
+    "services:organizations=nonprofit_organization", 
+    "services:real_estate=real_estate_agent", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:public_place=government", 
+    "sg:public_place=shopping_center", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=organizations", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "children's", 
     "clothing", 
@@ -18,6 +36,6 @@
     "station", 
     "store"
   ], 
-  "wof:brand_name": "Justice", 
-  "wof:brand_id": 1125158327
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416285
 }

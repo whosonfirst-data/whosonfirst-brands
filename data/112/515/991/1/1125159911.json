@@ -1,12 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414473, 
+  "wof:brand_name": "Kall-Kwik Printing", 
+  "wof:brand_id": 1125159911, 
+  "wof:categories": [
+    "services:professional=printing_and_photocopies", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "printer", 
     "lithographic", 
     "maker", 
     "plate"
   ], 
-  "wof:brand_name": "Kall-Kwik Printing", 
-  "wof:brand_id": 1125159911
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416244
 }

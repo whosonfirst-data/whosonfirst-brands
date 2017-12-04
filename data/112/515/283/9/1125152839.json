@@ -1,6 +1,30 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414491, 
+  "wof:brand_name": "A T S", 
+  "wof:brand_id": 1125152839, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:farming=farm_and_veterinary_services", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "manufacturing_and_wholesale_goods:manufacturing=electronics", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "services:building_and_trades=electrical", 
+    "services:health_services=clinic", 
+    "services:health_services=health_practitioner", 
+    "services:insurance=insurance_agent", 
+    "services:professional=engineering", 
+    "services:retail=auto_repair", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:services=building_and_trades", 
+    "sg:services=health_services", 
+    "sg:services=insurance", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "equipment", 
     "electronic", 
@@ -28,6 +52,6 @@
     "telephone", 
     "tyre"
   ], 
-  "wof:brand_name": "A T S", 
-  "wof:brand_id": 1125152839
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416259
 }

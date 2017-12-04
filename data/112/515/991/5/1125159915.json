@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414473, 
+  "wof:brand_name": "Laundromat", 
+  "wof:brand_id": 1125159915, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=selfservice_laundry", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "coin", 
     "power", 
@@ -15,6 +22,6 @@
     "repair", 
     "washing"
   ], 
-  "wof:brand_name": "Laundromat", 
-  "wof:brand_id": 1125159915
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416244
 }

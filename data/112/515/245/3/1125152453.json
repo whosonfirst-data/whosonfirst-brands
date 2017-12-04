@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414491, 
+  "wof:brand_name": "Calico Corners", 
+  "wof:brand_id": 1125152453, 
+  "wof:categories": [
+    "retail_goods:shopping=crafts_and_fabrics", 
+    "sg:retail_goods=shopping", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=furniture", 
+    "services:retail=repair_shop", 
+    "sg:services=retail", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "services:professional=art_services", 
+    "manufacturing_and_wholesale_goods:wholesale=home_furnishings", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "interior", 
     "design", 
@@ -27,6 +43,6 @@
     "supply", 
     "vertical"
   ], 
-  "wof:brand_name": "Calico Corners", 
-  "wof:brand_id": 1125152453
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416259
 }

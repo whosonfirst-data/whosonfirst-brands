@@ -1,6 +1,25 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414535, 
+  "wof:brand_name": "Petro-Canada", 
+  "wof:brand_id": 1125151607, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:manufacturing_and_wholesale_goods=mining_and_drilling", 
+    "sg:services=retail", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=petroleum", 
+    "services:retail=car_wash", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "services:retail=auto_repair", 
+    "services:utilities=fuel_oil_and_lpg", 
+    "sg:services=utilities", 
+    "manufacturing_and_wholesale_goods:manufacturing=petroleum_products", 
+    "manufacturing_and_wholesale_goods:wholesale=farm_supplies", 
+    "services:building_and_trades=equipment_rental", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "oil", 
     "company", 
@@ -20,6 +39,6 @@
     "wrecker", 
     "yard"
   ], 
-  "wof:brand_name": "Petro-Canada", 
-  "wof:brand_id": 1125151607
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416294
 }

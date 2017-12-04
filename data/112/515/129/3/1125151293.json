@@ -1,11 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414514, 
+  "wof:brand_name": "Turkey Hill Minit Market", 
+  "wof:brand_id": 1125151293, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "gasoline", 
     "grocer", 
     "station"
   ], 
-  "wof:brand_name": "Turkey Hill Minit Market", 
-  "wof:brand_id": 1125151293
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416278
 }

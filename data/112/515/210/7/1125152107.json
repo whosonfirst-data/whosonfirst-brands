@@ -1,6 +1,29 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414482, 
+  "wof:brand_name": "Signs By Tomorrow", 
+  "wof:brand_id": 1125152107, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=signs", 
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "sg:retail_goods=shopping", 
+    "services:professional=advertising", 
+    "services:professional=computer_services", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:manufacturing=retail_goods", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "services:building_and_trades=construction", 
+    "services:building_and_trades=electrical", 
+    "services:professional=art_services", 
+    "services:professional=printing_and_photocopies", 
+    "services:retail=auto_repair", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "mfg", 
     "specialty", 
@@ -36,6 +59,6 @@
     "signs-erectors", 
     "sings"
   ], 
-  "wof:brand_name": "Signs By Tomorrow", 
-  "wof:brand_id": 1125152107
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416251
 }

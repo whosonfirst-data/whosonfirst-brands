@@ -1,7 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414443, 
-  "wof:tags": [], 
   "wof:brand_name": "Going Places Leisure Travel", 
-  "wof:brand_id": 420575061
+  "wof:brand_id": 420575061, 
+  "wof:categories": [
+    "entertainment:travel=travel_agent", 
+    "sg:entertainment=travel"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416221
 }

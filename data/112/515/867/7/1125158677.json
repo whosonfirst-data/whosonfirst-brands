@@ -1,12 +1,21 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414511, 
+  "wof:brand_name": "Wal-Mart Vision Ctr", 
+  "wof:brand_id": 1125158677, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=optical_goods", 
+    "retail_goods:shopping=department_store", 
+    "services:health_services=optometrist", 
+    "sg:services=health_services", 
+    "services:retail=repair_shop", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "good", 
     "optical", 
     "optician", 
     "shop"
   ], 
-  "wof:brand_name": "Wal-Mart Vision Ctr", 
-  "wof:brand_id": 1125158677
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416275
 }

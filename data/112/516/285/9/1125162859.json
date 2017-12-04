@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414538, 
+  "wof:brand_name": "Video 99", 
+  "wof:brand_id": 1125162859, 
+  "wof:categories": [
+    "entertainment:cinema=movie_rental", 
+    "sg:entertainment=cinema", 
+    "sg:services=communications", 
+    "services:communications=television_station", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=music", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:communications=film_and_video_production", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "video", 
     "disc", 
@@ -18,6 +30,6 @@
     "rental", 
     "vid\u00e9o"
   ], 
-  "wof:brand_name": "Video 99", 
-  "wof:brand_id": 1125162859
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416296
 }

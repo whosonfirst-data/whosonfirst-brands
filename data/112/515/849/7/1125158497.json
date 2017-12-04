@@ -1,6 +1,25 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414531, 
+  "wof:brand_name": "Custom Interiors", 
+  "wof:brand_id": 1125158497, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "sg:services=retail", 
+    "sg:retail_goods=home_and_garden", 
+    "services:retail=repair_shop", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "services:retail=auto_repair", 
+    "retail_goods:home_and_garden=carpets_and_floor_coverings", 
+    "services:professional=art_services", 
+    "manufacturing_and_wholesale_goods:wholesale=home_furnishings", 
+    "retail_goods:home_and_garden=building_materials", 
+    "retail_goods:home_and_garden=furniture", 
+    "services:professional=computer_services", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "interior", 
     "decorator", 
@@ -45,6 +64,6 @@
     "roofing", 
     "tile"
   ], 
-  "wof:brand_name": "Custom Interiors", 
-  "wof:brand_id": 1125158497
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416291
 }

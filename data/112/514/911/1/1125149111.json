@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414560, 
+  "wof:brand_name": "Suburban Propane", 
+  "wof:brand_id": 1125149111, 
+  "wof:categories": [
+    "sg:services=utilities", 
+    "services:utilities=fuel_oil_and_lpg", 
+    "services:utilities=natural_gas", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "sg:retail_goods=home_and_garden", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional", 
+    "sg:retail_goods=shopping", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "gas", 
     "petroleum", 
@@ -19,6 +30,6 @@
     "merchandise", 
     "water"
   ], 
-  "wof:brand_name": "Suburban Propane", 
-  "wof:brand_id": 1125149111
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416314
 }

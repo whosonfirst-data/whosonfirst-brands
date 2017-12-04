@@ -1,6 +1,42 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414474, 
+  "wof:brand_name": "Creations", 
+  "wof:brand_id": 1125152335, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:services=professional", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:building_and_trades=construction", 
+    "services:professional=art_services", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "retail_goods:shopping=crafts_and_fabrics", 
+    "retail_goods:shopping=florist", 
+    "retail_goods:shopping=jewelry", 
+    "services:professional=business_services", 
+    "sg:food_and_drink=restaurant", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=food_and_beverages", 
+    "manufacturing_and_wholesale_goods:manufacturing=toys_and_sporting_goods", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "retail_goods:food_and_beverages=bakery", 
+    "retail_goods:food_and_beverages=candy", 
+    "retail_goods:home_and_garden=hardware", 
+    "retail_goods:shopping=antiques", 
+    "retail_goods:shopping=catalog_store", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "services:health_services=health_practitioner", 
+    "services:personal=barber", 
+    "services:professional=management_and_consulting", 
+    "sg:food_and_drink=ice_cream", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "shop", 
     "contractor", 
@@ -47,6 +83,6 @@
     "women's", 
     "yogurt"
   ], 
-  "wof:brand_name": "Creations", 
-  "wof:brand_id": 1125152335
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416245
 }

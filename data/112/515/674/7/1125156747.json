@@ -1,9 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414479, 
+  "wof:brand_name": "Fields Stores", 
+  "wof:brand_id": 1125156747, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:food_and_beverages=meat_and_fish", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "butcher"
   ], 
-  "wof:brand_name": "Fields Stores", 
-  "wof:brand_id": 1125156747
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416249
 }

@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414509, 
+  "wof:brand_name": "Ralphs", 
+  "wof:brand_id": 1125155181, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:shopping=pharmacy", 
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=shopping", 
+    "public_place:place_of_worship=temple", 
+    "sg:public_place=place_of_worship"
+  ], 
   "wof:tags": [
     "supermarket", 
     "drug", 
@@ -17,6 +26,6 @@
     "prod", 
     "retail"
   ], 
-  "wof:brand_name": "Ralphs", 
-  "wof:brand_id": 1125155181
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416274
 }

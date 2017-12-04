@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414536, 
+  "wof:brand_name": "Max & Erma's", 
+  "wof:brand_id": 1125153629, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food"
+  ], 
   "wof:tags": [
     "american", 
     "dog", 
@@ -17,6 +21,6 @@
     "salad", 
     "sandwich"
   ], 
-  "wof:brand_name": "Max & Erma's", 
-  "wof:brand_id": 1125153629
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416295
 }

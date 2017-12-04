@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414536, 
+  "wof:brand_name": "Tony's Pizza", 
+  "wof:brand_id": 1125156669, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:retail_goods=food_and_beverages", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "pizza", 
     "eating", 
@@ -17,6 +26,6 @@
     "pizzeria", 
     "shop"
   ], 
-  "wof:brand_name": "Tony's Pizza", 
-  "wof:brand_id": 1125156669
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416295
 }

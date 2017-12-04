@@ -1,6 +1,28 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414548, 
+  "wof:brand_name": "Harveys", 
+  "wof:brand_id": 1125162659, 
+  "wof:categories": [
+    "retail_goods:home_and_garden=furniture", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "services:personal=beauty_salon", 
+    "sg:food_and_drink=fast_food", 
+    "sg:services=personal", 
+    "food_and_drink:bars_and_pubs=nightclub", 
+    "retail_goods:food_and_beverages=bakery", 
+    "retail_goods:food_and_beverages=fruits_and_vegetables", 
+    "retail_goods:shopping=news", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:professional=lawyer_and_legal_services", 
+    "sg:food_and_drink=deli", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "accessory", 
     "american", 
@@ -13,6 +35,6 @@
     "take", 
     "women's"
   ], 
-  "wof:brand_name": "Harveys", 
-  "wof:brand_id": 1125162659
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416304
 }

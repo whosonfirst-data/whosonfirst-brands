@@ -1,11 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414553, 
+  "wof:brand_name": "Hollywood Nails", 
+  "wof:brand_id": 1125149385, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "services:professional=management_and_consulting", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "manicuring", 
     "shop", 
     "nail"
   ], 
-  "wof:brand_name": "Hollywood Nails", 
-  "wof:brand_id": 1125149385
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416308
 }

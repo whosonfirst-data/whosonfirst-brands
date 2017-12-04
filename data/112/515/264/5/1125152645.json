@@ -1,6 +1,30 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414519, 
+  "wof:brand_name": "Computer Doctor", 
+  "wof:brand_id": 1125152645, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=computer_services", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "manufacturing_and_wholesale_goods:wholesale=computers", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "services:professional=management_and_consulting", 
+    "services:professional=engineering", 
+    "food_and_drink:internet_cafe=none", 
+    "manufacturing_and_wholesale_goods:manufacturing=retail_goods", 
+    "public_place:education=vocational_school", 
+    "retail_goods:shopping=catalog_store", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:building_and_trades=electrical", 
+    "services:health_services=doctor", 
+    "services:professional=business_services", 
+    "sg:food_and_drink=internet_cafe", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:public_place=education", 
+    "sg:services=building_and_trades", 
+    "sg:services=health_services", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "repair", 
     "equipment", 
@@ -42,6 +66,6 @@
     "tech", 
     "training"
   ], 
-  "wof:brand_name": "Computer Doctor", 
-  "wof:brand_id": 1125152645
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416281
 }

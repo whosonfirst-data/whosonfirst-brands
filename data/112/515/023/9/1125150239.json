@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414495, 
+  "wof:brand_name": "Grease Monkey", 
+  "wof:brand_id": 1125150239, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "lubrication", 
     "automobile", 
@@ -31,6 +40,6 @@
     "repairer", 
     "shop"
   ], 
-  "wof:brand_name": "Grease Monkey", 
-  "wof:brand_id": 1125150239
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416263
 }

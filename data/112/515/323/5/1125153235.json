@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414524, 
+  "wof:brand_name": "LA Weight Loss Ctr", 
+  "wof:brand_id": 1125153235, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "sg:entertainment=recreation"
+  ], 
   "wof:tags": [
     "control", 
     "weight", 
@@ -12,6 +16,6 @@
     "martial", 
     "program"
   ], 
-  "wof:brand_name": "LA Weight Loss Ctr", 
-  "wof:brand_id": 1125153235
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416285
 }

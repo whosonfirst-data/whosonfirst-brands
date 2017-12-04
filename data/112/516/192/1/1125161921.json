@@ -1,6 +1,34 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414540, 
+  "wof:brand_name": "North Eastern Co-Operative", 
+  "wof:brand_id": 1125161921, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "services:retail=funeral_services", 
+    "sg:services=retail", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=bank", 
+    "manufacturing_and_wholesale_goods:farming=dairy_farm", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:shopping=department_store", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:retail_goods=shopping", 
+    "public_place:government=post_office", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "retail_goods:food_and_beverages=fruits_and_vegetables", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "retail_goods:home_and_garden=kitchen_supply", 
+    "services:building_and_trades=construction", 
+    "services:professional=business_services", 
+    "sg:food_and_drink=fast_food", 
+    "sg:public_place=government", 
+    "sg:services=building_and_trades", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "consultant", 
     "away", 
@@ -15,6 +43,6 @@
     "scale", 
     "take"
   ], 
-  "wof:brand_name": "North Eastern Co-Operative", 
-  "wof:brand_id": 1125161921
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416298
 }

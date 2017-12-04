@@ -1,6 +1,28 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414539, 
+  "wof:brand_name": "Liverpool City Council", 
+  "wof:brand_id": 1125161531, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:public_place=education", 
+    "public_place:education=school", 
+    "public_place:education=library", 
+    "public_place:education=university", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:farming=nursery", 
+    "services:professional=employment_agencies", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:services=social_services", 
+    "entertainment:travel=hostel", 
+    "public_place:education=special_training", 
+    "services:health_services=hospital", 
+    "services:organizations=membership_organization", 
+    "services:social_services=adult_care", 
+    "services:social_services=retirement_home", 
+    "sg:entertainment=travel", 
+    "sg:services=health_services", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "local", 
     "authority", 
@@ -24,6 +46,6 @@
     "medical", 
     "residential"
   ], 
-  "wof:brand_name": "Liverpool City Council", 
-  "wof:brand_id": 1125161531
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416297
 }

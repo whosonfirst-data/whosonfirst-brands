@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414482, 
+  "wof:brand_name": "Uap Napa Auto Parts", 
+  "wof:brand_id": 1125152993, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=motor_vehicles_and_parts", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery"
+  ], 
   "wof:tags": [
     "automobile", 
     "parts", 
@@ -11,6 +20,6 @@
     "shop", 
     "welding"
   ], 
-  "wof:brand_name": "Uap Napa Auto Parts", 
-  "wof:brand_id": 1125152993
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416252
 }

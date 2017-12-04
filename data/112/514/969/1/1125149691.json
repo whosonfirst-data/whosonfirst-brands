@@ -1,9 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414555, 
+  "wof:brand_name": "Mobil Oil Australia Pty Ltd", 
+  "wof:brand_id": 1125149691, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "manufacturing_and_wholesale_goods:manufacturing=petroleum_products", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "lubricant"
   ], 
-  "wof:brand_name": "Mobil Oil Australia Pty Ltd", 
-  "wof:brand_id": 1125149691
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416310
 }

@@ -1,6 +1,27 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414559, 
+  "wof:brand_name": "Kirkland's", 
+  "wof:brand_id": 1125149991, 
+  "wof:categories": [
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=building_materials", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:home_and_garden=furniture", 
+    "sg:services=professional", 
+    "services:building_and_trades=construction", 
+    "services:professional=business_services", 
+    "sg:services=building_and_trades", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "retail_goods:shopping=department_store", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "accessory", 
     "furnishing", 
@@ -21,6 +42,6 @@
     "parcel", 
     "stock"
   ], 
-  "wof:brand_name": "Kirkland's", 
-  "wof:brand_id": 1125149991
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416313
 }

@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414550, 
+  "wof:brand_name": "Copy Shop", 
+  "wof:brand_id": 1125161441, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=printing_and_photocopies", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "services:communications=newspaper", 
+    "sg:services=communications"
+  ], 
   "wof:tags": [
     "copying", 
     "duplicating", 
@@ -19,6 +31,6 @@
     "reporting", 
     "shop"
   ], 
-  "wof:brand_name": "Copy Shop", 
-  "wof:brand_id": 1125161441
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416306
 }

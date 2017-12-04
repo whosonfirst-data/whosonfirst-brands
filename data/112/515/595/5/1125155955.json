@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414513, 
+  "wof:brand_name": "Mrs. Fields", 
+  "wof:brand_id": 1125155955, 
+  "wof:categories": [
+    "sg:food_and_drink=bakery", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=bakery", 
+    "retail_goods:food_and_beverages=candy"
+  ], 
   "wof:tags": [
     "american", 
     "pastry", 
@@ -8,6 +14,6 @@
     "cracker", 
     "dessert"
   ], 
-  "wof:brand_name": "Mrs. Fields", 
-  "wof:brand_id": 1125155955
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416276
 }

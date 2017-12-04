@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414517, 
+  "wof:brand_name": "Flash Foods", 
+  "wof:brand_id": 1125157845, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:food_and_beverages=specialty"
+  ], 
   "wof:tags": [
     "super", 
     "store", 
@@ -11,6 +20,6 @@
     "oil", 
     "station"
   ], 
-  "wof:brand_name": "Flash Foods", 
-  "wof:brand_id": 1125157845
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416280
 }

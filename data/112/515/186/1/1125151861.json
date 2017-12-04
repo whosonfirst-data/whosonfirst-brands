@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414519, 
+  "wof:brand_name": "Stock Building Supply", 
+  "wof:brand_id": 1125151861, 
+  "wof:categories": [
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=building_materials", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "retail_goods:home_and_garden=hardware", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:manufacturing=building_materials", 
+    "manufacturing_and_wholesale_goods:manufacturing=wood_products", 
+    "manufacturing_and_wholesale_goods:wholesale=construction_materials", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:manufacturing=lumber", 
+    "manufacturing_and_wholesale_goods:wholesale=hardware", 
+    "retail_goods:home_and_garden=furniture", 
+    "services:professional=advertising", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "lumber", 
     "door", 
@@ -28,6 +45,6 @@
     "truss", 
     "wood"
   ], 
-  "wof:brand_name": "Stock Building Supply", 
-  "wof:brand_id": 1125151861
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416281
 }

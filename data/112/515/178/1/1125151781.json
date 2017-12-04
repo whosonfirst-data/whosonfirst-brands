@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414482, 
+  "wof:brand_name": "First Convenience Bank", 
+  "wof:brand_id": 1125151781, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "commercial", 
     "saving", 
@@ -10,6 +17,6 @@
     "mortgage", 
     "national"
   ], 
-  "wof:brand_name": "First Convenience Bank", 
-  "wof:brand_id": 1125151781
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416251
 }

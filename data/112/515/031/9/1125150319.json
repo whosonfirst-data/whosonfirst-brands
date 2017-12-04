@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414503, 
+  "wof:brand_name": "Color Tyme", 
+  "wof:brand_id": 1125150319, 
+  "wof:categories": [
+    "services:building_and_trades=equipment_rental", 
+    "sg:services=building_and_trades", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "services:retail=auto_rental", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "yard", 
     "appliance", 
@@ -14,6 +26,6 @@
     "passenger", 
     "washing"
   ], 
-  "wof:brand_name": "Color Tyme", 
-  "wof:brand_id": 1125150319
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416269
 }

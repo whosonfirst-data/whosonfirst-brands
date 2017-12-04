@@ -1,11 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414484, 
+  "wof:brand_name": "PNC Bank", 
+  "wof:brand_id": 1125154245, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services"
+  ], 
   "wof:tags": [
     "commercial", 
     "saving", 
     "loan"
   ], 
-  "wof:brand_name": "PNC Bank", 
-  "wof:brand_id": 1125154245
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416253
 }

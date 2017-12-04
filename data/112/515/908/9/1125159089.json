@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414472, 
+  "wof:brand_name": "Standard Federal Bank N A", 
+  "wof:brand_id": 1125159089, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "services:professional=computer_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "national", 
     "commercial", 
@@ -13,6 +19,6 @@
     "real estate", 
     "sales"
   ], 
-  "wof:brand_name": "Standard Federal Bank N A", 
-  "wof:brand_id": 1125159089
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416243
 }

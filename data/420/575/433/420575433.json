@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414444, 
+  "wof:brand_name": "The Crown Inn", 
+  "wof:brand_id": 420575433, 
+  "wof:categories": [
+    "sg:food_and_drink=bars_and_pubs", 
+    "public_place:community_center=social", 
+    "sg:public_place=community_center", 
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel"
+  ], 
   "wof:tags": [
     "inn", 
     "pubs", 
@@ -8,6 +15,6 @@
     "house", 
     "public"
   ], 
-  "wof:brand_name": "The Crown Inn", 
-  "wof:brand_id": 420575433
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416222
 }

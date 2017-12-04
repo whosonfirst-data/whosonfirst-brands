@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414495, 
+  "wof:brand_name": "Godiva", 
+  "wof:brand_id": 1125151361, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=candy", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "retail_goods:food_and_beverages=chocolate", 
+    "manufacturing_and_wholesale_goods:manufacturing=buildings", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:building_and_trades=construction", 
+    "services:personal=beauty_salon", 
+    "sg:food_and_drink=restaurant", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping", 
+    "sg:services=building_and_trades", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "mfg", 
     "product", 
@@ -17,6 +34,6 @@
     "fast", 
     "home"
   ], 
-  "wof:brand_name": "Godiva", 
-  "wof:brand_id": 1125151361
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416263
 }

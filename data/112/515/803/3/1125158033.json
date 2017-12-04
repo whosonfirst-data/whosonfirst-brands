@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414531, 
+  "wof:brand_name": "Animal Control", 
+  "wof:brand_id": 1125158033, 
+  "wof:categories": [
+    "sg:public_place=government", 
+    "public_place:government=office", 
+    "sg:services=retail", 
+    "services:retail=animal_services", 
+    "services:organizations=membership_organization", 
+    "sg:services=organizations", 
+    "sg:services=professional", 
+    "public_place:government=police_station", 
+    "services:retail=veterinary_services", 
+    "public_place:government=city_hall", 
+    "services:building_and_trades=pest_control", 
+    "sg:public_place=animal_shelter", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "village", 
     "animal", 
@@ -18,6 +33,6 @@
     "town", 
     "township"
   ], 
-  "wof:brand_name": "Animal Control", 
-  "wof:brand_id": 1125158033
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416291
 }

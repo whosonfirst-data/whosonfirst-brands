@@ -1,12 +1,22 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414489, 
+  "wof:brand_name": "Smartline", 
+  "wof:brand_id": 1125159371, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:professional=engineering", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:services=communications", 
+    "sg:services=professional", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "mortgage", 
     "broker", 
     "finance", 
     "loan"
   ], 
-  "wof:brand_name": "Smartline", 
-  "wof:brand_id": 1125159371
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416258
 }

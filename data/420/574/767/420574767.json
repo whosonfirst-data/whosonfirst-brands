@@ -1,7 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414458, 
-  "wof:tags": [], 
   "wof:brand_name": "Societe Fiduciaire Nationale D'expertise Comptable Fidexpert (fid)", 
-  "wof:brand_id": 420574767
+  "wof:brand_id": 420574767, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=banks_and_credit_unions"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416232
 }

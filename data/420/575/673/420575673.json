@@ -1,7 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414448, 
-  "wof:tags": [], 
   "wof:brand_name": "Cassa Di Risparmio Della Spezia", 
-  "wof:brand_id": 420575673
+  "wof:brand_id": 420575673, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416225
 }

@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414556, 
+  "wof:brand_name": "Stop N Go", 
+  "wof:brand_id": 1125149605, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "retail_goods:shopping=tobacco", 
+    "services:professional=management_and_consulting", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "grocer", 
     "oil", 
@@ -17,6 +29,6 @@
     "store", 
     "wine"
   ], 
-  "wof:brand_name": "Stop N Go", 
-  "wof:brand_id": 1125149605
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416310
 }

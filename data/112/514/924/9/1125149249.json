@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414554, 
+  "wof:brand_name": "Real", 
+  "wof:brand_id": 1125149249, 
+  "wof:categories": [
+    "food_and_drink:bars_and_pubs=nightclub", 
+    "public_place:education=school", 
+    "public_place:government=office", 
+    "services:personal=nail_salon", 
+    "services:real_estate=real_estate_agent", 
+    "services:real_estate=real_estate_services", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:public_place=education", 
+    "sg:public_place=government", 
+    "sg:services=personal", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "health", 
     "home", 
@@ -8,6 +21,6 @@
     "management", 
     "nightlife"
   ], 
-  "wof:brand_name": "Real", 
-  "wof:brand_id": 1125149249
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416309
 }

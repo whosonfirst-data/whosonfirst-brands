@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414445, 
+  "wof:brand_name": "24 Hour Fitness", 
+  "wof:brand_id": 420575133, 
+  "wof:categories": [
+    "entertainment:sports_and_exercise=gym", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:services=personal", 
+    "entertainment:arena=sports_club", 
+    "sg:entertainment=arena", 
+    "services:health_services=health_practitioner", 
+    "services:personal=tanning_parlor", 
+    "sg:entertainment=recreation", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "health", 
     "gymnasium", 
@@ -22,6 +33,6 @@
     "pilate", 
     "weight"
   ], 
-  "wof:brand_name": "24 Hour Fitness", 
-  "wof:brand_id": 420575133
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416223
 }

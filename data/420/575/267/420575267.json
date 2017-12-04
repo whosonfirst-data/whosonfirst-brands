@@ -1,6 +1,42 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414448, 
+  "wof:brand_name": "Nationwide", 
+  "wof:brand_id": 420575267, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=hazard_insurance", 
+    "services:insurance=life_insurance", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=professional", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:retail_goods=shopping", 
+    "sg:services=real_estate", 
+    "services:banks_and_credit_unions=bank", 
+    "services:insurance=health_insurance", 
+    "services:professional=management_and_consulting", 
+    "services:real_estate=real_estate_agent", 
+    "sg:transportation=freight", 
+    "entertainment:sports_and_exercise=sports_center", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "services:health_services=doctor", 
+    "services:insurance=title_insurance", 
+    "services:professional=business_services", 
+    "services:professional=computer_services", 
+    "services:real_estate=real_estate_services", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=building_and_trades", 
+    "sg:services=communications", 
+    "sg:services=health_services", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "carrier", 
     "agency", 
@@ -66,6 +102,6 @@
     "title", 
     "trucking"
   ], 
-  "wof:brand_name": "Nationwide", 
-  "wof:brand_id": 420575267
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416224
 }

@@ -1,6 +1,31 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414488, 
+  "wof:brand_name": "NCR", 
+  "wof:brand_id": 1125152295, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=computer_services", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=office_equipment", 
+    "manufacturing_and_wholesale_goods:wholesale=computers", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "services:retail=repair_shop", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:professional=management_and_consulting", 
+    "services:building_and_trades=construction", 
+    "services:professional=business_services", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:manufacturing=electronics", 
+    "manufacturing_and_wholesale_goods:manufacturing=paper_products", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "retail_goods:autos_and_motor_vehicles=motorcycle_sales", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "datum", 
     "mfg", 
@@ -59,6 +84,6 @@
     "special", 
     "support"
   ], 
-  "wof:brand_name": "NCR", 
-  "wof:brand_id": 1125152295
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416256
 }

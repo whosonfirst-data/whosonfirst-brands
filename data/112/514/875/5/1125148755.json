@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414556, 
+  "wof:brand_name": "Boston Market", 
+  "wof:brand_id": 1125148755, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "sg:services=professional", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:food_and_drink=deli", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores"
+  ], 
   "wof:tags": [
     "american", 
     "barbecue", 
@@ -15,6 +24,6 @@
     "fast", 
     "pizza"
   ], 
-  "wof:brand_name": "Boston Market", 
-  "wof:brand_id": 1125148755
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416311
 }

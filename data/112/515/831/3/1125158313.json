@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414470, 
+  "wof:brand_name": "Healing Touch", 
+  "wof:brand_id": 1125158313, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "sg:services=health_services", 
+    "services:health_services=health_practitioner", 
+    "services:health_services=clinic", 
+    "services:personal=massage", 
+    "services:health_services=doctor", 
+    "sg:entertainment=recreation", 
+    "sg:services=professional", 
+    "entertainment:sports_and_exercise=gym", 
+    "services:health_services=chiropractor", 
+    "services:personal=beauty_salon", 
+    "services:professional=management_and_consulting", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:retail_goods=shopping", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "therapist", 
     "massage", 
@@ -20,6 +37,6 @@
     "therapy", 
     "trainer"
   ], 
-  "wof:brand_name": "Healing Touch", 
-  "wof:brand_id": 1125158313
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416242
 }

@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414518, 
+  "wof:brand_name": "The Bulls Head", 
+  "wof:brand_id": 1125157277, 
+  "wof:categories": [
+    "sg:food_and_drink=bars_and_pubs", 
+    "public_place:community_center=social", 
+    "sg:public_place=community_center", 
+    "sg:food_and_drink=restaurant", 
+    "entertainment:travel=hotels_and_motels", 
+    "services:organizations=nonprofit_organization", 
+    "sg:entertainment=travel", 
+    "sg:services=organizations", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "inn", 
     "pubs", 
@@ -8,6 +19,6 @@
     "house", 
     "caterer"
   ], 
-  "wof:brand_name": "The Bulls Head", 
-  "wof:brand_id": 1125157277
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416280
 }

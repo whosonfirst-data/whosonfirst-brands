@@ -1,6 +1,33 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414463, 
+  "wof:brand_name": "Red Cross", 
+  "wof:brand_id": 420574907, 
+  "wof:categories": [
+    "sg:services=social_services", 
+    "sg:services=organizations", 
+    "sg:services=health_services", 
+    "services:health_services=clinic", 
+    "services:organizations=professional_association", 
+    "services:organizations=membership_organization", 
+    "sg:public_place=government", 
+    "services:organizations=nonprofit_organization", 
+    "sg:public_place=education", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional", 
+    "retail_goods:shopping=thrift_store", 
+    "services:professional=detective_and_security_services", 
+    "manufacturing_and_wholesale_goods:wholesale=medical_equipment_and_supplies", 
+    "public_place:education=special_training", 
+    "public_place:government=fire_station", 
+    "public_place:government=office", 
+    "services:organizations=community_association", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "public_place:education=school", 
+    "public_place:education=vocational_school", 
+    "public_place:government=city_hall", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:health_services=medical_lab", 
+    "services:organizations=labor_organization"
+  ], 
   "wof:tags": [
     "aid", 
     "profit", 
@@ -45,6 +72,6 @@
     "training", 
     "voluntary"
   ], 
-  "wof:brand_name": "Red Cross", 
-  "wof:brand_id": 420574907
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416236
 }

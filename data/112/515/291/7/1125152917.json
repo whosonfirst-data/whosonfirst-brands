@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414501, 
+  "wof:brand_name": "Uncle Bob's Self Storage", 
+  "wof:brand_id": 1125152917, 
+  "wof:categories": [
+    "services:retail=storage", 
+    "sg:services=retail", 
+    "sg:services=personal", 
+    "sg:transportation=freight", 
+    "manufacturing_and_wholesale_goods:manufacturing=paper_products", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "self", 
     "commercial", 
@@ -20,6 +29,6 @@
     "services-labor", 
     "special"
   ], 
-  "wof:brand_name": "Uncle Bob's Self Storage", 
-  "wof:brand_id": 1125152917
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416267
 }

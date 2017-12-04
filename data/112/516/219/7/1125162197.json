@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414546, 
+  "wof:brand_name": "Convenience Plus", 
+  "wof:brand_id": 1125162197, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=vending_machines", 
+    "retail_goods:food_and_beverages=candy", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "services:banks_and_credit_unions=bank", 
+    "services:professional=advertising", 
+    "sg:food_and_drink=deli", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "convenience", 
     "gasoline", 
@@ -22,6 +40,6 @@
     "transfer", 
     "wine"
   ], 
-  "wof:brand_name": "Convenience Plus", 
-  "wof:brand_id": 1125162197
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416302
 }

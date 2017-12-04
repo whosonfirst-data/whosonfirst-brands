@@ -1,10 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414476, 
+  "wof:brand_name": "Global Video (Uk)", 
+  "wof:brand_id": 1125157171, 
+  "wof:categories": [
+    "entertainment:cinema=movie_rental", 
+    "sg:entertainment=cinema"
+  ], 
   "wof:tags": [
     "library", 
     "video"
   ], 
-  "wof:brand_name": "Global Video (Uk)", 
-  "wof:brand_id": 1125157171
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416247
 }

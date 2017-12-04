@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414446, 
+  "wof:brand_name": "Nextel Retail", 
+  "wof:brand_id": 420575473, 
+  "wof:categories": [
+    "sg:services=utilities", 
+    "services:utilities=mobile_phone", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=mobile_phones", 
+    "services:utilities=telephone"
+  ], 
   "wof:tags": [
     "cellular", 
     "telephone", 
@@ -9,6 +16,6 @@
     "communications", 
     "radiotelephone"
   ], 
-  "wof:brand_name": "Nextel Retail", 
-  "wof:brand_id": 420575473
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416223
 }

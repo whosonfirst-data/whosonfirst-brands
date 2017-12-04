@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414557, 
+  "wof:brand_name": "Pier 1", 
+  "wof:brand_id": 1125149521, 
+  "wof:categories": [
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:home_and_garden=furniture", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=department_store", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "services:retail=portrait_studio", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "store", 
     "furniture", 
@@ -23,6 +35,6 @@
     "sewing", 
     "shop"
   ], 
-  "wof:brand_name": "Pier 1", 
-  "wof:brand_id": 1125149521
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416311
 }

@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414509, 
+  "wof:brand_name": "Domino", 
+  "wof:brand_id": 1125151175, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:shopping=books", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:social_services=child_care", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "pizza", 
     "baby", 
@@ -9,6 +19,6 @@
     "nursery", 
     "sitting"
   ], 
-  "wof:brand_name": "Domino", 
-  "wof:brand_id": 1125151175
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416273
 }

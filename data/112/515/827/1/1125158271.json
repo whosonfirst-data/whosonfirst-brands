@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414529, 
+  "wof:brand_name": "Eckerd Express Photo", 
+  "wof:brand_id": 1125158271, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "sg:retail_goods=shopping", 
+    "services:retail=photofinishing", 
+    "retail_goods:shopping=pharmacy", 
+    "services:retail=portrait_studio", 
+    "retail_goods:shopping=photographic_equipment", 
+    "services:professional=art_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "drugstore", 
     "finishing", 
@@ -13,6 +23,6 @@
     "st", 
     "suppl"
   ], 
-  "wof:brand_name": "Eckerd Express Photo", 
-  "wof:brand_id": 1125158271
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416289
 }

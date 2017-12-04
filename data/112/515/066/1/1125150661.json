@@ -1,6 +1,32 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414527, 
+  "wof:brand_name": "Cardinal Health", 
+  "wof:brand_id": 1125150661, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=pharmacy", 
+    "manufacturing_and_wholesale_goods:wholesale=drugs", 
+    "sg:services=health_services", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:wholesale=medical_equipment_and_supplies", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "services:health_services=clinic", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "services:health_services=doctor", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "services:health_services=hospital", 
+    "services:insurance=health_insurance", 
+    "sg:services=insurance", 
+    "entertainment:sports_and_exercise=gym", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "public_place:education=vocational_school", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:health_services=podiatrist", 
+    "services:professional=employment_agencies", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "pharmaceutical", 
     "product", 
@@ -48,6 +74,6 @@
     "trainer", 
     "welfare"
   ], 
-  "wof:brand_name": "Cardinal Health", 
-  "wof:brand_id": 1125150661
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416288
 }

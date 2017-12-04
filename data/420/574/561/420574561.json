@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414463, 
+  "wof:brand_name": "Manpower", 
+  "wof:brand_id": 420574561, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=employment_agencies", 
+    "public_place:education=special_training", 
+    "sg:public_place=education", 
+    "services:social_services=job_training", 
+    "sg:services=social_services", 
+    "services:professional=management_and_consulting", 
+    "services:retail=repair_shop", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "manufacturing_and_wholesale_goods:wholesale=beer", 
+    "public_place:government=office", 
+    "services:professional=business_services", 
+    "services:professional=secretarial_services", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=government"
+  ], 
   "wof:tags": [
     "help", 
     "temporary", 
@@ -45,6 +65,6 @@
     "technology", 
     "wire"
   ], 
-  "wof:brand_name": "Manpower", 
-  "wof:brand_id": 420574561
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416236
 }

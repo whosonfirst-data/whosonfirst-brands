@@ -1,6 +1,40 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414479, 
+  "wof:brand_name": "Great American", 
+  "wof:brand_id": 1125154209, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=hazard_insurance", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=professional", 
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "services:insurance=life_insurance", 
+    "sg:services=real_estate", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:professional=management_and_consulting", 
+    "services:real_estate=real_estate_agent", 
+    "sg:food_and_drink=restaurant", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=banks_and_credit_unions", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "manufacturing_and_wholesale_goods:wholesale=furniture", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "retail_goods:food_and_beverages=bakery", 
+    "retail_goods:food_and_beverages=dairy", 
+    "retail_goods:home_and_garden=mobile_homes", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:professional=business_services", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:real_estate=real_estate_services", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:retail_goods=shopping", 
+    "sg:transportation=airline"
+  ], 
   "wof:tags": [
     "carrier", 
     "agency", 
@@ -32,6 +66,6 @@
     "product", 
     "store"
   ], 
-  "wof:brand_name": "Great American", 
-  "wof:brand_id": 1125154209
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416249
 }

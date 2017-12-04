@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414536, 
+  "wof:brand_name": "Roto-Rooter Plumbing & Drain Services", 
+  "wof:brand_id": 1125151741, 
+  "wof:categories": [
+    "services:building_and_trades=plumbing", 
+    "sg:services=building_and_trades", 
+    "services:utilities=sewage", 
+    "sg:services=utilities", 
+    "retail_goods:home_and_garden=building_materials", 
+    "services:building_and_trades=construction", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "contractor", 
     "heater", 
@@ -19,6 +28,6 @@
     "industrial", 
     "repair"
   ], 
-  "wof:brand_name": "Roto-Rooter Plumbing & Drain Services", 
-  "wof:brand_id": 1125151741
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416295
 }

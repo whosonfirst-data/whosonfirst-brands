@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414487, 
+  "wof:brand_name": "Liquidation World Inc", 
+  "wof:brand_id": 1125159607, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=department_store", 
+    "services:professional=business_services", 
+    "sg:services=professional", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "shop", 
     "liquidator", 
@@ -9,6 +17,6 @@
     "merchandise", 
     "specializing"
   ], 
-  "wof:brand_name": "Liquidation World Inc", 
-  "wof:brand_id": 1125159607
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416255
 }

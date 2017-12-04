@@ -1,11 +1,17 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414461, 
+  "wof:brand_name": "US Consolidated Farm Svc Agcy", 
+  "wof:brand_id": 420574349, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "services:insurance=insurance_agent", 
+    "sg:services=insurance"
+  ], 
   "wof:tags": [
     "federal", 
     "dev", 
     "planning"
   ], 
-  "wof:brand_name": "US Consolidated Farm Svc Agcy", 
-  "wof:brand_id": 420574349
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416235
 }

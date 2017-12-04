@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414516, 
+  "wof:brand_name": "Concentra Medical Ctr", 
+  "wof:brand_id": 1125156377, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=doctor", 
+    "services:health_services=health_practitioner", 
+    "services:health_services=clinic", 
+    "services:health_services=hospital", 
+    "services:health_services=medical_lab"
+  ], 
   "wof:tags": [
     "clinic", 
     "physician", 
@@ -20,6 +28,6 @@
     "practice", 
     "psychiatry"
   ], 
-  "wof:brand_name": "Concentra Medical Ctr", 
-  "wof:brand_id": 1125156377
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416279
 }

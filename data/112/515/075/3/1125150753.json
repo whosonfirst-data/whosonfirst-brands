@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414506, 
+  "wof:brand_name": "Super Wash", 
+  "wof:brand_id": 1125150753, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=car_wash", 
+    "services:retail=selfservice_laundry", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "services:building_and_trades=construction", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "polishing", 
     "washing", 
@@ -14,6 +26,6 @@
     "mfg", 
     "operated"
   ], 
-  "wof:brand_name": "Super Wash", 
-  "wof:brand_id": 1125150753
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416271
 }

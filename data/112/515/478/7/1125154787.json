@@ -1,6 +1,30 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414513, 
+  "wof:brand_name": "Parcel Plus", 
+  "wof:brand_id": 1125154787, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "services:professional=advertising", 
+    "sg:transportation=freight", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "public_place:government=post_office", 
+    "sg:public_place=government", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:professional=printing_and_photocopies", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "services:professional=lawyer_and_legal_services", 
+    "sg:services=personal", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:manufacturing=paper_products", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "services:retail=pet_boarding", 
+    "services:retail=portrait_studio", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:transportation=transit_center", 
+    "transportation:transit_center=freight"
+  ], 
   "wof:tags": [
     "shipping", 
     "mailing", 
@@ -59,6 +83,6 @@
     "union", 
     "western"
   ], 
-  "wof:brand_name": "Parcel Plus", 
-  "wof:brand_id": 1125154787
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416277
 }

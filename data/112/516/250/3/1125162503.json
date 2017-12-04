@@ -1,6 +1,37 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414545, 
+  "wof:brand_name": "All That Jazz", 
+  "wof:brand_id": 1125162503, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:public_place=education", 
+    "public_place:education=dance_studio", 
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "manufacturing_and_wholesale_goods:manufacturing=textiles", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "public_place:education=special_training", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "retail_goods:shopping=music", 
+    "retail_goods:shopping=musical_instruments", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:building_and_trades=construction", 
+    "services:professional=business_services", 
+    "services:professional=management_and_consulting", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "dancing", 
     "supply", 
@@ -54,6 +85,6 @@
     "theatrical", 
     "watch"
   ], 
-  "wof:brand_name": "All That Jazz", 
-  "wof:brand_id": 1125162503
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416302
 }

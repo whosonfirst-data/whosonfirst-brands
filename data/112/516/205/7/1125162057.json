@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414545, 
+  "wof:brand_name": "Twice Is Nice", 
+  "wof:brand_id": 1125162057, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=used_merchandise", 
+    "sg:services=banks_and_credit_unions", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:banks_and_credit_unions=bank", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "sg:services=professional", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:shopping=shoes", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:organizations=nonprofit_organization", 
+    "services:professional=business_services", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "shop", 
     "consignment", 
@@ -22,6 +38,6 @@
     "used", 
     "wear"
   ], 
-  "wof:brand_name": "Twice Is Nice", 
-  "wof:brand_id": 1125162057
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416302
 }

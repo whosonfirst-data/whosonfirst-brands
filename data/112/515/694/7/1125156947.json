@@ -1,6 +1,25 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414469, 
+  "wof:brand_name": "Danka", 
+  "wof:brand_id": 1125156947, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=office_equipment", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "sg:retail_goods=shopping", 
+    "services:professional=printing_and_photocopies", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=electronics", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:wholesale=computers", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "manufacturing_and_wholesale_goods:wholesale=furniture", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:retail=repair_shop", 
+    "services:utilities=electric", 
+    "sg:services=retail", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "copying", 
     "duplicating", 
@@ -19,6 +38,6 @@
     "supplies-repair", 
     "typewriter"
   ], 
-  "wof:brand_name": "Danka", 
-  "wof:brand_id": 1125156947
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416241
 }

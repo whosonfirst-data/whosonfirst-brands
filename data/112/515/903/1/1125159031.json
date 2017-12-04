@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414512, 
+  "wof:brand_name": "M D A", 
+  "wof:brand_id": 1125159031, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=research", 
+    "services:health_services=doctor", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "organization", 
     "noncommercial", 
@@ -16,6 +22,6 @@
     "fund", 
     "raising"
   ], 
-  "wof:brand_name": "M D A", 
-  "wof:brand_id": 1125159031
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416276
 }

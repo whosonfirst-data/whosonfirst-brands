@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414550, 
+  "wof:brand_name": "Turner Construction Co", 
+  "wof:brand_id": 1125160365, 
+  "wof:categories": [
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:manufacturing=buildings", 
+    "services:professional=management_and_consulting", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "contractor", 
     "general", 
@@ -20,6 +28,6 @@
     "masonry", 
     "nonresidential"
   ], 
-  "wof:brand_name": "Turner Construction Co", 
-  "wof:brand_id": 1125160365
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416306
 }

@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414492, 
+  "wof:brand_name": "ADT Security Svc", 
+  "wof:brand_id": 1125154959, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional", 
+    "services:professional=detective_and_security_services", 
+    "manufacturing_and_wholesale_goods:manufacturing=electronics", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "services:professional=management_and_consulting"
+  ], 
   "wof:tags": [
     "system", 
     "security", 
@@ -17,6 +26,6 @@
     "consultant", 
     "television"
   ], 
-  "wof:brand_name": "ADT Security Svc", 
-  "wof:brand_id": 1125154959
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416260
 }

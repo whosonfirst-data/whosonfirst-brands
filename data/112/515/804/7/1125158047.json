@@ -1,9 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414531, 
+  "wof:brand_name": "Buffalo Grill", 
+  "wof:brand_id": 1125158047, 
+  "wof:categories": [
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel", 
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "eating"
   ], 
-  "wof:brand_name": "Buffalo Grill", 
-  "wof:brand_id": 1125158047
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416291
 }

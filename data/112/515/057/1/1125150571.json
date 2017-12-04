@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414534, 
+  "wof:brand_name": "Interim Healthcare", 
+  "wof:brand_id": 1125150571, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=clinic", 
+    "services:health_services=health_practitioner", 
+    "services:professional=employment_agencies", 
+    "sg:services=professional", 
+    "services:health_services=nursing_and_care_facility", 
+    "sg:services=social_services", 
+    "retail_goods:shopping=pharmacy", 
+    "services:health_services=doctor", 
+    "services:health_services=hospital", 
+    "services:social_services=child_care", 
+    "sg:retail_goods=shopping", 
+    "sg:transportation=local_transit"
+  ], 
   "wof:tags": [
     "home", 
     "nurse", 
@@ -22,6 +37,6 @@
     "temporary", 
     "therapy"
   ], 
-  "wof:brand_name": "Interim Healthcare", 
-  "wof:brand_id": 1125150571
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416293
 }

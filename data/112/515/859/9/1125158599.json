@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414533, 
+  "wof:brand_name": "Personal Finance Co", 
+  "wof:brand_id": 1125158599, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services"
+  ], 
   "wof:tags": [
     "financing", 
     "loan", 
@@ -14,6 +19,6 @@
     "consultant", 
     "planning"
   ], 
-  "wof:brand_name": "Personal Finance Co", 
-  "wof:brand_id": 1125158599
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416292
 }

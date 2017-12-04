@@ -1,11 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414470, 
+  "wof:brand_name": "Forestry Dept", 
+  "wof:brand_id": 1125150205, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:manufacturing=lumber", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "public_place:government=office", 
+    "sg:public_place=government"
+  ], 
   "wof:tags": [
     "government", 
     "conservation", 
     "forestry"
   ], 
-  "wof:brand_name": "Forestry Dept", 
-  "wof:brand_id": 1125150205
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416242
 }

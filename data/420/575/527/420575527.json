@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414447, 
+  "wof:brand_name": "Sketchley Retail Ltd.", 
+  "wof:brand_id": 420575527, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=photofinishing", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:services=professional", 
+    "services:organizations=nonprofit_organization", 
+    "services:professional=art_services", 
+    "services:professional=printing_and_photocopies", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "photographic", 
     "processor", 
@@ -9,6 +19,6 @@
     "engraving", 
     "photographer"
   ], 
-  "wof:brand_name": "Sketchley Retail Ltd.", 
-  "wof:brand_id": 420575527
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416224
 }

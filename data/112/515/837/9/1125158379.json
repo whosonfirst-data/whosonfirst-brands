@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414497, 
+  "wof:brand_name": "Peebles Stores Exclusive Offer", 
+  "wof:brand_id": 1125158379, 
+  "wof:categories": [
+    "retail_goods:shopping=shoes", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=department_store"
+  ], 
   "wof:tags": [
     "apparel", 
     "boys'", 
@@ -10,6 +16,6 @@
     "women's", 
     "store"
   ], 
-  "wof:brand_name": "Peebles Stores Exclusive Offer", 
-  "wof:brand_id": 1125158379
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416264
 }

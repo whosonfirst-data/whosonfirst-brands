@@ -1,6 +1,14 @@
 {
   "wof:brand_name": "Mattress Giant", 
   "wof:brand_id": 1125150329, 
+  "wof:categories": [
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:home_and_garden=carpets_and_floor_coverings", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "mattress", 
     "bed", 
@@ -22,6 +30,6 @@
     1125155161
   ], 
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414477, 
+  "wof:lastmodified": 1512416248, 
   "mz:is_current": 1
 }

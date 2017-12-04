@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414523, 
+  "wof:brand_name": "All About Hair", 
+  "wof:brand_id": 1125152387, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "services:personal=tanning_parlor"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
@@ -14,6 +22,6 @@
     "stylist", 
     "wedding"
   ], 
-  "wof:brand_name": "All About Hair", 
-  "wof:brand_id": 1125152387
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416284
 }

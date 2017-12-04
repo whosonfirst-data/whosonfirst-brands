@@ -1,6 +1,28 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414527, 
+  "wof:brand_name": "Boise Cascade", 
+  "wof:brand_id": 1125157119, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:manufacturing=paper_products", 
+    "manufacturing_and_wholesale_goods:wholesale=furniture", 
+    "manufacturing_and_wholesale_goods:manufacturing=building_materials", 
+    "manufacturing_and_wholesale_goods:wholesale=construction_materials", 
+    "manufacturing_and_wholesale_goods:manufacturing=lumber", 
+    "sg:transportation=freight", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=wood_products", 
+    "manufacturing_and_wholesale_goods:wholesale=office_equipment", 
+    "retail_goods:home_and_garden=building_materials", 
+    "services:professional=management_and_consulting", 
+    "sg:retail_goods=home_and_garden", 
+    "manufacturing_and_wholesale_goods:manufacturing=glass_and_minerals", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "supply", 
     "furniture", 
@@ -64,6 +86,6 @@
     "veneer", 
     "w"
   ], 
-  "wof:brand_name": "Boise Cascade", 
-  "wof:brand_id": 1125157119
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416287
 }

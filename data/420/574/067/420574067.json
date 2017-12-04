@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414459, 
+  "wof:brand_name": "Winn-Dixie", 
+  "wof:brand_id": 420574067, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=pharmacy", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "retail_goods:shopping=florist", 
+    "sg:food_and_drink=bakery", 
+    "sg:food_and_drink=deli", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "services:retail=photofinishing", 
+    "sg:services=retail", 
+    "retail_goods:food_and_beverages=meat_and_fish", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:professional=printing_and_photocopies", 
+    "sg:public_place=place_of_worship", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "grocer", 
     "supermarket", 
@@ -32,6 +52,6 @@
     "store", 
     "wine"
   ], 
-  "wof:brand_name": "Winn-Dixie", 
-  "wof:brand_id": 420574067
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416233
 }

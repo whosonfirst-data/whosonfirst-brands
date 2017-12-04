@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414525, 
+  "wof:brand_name": "Hy-Vee Food Stores", 
+  "wof:brand_id": 1125152409, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=florist", 
+    "sg:services=professional", 
+    "retail_goods:food_and_beverages=bakery", 
+    "retail_goods:shopping=pharmacy", 
+    "services:personal=shoe_repair_and_shine", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:services=personal", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "grocer", 
     "caterer", 
@@ -15,6 +28,6 @@
     "repairing", 
     "seafood"
   ], 
-  "wof:brand_name": "Hy-Vee Food Stores", 
-  "wof:brand_id": 1125152409
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416286
 }

@@ -1,7 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414539, 
-  "wof:tags": [], 
   "wof:brand_name": "Regal Cinema", 
-  "wof:brand_id": 1125160949
+  "wof:brand_id": 1125160949, 
+  "wof:categories": [
+    "entertainment:cinema=movie_theater", 
+    "sg:entertainment=cinema"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416297
 }

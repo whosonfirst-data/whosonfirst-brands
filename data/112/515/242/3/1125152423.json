@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414473, 
+  "wof:brand_name": "Securitas Security Svc USA Inc", 
+  "wof:brand_id": 1125152423, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=detective_and_security_services", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "services:professional=management_and_consulting"
+  ], 
   "wof:tags": [
     "guard", 
     "patrol", 
@@ -16,6 +23,6 @@
     "protective", 
     "related"
   ], 
-  "wof:brand_name": "Securitas Security Svc USA Inc", 
-  "wof:brand_id": 1125152423
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416244
 }

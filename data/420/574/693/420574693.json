@@ -1,12 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414456, 
+  "wof:brand_name": "Dental Surgery", 
+  "wof:brand_id": 420574693, 
+  "wof:categories": [
+    "services:health_services=dentist", 
+    "sg:services=health_services", 
+    "retail_goods:shopping=pharmacy", 
+    "services:health_services=doctor", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "dental", 
     "medicine", 
     "technician", 
     "therapy"
   ], 
-  "wof:brand_name": "Dental Surgery", 
-  "wof:brand_id": 420574693
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416231
 }

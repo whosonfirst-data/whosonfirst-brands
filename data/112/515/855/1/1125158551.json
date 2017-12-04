@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414508, 
+  "wof:brand_name": "Internationl Assn Machinsts/Ae", 
+  "wof:brand_id": 1125158551, 
+  "wof:categories": [
+    "services:organizations=labor_organization", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "association", 
     "industry", 
@@ -8,6 +12,6 @@
     "membership", 
     "mfg"
   ], 
-  "wof:brand_name": "Internationl Assn Machinsts/Ae", 
-  "wof:brand_id": 1125158551
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416273
 }

@@ -1,6 +1,25 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414477, 
+  "wof:brand_name": "Corporate Express Inc", 
+  "wof:brand_id": 1125159843, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:wholesale=furniture", 
+    "retail_goods:home_and_garden=furniture", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=computers", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "manufacturing_and_wholesale_goods:wholesale=office_equipment", 
+    "services:professional=business_services", 
+    "services:professional=computer_services", 
+    "services:professional=management_and_consulting", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "supply", 
     "furniture", 
@@ -42,6 +61,6 @@
     "w", 
     "warehouse"
   ], 
-  "wof:brand_name": "Corporate Express Inc", 
-  "wof:brand_id": 1125159843
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416247
 }

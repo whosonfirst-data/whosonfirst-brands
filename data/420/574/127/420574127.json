@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414462, 
+  "wof:brand_name": "24 Hour Emergency Locksmith", 
+  "wof:brand_id": 420574127, 
+  "wof:categories": [
+    "services:retail=repair_shop", 
+    "sg:services=retail", 
+    "services:building_and_trades=locksmith", 
+    "sg:services=building_and_trades", 
+    "retail_goods:home_and_garden=hardware", 
+    "sg:retail_goods=home_and_garden", 
+    "manufacturing_and_wholesale_goods:manufacturing=soap", 
+    "services:retail=auto_repair", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "lock", 
     "locksmith", 
@@ -12,6 +23,6 @@
     "manufacturer", 
     "wrecker"
   ], 
-  "wof:brand_name": "24 Hour Emergency Locksmith", 
-  "wof:brand_id": 420574127
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416235
 }

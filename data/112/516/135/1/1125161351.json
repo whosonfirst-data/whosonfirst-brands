@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414542, 
+  "wof:brand_name": "ATA Black Belt Academy", 
+  "wof:brand_id": 1125161351, 
+  "wof:categories": [
+    "sg:entertainment=recreation", 
+    "entertainment:arena=sports_club", 
+    "entertainment:sports_and_exercise=gym", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "sg:entertainment=arena", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "arts", 
     "instruction", 
@@ -13,6 +22,6 @@
     "martial art", 
     "physical"
   ], 
-  "wof:brand_name": "ATA Black Belt Academy", 
-  "wof:brand_id": 1125161351
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416299
 }

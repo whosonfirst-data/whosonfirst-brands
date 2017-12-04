@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414491, 
+  "wof:brand_name": "Shopko", 
+  "wof:brand_id": 1125154489, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=pharmacy", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=optical_goods", 
+    "services:health_services=optometrist", 
+    "sg:services=health_services", 
+    "manufacturing_and_wholesale_goods:manufacturing=glass_and_minerals", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "optical", 
     "discount", 
@@ -17,6 +28,6 @@
     "lab", 
     "p"
   ], 
-  "wof:brand_name": "Shopko", 
-  "wof:brand_id": 1125154489
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416259
 }

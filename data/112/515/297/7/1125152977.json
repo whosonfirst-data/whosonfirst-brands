@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414530, 
+  "wof:brand_name": "Seattle's Best Coffee", 
+  "wof:brand_id": 1125152977, 
+  "wof:categories": [
+    "sg:food_and_drink=coffee_and_tea", 
+    "sg:food_and_drink=bakery", 
+    "sg:food_and_drink=restaurant", 
+    "food_and_drink:internet_cafe=none", 
+    "sg:food_and_drink=internet_cafe"
+  ], 
   "wof:tags": [
     "american", 
     "pastry", 
@@ -16,6 +23,6 @@
     "soup", 
     "wrap"
   ], 
-  "wof:brand_name": "Seattle's Best Coffee", 
-  "wof:brand_id": 1125152977
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416290
 }

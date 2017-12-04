@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414545, 
+  "wof:brand_name": "Amerada Hess Corp", 
+  "wof:brand_id": 1125162509, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:manufacturing_and_wholesale_goods=mining_and_drilling", 
+    "sg:services=professional", 
+    "services:utilities=natural_gas", 
+    "sg:services=utilities", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "oil", 
     "petroleum", 
@@ -15,6 +26,6 @@
     "bulk", 
     "storage"
   ], 
-  "wof:brand_name": "Amerada Hess Corp", 
-  "wof:brand_id": 1125162509
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416302
 }

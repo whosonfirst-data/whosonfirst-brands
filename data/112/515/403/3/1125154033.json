@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414493, 
+  "wof:brand_name": "Concord Custom Cleaners", 
+  "wof:brand_id": 1125154033, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "services:personal=shoe_repair_and_shine", 
+    "services:retail=repair_shop", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "cleaners", 
     "drycleaning", 
@@ -19,6 +26,6 @@
     "station", 
     "up"
   ], 
-  "wof:brand_name": "Concord Custom Cleaners", 
-  "wof:brand_id": 1125154033
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416260
 }

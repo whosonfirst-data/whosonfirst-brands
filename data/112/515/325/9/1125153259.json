@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414499, 
+  "wof:brand_name": "Velocity Express Inc", 
+  "wof:brand_id": 1125153259, 
+  "wof:categories": [
+    "sg:transportation=freight", 
+    "services:professional=business_services", 
+    "sg:services=professional", 
+    "retail_goods:home_and_garden=carpets_and_floor_coverings", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:transportation=airline"
+  ], 
   "wof:tags": [
     "delivery", 
     "courier", 
@@ -19,6 +27,6 @@
     "flooring", 
     "storage"
   ], 
-  "wof:brand_name": "Velocity Express Inc", 
-  "wof:brand_id": 1125153259
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416266
 }

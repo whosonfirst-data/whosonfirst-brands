@@ -1,11 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414489, 
+  "wof:brand_name": "Elim Pentecostal Church", 
+  "wof:brand_id": 1125158759, 
+  "wof:categories": [
+    "sg:public_place=place_of_worship", 
+    "sg:services=organizations", 
+    "services:organizations=nonprofit_organization", 
+    "services:organizations=religious_organization", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "organisation", 
     "charitable", 
     "charity"
   ], 
-  "wof:brand_name": "Elim Pentecostal Church", 
-  "wof:brand_id": 1125158759
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416257
 }

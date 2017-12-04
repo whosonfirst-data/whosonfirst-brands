@@ -1,6 +1,31 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414509, 
+  "wof:brand_name": "Sharper Image", 
+  "wof:brand_id": 1125152485, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:services=personal", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:personal=beauty_salon", 
+    "sg:services=professional", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=department_store", 
+    "services:personal=barber", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "services:professional=business_services", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=home_and_garden", 
+    "manufacturing_and_wholesale_goods:manufacturing=jewelry", 
+    "manufacturing_and_wholesale_goods:manufacturing=toys_and_sporting_goods", 
+    "manufacturing_and_wholesale_goods:wholesale=sporting_goods", 
+    "retail_goods:shopping=catalog_store", 
+    "retail_goods:shopping=jewelry", 
+    "services:professional=printing_and_photocopies", 
+    "services:retail=repair_shop", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "general", 
     "merchandise", 
@@ -22,6 +47,6 @@
     "refinish", 
     "upholsterer"
   ], 
-  "wof:brand_name": "Sharper Image", 
-  "wof:brand_id": 1125152485
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416274
 }

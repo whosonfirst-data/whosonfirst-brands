@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414546, 
+  "wof:brand_name": "Mony Life", 
+  "wof:brand_id": 1125161905, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=life_insurance", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:insurance=hazard_insurance", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:insurance=health_insurance", 
+    "services:professional=management_and_consulting", 
+    "services:real_estate=real_estate_operator", 
+    "sg:services=professional", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "agency", 
     "carrier", 
@@ -31,6 +45,6 @@
     "property", 
     "resume"
   ], 
-  "wof:brand_name": "Mony Life", 
-  "wof:brand_id": 1125161905
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416302
 }

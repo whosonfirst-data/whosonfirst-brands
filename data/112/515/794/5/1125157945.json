@@ -1,11 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414530, 
+  "wof:brand_name": "Pinkberry", 
+  "wof:brand_id": 1125157945, 
+  "wof:categories": [
+    "sg:food_and_drink=ice_cream", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=candy", 
+    "retail_goods:food_and_beverages=dairy", 
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "yogurt", 
     "frozen", 
     "dessert"
   ], 
-  "wof:brand_name": "Pinkberry", 
-  "wof:brand_id": 1125157945
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416290
 }

@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414535, 
+  "wof:brand_name": "Publix", 
+  "wof:brand_id": 1125150637, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=pharmacy", 
+    "services:insurance=health_insurance", 
+    "sg:services=insurance", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:food_and_drink=bakery", 
+    "services:health_services=clinic", 
+    "sg:food_and_drink=deli", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "drugstore", 
     "market", 
@@ -17,6 +31,6 @@
     "prod", 
     "product"
   ], 
-  "wof:brand_name": "Publix", 
-  "wof:brand_id": 1125150637
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416294
 }

@@ -1,6 +1,36 @@
 {
   "wof:brand_name": "7-Eleven", 
   "wof:brand_id": 420573767, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=atm", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:food_and_drink=deli", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:food_and_drink=restaurant", 
+    "sg:services=professional", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "retail_goods:shopping=party_supplies", 
+    "sg:services=personal", 
+    "food_and_drink:donuts=none", 
+    "manufacturing_and_wholesale_goods:farming=farm_and_veterinary_services", 
+    "retail_goods:food_and_beverages=dairy", 
+    "retail_goods:home_and_garden=carpets_and_floor_coverings", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=pharmacy", 
+    "retail_goods:shopping=tobacco", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:real_estate=architect", 
+    "sg:food_and_drink=donuts", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "money", 
     "order", 
@@ -50,6 +80,6 @@
     1125151061
   ], 
   "wof:brand_size": "XXL", 
-  "wof:lastmodified": 1512414453, 
+  "wof:lastmodified": 1512416228, 
   "mz:is_current": 1
 }

@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414466, 
+  "wof:brand_name": "Title Cash", 
+  "wof:brand_id": 1125159719, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "retail_goods:shopping=used_merchandise", 
+    "sg:retail_goods=shopping", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "loan", 
     "pawnbroker", 
@@ -15,6 +23,6 @@
     "title", 
     "trust"
   ], 
-  "wof:brand_name": "Title Cash", 
-  "wof:brand_id": 1125159719
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416239
 }

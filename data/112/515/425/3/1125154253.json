@@ -1,12 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414504, 
+  "wof:brand_name": "Sleepys Inc", 
+  "wof:brand_id": 1125154253, 
+  "wof:categories": [
+    "retail_goods:home_and_garden=furniture", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "bedding", 
     "mattress", 
     "headboard", 
     "including"
   ], 
-  "wof:brand_name": "Sleepys Inc", 
-  "wof:brand_id": 1125154253
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416269
 }

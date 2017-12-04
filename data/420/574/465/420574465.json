@@ -1,6 +1,22 @@
 {
   "wof:brand_name": "Toys R Us", 
   "wof:brand_id": 420574465, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:transportation=freight", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "services:professional=management_and_consulting", 
+    "services:social_services=child_care", 
+    "sg:services=professional", 
+    "sg:services=social_services", 
+    "manufacturing_and_wholesale_goods:manufacturing=toys_and_sporting_goods", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "retail_goods:shopping=catalog_store", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "store", 
     "toy", 
@@ -35,6 +51,6 @@
     1125149749
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414457, 
+  "wof:lastmodified": 1512416231, 
   "mz:is_current": 1
 }

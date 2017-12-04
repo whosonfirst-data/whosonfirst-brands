@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414479, 
+  "wof:brand_name": "Slim & Tone", 
+  "wof:brand_id": 1125158397, 
+  "wof:categories": [
+    "entertainment:sports_and_exercise=gym", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:services=personal", 
+    "sg:services=professional", 
+    "entertainment:arena=sports_club", 
+    "retail_goods:food_and_beverages=specialty", 
+    "services:health_services=nursing_and_care_facility", 
+    "services:insurance=health_insurance", 
+    "services:retail=repair_shop", 
+    "sg:entertainment=arena", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=health_services", 
+    "sg:services=insurance", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "health", 
     "gymnasium", 
@@ -20,6 +36,6 @@
     "plan", 
     "woman"
   ], 
-  "wof:brand_name": "Slim & Tone", 
-  "wof:brand_id": 1125158397
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416249
 }

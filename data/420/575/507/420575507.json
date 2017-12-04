@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414451, 
+  "wof:brand_name": "H-E-B", 
+  "wof:brand_id": 420575507, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:shopping=pharmacy", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "retail_goods:shopping=florist", 
+    "sg:food_and_drink=bakery", 
+    "sg:food_and_drink=deli", 
+    "retail_goods:food_and_beverages=liquor_and_beverages"
+  ], 
   "wof:tags": [
     "super", 
     "delicatessen", 
@@ -14,6 +25,6 @@
     "spirit", 
     "wine"
   ], 
-  "wof:brand_name": "H-E-B", 
-  "wof:brand_id": 420575507
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416227
 }

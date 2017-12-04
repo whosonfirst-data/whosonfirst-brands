@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414467, 
+  "wof:brand_name": "Becker", 
+  "wof:brand_id": 1125153141, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:wholesale=furniture", 
+    "public_place:education=special_training", 
+    "retail_goods:home_and_garden=building_materials", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=education", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "adult", 
     "electric", 
@@ -9,6 +17,6 @@
     "manufacturer", 
     "supply"
   ], 
-  "wof:brand_name": "Becker", 
-  "wof:brand_id": 1125153141
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416240
 }

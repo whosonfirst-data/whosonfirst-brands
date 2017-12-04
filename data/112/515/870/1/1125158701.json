@@ -1,7 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414468, 
-  "wof:tags": [], 
   "wof:brand_name": "Amalgamated Transit Union", 
-  "wof:brand_id": 1125158701
+  "wof:brand_id": 1125158701, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=labor_organization", 
+    "services:organizations=professional_association"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416240
 }

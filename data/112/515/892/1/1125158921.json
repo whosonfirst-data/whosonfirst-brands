@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414488, 
+  "wof:brand_name": "Autoworks", 
+  "wof:brand_id": 1125158921, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=auto_repair", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "services:retail=car_wash", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "retail_goods:home_and_garden=building_materials", 
+    "sg:retail_goods=home_and_garden", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=shopping", 
+    "sg:services=personal", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "automobile", 
     "repairing", 
@@ -45,6 +62,6 @@
     "washing", 
     "window"
   ], 
-  "wof:brand_name": "Autoworks", 
-  "wof:brand_id": 1125158921
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416256
 }

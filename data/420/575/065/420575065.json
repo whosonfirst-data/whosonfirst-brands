@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414446, 
+  "wof:brand_name": "Limited Too", 
+  "wof:brand_id": 420575065, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "sg:public_place=shopping_center"
+  ], 
   "wof:tags": [
     "wear", 
     "infant", 
@@ -16,6 +23,6 @@
     "opera", 
     "outlet"
   ], 
-  "wof:brand_name": "Limited Too", 
-  "wof:brand_id": 420575065
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416223
 }

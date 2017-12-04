@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414535, 
+  "wof:brand_name": "Volt Services Group", 
+  "wof:brand_id": 1125150339, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=employment_agencies", 
+    "services:professional=computer_services", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "services:professional=secretarial_services", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "help", 
     "supply", 
@@ -24,6 +32,6 @@
     "sales", 
     "staffing"
   ], 
-  "wof:brand_name": "Volt Services Group", 
-  "wof:brand_id": 1125150339
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416294
 }

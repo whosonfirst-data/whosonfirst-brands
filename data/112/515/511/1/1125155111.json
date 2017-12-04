@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414496, 
+  "wof:brand_name": "Corner Market", 
+  "wof:brand_id": 1125155111, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:food_and_beverages=specialty", 
+    "retail_goods:food_and_beverages=fruits_and_vegetables", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "sg:services=professional", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "retail_goods:food_and_beverages=dairy", 
+    "retail_goods:shopping=florist", 
+    "sg:food_and_drink=deli", 
+    "sg:food_and_drink=restaurant", 
+    "sg:public_place=shopping_center", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "grocer", 
     "market", 
@@ -23,6 +39,6 @@
     "store", 
     "wine"
   ], 
-  "wof:brand_name": "Corner Market", 
-  "wof:brand_id": 1125155111
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416263
 }

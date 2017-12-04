@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414494, 
+  "wof:brand_name": "Rubio's", 
+  "wof:brand_id": 1125151855, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "mexican", 
     "american", 
@@ -16,6 +21,6 @@
     "bar", 
     "grill"
   ], 
-  "wof:brand_name": "Rubio's", 
-  "wof:brand_id": 1125151855
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416261
 }

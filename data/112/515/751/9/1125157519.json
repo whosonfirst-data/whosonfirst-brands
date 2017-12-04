@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414467, 
+  "wof:brand_name": "Tobacco Outlet", 
+  "wof:brand_id": 1125157519, 
+  "wof:categories": [
+    "retail_goods:shopping=tobacco", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:wholesale=tobacco_products", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "manufacturing_and_wholesale_goods:manufacturing=tobacco_products", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "cigar", 
     "cigarette", 
@@ -20,6 +31,6 @@
     "warehouse", 
     "warehousing"
   ], 
-  "wof:brand_name": "Tobacco Outlet", 
-  "wof:brand_id": 1125157519
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416240
 }

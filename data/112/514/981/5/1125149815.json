@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414562, 
+  "wof:brand_name": "Grace Bible Church", 
+  "wof:brand_id": 1125149815, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "sg:public_place=place_of_worship", 
+    "public_place:place_of_worship=church", 
+    "entertainment:cinema=movie_rental", 
+    "public_place:education=preschool", 
+    "public_place:education=school", 
+    "public_place:education=special_training", 
+    "services:building_and_trades=construction", 
+    "services:social_services=child_care", 
+    "sg:entertainment=cinema", 
+    "sg:public_place=education", 
+    "sg:services=building_and_trades", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "church", 
     "churches-interdenominational", 
@@ -32,6 +48,6 @@
     "tape", 
     "video"
   ], 
-  "wof:brand_name": "Grace Bible Church", 
-  "wof:brand_id": 1125149815
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416316
 }

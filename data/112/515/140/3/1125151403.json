@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414516, 
+  "wof:brand_name": "Badcock Home Furnishings Ctr", 
+  "wof:brand_id": 1125151403, 
+  "wof:categories": [
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "retail_goods:home_and_garden=carpets_and_floor_coverings", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:professional=management_and_consulting", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "appliance", 
     "floor", 
@@ -20,6 +30,6 @@
     "sales", 
     "supply"
   ], 
-  "wof:brand_name": "Badcock Home Furnishings Ctr", 
-  "wof:brand_id": 1125151403
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416279
 }

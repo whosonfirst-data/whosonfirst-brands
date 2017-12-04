@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414530, 
+  "wof:brand_name": "Pizzeria", 
+  "wof:brand_id": 1125157947, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=bakery", 
+    "services:real_estate=real_estate_operator", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "eating", 
     "american", 
@@ -9,6 +16,6 @@
     "nonresidential", 
     "pizzeria"
   ], 
-  "wof:brand_name": "Pizzeria", 
-  "wof:brand_id": 1125157947
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416290
 }

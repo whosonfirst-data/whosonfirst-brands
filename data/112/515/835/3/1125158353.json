@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414476, 
+  "wof:brand_name": "Moto Photo Inc", 
+  "wof:brand_id": 1125158353, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=photofinishing", 
+    "services:retail=portrait_studio", 
+    "services:professional=art_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "finishing", 
     "photo", 
@@ -9,6 +16,6 @@
     "store", 
     "business"
   ], 
-  "wof:brand_name": "Moto Photo Inc", 
-  "wof:brand_id": 1125158353
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416247
 }

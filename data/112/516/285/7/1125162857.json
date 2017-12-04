@@ -1,11 +1,17 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414538, 
+  "wof:brand_name": "Victory Christian Ctr", 
+  "wof:brand_id": 1125162857, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "sg:services=social_services", 
+    "services:social_services=child_care"
+  ], 
   "wof:tags": [
     "church", 
     "organization", 
     "welfare"
   ], 
-  "wof:brand_name": "Victory Christian Ctr", 
-  "wof:brand_id": 1125162857
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416296
 }

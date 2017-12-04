@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414551, 
+  "wof:brand_name": "Bradco Supply Corporation", 
+  "wof:brand_id": 1125162543, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:wholesale=construction_materials", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=building_materials", 
+    "manufacturing_and_wholesale_goods:manufacturing=building_materials", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "roofing", 
     "siding", 
@@ -22,6 +33,6 @@
     "structural", 
     "wood"
   ], 
-  "wof:brand_name": "Bradco Supply Corporation", 
-  "wof:brand_id": 1125162543
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416306
 }

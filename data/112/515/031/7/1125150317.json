@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414503, 
+  "wof:brand_name": "Securities America Inc", 
+  "wof:brand_id": 1125150317, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=title_insurance", 
+    "services:professional=detective_and_security_services"
+  ], 
   "wof:tags": [
     "security", 
     "financial", 
@@ -17,6 +27,6 @@
     "stock", 
     "system"
   ], 
-  "wof:brand_name": "Securities America Inc", 
-  "wof:brand_id": 1125150317
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416269
 }

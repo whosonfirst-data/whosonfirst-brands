@@ -1,6 +1,27 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414467, 
+  "wof:brand_name": "Total Image", 
+  "wof:brand_id": 1125151669, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=tanning_parlor", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=shopping", 
+    "services:personal=barber", 
+    "services:personal=nail_salon", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=professional", 
+    "entertainment:sports_and_exercise=gym", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "manufacturing_and_wholesale_goods:manufacturing=signs", 
+    "services:health_services=doctor", 
+    "services:professional=management_and_consulting", 
+    "services:professional=printing_and_photocopies", 
+    "services:retail=portrait_studio", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:services=health_services", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "shop", 
     "salon", 
@@ -30,6 +51,6 @@
     "weight", 
     "woman"
   ], 
-  "wof:brand_name": "Total Image", 
-  "wof:brand_id": 1125151669
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416240
 }

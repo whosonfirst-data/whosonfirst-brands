@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414521, 
+  "wof:brand_name": "ABF", 
+  "wof:brand_id": 1125155713, 
+  "wof:categories": [
+    "sg:transportation=freight", 
+    "manufacturing_and_wholesale_goods:manufacturing=rubber_and_plastics", 
+    "sg:food_and_drink=restaurant", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "trucking", 
     "operator", 
@@ -20,6 +26,6 @@
     "terminal", 
     "truck"
   ], 
-  "wof:brand_name": "ABF", 
-  "wof:brand_id": 1125155713
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416283
 }

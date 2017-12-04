@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414497, 
+  "wof:brand_name": "Paws & Claws", 
+  "wof:brand_id": 1125158377, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "sg:retail_goods=shopping", 
+    "services:retail=animal_services", 
+    "retail_goods:shopping=pets_and_pet_supplies", 
+    "entertainment:recreation=dog_park", 
+    "services:personal=beauty_salon", 
+    "services:retail=pet_boarding", 
+    "sg:entertainment=recreation", 
+    "sg:services=personal", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:home_and_garden=kitchen_supply", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:personal=nail_salon", 
+    "services:retail=veterinary_services", 
+    "services:social_services=child_care", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "pet", 
     "grooming", 
@@ -20,6 +40,6 @@
     "pets", 
     "veterinarian"
   ], 
-  "wof:brand_name": "Paws & Claws", 
-  "wof:brand_id": 1125158377
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416264
 }

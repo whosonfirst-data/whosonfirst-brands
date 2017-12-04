@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414474, 
+  "wof:brand_name": "Cintas Corp", 
+  "wof:brand_id": 1125152333, 
+  "wof:categories": [
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:services=retail", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:wholesale=medical_equipment_and_supplies", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "services:professional=management_and_consulting", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "supply", 
     "uniform", 
@@ -33,6 +51,6 @@
     "shredding", 
     "telemarketing"
   ], 
-  "wof:brand_name": "Cintas Corp", 
-  "wof:brand_id": 1125152333
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416245
 }

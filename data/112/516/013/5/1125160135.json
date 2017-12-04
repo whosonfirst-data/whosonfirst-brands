@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414544, 
+  "wof:brand_name": "Cleary Building Corp", 
+  "wof:brand_id": 1125160135, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "retail_goods:home_and_garden=building_materials", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "prefabricated", 
     "building", 
@@ -14,6 +23,6 @@
     "plate", 
     "warehouse"
   ], 
-  "wof:brand_name": "Cleary Building Corp", 
-  "wof:brand_id": 1125160135
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416301
 }

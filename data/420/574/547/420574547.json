@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414455, 
+  "wof:brand_name": "Piggly Wiggly", 
+  "wof:brand_id": 420574547, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "retail_goods:food_and_beverages=meat_and_fish", 
+    "retail_goods:food_and_beverages=bakery", 
+    "services:professional=business_services", 
+    "sg:food_and_drink=deli", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "grocer", 
     "super", 
@@ -14,6 +24,6 @@
     "florist", 
     "sandwich"
   ], 
-  "wof:brand_name": "Piggly Wiggly", 
-  "wof:brand_id": 420574547
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416230
 }

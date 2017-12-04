@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414461, 
+  "wof:brand_name": "Nationwide Insurance", 
+  "wof:brand_id": 420574187, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=hazard_insurance", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=banks_and_credit_unions", 
+    "services:insurance=life_insurance", 
+    "services:insurance=title_insurance", 
+    "sg:services=professional", 
+    "entertainment:arena=sports_club", 
+    "retail_goods:shopping=department_store", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:professional=business_services", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:professional=management_and_consulting", 
+    "sg:entertainment=arena", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "auto", 
     "casualty", 
@@ -31,6 +49,6 @@
     "resume", 
     "retirement"
   ], 
-  "wof:brand_name": "Nationwide Insurance", 
-  "wof:brand_id": 420574187
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416234
 }

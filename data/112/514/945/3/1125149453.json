@@ -1,6 +1,37 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414562, 
+  "wof:brand_name": "Comcast", 
+  "wof:brand_id": 1125149453, 
+  "wof:categories": [
+    "sg:services=utilities", 
+    "services:utilities=cable", 
+    "sg:services=communications", 
+    "services:communications=television_station", 
+    "sg:services=professional", 
+    "sg:services=personal", 
+    "services:professional=computer_services", 
+    "services:professional=advertising", 
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=construction", 
+    "services:utilities=telephone", 
+    "services:utilities=mobile_phone", 
+    "sg:transportation=freight", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:building_and_trades=electrical", 
+    "services:communications=radio_station", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=shopping", 
+    "entertainment:cinema=movie_rental", 
+    "manufacturing_and_wholesale_goods:manufacturing=buildings", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "services:health_services=doctor", 
+    "services:professional=business_services", 
+    "services:professional=management_and_consulting", 
+    "services:professional=research", 
+    "services:retail=event_space", 
+    "sg:entertainment=cinema", 
+    "sg:services=health_services", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "television", 
     "satellite", 
@@ -73,6 +104,6 @@
     "used", 
     "voice"
   ], 
-  "wof:brand_name": "Comcast", 
-  "wof:brand_id": 1125149453
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416315
 }

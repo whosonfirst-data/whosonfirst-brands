@@ -1,6 +1,31 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414462, 
+  "wof:brand_name": "Transportation Dept", 
+  "wof:brand_id": 420574155, 
+  "wof:categories": [
+    "sg:public_place=government", 
+    "public_place:government=office", 
+    "sg:transportation=school_buses", 
+    "sg:public_place=education", 
+    "public_place:education=school", 
+    "sg:transportation=local_transit", 
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=construction", 
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "sg:services=social_services", 
+    "sg:transportation=freight", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional", 
+    "sg:transportation=bus_station", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "public_place:education=special_training", 
+    "public_place:government=department_of_motor_vehicles", 
+    "services:building_and_trades=landscaping_services", 
+    "services:social_services=job_training", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=utilities", 
+    "sg:transportation=parking"
+  ], 
   "wof:tags": [
     "program", 
     "state", 
@@ -51,6 +76,6 @@
     "truck", 
     "tunnel"
   ], 
-  "wof:brand_name": "Transportation Dept", 
-  "wof:brand_id": 420574155
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416235
 }

@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414476, 
+  "wof:brand_name": "City Cleaners", 
+  "wof:brand_id": 1125156939, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "entertainment:arts_and_performance=art_gallery", 
+    "services:building_and_trades=pest_control", 
+    "services:communications=film_and_video_production", 
+    "services:retail=selfservice_laundry", 
+    "sg:entertainment=arts_and_performance", 
+    "sg:services=building_and_trades", 
+    "sg:services=communications"
+  ], 
   "wof:tags": [
     "cleaners", 
     "drycleaning", 
@@ -16,6 +27,6 @@
     "picture", 
     "rug"
   ], 
-  "wof:brand_name": "City Cleaners", 
-  "wof:brand_id": 1125156939
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416246
 }

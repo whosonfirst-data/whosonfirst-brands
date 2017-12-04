@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414494, 
+  "wof:brand_name": "Melrose", 
+  "wof:brand_id": 1125159941, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=shoes", 
+    "entertainment:travel=hotels_and_motels", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "retail_goods:food_and_beverages=meat_and_fish", 
+    "services:personal=tanning_parlor", 
+    "services:real_estate=real_estate_agent", 
+    "sg:entertainment=travel", 
+    "sg:food_and_drink=bakery", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=personal", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "clothing", 
     "women's", 
@@ -16,6 +32,6 @@
     "to", 
     "wear"
   ], 
-  "wof:brand_name": "Melrose", 
-  "wof:brand_id": 1125159941
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416261
 }

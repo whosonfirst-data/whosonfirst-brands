@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414495, 
+  "wof:brand_name": "Count Wealth Accountants", 
+  "wof:brand_id": 1125150231, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=banks_and_credit_unions", 
+    "services:professional=accounting_and_tax_preparation", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "planning", 
     "advisory", 
@@ -10,6 +16,6 @@
     "accountant", 
     "auditor"
   ], 
-  "wof:brand_name": "Count Wealth Accountants", 
-  "wof:brand_id": 1125150231
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416263
 }

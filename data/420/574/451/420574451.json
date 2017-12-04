@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414456, 
+  "wof:brand_name": "Washington Mutual Bank", 
+  "wof:brand_id": 420574451, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "savings", 
     "federal", 
@@ -30,6 +37,6 @@
     "reserve", 
     "saving"
   ], 
-  "wof:brand_name": "Washington Mutual Bank", 
-  "wof:brand_id": 420574451
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416231
 }

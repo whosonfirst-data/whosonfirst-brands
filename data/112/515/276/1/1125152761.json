@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414500, 
+  "wof:brand_name": "Apple Store", 
+  "wof:brand_id": 1125152761, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "manufacturing_and_wholesale_goods:wholesale=computers", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:shopping=mobile_phones", 
+    "services:professional=computer_services", 
+    "sg:services=professional", 
+    "services:utilities=mobile_phone", 
+    "sg:services=utilities", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "sg:services=communications", 
+    "entertainment:recreation=arcade", 
+    "retail_goods:shopping=books", 
+    "sg:entertainment=recreation"
+  ], 
   "wof:tags": [
     "equipment", 
     "dealer", 
@@ -27,6 +43,6 @@
     "music", 
     "video"
   ], 
-  "wof:brand_name": "Apple Store", 
-  "wof:brand_id": 1125152761
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416266
 }

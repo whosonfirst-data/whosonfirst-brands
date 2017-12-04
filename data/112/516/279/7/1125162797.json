@@ -1,11 +1,15 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414547, 
+  "wof:brand_name": "South Elementary School", 
+  "wof:brand_id": 1125162797, 
+  "wof:categories": [
+    "public_place:education=school", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "elementary", 
     "district", 
     "secondary"
   ], 
-  "wof:brand_name": "South Elementary School", 
-  "wof:brand_id": 1125162797
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416303
 }

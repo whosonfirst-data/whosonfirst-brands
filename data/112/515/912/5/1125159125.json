@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414471, 
+  "wof:brand_name": "Wild Bean Cafe", 
+  "wof:brand_id": 1125159125, 
+  "wof:categories": [
+    "sg:food_and_drink=cafe", 
+    "sg:food_and_drink=coffee_and_tea", 
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "american", 
     "sandwich", 
@@ -8,6 +13,6 @@
     "salad", 
     "soup"
   ], 
-  "wof:brand_name": "Wild Bean Cafe", 
-  "wof:brand_id": 1125159125
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416242
 }

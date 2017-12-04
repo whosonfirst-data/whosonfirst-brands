@@ -1,11 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414499, 
+  "wof:brand_name": "Transworld Systems", 
+  "wof:brand_id": 1125158413, 
+  "wof:categories": [
+    "services:professional=credit_reporting_and_collection", 
+    "sg:services=professional", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "agency", 
     "advisory", 
     "financial"
   ], 
-  "wof:brand_name": "Transworld Systems", 
-  "wof:brand_id": 1125158413
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416266
 }

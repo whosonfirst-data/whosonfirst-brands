@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414466, 
+  "wof:brand_name": "Surgical Associates", 
+  "wof:brand_id": 1125159711, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=doctor", 
+    "manufacturing_and_wholesale_goods:wholesale=hardware", 
+    "services:health_services=medical_lab", 
+    "services:health_services=podiatrist", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "physician", 
     "surgeon", 
@@ -10,6 +18,6 @@
     "plumbing", 
     "supply"
   ], 
-  "wof:brand_name": "Surgical Associates", 
-  "wof:brand_id": 1125159711
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416239
 }

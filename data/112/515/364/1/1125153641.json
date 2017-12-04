@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414478, 
+  "wof:brand_name": "Samsonite", 
+  "wof:brand_id": 1125153641, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=luggage_and_leather_goods", 
+    "manufacturing_and_wholesale_goods:manufacturing=leather_goods", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:wholesale=photographic_equipment", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "services:insurance=hazard_insurance", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=insurance"
+  ], 
   "wof:tags": [
     "outlet", 
     "factory", 
@@ -13,6 +24,6 @@
     "supply", 
     "video"
   ], 
-  "wof:brand_name": "Samsonite", 
-  "wof:brand_id": 1125153641
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416248
 }

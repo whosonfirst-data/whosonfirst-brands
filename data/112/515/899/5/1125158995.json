@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414464, 
+  "wof:brand_name": "Golden China Restaurant", 
+  "wof:brand_id": 1125158995, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "services:retail=event_space", 
+    "sg:services=personal", 
+    "sg:services=professional", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "chinese", 
     "eating", 
@@ -25,6 +32,6 @@
     "style", 
     "wine"
   ], 
-  "wof:brand_name": "Golden China Restaurant", 
-  "wof:brand_id": 1125158995
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416237
 }

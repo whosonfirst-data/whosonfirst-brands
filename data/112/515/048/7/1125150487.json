@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414523, 
+  "wof:brand_name": "Furniture Medic Inc", 
+  "wof:brand_id": 1125150487, 
+  "wof:categories": [
+    "services:retail=repair_shop", 
+    "sg:services=retail", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:home_and_garden=building_materials", 
+    "services:health_services=doctor", 
+    "services:professional=management_and_consulting", 
+    "sg:services=health_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "refinishing", 
     "furniture", 
@@ -24,6 +35,6 @@
     "site", 
     "surgeon"
   ], 
-  "wof:brand_name": "Furniture Medic Inc", 
-  "wof:brand_id": 1125150487
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416284
 }

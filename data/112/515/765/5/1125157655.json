@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414485, 
+  "wof:brand_name": "Lafarge Canada Inc", 
+  "wof:brand_id": 1125157655, 
+  "wof:categories": [
+    "retail_goods:home_and_garden=building_materials", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=construction_materials", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=glass_and_minerals", 
+    "sg:manufacturing_and_wholesale_goods=mining_and_drilling", 
+    "manufacturing_and_wholesale_goods:manufacturing=building_materials", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "concrete", 
     "mixed", 
@@ -17,6 +31,6 @@
     "masonry", 
     "material"
   ], 
-  "wof:brand_name": "Lafarge Canada Inc", 
-  "wof:brand_id": 1125157655
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416254
 }

@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414489, 
+  "wof:brand_name": "Frullati Cafe", 
+  "wof:brand_id": 1125158297, 
+  "wof:categories": [
+    "sg:food_and_drink=bakery", 
+    "sg:food_and_drink=cafe", 
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "sg:food_and_drink=fast_food", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "sandwich", 
     "american", 
@@ -11,6 +20,6 @@
     "cafe", 
     "shop"
   ], 
-  "wof:brand_name": "Frullati Cafe", 
-  "wof:brand_id": 1125158297
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416257
 }

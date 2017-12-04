@@ -1,12 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414537, 
+  "wof:brand_name": "Pilgrim Baptist Church", 
+  "wof:brand_id": 1125160615, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship"
+  ], 
   "wof:tags": [
     "church", 
     "churches-baptist", 
     "churches-baptist-general", 
     "clergy"
   ], 
-  "wof:brand_name": "Pilgrim Baptist Church", 
-  "wof:brand_id": 1125160615
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416295
 }

@@ -1,6 +1,36 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414492, 
+  "wof:brand_name": "Siemens Building Technologies", 
+  "wof:brand_id": 1125152305, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "services:building_and_trades=plumbing", 
+    "sg:services=professional", 
+    "services:building_and_trades=electrical", 
+    "services:building_and_trades=construction", 
+    "services:retail=repair_shop", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:manufacturing=electronics", 
+    "services:professional=detective_and_security_services", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:wholesale=hardware", 
+    "services:utilities=telephone", 
+    "sg:services=utilities", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:professional=management_and_consulting", 
+    "manufacturing_and_wholesale_goods:wholesale=computers", 
+    "manufacturing_and_wholesale_goods:wholesale=construction_materials", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=business_services", 
+    "services:professional=engineering", 
+    "services:real_estate=architect", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "control", 
     "mfg", 
@@ -78,6 +108,6 @@
     "ventilation", 
     "who"
   ], 
-  "wof:brand_name": "Siemens Building Technologies", 
-  "wof:brand_id": 1125152305
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416259
 }

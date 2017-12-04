@@ -1,6 +1,29 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414468, 
+  "wof:brand_name": "United Healthcare", 
+  "wof:brand_id": 1125154937, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=health_insurance", 
+    "sg:services=health_services", 
+    "services:health_services=clinic", 
+    "services:health_services=doctor", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=hazard_insurance", 
+    "entertainment:sports_and_exercise=gym", 
+    "manufacturing_and_wholesale_goods:wholesale=drugs", 
+    "retail_goods:shopping=pharmacy", 
+    "services:health_services=health_practitioner", 
+    "services:health_services=hospital", 
+    "services:health_services=nursing_and_care_facility", 
+    "services:insurance=life_insurance", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping", 
+    "sg:services=social_services", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "plan", 
     "carrier", 
@@ -48,6 +71,6 @@
     "trainer", 
     "trucking"
   ], 
-  "wof:brand_name": "United Healthcare", 
-  "wof:brand_id": 1125154937
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416240
 }

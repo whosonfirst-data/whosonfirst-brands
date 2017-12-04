@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414549, 
+  "wof:brand_name": "Postnet Postal & Business Svc", 
+  "wof:brand_id": 1125160293, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "services:professional=advertising", 
+    "services:professional=printing_and_photocopies", 
+    "sg:transportation=freight", 
+    "services:professional=lawyer_and_legal_services", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "shipping", 
     "mailing", 
@@ -15,6 +24,6 @@
     "receiving", 
     "transmission"
   ], 
-  "wof:brand_name": "Postnet Postal & Business Svc", 
-  "wof:brand_id": 1125160293
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416305
 }

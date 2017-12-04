@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414508, 
+  "wof:brand_name": "Carolina First Bank", 
+  "wof:brand_id": 1125154403, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "state", 
     "commercial", 
@@ -11,6 +15,6 @@
     "loan", 
     "savings"
   ], 
-  "wof:brand_name": "Carolina First Bank", 
-  "wof:brand_id": 1125154403
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416273
 }

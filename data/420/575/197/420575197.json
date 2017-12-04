@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414446, 
+  "wof:brand_name": "Zales Jewelers", 
+  "wof:brand_id": 420575197, 
+  "wof:categories": [
+    "retail_goods:shopping=jewelry", 
+    "sg:retail_goods=shopping", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=jewelry", 
+    "sg:public_place=shopping_center", 
+    "manufacturing_and_wholesale_goods:manufacturing=leather_goods", 
+    "services:retail=repair_shop", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "jeweler", 
     "designer", 
@@ -10,6 +20,6 @@
     "store", 
     "jewelry"
   ], 
-  "wof:brand_name": "Zales Jewelers", 
-  "wof:brand_id": 420575197
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416224
 }

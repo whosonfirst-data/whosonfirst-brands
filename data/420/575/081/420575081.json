@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414445, 
+  "wof:brand_name": "Corrections Dept", 
+  "wof:brand_id": 420575081, 
+  "wof:categories": [
+    "sg:public_place=government", 
+    "public_place:government=jail", 
+    "public_place:government=office", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "institution", 
     "govt", 
@@ -16,6 +24,6 @@
     "support", 
     "surgical"
   ], 
-  "wof:brand_name": "Corrections Dept", 
-  "wof:brand_id": 420575081
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416223
 }

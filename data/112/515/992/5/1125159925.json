@@ -1,6 +1,36 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414532, 
+  "wof:brand_name": "Liberty", 
+  "wof:brand_id": 1125159925, 
+  "wof:categories": [
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=professional", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping", 
+    "food_and_drink:bars_and_pubs=lounge", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "manufacturing_and_wholesale_goods:manufacturing=petroleum_products", 
+    "manufacturing_and_wholesale_goods:wholesale=home_furnishings", 
+    "manufacturing_and_wholesale_goods:wholesale=metals_and_minerals", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "retail_goods:shopping=antiques", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "services:banks_and_credit_unions=bank", 
+    "services:organizations=religious_organization", 
+    "services:professional=employment_agencies", 
+    "services:professional=management_and_consulting", 
+    "services:real_estate=real_estate_operator", 
+    "services:social_services=adult_care", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:food_and_drink=restaurant", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=organizations", 
+    "sg:services=real_estate", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "oil", 
     "building", 
@@ -25,6 +55,6 @@
     "supply", 
     "sushi"
   ], 
-  "wof:brand_name": "Liberty", 
-  "wof:brand_id": 1125159925
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416292
 }

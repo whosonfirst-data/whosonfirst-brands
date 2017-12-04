@@ -1,12 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414486, 
+  "wof:brand_name": "Runza", 
+  "wof:brand_id": 1125156297, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food"
+  ], 
   "wof:tags": [
     "american", 
     "sandwich", 
     "wrap", 
     "burger"
   ], 
-  "wof:brand_name": "Runza", 
-  "wof:brand_id": 1125156297
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416255
 }

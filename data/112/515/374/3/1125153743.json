@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414509, 
+  "wof:brand_name": "Avance", 
+  "wof:brand_id": 1125153743, 
+  "wof:categories": [
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "sg:services=professional", 
+    "services:organizations=community_association", 
+    "services:professional=business_services", 
+    "sg:services=organizations", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "design", 
     "interior", 
@@ -9,6 +18,6 @@
     "designer", 
     "educational"
   ], 
-  "wof:brand_name": "Avance", 
-  "wof:brand_id": 1125153743
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416274
 }

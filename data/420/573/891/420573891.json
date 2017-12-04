@@ -1,6 +1,40 @@
 {
   "wof:brand_name": "Rite Aid", 
   "wof:brand_id": 420573891, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=pharmacy", 
+    "sg:services=retail", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "services:retail=photofinishing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:food_and_beverages=specialty", 
+    "manufacturing_and_wholesale_goods:wholesale=medical_equipment_and_supplies", 
+    "services:retail=portrait_studio", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "sg:services=professional", 
+    "services:professional=printing_and_photocopies", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:transportation=freight", 
+    "manufacturing_and_wholesale_goods:wholesale=drugs", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:services=health_services", 
+    "services:health_services=clinic", 
+    "public_place:government=embassy", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "retail_goods:shopping=department_store", 
+    "services:health_services=doctor", 
+    "services:personal=barber", 
+    "services:personal=beauty_salon", 
+    "services:professional=employment_agencies", 
+    "sg:food_and_drink=restaurant", 
+    "sg:public_place=government", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "aid", 
     "first", 
@@ -66,6 +100,6 @@
     420574093
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414453, 
+  "wof:lastmodified": 1512416228, 
   "mz:is_current": 1
 }

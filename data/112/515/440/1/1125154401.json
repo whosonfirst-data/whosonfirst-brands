@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414508, 
+  "wof:brand_name": "Calvary Assembly Of God", 
+  "wof:brand_id": 1125154401, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "sg:public_place=place_of_worship", 
+    "public_place:place_of_worship=church", 
+    "services:social_services=child_care", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "church", 
     "churches-assemblies", 
@@ -14,6 +22,6 @@
     "religious", 
     "school"
   ], 
-  "wof:brand_name": "Calvary Assembly Of God", 
-  "wof:brand_id": 1125154401
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416273
 }

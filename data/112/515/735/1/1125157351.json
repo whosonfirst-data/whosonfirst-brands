@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414480, 
+  "wof:brand_name": "Cash Connection", 
+  "wof:brand_id": 1125157351, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=tobacco", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=professional", 
+    "retail_goods:shopping=department_store", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=business_services"
+  ], 
   "wof:tags": [
     "cashing", 
     "check", 
@@ -17,6 +30,6 @@
     "shop", 
     "web"
   ], 
-  "wof:brand_name": "Cash Connection", 
-  "wof:brand_id": 1125157351
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416250
 }

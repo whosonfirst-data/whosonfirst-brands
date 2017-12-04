@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414490, 
+  "wof:brand_name": "Homewood Suites", 
+  "wof:brand_id": 1125156583, 
+  "wof:categories": [
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel", 
+    "services:real_estate=real_estate_operator", 
+    "sg:services=real_estate", 
+    "services:professional=management_and_consulting", 
+    "services:retail=event_space", 
+    "sg:services=professional", 
+    "sg:services=retail", 
+    "entertainment:travel=bed_and_breakfast", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "operation", 
     "lodging", 
@@ -25,6 +37,6 @@
     "s", 
     "venue"
   ], 
-  "wof:brand_name": "Homewood Suites", 
-  "wof:brand_id": 1125156583
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416258
 }

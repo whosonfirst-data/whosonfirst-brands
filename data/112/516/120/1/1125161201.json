@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414538, 
+  "wof:brand_name": "Microtel", 
+  "wof:brand_id": 1125161201, 
+  "wof:categories": [
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional", 
+    "services:building_and_trades=construction", 
+    "services:retail=repair_shop", 
+    "sg:services=building_and_trades", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "operation", 
     "lodging", 
@@ -18,6 +28,6 @@
     "telecommunication", 
     "television"
   ], 
-  "wof:brand_name": "Microtel", 
-  "wof:brand_id": 1125161201
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416296
 }

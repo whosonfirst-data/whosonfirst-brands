@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414502, 
+  "wof:brand_name": "Ad Delhaize", 
+  "wof:brand_id": 1125151755, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:food_and_drink=bakery"
+  ], 
   "wof:tags": [
     "department", 
     "store", 
@@ -8,6 +14,6 @@
     "confectioner", 
     "grocer"
   ], 
-  "wof:brand_name": "Ad Delhaize", 
-  "wof:brand_id": 1125151755
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416268
 }

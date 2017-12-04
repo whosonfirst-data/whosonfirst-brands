@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414458, 
+  "wof:brand_name": "Met Life", 
+  "wof:brand_id": 420574481, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:insurance=hazard_insurance", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:insurance=health_insurance", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:real_estate=real_estate_agent", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "financial", 
     "pension", 
@@ -28,6 +44,6 @@
     "retirement", 
     "security"
   ], 
-  "wof:brand_name": "Met Life", 
-  "wof:brand_id": 420574481
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416232
 }

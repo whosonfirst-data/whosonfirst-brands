@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414447, 
+  "wof:brand_name": "Abercrombie & Fitch", 
+  "wof:brand_id": 420575873, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=department_store", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "sg:public_place=shopping_center"
+  ], 
   "wof:tags": [
     "furnishing", 
     "clothing", 
@@ -19,6 +28,6 @@
     "used", 
     "wear"
   ], 
-  "wof:brand_name": "Abercrombie & Fitch", 
-  "wof:brand_id": 420575873
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416224
 }

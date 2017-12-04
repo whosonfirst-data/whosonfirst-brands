@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414524, 
+  "wof:brand_name": "Dolex Dollar Express Inc", 
+  "wof:brand_id": 1125151981, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "retail_goods:shopping=department_store", 
+    "manufacturing_and_wholesale_goods:manufacturing=paper_products", 
+    "services:insurance=insurance_agent", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=insurance", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "money", 
     "transfer", 
@@ -23,6 +37,6 @@
     "operator", 
     "trucking"
   ], 
-  "wof:brand_name": "Dolex Dollar Express Inc", 
-  "wof:brand_id": 1125151981
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416285
 }

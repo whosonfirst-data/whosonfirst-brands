@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414479, 
+  "wof:brand_name": "Parole Office", 
+  "wof:brand_id": 1125159641, 
+  "wof:categories": [
+    "sg:services=social_services", 
+    "sg:public_place=government", 
+    "public_place:government=jail", 
+    "public_place:education=library", 
+    "public_place:government=office", 
+    "public_place:government=police_station", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "probation", 
     "correctional", 
@@ -12,6 +21,6 @@
     "government-state", 
     "law"
   ], 
-  "wof:brand_name": "Parole Office", 
-  "wof:brand_id": 1125159641
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416249
 }

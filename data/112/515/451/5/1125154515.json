@@ -1,11 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414474, 
+  "wof:brand_name": "Casey's Carry Out Pizza", 
+  "wof:brand_id": 1125154515, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "pizza", 
     "out", 
     "eating"
   ], 
-  "wof:brand_name": "Casey's Carry Out Pizza", 
-  "wof:brand_id": 1125154515
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416245
 }

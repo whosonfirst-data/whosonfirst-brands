@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414531, 
+  "wof:brand_name": "American Heart Assn", 
+  "wof:brand_id": 1125151491, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=professional_association", 
+    "sg:services=health_services", 
+    "services:health_services=clinic", 
+    "sg:services=social_services", 
+    "services:organizations=nonprofit_organization", 
+    "services:health_services=doctor", 
+    "services:organizations=membership_organization", 
+    "services:professional=research", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "welfare", 
     "organization", 
@@ -11,6 +23,6 @@
     "physician", 
     "surgeon"
   ], 
-  "wof:brand_name": "American Heart Assn", 
-  "wof:brand_id": 1125151491
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416291
 }

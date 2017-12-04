@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414492, 
+  "wof:brand_name": "Fashion Cents", 
+  "wof:brand_id": 1125150085, 
+  "wof:categories": [
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "accessory", 
     "clothing", 
@@ -11,6 +17,6 @@
     "wear", 
     "woman"
   ], 
-  "wof:brand_name": "Fashion Cents", 
-  "wof:brand_id": 1125150085
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416260
 }

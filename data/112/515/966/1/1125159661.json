@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414481, 
+  "wof:brand_name": "Raceway", 
+  "wof:brand_id": 1125159661, 
+  "wof:categories": [
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "entertainment:sports_and_exercise=race_track", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:services=retail", 
+    "entertainment:cinema=movie_rental", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=pets_and_pet_supplies", 
+    "services:retail=auto_repair", 
+    "services:retail=car_wash", 
+    "sg:entertainment=cinema", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "oil", 
     "racing", 
@@ -24,6 +44,6 @@
     "vehicle", 
     "video"
   ], 
-  "wof:brand_name": "Raceway", 
-  "wof:brand_id": 1125159661
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416251
 }

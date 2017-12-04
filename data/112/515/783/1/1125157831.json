@@ -1,6 +1,37 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414521, 
+  "wof:brand_name": "Design Studio", 
+  "wof:brand_id": 1125157831, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "services:personal=beauty_salon", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=personal", 
+    "retail_goods:home_and_garden=furniture", 
+    "services:real_estate=architect", 
+    "sg:services=real_estate", 
+    "services:building_and_trades=construction", 
+    "services:professional=art_services", 
+    "sg:retail_goods=shopping", 
+    "sg:services=building_and_trades", 
+    "services:professional=advertising", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "manufacturing_and_wholesale_goods:manufacturing=jewelry", 
+    "manufacturing_and_wholesale_goods:manufacturing=signs", 
+    "manufacturing_and_wholesale_goods:manufacturing=toys_and_sporting_goods", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "manufacturing_and_wholesale_goods:wholesale=furniture", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:home_and_garden=building_materials", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:retail=repair_shop", 
+    "sg:services=retail", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "design", 
     "interior", 
@@ -44,6 +75,6 @@
     "wallpaper", 
     "wooden"
   ], 
-  "wof:brand_name": "Design Studio", 
-  "wof:brand_id": 1125157831
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416283
 }

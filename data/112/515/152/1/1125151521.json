@@ -1,6 +1,25 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414534, 
+  "wof:brand_name": "Suncoast", 
+  "wof:brand_id": 1125151521, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=music", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "entertainment:cinema=movie_rental", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:entertainment=cinema", 
+    "sg:services=banks_and_credit_unions", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "services:communications=film_and_video_production", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=communications", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "services:building_and_trades=construction", 
+    "services:professional=advertising", 
+    "sg:food_and_drink=restaurant", 
+    "sg:services=building_and_trades", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "tape", 
     "video", 
@@ -35,6 +54,6 @@
     "repair", 
     "rooms"
   ], 
-  "wof:brand_name": "Suncoast", 
-  "wof:brand_id": 1125151521
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416293
 }

@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414528, 
+  "wof:brand_name": "Qdoba Mexican Grill", 
+  "wof:brand_id": 1125151325, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=professional", 
+    "retail_goods:food_and_beverages=ethnic_foods", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "sg:food_and_drink=coffee_and_tea"
+  ], 
   "wof:tags": [
     "mexican", 
     "take", 
@@ -12,6 +21,6 @@
     "spirit", 
     "wine"
   ], 
-  "wof:brand_name": "Qdoba Mexican Grill", 
-  "wof:brand_id": 1125151325
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416289
 }

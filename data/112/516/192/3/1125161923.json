@@ -1,10 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414540, 
+  "wof:brand_name": "North Lincolnshire Council", 
+  "wof:brand_id": 1125161923, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "public_place:education=school", 
+    "sg:public_place=education", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "local", 
     "authority"
   ], 
-  "wof:brand_name": "North Lincolnshire Council", 
-  "wof:brand_id": 1125161923
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416298
 }

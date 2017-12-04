@@ -1,6 +1,39 @@
 {
   "wof:brand_name": "Veterans of Foreign Wars", 
   "wof:brand_id": 1125149581, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=community_association", 
+    "services:organizations=nonprofit_organization", 
+    "services:organizations=professional_association", 
+    "services:organizations=membership_organization", 
+    "sg:entertainment=recreation", 
+    "sg:services=professional", 
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:services=social_services", 
+    "services:retail=event_space", 
+    "sg:services=retail", 
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "services:professional=employment_agencies", 
+    "services:professional=business_services", 
+    "entertainment:arts_and_performance=jazz_and_blues", 
+    "entertainment:travel=campground", 
+    "public_place:community_center=social", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "services:health_services=nursing_and_care_facility", 
+    "services:organizations=labor_organization", 
+    "services:real_estate=real_estate_operator", 
+    "sg:entertainment=arts_and_performance", 
+    "sg:entertainment=travel", 
+    "sg:public_place=community_center", 
+    "sg:public_place=exhibition_hall", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=health_services", 
+    "sg:services=personal", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "military", 
     "club", 
@@ -73,6 +106,6 @@
     1125160035
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414561, 
+  "wof:lastmodified": 1512416314, 
   "mz:is_current": 1
 }

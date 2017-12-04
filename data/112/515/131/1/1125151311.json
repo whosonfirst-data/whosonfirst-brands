@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414497, 
+  "wof:brand_name": "Keybank", 
+  "wof:brand_id": 1125151311, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "commercial", 
     "national", 
@@ -15,6 +21,6 @@
     "reg", 
     "savings"
   ], 
-  "wof:brand_name": "Keybank", 
-  "wof:brand_id": 1125151311
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416264
 }

@@ -1,7 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414470, 
-  "wof:tags": [], 
   "wof:brand_name": "Banque Royale", 
-  "wof:brand_id": 1125153069
+  "wof:brand_id": 1125153069, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416242
 }

@@ -1,11 +1,22 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414526, 
+  "wof:brand_name": "National Assn-Letter Carriers", 
+  "wof:brand_id": 1125150749, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=labor_organization", 
+    "services:organizations=professional_association", 
+    "public_place:government=office", 
+    "services:organizations=community_association", 
+    "services:organizations=nonprofit_organization", 
+    "services:professional=advertising", 
+    "sg:public_place=government", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "club", 
     "mailing", 
     "shipping"
   ], 
-  "wof:brand_name": "National Assn-Letter Carriers", 
-  "wof:brand_id": 1125150749
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416287
 }

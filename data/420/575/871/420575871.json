@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414447, 
+  "wof:brand_name": "Wine Rack", 
+  "wof:brand_id": 420575871, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "services:professional=business_services", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "services:banks_and_credit_unions=bureau_de_change", 
+    "sg:services=banks_and_credit_unions", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "wine", 
     "beer", 
@@ -11,6 +24,6 @@
     "store", 
     "liquor"
   ], 
-  "wof:brand_name": "Wine Rack", 
-  "wof:brand_id": 420575871
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416224
 }

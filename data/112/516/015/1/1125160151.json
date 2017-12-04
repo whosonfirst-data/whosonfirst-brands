@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414537, 
+  "wof:brand_name": "Discount Cigarettes", 
+  "wof:brand_id": 1125160151, 
+  "wof:categories": [
+    "retail_goods:shopping=tobacco", 
+    "sg:retail_goods=shopping", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "manufacturing_and_wholesale_goods:wholesale=tobacco_products", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "cigar", 
     "cigarette", 
@@ -8,6 +17,6 @@
     "shop", 
     "product"
   ], 
-  "wof:brand_name": "Discount Cigarettes", 
-  "wof:brand_id": 1125160151
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416296
 }

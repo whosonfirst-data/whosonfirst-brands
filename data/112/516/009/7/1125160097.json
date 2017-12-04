@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414542, 
+  "wof:brand_name": "Bookkeeping Plus", 
+  "wof:brand_id": 1125160097, 
+  "wof:categories": [
+    "services:professional=accounting_and_tax_preparation", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=office_equipment", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "services:professional=management_and_consulting", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "bookkeeping", 
     "general", 
@@ -14,6 +23,6 @@
     "stationery", 
     "system"
   ], 
-  "wof:brand_name": "Bookkeeping Plus", 
-  "wof:brand_id": 1125160097
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416300
 }

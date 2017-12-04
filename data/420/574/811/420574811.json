@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414458, 
+  "wof:brand_name": "Kelly Services", 
+  "wof:brand_id": 420574811, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=employment_agencies", 
+    "services:health_services=clinic", 
+    "sg:services=health_services", 
+    "manufacturing_and_wholesale_goods:wholesale=hardware", 
+    "services:professional=management_and_consulting", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "help", 
     "supply", 
@@ -24,6 +33,6 @@
     "provides", 
     "scientific"
   ], 
-  "wof:brand_name": "Kelly Services", 
-  "wof:brand_id": 420574811
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416233
 }

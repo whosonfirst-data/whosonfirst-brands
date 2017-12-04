@@ -1,10 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414539, 
+  "wof:brand_name": "Guardsmark Inc", 
+  "wof:brand_id": 1125160847, 
+  "wof:categories": [
+    "services:professional=detective_and_security_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "guard", 
     "patrol"
   ], 
-  "wof:brand_name": "Guardsmark Inc", 
-  "wof:brand_id": 1125160847
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416297
 }

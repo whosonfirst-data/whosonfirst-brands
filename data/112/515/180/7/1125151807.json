@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414473, 
+  "wof:brand_name": "United States Cellular Corp", 
+  "wof:brand_id": 1125151807, 
+  "wof:categories": [
+    "sg:services=utilities", 
+    "services:utilities=mobile_phone", 
+    "sg:retail_goods=shopping", 
+    "services:utilities=telephone", 
+    "services:professional=accounting_and_tax_preparation", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "communication", 
     "radiotelephone", 
@@ -22,6 +30,6 @@
     "telecommunication", 
     "wireless"
   ], 
-  "wof:brand_name": "United States Cellular Corp", 
-  "wof:brand_id": 1125151807
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416244
 }

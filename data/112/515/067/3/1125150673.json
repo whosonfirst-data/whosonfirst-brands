@@ -1,6 +1,28 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414497, 
+  "wof:brand_name": "International Paper Co", 
+  "wof:brand_id": 1125150673, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=paper_products", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:manufacturing=lumber", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "sg:transportation=freight", 
+    "manufacturing_and_wholesale_goods:wholesale=construction_materials", 
+    "sg:services=banks_and_credit_unions", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "manufacturing_and_wholesale_goods:manufacturing=wood_products", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:professional=research", 
+    "services:utilities=recycling", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "mfg", 
     "box", 
@@ -57,6 +79,6 @@
     "tree", 
     "work"
   ], 
-  "wof:brand_name": "International Paper Co", 
-  "wof:brand_id": 1125150673
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416264
 }

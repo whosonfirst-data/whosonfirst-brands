@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414550, 
+  "wof:brand_name": "Al's Formal Wear", 
+  "wof:brand_id": 1125161683, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=bridal"
+  ], 
   "wof:tags": [
     "formal", 
     "wear", 
@@ -14,6 +20,6 @@
     "store", 
     "women's"
   ], 
-  "wof:brand_name": "Al's Formal Wear", 
-  "wof:brand_id": 1125161683
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416305
 }

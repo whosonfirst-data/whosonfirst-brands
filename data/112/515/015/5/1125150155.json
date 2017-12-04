@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414465, 
+  "wof:brand_name": "Giant Eagle", 
+  "wof:brand_id": 1125150155, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=pharmacy", 
+    "retail_goods:shopping=florist", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "sg:food_and_drink=bakery", 
+    "sg:services=banks_and_credit_unions", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "entertainment:cinema=movie_rental", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:entertainment=cinema", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "grocer", 
     "drugstore", 
@@ -30,6 +50,6 @@
     "mfg", 
     "oil"
   ], 
-  "wof:brand_name": "Giant Eagle", 
-  "wof:brand_id": 1125150155
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416238
 }

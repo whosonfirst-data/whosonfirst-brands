@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414452, 
+  "wof:brand_name": "Laboratory Corporation America", 
+  "wof:brand_id": 420575097, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=medical_lab", 
+    "sg:services=professional", 
+    "services:professional=research", 
+    "services:health_services=clinic", 
+    "services:professional=testing_lab", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "services:health_services=doctor", 
+    "services:organizations=membership_organization", 
+    "services:professional=accounting_and_tax_preparation", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "laboratory", 
     "testing", 
@@ -23,6 +37,6 @@
     "photographic", 
     "satellite"
   ], 
-  "wof:brand_name": "Laboratory Corporation America", 
-  "wof:brand_id": 420575097
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416227
 }

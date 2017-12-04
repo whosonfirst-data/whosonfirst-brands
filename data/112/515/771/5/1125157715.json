@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414482, 
+  "wof:brand_name": "Schools-Public", 
+  "wof:brand_id": 1125157715, 
+  "wof:categories": [
+    "public_place:education=school", 
+    "sg:public_place=education", 
+    "public_place:education=university", 
+    "services:organizations=nonprofit_organization", 
+    "sg:services=organizations", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "elementary", 
     "high", 
@@ -11,6 +19,6 @@
     "community", 
     "general"
   ], 
-  "wof:brand_name": "Schools-Public", 
-  "wof:brand_id": 1125157715
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416252
 }

@@ -1,10 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414563, 
+  "wof:brand_name": "La Poste Suisse", 
+  "wof:brand_id": 1125149029, 
+  "wof:categories": [
+    "public_place:government=post_office", 
+    "sg:public_place=government"
+  ], 
   "wof:tags": [
     "die", 
     "poststellen"
   ], 
-  "wof:brand_name": "La Poste Suisse", 
-  "wof:brand_id": 1125149029
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416316
 }

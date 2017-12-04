@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414531, 
+  "wof:brand_name": "Bible Missionary Church", 
+  "wof:brand_id": 1125158041, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship"
+  ], 
   "wof:tags": [
     "church", 
     "churches-interdenominational", 
@@ -15,6 +21,6 @@
     "place", 
     "worship"
   ], 
-  "wof:brand_name": "Bible Missionary Church", 
-  "wof:brand_id": 1125158041
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416291
 }

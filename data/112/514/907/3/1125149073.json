@@ -1,11 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414563, 
+  "wof:brand_name": "State Liquor Store", 
+  "wof:brand_id": 1125149073, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "sg:retail_goods=food_and_beverages", 
+    "manufacturing_and_wholesale_goods:wholesale=wine_and_distilled_alcoholic_beverages", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "alcoholic", 
     "liquor", 
     "store"
   ], 
-  "wof:brand_name": "State Liquor Store", 
-  "wof:brand_id": 1125149073
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416316
 }

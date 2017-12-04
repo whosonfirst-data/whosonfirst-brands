@@ -1,12 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414541, 
+  "wof:brand_name": "Evangelical Covenant Church", 
+  "wof:brand_id": 1125160165, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "sg:public_place=place_of_worship", 
+    "public_place:place_of_worship=church"
+  ], 
   "wof:tags": [
     "church", 
     "churches-covenant", 
     "churches-evangelical", 
     "covenant"
   ], 
-  "wof:brand_name": "Evangelical Covenant Church", 
-  "wof:brand_id": 1125160165
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416298
 }

@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414515, 
+  "wof:brand_name": "Liquor King", 
+  "wof:brand_id": 1125152221, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "manufacturing_and_wholesale_goods:wholesale=wine_and_distilled_alcoholic_beverages", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "store", 
     "drink", 
@@ -13,6 +22,6 @@
     "check", 
     "liquors-wholesale"
   ], 
-  "wof:brand_name": "Liquor King", 
-  "wof:brand_id": 1125152221
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416278
 }

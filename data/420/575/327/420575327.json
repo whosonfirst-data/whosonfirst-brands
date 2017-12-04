@@ -1,6 +1,31 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414449, 
+  "wof:brand_name": "Human Services Dept", 
+  "wof:brand_id": 420575327, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:services=social_services", 
+    "services:social_services=child_care", 
+    "sg:services=organizations", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "services:organizations=professional_association", 
+    "sg:services=health_services", 
+    "services:health_services=clinic", 
+    "services:organizations=nonprofit_organization", 
+    "services:social_services=adult_care", 
+    "public_place:education=school", 
+    "public_place:government=court_house", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "services:health_services=medical_lab", 
+    "services:organizations=community_association", 
+    "services:professional=business_services", 
+    "services:social_services=job_training", 
+    "sg:entertainment=recreation", 
+    "sg:public_place=education", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:transportation=local_transit"
+  ], 
   "wof:tags": [
     "resource", 
     "state", 
@@ -56,6 +81,6 @@
     "to", 
     "work"
   ], 
-  "wof:brand_name": "Human Services Dept", 
-  "wof:brand_id": 420575327
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416226
 }

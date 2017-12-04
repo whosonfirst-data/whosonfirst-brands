@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414478, 
+  "wof:brand_name": "Uswa", 
+  "wof:brand_id": 1125150109, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=labor_organization", 
+    "services:building_and_trades=construction", 
+    "services:organizations=religious_organization", 
+    "sg:retail_goods=shopping", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "union", 
     "industrial", 
@@ -12,6 +20,6 @@
     "united", 
     "worker"
   ], 
-  "wof:brand_name": "Uswa", 
-  "wof:brand_id": 1125150109
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416248
 }

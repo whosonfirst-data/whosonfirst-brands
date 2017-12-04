@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414542, 
+  "wof:brand_name": "CenturyTel", 
+  "wof:brand_id": 1125160453, 
+  "wof:categories": [
+    "sg:services=utilities", 
+    "services:utilities=telephone", 
+    "services:utilities=mobile_phone", 
+    "sg:services=professional", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate", 
+    "services:professional=management_and_consulting", 
+    "sg:transportation=freight", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "communications", 
     "communication", 
@@ -21,6 +33,6 @@
     "security", 
     "telegraph"
   ], 
-  "wof:brand_name": "CenturyTel", 
-  "wof:brand_id": 1125160453
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416299
 }

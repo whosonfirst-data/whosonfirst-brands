@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414529, 
+  "wof:brand_name": "Associated Bank", 
+  "wof:brand_id": 1125150037, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "state", 
     "commercial", 
@@ -16,6 +23,6 @@
     "real estate", 
     "security"
   ], 
-  "wof:brand_name": "Associated Bank", 
-  "wof:brand_id": 1125150037
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416289
 }

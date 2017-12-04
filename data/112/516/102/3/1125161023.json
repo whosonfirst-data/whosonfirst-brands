@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414549, 
+  "wof:brand_name": "Australian Red Cross", 
+  "wof:brand_id": 1125161023, 
+  "wof:categories": [
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=shopping", 
+    "services:health_services=doctor", 
+    "sg:services=health_services", 
+    "manufacturing_and_wholesale_goods:wholesale=medical_equipment_and_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "public_place:education=special_training", 
+    "services:utilities=recycling", 
+    "sg:public_place=education", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "clothing", 
     "recycled", 
@@ -12,6 +24,6 @@
     "home", 
     "development"
   ], 
-  "wof:brand_name": "Australian Red Cross", 
-  "wof:brand_id": 1125161023
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416305
 }

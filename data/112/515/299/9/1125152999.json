@@ -1,7 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414482, 
-  "wof:tags": [], 
   "wof:brand_name": "Asda Stores Ltd.", 
-  "wof:brand_id": 1125152999
+  "wof:brand_id": 1125152999, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=supermarket", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416252
 }

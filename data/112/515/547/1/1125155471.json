@@ -1,6 +1,25 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414465, 
+  "wof:brand_name": "Concentra Medical Center", 
+  "wof:brand_id": 1125155471, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=doctor", 
+    "sg:public_place=community_center", 
+    "services:health_services=health_practitioner", 
+    "services:health_services=clinic", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "services:health_services=hospital", 
+    "services:health_services=medical_lab", 
+    "sg:services=organizations", 
+    "entertainment:sports_and_exercise=gym", 
+    "public_place:education=library", 
+    "services:organizations=nonprofit_organization", 
+    "services:organizations=professional_association", 
+    "services:professional=business_services", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "medical", 
     "center", 
@@ -37,6 +56,6 @@
     "treatment", 
     "worker"
   ], 
-  "wof:brand_name": "Concentra Medical Center", 
-  "wof:brand_id": 1125155471
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416238
 }

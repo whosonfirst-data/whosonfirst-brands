@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414447, 
+  "wof:brand_name": "Pep Boys Supercenter", 
+  "wof:brand_id": 420575403, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "automobile", 
     "parts", 
@@ -9,6 +17,6 @@
     "lubrication", 
     "supply"
   ], 
-  "wof:brand_name": "Pep Boys Supercenter", 
-  "wof:brand_id": 420575403
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416224
 }

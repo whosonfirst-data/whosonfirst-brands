@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414473, 
+  "wof:brand_name": "North American Van Lines", 
+  "wof:brand_id": 1125159961, 
+  "wof:categories": [
+    "sg:transportation=freight", 
+    "sg:services=personal", 
+    "sg:services=retail", 
+    "sg:services=professional", 
+    "services:retail=event_space", 
+    "services:retail=storage", 
+    "sg:transportation=local_transit"
+  ], 
   "wof:tags": [
     "mover", 
     "trucking", 
@@ -22,6 +31,6 @@
     "self", 
     "special"
   ], 
-  "wof:brand_name": "North American Van Lines", 
-  "wof:brand_id": 1125159961
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416244
 }

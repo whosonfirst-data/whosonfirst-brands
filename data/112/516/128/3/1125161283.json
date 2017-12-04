@@ -1,11 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414547, 
+  "wof:brand_name": "Solar Nails", 
+  "wof:brand_id": 1125161283, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon"
+  ], 
   "wof:tags": [
     "manicuring", 
     "shop", 
     "nail"
   ], 
-  "wof:brand_name": "Solar Nails", 
-  "wof:brand_id": 1125161283
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416303
 }

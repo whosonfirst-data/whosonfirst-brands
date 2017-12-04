@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414537, 
+  "wof:brand_name": "Martin The Newsagent Ltd", 
+  "wof:brand_id": 1125162329, 
+  "wof:categories": [
+    "retail_goods:shopping=news", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=tobacco", 
+    "services:communications=film_and_video_production", 
+    "services:professional=engineering", 
+    "sg:services=communications", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "newsagent", 
     "engineer", 
@@ -8,6 +17,6 @@
     "product", 
     "sale"
   ], 
-  "wof:brand_name": "Martin The Newsagent Ltd", 
-  "wof:brand_id": 1125162329
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416296
 }

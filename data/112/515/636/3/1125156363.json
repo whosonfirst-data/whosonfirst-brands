@@ -1,7 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414530, 
-  "wof:tags": [], 
   "wof:brand_name": "Bibliotheek", 
-  "wof:brand_id": 1125156363
+  "wof:brand_id": 1125156363, 
+  "wof:categories": [
+    "public_place:education=library", 
+    "sg:public_place=education"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416290
 }

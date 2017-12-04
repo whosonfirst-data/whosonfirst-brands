@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414446, 
+  "wof:brand_name": "US Naval Recruiting", 
+  "wof:brand_id": 420575703, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "services:professional=employment_agencies", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "armed", 
     "force", 
@@ -10,6 +16,6 @@
     "naval", 
     "station"
   ], 
-  "wof:brand_name": "US Naval Recruiting", 
-  "wof:brand_id": 420575703
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416223
 }

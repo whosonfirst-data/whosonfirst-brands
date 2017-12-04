@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414548, 
+  "wof:brand_name": "Landmark Realty", 
+  "wof:brand_id": 1125161169, 
+  "wof:categories": [
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_agent", 
+    "services:real_estate=real_estate_operator", 
+    "services:real_estate=real_estate_services", 
+    "services:insurance=insurance_agent", 
+    "sg:services=insurance"
+  ], 
   "wof:tags": [
     "management", 
     "apartment", 
@@ -11,6 +19,6 @@
     "lessor", 
     "manager"
   ], 
-  "wof:brand_name": "Landmark Realty", 
-  "wof:brand_id": 1125161169
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416304
 }

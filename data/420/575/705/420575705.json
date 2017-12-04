@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414444, 
+  "wof:brand_name": "Westaff", 
+  "wof:brand_id": 420575705, 
+  "wof:categories": [
+    "services:professional=employment_agencies", 
+    "sg:services=professional", 
+    "services:professional=art_services"
+  ], 
   "wof:tags": [
     "help", 
     "contractor", 
@@ -26,6 +31,6 @@
     "resource", 
     "staffing"
   ], 
-  "wof:brand_name": "Westaff", 
-  "wof:brand_id": 420575705
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416222
 }

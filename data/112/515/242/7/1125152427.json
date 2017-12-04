@@ -1,12 +1,23 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414473, 
+  "wof:brand_name": "St John Baptist Church", 
+  "wof:brand_id": 1125152427, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "sg:public_place=place_of_worship", 
+    "public_place:place_of_worship=church", 
+    "public_place:education=preschool", 
+    "public_place:education=school", 
+    "services:social_services=child_care", 
+    "sg:public_place=education", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "church", 
     "churches-baptist", 
     "churches-baptist-general", 
     "elementary"
   ], 
-  "wof:brand_name": "St John Baptist Church", 
-  "wof:brand_id": 1125152427
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416244
 }

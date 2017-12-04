@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414464, 
+  "wof:brand_name": "Beautiful Nails", 
+  "wof:brand_id": 1125152327, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional", 
+    "services:personal=tanning_parlor"
+  ], 
   "wof:tags": [
     "manicuring", 
     "shop", 
@@ -15,6 +23,6 @@
     "therapy", 
     "unisex"
   ], 
-  "wof:brand_name": "Beautiful Nails", 
-  "wof:brand_id": 1125152327
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416237
 }

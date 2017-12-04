@@ -1,10 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414504, 
+  "wof:brand_name": "Sentry Insurance Co", 
+  "wof:brand_id": 1125155841, 
+  "wof:categories": [
+    "services:insurance=insurance_agent", 
+    "sg:services=insurance", 
+    "services:insurance=hazard_insurance"
+  ], 
   "wof:tags": [
     "consultant", 
     "carrier"
   ], 
-  "wof:brand_name": "Sentry Insurance Co", 
-  "wof:brand_id": 1125155841
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416270
 }

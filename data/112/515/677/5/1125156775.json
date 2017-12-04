@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414528, 
+  "wof:brand_name": "Liberal Democrats", 
+  "wof:brand_id": 1125156775, 
+  "wof:categories": [
+    "services:organizations=political_organization", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "party"
   ], 
-  "wof:brand_name": "Liberal Democrats", 
-  "wof:brand_id": 1125156775
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416288
 }

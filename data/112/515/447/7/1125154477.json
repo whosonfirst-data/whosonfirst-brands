@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414517, 
+  "wof:brand_name": "Repco", 
+  "wof:brand_id": 1125154477, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=motor_vehicles_and_parts", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:manufacturing=signs", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "services:building_and_trades=construction", 
+    "services:building_and_trades=plumbing", 
+    "services:utilities=mobile_phone", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "replacement", 
     "accessory", 
@@ -26,6 +44,6 @@
     "residential", 
     "writer"
   ], 
-  "wof:brand_name": "Repco", 
-  "wof:brand_id": 1125154477
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416280
 }

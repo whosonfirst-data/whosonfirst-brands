@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414521, 
+  "wof:brand_name": "Gordon's Jewelers", 
+  "wof:brand_id": 1125151553, 
+  "wof:categories": [
+    "retail_goods:shopping=jewelry", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:manufacturing=jewelry", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "services:retail=repair_shop", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "jeweler", 
     "precious", 
@@ -16,6 +24,6 @@
     "repair", 
     "store"
   ], 
-  "wof:brand_name": "Gordon's Jewelers", 
-  "wof:brand_id": 1125151553
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416283
 }

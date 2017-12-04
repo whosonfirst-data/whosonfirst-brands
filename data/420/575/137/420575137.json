@@ -1,6 +1,28 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414446, 
+  "wof:brand_name": "Disabled American Veterans", 
+  "wof:brand_id": 420575137, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=community_association", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:organizations=nonprofit_organization", 
+    "services:organizations=professional_association", 
+    "sg:public_place=government", 
+    "public_place:government=office", 
+    "services:organizations=membership_organization", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:entertainment=recreation", 
+    "sg:services=retail", 
+    "sg:services=social_services", 
+    "services:retail=event_space", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:transportation=local_transit", 
+    "public_place:government=city_hall", 
+    "services:professional=business_services", 
+    "services:retail=veterinary_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "military", 
     "shop", 
@@ -30,6 +52,6 @@
     "specialty", 
     "veterinarian"
   ], 
-  "wof:brand_name": "Disabled American Veterans", 
-  "wof:brand_id": 420575137
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416223
 }

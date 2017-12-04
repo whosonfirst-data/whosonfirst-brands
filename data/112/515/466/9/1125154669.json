@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414506, 
+  "wof:brand_name": "Municipal Court", 
+  "wof:brand_id": 1125154669, 
+  "wof:categories": [
+    "sg:public_place=government", 
+    "public_place:government=court_house", 
+    "public_place:government=office", 
+    "public_place:government=police_station", 
+    "services:professional=lawyer_and_legal_services", 
+    "sg:services=professional", 
+    "public_place:government=city_hall"
+  ], 
   "wof:tags": [
     "city", 
     "county", 
@@ -18,6 +27,6 @@
     "protection", 
     "transportation"
   ], 
-  "wof:brand_name": "Municipal Court", 
-  "wof:brand_id": 1125154669
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416271
 }

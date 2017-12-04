@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414519, 
+  "wof:brand_name": "State Police", 
+  "wof:brand_id": 1125150583, 
+  "wof:categories": [
+    "public_place:government=police_station", 
+    "sg:public_place=government", 
+    "public_place:government=office"
+  ], 
   "wof:tags": [
     "state", 
     "department", 
@@ -10,6 +15,6 @@
     "law", 
     "protection"
   ], 
-  "wof:brand_name": "State Police", 
-  "wof:brand_id": 1125150583
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416281
 }

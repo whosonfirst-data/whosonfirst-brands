@@ -1,7 +1,11 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414497, 
-  "wof:tags": [], 
   "wof:brand_name": "ASB Bank", 
-  "wof:brand_id": 1125155085
+  "wof:brand_id": 1125155085, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416264
 }

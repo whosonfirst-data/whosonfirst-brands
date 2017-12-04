@@ -1,6 +1,34 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414451, 
+  "wof:brand_name": "Health Dept", 
+  "wof:brand_id": 420575639, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:services=health_services", 
+    "services:health_services=doctor", 
+    "services:health_services=clinic", 
+    "sg:services=social_services", 
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "sg:services=organizations", 
+    "services:organizations=nonprofit_organization", 
+    "retail_goods:shopping=pharmacy", 
+    "services:health_services=health_practitioner", 
+    "services:health_services=hospital", 
+    "services:health_services=nursing_and_care_facility", 
+    "services:retail=veterinary_services", 
+    "sg:retail_goods=shopping", 
+    "sg:services=retail", 
+    "public_place:government=court_house", 
+    "services:health_services=medical_lab", 
+    "services:insurance=hazard_insurance", 
+    "services:insurance=health_insurance", 
+    "services:organizations=membership_organization", 
+    "services:organizations=professional_association", 
+    "services:professional=testing_lab", 
+    "sg:public_place=community_center", 
+    "sg:services=insurance"
+  ], 
   "wof:tags": [
     "health", 
     "program", 
@@ -78,6 +106,6 @@
     "technology", 
     "therapy"
   ], 
-  "wof:brand_name": "Health Dept", 
-  "wof:brand_id": 420575639
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416226
 }

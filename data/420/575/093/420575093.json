@@ -1,6 +1,27 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414452, 
+  "wof:brand_name": "Candy Bouquet", 
+  "wof:brand_id": 420575093, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=candy", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=florist", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "services:professional=business_services", 
+    "sg:services=personal", 
+    "entertainment:travel=travel_agent", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "manufacturing_and_wholesale_goods:manufacturing=retail_goods", 
+    "services:real_estate=real_estate_agent", 
+    "sg:entertainment=travel", 
+    "sg:food_and_drink=restaurant", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "confectionery", 
     "basket", 
@@ -29,6 +50,6 @@
     "planning", 
     "product"
   ], 
-  "wof:brand_name": "Candy Bouquet", 
-  "wof:brand_id": 420575093
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416227
 }

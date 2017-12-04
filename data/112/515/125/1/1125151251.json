@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414529, 
+  "wof:brand_name": "Best Nails", 
+  "wof:brand_id": 1125151251, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon"
+  ], 
   "wof:tags": [
     "manicuring", 
     "shop", 
@@ -9,6 +14,6 @@
     "eyelash", 
     "studio"
   ], 
-  "wof:brand_name": "Best Nails", 
-  "wof:brand_id": 1125151251
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416290
 }

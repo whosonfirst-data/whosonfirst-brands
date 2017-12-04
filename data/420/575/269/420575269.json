@@ -1,6 +1,35 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414447, 
+  "wof:brand_name": "Parks & Recreation Dept", 
+  "wof:brand_id": 420575269, 
+  "wof:categories": [
+    "sg:entertainment=recreation", 
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:services=social_services", 
+    "sg:public_place=community_center", 
+    "entertainment:sports_and_exercise=golf", 
+    "sg:entertainment=sports_and_exercise", 
+    "services:social_services=child_care", 
+    "entertainment:travel=campground", 
+    "sg:entertainment=travel", 
+    "sg:entertainment=museum", 
+    "sg:services=building_and_trades", 
+    "sg:services=organizations", 
+    "entertainment:museum=botanical_garden", 
+    "services:building_and_trades=landscaping_services", 
+    "services:organizations=community_association", 
+    "sg:services=personal", 
+    "entertainment:recreation=amusement_park", 
+    "entertainment:recreation=picnic_area", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "services:organizations=membership_organization", 
+    "services:real_estate=developer", 
+    "sg:public_place=park", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "parks", 
     "conservation", 
@@ -76,6 +105,6 @@
     "variety", 
     "village"
   ], 
-  "wof:brand_name": "Parks & Recreation Dept", 
-  "wof:brand_id": 420575269
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416224
 }

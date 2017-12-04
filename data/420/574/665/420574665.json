@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414461, 
+  "wof:brand_name": "Wal-Mart Supercenter", 
+  "wof:brand_id": 420574665, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:shopping=catalog_store", 
+    "retail_goods:shopping=mobile_phones", 
+    "retail_goods:shopping=optician", 
+    "services:professional=computer_services", 
+    "services:retail=portrait_studio", 
+    "services:utilities=mobile_phone", 
+    "services:utilities=telephone", 
+    "sg:services=professional", 
+    "sg:services=retail", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "merchandise", 
     "clothing", 
@@ -18,6 +38,6 @@
     "telecommunication", 
     "wireless"
   ], 
-  "wof:brand_name": "Wal-Mart Supercenter", 
-  "wof:brand_id": 420574665
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416234
 }

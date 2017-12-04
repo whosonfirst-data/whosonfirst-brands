@@ -1,12 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414471, 
+  "wof:brand_name": "New Salem Baptist Church", 
+  "wof:brand_id": 1125159955, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship", 
+    "services:social_services=child_care", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "church", 
     "churches-baptist", 
     "churches-baptist-general", 
     "day"
   ], 
-  "wof:brand_name": "New Salem Baptist Church", 
-  "wof:brand_id": 1125159955
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416243
 }

@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414452, 
+  "wof:brand_name": "AT&T Wireless", 
+  "wof:brand_id": 420575297, 
+  "wof:categories": [
+    "sg:services=utilities", 
+    "services:utilities=mobile_phone", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=mobile_phones", 
+    "sg:services=communications", 
+    "services:utilities=telephone", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=electronics", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "services:professional=computer_services", 
+    "services:professional=management_and_consulting", 
+    "food_and_drink:internet_cafe=none", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "sg:food_and_drink=internet_cafe", 
+    "services:professional=business_services", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "communication", 
     "radiotelephone", 
@@ -37,6 +55,6 @@
     "repair", 
     "tv"
   ], 
-  "wof:brand_name": "AT&T Wireless", 
-  "wof:brand_id": 420575297
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416227
 }

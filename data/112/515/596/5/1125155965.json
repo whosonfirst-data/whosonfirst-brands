@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414510, 
+  "wof:brand_name": "Panos", 
+  "wof:brand_id": 1125155965, 
+  "wof:categories": [
+    "sg:food_and_drink=bakery", 
+    "services:personal=beauty_salon", 
+    "sg:food_and_drink=cafe", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "baker", 
     "confectioner", 
@@ -8,6 +14,6 @@
     "snack-bars", 
     "unisex"
   ], 
-  "wof:brand_name": "Panos", 
-  "wof:brand_id": 1125155965
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416274
 }

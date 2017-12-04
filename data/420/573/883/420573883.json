@@ -1,6 +1,32 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414453, 
+  "wof:brand_name": "Curves", 
+  "wof:brand_id": 420573883, 
+  "wof:categories": [
+    "sg:entertainment=sports_and_exercise", 
+    "entertainment:sports_and_exercise=gym", 
+    "sg:services=personal", 
+    "entertainment:arena=sports_club", 
+    "sg:entertainment=arena", 
+    "sg:services=health_services", 
+    "services:health_services=health_practitioner", 
+    "sg:services=professional", 
+    "sg:entertainment=recreation", 
+    "entertainment:sports_and_exercise=playing_field", 
+    "services:health_services=clinic", 
+    "services:professional=business_services", 
+    "entertainment:arts_and_performance=theater", 
+    "food_and_drink:bars_and_pubs=nightclub", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:building_and_trades=plumbing", 
+    "services:organizations=membership_organization", 
+    "services:professional=management_and_consulting", 
+    "sg:entertainment=arts_and_performance", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:public_place=community_center", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=building_and_trades", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "fitness", 
     "health", 
@@ -39,6 +65,6 @@
     "treatment", 
     "workout"
   ], 
-  "wof:brand_name": "Curves", 
-  "wof:brand_id": 420573883
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416228
 }

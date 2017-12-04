@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414542, 
+  "wof:brand_name": "Back To Health Chiropractic", 
+  "wof:brand_id": 1125162133, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=chiropractor", 
+    "services:health_services=health_practitioner", 
+    "services:health_services=clinic", 
+    "services:health_services=doctor", 
+    "services:personal=massage", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "chiropractic", 
     "therapist", 
@@ -18,6 +27,6 @@
     "surgeon", 
     "therapy"
   ], 
-  "wof:brand_name": "Back To Health Chiropractic", 
-  "wof:brand_id": 1125162133
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416299
 }

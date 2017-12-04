@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414513, 
+  "wof:brand_name": "Mike's Barber Shop", 
+  "wof:brand_id": 1125153979, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=barber", 
+    "services:personal=beauty_salon", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
@@ -12,6 +19,6 @@
     "trenching", 
     "underground"
   ], 
-  "wof:brand_name": "Mike's Barber Shop", 
-  "wof:brand_id": 1125153979
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416277
 }

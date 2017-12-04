@@ -1,6 +1,9 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414496, 
+  "wof:brand_name": "Golden Dragon Restaurant", 
+  "wof:brand_id": 1125156575, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "eating", 
     "chinese", 
@@ -11,6 +14,6 @@
     "pan", 
     "sum"
   ], 
-  "wof:brand_name": "Golden Dragon Restaurant", 
-  "wof:brand_id": 1125156575
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416263
 }

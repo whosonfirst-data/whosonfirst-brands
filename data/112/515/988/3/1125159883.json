@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414509, 
+  "wof:brand_name": "Hibbett Sports", 
+  "wof:brand_id": 1125159883, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=shoes", 
+    "sg:entertainment=sports_and_exercise", 
+    "entertainment:sports_and_exercise=gym", 
+    "entertainment:sports_and_exercise=bicycle_rental", 
+    "manufacturing_and_wholesale_goods:wholesale=sporting_goods", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "store", 
     "equipment", 
@@ -11,6 +23,6 @@
     "sporting", 
     "wear"
   ], 
-  "wof:brand_name": "Hibbett Sports", 
-  "wof:brand_id": 1125159883
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416273
 }

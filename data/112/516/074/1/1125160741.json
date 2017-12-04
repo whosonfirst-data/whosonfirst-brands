@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414550, 
+  "wof:brand_name": "Bob's Auto Repair", 
+  "wof:brand_id": 1125160741, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=auto_repair", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "services:building_and_trades=construction", 
+    "services:retail=repair_shop", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "automobile", 
     "repairing", 
@@ -24,6 +34,6 @@
     "station", 
     "truck"
   ], 
-  "wof:brand_name": "Bob's Auto Repair", 
-  "wof:brand_id": 1125160741
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416306
 }

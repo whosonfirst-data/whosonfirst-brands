@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414452, 
+  "wof:brand_name": "IBEW", 
+  "wof:brand_id": 420575145, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=labor_organization", 
+    "services:building_and_trades=electrical", 
+    "sg:services=building_and_trades", 
+    "services:organizations=professional_association", 
+    "sg:services=insurance", 
+    "sg:services=professional", 
+    "services:insurance=hazard_insurance", 
+    "services:organizations=nonprofit_organization", 
+    "services:professional=management_and_consulting", 
+    "services:insurance=insurance_agent", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "contractor", 
     "electric", 
@@ -19,6 +33,6 @@
     "union", 
     "welfare"
   ], 
-  "wof:brand_name": "IBEW", 
-  "wof:brand_id": 420575145
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416228
 }

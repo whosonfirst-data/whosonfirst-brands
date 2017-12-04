@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414472, 
+  "wof:brand_name": "Tuesday Morning Inc", 
+  "wof:brand_id": 1125150843, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:home_and_garden=household_appliances"
+  ], 
   "wof:tags": [
     "shop", 
     "store", 
@@ -16,6 +25,6 @@
     "parcel", 
     "variety"
   ], 
-  "wof:brand_name": "Tuesday Morning Inc", 
-  "wof:brand_id": 1125150843
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416244
 }

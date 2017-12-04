@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414555, 
+  "wof:brand_name": "Sacred Heart Church", 
+  "wof:brand_id": 1125149177, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "sg:public_place=place_of_worship", 
+    "public_place:education=school", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=education", 
+    "services:organizations=community_association", 
+    "services:retail=funeral_services", 
+    "sg:entertainment=recreation", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "church", 
     "churches-catholic", 
@@ -34,6 +46,6 @@
     "roman", 
     "spiritual"
   ], 
-  "wof:brand_name": "Sacred Heart Church", 
-  "wof:brand_id": 1125149177
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416309
 }

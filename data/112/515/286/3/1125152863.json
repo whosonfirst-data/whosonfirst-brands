@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414468, 
+  "wof:brand_name": "D R Horton Inc", 
+  "wof:brand_id": 1125152863, 
+  "wof:categories": [
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "services:real_estate=architect", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "builder", 
     "home", 
@@ -14,6 +20,6 @@
     "real estate", 
     "residential"
   ], 
-  "wof:brand_name": "D R Horton Inc", 
-  "wof:brand_id": 1125152863
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416240
 }

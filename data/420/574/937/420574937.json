@@ -1,12 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414458, 
+  "wof:brand_name": "Sav-On Drugs", 
+  "wof:brand_id": 420574937, 
+  "wof:categories": [
+    "retail_goods:shopping=pharmacy", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "manufacturing_and_wholesale_goods:wholesale=drugs", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "drugstore", 
     "grocer", 
     "pharmaceutical", 
     "product"
   ], 
-  "wof:brand_name": "Sav-On Drugs", 
-  "wof:brand_id": 420574937
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416232
 }

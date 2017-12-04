@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414545, 
+  "wof:brand_name": "Lebeau Vitres D'Autos", 
+  "wof:brand_id": 1125160887, 
+  "wof:categories": [
+    "retail_goods:home_and_garden=building_materials", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=retail", 
+    "services:retail=auto_repair", 
+    "services:retail=repair_shop"
+  ], 
   "wof:tags": [
     "glass", 
     "plate", 
@@ -11,6 +18,6 @@
     "stereo", 
     "upholsterer"
   ], 
-  "wof:brand_name": "Lebeau Vitres D'Autos", 
-  "wof:brand_id": 1125160887
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416302
 }

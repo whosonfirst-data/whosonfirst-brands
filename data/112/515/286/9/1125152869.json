@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414468, 
+  "wof:brand_name": "Econo Lube N' Tune", 
+  "wof:brand_id": 1125152869, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station"
+  ], 
   "wof:tags": [
     "automobile", 
     "repairing", 
@@ -13,6 +21,6 @@
     "tune", 
     "wrecker"
   ], 
-  "wof:brand_name": "Econo Lube N' Tune", 
-  "wof:brand_id": 1125152869
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416241
 }

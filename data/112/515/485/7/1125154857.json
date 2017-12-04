@@ -1,6 +1,32 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414472, 
+  "wof:brand_name": "Carousel", 
+  "wof:brand_id": 1125154857, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=used_merchandise", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:personal=beauty_salon", 
+    "sg:food_and_drink=restaurant", 
+    "sg:services=personal", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "manufacturing_and_wholesale_goods:farming=nursery", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "services:social_services=child_care", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:services=social_services", 
+    "manufacturing_and_wholesale_goods:manufacturing=building_materials", 
+    "retail_goods:food_and_beverages=candy", 
+    "retail_goods:food_and_beverages=dairy", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "services:real_estate=real_estate_operator", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=professional", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "shop", 
     "consignment", 
@@ -27,6 +53,6 @@
     "wedding", 
     "wood"
   ], 
-  "wof:brand_name": "Carousel", 
-  "wof:brand_id": 1125154857
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416243
 }

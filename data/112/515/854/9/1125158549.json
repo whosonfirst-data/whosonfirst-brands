@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414520, 
+  "wof:brand_name": "Imo Car Wash", 
+  "wof:brand_id": 1125158549, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=car_wash", 
+    "sg:transportation=parking", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "services:retail=auto_repair"
+  ], 
   "wof:tags": [
     "polishing", 
     "washing", 
@@ -8,6 +16,6 @@
     "valet", 
     "component"
   ], 
-  "wof:brand_name": "Imo Car Wash", 
-  "wof:brand_id": 1125158549
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416282
 }

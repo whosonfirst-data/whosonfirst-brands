@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414457, 
+  "wof:brand_name": "Schools Public", 
+  "wof:brand_id": 420574629, 
+  "wof:categories": [
+    "sg:public_place=education", 
+    "public_place:education=school", 
+    "public_place:education=special_training", 
+    "public_place:education=preschool", 
+    "public_place:education=university", 
+    "public_place:education=college", 
+    "public_place:government=office", 
+    "services:social_services=child_care", 
+    "sg:entertainment=recreation", 
+    "sg:public_place=government", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "middle", 
     "high", 
@@ -14,6 +27,6 @@
     "program", 
     "school"
   ], 
-  "wof:brand_name": "Schools Public", 
-  "wof:brand_id": 420574629
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416232
 }

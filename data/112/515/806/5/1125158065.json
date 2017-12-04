@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414477, 
+  "wof:brand_name": "Classic Hair Design", 
+  "wof:brand_id": 1125158065, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "services:personal=hair_removal", 
+    "services:personal=nail_salon"
+  ], 
   "wof:tags": [
     "shop", 
     "hairdresser", 
@@ -9,6 +16,6 @@
     "stylist", 
     "weaving"
   ], 
-  "wof:brand_name": "Classic Hair Design", 
-  "wof:brand_id": 1125158065
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416248
 }

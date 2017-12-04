@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414513, 
+  "wof:brand_name": "Peking Chinese Restaurant", 
+  "wof:brand_id": 1125154789, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "food_and_drink:bars_and_pubs=lounge", 
+    "sg:food_and_drink=bars_and_pubs"
+  ], 
   "wof:tags": [
     "eating", 
     "chinese", 
@@ -14,6 +20,6 @@
     "drinking", 
     "personal"
   ], 
-  "wof:brand_name": "Peking Chinese Restaurant", 
-  "wof:brand_id": 1125154789
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416277
 }

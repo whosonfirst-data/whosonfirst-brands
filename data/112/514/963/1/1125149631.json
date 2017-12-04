@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414556, 
+  "wof:brand_name": "Management Recruiters Intl", 
+  "wof:brand_id": 1125149631, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=employment_agencies", 
+    "services:professional=management_and_consulting", 
+    "services:professional=business_services", 
+    "public_place:education=special_training", 
+    "services:professional=secretarial_services", 
+    "services:retail=repair_shop", 
+    "sg:public_place=education", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "help", 
     "contractor", 
@@ -44,6 +55,6 @@
     "vocational", 
     "writing"
   ], 
-  "wof:brand_name": "Management Recruiters Intl", 
-  "wof:brand_id": 1125149631
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416311
 }

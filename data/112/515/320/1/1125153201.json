@@ -1,12 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414491, 
+  "wof:brand_name": "Brico", 
+  "wof:brand_id": 1125153201, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "retail_goods:home_and_garden=building_materials", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "-", 
     "article", 
     "commercial", 
     "do-it-yourself"
   ], 
-  "wof:brand_name": "Brico", 
-  "wof:brand_id": 1125153201
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416259
 }

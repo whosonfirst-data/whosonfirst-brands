@@ -1,11 +1,25 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414523, 
+  "wof:brand_name": "Dillons", 
+  "wof:brand_id": 1125153953, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=news", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "retail_goods:shopping=department_store", 
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:shopping=florist", 
+    "retail_goods:shopping=pharmacy", 
+    "services:insurance=hazard_insurance", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:services=insurance"
+  ], 
   "wof:tags": [
     "newsagent", 
     "carrier", 
     "eating"
   ], 
-  "wof:brand_name": "Dillons", 
-  "wof:brand_id": 1125153953
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416284
 }

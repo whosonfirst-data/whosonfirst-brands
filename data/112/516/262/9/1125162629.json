@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414551, 
+  "wof:brand_name": "El Ranchito", 
+  "wof:brand_id": 1125162629, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "manufacturing_and_wholesale_goods:farming=farm_and_veterinary_services", 
+    "retail_goods:food_and_beverages=meat_and_fish", 
+    "retail_goods:shopping=used_merchandise", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "mexican", 
     "eating", 
@@ -13,6 +25,6 @@
     "market", 
     "out"
   ], 
-  "wof:brand_name": "El Ranchito", 
-  "wof:brand_id": 1125162629
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416307
 }

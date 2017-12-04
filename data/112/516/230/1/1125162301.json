@@ -1,12 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414543, 
+  "wof:brand_name": "Kenning Car & Van Rental", 
+  "wof:brand_id": 1125162301, 
+  "wof:categories": [
+    "services:retail=auto_rental", 
+    "sg:services=retail", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "car", 
     "hire", 
     "truck", 
     "van"
   ], 
-  "wof:brand_name": "Kenning Car & Van Rental", 
-  "wof:brand_id": 1125162301
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416300
 }

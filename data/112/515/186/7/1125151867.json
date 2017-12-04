@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414519, 
+  "wof:brand_name": "Valero Energy Corporation", 
+  "wof:brand_id": 1125151867, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "manufacturing_and_wholesale_goods:manufacturing=petroleum_products", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "retail_goods:food_and_beverages=candy", 
+    "services:professional=management_and_consulting", 
+    "services:utilities=fuel_oil_and_lpg", 
+    "sg:manufacturing_and_wholesale_goods=mining_and_drilling", 
+    "sg:services=professional", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "station", 
     "gasoline", 
@@ -23,6 +37,6 @@
     "refines", 
     "refining"
   ], 
-  "wof:brand_name": "Valero Energy Corporation", 
-  "wof:brand_id": 1125151867
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416281
 }

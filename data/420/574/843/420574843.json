@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414455, 
+  "wof:brand_name": "Danske Bank", 
+  "wof:brand_id": 420574843, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "banker"
   ], 
-  "wof:brand_name": "Danske Bank", 
-  "wof:brand_id": 420574843
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416230
 }

@@ -1,10 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414471, 
+  "wof:brand_name": "Bakers Delight", 
+  "wof:brand_id": 1125152845, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:food_and_drink=bakery"
+  ], 
   "wof:tags": [
     "baker", 
     "shop"
   ], 
-  "wof:brand_name": "Bakers Delight", 
-  "wof:brand_id": 1125152845
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416243
 }

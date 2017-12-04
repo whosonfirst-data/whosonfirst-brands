@@ -1,6 +1,31 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414526, 
+  "wof:brand_name": "JCPenney", 
+  "wof:brand_id": 1125150277, 
+  "wof:categories": [
+    "retail_goods:shopping=department_store", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=baby_store", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "retail_goods:shopping=catalog_store", 
+    "retail_goods:shopping=jewelry", 
+    "retail_goods:shopping=shoes", 
+    "services:professional=art_services", 
+    "sg:services=professional", 
+    "retail_goods:shopping=optician", 
+    "services:health_services=optometrist", 
+    "sg:services=health_services", 
+    "sg:services=personal", 
+    "retail_goods:home_and_garden=furniture", 
+    "services:personal=beauty_salon", 
+    "sg:public_place=shopping_center", 
+    "services:personal=day_spa", 
+    "services:personal=nail_salon", 
+    "services:retail=portrait_studio", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "clothing", 
     "furniture", 
@@ -26,6 +51,6 @@
     "photography", 
     "store"
   ], 
-  "wof:brand_name": "JCPenney", 
-  "wof:brand_id": 1125150277
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416287
 }

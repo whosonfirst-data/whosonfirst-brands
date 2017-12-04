@@ -1,10 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414509, 
+  "wof:brand_name": "Pizzeria Napoli", 
+  "wof:brand_id": 1125157235, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "pizzeria", 
     "pizza"
   ], 
-  "wof:brand_name": "Pizzeria Napoli", 
-  "wof:brand_id": 1125157235
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416274
 }

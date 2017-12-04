@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414545, 
+  "wof:brand_name": "Covee", 
+  "wof:brand_id": 1125160471, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "retail_goods:food_and_beverages=chocolate"
+  ], 
   "wof:tags": [
     "-", 
     "delivered", 
@@ -9,6 +14,6 @@
     "non-food", 
     "store"
   ], 
-  "wof:brand_name": "Covee", 
-  "wof:brand_id": 1125160471
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416302
 }

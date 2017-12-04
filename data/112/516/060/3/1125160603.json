@@ -1,6 +1,28 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414547, 
+  "wof:brand_name": "One Source", 
+  "wof:brand_id": 1125160603, 
+  "wof:categories": [
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "services:building_and_trades=construction", 
+    "services:building_and_trades=landscaping_services", 
+    "services:professional=art_services", 
+    "services:professional=employment_agencies", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:building_and_trades=pest_control", 
+    "services:professional=advertising", 
+    "services:professional=computer_services", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=shopping", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=communications"
+  ], 
   "wof:tags": [
     "janitor", 
     "establishment", 
@@ -40,6 +62,6 @@
     "vending", 
     "window"
   ], 
-  "wof:brand_name": "One Source", 
-  "wof:brand_id": 1125160603
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416303
 }

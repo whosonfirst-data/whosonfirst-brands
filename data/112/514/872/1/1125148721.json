@@ -1,10 +1,16 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414557, 
+  "wof:brand_name": "Die Schweizerische Post", 
+  "wof:brand_id": 1125148721, 
+  "wof:categories": [
+    "public_place:government=post_office", 
+    "sg:public_place=government", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "die", 
     "poststellen"
   ], 
-  "wof:brand_name": "Die Schweizerische Post", 
-  "wof:brand_id": 1125148721
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416311
 }

@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414554, 
+  "wof:brand_name": "Cottman Transmission Ctr", 
+  "wof:brand_id": 1125149129, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "sg:services=professional", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:professional=advertising", 
+    "services:professional=business_services", 
+    "services:retail=repair_shop", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "transmission", 
     "automobile", 
@@ -26,6 +39,6 @@
     "supply", 
     "t"
   ], 
-  "wof:brand_name": "Cottman Transmission Ctr", 
-  "wof:brand_id": 1125149129
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416309
 }

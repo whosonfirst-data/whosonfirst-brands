@@ -1,6 +1,28 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414538, 
+  "wof:brand_name": "Adams", 
+  "wof:brand_id": 1125162493, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=baby_store", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "manufacturing_and_wholesale_goods:manufacturing=petroleum_products", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "retail_goods:shopping=florist", 
+    "services:organizations=religious_organization", 
+    "services:personal=barber", 
+    "services:real_estate=real_estate_operator", 
+    "services:retail=repair_shop", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=organizations", 
+    "sg:services=personal", 
+    "sg:services=real_estate", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "-", 
     "asphalt", 
@@ -12,6 +34,6 @@
     "mainten", 
     "watch"
   ], 
-  "wof:brand_name": "Adams", 
-  "wof:brand_id": 1125162493
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416296
 }

@@ -1,12 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414478, 
+  "wof:brand_name": "Boston Pizza", 
+  "wof:brand_id": 1125151349, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "pizza", 
     "american", 
     "caterer", 
     "eating"
   ], 
-  "wof:brand_name": "Boston Pizza", 
-  "wof:brand_id": 1125151349
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416248
 }

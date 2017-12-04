@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414540, 
+  "wof:brand_name": "Auto Shop", 
+  "wof:brand_id": 1125160427, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "automobile", 
     "repairing", 
@@ -21,6 +37,6 @@
     "tool", 
     "used"
   ], 
-  "wof:brand_name": "Auto Shop", 
-  "wof:brand_id": 1125160427
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416298
 }

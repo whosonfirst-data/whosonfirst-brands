@@ -1,6 +1,27 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414545, 
+  "wof:brand_name": "Passport Health", 
+  "wof:brand_id": 1125161569, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=clinic", 
+    "services:health_services=doctor", 
+    "entertainment:travel=travel_agent", 
+    "sg:entertainment=travel", 
+    "sg:public_place=community_center", 
+    "sg:services=social_services", 
+    "entertainment:sports_and_exercise=gym", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "services:health_services=health_practitioner", 
+    "services:health_services=hospital", 
+    "services:health_services=medical_lab", 
+    "services:insurance=hazard_insurance", 
+    "services:insurance=health_insurance", 
+    "services:organizations=nonprofit_organization", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=insurance", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "medical", 
     "clinic", 
@@ -27,6 +48,6 @@
     "registry", 
     "welfare"
   ], 
-  "wof:brand_name": "Passport Health", 
-  "wof:brand_id": 1125161569
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416302
 }

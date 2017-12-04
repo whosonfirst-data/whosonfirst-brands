@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414553, 
+  "wof:brand_name": "Cracker Barrel Old Country Store", 
+  "wof:brand_id": 1125148809, 
+  "wof:categories": [
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:food_and_drink=restaurant", 
+    "manufacturing_and_wholesale_goods:manufacturing=jewelry", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=gifts_and_souvenirs"
+  ], 
   "wof:tags": [
     "american", 
     "southern", 
@@ -12,6 +20,6 @@
     "breakfast", 
     "brunch"
   ], 
-  "wof:brand_name": "Cracker Barrel Old Country Store", 
-  "wof:brand_id": 1125148809
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416308
 }

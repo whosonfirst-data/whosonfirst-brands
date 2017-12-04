@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414544, 
+  "wof:brand_name": "American National", 
+  "wof:brand_id": 1125161369, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=hazard_insurance", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:insurance=life_insurance", 
+    "services:real_estate=real_estate_agent", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=real_estate", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:health_services=doctor", 
+    "services:insurance=health_insurance", 
+    "sg:services=health_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "carrier", 
     "commercial", 
@@ -17,6 +35,6 @@
     "paperboard", 
     "product"
   ], 
-  "wof:brand_name": "American National", 
-  "wof:brand_id": 1125161369
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416301
 }

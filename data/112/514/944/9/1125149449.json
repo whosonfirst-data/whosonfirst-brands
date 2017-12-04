@@ -1,6 +1,31 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414562, 
+  "wof:brand_name": "Batteries Plus", 
+  "wof:brand_id": 1125149449, 
+  "wof:categories": [
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=shopping", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "retail_goods:shopping=mobile_phones", 
+    "sg:services=professional", 
+    "retail_goods:autos_and_motor_vehicles=motorcycle_sales", 
+    "services:professional=business_services", 
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "services:professional=computer_services", 
+    "sg:services=utilities", 
+    "manufacturing_and_wholesale_goods:wholesale=computers", 
+    "retail_goods:home_and_garden=hardware", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:utilities=electric", 
+    "services:utilities=mobile_phone", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "battery", 
     "equipment", 
@@ -48,6 +73,6 @@
     "upgrade", 
     "wholesale"
   ], 
-  "wof:brand_name": "Batteries Plus", 
-  "wof:brand_id": 1125149449
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416315
 }

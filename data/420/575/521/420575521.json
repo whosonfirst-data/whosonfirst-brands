@@ -1,6 +1,36 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414446, 
+  "wof:brand_name": "Praxair", 
+  "wof:brand_id": 420575521, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "manufacturing_and_wholesale_goods:wholesale=chemicals_and_plastics", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:wholesale=medical_equipment_and_supplies", 
+    "retail_goods:shopping=pharmacy", 
+    "services:health_services=hospital", 
+    "sg:services=health_services", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "sg:transportation=freight", 
+    "sg:services=building_and_trades", 
+    "sg:services=utilities", 
+    "manufacturing_and_wholesale_goods:manufacturing=petroleum_products", 
+    "retail_goods:home_and_garden=hardware", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:building_and_trades=construction", 
+    "services:building_and_trades=equipment_rental", 
+    "services:professional=business_services", 
+    "services:professional=engineering", 
+    "services:utilities=fuel_oil_and_lpg", 
+    "services:utilities=natural_gas", 
+    "sg:manufacturing_and_wholesale_goods=mining_and_drilling", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "industrial", 
     "mfg", 
@@ -69,6 +99,6 @@
     "wall", 
     "work"
   ], 
-  "wof:brand_name": "Praxair", 
-  "wof:brand_id": 420575521
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416223
 }

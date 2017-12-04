@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414491, 
+  "wof:brand_name": "Lifespan Financial Planning Pty Ltd", 
+  "wof:brand_id": 1125155273, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=investment_brokerage"
+  ], 
   "wof:tags": [
     "planning", 
     "annuity", 
@@ -11,6 +16,6 @@
     "rollover", 
     "superannuation"
   ], 
-  "wof:brand_name": "Lifespan Financial Planning Pty Ltd", 
-  "wof:brand_id": 1125155273
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416259
 }

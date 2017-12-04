@@ -1,6 +1,27 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414527, 
+  "wof:brand_name": "Visiting Nurse Assn", 
+  "wof:brand_id": 1125156509, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=clinic", 
+    "services:health_services=health_practitioner", 
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "services:organizations=professional_association", 
+    "sg:services=organizations", 
+    "services:health_services=nursing_and_care_facility", 
+    "sg:services=social_services", 
+    "manufacturing_and_wholesale_goods:wholesale=medical_equipment_and_supplies", 
+    "public_place:community_center=senior", 
+    "services:building_and_trades=equipment_rental", 
+    "services:health_services=hospice", 
+    "services:health_services=hospital", 
+    "services:social_services=adult_care", 
+    "services:social_services=job_training", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=community_center", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "home", 
     "nurse", 
@@ -24,6 +45,6 @@
     "therapist", 
     "visiting"
   ], 
-  "wof:brand_name": "Visiting Nurse Assn", 
-  "wof:brand_id": 1125156509
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416288
 }

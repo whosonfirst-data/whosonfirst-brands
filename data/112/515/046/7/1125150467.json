@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414476, 
+  "wof:brand_name": "Prudential California Realty", 
+  "wof:brand_id": 1125150467, 
+  "wof:categories": [
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_agent", 
+    "services:real_estate=real_estate_services", 
+    "public_place:education=vocational_school", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "management", 
     "property", 
@@ -11,6 +18,6 @@
     "real estate", 
     "referral"
   ], 
-  "wof:brand_name": "Prudential California Realty", 
-  "wof:brand_id": 1125150467
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416247
 }

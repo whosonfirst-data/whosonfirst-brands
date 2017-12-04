@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414546, 
+  "wof:brand_name": "Big Brothers Big Sisters", 
+  "wof:brand_id": 1125161031, 
+  "wof:categories": [
+    "sg:services=social_services", 
+    "sg:services=organizations", 
+    "services:organizations=nonprofit_organization", 
+    "services:organizations=membership_organization", 
+    "public_place:community_center=youth", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:organizations=professional_association", 
+    "sg:public_place=community_center", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "mentoring", 
     "welfare", 
@@ -23,6 +35,6 @@
     "store", 
     "youth"
   ], 
-  "wof:brand_name": "Big Brothers Big Sisters", 
-  "wof:brand_id": 1125161031
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416303
 }

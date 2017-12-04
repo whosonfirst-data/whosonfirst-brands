@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414547, 
+  "wof:brand_name": "Steve's Auto Repair", 
+  "wof:brand_id": 1125162811, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=auto_repair", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "services:retail=repair_shop", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "automobile", 
     "repairing", 
@@ -25,6 +32,6 @@
     "wheel", 
     "wrecker"
   ], 
-  "wof:brand_name": "Steve's Auto Repair", 
-  "wof:brand_id": 1125162811
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416303
 }

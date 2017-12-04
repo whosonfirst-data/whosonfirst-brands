@@ -1,6 +1,9 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414537, 
+  "wof:brand_name": "Pei Wei", 
+  "wof:brand_id": 1125152893, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "asian", 
     "chinese", 
@@ -11,6 +14,6 @@
     "pan", 
     "fusion"
   ], 
-  "wof:brand_name": "Pei Wei", 
-  "wof:brand_id": 1125152893
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416295
 }

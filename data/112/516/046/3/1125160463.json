@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414540, 
+  "wof:brand_name": "Cisco Systems Inc", 
+  "wof:brand_id": 1125160463, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=computer_services", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=computers", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:professional=management_and_consulting", 
+    "sg:retail_goods=shopping", 
+    "sg:services=communications", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "services:building_and_trades=electrical", 
+    "services:utilities=telephone", 
+    "sg:services=building_and_trades", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "equipment", 
     "mfg", 
@@ -25,6 +42,6 @@
     "teleconferencing", 
     "working"
   ], 
-  "wof:brand_name": "Cisco Systems Inc", 
-  "wof:brand_id": 1125160463
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416298
 }

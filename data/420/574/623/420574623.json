@@ -1,12 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414456, 
+  "wof:brand_name": "Alfa Insurance Corp", 
+  "wof:brand_id": 420574623, 
+  "wof:categories": [
+    "services:insurance=insurance_agent", 
+    "sg:services=insurance", 
+    "services:insurance=hazard_insurance"
+  ], 
   "wof:tags": [
     "agency", 
     "auto", 
     "business", 
     "commercial"
   ], 
-  "wof:brand_name": "Alfa Insurance Corp", 
-  "wof:brand_id": 420574623
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416231
 }

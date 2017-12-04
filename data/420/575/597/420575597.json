@@ -1,12 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414444, 
+  "wof:brand_name": "Zellers", 
+  "wof:brand_id": 420575597, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=pharmacy", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "department", 
     "optician", 
     "pharmacy", 
     "store"
   ], 
-  "wof:brand_name": "Zellers", 
-  "wof:brand_id": 420575597
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416221
 }

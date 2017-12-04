@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414474, 
+  "wof:brand_name": "Acupuncture Clinic", 
+  "wof:brand_id": 1125154511, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=health_practitioner", 
+    "services:health_services=doctor", 
+    "services:health_services=clinic", 
+    "public_place:education=special_training", 
+    "services:health_services=chiropractor", 
+    "services:professional=management_and_consulting", 
+    "sg:public_place=education", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "acupuncture", 
     "outpatient", 
@@ -15,6 +26,6 @@
     "pr", 
     "practitioner"
   ], 
-  "wof:brand_name": "Acupuncture Clinic", 
-  "wof:brand_id": 1125154511
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416245
 }

@@ -1,10 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414483, 
+  "wof:brand_name": "Goody's Family Clothing", 
+  "wof:brand_id": 1125152207, 
+  "wof:categories": [
+    "retail_goods:shopping=department_store", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions"
+  ], 
   "wof:tags": [
     "family", 
     "clothing"
   ], 
-  "wof:brand_name": "Goody's Family Clothing", 
-  "wof:brand_id": 1125152207
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416252
 }

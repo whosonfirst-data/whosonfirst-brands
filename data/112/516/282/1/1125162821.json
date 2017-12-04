@@ -1,6 +1,41 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414541, 
+  "wof:brand_name": "Technical Services", 
+  "wof:brand_id": 1125162821, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=engineering", 
+    "sg:services=building_and_trades", 
+    "public_place:government=office", 
+    "services:retail=repair_shop", 
+    "sg:public_place=government", 
+    "sg:services=retail", 
+    "services:building_and_trades=plumbing", 
+    "sg:public_place=education", 
+    "services:building_and_trades=electrical", 
+    "services:professional=employment_agencies", 
+    "services:professional=management_and_consulting", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=shopping", 
+    "sg:services=communications", 
+    "manufacturing_and_wholesale_goods:manufacturing=buildings", 
+    "manufacturing_and_wholesale_goods:manufacturing=retail_goods", 
+    "public_place:education=library", 
+    "public_place:education=music_school", 
+    "public_place:education=special_training", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:building_and_trades=construction", 
+    "services:communications=news_services", 
+    "services:professional=art_services", 
+    "services:professional=business_services", 
+    "services:professional=computer_services", 
+    "services:professional=detective_and_security_services", 
+    "services:real_estate=architect", 
+    "services:utilities=refuse", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=real_estate", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "contractor", 
     "electrical", 
@@ -51,6 +86,6 @@
     "water", 
     "workstation"
   ], 
-  "wof:brand_name": "Technical Services", 
-  "wof:brand_id": 1125162821
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416298
 }

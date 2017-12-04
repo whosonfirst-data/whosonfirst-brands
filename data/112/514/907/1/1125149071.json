@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414563, 
+  "wof:brand_name": "Meineke Car Care Center", 
+  "wof:brand_id": 1125149071, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "brake", 
     "exhaust", 
@@ -37,6 +50,6 @@
     "part", 
     "r"
   ], 
-  "wof:brand_name": "Meineke Car Care Center", 
-  "wof:brand_id": 1125149071
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416316
 }

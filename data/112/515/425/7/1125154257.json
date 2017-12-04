@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414504, 
+  "wof:brand_name": "The Prince of Wales", 
+  "wof:brand_id": 1125154257, 
+  "wof:categories": [
+    "sg:food_and_drink=bars_and_pubs", 
+    "public_place:community_center=social", 
+    "sg:public_place=community_center", 
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel", 
+    "manufacturing_and_wholesale_goods:farming=livestock_farm", 
+    "public_place:military_area=air_force_base", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:public_place=military_area"
+  ], 
   "wof:tags": [
     "inn", 
     "pubs", 
@@ -13,6 +24,6 @@
     "private", 
     "taxi"
   ], 
-  "wof:brand_name": "The Prince of Wales", 
-  "wof:brand_id": 1125154257
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416269
 }

@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414561, 
+  "wof:brand_name": "Magic Nails", 
+  "wof:brand_id": 1125149777, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "manufacturing_and_wholesale_goods:manufacturing=retail_goods"
+  ], 
   "wof:tags": [
     "manicuring", 
     "shop", 
@@ -15,6 +23,6 @@
     "toilet", 
     "unisex"
   ], 
-  "wof:brand_name": "Magic Nails", 
-  "wof:brand_id": 1125149777
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416315
 }

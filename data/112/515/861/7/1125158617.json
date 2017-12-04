@@ -1,7 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414508, 
-  "wof:tags": [], 
   "wof:brand_name": "Restaurant Freihof", 
-  "wof:brand_id": 1125158617
+  "wof:brand_id": 1125158617, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416272
 }

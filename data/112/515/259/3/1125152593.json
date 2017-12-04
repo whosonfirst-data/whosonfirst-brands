@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414484, 
+  "wof:brand_name": "FASTSIGNS", 
+  "wof:brand_id": 1125152593, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:manufacturing=signs", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=professional", 
+    "services:professional=printing_and_photocopies", 
+    "services:professional=art_services", 
+    "services:professional=advertising", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "services:professional=business_services", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "advertising-promotional", 
     "product", 
@@ -27,6 +40,6 @@
     "supply", 
     "vinyl"
   ], 
-  "wof:brand_name": "FASTSIGNS", 
-  "wof:brand_id": 1125152593
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416253
 }

@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414506, 
+  "wof:brand_name": "Videoland", 
+  "wof:brand_id": 1125151577, 
+  "wof:categories": [
+    "sg:services=communications", 
+    "services:communications=television_station", 
+    "entertainment:cinema=movie_rental", 
+    "sg:entertainment=cinema", 
+    "services:communications=film_and_video_production", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=music", 
+    "services:building_and_trades=equipment_rental", 
+    "sg:services=building_and_trades", 
+    "retail_goods:shopping=books", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "video", 
     "audio", 
@@ -25,6 +40,6 @@
     "sale", 
     "tv"
   ], 
-  "wof:brand_name": "Videoland", 
-  "wof:brand_id": 1125151577
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416271
 }

@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414486, 
+  "wof:brand_name": "Housing 21 Ltd.", 
+  "wof:brand_id": 1125153871, 
+  "wof:categories": [
+    "services:organizations=community_association", 
+    "sg:services=organizations", 
+    "services:health_services=nursing_and_care_facility", 
+    "sg:services=health_services", 
+    "services:social_services=retirement_home", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "housing", 
     "society", 
@@ -13,6 +21,6 @@
     "societies", 
     "trust"
   ], 
-  "wof:brand_name": "Housing 21 Ltd.", 
-  "wof:brand_id": 1125153871
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416254
 }

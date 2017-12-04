@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414548, 
+  "wof:brand_name": "Caseys General Store", 
+  "wof:brand_id": 1125162571, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "sg:retail_goods=shopping", 
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "eating", 
     "gasoline", 
@@ -9,6 +16,6 @@
     "merchandise", 
     "pizza"
   ], 
-  "wof:brand_name": "Caseys General Store", 
-  "wof:brand_id": 1125162571
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416304
 }

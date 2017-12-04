@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414448, 
+  "wof:brand_name": "The Probation Service", 
+  "wof:brand_id": 420575291, 
+  "wof:categories": [
+    "sg:public_place=government", 
+    "public_place:government=office", 
+    "public_place:government=police_station", 
+    "sg:services=social_services", 
+    "public_place:government=court_house", 
+    "entertainment:travel=hostel", 
+    "services:building_and_trades=plumbing", 
+    "sg:entertainment=travel", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "support", 
     "central", 
@@ -11,6 +22,6 @@
     "servicing", 
     "system"
   ], 
-  "wof:brand_name": "The Probation Service", 
-  "wof:brand_id": 420575291
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416225
 }

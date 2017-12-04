@@ -1,6 +1,27 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414561, 
+  "wof:brand_name": "Dish Network", 
+  "wof:brand_id": 1125149791, 
+  "wof:categories": [
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "sg:retail_goods=shopping", 
+    "services:communications=television_station", 
+    "sg:services=communications", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "services:utilities=cable", 
+    "sg:services=utilities", 
+    "services:retail=repair_shop", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:manufacturing=electronics", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=banks_and_credit_unions", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "services:professional=computer_services", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=personal", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "satellite", 
     "system", 
@@ -32,6 +53,6 @@
     "phone", 
     "theatrical"
   ], 
-  "wof:brand_name": "Dish Network", 
-  "wof:brand_id": 1125149791
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416315
 }

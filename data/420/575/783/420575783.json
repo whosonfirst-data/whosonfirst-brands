@@ -1,11 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414450, 
+  "wof:brand_name": "Blokker", 
+  "wof:brand_id": 420575783, 
+  "wof:categories": [
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "-", 
     "geschenken", 
     "housewares"
   ], 
-  "wof:brand_name": "Blokker", 
-  "wof:brand_id": 420575783
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416226
 }

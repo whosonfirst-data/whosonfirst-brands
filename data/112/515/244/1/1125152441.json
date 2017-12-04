@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414532, 
+  "wof:brand_name": "Amy's Hallmark", 
+  "wof:brand_id": 1125152441, 
+  "wof:categories": [
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "manufacturing_and_wholesale_goods:manufacturing=leather_goods", 
+    "retail_goods:food_and_beverages=candy", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "shop", 
     "card", 
@@ -13,6 +24,6 @@
     "collectible", 
     "including"
   ], 
-  "wof:brand_name": "Amy's Hallmark", 
-  "wof:brand_id": 1125152441
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416292
 }

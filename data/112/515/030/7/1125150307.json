@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414512, 
+  "wof:brand_name": "Mrs Field's Original Cookies", 
+  "wof:brand_id": 1125150307, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:retail_goods=food_and_beverages", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "cookie", 
     "cracker", 
@@ -13,6 +21,6 @@
     "mfg", 
     "shop"
   ], 
-  "wof:brand_name": "Mrs Field's Original Cookies", 
-  "wof:brand_id": 1125150307
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416276
 }

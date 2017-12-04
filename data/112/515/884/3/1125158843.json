@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414505, 
+  "wof:brand_name": "Pretzelmaker", 
+  "wof:brand_id": 1125158843, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:retail_goods=food_and_beverages", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:food_and_drink=restaurant", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "sg:food_and_drink=bakery", 
+    "sg:food_and_drink=ice_cream", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "pretzel", 
     "mfg", 
@@ -21,6 +32,6 @@
     "stand", 
     "yogurt"
   ], 
-  "wof:brand_name": "Pretzelmaker", 
-  "wof:brand_id": 1125158843
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416270
 }

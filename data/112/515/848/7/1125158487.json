@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414532, 
+  "wof:brand_name": "Comfort Inn & Suites", 
+  "wof:brand_id": 1125158487, 
+  "wof:categories": [
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel"
+  ], 
   "wof:tags": [
     "lodging", 
     "accommodation", 
@@ -8,6 +12,6 @@
     "reservation", 
     "rooms"
   ], 
-  "wof:brand_name": "Comfort Inn & Suites", 
-  "wof:brand_id": 1125158487
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416291
 }

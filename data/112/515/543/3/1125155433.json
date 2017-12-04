@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414481, 
+  "wof:brand_name": "Sweet Factory", 
+  "wof:brand_id": 1125155433, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=candy", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "manufacturing_and_wholesale_goods:manufacturing=retail_goods", 
+    "retail_goods:food_and_beverages=chocolate", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:food_and_drink=restaurant", 
+    "sg:public_place=shopping_center", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "confectionery", 
     "store", 
@@ -10,6 +22,6 @@
     "chocolatiers", 
     "shop"
   ], 
-  "wof:brand_name": "Sweet Factory", 
-  "wof:brand_id": 1125155433
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416251
 }

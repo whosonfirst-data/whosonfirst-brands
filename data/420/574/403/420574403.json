@@ -1,6 +1,30 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414458, 
+  "wof:brand_name": "J C Penney Co", 
+  "wof:brand_id": 420574403, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=shoes", 
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "retail_goods:shopping=jewelry", 
+    "retail_goods:shopping=catalog_store", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:shopping=optical_goods", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=professional", 
+    "public_place:government=embassy", 
+    "services:health_services=optometrist", 
+    "services:professional=art_services", 
+    "sg:public_place=government", 
+    "sg:services=health_services", 
+    "services:retail=portrait_studio", 
+    "sg:services=retail", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "services:personal=nail_salon", 
+    "services:professional=advertising"
+  ], 
   "wof:tags": [
     "clothing", 
     "jeweler", 
@@ -30,6 +54,6 @@
     "salon", 
     "shipping"
   ], 
-  "wof:brand_name": "J C Penney Co", 
-  "wof:brand_id": 420574403
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416232
 }

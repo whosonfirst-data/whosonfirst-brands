@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414537, 
+  "wof:brand_name": "Dolly Madison", 
+  "wof:brand_id": 1125156553, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:wholesale=dairy", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "baker", 
     "mfg", 
@@ -14,6 +24,6 @@
     "equipment", 
     "general"
   ], 
-  "wof:brand_name": "Dolly Madison", 
-  "wof:brand_id": 1125156553
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416295
 }

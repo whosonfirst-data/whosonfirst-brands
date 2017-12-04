@@ -1,6 +1,30 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414486, 
+  "wof:brand_name": "Eaton Corp", 
+  "wof:brand_id": 1125159539, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=motor_vehicles_and_parts", 
+    "manufacturing_and_wholesale_goods:manufacturing=aerospace", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "services:professional=computer_services", 
+    "manufacturing_and_wholesale_goods:manufacturing=electronics", 
+    "manufacturing_and_wholesale_goods:manufacturing=retail_goods", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:building_and_trades=construction", 
+    "services:professional=business_services", 
+    "services:retail=repair_shop", 
+    "services:utilities=telephone", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=building_and_trades", 
+    "sg:services=retail", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "equipment", 
     "electric", 
@@ -42,6 +66,6 @@
     "valve", 
     "wiring"
   ], 
-  "wof:brand_name": "Eaton Corp", 
-  "wof:brand_id": 1125159539
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416255
 }

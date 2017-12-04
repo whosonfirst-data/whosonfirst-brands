@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414537, 
+  "wof:brand_name": "ITT Technical Institute", 
+  "wof:brand_id": 1125158789, 
+  "wof:categories": [
+    "sg:public_place=education", 
+    "public_place:education=vocational_school", 
+    "public_place:education=university", 
+    "public_place:education=school", 
+    "public_place:education=junior_college", 
+    "public_place:education=special_training", 
+    "public_place:education=college", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "college", 
     "technical", 
@@ -22,6 +33,6 @@
     "training", 
     "university"
   ], 
-  "wof:brand_name": "ITT Technical Institute", 
-  "wof:brand_id": 1125158789
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416295
 }

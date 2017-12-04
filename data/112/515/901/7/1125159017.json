@@ -1,12 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414493, 
+  "wof:brand_name": "Insurance Advisernet Australia Pty Limited", 
+  "wof:brand_id": 1125159017, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=hazard_insurance"
+  ], 
   "wof:tags": [
     "broker", 
     "accident", 
     "fire", 
     "marine"
   ], 
-  "wof:brand_name": "Insurance Advisernet Australia Pty Limited", 
-  "wof:brand_id": 1125159017
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416260
 }

@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414512, 
+  "wof:brand_name": "Amerada Hess Corporation", 
+  "wof:brand_id": 1125153133, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:manufacturing_and_wholesale_goods=mining_and_drilling", 
+    "manufacturing_and_wholesale_goods:wholesale=petroleum", 
+    "services:utilities=natural_gas", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=utilities", 
+    "manufacturing_and_wholesale_goods:manufacturing=petroleum_products", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "station", 
     "gasoline", 
@@ -31,6 +44,6 @@
     "producer", 
     "refining"
   ], 
-  "wof:brand_name": "Amerada Hess Corporation", 
-  "wof:brand_id": 1125153133
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416276
 }

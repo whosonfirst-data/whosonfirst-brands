@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414481, 
+  "wof:brand_name": "County Treasurer", 
+  "wof:brand_id": 1125157367, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government"
+  ], 
   "wof:tags": [
     "county", 
     "taxation", 
@@ -13,6 +17,6 @@
     "government-county", 
     "parish"
   ], 
-  "wof:brand_name": "County Treasurer", 
-  "wof:brand_id": 1125157367
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416251
 }

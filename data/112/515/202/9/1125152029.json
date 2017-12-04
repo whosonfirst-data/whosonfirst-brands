@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414495, 
+  "wof:brand_name": "Dick's Sporting Goods", 
+  "wof:brand_id": 1125152029, 
+  "wof:categories": [
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "sg:retail_goods=shopping", 
+    "sg:entertainment=sports_and_exercise", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:entertainment=recreation", 
+    "entertainment:recreation=fishing", 
+    "entertainment:sports_and_exercise=gym", 
+    "entertainment:sports_and_exercise=tennis_court", 
+    "entertainment:sports_and_exercise=bicycle_rental"
+  ], 
   "wof:tags": [
     "equipment", 
     "golf", 
@@ -19,6 +30,6 @@
     "outdoor", 
     "sport"
   ], 
-  "wof:brand_name": "Dick's Sporting Goods", 
-  "wof:brand_id": 1125152029
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416263
 }

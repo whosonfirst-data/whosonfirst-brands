@@ -1,6 +1,34 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414458, 
+  "wof:brand_name": "United Rentals", 
+  "wof:brand_id": 420574359, 
+  "wof:categories": [
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=equipment_rental", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate", 
+    "sg:services=professional", 
+    "sg:services=retail", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "services:professional=management_and_consulting", 
+    "services:retail=auto_repair", 
+    "manufacturing_and_wholesale_goods:manufacturing=electronics", 
+    "services:building_and_trades=construction", 
+    "sg:retail_goods=home_and_garden", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "retail_goods:home_and_garden=building_materials", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "manufacturing_and_wholesale_goods:manufacturing=signs", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "services:building_and_trades=landscaping_services", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=business_services", 
+    "services:retail=auto_rental", 
+    "services:retail=repair_shop", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "yard", 
     "contractor", 
@@ -83,6 +111,6 @@
     "wood", 
     "work"
   ], 
-  "wof:brand_name": "United Rentals", 
-  "wof:brand_id": 420574359
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416232
 }

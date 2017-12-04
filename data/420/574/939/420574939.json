@@ -1,6 +1,34 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414455, 
+  "wof:brand_name": "Sign-A-Rama", 
+  "wof:brand_id": 420574939, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=signs", 
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "sg:retail_goods=shopping", 
+    "services:professional=printing_and_photocopies", 
+    "services:professional=art_services", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=banks_and_credit_unions", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "services:building_and_trades=construction", 
+    "services:communications=newspaper", 
+    "services:professional=advertising", 
+    "sg:services=building_and_trades", 
+    "sg:services=communications", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:home_and_garden=building_materials", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "mfg", 
     "specialty", 
@@ -67,6 +95,6 @@
     "vinyl", 
     "w"
   ], 
-  "wof:brand_name": "Sign-A-Rama", 
-  "wof:brand_id": 420574939
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416230
 }

@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414547, 
+  "wof:brand_name": "Vision World", 
+  "wof:brand_id": 1125162071, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=optical_goods", 
+    "services:health_services=optometrist", 
+    "sg:services=health_services", 
+    "retail_goods:shopping=optician", 
+    "sg:services=communications", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "optician", 
     "eyewear", 
@@ -10,6 +19,6 @@
     "tv", 
     "video"
   ], 
-  "wof:brand_name": "Vision World", 
-  "wof:brand_id": 1125162071
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416304
 }

@@ -1,6 +1,33 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414551, 
+  "wof:brand_name": "Home Away From Home", 
+  "wof:brand_id": 1125161147, 
+  "wof:categories": [
+    "sg:services=social_services", 
+    "services:social_services=child_care", 
+    "sg:services=building_and_trades", 
+    "sg:services=professional", 
+    "services:building_and_trades=construction", 
+    "manufacturing_and_wholesale_goods:manufacturing=buildings", 
+    "services:health_services=nursing_and_care_facility", 
+    "services:retail=animal_services", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=health_services", 
+    "sg:services=real_estate", 
+    "sg:services=retail", 
+    "services:real_estate=real_estate_agent", 
+    "services:social_services=adult_care", 
+    "entertainment:travel=bed_and_breakfast", 
+    "services:building_and_trades=plumbing", 
+    "services:health_services=health_practitioner", 
+    "services:organizations=membership_organization", 
+    "services:professional=detective_and_security_services", 
+    "services:professional=management_and_consulting", 
+    "services:real_estate=real_estate_operator", 
+    "services:social_services=retirement_home", 
+    "sg:entertainment=travel", 
+    "sg:services=organizations", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "day", 
     "home", 
@@ -39,6 +66,6 @@
     "vacation", 
     "welfare"
   ], 
-  "wof:brand_name": "Home Away From Home", 
-  "wof:brand_id": 1125161147
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416306
 }

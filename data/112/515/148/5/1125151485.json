@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414494, 
+  "wof:brand_name": "Sears Portrait Studio", 
+  "wof:brand_id": 1125151485, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=portrait_studio", 
+    "services:professional=art_services", 
+    "sg:services=professional", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=optical_goods", 
+    "services:retail=photofinishing", 
+    "sg:services=personal", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "services:health_services=optometrist", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "photographer", 
     "photographers-portrait", 
@@ -19,6 +34,6 @@
     "wedding", 
     "tire"
   ], 
-  "wof:brand_name": "Sears Portrait Studio", 
-  "wof:brand_id": 1125151485
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416261
 }

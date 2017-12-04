@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414468, 
+  "wof:brand_name": "United Norwest Co-Operatives Ltd.", 
+  "wof:brand_id": 1125159423, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=pharmacy", 
+    "entertainment:travel=travel_agent", 
+    "public_place:government=post_office", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "services:retail=funeral_services", 
+    "sg:entertainment=travel", 
+    "sg:public_place=government", 
+    "sg:services=retail", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "retail_goods:food_and_beverages=fruits_and_vegetables", 
+    "retail_goods:shopping=news", 
+    "services:health_services=optometrist", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=health_services", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "chemist", 
     "pharmacist", 
@@ -8,6 +28,6 @@
     "newsagent", 
     "wedding"
   ], 
-  "wof:brand_name": "United Norwest Co-Operatives Ltd.", 
-  "wof:brand_id": 1125159423
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416241
 }

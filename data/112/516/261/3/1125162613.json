@@ -1,6 +1,28 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414546, 
+  "wof:brand_name": "Design Associates", 
+  "wof:brand_id": 1125162613, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "services:real_estate=architect", 
+    "sg:services=real_estate", 
+    "sg:services=building_and_trades", 
+    "services:professional=art_services", 
+    "services:building_and_trades=construction", 
+    "services:professional=engineering", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "retail_goods:home_and_garden=furniture", 
+    "services:building_and_trades=landscaping_services", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:manufacturing=building_materials", 
+    "retail_goods:shopping=catalog_store", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:personal=beauty_salon", 
+    "services:professional=computer_services", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "design", 
     "interior", 
@@ -37,6 +59,6 @@
     "stylist", 
     "work"
   ], 
-  "wof:brand_name": "Design Associates", 
-  "wof:brand_id": 1125162613
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416302
 }

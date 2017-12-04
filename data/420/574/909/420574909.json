@@ -1,6 +1,32 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414460, 
+  "wof:brand_name": "Scope", 
+  "wof:brand_id": 420574909, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=nonprofit_organization", 
+    "retail_goods:shopping=thrift_store", 
+    "sg:retail_goods=shopping", 
+    "sg:public_place=education", 
+    "sg:services=social_services", 
+    "public_place:education=school", 
+    "public_place:education=special_training", 
+    "services:organizations=community_association", 
+    "entertainment:arts_and_performance=arts_center", 
+    "manufacturing_and_wholesale_goods:manufacturing=jewelry", 
+    "public_place:government=office", 
+    "services:building_and_trades=pest_control", 
+    "services:health_services=nursing_and_care_facility", 
+    "services:organizations=membership_organization", 
+    "services:organizations=professional_association", 
+    "services:professional=management_and_consulting", 
+    "services:social_services=child_care", 
+    "sg:entertainment=arts_and_performance", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:public_place=government", 
+    "sg:services=building_and_trades", 
+    "sg:services=health_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "organisation", 
     "charity", 
@@ -20,6 +46,6 @@
     "school", 
     "special"
   ], 
-  "wof:brand_name": "Scope", 
-  "wof:brand_id": 420574909
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416234
 }

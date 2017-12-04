@@ -1,11 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414485, 
+  "wof:brand_name": "Mobil Oil Corp", 
+  "wof:brand_id": 1125159313, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "manufacturing_and_wholesale_goods:wholesale=petroleum", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "oil", 
     "gasoline", 
     "bulk"
   ], 
-  "wof:brand_name": "Mobil Oil Corp", 
-  "wof:brand_id": 1125159313
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416254
 }

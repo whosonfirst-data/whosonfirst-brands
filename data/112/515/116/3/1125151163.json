@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414511, 
+  "wof:brand_name": "Ameri Spec Home Inspection Svc", 
+  "wof:brand_id": 1125151163, 
+  "wof:categories": [
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_agent", 
+    "services:professional=business_services", 
+    "sg:services=professional", 
+    "services:real_estate=real_estate_services", 
+    "sg:manufacturing_and_wholesale_goods=mining_and_drilling"
+  ], 
   "wof:tags": [
     "inspection", 
     "home", 
@@ -10,6 +18,6 @@
     "management", 
     "personal"
   ], 
-  "wof:brand_name": "Ameri Spec Home Inspection Svc", 
-  "wof:brand_id": 1125151163
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416275
 }

@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414480, 
+  "wof:brand_name": "Canadian Mental Health Assn", 
+  "wof:brand_id": 1125158053, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "sg:services=social_services", 
+    "services:organizations=professional_association", 
+    "sg:services=health_services", 
+    "services:health_services=hospital", 
+    "services:organizations=nonprofit_organization", 
+    "services:health_services=clinic", 
+    "sg:public_place=government", 
+    "public_place:government=office", 
+    "public_place:government=police_station", 
+    "retail_goods:shopping=used_merchandise", 
+    "sg:entertainment=recreation", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "welfare", 
     "mental", 
@@ -18,6 +33,6 @@
     "shop", 
     "thrift"
   ], 
-  "wof:brand_name": "Canadian Mental Health Assn", 
-  "wof:brand_id": 1125158053
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416250
 }

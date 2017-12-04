@@ -1,7 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414470, 
-  "wof:tags": [], 
   "wof:brand_name": "Restaurant Frohsinn", 
-  "wof:brand_id": 1125154679
+  "wof:brand_id": 1125154679, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416242
 }

@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414456, 
+  "wof:brand_name": "B B & T", 
+  "wof:brand_id": 420574159, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:insurance=insurance_agent", 
+    "sg:services=insurance", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "loan", 
     "real estate", 
@@ -14,6 +24,6 @@
     "security", 
     "state"
   ], 
-  "wof:brand_name": "B B & T", 
-  "wof:brand_id": 420574159
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416230
 }

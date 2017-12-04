@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414549, 
+  "wof:brand_name": "Nail Care", 
+  "wof:brand_id": 1125160589, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "manicuring", 
     "shop", 
@@ -9,6 +16,6 @@
     "nail", 
     "technician"
   ], 
-  "wof:brand_name": "Nail Care", 
-  "wof:brand_id": 1125160589
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416305
 }

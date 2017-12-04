@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414478, 
+  "wof:brand_name": "Coach & Horses", 
+  "wof:brand_id": 1125158069, 
+  "wof:categories": [
+    "sg:food_and_drink=bars_and_pubs", 
+    "public_place:community_center=social", 
+    "sg:public_place=community_center", 
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel", 
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "inn", 
     "pubs", 
@@ -10,6 +18,6 @@
     "pub", 
     "public"
   ], 
-  "wof:brand_name": "Coach & Horses", 
-  "wof:brand_id": 1125158069
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416248
 }

@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414452, 
+  "wof:brand_name": "Interntnal Assn of Lions Clubs", 
+  "wof:brand_id": 420575827, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=community_association", 
+    "services:organizations=membership_organization", 
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "services:organizations=professional_association", 
+    "public_place:government=office", 
+    "services:health_services=clinic", 
+    "services:insurance=insurance_agent", 
+    "services:professional=research", 
+    "sg:public_place=government", 
+    "sg:services=health_services", 
+    "sg:services=insurance"
+  ], 
   "wof:tags": [
     "membership", 
     "civic", 
@@ -15,6 +30,6 @@
     "program", 
     "res"
   ], 
-  "wof:brand_name": "Interntnal Assn of Lions Clubs", 
-  "wof:brand_id": 420575827
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416227
 }

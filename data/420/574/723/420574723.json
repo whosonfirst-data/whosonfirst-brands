@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414460, 
+  "wof:brand_name": "Locksmith", 
+  "wof:brand_id": 420574723, 
+  "wof:categories": [
+    "services:building_and_trades=locksmith", 
+    "sg:services=building_and_trades", 
+    "services:retail=repair_shop", 
+    "sg:services=retail", 
+    "services:personal=beauty_salon", 
+    "sg:services=personal", 
+    "sg:services=professional", 
+    "retail_goods:home_and_garden=hardware", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=management_and_consulting", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "key", 
     "lock", 
@@ -12,6 +25,6 @@
     "repair", 
     "return"
   ], 
-  "wof:brand_name": "Locksmith", 
-  "wof:brand_id": 420574723
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416234
 }

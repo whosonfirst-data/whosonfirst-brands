@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414474, 
+  "wof:brand_name": "Aspen Dental", 
+  "wof:brand_id": 1125152569, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=dentist", 
+    "services:health_services=doctor", 
+    "services:health_services=medical_lab", 
+    "services:real_estate=architect", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "dental", 
     "clinic", 
@@ -15,6 +23,6 @@
     "whitening", 
     "laboratory"
   ], 
-  "wof:brand_name": "Aspen Dental", 
-  "wof:brand_id": 1125152569
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416245
 }

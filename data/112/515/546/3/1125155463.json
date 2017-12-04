@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414477, 
+  "wof:brand_name": "Bank One National Assn Chicago", 
+  "wof:brand_id": 1125155463, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=professional", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:professional=business_services", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:professional=credit_reporting_and_collection", 
+    "services:professional=employment_agencies"
+  ], 
   "wof:tags": [
     "commercial", 
     "national", 
@@ -23,6 +35,6 @@
     "process", 
     "transact"
   ], 
-  "wof:brand_name": "Bank One National Assn Chicago", 
-  "wof:brand_id": 1125155463
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416247
 }

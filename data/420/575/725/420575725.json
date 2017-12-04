@@ -1,6 +1,31 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414448, 
+  "wof:brand_name": "Liberty Tax Service", 
+  "wof:brand_id": 420575725, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=accounting_and_tax_preparation", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=financial_services", 
+    "manufacturing_and_wholesale_goods:wholesale=office_equipment", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "services:professional=management_and_consulting", 
+    "services:professional=business_services", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=building_and_trades", 
+    "entertainment:sports_and_exercise=swimming_pool", 
+    "services:building_and_trades=construction", 
+    "services:building_and_trades=equipment_rental", 
+    "services:health_services=doctor", 
+    "services:insurance=hazard_insurance", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:real_estate=real_estate_agent", 
+    "services:retail=repair_shop", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:services=health_services", 
+    "sg:services=insurance", 
+    "sg:services=real_estate", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "return", 
     "preparation-business", 
@@ -26,6 +51,6 @@
     "public", 
     "repair"
   ], 
-  "wof:brand_name": "Liberty Tax Service", 
-  "wof:brand_id": 420575725
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416224
 }

@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414510, 
+  "wof:brand_name": "Fuller Brush Co", 
+  "wof:brand_id": 1125158989, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=chemicals_and_plastics", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:manufacturing=retail_goods", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:wholesale=metals_and_minerals", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "services:professional=management_and_consulting", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "brush", 
     "cleaning", 
@@ -18,6 +35,6 @@
     "janitor", 
     "sales"
   ], 
-  "wof:brand_name": "Fuller Brush Co", 
-  "wof:brand_id": 1125158989
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416275
 }

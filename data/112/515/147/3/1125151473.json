@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414514, 
+  "wof:brand_name": "Jafra Cosmetics", 
+  "wof:brand_id": 1125151473, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "services:personal=skin_care", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "manufacturing_and_wholesale_goods:wholesale=drugs", 
+    "retail_goods:shopping=catalog_store", 
+    "services:health_services=nursing_and_care_facility", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "perfume", 
     "cosmetic", 
@@ -27,6 +44,6 @@
     "shop", 
     "toilet"
   ], 
-  "wof:brand_name": "Jafra Cosmetics", 
-  "wof:brand_id": 1125151473
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416277
 }

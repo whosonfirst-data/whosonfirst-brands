@@ -1,6 +1,23 @@
 {
   "wof:brand_name": "Starbucks", 
   "wof:brand_id": 420573983, 
+  "wof:categories": [
+    "sg:food_and_drink=coffee_and_tea", 
+    "sg:food_and_drink=restaurant", 
+    "services:utilities=mobile_phone", 
+    "sg:services=utilities", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:food_and_drink=fast_food", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "retail_goods:food_and_beverages=bakery", 
+    "retail_goods:food_and_beverages=candy", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "sg:food_and_drink=bakery", 
+    "sg:food_and_drink=food_court", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "american", 
     "shop", 
@@ -35,6 +52,6 @@
     420574001
   ], 
   "wof:brand_size": "XXL", 
-  "wof:lastmodified": 1512414453, 
+  "wof:lastmodified": 1512416228, 
   "mz:is_current": 1
 }

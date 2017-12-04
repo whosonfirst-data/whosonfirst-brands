@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414462, 
+  "wof:brand_name": "Save-A-Lot", 
+  "wof:brand_id": 420574447, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:food_and_beverages=bakery", 
+    "retail_goods:shopping=department_store", 
+    "services:professional=business_services", 
+    "sg:food_and_drink=deli", 
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "grocer", 
     "general", 
@@ -13,6 +26,6 @@
     "supermarket", 
     "transmission"
   ], 
-  "wof:brand_name": "Save-A-Lot", 
-  "wof:brand_id": 420574447
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416235
 }

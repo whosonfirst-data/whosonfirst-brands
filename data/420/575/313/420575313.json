@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414449, 
+  "wof:brand_name": "Hibbett Sporting Goods Inc", 
+  "wof:brand_id": 420575313, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "retail_goods:shopping=shoes", 
+    "retail_goods:shopping=clothing_apparel_and_fashions"
+  ], 
   "wof:tags": [
     "athletic", 
     "shoes", 
@@ -9,6 +15,6 @@
     "health", 
     "sporting"
   ], 
-  "wof:brand_name": "Hibbett Sporting Goods Inc", 
-  "wof:brand_id": 420575313
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416226
 }

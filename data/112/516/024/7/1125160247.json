@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414552, 
+  "wof:brand_name": "Krystal Restaurant", 
+  "wof:brand_id": 1125160247, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "manufacturing_and_wholesale_goods:wholesale=jewelry", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:insurance=insurance_agent", 
+    "services:personal=beauty_salon", 
+    "services:retail=animal_services", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:retail_goods=shopping", 
+    "sg:services=insurance", 
+    "sg:services=personal", 
+    "sg:services=professional", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "eating", 
     "family", 
@@ -11,6 +27,6 @@
     "station", 
     "stone"
   ], 
-  "wof:brand_name": "Krystal Restaurant", 
-  "wof:brand_id": 1125160247
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416308
 }

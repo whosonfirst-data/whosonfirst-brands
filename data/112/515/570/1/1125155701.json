@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414478, 
+  "wof:brand_name": "Unisys Corp", 
+  "wof:brand_id": 1125155701, 
+  "wof:categories": [
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional", 
+    "services:professional=computer_services", 
+    "manufacturing_and_wholesale_goods:wholesale=computers", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "services:building_and_trades=construction", 
+    "services:insurance=insurance_agent", 
+    "sg:services=building_and_trades", 
+    "sg:services=insurance"
+  ], 
   "wof:tags": [
     "equipment", 
     "dealer", 
@@ -21,6 +35,6 @@
     "supply", 
     "system"
   ], 
-  "wof:brand_name": "Unisys Corp", 
-  "wof:brand_id": 1125155701
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416248
 }

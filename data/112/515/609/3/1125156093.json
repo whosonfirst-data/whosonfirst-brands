@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414483, 
+  "wof:brand_name": "Hair Zone", 
+  "wof:brand_id": 1125156093, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:personal=nail_salon", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
@@ -12,6 +20,6 @@
     "toupee", 
     "wig"
   ], 
-  "wof:brand_name": "Hair Zone", 
-  "wof:brand_id": 1125156093
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416253
 }

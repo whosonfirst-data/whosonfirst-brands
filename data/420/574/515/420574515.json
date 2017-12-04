@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414460, 
+  "wof:brand_name": "Fidelity National Title", 
+  "wof:brand_id": 420574515, 
+  "wof:categories": [
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=insurance", 
+    "services:insurance=title_insurance", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=hazard_insurance", 
+    "sg:services=professional", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:real_estate=real_estate_agent", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:organizations=community_association", 
+    "services:professional=computer_services", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "company", 
     "title", 
@@ -20,6 +37,6 @@
     "personal", 
     "related"
   ], 
-  "wof:brand_name": "Fidelity National Title", 
-  "wof:brand_id": 420574515
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416234
 }

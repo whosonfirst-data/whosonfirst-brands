@@ -1,9 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414560, 
+  "wof:brand_name": "United Steelworkers Of America", 
+  "wof:brand_id": 1125149475, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=labor_organization", 
+    "services:organizations=professional_association", 
+    "services:organizations=nonprofit_organization", 
+    "services:health_services=medical_lab", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "laboratory"
   ], 
-  "wof:brand_name": "United Steelworkers Of America", 
-  "wof:brand_id": 1125149475
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416314
 }

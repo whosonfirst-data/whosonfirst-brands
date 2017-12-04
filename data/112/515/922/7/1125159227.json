@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414518, 
+  "wof:brand_name": "Discount Car & Truck Rentals", 
+  "wof:brand_id": 1125159227, 
+  "wof:categories": [
+    "services:retail=auto_rental", 
+    "sg:services=retail", 
+    "sg:transportation=bus_charters"
+  ], 
   "wof:tags": [
     "automobile", 
     "renting", 
@@ -9,6 +14,6 @@
     "bus", 
     "car"
   ], 
-  "wof:brand_name": "Discount Car & Truck Rentals", 
-  "wof:brand_id": 1125159227
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416280
 }

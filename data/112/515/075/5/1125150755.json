@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414506, 
+  "wof:brand_name": "Vocelli Pizza", 
+  "wof:brand_id": 1125150755, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "pizza", 
     "italian", 
@@ -12,6 +17,6 @@
     "salad", 
     "sandwich"
   ], 
-  "wof:brand_name": "Vocelli Pizza", 
-  "wof:brand_id": 1125150755
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416271
 }

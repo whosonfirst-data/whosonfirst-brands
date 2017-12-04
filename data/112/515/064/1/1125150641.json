@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414468, 
+  "wof:brand_name": "Tuffy Auto Svc Ctr", 
+  "wof:brand_id": 1125150641, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "automobile", 
     "repairing", 
@@ -12,6 +19,6 @@
     "system", 
     "tire"
   ], 
-  "wof:brand_name": "Tuffy Auto Svc Ctr", 
-  "wof:brand_id": 1125150641
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416240
 }

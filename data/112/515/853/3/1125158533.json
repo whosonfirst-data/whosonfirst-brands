@@ -1,6 +1,25 @@
 {
   "wof:brand_name": "General Nutrition Centers", 
   "wof:brand_id": 1125158533, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:retail_goods=food_and_beverages", 
+    "services:insurance=health_insurance", 
+    "sg:services=insurance", 
+    "services:health_services=health_practitioner", 
+    "sg:services=health_services", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping", 
+    "entertainment:sports_and_exercise=gym", 
+    "retail_goods:shopping=pharmacy", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:services=personal", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "retail_goods:shopping=department_store", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:public_place=shopping_center"
+  ], 
   "wof:tags": [
     "health", 
     "diet", 
@@ -26,6 +45,6 @@
     1125150087
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414510, 
+  "wof:lastmodified": 1512416274, 
   "mz:is_current": 1
 }

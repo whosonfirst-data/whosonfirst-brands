@@ -1,6 +1,25 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414551, 
+  "wof:brand_name": "Flower Power", 
+  "wof:brand_id": 1125161115, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=florist", 
+    "services:building_and_trades=landscaping_services", 
+    "sg:services=building_and_trades", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "sg:retail_goods=home_and_garden", 
+    "manufacturing_and_wholesale_goods:wholesale=plants", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=personal", 
+    "manufacturing_and_wholesale_goods:farming=nursery", 
+    "retail_goods:shopping=crafts_and_fabrics", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=jewelry", 
+    "retail_goods:shopping=party_supplies", 
+    "services:personal=beauty_salon", 
+    "sg:manufacturing_and_wholesale_goods=farming"
+  ], 
   "wof:tags": [
     "landscape", 
     "florist", 
@@ -23,6 +42,6 @@
     "supply", 
     "tree"
   ], 
-  "wof:brand_name": "Flower Power", 
-  "wof:brand_id": 1125161115
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416307
 }

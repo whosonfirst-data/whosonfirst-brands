@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414492, 
+  "wof:brand_name": "Genesys Wealth Advisers", 
+  "wof:brand_id": 1125153605, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:insurance=life_insurance", 
+    "services:professional=accounting_and_tax_preparation", 
+    "sg:services=insurance", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "planning", 
     "annuity", 
@@ -10,6 +19,6 @@
     "accountant", 
     "auditor"
   ], 
-  "wof:brand_name": "Genesys Wealth Advisers", 
-  "wof:brand_id": 1125153605
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416260
 }

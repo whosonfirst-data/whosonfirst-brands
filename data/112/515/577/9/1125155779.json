@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414486, 
+  "wof:brand_name": "Laundry Basket", 
+  "wof:brand_id": 1125155779, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=selfservice_laundry", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:services=personal", 
+    "services:personal=tanning_parlor", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "services:personal=shoe_repair_and_shine", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "coin", 
     "cleaners", 
@@ -19,6 +30,6 @@
     "power", 
     "repairing"
   ], 
-  "wof:brand_name": "Laundry Basket", 
-  "wof:brand_id": 1125155779
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416255
 }

@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414462, 
+  "wof:brand_name": "Royal Canadian Legion", 
+  "wof:brand_id": 420574501, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=professional_association", 
+    "services:organizations=community_association", 
+    "sg:entertainment=recreation", 
+    "sg:food_and_drink=restaurant", 
+    "sg:services=social_services", 
+    "services:organizations=membership_organization", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "club", 
     "fraternal", 
@@ -13,6 +24,6 @@
     "association", 
     "caterer"
   ], 
-  "wof:brand_name": "Royal Canadian Legion", 
-  "wof:brand_id": 420574501
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416236
 }

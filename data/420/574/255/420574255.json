@@ -1,6 +1,23 @@
 {
   "wof:brand_name": "Hampton Inn", 
   "wof:brand_id": 420574255, 
+  "wof:categories": [
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel", 
+    "sg:services=professional", 
+    "services:retail=event_space", 
+    "sg:services=retail", 
+    "services:professional=management_and_consulting", 
+    "entertainment:travel=bed_and_breakfast", 
+    "entertainment:travel=resort", 
+    "manufacturing_and_wholesale_goods:farming=livestock_farm", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "services:professional=business_services", 
+    "services:real_estate=real_estate_operator", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "lodging", 
     "operation", 
@@ -47,6 +64,6 @@
     1125151431
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414464, 
+  "wof:lastmodified": 1512416237, 
   "mz:is_current": 1
 }

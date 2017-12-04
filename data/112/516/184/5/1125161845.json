@@ -1,11 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414547, 
+  "wof:brand_name": "Heights Finance Corp", 
+  "wof:brand_id": 1125161845, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "loan", 
     "real estate", 
     "financing"
   ], 
-  "wof:brand_name": "Heights Finance Corp", 
-  "wof:brand_id": 1125161845
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416303
 }

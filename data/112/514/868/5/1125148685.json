@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414563, 
+  "wof:brand_name": "Fortis", 
+  "wof:brand_id": 1125148685, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=life_insurance", 
+    "sg:services=banks_and_credit_unions", 
+    "retail_goods:home_and_garden=building_materials", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:building_and_trades=construction", 
+    "services:insurance=insurance_agent", 
+    "services:social_services=retirement_home", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=building_and_trades", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "assurance", 
     "compagnies", 
@@ -11,6 +25,6 @@
     "security", 
     "staining"
   ], 
-  "wof:brand_name": "Fortis", 
-  "wof:brand_id": 1125148685
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416316
 }

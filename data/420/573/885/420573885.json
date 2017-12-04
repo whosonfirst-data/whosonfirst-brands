@@ -1,6 +1,39 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414453, 
+  "wof:brand_name": "T-Mobile", 
+  "wof:brand_id": 420573885, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=mobile_phones", 
+    "sg:services=utilities", 
+    "services:utilities=mobile_phone", 
+    "services:utilities=telephone", 
+    "sg:services=professional", 
+    "services:professional=computer_services", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "sg:services=communications", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "manufacturing_and_wholesale_goods:manufacturing=electronics", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "services:professional=art_services", 
+    "retail_goods:shopping=pharmacy", 
+    "services:health_services=optometrist", 
+    "sg:services=health_services", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "retail_goods:shopping=optical_goods", 
+    "services:health_services=clinic", 
+    "sg:food_and_drink=fast_food", 
+    "sg:food_and_drink=restaurant", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "cellular", 
     "equipment", 
@@ -41,6 +74,6 @@
     "television", 
     "wi-fi"
   ], 
-  "wof:brand_name": "T-Mobile", 
-  "wof:brand_id": 420573885
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416228
 }

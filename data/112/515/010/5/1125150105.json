@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414478, 
+  "wof:brand_name": "Target Stores", 
+  "wof:brand_id": 1125150105, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=pharmacy", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:shopping=optician", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "sg:public_place=shopping_center", 
+    "retail_goods:shopping=bicycles_and_sporting_goods"
+  ], 
   "wof:tags": [
     "drugstore", 
     "eyewear", 
@@ -8,6 +19,6 @@
     "merchandise", 
     "wholesale"
   ], 
-  "wof:brand_name": "Target Stores", 
-  "wof:brand_id": 1125150105
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416248
 }

@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414540, 
+  "wof:brand_name": "JB HI-FI", 
+  "wof:brand_id": 1125161157, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=music", 
+    "retail_goods:shopping=computers_and_home_electronics"
+  ], 
   "wof:tags": [
     "automotive", 
     "radio", 
@@ -9,6 +16,6 @@
     "equipment", 
     "hi-fi"
   ], 
-  "wof:brand_name": "JB HI-FI", 
-  "wof:brand_id": 1125161157
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416298
 }

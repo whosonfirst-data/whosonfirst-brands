@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414473, 
+  "wof:brand_name": "Bill's Barber Shop", 
+  "wof:brand_id": 1125154283, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=barber", 
+    "services:personal=beauty_salon", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "shop", 
     "beauty", 
@@ -8,6 +15,6 @@
     "merchandise", 
     "nonferrous"
   ], 
-  "wof:brand_name": "Bill's Barber Shop", 
-  "wof:brand_id": 1125154283
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416244
 }

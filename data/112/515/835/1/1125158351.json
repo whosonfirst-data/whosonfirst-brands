@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414476, 
+  "wof:brand_name": "Morton Buildings", 
+  "wof:brand_id": 1125158351, 
+  "wof:categories": [
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=buildings", 
+    "public_place:government=post_office", 
+    "services:building_and_trades=landfill", 
+    "sg:public_place=government", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "services:real_estate=real_estate_operator", 
+    "sg:services=real_estate", 
+    "manufacturing_and_wholesale_goods:wholesale=construction_materials", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "contractor", 
     "buildings-pole", 
@@ -15,6 +29,6 @@
     "general", 
     "mfg"
   ], 
-  "wof:brand_name": "Morton Buildings", 
-  "wof:brand_id": 1125158351
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416247
 }

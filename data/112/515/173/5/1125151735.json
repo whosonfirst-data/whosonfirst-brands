@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414511, 
+  "wof:brand_name": "Internal Medicine Assoc", 
+  "wof:brand_id": 1125151735, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=doctor", 
+    "services:health_services=clinic", 
+    "services:health_services=hospital", 
+    "services:organizations=professional_association", 
+    "sg:public_place=community_center", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "physician", 
     "surgeon", 
@@ -18,6 +27,6 @@
     "practice", 
     "treatment"
   ], 
-  "wof:brand_name": "Internal Medicine Assoc", 
-  "wof:brand_id": 1125151735
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416275
 }

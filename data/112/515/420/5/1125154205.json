@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414479, 
+  "wof:brand_name": "Food Mart", 
+  "wof:brand_id": 1125154205, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:food_and_beverages=specialty", 
+    "manufacturing_and_wholesale_goods:wholesale=fruits_and_vegetables", 
+    "retail_goods:food_and_beverages=bakery", 
+    "retail_goods:food_and_beverages=meat_and_fish", 
+    "services:retail=car_wash", 
+    "sg:food_and_drink=deli", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "grocer", 
     "grocers-specialty", 
@@ -18,6 +32,6 @@
     "store", 
     "truck"
   ], 
-  "wof:brand_name": "Food Mart", 
-  "wof:brand_id": 1125154205
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416249
 }

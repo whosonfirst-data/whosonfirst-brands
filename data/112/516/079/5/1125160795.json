@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414540, 
+  "wof:brand_name": "Construction Services", 
+  "wof:brand_id": 1125160795, 
+  "wof:categories": [
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=construction", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "services:professional=engineering", 
+    "services:real_estate=developer", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=real_estate", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "services:health_services=doctor", 
+    "services:professional=business_services", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "contractor", 
     "general", 
@@ -29,6 +45,6 @@
     "representative", 
     "residential"
   ], 
-  "wof:brand_name": "Construction Services", 
-  "wof:brand_id": 1125160795
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416298
 }

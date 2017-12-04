@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414542, 
+  "wof:brand_name": "KPMG Peat Marwick", 
+  "wof:brand_id": 1125162295, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=management_and_consulting", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "accountant", 
     "business", 
@@ -10,6 +17,6 @@
     "financial", 
     "return"
   ], 
-  "wof:brand_name": "KPMG Peat Marwick", 
-  "wof:brand_id": 1125162295
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416300
 }

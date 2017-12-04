@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414540, 
+  "wof:brand_name": "For Eyes Optical Co", 
+  "wof:brand_id": 1125162247, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=optical_goods", 
+    "retail_goods:shopping=optician", 
+    "services:health_services=optometrist", 
+    "sg:services=health_services", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "eyewear", 
     "eyeglass", 
@@ -11,6 +20,6 @@
     "lense", 
     "ophthalmic"
   ], 
-  "wof:brand_name": "For Eyes Optical Co", 
-  "wof:brand_id": 1125162247
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416298
 }

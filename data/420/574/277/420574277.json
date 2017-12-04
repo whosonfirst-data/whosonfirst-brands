@@ -1,6 +1,29 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414459, 
+  "wof:brand_name": "Chamber Of Commerce", 
+  "wof:brand_id": 420574277, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=professional_association", 
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "services:organizations=community_association", 
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "services:professional=management_and_consulting", 
+    "sg:entertainment=travel", 
+    "entertainment:arts_and_performance=theater", 
+    "entertainment:travel=hotels_and_motels", 
+    "entertainment:travel=travel_agent", 
+    "services:organizations=membership_organization", 
+    "services:organizations=nonprofit_organization", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:real_estate=developer", 
+    "sg:entertainment=arts_and_performance", 
+    "sg:services=real_estate", 
+    "sg:transportation=local_transit", 
+    "sg:transportation=transit_center", 
+    "transportation:transit_center=passenger"
+  ], 
   "wof:tags": [
     "commerce", 
     "chambers", 
@@ -38,6 +61,6 @@
     "public", 
     "system"
   ], 
-  "wof:brand_name": "Chamber Of Commerce", 
-  "wof:brand_id": 420574277
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416233
 }

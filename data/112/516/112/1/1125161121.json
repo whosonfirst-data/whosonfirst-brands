@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414544, 
+  "wof:brand_name": "Hair Benders", 
+  "wof:brand_id": 1125161121, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=hair_removal"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
@@ -9,6 +14,6 @@
     "hairdresser", 
     "unisex"
   ], 
-  "wof:brand_name": "Hair Benders", 
-  "wof:brand_id": 1125161121
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416301
 }

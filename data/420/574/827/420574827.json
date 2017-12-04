@@ -1,6 +1,28 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414463, 
+  "wof:brand_name": "Play It Again Sports", 
+  "wof:brand_id": 420574827, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "retail_goods:shopping=used_merchandise", 
+    "sg:entertainment=sports_and_exercise", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "entertainment:sports_and_exercise=gym", 
+    "entertainment:sports_and_exercise=sports_center", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "entertainment:sports_and_exercise=bicycle_rental", 
+    "manufacturing_and_wholesale_goods:manufacturing=toys_and_sporting_goods", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=professional", 
+    "entertainment:sports_and_exercise=golf", 
+    "entertainment:sports_and_exercise=tennis_court", 
+    "retail_goods:shopping=musical_instruments", 
+    "services:communications=radio_station", 
+    "services:professional=business_services", 
+    "services:professional=research", 
+    "sg:services=communications"
+  ], 
   "wof:tags": [
     "used", 
     "equipment", 
@@ -43,6 +65,6 @@
     "vintage", 
     "weight"
   ], 
-  "wof:brand_name": "Play It Again Sports", 
-  "wof:brand_id": 420574827
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416236
 }

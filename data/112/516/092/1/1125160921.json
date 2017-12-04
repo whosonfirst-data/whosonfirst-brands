@@ -1,6 +1,33 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414540, 
+  "wof:brand_name": "New Directions", 
+  "wof:brand_id": 1125160921, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "sg:services=health_services", 
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "sg:services=social_services", 
+    "services:organizations=nonprofit_organization", 
+    "services:professional=management_and_consulting", 
+    "sg:services=organizations", 
+    "services:health_services=hospital", 
+    "services:professional=business_services", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:health_services=clinic", 
+    "services:health_services=doctor", 
+    "services:health_services=health_practitioner", 
+    "services:professional=employment_agencies", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=furniture", 
+    "manufacturing_and_wholesale_goods:manufacturing=paper_products", 
+    "public_place:education=school", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "services:health_services=nursing_and_care_facility", 
+    "services:personal=barber", 
+    "sg:food_and_drink=restaurant", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "treatment", 
     "consultant", 
@@ -44,6 +71,6 @@
     "surgeons", 
     "youth"
   ], 
-  "wof:brand_name": "New Directions", 
-  "wof:brand_id": 1125160921
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416298
 }

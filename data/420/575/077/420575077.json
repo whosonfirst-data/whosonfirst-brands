@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414449, 
+  "wof:brand_name": "Central Parking System", 
+  "wof:brand_id": 420575077, 
+  "wof:categories": [
+    "sg:transportation=parking", 
+    "transportation:parking=garage", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "services:building_and_trades=construction", 
+    "services:health_services=hospital", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:real_estate=real_estate_services", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping", 
+    "sg:services=building_and_trades", 
+    "sg:services=health_services", 
+    "sg:services=professional", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "garage", 
     "automobile", 
@@ -19,6 +37,6 @@
     "operator", 
     "property"
   ], 
-  "wof:brand_name": "Central Parking System", 
-  "wof:brand_id": 420575077
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416225
 }

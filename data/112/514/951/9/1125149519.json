@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414560, 
+  "wof:brand_name": "Liberty Baptist Church", 
+  "wof:brand_id": 1125149519, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship", 
+    "services:social_services=child_care", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "church", 
     "churches-baptist", 
@@ -13,6 +21,6 @@
     "school", 
     "service/non-profit"
   ], 
-  "wof:brand_name": "Liberty Baptist Church", 
-  "wof:brand_id": 1125149519
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416314
 }

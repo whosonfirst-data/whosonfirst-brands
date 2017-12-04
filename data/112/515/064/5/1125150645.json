@@ -1,11 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414468, 
+  "wof:brand_name": "Us Faa", 
+  "wof:brand_id": 1125150645, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "services:professional=detective_and_security_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "federal", 
     "control", 
     "traffic"
   ], 
-  "wof:brand_name": "Us Faa", 
-  "wof:brand_id": 1125150645
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416240
 }

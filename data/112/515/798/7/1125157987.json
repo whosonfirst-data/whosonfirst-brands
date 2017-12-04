@@ -1,12 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414480, 
+  "wof:brand_name": "Tilcon Ltd", 
+  "wof:brand_id": 1125157987, 
+  "wof:categories": [
+    "retail_goods:home_and_garden=building_materials", 
+    "sg:retail_goods=home_and_garden", 
+    "manufacturing_and_wholesale_goods:manufacturing=building_materials", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "concrete", 
     "mixed", 
     "ready", 
     "mortar"
   ], 
-  "wof:brand_name": "Tilcon Ltd", 
-  "wof:brand_id": 1125157987
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416250
 }

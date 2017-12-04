@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414467, 
+  "wof:brand_name": "B&h Emergency Locksmith", 
+  "wof:brand_id": 1125152511, 
+  "wof:categories": [
+    "services:building_and_trades=locksmith", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "key"
   ], 
-  "wof:brand_name": "B&h Emergency Locksmith", 
-  "wof:brand_id": 1125152511
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416239
 }

@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414491, 
+  "wof:brand_name": "Mr Transmission", 
+  "wof:brand_id": 1125152889, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "services:professional=advertising", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "transmission", 
     "automobile", 
@@ -20,6 +28,6 @@
     "truck", 
     "tune"
   ], 
-  "wof:brand_name": "Mr Transmission", 
-  "wof:brand_id": 1125152889
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416259
 }

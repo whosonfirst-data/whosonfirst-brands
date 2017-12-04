@@ -1,10 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414479, 
+  "wof:brand_name": "Family Worship Ctr", 
+  "wof:brand_id": 1125154201, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "church", 
     "clergy"
   ], 
-  "wof:brand_name": "Family Worship Ctr", 
-  "wof:brand_id": 1125154201
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416249
 }

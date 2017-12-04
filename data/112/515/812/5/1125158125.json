@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414482, 
+  "wof:brand_name": "Library", 
+  "wof:brand_id": 1125158125, 
+  "wof:categories": [
+    "sg:public_place=education", 
+    "public_place:education=library", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:public_place=government", 
+    "public_place:education=college", 
+    "public_place:government=office", 
+    "public_place:education=junior_college", 
+    "sg:food_and_drink=restaurant", 
+    "sg:services=organizations", 
+    "public_place:government=court_house", 
+    "services:organizations=community_association", 
+    "services:organizations=religious_organization", 
+    "services:social_services=child_care", 
+    "sg:retail_goods=shopping", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "executive", 
     "administrative", 
@@ -19,6 +36,6 @@
     "special", 
     "university"
   ], 
-  "wof:brand_name": "Library", 
-  "wof:brand_id": 1125158125
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416252
 }

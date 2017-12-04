@@ -1,11 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414482, 
+  "wof:brand_name": "Frost National Bank", 
+  "wof:brand_id": 1125159865, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "commercial", 
     "national", 
     "saving"
   ], 
-  "wof:brand_name": "Frost National Bank", 
-  "wof:brand_id": 1125159865
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416251
 }

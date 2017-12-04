@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414522, 
+  "wof:brand_name": "Youth Hostels Association", 
+  "wof:brand_id": 1125159755, 
+  "wof:categories": [
+    "entertainment:travel=hostel", 
+    "sg:entertainment=travel"
+  ], 
   "wof:tags": [
     "youth"
   ], 
-  "wof:brand_name": "Youth Hostels Association", 
-  "wof:brand_id": 1125159755
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416284
 }

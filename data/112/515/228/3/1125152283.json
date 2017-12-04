@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414517, 
+  "wof:brand_name": "Gentiva Health Svc", 
+  "wof:brand_id": 1125152283, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=clinic", 
+    "services:health_services=health_practitioner", 
+    "services:professional=employment_agencies", 
+    "sg:services=professional", 
+    "sg:services=social_services", 
+    "services:health_services=nursing_and_care_facility", 
+    "services:social_services=job_training", 
+    "manufacturing_and_wholesale_goods:wholesale=medical_equipment_and_supplies", 
+    "public_place:government=office", 
+    "services:health_services=hospice", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=government"
+  ], 
   "wof:tags": [
     "home", 
     "nurse", 
@@ -21,6 +36,6 @@
     "state", 
     "surgeon"
   ], 
-  "wof:brand_name": "Gentiva Health Svc", 
-  "wof:brand_id": 1125152283
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416280
 }

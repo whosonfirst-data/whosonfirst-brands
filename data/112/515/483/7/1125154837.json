@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414523, 
+  "wof:brand_name": "American Deli", 
+  "wof:brand_id": 1125154837, 
+  "wof:categories": [
+    "sg:food_and_drink=deli", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:shopping=jewelry", 
+    "sg:food_and_drink=fast_food", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "sandwich", 
     "american", 
@@ -14,6 +24,6 @@
     "food", 
     "jeweler"
   ], 
-  "wof:brand_name": "American Deli", 
-  "wof:brand_id": 1125154837
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416285
 }

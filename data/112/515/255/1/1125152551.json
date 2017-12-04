@@ -1,11 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414537, 
+  "wof:brand_name": "Salon", 
+  "wof:brand_id": 1125152551, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "retail_goods:home_and_garden=furniture", 
+    "services:personal=day_spa", 
+    "services:personal=nail_salon", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
     "manicuring"
   ], 
-  "wof:brand_name": "Salon", 
-  "wof:brand_id": 1125152551
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416295
 }

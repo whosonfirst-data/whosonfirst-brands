@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414560, 
+  "wof:brand_name": "Anytime Fitness", 
+  "wof:brand_id": 1125149731, 
+  "wof:categories": [
+    "sg:entertainment=sports_and_exercise", 
+    "entertainment:sports_and_exercise=gym", 
+    "entertainment:arena=sports_club", 
+    "sg:entertainment=arena", 
+    "sg:services=personal", 
+    "services:personal=tanning_parlor", 
+    "sg:services=health_services", 
+    "services:health_services=health_practitioner", 
+    "services:health_services=clinic", 
+    "entertainment:sports_and_exercise=playing_field", 
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:entertainment=recreation", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:transportation=local_transit"
+  ], 
   "wof:tags": [
     "health", 
     "gymnasium", 
@@ -31,6 +47,6 @@
     "therapist", 
     "yoga"
   ], 
-  "wof:brand_name": "Anytime Fitness", 
-  "wof:brand_id": 1125149731
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416314
 }

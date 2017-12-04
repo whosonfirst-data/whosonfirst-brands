@@ -1,11 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414545, 
+  "wof:brand_name": "American Legion Aux", 
+  "wof:brand_id": 1125162127, 
+  "wof:categories": [
+    "services:organizations=community_association", 
+    "sg:services=organizations", 
+    "sg:entertainment=recreation"
+  ], 
   "wof:tags": [
     "club", 
     "membership", 
     "military"
   ], 
-  "wof:brand_name": "American Legion Aux", 
-  "wof:brand_id": 1125162127
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416302
 }

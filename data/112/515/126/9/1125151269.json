@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414516, 
+  "wof:brand_name": "Hair Works", 
+  "wof:brand_id": 1125151269, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "services:personal=nail_salon", 
+    "services:personal=tanning_parlor", 
+    "sg:manufacturing_and_wholesale_goods=mining_and_drilling"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
@@ -12,6 +20,6 @@
     "salon", 
     "well"
   ], 
-  "wof:brand_name": "Hair Works", 
-  "wof:brand_id": 1125151269
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416279
 }

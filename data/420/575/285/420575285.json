@@ -1,6 +1,13 @@
 {
   "wof:brand_name": "Long John Silver's", 
   "wof:brand_id": 420575285, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=meat_and_fish", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores"
+  ], 
   "wof:tags": [
     "seafood", 
     "american", 
@@ -18,6 +25,6 @@
     1125153161
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414444, 
+  "wof:lastmodified": 1512416221, 
   "mz:is_current": 1
 }

@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414491, 
+  "wof:brand_name": "Central Garage", 
+  "wof:brand_id": 1125151973, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=auto_repair", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "sg:public_place=government", 
+    "public_place:government=office", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "public_place:government=police_station", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "services:retail=auto_rental", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:transportation=bus_charters", 
+    "sg:transportation=bus_stop", 
+    "transportation:bus_stop=none"
+  ], 
   "wof:tags": [
     "garage", 
     "modification", 
@@ -22,6 +38,6 @@
     "truck", 
     "work"
   ], 
-  "wof:brand_name": "Central Garage", 
-  "wof:brand_id": 1125151973
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416259
 }

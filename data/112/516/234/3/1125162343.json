@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414538, 
+  "wof:brand_name": "New York University", 
+  "wof:brand_id": 1125162343, 
+  "wof:categories": [
+    "sg:public_place=education", 
+    "public_place:education=university", 
+    "public_place:education=college", 
+    "sg:services=health_services", 
+    "services:health_services=doctor", 
+    "services:health_services=hospital", 
+    "public_place:education=school", 
+    "public_place:education=special_training", 
+    "services:health_services=dentist"
+  ], 
   "wof:tags": [
     "college", 
     "university", 
@@ -15,6 +26,6 @@
     "practice", 
     "surgeon"
   ], 
-  "wof:brand_name": "New York University", 
-  "wof:brand_id": 1125162343
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416296
 }

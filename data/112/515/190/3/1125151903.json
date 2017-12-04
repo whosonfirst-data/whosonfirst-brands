@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414502, 
+  "wof:brand_name": "Muscular Dystrophy Assn", 
+  "wof:brand_id": 1125151903, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=professional_association", 
+    "sg:services=social_services", 
+    "sg:services=health_services", 
+    "services:health_services=doctor", 
+    "services:organizations=nonprofit_organization", 
+    "services:health_services=clinic"
+  ], 
   "wof:tags": [
     "welfare", 
     "organization", 
@@ -11,6 +20,6 @@
     "service/non-profit", 
     "surgeon"
   ], 
-  "wof:brand_name": "Muscular Dystrophy Assn", 
-  "wof:brand_id": 1125151903
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416268
 }

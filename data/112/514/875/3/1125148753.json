@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414556, 
+  "wof:brand_name": "Chili's", 
+  "wof:brand_id": 1125148753, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "food_and_drink:bars_and_pubs=nightclub", 
+    "sg:food_and_drink=bars_and_pubs"
+  ], 
   "wof:tags": [
     "american", 
     "tex-mex", 
@@ -12,6 +18,6 @@
     "new", 
     "nightlife"
   ], 
-  "wof:brand_name": "Chili's", 
-  "wof:brand_id": 1125148753
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416311
 }

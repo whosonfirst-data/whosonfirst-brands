@@ -1,11 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414471, 
+  "wof:brand_name": "Probation & Parole Ofc", 
+  "wof:brand_id": 1125154795, 
+  "wof:categories": [
+    "sg:services=social_services", 
+    "public_place:government=jail", 
+    "sg:public_place=government"
+  ], 
   "wof:tags": [
     "probation", 
     "correctional", 
     "institution"
   ], 
-  "wof:brand_name": "Probation & Parole Ofc", 
-  "wof:brand_id": 1125154795
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416243
 }

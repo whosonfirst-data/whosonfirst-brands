@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414544, 
+  "wof:brand_name": "Phoenix Home Lf Mutl Insur Co", 
+  "wof:brand_id": 1125162361, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=banks_and_credit_unions", 
+    "services:insurance=life_insurance"
+  ], 
   "wof:tags": [
     "agency", 
     "security", 
@@ -14,6 +21,6 @@
     "plan", 
     "real estate"
   ], 
-  "wof:brand_name": "Phoenix Home Lf Mutl Insur Co", 
-  "wof:brand_id": 1125162361
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416301
 }

@@ -1,12 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414444, 
+  "wof:brand_name": "Fortis Bank", 
+  "wof:brand_id": 420575311, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "banking", 
     "finance", 
     "institution", 
     "insurance"
   ], 
-  "wof:brand_name": "Fortis Bank", 
-  "wof:brand_id": 420575311
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416222
 }

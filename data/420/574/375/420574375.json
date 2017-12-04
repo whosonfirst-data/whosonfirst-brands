@@ -1,6 +1,23 @@
 {
   "wof:brand_name": "Victoria's Secret", 
   "wof:brand_id": 420574375, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "entertainment:sports_and_exercise=swimming_pool", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:public_place=shopping_center", 
+    "sg:services=professional", 
+    "retail_goods:shopping=department_store", 
+    "manufacturing_and_wholesale_goods:wholesale=drugs", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:professional=business_services", 
+    "services:professional=computer_services", 
+    "sg:food_and_drink=restaurant", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "lingerie", 
     "accessory", 
@@ -29,6 +46,6 @@
     1125153131
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414456, 
+  "wof:lastmodified": 1512416230, 
   "mz:is_current": 1
 }

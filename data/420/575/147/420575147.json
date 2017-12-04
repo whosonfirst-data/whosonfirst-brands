@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414450, 
+  "wof:brand_name": "Keller Williams Realty", 
+  "wof:brand_id": 420575147, 
+  "wof:categories": [
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_agent", 
+    "services:real_estate=real_estate_services", 
+    "services:real_estate=developer", 
+    "services:real_estate=surveying", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "broker", 
     "buyer", 
@@ -15,6 +23,6 @@
     "investing", 
     "relocation"
   ], 
-  "wof:brand_name": "Keller Williams Realty", 
-  "wof:brand_id": 420575147
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416226
 }

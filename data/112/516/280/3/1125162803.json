@@ -1,11 +1,17 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414544, 
+  "wof:brand_name": "St Peter's Episcopal Church", 
+  "wof:brand_id": 1125162803, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "sg:public_place=place_of_worship", 
+    "public_place:place_of_worship=church"
+  ], 
   "wof:tags": [
     "church", 
     "churches-episcopal", 
     "churches-episcopal-anglican"
   ], 
-  "wof:brand_name": "St Peter's Episcopal Church", 
-  "wof:brand_id": 1125162803
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416301
 }

@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414469, 
+  "wof:brand_name": "Universal Emergency Locksmith", 
+  "wof:brand_id": 1125151671, 
+  "wof:categories": [
+    "services:building_and_trades=locksmith", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "key"
   ], 
-  "wof:brand_name": "Universal Emergency Locksmith", 
-  "wof:brand_id": 1125151671
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416241
 }

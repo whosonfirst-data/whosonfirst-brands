@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414505, 
+  "wof:brand_name": "Assist 2 Sell", 
+  "wof:brand_id": 1125151133, 
+  "wof:categories": [
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_agent", 
+    "services:real_estate=real_estate_services", 
+    "public_place:education=vocational_school", 
+    "services:banks_and_credit_unions=bank", 
+    "services:professional=management_and_consulting", 
+    "sg:public_place=education", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "broker", 
     "buyer", 
@@ -9,6 +20,6 @@
     "consultant", 
     "loan"
   ], 
-  "wof:brand_name": "Assist 2 Sell", 
-  "wof:brand_id": 1125151133
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416270
 }

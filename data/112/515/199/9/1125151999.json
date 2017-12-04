@@ -1,7 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414534, 
-  "wof:tags": [], 
   "wof:brand_name": "Lidl", 
-  "wof:brand_id": 1125151999
+  "wof:brand_id": 1125151999, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=investment_brokerage"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416293
 }

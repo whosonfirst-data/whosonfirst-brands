@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414450, 
+  "wof:brand_name": "Manpower Temporary Svc", 
+  "wof:brand_id": 420575191, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=employment_agencies", 
+    "public_place:education=vocational_school", 
+    "sg:public_place=education", 
+    "services:professional=secretarial_services"
+  ], 
   "wof:tags": [
     "contractor", 
     "help", 
@@ -10,6 +17,6 @@
     "processing", 
     "word"
   ], 
-  "wof:brand_name": "Manpower Temporary Svc", 
-  "wof:brand_id": 420575191
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416226
 }

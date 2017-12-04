@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414538, 
+  "wof:brand_name": "Mr Clutch", 
+  "wof:brand_id": 1125161205, 
+  "wof:categories": [
+    "sg:public_place=shopping_center", 
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "brake", 
     "clutch", 
@@ -17,6 +24,6 @@
     "transmission", 
     "tyre"
   ], 
-  "wof:brand_name": "Mr Clutch", 
-  "wof:brand_id": 1125161205
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416296
 }

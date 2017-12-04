@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414485, 
+  "wof:brand_name": "CTX Mortgage Co", 
+  "wof:brand_id": 1125152131, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "loan", 
     "real estate", 
@@ -8,6 +13,6 @@
     "commercial", 
     "storage"
   ], 
-  "wof:brand_name": "CTX Mortgage Co", 
-  "wof:brand_id": 1125152131
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416254
 }

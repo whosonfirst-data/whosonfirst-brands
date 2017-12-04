@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414514, 
+  "wof:brand_name": "Land America Lawyers Title", 
+  "wof:brand_id": 1125158567, 
+  "wof:categories": [
+    "services:real_estate=real_estate_services", 
+    "sg:services=real_estate", 
+    "sg:services=insurance", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:insurance=title_insurance", 
+    "services:insurance=insurance_agent", 
+    "services:banks_and_credit_unions=investment_brokerage"
+  ], 
   "wof:tags": [
     "company", 
     "title", 
@@ -10,6 +20,6 @@
     "advisory", 
     "financial"
   ], 
-  "wof:brand_name": "Land America Lawyers Title", 
-  "wof:brand_id": 1125158567
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416277
 }

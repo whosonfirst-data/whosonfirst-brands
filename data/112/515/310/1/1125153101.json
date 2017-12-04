@@ -1,6 +1,36 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414492, 
+  "wof:brand_name": "Image", 
+  "wof:brand_id": 1125153101, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "sg:services=professional", 
+    "services:building_and_trades=construction", 
+    "services:professional=business_services", 
+    "sg:services=building_and_trades", 
+    "sg:services=retail", 
+    "entertainment:sports_and_exercise=gym", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "public_place:education=special_training", 
+    "retail_goods:shopping=news", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:organizations=community_association", 
+    "services:personal=barber", 
+    "services:professional=art_services", 
+    "services:professional=computer_services", 
+    "services:professional=engineering", 
+    "services:professional=research", 
+    "services:retail=auto_repair", 
+    "services:retail=repair_shop", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=education", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "accessory", 
     "clothing", 
@@ -31,6 +61,6 @@
     "t", 
     "truck"
   ], 
-  "wof:brand_name": "Image", 
-  "wof:brand_id": 1125153101
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416259
 }

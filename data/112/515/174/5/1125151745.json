@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414536, 
+  "wof:brand_name": "Shoe Carnival", 
+  "wof:brand_id": 1125151745, 
+  "wof:categories": [
+    "retail_goods:shopping=shoes", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:manufacturing=furniture", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "store", 
     "manufacturer", 
@@ -9,6 +17,6 @@
     "mfg", 
     "shoes"
   ], 
-  "wof:brand_name": "Shoe Carnival", 
-  "wof:brand_id": 1125151745
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416295
 }

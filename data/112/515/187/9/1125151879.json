@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414510, 
+  "wof:brand_name": "Cellular Sales", 
+  "wof:brand_id": 1125151879, 
+  "wof:categories": [
+    "services:utilities=mobile_phone", 
+    "sg:services=utilities", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=mobile_phones", 
+    "manufacturing_and_wholesale_goods:manufacturing=electronics", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=communications"
+  ], 
   "wof:tags": [
     "cellular", 
     "telephone", 
@@ -12,6 +21,6 @@
     "radiotelephone", 
     "telecommunications-equipment"
   ], 
-  "wof:brand_name": "Cellular Sales", 
-  "wof:brand_id": 1125151879
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416274
 }

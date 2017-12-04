@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414520, 
+  "wof:brand_name": "Appraisal Services", 
+  "wof:brand_id": 1125154099, 
+  "wof:categories": [
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "services:real_estate=real_estate_services", 
+    "services:real_estate=surveying", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:shopping=antiques", 
+    "services:building_and_trades=pest_control", 
+    "services:professional=management_and_consulting", 
+    "services:real_estate=real_estate_operator", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:retail_goods=shopping", 
+    "sg:services=building_and_trades", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "appraiser", 
     "business", 
@@ -18,6 +35,6 @@
     "realtor", 
     "store"
   ], 
-  "wof:brand_name": "Appraisal Services", 
-  "wof:brand_id": 1125154099
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416282
 }

@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414534, 
+  "wof:brand_name": "Visiting Angels", 
+  "wof:brand_id": 1125152377, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=clinic", 
+    "services:health_services=health_practitioner", 
+    "sg:services=social_services", 
+    "services:health_services=nursing_and_care_facility", 
+    "services:social_services=adult_care", 
+    "sg:public_place=community_center", 
+    "public_place:community_center=senior", 
+    "sg:services=professional", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:retail=repair_shop", 
+    "services:social_services=child_care", 
+    "services:social_services=retirement_home", 
+    "sg:retail_goods=shopping", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "home", 
     "care", 
@@ -28,6 +45,6 @@
     "surgical", 
     "tool"
   ], 
-  "wof:brand_name": "Visiting Angels", 
-  "wof:brand_id": 1125152377
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416293
 }

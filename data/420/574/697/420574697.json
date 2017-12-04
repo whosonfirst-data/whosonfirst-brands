@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414462, 
+  "wof:brand_name": "American Eagle Outfitters", 
+  "wof:brand_id": 420574697, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "entertainment:sports_and_exercise=bicycle_rental", 
+    "sg:entertainment=sports_and_exercise", 
+    "retail_goods:shopping=department_store", 
+    "sg:public_place=shopping_center", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=used_merchandise", 
+    "sg:transportation=airline"
+  ], 
   "wof:tags": [
     "sportswear", 
     "clothing", 
@@ -40,6 +53,6 @@
     "used", 
     "vintage"
   ], 
-  "wof:brand_name": "American Eagle Outfitters", 
-  "wof:brand_id": 420574697
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416235
 }

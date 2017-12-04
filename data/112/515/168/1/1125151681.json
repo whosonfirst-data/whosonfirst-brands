@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414524, 
+  "wof:brand_name": "Cashland", 
+  "wof:brand_id": 1125151681, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=professional", 
+    "retail_goods:shopping=jewelry", 
+    "services:professional=business_services", 
+    "sg:entertainment=recreation", 
+    "sg:retail_goods=shopping", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "cashing", 
     "check", 
@@ -18,6 +29,6 @@
     "postal", 
     "ticket"
   ], 
-  "wof:brand_name": "Cashland", 
-  "wof:brand_id": 1125151681
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416286
 }

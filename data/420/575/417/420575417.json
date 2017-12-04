@@ -1,12 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414445, 
+  "wof:brand_name": "Halfords Superstore", 
+  "wof:brand_id": 420575417, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "services:retail=auto_repair", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "accessory", 
     "part", 
     "garage", 
     "modification"
   ], 
-  "wof:brand_name": "Halfords Superstore", 
-  "wof:brand_id": 420575417
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416222
 }

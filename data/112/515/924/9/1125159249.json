@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414473, 
+  "wof:brand_name": "First Tennessee", 
+  "wof:brand_id": 1125159249, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:professional=computer_services", 
+    "sg:services=professional", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "commercial", 
     "national", 
@@ -27,6 +35,6 @@
     "warehouse", 
     "wide"
   ], 
-  "wof:brand_name": "First Tennessee", 
-  "wof:brand_id": 1125159249
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416245
 }

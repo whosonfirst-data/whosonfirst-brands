@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414479, 
+  "wof:brand_name": "Equity One", 
+  "wof:brand_id": 1125156741, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_services", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:real_estate=real_estate_agent"
+  ], 
   "wof:tags": [
     "loan", 
     "mortgage", 
@@ -18,6 +26,6 @@
     "mtg", 
     "processing"
   ], 
-  "wof:brand_name": "Equity One", 
-  "wof:brand_id": 1125156741
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416249
 }

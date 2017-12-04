@@ -1,12 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414464, 
+  "wof:brand_name": "LA Petite Academy", 
+  "wof:brand_id": 420574889, 
+  "wof:categories": [
+    "services:social_services=child_care", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "academic", 
     "kindergarten", 
     "school", 
     "day"
   ], 
-  "wof:brand_name": "LA Petite Academy", 
-  "wof:brand_id": 420574889
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416237
 }

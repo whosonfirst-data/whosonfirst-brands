@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414529, 
+  "wof:brand_name": "Old National Bank", 
+  "wof:brand_id": 1125153541, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=financial_services"
+  ], 
   "wof:tags": [
     "commercial", 
     "saving", 
@@ -8,6 +13,6 @@
     "loan", 
     "state"
   ], 
-  "wof:brand_name": "Old National Bank", 
-  "wof:brand_id": 1125153541
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416289
 }

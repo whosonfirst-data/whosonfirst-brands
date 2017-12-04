@@ -1,11 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414498, 
+  "wof:brand_name": "Ajuntament De Barcelona", 
+  "wof:brand_id": 1125150473, 
+  "wof:categories": [
+    "entertainment:arts_and_performance=art_gallery", 
+    "sg:entertainment=arts_and_performance"
+  ], 
   "wof:tags": [
     "arte", 
     "de", 
     "galer\u00cdas"
   ], 
-  "wof:brand_name": "Ajuntament De Barcelona", 
-  "wof:brand_id": 1125150473
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416265
 }

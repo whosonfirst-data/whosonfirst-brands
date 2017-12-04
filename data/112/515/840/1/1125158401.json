@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414512, 
+  "wof:brand_name": "Sterling Savings Bank", 
+  "wof:brand_id": 1125158401, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=real_estate", 
+    "services:banks_and_credit_unions=financial_services"
+  ], 
   "wof:tags": [
     "savings", 
     "institution", 
@@ -17,6 +25,6 @@
     "banker", 
     "broker"
   ], 
-  "wof:brand_name": "Sterling Savings Bank", 
-  "wof:brand_id": 1125158401
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416276
 }

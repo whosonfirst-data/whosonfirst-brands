@@ -1,7 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414510, 
-  "wof:tags": [], 
   "wof:brand_name": "CO-Operators General Insurance", 
-  "wof:brand_id": 1125153007
+  "wof:brand_id": 1125153007, 
+  "wof:categories": [
+    "services:insurance=insurance_agent", 
+    "sg:services=insurance"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416275
 }

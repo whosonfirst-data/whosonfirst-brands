@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414538, 
+  "wof:brand_name": "Vos", 
+  "wof:brand_id": 1125161661, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "entertainment:sports_and_exercise=stables", 
+    "manufacturing_and_wholesale_goods:farming=fish_and_marine_products", 
+    "services:building_and_trades=construction", 
+    "services:professional=computer_services", 
+    "services:professional=testing_lab", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "chemist", 
     "consultant", 
@@ -11,6 +23,6 @@
     "system", 
     "vi"
   ], 
-  "wof:brand_name": "Vos", 
-  "wof:brand_id": 1125161661
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416296
 }

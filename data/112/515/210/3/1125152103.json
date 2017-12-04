@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414482, 
+  "wof:brand_name": "Planet Beach", 
+  "wof:brand_id": 1125152103, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=tanning_parlor", 
+    "services:personal=beauty_salon", 
+    "services:personal=day_spa", 
+    "services:personal=skin_care", 
+    "entertainment:sports_and_exercise=gym", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "services:building_and_trades=construction", 
+    "services:personal=massage", 
+    "services:utilities=mobile_phone", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=building_and_trades", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "salon", 
     "altering", 
@@ -15,6 +31,6 @@
     "skin", 
     "wi-fi"
   ], 
-  "wof:brand_name": "Planet Beach", 
-  "wof:brand_id": 1125152103
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416251
 }

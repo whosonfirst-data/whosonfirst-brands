@@ -1,11 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414557, 
+  "wof:brand_name": "All Day Emergency Locksmith", 
+  "wof:brand_id": 1125148907, 
+  "wof:categories": [
+    "services:retail=repair_shop", 
+    "sg:services=retail", 
+    "services:building_and_trades=locksmith", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "lock", 
     "locksmith", 
     "key"
   ], 
-  "wof:brand_name": "All Day Emergency Locksmith", 
-  "wof:brand_id": 1125148907
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416312
 }

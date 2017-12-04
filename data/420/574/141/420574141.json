@@ -1,6 +1,31 @@
 {
   "wof:brand_name": "Edward Jones", 
   "wof:brand_id": 420574141, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "sg:services=professional", 
+    "services:banks_and_credit_unions=bank", 
+    "services:insurance=hazard_insurance", 
+    "services:insurance=life_insurance", 
+    "services:professional=management_and_consulting", 
+    "services:professional=lawyer_and_legal_services", 
+    "manufacturing_and_wholesale_goods:farming=livestock_farm", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "services:building_and_trades=construction", 
+    "services:organizations=religious_organization", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=detective_and_security_services", 
+    "services:real_estate=real_estate_agent", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=building_and_trades", 
+    "sg:services=organizations", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "security", 
     "bond", 
@@ -50,6 +75,6 @@
     420574467
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414461, 
+  "wof:lastmodified": 1512416235, 
   "mz:is_current": 1
 }

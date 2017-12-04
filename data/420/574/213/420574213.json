@@ -1,6 +1,28 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414457, 
+  "wof:brand_name": "Spar", 
+  "wof:brand_id": 420574213, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=news", 
+    "public_place:government=post_office", 
+    "sg:public_place=government", 
+    "entertainment:cinema=movie_rental", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "retail_goods:food_and_beverages=fruits_and_vegetables", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "services:health_services=doctor", 
+    "services:retail=funeral_services", 
+    "sg:entertainment=cinema", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=health_services", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "department", 
     "store", 
@@ -13,6 +35,6 @@
     "video", 
     "vin"
   ], 
-  "wof:brand_name": "Spar", 
-  "wof:brand_id": 420574213
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416232
 }

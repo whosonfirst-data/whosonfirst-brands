@@ -1,12 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414515, 
+  "wof:brand_name": "Hooker L J", 
+  "wof:brand_id": 1125159581, 
+  "wof:categories": [
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate", 
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel"
+  ], 
   "wof:tags": [
     "-", 
     "accommodation", 
     "rental", 
     "tourism"
   ], 
-  "wof:brand_name": "Hooker L J", 
-  "wof:brand_id": 1125159581
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416278
 }

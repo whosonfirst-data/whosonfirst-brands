@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414468, 
+  "wof:brand_name": "Federal Express Corporation", 
+  "wof:brand_id": 1125152341, 
+  "wof:categories": [
+    "sg:transportation=airline", 
+    "sg:transportation=freight", 
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "services:professional=advertising", 
+    "services:professional=management_and_consulting"
+  ], 
   "wof:tags": [
     "air", 
     "courier", 
@@ -27,6 +35,6 @@
     "truck", 
     "vehicular"
   ], 
-  "wof:brand_name": "Federal Express Corporation", 
-  "wof:brand_id": 1125152341
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416241
 }

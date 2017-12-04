@@ -1,6 +1,28 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414549, 
+  "wof:brand_name": "Information Technology", 
+  "wof:brand_id": 1125161503, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:services=professional", 
+    "services:professional=computer_services", 
+    "services:professional=business_services", 
+    "sg:public_place=education", 
+    "public_place:education=college", 
+    "public_place:education=library", 
+    "public_place:education=university", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "services:health_services=medical_lab", 
+    "services:professional=art_services", 
+    "services:professional=employment_agencies", 
+    "services:professional=management_and_consulting", 
+    "services:utilities=electric", 
+    "sg:retail_goods=shopping", 
+    "sg:services=building_and_trades", 
+    "sg:services=health_services", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "information", 
     "general", 
@@ -35,6 +57,6 @@
     "space", 
     "website"
   ], 
-  "wof:brand_name": "Information Technology", 
-  "wof:brand_id": 1125161503
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416305
 }

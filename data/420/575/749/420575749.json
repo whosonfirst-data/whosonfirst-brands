@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414443, 
+  "wof:brand_name": "Del Taco", 
+  "wof:brand_id": 420575749, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "sg:public_place=shopping_center", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "mexican", 
     "tex-mex", 
@@ -11,6 +18,6 @@
     "maintenance", 
     "traditional"
   ], 
-  "wof:brand_name": "Del Taco", 
-  "wof:brand_id": 420575749
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416221
 }

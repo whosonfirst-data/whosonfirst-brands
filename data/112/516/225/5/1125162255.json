@@ -1,7 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414537, 
-  "wof:tags": [], 
   "wof:brand_name": "Gull Petroleum (WA) Pty Ltd", 
-  "wof:brand_id": 1125162255
+  "wof:brand_id": 1125162255, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416296
 }

@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414529, 
+  "wof:brand_name": "Perfumania", 
+  "wof:brand_id": 1125151149, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "manufacturing_and_wholesale_goods:wholesale=drugs", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:shopping=department_store", 
+    "services:personal=beauty_salon", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "perfume", 
     "cosmetic", 
@@ -17,6 +28,6 @@
     "skin", 
     "studio"
   ], 
-  "wof:brand_name": "Perfumania", 
-  "wof:brand_id": 1125151149
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416289
 }

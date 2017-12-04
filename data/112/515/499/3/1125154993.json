@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414511, 
+  "wof:brand_name": "Ecolab Inc", 
+  "wof:brand_id": 1125154993, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=chemicals_and_plastics", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=soap", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "services:building_and_trades=pest_control", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "sg:services=professional", 
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "services:professional=management_and_consulting", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "services:professional=business_services", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "cleaning", 
     "compound", 
@@ -29,6 +45,6 @@
     "warehouse", 
     "water"
   ], 
-  "wof:brand_name": "Ecolab Inc", 
-  "wof:brand_id": 1125154993
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416275
 }

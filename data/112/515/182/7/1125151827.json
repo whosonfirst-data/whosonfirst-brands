@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414477, 
+  "wof:brand_name": "Bumper To Bumper", 
+  "wof:brand_id": 1125151827, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:manufacturing=motor_vehicles_and_parts", 
+    "services:retail=auto_repair", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "services:retail=car_wash", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "automobile", 
     "parts", 
@@ -27,6 +40,6 @@
     "stereo", 
     "system"
   ], 
-  "wof:brand_name": "Bumper To Bumper", 
-  "wof:brand_id": 1125151827
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416248
 }

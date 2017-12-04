@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414461, 
+  "wof:brand_name": "FedEx Office Print & Ship Center", 
+  "wof:brand_id": 420574513, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=printing_and_photocopies", 
+    "services:professional=business_services", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:manufacturing=signs", 
+    "sg:transportation=freight", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:communications=news_services", 
+    "sg:services=communications", 
+    "sg:transportation=transit_center", 
+    "transportation:transit_center=freight"
+  ], 
   "wof:tags": [
     "shipping", 
     "imaging", 
@@ -29,6 +45,6 @@
     "equipment", 
     "public"
   ], 
-  "wof:brand_name": "FedEx Office Print & Ship Center", 
-  "wof:brand_id": 420574513
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416235
 }

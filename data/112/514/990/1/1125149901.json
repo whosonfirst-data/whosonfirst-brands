@@ -1,6 +1,17 @@
 {
   "wof:brand_name": "Dairy Mart", 
   "wof:brand_id": 1125149901, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=dairy", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:food_and_drink=deli", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "grocer", 
     "product", 
@@ -26,6 +37,6 @@
     1125150545
   ], 
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414553, 
+  "wof:lastmodified": 1512416308, 
   "mz:is_current": 1
 }

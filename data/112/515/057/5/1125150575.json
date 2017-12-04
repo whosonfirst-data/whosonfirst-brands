@@ -1,6 +1,29 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414534, 
+  "wof:brand_name": "John Hancock", 
+  "wof:brand_id": 1125150575, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=life_insurance", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=professional", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:professional=management_and_consulting", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:insurance=hazard_insurance", 
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_agent", 
+    "services:banks_and_credit_unions=bank", 
+    "services:communications=news_services", 
+    "services:health_services=podiatrist", 
+    "services:organizations=political_organization", 
+    "services:professional=business_services", 
+    "services:professional=engineering", 
+    "services:real_estate=real_estate_operator", 
+    "sg:services=communications", 
+    "sg:services=health_services", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "company", 
     "life", 
@@ -30,6 +53,6 @@
     "planning", 
     "provider"
   ], 
-  "wof:brand_name": "John Hancock", 
-  "wof:brand_id": 1125150575
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416293
 }

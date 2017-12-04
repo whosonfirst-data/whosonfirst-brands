@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414463, 
+  "wof:brand_name": "Econo Lodge", 
+  "wof:brand_id": 420574585, 
+  "wof:categories": [
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel", 
+    "services:professional=management_and_consulting", 
+    "sg:services=building_and_trades", 
+    "sg:services=professional", 
+    "services:building_and_trades=construction", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:shopping=music", 
+    "services:building_and_trades=plumbing", 
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:retail_goods=shopping", 
+    "sg:transportation=local_transit"
+  ], 
   "wof:tags": [
     "operation", 
     "lodging", 
@@ -37,6 +52,6 @@
     "vacation", 
     "variety"
   ], 
-  "wof:brand_name": "Econo Lodge", 
-  "wof:brand_id": 420574585
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416237
 }

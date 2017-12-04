@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414481, 
+  "wof:brand_name": "Grant Thornton", 
+  "wof:brand_id": 1125156759, 
+  "wof:categories": [
+    "services:professional=accounting_and_tax_preparation", 
+    "sg:services=professional", 
+    "public_place:education=special_training", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:public_place=education", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "accountant", 
     "consultant", 
@@ -13,6 +21,6 @@
     "software", 
     "taxation"
   ], 
-  "wof:brand_name": "Grant Thornton", 
-  "wof:brand_id": 1125156759
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416250
 }

@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414543, 
+  "wof:brand_name": "Tetra Tech Inc", 
+  "wof:brand_id": 1125162435, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=engineering", 
+    "services:professional=research", 
+    "services:professional=management_and_consulting", 
+    "services:professional=testing_lab"
+  ], 
   "wof:tags": [
     "environmental", 
     "ecological", 
@@ -17,6 +24,6 @@
     "firm", 
     "laboratory"
   ], 
-  "wof:brand_name": "Tetra Tech Inc", 
-  "wof:brand_id": 1125162435
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416300
 }

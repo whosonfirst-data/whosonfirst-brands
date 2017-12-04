@@ -1,12 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414445, 
+  "wof:brand_name": "Little Chef", 
+  "wof:brand_id": 420575019, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel"
+  ], 
   "wof:tags": [
     "-", 
     "english", 
     "american", 
     "eating"
   ], 
-  "wof:brand_name": "Little Chef", 
-  "wof:brand_id": 420575019
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416222
 }

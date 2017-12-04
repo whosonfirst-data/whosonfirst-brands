@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414530, 
+  "wof:brand_name": "AmeriGas", 
+  "wof:brand_id": 1125150967, 
+  "wof:categories": [
+    "services:utilities=fuel_oil_and_lpg", 
+    "sg:services=utilities", 
+    "services:utilities=natural_gas"
+  ], 
   "wof:tags": [
     "gas", 
     "petroleum", 
@@ -31,6 +36,6 @@
     "supply", 
     "wholesale"
   ], 
-  "wof:brand_name": "AmeriGas", 
-  "wof:brand_id": 1125150967
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416290
 }

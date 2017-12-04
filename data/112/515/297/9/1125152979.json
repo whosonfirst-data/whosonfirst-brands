@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414530, 
+  "wof:brand_name": "Shurgard Storage Centers", 
+  "wof:brand_id": 1125152979, 
+  "wof:categories": [
+    "sg:transportation=freight", 
+    "sg:services=retail", 
+    "services:retail=storage", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "sg:retail_goods=home_and_garden", 
+    "services:building_and_trades=construction", 
+    "services:retail=auto_rental", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "storage", 
     "rent", 
@@ -20,6 +32,6 @@
     "operation", 
     "who"
   ], 
-  "wof:brand_name": "Shurgard Storage Centers", 
-  "wof:brand_id": 1125152979
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416290
 }

@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414534, 
+  "wof:brand_name": "Adecco Alfred Marks", 
+  "wof:brand_id": 1125154391, 
+  "wof:categories": [
+    "services:professional=employment_agencies", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "consultant"
   ], 
-  "wof:brand_name": "Adecco Alfred Marks", 
-  "wof:brand_id": 1125154391
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416293
 }

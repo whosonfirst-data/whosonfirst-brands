@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414470, 
+  "wof:brand_name": "Ryans", 
+  "wof:brand_id": 1125157053, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "services:building_and_trades=plumbing", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "eating", 
     "steak", 
@@ -14,6 +24,6 @@
     "contractor", 
     "operates"
   ], 
-  "wof:brand_name": "Ryans", 
-  "wof:brand_id": 1125157053
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416242
 }

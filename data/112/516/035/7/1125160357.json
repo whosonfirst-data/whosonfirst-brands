@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414545, 
+  "wof:brand_name": "Tint.A.Car", 
+  "wof:brand_id": 1125160357, 
+  "wof:categories": [
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "services:professional=detective_and_security_services", 
+    "sg:services=professional", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "retail_goods:home_and_garden=building_materials", 
+    "services:retail=repair_shop", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "window", 
     "tinting", 
@@ -15,6 +27,6 @@
     "merchant", 
     "windscreen"
   ], 
-  "wof:brand_name": "Tint.A.Car", 
-  "wof:brand_id": 1125160357
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416301
 }

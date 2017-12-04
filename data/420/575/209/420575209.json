@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414447, 
+  "wof:brand_name": "US Marine Corps Recruiting", 
+  "wof:brand_id": 420575209, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "recruiting", 
     "armed", 
@@ -10,6 +15,6 @@
     "station", 
     "federal"
   ], 
-  "wof:brand_name": "US Marine Corps Recruiting", 
-  "wof:brand_id": 420575209
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416224
 }

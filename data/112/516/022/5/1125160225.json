@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414548, 
+  "wof:brand_name": "Homegoods", 
+  "wof:brand_id": 1125160225, 
+  "wof:categories": [
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:home_and_garden=kitchen_supply", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "accessory", 
     "bedding", 
@@ -15,6 +25,6 @@
     "merchandise", 
     "shop"
   ], 
-  "wof:brand_name": "Homegoods", 
-  "wof:brand_id": 1125160225
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416304
 }

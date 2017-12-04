@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414493, 
+  "wof:brand_name": "Stride Rite", 
+  "wof:brand_id": 1125150013, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=shoes", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "store", 
     "shoe", 
@@ -10,6 +17,6 @@
     "athletic", 
     "executive"
   ], 
-  "wof:brand_name": "Stride Rite", 
-  "wof:brand_id": 1125150013
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416260
 }

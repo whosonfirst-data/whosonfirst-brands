@@ -1,12 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414465, 
+  "wof:brand_name": "Fiesta Hair & Tanning", 
+  "wof:brand_id": 1125151885, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=tanning_parlor"
+  ], 
   "wof:tags": [
     "shop", 
     "salon", 
     "tanning", 
     "hair"
   ], 
-  "wof:brand_name": "Fiesta Hair & Tanning", 
-  "wof:brand_id": 1125151885
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416238
 }

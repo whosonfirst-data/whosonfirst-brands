@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414485, 
+  "wof:brand_name": "St Paul Travelers", 
+  "wof:brand_id": 1125154569, 
+  "wof:categories": [
+    "services:insurance=insurance_agent", 
+    "sg:services=insurance", 
+    "entertainment:travel=travel_agent", 
+    "sg:entertainment=travel", 
+    "services:organizations=religious_organization", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "agency", 
     "bureau", 
@@ -9,6 +17,6 @@
     "consultant", 
     "services-commercial"
   ], 
-  "wof:brand_name": "St Paul Travelers", 
-  "wof:brand_id": 1125154569
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416254
 }

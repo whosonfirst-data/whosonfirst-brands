@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414548, 
+  "wof:brand_name": "A B B Inc", 
+  "wof:brand_id": 1125160711, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional", 
+    "services:professional=engineering", 
+    "services:professional=computer_services", 
+    "sg:transportation=freight", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "mfg", 
     "equipment", 
@@ -36,6 +48,6 @@
     "supply", 
     "variable"
   ], 
-  "wof:brand_name": "A B B Inc", 
-  "wof:brand_id": 1125160711
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416304
 }

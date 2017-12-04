@@ -1,11 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414490, 
+  "wof:brand_name": "Clarks Shoes Ltd", 
+  "wof:brand_id": 1125158723, 
+  "wof:categories": [
+    "retail_goods:shopping=shoes", 
+    "sg:retail_goods=shopping", 
+    "services:personal=shoe_repair_and_shine", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "shop", 
     "footwear", 
     "retailer"
   ], 
-  "wof:brand_name": "Clarks Shoes Ltd", 
-  "wof:brand_id": 1125158723
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416258
 }

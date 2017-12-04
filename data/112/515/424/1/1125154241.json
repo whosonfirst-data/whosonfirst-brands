@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414484, 
+  "wof:brand_name": "Murphy's Deli", 
+  "wof:brand_id": 1125154241, 
+  "wof:categories": [
+    "sg:food_and_drink=deli", 
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:services=professional", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores"
+  ], 
   "wof:tags": [
     "american", 
     "delicatessen", 
@@ -13,6 +21,6 @@
     "lunch", 
     "soup"
   ], 
-  "wof:brand_name": "Murphy's Deli", 
-  "wof:brand_id": 1125154241
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416253
 }

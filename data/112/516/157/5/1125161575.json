@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414547, 
+  "wof:brand_name": "Polo Ralph Lauren", 
+  "wof:brand_id": 1125161575, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "sg:public_place=shopping_center", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:home_and_garden=carpets_and_floor_coverings", 
+    "retail_goods:shopping=shoes", 
+    "services:building_and_trades=construction", 
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "clothing", 
     "outlet", 
@@ -21,6 +38,6 @@
     "store", 
     "style"
   ], 
-  "wof:brand_name": "Polo Ralph Lauren", 
-  "wof:brand_id": 1125161575
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416303
 }

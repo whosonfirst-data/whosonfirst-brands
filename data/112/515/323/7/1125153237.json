@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414524, 
+  "wof:brand_name": "La Petite Academy", 
+  "wof:brand_id": 1125153237, 
+  "wof:categories": [
+    "services:social_services=child_care", 
+    "sg:services=social_services", 
+    "sg:public_place=education", 
+    "public_place:education=preschool", 
+    "public_place:education=school"
+  ], 
   "wof:tags": [
     "elementary", 
     "day", 
@@ -10,6 +17,6 @@
     "preschool", 
     "academic"
   ], 
-  "wof:brand_name": "La Petite Academy", 
-  "wof:brand_id": 1125153237
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416285
 }

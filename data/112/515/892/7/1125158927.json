@@ -1,6 +1,11 @@
 {
   "wof:brand_name": "Baymont Inn & Suites", 
   "wof:brand_id": 1125158927, 
+  "wof:categories": [
+    "sg:entertainment=travel", 
+    "entertainment:travel=hotels_and_motels", 
+    "entertainment:travel=bed_and_breakfast"
+  ], 
   "wof:tags": [
     "operation", 
     "inn", 
@@ -11,6 +16,6 @@
     1125155569
   ], 
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414488, 
+  "wof:lastmodified": 1512416256, 
   "mz:is_current": 1
 }

@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414476, 
+  "wof:brand_name": "Sub Station II", 
+  "wof:brand_id": 1125156143, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=bakery", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores"
+  ], 
   "wof:tags": [
     "sandwich", 
     "american", 
@@ -10,6 +16,6 @@
     "salad", 
     "us"
   ], 
-  "wof:brand_name": "Sub Station II", 
-  "wof:brand_id": 1125156143
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416247
 }

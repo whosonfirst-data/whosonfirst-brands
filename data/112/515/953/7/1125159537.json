@@ -1,10 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414486, 
+  "wof:brand_name": "East Elementary School", 
+  "wof:brand_id": 1125159537, 
+  "wof:categories": [
+    "public_place:education=school", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "elementary", 
     "district"
   ], 
-  "wof:brand_name": "East Elementary School", 
-  "wof:brand_id": 1125159537
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416255
 }

@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414458, 
+  "wof:brand_name": "Canadian Tire", 
+  "wof:brand_id": 420574985, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "retail_goods:shopping=department_store", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "automobile", 
     "parts", 
@@ -17,6 +27,6 @@
     "store", 
     "system"
   ], 
-  "wof:brand_name": "Canadian Tire", 
-  "wof:brand_id": 420574985
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416233
 }

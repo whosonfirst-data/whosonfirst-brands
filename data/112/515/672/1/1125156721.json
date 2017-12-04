@@ -1,6 +1,27 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414518, 
+  "wof:brand_name": "Computer Sciences Corp", 
+  "wof:brand_id": 1125156721, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "sg:retail_goods=shopping", 
+    "services:professional=computer_services", 
+    "services:professional=management_and_consulting", 
+    "manufacturing_and_wholesale_goods:wholesale=computers", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "services:professional=business_services", 
+    "sg:services=building_and_trades", 
+    "sg:transportation=airport", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "public_place:government=office", 
+    "services:building_and_trades=construction", 
+    "services:building_and_trades=equipment_rental", 
+    "services:professional=engineering", 
+    "services:utilities=telephone", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:public_place=government", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "equipment", 
     "dealer", 
@@ -27,6 +48,6 @@
     "scientist", 
     "telecommunication"
   ], 
-  "wof:brand_name": "Computer Sciences Corp", 
-  "wof:brand_id": 1125156721
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416280
 }

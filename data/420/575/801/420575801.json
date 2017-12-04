@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414449, 
+  "wof:brand_name": "M & M Meat Shops", 
+  "wof:brand_id": 420575801, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=meat_and_fish", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=meat", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "retail_goods:food_and_beverages=specialty"
+  ], 
   "wof:tags": [
     "frozen", 
     "grocer", 
@@ -8,6 +17,6 @@
     "freezer", 
     "butchering"
   ], 
-  "wof:brand_name": "M & M Meat Shops", 
-  "wof:brand_id": 420575801
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416225
 }

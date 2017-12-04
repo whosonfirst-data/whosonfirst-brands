@@ -1,6 +1,28 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414466, 
+  "wof:brand_name": "Los Compadres", 
+  "wof:brand_id": 1125158801, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=professional", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=personal", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "services:personal=shoe_repair_and_shine", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:wholesale=fruits_and_vegetables", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "retail_goods:home_and_garden=building_materials", 
+    "services:organizations=community_association", 
+    "services:retail=auto_repair", 
+    "services:retail=repair_shop", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:food_and_drink=fast_food", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "mexican", 
     "eating", 
@@ -26,6 +48,6 @@
     "veggie", 
     "window"
   ], 
-  "wof:brand_name": "Los Compadres", 
-  "wof:brand_id": 1125158801
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416239
 }

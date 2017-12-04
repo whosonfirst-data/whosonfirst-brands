@@ -1,7 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414521, 
-  "wof:tags": [], 
   "wof:brand_name": "Frans Bonhomme", 
-  "wof:brand_id": 1125156971
+  "wof:brand_id": 1125156971, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=rubber_and_plastics", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "sg:transportation=transit_center", 
+    "transportation:transit_center=freight", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416283
 }

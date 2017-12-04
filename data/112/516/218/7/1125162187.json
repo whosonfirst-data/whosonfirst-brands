@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414540, 
+  "wof:brand_name": "Civil Air Patrol", 
+  "wof:brand_id": 1125162187, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "sg:public_place=government", 
+    "public_place:government=office", 
+    "sg:services=organizations", 
+    "services:organizations=professional_association", 
+    "services:professional=detective_and_security_services", 
+    "sg:transportation=airport", 
+    "sg:transportation=local_transit", 
+    "public_place:government=fire_station", 
+    "services:organizations=membership_organization", 
+    "services:organizations=nonprofit_organization", 
+    "services:professional=management_and_consulting"
+  ], 
   "wof:tags": [
     "establishment", 
     "security", 
@@ -16,6 +30,6 @@
     "department", 
     "federal"
   ], 
-  "wof:brand_name": "Civil Air Patrol", 
-  "wof:brand_id": 1125162187
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416298
 }

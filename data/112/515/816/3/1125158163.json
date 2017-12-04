@@ -1,11 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414535, 
+  "wof:brand_name": "Planet Beach Tanning Salon", 
+  "wof:brand_id": 1125158163, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=tanning_parlor"
+  ], 
   "wof:tags": [
     "salon", 
     "beauty", 
     "shop"
   ], 
-  "wof:brand_name": "Planet Beach Tanning Salon", 
-  "wof:brand_id": 1125158163
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416294
 }

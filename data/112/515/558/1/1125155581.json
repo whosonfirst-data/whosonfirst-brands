@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414475, 
+  "wof:brand_name": "Certa Pro Painters", 
+  "wof:brand_id": 1125155581, 
+  "wof:categories": [
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "painter", 
     "contractor", 
@@ -15,6 +19,6 @@
     "wallcoverings-installation", 
     "wallpaper"
   ], 
-  "wof:brand_name": "Certa Pro Painters", 
-  "wof:brand_id": 1125155581
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416246
 }

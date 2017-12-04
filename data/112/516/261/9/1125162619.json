@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414546, 
+  "wof:brand_name": "Dollar Daze", 
+  "wof:brand_id": 1125162619, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:services=real_estate", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "services:professional=management_and_consulting", 
+    "services:real_estate=real_estate_operator", 
+    "services:real_estate=real_estate_services", 
+    "sg:public_place=shopping_center", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "shop", 
     "mall", 
@@ -13,6 +27,6 @@
     "planning", 
     "shopping"
   ], 
-  "wof:brand_name": "Dollar Daze", 
-  "wof:brand_id": 1125162619
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416302
 }

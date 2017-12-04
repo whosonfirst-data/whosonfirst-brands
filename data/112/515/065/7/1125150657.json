@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414484, 
+  "wof:brand_name": "American General Life Ins Co", 
+  "wof:brand_id": 1125150657, 
+  "wof:categories": [
+    "services:insurance=insurance_agent", 
+    "sg:services=insurance", 
+    "sg:services=banks_and_credit_unions", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "annuity", 
     "consultant", 
@@ -9,6 +18,6 @@
     "intercommunication", 
     "planning"
   ], 
-  "wof:brand_name": "American General Life Ins Co", 
-  "wof:brand_id": 1125150657
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416253
 }

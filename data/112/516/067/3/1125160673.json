@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414544, 
+  "wof:brand_name": "Super Cleaners", 
+  "wof:brand_id": 1125160673, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "services:retail=selfservice_laundry", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "cleaners", 
     "drycleaning", 
@@ -12,6 +19,6 @@
     "garment", 
     "janitor"
   ], 
-  "wof:brand_name": "Super Cleaners", 
-  "wof:brand_id": 1125160673
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416301
 }

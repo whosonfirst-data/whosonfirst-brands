@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414554, 
+  "wof:brand_name": "A&W Restaurant", 
+  "wof:brand_id": 1125148911, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=ice_cream", 
+    "sg:retail_goods=food_and_beverages", 
+    "entertainment:travel=campground", 
+    "retail_goods:food_and_beverages=candy", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "services:professional=management_and_consulting", 
+    "sg:entertainment=travel", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "american", 
     "burger", 
@@ -27,6 +38,6 @@
     "shop", 
     "wrap"
   ], 
-  "wof:brand_name": "A&W Restaurant", 
-  "wof:brand_id": 1125148911
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416309
 }

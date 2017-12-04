@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414478, 
+  "wof:brand_name": "Unilab Corp", 
+  "wof:brand_id": 1125153649, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=medical_lab", 
+    "sg:services=professional", 
+    "services:professional=testing_lab", 
+    "services:health_services=doctor", 
+    "services:professional=research", 
+    "services:professional=business_services"
+  ], 
   "wof:tags": [
     "laboratory", 
     "x", 
@@ -8,6 +17,6 @@
     "physician", 
     "surgeon"
   ], 
-  "wof:brand_name": "Unilab Corp", 
-  "wof:brand_id": 1125153649
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416248
 }

@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414459, 
+  "wof:brand_name": "Corporation of President of Th", 
+  "wof:brand_id": 420574209, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=religious_organization", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:organizations=professional_association", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "church", 
     "christ", 
@@ -10,6 +17,6 @@
     "mormon", 
     "saint"
   ], 
-  "wof:brand_name": "Corporation of President of Th", 
-  "wof:brand_id": 420574209
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416233
 }

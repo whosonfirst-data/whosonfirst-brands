@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414488, 
+  "wof:brand_name": "Brake Masters", 
+  "wof:brand_id": 1125154849, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "automobile", 
     "brake", 
@@ -18,6 +27,6 @@
     "repair", 
     "tire"
   ], 
-  "wof:brand_name": "Brake Masters", 
-  "wof:brand_id": 1125154849
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416256
 }

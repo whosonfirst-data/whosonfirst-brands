@@ -1,10 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414513, 
+  "wof:brand_name": "Chiropractic Health Ctr", 
+  "wof:brand_id": 1125156205, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=chiropractor", 
+    "services:health_services=doctor"
+  ], 
   "wof:tags": [
     "chiropractic", 
     "clinic"
   ], 
-  "wof:brand_name": "Chiropractic Health Ctr", 
-  "wof:brand_id": 1125156205
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416277
 }

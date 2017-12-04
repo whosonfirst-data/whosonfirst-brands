@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414517, 
+  "wof:brand_name": "Cytasa Comunicaciones S.l.", 
+  "wof:brand_id": 1125155915, 
+  "wof:categories": [
+    "food_and_drink:tea_room=none", 
+    "sg:food_and_drink=tea_room"
+  ], 
   "wof:tags": [
     "snack"
   ], 
-  "wof:brand_name": "Cytasa Comunicaciones S.l.", 
-  "wof:brand_id": 1125155915
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416280
 }

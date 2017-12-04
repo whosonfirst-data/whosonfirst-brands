@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414534, 
+  "wof:brand_name": "Iron Mountain Information MGT", 
+  "wof:brand_id": 1125154761, 
+  "wof:categories": [
+    "sg:transportation=freight", 
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "services:professional=management_and_consulting"
+  ], 
   "wof:tags": [
     "record", 
     "storage", 
@@ -31,6 +37,6 @@
     "technical", 
     "warehouse"
   ], 
-  "wof:brand_name": "Iron Mountain Information MGT", 
-  "wof:brand_id": 1125154761
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416293
 }

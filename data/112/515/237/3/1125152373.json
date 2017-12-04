@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414534, 
+  "wof:brand_name": "Roto-Rooter Plumbing & Drain Service", 
+  "wof:brand_id": 1125152373, 
+  "wof:categories": [
+    "services:building_and_trades=plumbing", 
+    "sg:services=building_and_trades", 
+    "services:utilities=sewage", 
+    "sg:services=utilities", 
+    "retail_goods:home_and_garden=building_materials", 
+    "services:building_and_trades=construction", 
+    "sg:retail_goods=home_and_garden", 
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "services:utilities=water", 
+    "public_place:government=fire_station", 
+    "services:building_and_trades=landscaping_services", 
+    "sg:public_place=conference_center", 
+    "sg:public_place=government", 
+    "retail_goods:home_and_garden=hardware", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "services:building_and_trades=electrical"
+  ], 
   "wof:tags": [
     "sewer", 
     "heater", 
@@ -42,6 +60,6 @@
     "supply", 
     "tanks-treatment"
   ], 
-  "wof:brand_name": "Roto-Rooter Plumbing & Drain Service", 
-  "wof:brand_id": 1125152373
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416293
 }

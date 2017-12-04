@@ -1,11 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414558, 
+  "wof:brand_name": "New York & Co", 
+  "wof:brand_id": 1125149203, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "retail_goods:shopping=department_store", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "accessory", 
     "clothing", 
     "women's"
   ], 
-  "wof:brand_name": "New York & Co", 
-  "wof:brand_id": 1125149203
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416312
 }

@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414513, 
+  "wof:brand_name": "Dickey's Barbecue Pit", 
+  "wof:brand_id": 1125152521, 
+  "wof:categories": [
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:food_and_drink=restaurant", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "barbecue", 
     "american", 
@@ -11,6 +16,6 @@
     "family", 
     "style"
   ], 
-  "wof:brand_name": "Dickey's Barbecue Pit", 
-  "wof:brand_id": 1125152521
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416276
 }

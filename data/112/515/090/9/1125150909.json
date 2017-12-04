@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414494, 
+  "wof:brand_name": "AIG Sunamerica", 
+  "wof:brand_id": 1125150909, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:insurance=insurance_agent", 
+    "sg:services=insurance", 
+    "services:professional=accounting_and_tax_preparation", 
+    "sg:services=professional", 
+    "services:banks_and_credit_unions=bank", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "security", 
     "financial", 
@@ -17,6 +28,6 @@
     "management", 
     "return"
   ], 
-  "wof:brand_name": "AIG Sunamerica", 
-  "wof:brand_id": 1125150909
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416262
 }

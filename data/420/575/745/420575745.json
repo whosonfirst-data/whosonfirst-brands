@@ -1,10 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414450, 
+  "wof:brand_name": "Communications Workers-America", 
+  "wof:brand_id": 420575745, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=labor_organization", 
+    "services:building_and_trades=electrical", 
+    "services:organizations=professional_association", 
+    "sg:services=building_and_trades", 
+    "sg:services=communications"
+  ], 
   "wof:tags": [
     "communications", 
     "contractor"
   ], 
-  "wof:brand_name": "Communications Workers-America", 
-  "wof:brand_id": 420575745
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416226
 }

@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414506, 
+  "wof:brand_name": "Dakota Watch Co", 
+  "wof:brand_id": 1125153289, 
+  "wof:categories": [
+    "services:retail=repair_shop", 
+    "sg:services=retail", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=jewelry", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:utilities=telephone", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "watch", 
     "band", 
@@ -11,6 +20,6 @@
     "jewelry", 
     "shop"
   ], 
-  "wof:brand_name": "Dakota Watch Co", 
-  "wof:brand_id": 1125153289
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416271
 }

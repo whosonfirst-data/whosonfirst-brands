@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414516, 
+  "wof:brand_name": "Weis Markets", 
+  "wof:brand_id": 1125156685, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "sg:food_and_drink=bakery", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=pharmacy", 
+    "retail_goods:shopping=florist", 
+    "sg:food_and_drink=restaurant", 
+    "public_place:government=post_office", 
+    "retail_goods:food_and_beverages=farmers_market", 
+    "retail_goods:shopping=party_supplies", 
+    "services:professional=business_services", 
+    "sg:food_and_drink=deli", 
+    "sg:public_place=government", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "super", 
     "florist", 
@@ -19,6 +36,6 @@
     "vegetable", 
     "wedding"
   ], 
-  "wof:brand_name": "Weis Markets", 
-  "wof:brand_id": 1125156685
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416278
 }

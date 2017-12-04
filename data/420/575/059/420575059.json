@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414444, 
+  "wof:brand_name": "CARQUEST Auto Parts", 
+  "wof:brand_id": 420575059, 
+  "wof:categories": [
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "automobile", 
     "accessory", 
@@ -19,6 +29,6 @@
     "mfg", 
     "store"
   ], 
-  "wof:brand_name": "CARQUEST Auto Parts", 
-  "wof:brand_id": 420575059
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416222
 }

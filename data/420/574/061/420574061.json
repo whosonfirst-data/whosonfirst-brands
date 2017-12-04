@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414455, 
+  "wof:brand_name": "US Bank", 
+  "wof:brand_id": 420574061, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "services:professional=computer_services", 
+    "services:building_and_trades=equipment_rental", 
+    "services:insurance=insurance_agent", 
+    "services:professional=management_and_consulting", 
+    "sg:services=building_and_trades", 
+    "sg:services=insurance", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "commercial", 
     "national", 
@@ -47,6 +63,6 @@
     "trust", 
     "union"
   ], 
-  "wof:brand_name": "US Bank", 
-  "wof:brand_id": 420574061
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416230
 }

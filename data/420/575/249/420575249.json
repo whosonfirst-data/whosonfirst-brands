@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414444, 
+  "wof:brand_name": "British Red Cross Society", 
+  "wof:brand_id": 420575249, 
+  "wof:categories": [
+    "services:organizations=nonprofit_organization", 
+    "sg:services=organizations", 
+    "retail_goods:shopping=thrift_store", 
+    "sg:retail_goods=shopping", 
+    "services:health_services=doctor", 
+    "sg:services=health_services", 
+    "public_place:education=special_training", 
+    "services:health_services=clinic", 
+    "sg:public_place=education", 
+    "sg:services=social_services", 
+    "manufacturing_and_wholesale_goods:farming=nursery", 
+    "services:communications=newspaper", 
+    "services:retail=event_space", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:services=communications", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "charity", 
     "organisation", 
@@ -20,6 +38,6 @@
     "planning", 
     "room"
   ], 
-  "wof:brand_name": "British Red Cross Society", 
-  "wof:brand_id": 420575249
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416221
 }

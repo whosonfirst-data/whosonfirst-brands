@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414446, 
+  "wof:brand_name": "Burlington Coat Factory", 
+  "wof:brand_id": 420575963, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:shopping=shoes", 
+    "retail_goods:shopping=baby_store", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=jewelry", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=leather_goods", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "entertainment:sports_and_exercise=bicycle_rental", 
+    "manufacturing_and_wholesale_goods:manufacturing=wood_products", 
+    "services:professional=computer_services", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:services=personal", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "family", 
     "clothing", 
@@ -38,6 +58,6 @@
     "woman", 
     "work"
   ], 
-  "wof:brand_name": "Burlington Coat Factory", 
-  "wof:brand_id": 420575963
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416223
 }

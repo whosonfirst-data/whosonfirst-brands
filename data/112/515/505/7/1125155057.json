@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414481, 
+  "wof:brand_name": "SunAmerica", 
+  "wof:brand_id": 1125155057, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=insurance", 
+    "sg:services=professional", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=life_insurance", 
+    "services:professional=management_and_consulting", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:insurance=hazard_insurance", 
+    "services:personal=hair_removal", 
+    "services:professional=research", 
+    "services:real_estate=real_estate_operator", 
+    "sg:services=personal", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "security", 
     "advisory", 
@@ -21,6 +37,6 @@
     "nonresidential", 
     "se"
   ], 
-  "wof:brand_name": "SunAmerica", 
-  "wof:brand_id": 1125155057
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416251
 }

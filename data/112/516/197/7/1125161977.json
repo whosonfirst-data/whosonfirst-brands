@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414543, 
+  "wof:brand_name": "Ritter's Frozen Custard", 
+  "wof:brand_id": 1125161977, 
+  "wof:categories": [
+    "sg:food_and_drink=ice_cream", 
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=dairy", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=bakery"
+  ], 
   "wof:tags": [
     "american", 
     "new", 
@@ -13,6 +20,6 @@
     "yogurt", 
     "product"
   ], 
-  "wof:brand_name": "Ritter's Frozen Custard", 
-  "wof:brand_id": 1125161977
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416300
 }

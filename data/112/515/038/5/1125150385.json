@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414530, 
+  "wof:brand_name": "Massage Envy", 
+  "wof:brand_id": 1125150385, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=massage", 
+    "sg:services=health_services", 
+    "services:personal=day_spa", 
+    "services:health_services=clinic", 
+    "services:health_services=health_practitioner", 
+    "services:personal=beauty_salon", 
+    "services:personal=skin_care", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "therapist", 
     "physical", 
@@ -15,6 +28,6 @@
     "mortgage", 
     "salon"
   ], 
-  "wof:brand_name": "Massage Envy", 
-  "wof:brand_id": 1125150385
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416290
 }

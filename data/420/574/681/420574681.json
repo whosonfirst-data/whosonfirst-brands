@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414462, 
+  "wof:brand_name": "Carlson Wagonlit Travel", 
+  "wof:brand_id": 420574681, 
+  "wof:categories": [
+    "entertainment:travel=travel_agent", 
+    "sg:entertainment=travel", 
+    "sg:transportation=airline", 
+    "sg:transportation=marine", 
+    "sg:transportation=railroad", 
+    "public_place:landmark=tourist_information", 
+    "sg:public_place=landmark", 
+    "sg:services=professional", 
+    "services:professional=accounting_and_tax_preparation", 
+    "sg:public_place=conference_center", 
+    "sg:transportation=airport"
+  ], 
   "wof:tags": [
     "agency", 
     "bureau", 
@@ -23,6 +36,6 @@
     "package", 
     "programing"
   ], 
-  "wof:brand_name": "Carlson Wagonlit Travel", 
-  "wof:brand_id": 420574681
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416236
 }

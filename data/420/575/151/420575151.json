@@ -1,6 +1,25 @@
 {
   "wof:brand_name": "Nextel", 
   "wof:brand_id": 420575151, 
+  "wof:categories": [
+    "sg:services=utilities", 
+    "services:utilities=mobile_phone", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=mobile_phones", 
+    "services:utilities=telephone", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=communications", 
+    "sg:services=professional", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "sg:transportation=freight", 
+    "services:insurance=insurance_agent", 
+    "services:professional=business_services", 
+    "services:professional=computer_services", 
+    "services:professional=management_and_consulting", 
+    "sg:services=insurance", 
+    "sg:transportation=airline"
+  ], 
   "wof:tags": [
     "telephone", 
     "cellular", 
@@ -50,6 +69,6 @@
     1125149915
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414445, 
+  "wof:lastmodified": 1512416223, 
   "mz:is_current": 1
 }

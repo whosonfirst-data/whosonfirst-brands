@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414459, 
+  "wof:brand_name": "Tesco Stores Ltd.", 
+  "wof:brand_id": 420574841, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=supermarket", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:shopping=pharmacy", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "public_place:structure=warehouse", 
+    "services:professional=business_services", 
+    "sg:public_place=community_center", 
+    "sg:public_place=structure", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "petrol", 
     "chemist", 
@@ -9,6 +23,6 @@
     "hr", 
     "distribution"
   ], 
-  "wof:brand_name": "Tesco Stores Ltd.", 
-  "wof:brand_id": 420574841
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416233
 }

@@ -1,6 +1,40 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414517, 
+  "wof:brand_name": "French Connection", 
+  "wof:brand_id": 1125157847, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:entertainment=travel", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:food_and_drink=restaurant", 
+    "sg:services=professional", 
+    "entertainment:arts_and_performance=theater", 
+    "entertainment:sports_and_exercise=bicycle_rental", 
+    "entertainment:travel=hotels_and_motels", 
+    "entertainment:travel=travel_agent", 
+    "public_place:education=special_training", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:personal=tanning_parlor", 
+    "services:professional=art_services", 
+    "services:retail=animal_services", 
+    "services:social_services=child_care", 
+    "services:utilities=electric", 
+    "sg:entertainment=arts_and_performance", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:food_and_drink=fast_food", 
+    "sg:public_place=education", 
+    "sg:services=retail", 
+    "sg:services=social_services", 
+    "sg:services=utilities", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "shop", 
     "wear", 
@@ -41,6 +75,6 @@
     "storage", 
     "take"
   ], 
-  "wof:brand_name": "French Connection", 
-  "wof:brand_id": 1125157847
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416280
 }

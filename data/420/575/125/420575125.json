@@ -1,6 +1,42 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414452, 
+  "wof:brand_name": "International Paper", 
+  "wof:brand_id": 420575125, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=paper_products", 
+    "manufacturing_and_wholesale_goods:manufacturing=lumber", 
+    "sg:services=professional", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:professional=management_and_consulting", 
+    "sg:services=banks_and_credit_unions", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:manufacturing=wood_products", 
+    "manufacturing_and_wholesale_goods:wholesale=construction_materials", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=real_estate", 
+    "manufacturing_and_wholesale_goods:manufacturing=building_materials", 
+    "manufacturing_and_wholesale_goods:manufacturing=petroleum_products", 
+    "manufacturing_and_wholesale_goods:manufacturing=rubber_and_plastics", 
+    "manufacturing_and_wholesale_goods:wholesale=chemicals_and_plastics", 
+    "public_place:structure=warehouse", 
+    "retail_goods:home_and_garden=carpets_and_floor_coverings", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "services:real_estate=real_estate_agent", 
+    "services:real_estate=real_estate_operator", 
+    "services:retail=storage", 
+    "services:utilities=recycling", 
+    "sg:public_place=structure", 
+    "sg:services=retail", 
+    "sg:services=utilities", 
+    "sg:transportation=airport", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "paper", 
     "mill", 
@@ -107,6 +143,6 @@
     "warehouses-merchandise", 
     "work"
   ], 
-  "wof:brand_name": "International Paper", 
-  "wof:brand_id": 420575125
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416227
 }

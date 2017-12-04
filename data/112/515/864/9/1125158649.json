@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414525, 
+  "wof:brand_name": "The Children's Place", 
+  "wof:brand_id": 1125158649, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=baby_store", 
+    "services:social_services=child_care", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "children's", 
     "clothing", 
@@ -8,6 +15,6 @@
     "wear", 
     "day"
   ], 
-  "wof:brand_name": "The Children's Place", 
-  "wof:brand_id": 1125158649
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416286
 }

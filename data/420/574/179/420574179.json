@@ -1,11 +1,18 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414462, 
+  "wof:brand_name": "Smart Style Family Hair Salon", 
+  "wof:brand_id": 420574179, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "shop", 
     "beauty", 
     "salon"
   ], 
-  "wof:brand_name": "Smart Style Family Hair Salon", 
-  "wof:brand_id": 420574179
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416236
 }

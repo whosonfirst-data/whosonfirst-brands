@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414536, 
+  "wof:brand_name": "Tangles Hair Salon", 
+  "wof:brand_id": 1125156665, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "services:personal=nail_salon"
+  ], 
   "wof:tags": [
     "shop", 
     "hairdresser", 
@@ -10,6 +16,6 @@
     "beauty", 
     "tanning"
   ], 
-  "wof:brand_name": "Tangles Hair Salon", 
-  "wof:brand_id": 1125156665
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416295
 }

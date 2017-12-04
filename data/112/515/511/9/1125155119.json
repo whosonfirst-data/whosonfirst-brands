@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414496, 
+  "wof:brand_name": "Elders Limited", 
+  "wof:brand_id": 1125155119, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=insurance", 
+    "manufacturing_and_wholesale_goods:farming=farm_and_veterinary_services", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "manufacturing_and_wholesale_goods:wholesale=farm_supplies", 
+    "services:insurance=hazard_insurance", 
+    "services:insurance=insurance_agent", 
+    "services:real_estate=developer", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "agent", 
     "stock", 
@@ -12,6 +27,6 @@
     "fire", 
     "marine"
   ], 
-  "wof:brand_name": "Elders Limited", 
-  "wof:brand_id": 1125155119
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416263
 }

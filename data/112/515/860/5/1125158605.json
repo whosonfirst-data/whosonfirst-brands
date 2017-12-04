@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414511, 
+  "wof:brand_name": "Professionals", 
+  "wof:brand_id": 1125158605, 
+  "wof:categories": [
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate", 
+    "sg:services=personal", 
+    "sg:services=professional", 
+    "services:building_and_trades=construction", 
+    "services:personal=beauty_salon", 
+    "sg:services=building_and_trades", 
+    "sg:services=retail", 
+    "services:health_services=nursing_and_care_facility", 
+    "services:personal=barber", 
+    "services:professional=employment_agencies", 
+    "services:professional=secretarial_services", 
+    "services:retail=car_wash", 
+    "services:retail=photofinishing", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "establishment", 
     "home", 
@@ -14,6 +31,6 @@
     "repairing", 
     "resume"
   ], 
-  "wof:brand_name": "Professionals", 
-  "wof:brand_id": 1125158605
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416275
 }

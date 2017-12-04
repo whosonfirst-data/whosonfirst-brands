@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414502, 
+  "wof:brand_name": "Commercial Hotel", 
+  "wof:brand_id": 1125153589, 
+  "wof:categories": [
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:food_and_drink=restaurant", 
+    "public_place:community_center=social", 
+    "sg:public_place=community_center", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:social_services=adult_care", 
+    "sg:retail_goods=shopping", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "accommodation", 
     "inn", 
@@ -16,6 +28,6 @@
     "suit", 
     "tourism"
   ], 
-  "wof:brand_name": "Commercial Hotel", 
-  "wof:brand_id": 1125153589
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416268
 }

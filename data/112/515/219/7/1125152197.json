@@ -1,12 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414502, 
+  "wof:brand_name": "Early Learning Centre", 
+  "wof:brand_id": 1125152197, 
+  "wof:categories": [
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=news", 
+    "services:social_services=child_care", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "toy", 
     "shop", 
     "sale", 
     "newsagent"
   ], 
-  "wof:brand_name": "Early Learning Centre", 
-  "wof:brand_id": 1125152197
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416267
 }

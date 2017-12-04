@@ -1,7 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414550, 
-  "wof:tags": [], 
   "wof:brand_name": "Shell Co Of Australia Ltd The", 
-  "wof:brand_id": 1125162401
+  "wof:brand_id": 1125162401, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416306
 }

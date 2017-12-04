@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414503, 
+  "wof:brand_name": "LCA", 
+  "wof:brand_id": 1125152789, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=research", 
+    "sg:services=health_services", 
+    "services:insurance=insurance_agent", 
+    "sg:services=insurance", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:health_services=clinic", 
+    "services:health_services=doctor", 
+    "services:health_services=medical_lab", 
+    "services:professional=testing_lab", 
+    "services:retail=repair_shop", 
+    "sg:retail_goods=shopping", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "establishment", 
     "laboratory", 
@@ -14,6 +29,6 @@
     "item", 
     "printing"
   ], 
-  "wof:brand_name": "LCA", 
-  "wof:brand_id": 1125152789
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416269
 }

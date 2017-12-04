@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414457, 
+  "wof:brand_name": "Fastenal Company", 
+  "wof:brand_id": 420574577, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "sg:retail_goods=home_and_garden", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "retail_goods:home_and_garden=building_materials", 
+    "manufacturing_and_wholesale_goods:wholesale=hardware", 
+    "retail_goods:home_and_garden=hardware", 
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "industrial", 
     "fastener", 
@@ -29,6 +41,6 @@
     "store", 
     "tool"
   ], 
-  "wof:brand_name": "Fastenal Company", 
-  "wof:brand_id": 420574577
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416232
 }

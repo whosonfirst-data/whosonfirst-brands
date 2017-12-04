@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414539, 
+  "wof:brand_name": "Hair Crafters", 
+  "wof:brand_id": 1125160205, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "retail_goods:shopping=crafts_and_fabrics", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "shop", 
     "art", 
@@ -10,6 +19,6 @@
     "hair", 
     "unisex"
   ], 
-  "wof:brand_name": "Hair Crafters", 
-  "wof:brand_id": 1125160205
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416297
 }

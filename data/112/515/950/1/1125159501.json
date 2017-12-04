@@ -1,12 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414520, 
+  "wof:brand_name": "Citizens Bank of Pennsylvania", 
+  "wof:brand_id": 1125159501, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "state", 
     "commercial", 
     "national", 
     "full"
   ], 
-  "wof:brand_name": "Citizens Bank of Pennsylvania", 
-  "wof:brand_id": 1125159501
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416282
 }

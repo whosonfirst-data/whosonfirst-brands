@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414459, 
+  "wof:brand_name": "Bethel Baptist Church", 
+  "wof:brand_id": 420574663, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "sg:public_place=place_of_worship", 
+    "public_place:place_of_worship=church", 
+    "public_place:education=school", 
+    "services:social_services=child_care", 
+    "sg:public_place=education", 
+    "sg:services=social_services", 
+    "retail_goods:shopping=books", 
+    "services:building_and_trades=construction", 
+    "sg:retail_goods=shopping", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "church", 
     "churches-baptist", 
@@ -17,6 +31,6 @@
     "school", 
     "worship"
   ], 
-  "wof:brand_name": "Bethel Baptist Church", 
-  "wof:brand_id": 420574663
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416233
 }

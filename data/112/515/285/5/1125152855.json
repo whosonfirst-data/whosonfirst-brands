@@ -1,6 +1,40 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414466, 
+  "wof:brand_name": "Changes", 
+  "wof:brand_id": 1125152855, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:personal=barber", 
+    "sg:services=social_services", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=textiles", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:shopping=used_merchandise", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=building_and_trades", 
+    "entertainment:arts_and_performance=theater", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:food_and_beverages=specialty", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:shopping=baby_store", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "retail_goods:shopping=department_store", 
+    "services:building_and_trades=equipment_rental", 
+    "services:building_and_trades=landscaping_services", 
+    "services:professional=engineering", 
+    "services:real_estate=real_estate_agent", 
+    "services:social_services=adult_care", 
+    "services:social_services=job_training", 
+    "sg:entertainment=arts_and_performance", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "shop", 
     "furnishing", 
@@ -27,6 +61,6 @@
     "welfare", 
     "women's"
   ], 
-  "wof:brand_name": "Changes", 
-  "wof:brand_id": 1125152855
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416239
 }

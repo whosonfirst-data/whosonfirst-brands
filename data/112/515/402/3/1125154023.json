@@ -1,6 +1,33 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414503, 
+  "wof:brand_name": "APAC", 
+  "wof:brand_id": 1125154023, 
+  "wof:categories": [
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=construction", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:wholesale=chemicals_and_plastics", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:manufacturing=glass_and_minerals", 
+    "manufacturing_and_wholesale_goods:manufacturing=petroleum_products", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "services:professional=business_services", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "retail_goods:home_and_garden=building_materials", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:retail_goods=shopping", 
+    "sg:transportation=freight", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "services:building_and_trades=equipment_rental", 
+    "services:insurance=insurance_agent", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:professional=management_and_consulting", 
+    "services:real_estate=developer", 
+    "sg:manufacturing_and_wholesale_goods=mining_and_drilling", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=insurance", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "mfg", 
     "contractor", 
@@ -55,6 +82,6 @@
     "warehouse", 
     "water"
   ], 
-  "wof:brand_name": "APAC", 
-  "wof:brand_id": 1125154023
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416269
 }

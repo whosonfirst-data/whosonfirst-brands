@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414467, 
+  "wof:brand_name": "Statoil Servicecenter", 
+  "wof:brand_id": 1125159383, 
+  "wof:categories": [
+    "services:building_and_trades=electrical", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "distributor"
   ], 
-  "wof:brand_name": "Statoil Servicecenter", 
-  "wof:brand_id": 1125159383
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416240
 }

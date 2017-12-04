@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414562, 
+  "wof:brand_name": "Safelite Autoglass", 
+  "wof:brand_id": 1125149657, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:manufacturing=glass_and_minerals", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "glass", 
     "replacement", 
@@ -15,6 +23,6 @@
     "shop", 
     "install"
   ], 
-  "wof:brand_name": "Safelite Autoglass", 
-  "wof:brand_id": 1125149657
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416316
 }

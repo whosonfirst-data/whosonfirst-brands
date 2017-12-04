@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414487, 
+  "wof:brand_name": "Lee's Famous Recipe Chicken", 
+  "wof:brand_id": 1125150833, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "sg:food_and_drink=fast_food"
+  ], 
   "wof:tags": [
     "american", 
     "convention", 
@@ -11,6 +17,6 @@
     "southern", 
     "take"
   ], 
-  "wof:brand_name": "Lee's Famous Recipe Chicken", 
-  "wof:brand_id": 1125150833
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416255
 }

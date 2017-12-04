@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414516, 
+  "wof:brand_name": "Express Oil Change", 
+  "wof:brand_id": 1125151261, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "public_place:government=office", 
+    "sg:manufacturing_and_wholesale_goods=mining_and_drilling", 
+    "sg:public_place=government", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "automobile", 
     "automotive", 
@@ -21,6 +32,6 @@
     "smog", 
     "trucking"
   ], 
-  "wof:brand_name": "Express Oil Change", 
-  "wof:brand_id": 1125151261
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416279
 }

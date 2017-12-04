@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414510, 
+  "wof:brand_name": "Build-A-Bear Workshop", 
+  "wof:brand_id": 1125153003, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "retail_goods:shopping=crafts_and_fabrics", 
+    "sg:services=personal", 
+    "services:professional=computer_services"
+  ], 
   "wof:tags": [
     "store", 
     "toy", 
@@ -11,6 +20,6 @@
     "hobby", 
     "shop"
   ], 
-  "wof:brand_name": "Build-A-Bear Workshop", 
-  "wof:brand_id": 1125153003
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416275
 }

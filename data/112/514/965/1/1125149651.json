@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414562, 
+  "wof:brand_name": "GMAC Mortgage", 
+  "wof:brand_id": 1125149651, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate", 
+    "services:professional=business_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "loan", 
     "real estate", 
@@ -8,6 +17,6 @@
     "broker", 
     "arbitration"
   ], 
-  "wof:brand_name": "GMAC Mortgage", 
-  "wof:brand_id": 1125149651
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416316
 }

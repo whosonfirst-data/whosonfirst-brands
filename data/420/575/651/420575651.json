@@ -1,6 +1,34 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414445, 
+  "wof:brand_name": "Postnet", 
+  "wof:brand_id": 420575651, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "services:professional=advertising", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:professional=printing_and_photocopies", 
+    "sg:transportation=freight", 
+    "sg:services=personal", 
+    "public_place:government=post_office", 
+    "sg:public_place=government", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "services:communications=news_services", 
+    "sg:services=communications", 
+    "manufacturing_and_wholesale_goods:manufacturing=furniture", 
+    "manufacturing_and_wholesale_goods:wholesale=office_equipment", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:professional=art_services", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping", 
+    "sg:transportation=transit_center", 
+    "transportation:transit_center=freight", 
+    "entertainment:travel=travel_agent", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=computer_services", 
+    "services:professional=management_and_consulting", 
+    "sg:entertainment=travel"
+  ], 
   "wof:tags": [
     "shipping", 
     "notary", 
@@ -58,6 +86,6 @@
     "transmission", 
     "trucking"
   ], 
-  "wof:brand_name": "Postnet", 
-  "wof:brand_id": 420575651
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416222
 }

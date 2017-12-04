@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414526, 
+  "wof:brand_name": "Mount Zion Baptist Church", 
+  "wof:brand_id": 1125150747, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship", 
+    "public_place:landmark=historic", 
+    "sg:public_place=landmark"
+  ], 
   "wof:tags": [
     "church", 
     "churches-baptist", 
@@ -21,6 +29,6 @@
     "worship", 
     "zion"
   ], 
-  "wof:brand_name": "Mount Zion Baptist Church", 
-  "wof:brand_id": 1125150747
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416287
 }

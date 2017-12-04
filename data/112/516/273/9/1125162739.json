@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414544, 
+  "wof:brand_name": "Nch Action for Children", 
+  "wof:brand_id": 1125162739, 
+  "wof:categories": [
+    "services:organizations=nonprofit_organization", 
+    "sg:services=organizations", 
+    "retail_goods:shopping=thrift_store", 
+    "sg:retail_goods=shopping", 
+    "services:social_services=child_care", 
+    "sg:services=social_services", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:professional=computer_services", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "charity", 
     "organisation", 
@@ -13,6 +25,6 @@
     "software", 
     "system"
   ], 
-  "wof:brand_name": "Nch Action for Children", 
-  "wof:brand_id": 1125162739
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416301
 }

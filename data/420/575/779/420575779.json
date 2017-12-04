@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414449, 
+  "wof:brand_name": "Argos Ltd.", 
+  "wof:brand_id": 420575779, 
+  "wof:categories": [
+    "retail_goods:shopping=catalog_store", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "catalogue", 
     "showroom", 
@@ -9,6 +13,6 @@
     "mail", 
     "order"
   ], 
-  "wof:brand_name": "Argos Ltd.", 
-  "wof:brand_id": 420575779
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416226
 }

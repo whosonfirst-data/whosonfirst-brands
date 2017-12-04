@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414534, 
+  "wof:brand_name": "Ernest Jones", 
+  "wof:brand_id": 1125156073, 
+  "wof:categories": [
+    "retail_goods:shopping=comic_books", 
+    "sg:retail_goods=shopping", 
+    "public_place:education=music_school", 
+    "retail_goods:shopping=jewelry", 
+    "services:building_and_trades=construction", 
+    "sg:public_place=education", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "jeweller", 
     "heavy", 
@@ -8,6 +17,6 @@
     "sale", 
     "teacher"
   ], 
-  "wof:brand_name": "Ernest Jones", 
-  "wof:brand_id": 1125156073
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416293
 }

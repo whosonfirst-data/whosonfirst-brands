@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414502, 
+  "wof:brand_name": "Autopro", 
+  "wof:brand_id": 1125151759, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:manufacturing=motor_vehicles_and_parts", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "public_place:government=fire_station", 
+    "sg:public_place=government", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "accessory", 
     "replacement", 
@@ -23,6 +36,6 @@
     "supply", 
     "system"
   ], 
-  "wof:brand_name": "Autopro", 
-  "wof:brand_id": 1125151759
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416268
 }

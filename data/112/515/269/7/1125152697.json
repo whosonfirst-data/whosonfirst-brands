@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414495, 
+  "wof:brand_name": "Ardene", 
+  "wof:brand_id": 1125152697, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=jewelry", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=department_store"
+  ], 
   "wof:tags": [
     "jeweler", 
     "boutique", 
@@ -8,6 +15,6 @@
     "accessory", 
     "shop"
   ], 
-  "wof:brand_name": "Ardene", 
-  "wof:brand_id": 1125152697
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416263
 }

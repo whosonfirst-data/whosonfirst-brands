@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414556, 
+  "wof:brand_name": "Footaction", 
+  "wof:brand_id": 1125149317, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=shoes", 
+    "sg:entertainment=sports_and_exercise", 
+    "entertainment:sports_and_exercise=bicycle_rental", 
+    "entertainment:sports_and_exercise=bowling", 
+    "retail_goods:shopping=clothing_apparel_and_fashions"
+  ], 
   "wof:tags": [
     "store", 
     "wear", 
@@ -9,6 +17,6 @@
     "clothing", 
     "shoe"
   ], 
-  "wof:brand_name": "Footaction", 
-  "wof:brand_id": 1125149317
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416310
 }

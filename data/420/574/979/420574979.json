@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414462, 
+  "wof:brand_name": "Medicine Shoppe Pharmacy", 
+  "wof:brand_id": 420574979, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=pharmacy", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=medical_equipment_and_supplies", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "manufacturing_and_wholesale_goods:wholesale=drugs", 
+    "services:health_services=health_practitioner", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "drugstore", 
     "drug", 
@@ -15,6 +26,6 @@
     "pharmacy", 
     "product"
   ], 
-  "wof:brand_name": "Medicine Shoppe Pharmacy", 
-  "wof:brand_id": 420574979
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416235
 }

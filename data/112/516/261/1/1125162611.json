@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414546, 
+  "wof:brand_name": "Decisionone", 
+  "wof:brand_id": 1125162611, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=computer_services", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "repair", 
     "maintenance", 
@@ -22,6 +27,6 @@
     "ship", 
     "support"
   ], 
-  "wof:brand_name": "Decisionone", 
-  "wof:brand_id": 1125162611
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416302
 }

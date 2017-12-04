@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414511, 
+  "wof:brand_name": "Lutheran Brotherhood Insurance", 
+  "wof:brand_id": 1125151739, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=hazard_insurance", 
+    "services:insurance=life_insurance"
+  ], 
   "wof:tags": [
     "business", 
     "commercial", 
@@ -16,6 +22,6 @@
     "loan", 
     "security"
   ], 
-  "wof:brand_name": "Lutheran Brotherhood Insurance", 
-  "wof:brand_id": 1125151739
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416275
 }

@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414468, 
+  "wof:brand_name": "Wawa", 
+  "wof:brand_id": 1125150649, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:food_and_drink=deli", 
+    "sg:retail_goods=shopping", 
+    "food_and_drink:bars_and_pubs=lounge", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "retail_goods:food_and_beverages=bakery", 
+    "retail_goods:food_and_beverages=specialty", 
+    "retail_goods:shopping=crafts_and_fabrics", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "super", 
     "bakery", 
@@ -14,6 +31,6 @@
     "sewing", 
     "supermarket"
   ], 
-  "wof:brand_name": "Wawa", 
-  "wof:brand_id": 1125150649
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416240
 }

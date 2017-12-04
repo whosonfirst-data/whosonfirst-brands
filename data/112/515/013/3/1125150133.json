@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414496, 
+  "wof:brand_name": "Linens 'n Things", 
+  "wof:brand_id": 1125150133, 
+  "wof:categories": [
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:home_and_garden=garden_supply"
+  ], 
   "wof:tags": [
     "linen", 
     "accessory", 
@@ -8,6 +14,6 @@
     "bedding", 
     "housewares"
   ], 
-  "wof:brand_name": "Linens 'n Things", 
-  "wof:brand_id": 1125150133
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416264
 }

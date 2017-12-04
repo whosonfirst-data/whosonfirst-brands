@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414557, 
+  "wof:brand_name": "Mister Minit", 
+  "wof:brand_id": 1125149281, 
+  "wof:categories": [
+    "services:building_and_trades=locksmith", 
+    "sg:services=building_and_trades", 
+    "retail_goods:shopping=shoes", 
+    "sg:retail_goods=shopping", 
+    "services:personal=shoe_repair_and_shine", 
+    "sg:services=personal", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "lock", 
     "shoemaker", 
@@ -13,6 +23,6 @@
     "shoe", 
     "wear"
   ], 
-  "wof:brand_name": "Mister Minit", 
-  "wof:brand_id": 1125149281
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416311
 }

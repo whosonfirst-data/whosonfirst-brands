@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414500, 
+  "wof:brand_name": "Royster-Clark Inc", 
+  "wof:brand_id": 1125152671, 
+  "wof:categories": [
+    "retail_goods:home_and_garden=garden_supply", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "manufacturing_and_wholesale_goods:wholesale=farm_supplies", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:wholesale=chemicals_and_plastics", 
+    "sg:transportation=freight", 
+    "services:retail=auto_repair", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "fertilizer", 
     "only", 
@@ -41,6 +53,6 @@
     "tobacco", 
     "truck"
   ], 
-  "wof:brand_name": "Royster-Clark Inc", 
-  "wof:brand_id": 1125152671
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416266
 }

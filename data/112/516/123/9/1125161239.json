@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414540, 
+  "wof:brand_name": "Peter", 
+  "wof:brand_id": 1125161239, 
+  "wof:categories": [
+    "sg:food_and_drink=bakery", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "baker", 
     "confectioner", 
@@ -8,6 +16,6 @@
     "high", 
     "stereophonic"
   ], 
-  "wof:brand_name": "Peter", 
-  "wof:brand_id": 1125161239
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416298
 }

@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414528, 
+  "wof:brand_name": "St.John Ambulance", 
+  "wof:brand_id": 1125152239, 
+  "wof:categories": [
+    "public_place:education=special_training", 
+    "sg:public_place=education", 
+    "services:organizations=nonprofit_organization", 
+    "sg:services=organizations", 
+    "retail_goods:shopping=thrift_store", 
+    "sg:retail_goods=shopping", 
+    "services:health_services=hospital", 
+    "sg:services=health_services", 
+    "sg:transportation=bus_charters"
+  ], 
   "wof:tags": [
     "aid", 
     "first", 
@@ -11,6 +22,6 @@
     "ambulance", 
     "coach"
   ], 
-  "wof:brand_name": "St.John Ambulance", 
-  "wof:brand_id": 1125152239
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416288
 }

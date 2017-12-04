@@ -1,10 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414515, 
+  "wof:brand_name": "I.T.P. The Income Tax Professionals", 
+  "wof:brand_id": 1125159583, 
+  "wof:categories": [
+    "services:professional=accounting_and_tax_preparation", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "consultant", 
     "taxation"
   ], 
-  "wof:brand_name": "I.T.P. The Income Tax Professionals", 
-  "wof:brand_id": 1125159583
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416278
 }

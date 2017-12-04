@@ -1,6 +1,28 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414526, 
+  "wof:brand_name": "Bath Fitter", 
+  "wof:brand_id": 1125156031, 
+  "wof:categories": [
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "services:retail=repair_shop", 
+    "sg:services=retail", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=building_materials", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=personal", 
+    "services:building_and_trades=plumbing", 
+    "manufacturing_and_wholesale_goods:manufacturing=building_materials", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "manufacturing_and_wholesale_goods:manufacturing=glass_and_minerals", 
+    "manufacturing_and_wholesale_goods:manufacturing=pottery", 
+    "retail_goods:home_and_garden=furniture", 
+    "services:professional=business_services", 
+    "services:real_estate=real_estate_agent", 
+    "sg:entertainment=recreation", 
+    "sg:services=professional", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "bathroom", 
     "remodeling", 
@@ -45,6 +67,6 @@
     "tub", 
     "wall"
   ], 
-  "wof:brand_name": "Bath Fitter", 
-  "wof:brand_id": 1125156031
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416287
 }

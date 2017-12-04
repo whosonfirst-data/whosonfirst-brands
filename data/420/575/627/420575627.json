@@ -1,7 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414445, 
-  "wof:tags": [], 
   "wof:brand_name": "Union Bank Of Switzerland", 
-  "wof:brand_id": 420575627
+  "wof:brand_id": 420575627, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416223
 }

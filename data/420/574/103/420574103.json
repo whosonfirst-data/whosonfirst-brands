@@ -1,6 +1,32 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414460, 
+  "wof:brand_name": "Alltel", 
+  "wof:brand_id": 420574103, 
+  "wof:categories": [
+    "sg:services=utilities", 
+    "services:utilities=mobile_phone", 
+    "services:utilities=telephone", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional", 
+    "retail_goods:shopping=mobile_phones", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "services:professional=computer_services", 
+    "services:professional=management_and_consulting", 
+    "services:professional=business_services", 
+    "services:building_and_trades=electrical", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:manufacturing=electronics", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "retail_goods:home_and_garden=mobile_homes", 
+    "retail_goods:shopping=department_store", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:retail=repair_shop", 
+    "services:utilities=cable", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=communications", 
+    "sg:services=retail", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "cellular", 
     "telephone", 
@@ -57,6 +83,6 @@
     "warehouse", 
     "wholesaler"
   ], 
-  "wof:brand_name": "Alltel", 
-  "wof:brand_id": 420574103
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416233
 }

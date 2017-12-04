@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414550, 
+  "wof:brand_name": "Family Practice Ctr", 
+  "wof:brand_id": 1125162235, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=doctor", 
+    "services:health_services=health_practitioner", 
+    "services:health_services=hospital"
+  ], 
   "wof:tags": [
     "physician", 
     "surgeon", 
@@ -17,6 +23,6 @@
     "therapist", 
     "treatment"
   ], 
-  "wof:brand_name": "Family Practice Ctr", 
-  "wof:brand_id": 1125162235
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416306
 }

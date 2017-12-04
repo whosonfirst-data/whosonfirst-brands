@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414546, 
+  "wof:brand_name": "Mr Movies", 
+  "wof:brand_id": 1125161907, 
+  "wof:categories": [
+    "entertainment:cinema=movie_rental", 
+    "sg:entertainment=cinema", 
+    "retail_goods:shopping=music", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "video", 
     "tape", 
@@ -12,6 +18,6 @@
     "sale", 
     "store"
   ], 
-  "wof:brand_name": "Mr Movies", 
-  "wof:brand_id": 1125161907
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416302
 }

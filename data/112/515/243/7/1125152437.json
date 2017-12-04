@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414489, 
+  "wof:brand_name": "The Hair Shop", 
+  "wof:brand_id": 1125152437, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "retail_goods:shopping=luggage_and_leather_goods"
+  ], 
   "wof:tags": [
     "hair", 
     "stylist", 
@@ -8,6 +16,6 @@
     "unisex", 
     "supply"
   ], 
-  "wof:brand_name": "The Hair Shop", 
-  "wof:brand_id": 1125152437
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416257
 }

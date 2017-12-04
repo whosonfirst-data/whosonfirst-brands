@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414540, 
+  "wof:brand_name": "Auto Glass Specialists Inc", 
+  "wof:brand_id": 1125161707, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=auto_repair", 
+    "retail_goods:home_and_garden=building_materials", 
+    "sg:retail_goods=home_and_garden", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "services:retail=repair_shop", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "glass", 
     "plate", 
@@ -18,6 +29,6 @@
     "sh", 
     "tinting"
   ], 
-  "wof:brand_name": "Auto Glass Specialists Inc", 
-  "wof:brand_id": 1125161707
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416298
 }

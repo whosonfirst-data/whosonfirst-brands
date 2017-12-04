@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414513, 
+  "wof:brand_name": "Littman Jewelers", 
+  "wof:brand_id": 1125153973, 
+  "wof:categories": [
+    "retail_goods:shopping=jewelry", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "manufacturing_and_wholesale_goods:manufacturing=jewelry", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "jeweler", 
     "appraiser", 
@@ -11,6 +19,6 @@
     "watch", 
     "repair"
   ], 
-  "wof:brand_name": "Littman Jewelers", 
-  "wof:brand_id": 1125153973
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416277
 }

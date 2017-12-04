@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414562, 
+  "wof:brand_name": "Linsco Private Ledger", 
+  "wof:brand_id": 1125149655, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "sg:services=insurance", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:insurance=hazard_insurance", 
+    "services:insurance=insurance_agent", 
+    "services:professional=business_services", 
+    "services:personal=hair_removal", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "bond", 
     "stock", 
@@ -28,6 +41,6 @@
     "profit", 
     "sharing"
   ], 
-  "wof:brand_name": "Linsco Private Ledger", 
-  "wof:brand_id": 1125149655
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416315
 }

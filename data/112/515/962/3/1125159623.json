@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414494, 
+  "wof:brand_name": "Nail Time", 
+  "wof:brand_id": 1125159623, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "manufacturing_and_wholesale_goods:wholesale=metals_and_minerals", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "manicuring", 
     "shop", 
@@ -13,6 +24,6 @@
     "salon", 
     "toilet"
   ], 
-  "wof:brand_name": "Nail Time", 
-  "wof:brand_id": 1125159623
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416261
 }

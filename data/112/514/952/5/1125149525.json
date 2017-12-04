@@ -1,12 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414557, 
+  "wof:brand_name": "Shoney's Restaurant", 
+  "wof:brand_id": 1125149525, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food"
+  ], 
   "wof:tags": [
     "american", 
     "family", 
     "style", 
     "take"
   ], 
-  "wof:brand_name": "Shoney's Restaurant", 
-  "wof:brand_id": 1125149525
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416311
 }

@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414544, 
+  "wof:brand_name": "Mi Ranchito", 
+  "wof:brand_id": 1125160909, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:food_and_beverages=meat_and_fish", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:retail_goods=shopping", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "mexican", 
     "eating", 
@@ -12,6 +23,6 @@
     "store", 
     "super"
   ], 
-  "wof:brand_name": "Mi Ranchito", 
-  "wof:brand_id": 1125160909
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416301
 }

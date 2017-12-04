@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414454, 
+  "wof:brand_name": "Primerica Financial Svc", 
+  "wof:brand_id": 420573979, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:insurance=hazard_insurance", 
+    "sg:services=professional", 
+    "services:banks_and_credit_unions=bank", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=management_and_consulting", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "financial", 
     "advisory", 
@@ -17,6 +31,6 @@
     "mutual", 
     "return"
   ], 
-  "wof:brand_name": "Primerica Financial Svc", 
-  "wof:brand_id": 420573979
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416229
 }

@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414512, 
+  "wof:brand_name": "Adventures In Advertising", 
+  "wof:brand_id": 1125153273, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=advertising", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "services:professional=business_services", 
+    "services:professional=management_and_consulting", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "manufacturing_and_wholesale_goods:manufacturing=signs", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:professional=art_services", 
+    "sg:entertainment=recreation", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "advertising", 
     "agency", 
@@ -32,6 +48,6 @@
     "silk", 
     "t"
   ], 
-  "wof:brand_name": "Adventures In Advertising", 
-  "wof:brand_id": 1125153273
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416276
 }

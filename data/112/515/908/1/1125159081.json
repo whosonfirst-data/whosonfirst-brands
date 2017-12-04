@@ -1,12 +1,23 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414472, 
+  "wof:brand_name": "Shoe Pavilion", 
+  "wof:brand_id": 1125159081, 
+  "wof:categories": [
+    "retail_goods:shopping=shoes", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:manufacturing=leather_goods", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:personal=shoe_repair_and_shine", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "store", 
     "shoes", 
     "handbag", 
     "sunglass"
   ], 
-  "wof:brand_name": "Shoe Pavilion", 
-  "wof:brand_id": 1125159081
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416243
 }

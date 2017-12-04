@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414464, 
+  "wof:brand_name": "Salon 2000", 
+  "wof:brand_id": 1125157493, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "services:personal=massage", 
+    "services:personal=nail_salon", 
+    "sg:food_and_drink=bars_and_pubs"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
@@ -9,6 +17,6 @@
     "hairdresser", 
     "therapist"
   ], 
-  "wof:brand_name": "Salon 2000", 
-  "wof:brand_id": 1125157493
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416237
 }

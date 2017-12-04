@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414547, 
+  "wof:brand_name": "Southeastern Freight Lines", 
+  "wof:brand_id": 1125162013, 
+  "wof:categories": [
+    "sg:transportation=freight", 
+    "sg:transportation=transit_center", 
+    "transportation:transit_center=freight"
+  ], 
   "wof:tags": [
     "trucking", 
     "hauling", 
@@ -16,6 +21,6 @@
     "terminal", 
     "truck"
   ], 
-  "wof:brand_name": "Southeastern Freight Lines", 
-  "wof:brand_id": 1125162013
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416304
 }

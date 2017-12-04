@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414524, 
+  "wof:brand_name": "White Horse Inn", 
+  "wof:brand_id": 1125155553, 
+  "wof:categories": [
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:entertainment=travel", 
+    "entertainment:travel=hotels_and_motels", 
+    "sg:food_and_drink=restaurant", 
+    "entertainment:travel=bed_and_breakfast", 
+    "public_place:community_center=social", 
+    "sg:public_place=community_center", 
+    "services:organizations=religious_organization", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "inn", 
     "pubs", 
@@ -20,6 +31,6 @@
     "tavern", 
     "tourist"
   ], 
-  "wof:brand_name": "White Horse Inn", 
-  "wof:brand_id": 1125155553
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416285
 }

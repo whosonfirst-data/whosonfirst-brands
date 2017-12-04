@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414542, 
+  "wof:brand_name": "Children's Center", 
+  "wof:brand_id": 1125160455, 
+  "wof:categories": [
+    "sg:services=social_services", 
+    "services:social_services=child_care", 
+    "sg:public_place=education", 
+    "public_place:education=school", 
+    "sg:services=health_services", 
+    "sg:services=organizations", 
+    "sg:services=professional", 
+    "services:organizations=nonprofit_organization", 
+    "services:health_services=doctor", 
+    "services:health_services=health_practitioner", 
+    "services:health_services=hospital", 
+    "public_place:education=preschool", 
+    "services:organizations=membership_organization", 
+    "sg:entertainment=recreation"
+  ], 
   "wof:tags": [
     "academic", 
     "kindergarten", 
@@ -26,6 +42,6 @@
     "sitting", 
     "surgeon"
   ], 
-  "wof:brand_name": "Children's Center", 
-  "wof:brand_id": 1125160455
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416299
 }

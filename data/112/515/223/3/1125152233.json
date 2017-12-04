@@ -1,11 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414528, 
+  "wof:brand_name": "Probation Service", 
+  "wof:brand_id": 1125152233, 
+  "wof:categories": [
+    "sg:public_place=government", 
+    "public_place:government=office", 
+    "sg:services=social_services", 
+    "public_place:government=police_station"
+  ], 
   "wof:tags": [
     "central", 
     "local", 
     "probation"
   ], 
-  "wof:brand_name": "Probation Service", 
-  "wof:brand_id": 1125152233
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416288
 }

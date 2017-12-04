@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414557, 
+  "wof:brand_name": "Tropical Smoothie", 
+  "wof:brand_id": 1125149789, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=deli", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:food_and_drink=ice_cream", 
+    "sg:services=professional", 
+    "food_and_drink:juice_bar=none", 
+    "sg:food_and_drink=food_court", 
+    "sg:food_and_drink=juice_bar", 
+    "retail_goods:food_and_beverages=bakery", 
+    "retail_goods:food_and_beverages=dairy", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:professional=business_services", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "smoothy", 
     "american", 
@@ -23,6 +39,6 @@
     "smoothie", 
     "yogurt"
   ], 
-  "wof:brand_name": "Tropical Smoothie", 
-  "wof:brand_id": 1125149789
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416312
 }

@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414447, 
+  "wof:brand_name": "Fed Ex Kinko's Ofc & Print Ctr", 
+  "wof:brand_id": 420575035, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "sg:services=professional", 
+    "services:professional=advertising", 
+    "manufacturing_and_wholesale_goods:manufacturing=signs", 
+    "services:professional=printing_and_photocopies", 
+    "sg:transportation=airline", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "printer", 
     "mailing", 
@@ -11,6 +21,6 @@
     "courier", 
     "delivery"
   ], 
-  "wof:brand_name": "Fed Ex Kinko's Ofc & Print Ctr", 
-  "wof:brand_id": 420575035
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416224
 }

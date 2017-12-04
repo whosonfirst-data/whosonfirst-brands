@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414490, 
+  "wof:brand_name": "Hope Lutheran Church", 
+  "wof:brand_id": 1125153155, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "sg:public_place=place_of_worship", 
+    "public_place:place_of_worship=church", 
+    "services:social_services=child_care", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "church", 
     "churches-lutheran", 
@@ -10,6 +18,6 @@
     "day", 
     "clergy"
   ], 
-  "wof:brand_name": "Hope Lutheran Church", 
-  "wof:brand_id": 1125153155
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416258
 }

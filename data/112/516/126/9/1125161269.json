@@ -1,7 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414549, 
-  "wof:tags": [], 
   "wof:brand_name": "Sandra", 
-  "wof:brand_id": 1125161269
+  "wof:brand_id": 1125161269, 
+  "wof:categories": [
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416305
 }

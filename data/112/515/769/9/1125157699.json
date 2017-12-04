@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414481, 
+  "wof:brand_name": "Physicians Mutual Insurance Co", 
+  "wof:brand_id": 1125157699, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=health_insurance", 
+    "services:insurance=hazard_insurance", 
+    "services:health_services=clinic", 
+    "services:insurance=life_insurance", 
+    "sg:services=health_services", 
+    "services:health_services=doctor"
+  ], 
   "wof:tags": [
     "carrier", 
     "accident", 
@@ -17,6 +27,6 @@
     "physician", 
     "surgeon"
   ], 
-  "wof:brand_name": "Physicians Mutual Insurance Co", 
-  "wof:brand_id": 1125157699
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416250
 }

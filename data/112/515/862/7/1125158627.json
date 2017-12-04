@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414487, 
+  "wof:brand_name": "Salon Salon", 
+  "wof:brand_id": 1125158627, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "services:personal=barber", 
+    "services:personal=skin_care", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
@@ -15,6 +25,6 @@
     "mfg", 
     "used"
   ], 
-  "wof:brand_name": "Salon Salon", 
-  "wof:brand_id": 1125158627
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416256
 }

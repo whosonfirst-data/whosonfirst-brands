@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414511, 
+  "wof:brand_name": "Kirby Co", 
+  "wof:brand_id": 1125151737, 
+  "wof:categories": [
+    "retail_goods:home_and_garden=household_appliances", 
+    "sg:retail_goods=home_and_garden", 
+    "services:retail=repair_shop", 
+    "sg:services=retail", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "vacuum", 
     "cleaners", 
@@ -23,6 +33,6 @@
     "small", 
     "system"
   ], 
-  "wof:brand_name": "Kirby Co", 
-  "wof:brand_id": 1125151737
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416275
 }

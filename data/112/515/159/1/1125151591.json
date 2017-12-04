@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414473, 
+  "wof:brand_name": "First Horizon Home Loan Corp", 
+  "wof:brand_id": 1125151591, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "loan", 
     "real estate", 
@@ -12,6 +17,6 @@
     "financing", 
     "national"
   ], 
-  "wof:brand_name": "First Horizon Home Loan Corp", 
-  "wof:brand_id": 1125151591
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416244
 }

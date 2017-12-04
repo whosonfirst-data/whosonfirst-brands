@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414549, 
+  "wof:brand_name": "Elrac Inc", 
+  "wof:brand_id": 1125160487, 
+  "wof:categories": [
+    "services:retail=auto_rental", 
+    "sg:services=retail", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "services:professional=management_and_consulting", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "car", 
     "passenger", 
@@ -12,6 +20,6 @@
     "sale", 
     "truck"
   ], 
-  "wof:brand_name": "Elrac Inc", 
-  "wof:brand_id": 1125160487
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416305
 }

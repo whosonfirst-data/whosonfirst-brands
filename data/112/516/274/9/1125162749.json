@@ -1,10 +1,15 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414537, 
+  "wof:brand_name": "Ontario Provincial Police", 
+  "wof:brand_id": 1125162749, 
+  "wof:categories": [
+    "sg:public_place=government", 
+    "public_place:government=police_station", 
+    "public_place:government=office"
+  ], 
   "wof:tags": [
     "department", 
     "police"
   ], 
-  "wof:brand_name": "Ontario Provincial Police", 
-  "wof:brand_id": 1125162749
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416296
 }

@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414492, 
+  "wof:brand_name": "Dollar Discount", 
+  "wof:brand_id": 1125151777, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "services:professional=business_services", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:home_and_garden=hardware", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "shop", 
     "merchandise", 
@@ -9,6 +23,6 @@
     "department", 
     "dollar"
   ], 
-  "wof:brand_name": "Dollar Discount", 
-  "wof:brand_id": 1125151777
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416260
 }

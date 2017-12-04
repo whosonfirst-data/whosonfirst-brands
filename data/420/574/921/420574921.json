@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414461, 
+  "wof:brand_name": "Sears Optical", 
+  "wof:brand_id": 420574921, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=optical_goods", 
+    "retail_goods:shopping=optician", 
+    "services:health_services=optometrist", 
+    "sg:services=health_services", 
+    "services:personal=shoe_repair_and_shine", 
+    "sg:services=personal", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "manufacturing_and_wholesale_goods:wholesale=medical_equipment_and_supplies", 
+    "services:retail=repair_shop", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "eyewear", 
     "optician", 
@@ -26,6 +42,6 @@
     "merchandise", 
     "wear"
   ], 
-  "wof:brand_name": "Sears Optical", 
-  "wof:brand_id": 420574921
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416234
 }

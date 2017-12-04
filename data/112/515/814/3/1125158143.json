@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414529, 
+  "wof:brand_name": "Mount Carmel Baptist Church", 
+  "wof:brand_id": 1125158143, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "church", 
     "churches-baptist", 
@@ -9,6 +17,6 @@
     "executive", 
     "state"
   ], 
-  "wof:brand_name": "Mount Carmel Baptist Church", 
-  "wof:brand_id": 1125158143
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416289
 }

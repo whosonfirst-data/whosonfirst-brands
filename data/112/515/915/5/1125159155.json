@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414522, 
+  "wof:brand_name": "Autobarn", 
+  "wof:brand_id": 1125159155, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=motor_vehicles_and_parts", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "replacement", 
     "car", 
@@ -19,6 +31,6 @@
     "specialist", 
     "supply"
   ], 
-  "wof:brand_name": "Autobarn", 
-  "wof:brand_id": 1125159155
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416284
 }

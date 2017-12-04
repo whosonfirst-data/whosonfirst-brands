@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414514, 
+  "wof:brand_name": "Precision Painting", 
+  "wof:brand_id": 1125155661, 
+  "wof:categories": [
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=construction", 
+    "retail_goods:home_and_garden=building_materials", 
+    "services:building_and_trades=plumbing", 
+    "services:professional=computer_services", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "contractor", 
     "hanging", 
@@ -15,6 +24,6 @@
     "residential", 
     "wallcoverings"
   ], 
-  "wof:brand_name": "Precision Painting", 
-  "wof:brand_id": 1125155661
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416277
 }

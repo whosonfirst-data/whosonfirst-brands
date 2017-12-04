@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414557, 
+  "wof:brand_name": "Kindergarten", 
+  "wof:brand_id": 1125148719, 
+  "wof:categories": [
+    "services:retail=animal_services", 
+    "services:social_services=child_care", 
+    "sg:services=retail", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "academic", 
     "breeder", 
@@ -8,6 +14,6 @@
     "kindergarten", 
     "school"
   ], 
-  "wof:brand_name": "Kindergarten", 
-  "wof:brand_id": 1125148719
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416311
 }

@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414450, 
+  "wof:brand_name": "Huntington National Bank", 
+  "wof:brand_id": 420575349, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:insurance=insurance_agent", 
+    "services:professional=business_services", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=insurance", 
+    "sg:services=professional", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "national", 
     "commercial", 
@@ -15,6 +26,6 @@
     "loan", 
     "mtg"
   ], 
-  "wof:brand_name": "Huntington National Bank", 
-  "wof:brand_id": 420575349
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416226
 }

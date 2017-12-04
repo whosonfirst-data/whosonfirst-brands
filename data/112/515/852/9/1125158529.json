@@ -1,11 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414529, 
+  "wof:brand_name": "Farmers National Co", 
+  "wof:brand_id": 1125158529, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:farming=farm_and_veterinary_services", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "management", 
     "appraiser", 
     "establishment"
   ], 
-  "wof:brand_name": "Farmers National Co", 
-  "wof:brand_id": 1125158529
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416289
 }

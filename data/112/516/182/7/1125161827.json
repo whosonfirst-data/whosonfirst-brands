@@ -1,6 +1,36 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414540, 
+  "wof:brand_name": "Friends", 
+  "wof:brand_id": 1125161827, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "services:personal=beauty_salon", 
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:services=organizations", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:organizations=community_association", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=furniture", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:food_and_beverages=candy", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:building_and_trades=construction", 
+    "services:organizations=nonprofit_organization", 
+    "services:organizations=professional_association", 
+    "sg:food_and_drink=deli", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=building_and_trades", 
+    "sg:services=professional", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "drinking", 
     "club", 
@@ -32,6 +62,6 @@
     "wholesaler", 
     "women's"
   ], 
-  "wof:brand_name": "Friends", 
-  "wof:brand_id": 1125161827
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416298
 }

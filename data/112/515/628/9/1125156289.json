@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414470, 
+  "wof:brand_name": "Pentecostal Church", 
+  "wof:brand_id": 1125156289, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "church", 
     "churches-interdenominational", 
@@ -10,6 +17,6 @@
     "churches-various", 
     "denomination"
   ], 
-  "wof:brand_name": "Pentecostal Church", 
-  "wof:brand_id": 1125156289
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416242
 }

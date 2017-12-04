@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414504, 
+  "wof:brand_name": "Firstmerit Bank NA", 
+  "wof:brand_id": 1125158775, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "national", 
     "commercial", 
@@ -9,6 +13,6 @@
     "institution", 
     "savings"
   ], 
-  "wof:brand_name": "Firstmerit Bank NA", 
-  "wof:brand_id": 1125158775
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416270
 }

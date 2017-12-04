@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414552, 
+  "wof:brand_name": "American Title Co", 
+  "wof:brand_id": 1125160415, 
+  "wof:categories": [
+    "services:real_estate=real_estate_services", 
+    "sg:services=real_estate", 
+    "services:professional=lawyer_and_legal_services", 
+    "sg:services=professional", 
+    "services:insurance=title_insurance", 
+    "sg:services=insurance", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:retail_goods=shopping", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "title", 
     "company", 
@@ -9,6 +23,6 @@
     "carrier", 
     "escrow"
   ], 
-  "wof:brand_name": "American Title Co", 
-  "wof:brand_id": 1125160415
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416307
 }

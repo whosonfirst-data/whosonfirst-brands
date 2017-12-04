@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414456, 
+  "wof:brand_name": "Pacific Sunwear", 
+  "wof:brand_id": 420574485, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=shoes", 
+    "sg:entertainment=sports_and_exercise", 
+    "entertainment:sports_and_exercise=bicycle_rental", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "entertainment:sports_and_exercise=swimming_pool", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=optician", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:banks_and_credit_unions=bank", 
+    "services:health_services=hospital", 
+    "sg:public_place=shopping_center", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "sportswear", 
     "casual", 
@@ -31,6 +48,6 @@
     "shop", 
     "swimwear"
   ], 
-  "wof:brand_name": "Pacific Sunwear", 
-  "wof:brand_id": 420574485
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416230
 }

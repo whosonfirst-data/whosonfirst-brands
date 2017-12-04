@@ -1,6 +1,29 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414482, 
+  "wof:brand_name": "Embroidme", 
+  "wof:brand_id": 1125152035, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "sg:retail_goods=shopping", 
+    "sg:services=personal", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=crafts_and_fabrics", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "services:professional=printing_and_photocopies", 
+    "entertainment:sports_and_exercise=bicycle_rental", 
+    "manufacturing_and_wholesale_goods:manufacturing=furniture", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "services:professional=advertising", 
+    "services:retail=repair_shop", 
+    "sg:entertainment=recreation", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:public_place=industrial_area", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "embroidery", 
     "sewing", 
@@ -30,6 +53,6 @@
     "store", 
     "wholesale"
   ], 
-  "wof:brand_name": "Embroidme", 
-  "wof:brand_id": 1125152035
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416251
 }

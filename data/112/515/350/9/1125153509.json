@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414492, 
+  "wof:brand_name": "Clarica Life Insurance CO", 
+  "wof:brand_id": 1125153509, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=banks_and_credit_unions", 
+    "services:insurance=hazard_insurance"
+  ], 
   "wof:tags": [
     "consultant", 
     "insurance", 
@@ -9,6 +16,6 @@
     "mutual", 
     "planning"
   ], 
-  "wof:brand_name": "Clarica Life Insurance CO", 
-  "wof:brand_id": 1125153509
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416260
 }

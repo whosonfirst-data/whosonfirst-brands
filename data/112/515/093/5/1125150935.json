@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414528, 
+  "wof:brand_name": "Deb Shops", 
+  "wof:brand_id": 1125150935, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:services=personal", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:personal=beauty_salon", 
+    "services:personal=massage", 
+    "services:professional=management_and_consulting", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:services=professional", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "store", 
     "accessory", 
@@ -20,6 +36,6 @@
     "teenage", 
     "wear"
   ], 
-  "wof:brand_name": "Deb Shops", 
-  "wof:brand_id": 1125150935
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416288
 }

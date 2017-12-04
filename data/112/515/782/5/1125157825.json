@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414489, 
+  "wof:brand_name": "Cushman & Wakefield Inc", 
+  "wof:brand_id": 1125157825, 
+  "wof:categories": [
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "services:real_estate=real_estate_services", 
+    "services:real_estate=real_estate_operator", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:real_estate=developer", 
+    "services:real_estate=surveying"
+  ], 
   "wof:tags": [
     "management", 
     "broker", 
@@ -20,6 +31,6 @@
     "opera", 
     "rental"
   ], 
-  "wof:brand_name": "Cushman & Wakefield Inc", 
-  "wof:brand_id": 1125157825
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416257
 }

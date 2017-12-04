@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414513, 
+  "wof:brand_name": "North American Title Co", 
+  "wof:brand_id": 1125154345, 
+  "wof:categories": [
+    "services:real_estate=real_estate_services", 
+    "sg:services=real_estate", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:insurance=title_insurance", 
+    "sg:services=insurance", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:insurance=hazard_insurance", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "title", 
     "company", 
@@ -9,6 +20,6 @@
     "mortgage", 
     "carrier"
   ], 
-  "wof:brand_name": "North American Title Co", 
-  "wof:brand_id": 1125154345
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416277
 }

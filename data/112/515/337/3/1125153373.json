@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414518, 
+  "wof:brand_name": "Decorating Den", 
+  "wof:brand_id": 1125153373, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "sg:retail_goods=home_and_garden", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:home_and_garden=furniture", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:wholesale=home_furnishings", 
+    "retail_goods:home_and_garden=carpets_and_floor_coverings", 
+    "retail_goods:shopping=catalog_store", 
+    "retail_goods:shopping=crafts_and_fabrics", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:professional=management_and_consulting", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "interior", 
     "design", 
@@ -33,6 +50,6 @@
     "supply", 
     "venetian"
   ], 
-  "wof:brand_name": "Decorating Den", 
-  "wof:brand_id": 1125153373
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416280
 }

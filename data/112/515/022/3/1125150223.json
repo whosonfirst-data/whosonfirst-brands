@@ -1,12 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414515, 
+  "wof:brand_name": "Natural Resources Dept", 
+  "wof:brand_id": 1125150223, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:entertainment=recreation"
+  ], 
   "wof:tags": [
     "state", 
     "program", 
     "government-state", 
     "parks"
   ], 
-  "wof:brand_name": "Natural Resources Dept", 
-  "wof:brand_id": 1125150223
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416278
 }

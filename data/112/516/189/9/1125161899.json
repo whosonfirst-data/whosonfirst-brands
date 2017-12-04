@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414547, 
+  "wof:brand_name": "Money Mailer Inc", 
+  "wof:brand_id": 1125161899, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=advertising", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "services:professional=management_and_consulting", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "mail", 
     "consultant", 
@@ -11,6 +18,6 @@
     "marketing", 
     "printer"
   ], 
-  "wof:brand_name": "Money Mailer Inc", 
-  "wof:brand_id": 1125161899
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416303
 }

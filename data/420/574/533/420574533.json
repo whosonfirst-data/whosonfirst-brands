@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414458, 
+  "wof:brand_name": "Valvoline Instant Oil Change", 
+  "wof:brand_id": 420574533, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=auto_repair", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=mining_and_drilling", 
+    "manufacturing_and_wholesale_goods:manufacturing=petroleum_products", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "services:building_and_trades=equipment_rental", 
+    "services:retail=repair_shop", 
+    "services:utilities=fuel_oil_and_lpg", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=building_and_trades", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "automobile", 
     "lubrication", 
@@ -41,6 +61,6 @@
     "transmission", 
     "wholesale"
   ], 
-  "wof:brand_name": "Valvoline Instant Oil Change", 
-  "wof:brand_id": 420574533
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416233
 }

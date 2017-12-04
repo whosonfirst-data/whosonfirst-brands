@@ -1,6 +1,32 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414499, 
+  "wof:brand_name": "Marine Corps League", 
+  "wof:brand_id": 1125155795, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=community_association", 
+    "sg:services=professional", 
+    "services:organizations=membership_organization", 
+    "services:professional=business_services", 
+    "services:organizations=nonprofit_organization", 
+    "services:organizations=professional_association", 
+    "sg:public_place=military_area", 
+    "public_place:government=office", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:public_place=government", 
+    "entertainment:travel=hotels_and_motels", 
+    "public_place:education=school", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "services:health_services=hospital", 
+    "services:real_estate=real_estate_operator", 
+    "services:retail=event_space", 
+    "sg:entertainment=travel", 
+    "sg:food_and_drink=restaurant", 
+    "sg:public_place=education", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=health_services", 
+    "sg:services=real_estate", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "military", 
     "armed", 
@@ -28,6 +54,6 @@
     "specialty", 
     "station"
   ], 
-  "wof:brand_name": "Marine Corps League", 
-  "wof:brand_id": 1125155795
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416266
 }

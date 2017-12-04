@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414538, 
+  "wof:brand_name": "Jewelry Box", 
+  "wof:brand_id": 1125160871, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=jewelry", 
+    "manufacturing_and_wholesale_goods:manufacturing=jewelry", 
+    "manufacturing_and_wholesale_goods:wholesale=jewelry", 
+    "services:retail=repair_shop", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=retail", 
+    "retail_goods:shopping=used_merchandise"
+  ], 
   "wof:tags": [
     "jeweler", 
     "precious", 
@@ -16,6 +27,6 @@
     "pawnbroker", 
     "repairing"
   ], 
-  "wof:brand_name": "Jewelry Box", 
-  "wof:brand_id": 1125160871
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416296
 }

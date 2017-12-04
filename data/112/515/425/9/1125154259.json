@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414504, 
+  "wof:brand_name": "Tilt", 
+  "wof:brand_id": 1125154259, 
+  "wof:categories": [
+    "sg:entertainment=recreation", 
+    "entertainment:recreation=amusement_park", 
+    "entertainment:recreation=arcade", 
+    "entertainment:recreation=picnic_area", 
+    "public_place:landmark=tourist_information", 
+    "sg:public_place=landmark", 
+    "sg:food_and_drink=cafe", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "amusement", 
     "video", 
@@ -25,6 +38,6 @@
     "organization", 
     "welfare"
   ], 
-  "wof:brand_name": "Tilt", 
-  "wof:brand_id": 1125154259
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416269
 }

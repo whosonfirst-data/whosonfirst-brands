@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414517, 
+  "wof:brand_name": "Huntington Learning Ctr", 
+  "wof:brand_id": 1125153311, 
+  "wof:categories": [
+    "sg:public_place=education", 
+    "public_place:education=special_training", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional", 
+    "public_place:education=school", 
+    "public_place:education=library", 
+    "services:professional=business_services"
+  ], 
   "wof:tags": [
     "tutoring", 
     "center", 
@@ -15,6 +24,6 @@
     "test", 
     "testing"
   ], 
-  "wof:brand_name": "Huntington Learning Ctr", 
-  "wof:brand_id": 1125153311
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416280
 }

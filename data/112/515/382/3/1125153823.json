@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414472, 
+  "wof:brand_name": "The Paper Shop", 
+  "wof:brand_id": 1125153823, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=news", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=crafts_and_fabrics", 
+    "retail_goods:shopping=department_store"
+  ], 
   "wof:tags": [
     "newsagent", 
     "accessory", 
@@ -10,6 +17,6 @@
     "sport", 
     "supply"
   ], 
-  "wof:brand_name": "The Paper Shop", 
-  "wof:brand_id": 1125153823
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416243
 }

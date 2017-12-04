@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414538, 
+  "wof:brand_name": "Mountain View Apartments", 
+  "wof:brand_id": 1125160917, 
+  "wof:categories": [
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_operator", 
+    "services:real_estate=real_estate_agent", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "apartment", 
     "building", 
@@ -11,6 +18,6 @@
     "citizen", 
     "senior"
   ], 
-  "wof:brand_name": "Mountain View Apartments", 
-  "wof:brand_id": 1125160917
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416296
 }

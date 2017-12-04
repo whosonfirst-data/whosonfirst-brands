@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414534, 
+  "wof:brand_name": "UAW", 
+  "wof:brand_id": 1125151527, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=labor_organization", 
+    "services:organizations=nonprofit_organization", 
+    "services:professional=management_and_consulting", 
+    "services:retail=auto_repair", 
+    "sg:services=professional", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "consultant", 
     "union", 
@@ -8,6 +17,6 @@
     "local", 
     "training"
   ], 
-  "wof:brand_name": "UAW", 
-  "wof:brand_id": 1125151527
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416293
 }

@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414465, 
+  "wof:brand_name": "New Life Assembly Of God", 
+  "wof:brand_id": 1125152963, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship"
+  ], 
   "wof:tags": [
     "church", 
     "churches-assemblies", 
@@ -9,6 +15,6 @@
     "place", 
     "worship"
   ], 
-  "wof:brand_name": "New Life Assembly Of God", 
-  "wof:brand_id": 1125152963
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416238
 }

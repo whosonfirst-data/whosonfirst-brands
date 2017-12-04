@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414493, 
+  "wof:brand_name": "Extended Stay America", 
+  "wof:brand_id": 1125152471, 
+  "wof:categories": [
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel", 
+    "services:real_estate=real_estate_operator", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "operation", 
     "operations", 
@@ -10,6 +16,6 @@
     "stay", 
     "term"
   ], 
-  "wof:brand_name": "Extended Stay America", 
-  "wof:brand_id": 1125152471
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416261
 }

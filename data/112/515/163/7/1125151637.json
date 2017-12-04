@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414491, 
+  "wof:brand_name": "Citigroup Global Markets Inc", 
+  "wof:brand_id": 1125151637, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=bank", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "security", 
     "stock", 
@@ -27,6 +35,6 @@
     "personal", 
     "transfer"
   ], 
-  "wof:brand_name": "Citigroup Global Markets Inc", 
-  "wof:brand_id": 1125151637
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416258
 }

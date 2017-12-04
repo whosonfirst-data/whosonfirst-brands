@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414543, 
+  "wof:brand_name": "Life Pregnancy Care Service", 
+  "wof:brand_id": 1125162305, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=testing_lab", 
+    "services:health_services=clinic", 
+    "sg:public_place=shopping_center", 
+    "sg:services=health_services", 
+    "services:organizations=nonprofit_organization", 
+    "services:professional=lawyer_and_legal_services", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "pregnancy", 
     "centre", 
@@ -11,6 +21,6 @@
     "organisation", 
     "voluntary"
   ], 
-  "wof:brand_name": "Life Pregnancy Care Service", 
-  "wof:brand_id": 1125162305
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416300
 }

@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414481, 
+  "wof:brand_name": "BFI", 
+  "wof:brand_id": 1125154101, 
+  "wof:categories": [
+    "services:utilities=refuse", 
+    "sg:services=utilities", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=scrap", 
+    "manufacturing_and_wholesale_goods:wholesale=furniture", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:services=professional", 
+    "sg:transportation=freight", 
+    "manufacturing_and_wholesale_goods:manufacturing=retail_goods", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "services:professional=management_and_consulting", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "system", 
     "collection", 
@@ -25,6 +42,6 @@
     "trucking", 
     "village"
   ], 
-  "wof:brand_name": "BFI", 
-  "wof:brand_id": 1125154101
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416251
 }

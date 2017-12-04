@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414559, 
+  "wof:brand_name": "Hollywood Tans", 
+  "wof:brand_id": 1125149465, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=tanning_parlor", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:personal=beauty_salon", 
+    "services:professional=business_services", 
+    "services:professional=management_and_consulting", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "salon", 
     "tanning", 
@@ -16,6 +29,6 @@
     "selling", 
     "shop"
   ], 
-  "wof:brand_name": "Hollywood Tans", 
-  "wof:brand_id": 1125149465
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416313
 }

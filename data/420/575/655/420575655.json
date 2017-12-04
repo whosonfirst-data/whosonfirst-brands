@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414453, 
+  "wof:brand_name": "Sports Authority", 
+  "wof:brand_id": 420575655, 
+  "wof:categories": [
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "sg:retail_goods=shopping", 
+    "entertainment:sports_and_exercise=bicycle_rental", 
+    "sg:entertainment=sports_and_exercise", 
+    "entertainment:recreation=fishing", 
+    "entertainment:recreation=water_park", 
+    "entertainment:sports_and_exercise=golf", 
+    "entertainment:sports_and_exercise=gym", 
+    "entertainment:sports_and_exercise=tennis_court", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "sg:entertainment=recreation", 
+    "sg:transportation=marine", 
+    "sg:transportation=parking", 
+    "transportation:parking=bicycle", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "equipment", 
     "archery", 
@@ -27,6 +45,6 @@
     "exercise", 
     "store"
   ], 
-  "wof:brand_name": "Sports Authority", 
-  "wof:brand_id": 420575655
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416228
 }

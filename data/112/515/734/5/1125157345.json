@@ -1,12 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414519, 
+  "wof:brand_name": "Burton Menswear Ltd", 
+  "wof:brand_id": 1125157345, 
+  "wof:categories": [
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=shopping", 
+    "public_place:government=office", 
+    "sg:public_place=government"
+  ], 
   "wof:tags": [
     "menswear", 
     "ladieswear", 
     "local", 
     "shop"
   ], 
-  "wof:brand_name": "Burton Menswear Ltd", 
-  "wof:brand_id": 1125157345
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416281
 }

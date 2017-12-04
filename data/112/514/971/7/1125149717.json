@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414553, 
+  "wof:brand_name": "Weight Watchers", 
+  "wof:brand_id": 1125149717, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "sg:services=health_services", 
+    "services:health_services=clinic", 
+    "sg:entertainment=sports_and_exercise", 
+    "entertainment:sports_and_exercise=gym", 
+    "services:health_services=health_practitioner", 
+    "entertainment:sports_and_exercise=playing_field", 
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:retail_goods=food_and_beverages", 
+    "entertainment:arena=sports_club", 
+    "services:personal=beauty_salon", 
+    "sg:entertainment=arena", 
+    "sg:entertainment=recreation", 
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "weight", 
     "control", 
@@ -37,6 +53,6 @@
     "trainer", 
     "watcher"
   ], 
-  "wof:brand_name": "Weight Watchers", 
-  "wof:brand_id": 1125149717
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416308
 }

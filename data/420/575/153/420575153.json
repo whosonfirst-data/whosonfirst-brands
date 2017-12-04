@@ -1,6 +1,34 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414444, 
+  "wof:brand_name": "Avenue", 
+  "wof:brand_id": 420575153, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "retail_goods:shopping=department_store", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:food_and_drink=restaurant", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "food_and_drink:bars_and_pubs=lounge", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:personal=beauty_salon", 
+    "sg:services=personal", 
+    "sg:services=professional", 
+    "entertainment:recreation=dance_hall", 
+    "entertainment:travel=hotels_and_motels", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "retail_goods:home_and_garden=building_materials", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=news", 
+    "services:real_estate=real_estate_operator", 
+    "services:social_services=adult_care", 
+    "sg:entertainment=recreation", 
+    "sg:entertainment=travel", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=real_estate", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "women's", 
     "clothing", 
@@ -33,6 +61,6 @@
     "sporting", 
     "vintage"
   ], 
-  "wof:brand_name": "Avenue", 
-  "wof:brand_id": 420575153
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416222
 }

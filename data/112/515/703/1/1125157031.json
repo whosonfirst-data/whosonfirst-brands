@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414487, 
+  "wof:brand_name": "Peebles", 
+  "wof:brand_id": 1125157031, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=shoes", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "retail_goods:shopping=discount_and_variety_stores"
+  ], 
   "wof:tags": [
     "clothing", 
     "apparel", 
@@ -9,6 +17,6 @@
     "women's", 
     "family"
   ], 
-  "wof:brand_name": "Peebles", 
-  "wof:brand_id": 1125157031
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416255
 }

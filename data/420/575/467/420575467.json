@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414444, 
+  "wof:brand_name": "Frito-Lay Inc", 
+  "wof:brand_id": 420575467, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "services:organizations=professional_association", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "product", 
     "food", 
@@ -14,6 +25,6 @@
     "spirit", 
     "wine"
   ], 
-  "wof:brand_name": "Frito-Lay Inc", 
-  "wof:brand_id": 420575467
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416222
 }

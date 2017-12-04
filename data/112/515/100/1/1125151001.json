@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414489, 
+  "wof:brand_name": "Beauti Control Cosmetics Inc", 
+  "wof:brand_id": 1125151001, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "services:personal=beauty_salon", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "perfume", 
     "cosmetic", 
@@ -13,6 +19,6 @@
     "supply", 
     "treatment"
   ], 
-  "wof:brand_name": "Beauti Control Cosmetics Inc", 
-  "wof:brand_id": 1125151001
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416257
 }

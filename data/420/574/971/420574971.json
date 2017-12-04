@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414455, 
+  "wof:brand_name": "Farm Service Agency", 
+  "wof:brand_id": 420574971, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:services=banks_and_credit_unions", 
+    "manufacturing_and_wholesale_goods:farming=livestock_farm", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "sg:retail_goods=home_and_garden", 
+    "manufacturing_and_wholesale_goods:farming=farm_and_veterinary_services", 
+    "manufacturing_and_wholesale_goods:wholesale=farm_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "farm", 
     "agency", 
@@ -38,6 +53,6 @@
     "soil", 
     "work"
   ], 
-  "wof:brand_name": "Farm Service Agency", 
-  "wof:brand_id": 420574971
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416230
 }

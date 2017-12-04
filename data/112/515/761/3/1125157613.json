@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414532, 
+  "wof:brand_name": "Genuine Parts Company", 
+  "wof:brand_id": 1125157613, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "automobile", 
     "part", 
@@ -13,6 +19,6 @@
     "supplies-used", 
     "supply"
   ], 
-  "wof:brand_name": "Genuine Parts Company", 
-  "wof:brand_id": 1125157613
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416291
 }

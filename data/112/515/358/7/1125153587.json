@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414502, 
+  "wof:brand_name": "Coco's Bakery Restaurant", 
+  "wof:brand_id": 1125153587, 
+  "wof:categories": [
+    "sg:food_and_drink=bakery", 
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food"
+  ], 
   "wof:tags": [
     "american", 
     "pastry", 
@@ -18,6 +23,6 @@
     "brunch", 
     "diner"
   ], 
-  "wof:brand_name": "Coco's Bakery Restaurant", 
-  "wof:brand_id": 1125153587
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416268
 }

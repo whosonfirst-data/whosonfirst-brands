@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414502, 
+  "wof:brand_name": "Mimi Maternity", 
+  "wof:brand_id": 1125158577, 
+  "wof:categories": [
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "maternity", 
     "wear", 
@@ -11,6 +15,6 @@
     "accessory", 
     "clothing"
   ], 
-  "wof:brand_name": "Mimi Maternity", 
-  "wof:brand_id": 1125158577
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416268
 }

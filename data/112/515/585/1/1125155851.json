@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414533, 
+  "wof:brand_name": "Stop N Shop", 
+  "wof:brand_id": 1125155851, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "retail_goods:food_and_beverages=candy", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "merchandise", 
     "grocer", 
@@ -17,6 +28,6 @@
     "supermarket", 
     "wine"
   ], 
-  "wof:brand_name": "Stop N Shop", 
-  "wof:brand_id": 1125155851
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416292
 }

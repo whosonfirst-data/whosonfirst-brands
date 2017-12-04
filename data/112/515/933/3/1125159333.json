@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414485, 
+  "wof:brand_name": "Peacocks Stores", 
+  "wof:brand_id": 1125159333, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "sg:food_and_drink=fast_food", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "shop", 
     "away", 
@@ -9,6 +17,6 @@
     "outlet", 
     "take"
   ], 
-  "wof:brand_name": "Peacocks Stores", 
-  "wof:brand_id": 1125159333
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416254
 }

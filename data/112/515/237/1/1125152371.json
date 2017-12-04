@@ -1,12 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414534, 
+  "wof:brand_name": "Rose Nails", 
+  "wof:brand_id": 1125152371, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon", 
+    "services:personal=barber", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "manicuring", 
     "shop", 
     "nail", 
     "manicurist"
   ], 
-  "wof:brand_name": "Rose Nails", 
-  "wof:brand_id": 1125152371
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416293
 }

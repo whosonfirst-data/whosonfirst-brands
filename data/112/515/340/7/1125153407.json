@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414499, 
+  "wof:brand_name": "Midas Auto Service", 
+  "wof:brand_id": 1125153407, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales"
+  ], 
   "wof:tags": [
     "tire", 
     "absorber", 
@@ -23,6 +30,6 @@
     "wheels-aligning", 
     "automotive"
   ], 
-  "wof:brand_name": "Midas Auto Service", 
-  "wof:brand_id": 1125153407
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416266
 }

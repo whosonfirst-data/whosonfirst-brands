@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414516, 
+  "wof:brand_name": "Color Me Beautiful", 
+  "wof:brand_id": 1125156373, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "sg:services=personal", 
+    "sg:retail_goods=shopping", 
+    "services:personal=beauty_salon", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:personal=skin_care", 
+    "services:personal=tanning_parlor", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "consultant", 
     "specialist", 
@@ -23,6 +39,6 @@
     "program", 
     "salon"
   ], 
-  "wof:brand_name": "Color Me Beautiful", 
-  "wof:brand_id": 1125156373
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416279
 }

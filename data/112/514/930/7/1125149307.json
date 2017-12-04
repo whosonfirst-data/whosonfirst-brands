@@ -1,6 +1,30 @@
 {
   "wof:brand_name": "Apria Healthcare", 
   "wof:brand_id": 1125149307, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=medical_equipment_and_supplies", 
+    "sg:services=health_services", 
+    "services:health_services=clinic", 
+    "services:building_and_trades=equipment_rental", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:wholesale=chemicals_and_plastics", 
+    "retail_goods:shopping=pharmacy", 
+    "services:health_services=health_practitioner", 
+    "services:health_services=nursing_and_care_facility", 
+    "services:health_services=hospital", 
+    "services:health_services=doctor", 
+    "services:retail=repair_shop", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:wholesale=home_furnishings", 
+    "services:health_services=hospice", 
+    "services:insurance=health_insurance", 
+    "sg:services=insurance", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "home", 
     "hospital", 
@@ -46,6 +70,6 @@
     1125150601
   ], 
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414558, 
+  "wof:lastmodified": 1512416312, 
   "mz:is_current": 1
 }

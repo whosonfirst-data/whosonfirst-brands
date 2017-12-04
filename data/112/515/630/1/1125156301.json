@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414511, 
+  "wof:brand_name": "Sears Authorized Retail Dealer", 
+  "wof:brand_id": 1125156301, 
+  "wof:categories": [
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "retail_goods:home_and_garden=hardware", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "retail_goods:shopping=catalog_store", 
+    "retail_goods:shopping=department_store"
+  ], 
   "wof:tags": [
     "store", 
     "appliances-small", 
@@ -15,6 +25,6 @@
     "n", 
     "repair"
   ], 
-  "wof:brand_name": "Sears Authorized Retail Dealer", 
-  "wof:brand_id": 1125156301
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416275
 }

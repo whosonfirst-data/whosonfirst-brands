@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414447, 
+  "wof:brand_name": "Superdrug Stores Plc", 
+  "wof:brand_id": 420575089, 
+  "wof:categories": [
+    "retail_goods:shopping=pharmacy", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "services:health_services=nursing_and_care_facility", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "drug", 
     "store", 
@@ -13,6 +22,6 @@
     "supplier", 
     "wholesaler"
   ], 
-  "wof:brand_name": "Superdrug Stores Plc", 
-  "wof:brand_id": 420575089
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416224
 }

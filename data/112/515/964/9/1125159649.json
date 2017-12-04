@@ -1,7 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414479, 
-  "wof:tags": [], 
   "wof:brand_name": "Pinocchio", 
-  "wof:brand_id": 1125159649
+  "wof:brand_id": 1125159649, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=meat_and_fish", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:shopping=department_store", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:retail_goods=shopping"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416249
 }

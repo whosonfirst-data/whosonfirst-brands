@@ -1,6 +1,33 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414472, 
+  "wof:brand_name": "Costco", 
+  "wof:brand_id": 1125153757, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:shopping=department_store", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "public_place:structure=warehouse", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "sg:public_place=structure", 
+    "retail_goods:shopping=florist", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "retail_goods:shopping=pharmacy", 
+    "sg:public_place=shopping_center", 
+    "food_and_drink:bagels=none", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "retail_goods:shopping=optician", 
+    "services:health_services=optometrist", 
+    "services:retail=portrait_studio", 
+    "sg:food_and_drink=bagels", 
+    "sg:food_and_drink=restaurant", 
+    "sg:services=health_services", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "wholesale", 
     "merchandise-wholesale", 
@@ -21,6 +48,6 @@
     "used", 
     "warehouse"
   ], 
-  "wof:brand_name": "Costco", 
-  "wof:brand_id": 1125153757
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416244
 }

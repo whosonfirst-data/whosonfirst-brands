@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414507, 
+  "wof:brand_name": "Board of Inland Revenue", 
+  "wof:brand_id": 1125153931, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:real_estate=surveying", 
+    "sg:services=professional", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "inland", 
     "revenue", 
@@ -8,6 +16,6 @@
     "surveyor", 
     "valuer"
   ], 
-  "wof:brand_name": "Board of Inland Revenue", 
-  "wof:brand_id": 1125153931
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416272
 }

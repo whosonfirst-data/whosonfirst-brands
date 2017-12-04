@@ -1,12 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414541, 
+  "wof:brand_name": "Courtyard by Marriott", 
+  "wof:brand_id": 1125162203, 
+  "wof:categories": [
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel", 
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "corporate", 
     "lodging", 
     "operation", 
     "eating"
   ], 
-  "wof:brand_name": "Courtyard by Marriott", 
-  "wof:brand_id": 1125162203
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416299
 }

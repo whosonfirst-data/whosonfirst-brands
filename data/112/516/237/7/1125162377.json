@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414552, 
+  "wof:brand_name": "Rainbow Painting", 
+  "wof:brand_id": 1125162377, 
+  "wof:categories": [
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=construction", 
+    "sg:services=professional", 
+    "services:building_and_trades=pest_control", 
+    "services:professional=art_services", 
+    "services:professional=business_services"
+  ], 
   "wof:tags": [
     "contractor", 
     "hanging", 
@@ -16,6 +24,6 @@
     "wallcoverings-installation", 
     "wallpaper"
   ], 
-  "wof:brand_name": "Rainbow Painting", 
-  "wof:brand_id": 1125162377
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416307
 }

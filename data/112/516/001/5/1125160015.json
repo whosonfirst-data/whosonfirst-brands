@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414543, 
+  "wof:brand_name": "Smith Farms", 
+  "wof:brand_id": 1125160015, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "manufacturing_and_wholesale_goods:farming=farm", 
+    "manufacturing_and_wholesale_goods:farming=livestock_farm", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:transportation=freight", 
+    "manufacturing_and_wholesale_goods:farming=dairy_farm", 
+    "manufacturing_and_wholesale_goods:farming=farm_and_veterinary_services", 
+    "manufacturing_and_wholesale_goods:farming=poultry_farm", 
+    "manufacturing_and_wholesale_goods:wholesale=farm_supplies", 
+    "manufacturing_and_wholesale_goods:wholesale=fruits_and_vegetables", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "services:professional=business_services", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "general", 
     "crop", 
@@ -33,6 +51,6 @@
     "veggie", 
     "wheat"
   ], 
-  "wof:brand_name": "Smith Farms", 
-  "wof:brand_id": 1125160015
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416300
 }

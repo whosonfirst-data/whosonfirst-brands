@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414531, 
+  "wof:brand_name": "Factory Brand Shoes", 
+  "wof:brand_id": 1125153015, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=shoes", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=discount_and_variety_stores"
+  ], 
   "wof:tags": [
     "store", 
     "shoe", 
@@ -14,6 +24,6 @@
     "family", 
     "merchandise"
   ], 
-  "wof:brand_name": "Factory Brand Shoes", 
-  "wof:brand_id": 1125153015
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416291
 }

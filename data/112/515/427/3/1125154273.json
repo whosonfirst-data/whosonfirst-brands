@@ -1,6 +1,14 @@
 {
   "wof:brand_name": "Alamo Rent-A-Car", 
   "wof:brand_id": 1125154273, 
+  "wof:categories": [
+    "services:retail=auto_rental", 
+    "sg:services=retail", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate", 
+    "services:building_and_trades=equipment_rental", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "automobile", 
     "renting", 
@@ -20,6 +28,6 @@
     1125154275
   ], 
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414490, 
+  "wof:lastmodified": 1512416258, 
   "mz:is_current": 1
 }

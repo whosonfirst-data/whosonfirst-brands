@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414552, 
+  "wof:brand_name": "Signs Unlimited", 
+  "wof:brand_id": 1125161605, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:manufacturing=signs", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "services:professional=business_services", 
+    "sg:services=professional", 
+    "sg:retail_goods=shopping", 
+    "sg:services=building_and_trades", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:building_and_trades=construction", 
+    "services:building_and_trades=electrical", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "specialty", 
     "mfg", 
@@ -27,6 +39,6 @@
     "trade", 
     "writer"
   ], 
-  "wof:brand_name": "Signs Unlimited", 
-  "wof:brand_id": 1125161605
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416307
 }

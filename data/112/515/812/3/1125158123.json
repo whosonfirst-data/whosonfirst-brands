@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414483, 
+  "wof:brand_name": "Lab Corp", 
+  "wof:brand_id": 1125158123, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=research", 
+    "sg:services=health_services", 
+    "services:health_services=medical_lab", 
+    "services:professional=testing_lab", 
+    "services:health_services=clinic", 
+    "services:health_services=hospital", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "sg:public_place=science_facility", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "laboratory", 
     "medical", 
@@ -10,6 +22,6 @@
     "laboratories-research", 
     "stationer"
   ], 
-  "wof:brand_name": "Lab Corp", 
-  "wof:brand_id": 1125158123
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416252
 }

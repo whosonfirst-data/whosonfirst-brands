@@ -1,6 +1,27 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414445, 
+  "wof:brand_name": "The UPS Store", 
+  "wof:brand_id": 420575659, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "services:professional=printing_and_photocopies", 
+    "public_place:government=post_office", 
+    "sg:public_place=government", 
+    "services:communications=news_services", 
+    "sg:services=communications", 
+    "sg:transportation=transit_center", 
+    "transportation:transit_center=freight", 
+    "sg:transportation=freight", 
+    "services:professional=lawyer_and_legal_services", 
+    "sg:services=personal", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:manufacturing=paper_products", 
+    "public_place:government=embassy", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "services:retail=pet_boarding", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "shipping", 
     "notary", 
@@ -38,6 +59,6 @@
     "sewing", 
     "visa"
   ], 
-  "wof:brand_name": "The UPS Store", 
-  "wof:brand_id": 420575659
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416222
 }

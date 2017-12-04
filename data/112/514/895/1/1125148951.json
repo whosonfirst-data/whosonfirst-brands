@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414553, 
+  "wof:brand_name": "Moe's Southwest Grill", 
+  "wof:brand_id": 1125148951, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "sg:services=professional", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "mexican", 
     "caterer", 
@@ -10,6 +17,6 @@
     "american", 
     "salad"
   ], 
-  "wof:brand_name": "Moe's Southwest Grill", 
-  "wof:brand_id": 1125148951
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416308
 }

@@ -1,6 +1,30 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414526, 
+  "wof:brand_name": "Nature Conservancy", 
+  "wof:brand_id": 1125150361, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=community_association", 
+    "sg:services=professional", 
+    "services:organizations=nonprofit_organization", 
+    "services:professional=research", 
+    "services:professional=management_and_consulting", 
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "services:organizations=professional_association", 
+    "manufacturing_and_wholesale_goods:farming=fish_and_marine_products", 
+    "retail_goods:shopping=bridal", 
+    "services:building_and_trades=construction", 
+    "services:professional=business_services", 
+    "sg:entertainment=recreation", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:retail_goods=shopping", 
+    "sg:services=building_and_trades", 
+    "services:organizations=membership_organization", 
+    "services:professional=engineering", 
+    "services:real_estate=surveying", 
+    "sg:services=real_estate", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "environmental", 
     "org", 
@@ -25,6 +49,6 @@
     "surveyor", 
     "welfare"
   ], 
-  "wof:brand_name": "Nature Conservancy", 
-  "wof:brand_id": 1125150361
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416287
 }

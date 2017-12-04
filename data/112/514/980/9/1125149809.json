@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414561, 
+  "wof:brand_name": "Job Service", 
+  "wof:brand_id": 1125149809, 
+  "wof:categories": [
+    "services:social_services=job_training", 
+    "sg:services=social_services", 
+    "sg:services=professional", 
+    "public_place:government=office", 
+    "services:professional=employment_agencies", 
+    "sg:public_place=government", 
+    "services:organizations=labor_organization", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "rehab", 
     "government", 
@@ -17,6 +27,6 @@
     "claim", 
     "placement"
   ], 
-  "wof:brand_name": "Job Service", 
-  "wof:brand_id": 1125149809
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416315
 }

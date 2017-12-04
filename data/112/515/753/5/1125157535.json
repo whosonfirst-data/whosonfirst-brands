@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414490, 
+  "wof:brand_name": "Visionworks", 
+  "wof:brand_id": 1125157535, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=optical_goods", 
+    "services:health_services=optometrist", 
+    "sg:services=health_services", 
+    "retail_goods:shopping=optician", 
+    "public_place:education=special_training", 
+    "services:professional=advertising", 
+    "sg:public_place=education", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "eyewear", 
     "optical", 
@@ -11,6 +22,6 @@
     "eyeglass", 
     "program"
   ], 
-  "wof:brand_name": "Visionworks", 
-  "wof:brand_id": 1125157535
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416258
 }

@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414493, 
+  "wof:brand_name": "Keebler", 
+  "wof:brand_id": 1125159283, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:transportation=freight", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "services:professional=management_and_consulting", 
+    "services:social_services=job_training", 
+    "sg:services=personal", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "cookie", 
     "cracker", 
@@ -41,6 +56,6 @@
     "sales", 
     "weight"
   ], 
-  "wof:brand_name": "Keebler", 
-  "wof:brand_id": 1125159283
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416261
 }

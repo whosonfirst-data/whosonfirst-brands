@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414530, 
+  "wof:brand_name": "Plaza Cleaners", 
+  "wof:brand_id": 1125152975, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:services=personal", 
+    "manufacturing_and_wholesale_goods:wholesale=hardware", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:retail=selfservice_laundry", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "cleaners", 
     "plant", 
@@ -25,6 +35,6 @@
     "rug", 
     "tailor"
   ], 
-  "wof:brand_name": "Plaza Cleaners", 
-  "wof:brand_id": 1125152975
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416290
 }

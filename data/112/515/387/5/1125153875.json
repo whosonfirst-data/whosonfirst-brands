@@ -1,6 +1,34 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414485, 
+  "wof:brand_name": "In Stitches", 
+  "wof:brand_id": 1125153875, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=crafts_and_fabrics", 
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:services=retail", 
+    "services:retail=repair_shop", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=personal", 
+    "manufacturing_and_wholesale_goods:manufacturing=jewelry", 
+    "manufacturing_and_wholesale_goods:manufacturing=textiles", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "manufacturing_and_wholesale_goods:wholesale=home_furnishings", 
+    "manufacturing_and_wholesale_goods:wholesale=toys_and_hobbies", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "services:professional=computer_services", 
+    "services:professional=printing_and_photocopies", 
+    "services:retail=laundry_and_dry_cleaning"
+  ], 
   "wof:tags": [
     "sewing", 
     "embroidery", 
@@ -41,6 +69,6 @@
     "textile", 
     "wedding"
   ], 
-  "wof:brand_name": "In Stitches", 
-  "wof:brand_id": 1125153875
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416254
 }

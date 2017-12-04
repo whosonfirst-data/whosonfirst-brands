@@ -1,11 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414480, 
+  "wof:brand_name": "La Salsa", 
+  "wof:brand_id": 1125154443, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "entertainment:recreation=dance_hall", 
+    "sg:entertainment=recreation"
+  ], 
   "wof:tags": [
     "mexican", 
     "eating", 
     "discotheque"
   ], 
-  "wof:brand_name": "La Salsa", 
-  "wof:brand_id": 1125154443
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416250
 }

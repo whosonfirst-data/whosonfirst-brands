@@ -1,12 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414510, 
+  "wof:brand_name": "Grace Brethren Church", 
+  "wof:brand_id": 1125158539, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship"
+  ], 
   "wof:tags": [
     "church", 
     "churches-brethren", 
     "brother", 
     "churches-mennonite"
   ], 
-  "wof:brand_name": "Grace Brethren Church", 
-  "wof:brand_id": 1125158539
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416274
 }

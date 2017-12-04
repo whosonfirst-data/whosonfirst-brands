@@ -1,11 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414538, 
+  "wof:brand_name": "Art Nails", 
+  "wof:brand_id": 1125162519, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon"
+  ], 
   "wof:tags": [
     "manicuring", 
     "shop", 
     "nail"
   ], 
-  "wof:brand_name": "Art Nails", 
-  "wof:brand_id": 1125162519
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416296
 }

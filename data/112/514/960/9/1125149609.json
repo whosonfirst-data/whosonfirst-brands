@@ -1,9 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414556, 
+  "wof:brand_name": "Unic", 
+  "wof:brand_id": 1125149609, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=luggage_and_leather_goods", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "grocer"
   ], 
-  "wof:brand_name": "Unic", 
-  "wof:brand_id": 1125149609
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416310
 }

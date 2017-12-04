@@ -1,12 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414514, 
+  "wof:brand_name": "Home Care Service Of NSW", 
+  "wof:brand_id": 1125152951, 
+  "wof:categories": [
+    "services:organizations=community_association", 
+    "sg:services=organizations", 
+    "services:social_services=adult_care", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "family", 
     "organisation", 
     "welfare", 
     "aged"
   ], 
-  "wof:brand_name": "Home Care Service Of NSW", 
-  "wof:brand_id": 1125152951
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416277
 }

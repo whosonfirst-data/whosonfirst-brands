@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414445, 
+  "wof:brand_name": "Hair Affair", 
+  "wof:brand_id": 420575371, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "services:personal=nail_salon", 
+    "services:personal=tanning_parlor", 
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
@@ -21,6 +29,6 @@
     "tanning", 
     "treatment"
   ], 
-  "wof:brand_name": "Hair Affair", 
-  "wof:brand_id": 420575371
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416222
 }

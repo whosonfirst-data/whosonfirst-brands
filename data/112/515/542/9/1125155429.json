@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414517, 
+  "wof:brand_name": "Sheriffs Office", 
+  "wof:brand_id": 1125155429, 
+  "wof:categories": [
+    "sg:public_place=government", 
+    "public_place:government=police_station", 
+    "public_place:government=office", 
+    "public_place:government=jail", 
+    "public_place:government=court_house", 
+    "public_place:government=fire_station"
+  ], 
   "wof:tags": [
     "protection", 
     "sheriff", 
@@ -16,6 +24,6 @@
     "police", 
     "transportation"
   ], 
-  "wof:brand_name": "Sheriffs Office", 
-  "wof:brand_id": 1125155429
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416279
 }

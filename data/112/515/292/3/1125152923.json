@@ -1,10 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414486, 
+  "wof:brand_name": "Acceptance Insurance Co", 
+  "wof:brand_id": 1125152923, 
+  "wof:categories": [
+    "services:insurance=insurance_agent", 
+    "sg:services=insurance", 
+    "services:insurance=hazard_insurance"
+  ], 
   "wof:tags": [
     "agency", 
     "carrier"
   ], 
-  "wof:brand_name": "Acceptance Insurance Co", 
-  "wof:brand_id": 1125152923
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416255
 }

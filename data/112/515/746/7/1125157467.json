@@ -1,6 +1,38 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414485, 
+  "wof:brand_name": "Pathways", 
+  "wof:brand_id": 1125157467, 
+  "wof:categories": [
+    "sg:services=social_services", 
+    "sg:services=health_services", 
+    "sg:services=professional", 
+    "services:health_services=hospital", 
+    "services:professional=employment_agencies", 
+    "sg:retail_goods=shopping", 
+    "services:health_services=clinic", 
+    "services:health_services=nursing_and_care_facility", 
+    "services:organizations=nonprofit_organization", 
+    "sg:services=organizations", 
+    "sg:services=personal", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "retail_goods:shopping=books", 
+    "services:health_services=doctor", 
+    "services:health_services=health_practitioner", 
+    "services:social_services=adult_care", 
+    "services:social_services=child_care", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:public_place=education", 
+    "entertainment:sports_and_exercise=playing_field", 
+    "public_place:education=school", 
+    "public_place:education=special_training", 
+    "public_place:government=office", 
+    "retail_goods:food_and_beverages=specialty", 
+    "retail_goods:shopping=pharmacy", 
+    "services:personal=beauty_salon", 
+    "services:social_services=job_training", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:public_place=government", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "mental", 
     "information", 
@@ -50,6 +82,6 @@
     "therapy", 
     "vitamin"
   ], 
-  "wof:brand_name": "Pathways", 
-  "wof:brand_id": 1125157467
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416254
 }

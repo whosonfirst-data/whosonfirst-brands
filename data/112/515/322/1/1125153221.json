@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414518, 
+  "wof:brand_name": "Goddard School", 
+  "wof:brand_id": 1125153221, 
+  "wof:categories": [
+    "sg:services=social_services", 
+    "services:social_services=child_care", 
+    "sg:public_place=education", 
+    "public_place:education=school", 
+    "public_place:education=preschool"
+  ], 
   "wof:tags": [
     "day", 
     "academic", 
@@ -13,6 +20,6 @@
     "elementary", 
     "preschool"
   ], 
-  "wof:brand_name": "Goddard School", 
-  "wof:brand_id": 1125153221
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416281
 }

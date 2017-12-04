@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414557, 
+  "wof:brand_name": "Aimco", 
+  "wof:brand_id": 1125149555, 
+  "wof:categories": [
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_operator", 
+    "services:real_estate=real_estate_agent", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=banks_and_credit_unions", 
+    "entertainment:travel=hotels_and_motels", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "services:building_and_trades=construction", 
+    "services:personal=beauty_salon", 
+    "services:professional=management_and_consulting", 
+    "sg:entertainment=travel", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=building_and_trades", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "apartment", 
     "building", 
@@ -32,6 +52,6 @@
     "tool", 
     "trust"
   ], 
-  "wof:brand_name": "Aimco", 
-  "wof:brand_id": 1125149555
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416312
 }

@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414558, 
+  "wof:brand_name": "Spherion Corporation", 
+  "wof:brand_id": 1125149677, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=employment_agencies", 
+    "services:professional=management_and_consulting", 
+    "sg:services=health_services", 
+    "services:health_services=clinic", 
+    "services:social_services=job_training", 
+    "sg:services=social_services", 
+    "public_place:education=vocational_school", 
+    "services:health_services=hospital", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "help", 
     "supply", 
@@ -17,6 +29,6 @@
     "establishment", 
     "medical"
   ], 
-  "wof:brand_name": "Spherion Corporation", 
-  "wof:brand_id": 1125149677
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416312
 }

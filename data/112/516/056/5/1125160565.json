@@ -1,11 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414550, 
+  "wof:brand_name": "Lakeview Baptist Church", 
+  "wof:brand_id": 1125160565, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship"
+  ], 
   "wof:tags": [
     "church", 
     "churches-baptist", 
     "churches-baptist-general"
   ], 
-  "wof:brand_name": "Lakeview Baptist Church", 
-  "wof:brand_id": 1125160565
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416306
 }

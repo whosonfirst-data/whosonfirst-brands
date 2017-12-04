@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414543, 
+  "wof:brand_name": "Charter Media", 
+  "wof:brand_id": 1125162581, 
+  "wof:categories": [
+    "services:professional=advertising", 
+    "sg:services=professional", 
+    "sg:services=utilities", 
+    "services:utilities=cable", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=communications", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:communications=news_services", 
+    "services:communications=radio_station", 
+    "services:utilities=telephone", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:transportation=bus_charters"
+  ], 
   "wof:tags": [
     "television", 
     "agency", 
@@ -14,6 +29,6 @@
     "rep", 
     "tv"
   ], 
-  "wof:brand_name": "Charter Media", 
-  "wof:brand_id": 1125162581
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416300
 }

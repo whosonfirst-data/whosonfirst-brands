@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414538, 
+  "wof:brand_name": "Homestyle", 
+  "wof:brand_id": 1125162271, 
+  "wof:categories": [
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:home_and_garden=furniture", 
+    "services:building_and_trades=construction", 
+    "sg:retail_goods=shopping", 
+    "sg:services=building_and_trades", 
+    "entertainment:travel=hotels_and_motels", 
+    "manufacturing_and_wholesale_goods:manufacturing=petroleum_products", 
+    "manufacturing_and_wholesale_goods:wholesale=home_furnishings", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=used_merchandise", 
+    "sg:entertainment=travel", 
+    "sg:food_and_drink=restaurant", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "covering", 
     "wall", 
@@ -13,6 +31,6 @@
     "sewing", 
     "shop"
   ], 
-  "wof:brand_name": "Homestyle", 
-  "wof:brand_id": 1125162271
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416296
 }

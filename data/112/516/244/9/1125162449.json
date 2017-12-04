@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414551, 
+  "wof:brand_name": "Town & Country Beauty Salon", 
+  "wof:brand_id": 1125162449, 
+  "wof:categories": [
+    "services:personal=beauty_salon", 
+    "sg:services=personal", 
+    "services:personal=barber"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
@@ -10,6 +15,6 @@
     "nail", 
     "operator"
   ], 
-  "wof:brand_name": "Town & Country Beauty Salon", 
-  "wof:brand_id": 1125162449
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416307
 }

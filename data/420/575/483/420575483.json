@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414451, 
+  "wof:brand_name": "Chico's", 
+  "wof:brand_id": 420575483, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:food_and_drink=restaurant", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=food_and_beverages", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "retail_goods:food_and_beverages=bakery", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:shopping=baby_store", 
+    "retail_goods:shopping=department_store", 
+    "sg:food_and_drink=coffee_and_tea", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "clothing", 
     "accessory", 
@@ -20,6 +37,6 @@
     "tavern", 
     "wear"
   ], 
-  "wof:brand_name": "Chico's", 
-  "wof:brand_id": 420575483
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416227
 }

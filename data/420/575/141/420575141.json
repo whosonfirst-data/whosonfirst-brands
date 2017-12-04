@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414450, 
+  "wof:brand_name": "Dolex Dollar Express", 
+  "wof:brand_id": 420575141, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=department_store", 
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:transportation=freight", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "manufacturing_and_wholesale_goods:wholesale=metals_and_minerals", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:health_services=doctor", 
+    "services:insurance=insurance_agent", 
+    "services:professional=management_and_consulting", 
+    "sg:services=health_services", 
+    "sg:services=insurance"
+  ], 
   "wof:tags": [
     "money", 
     "transfer", 
@@ -27,6 +47,6 @@
     "product", 
     "wire"
   ], 
-  "wof:brand_name": "Dolex Dollar Express", 
-  "wof:brand_id": 420575141
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416226
 }

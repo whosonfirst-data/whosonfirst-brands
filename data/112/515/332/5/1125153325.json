@@ -1,11 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414472, 
+  "wof:brand_name": "Our Price", 
+  "wof:brand_id": 1125153325, 
+  "wof:categories": [
+    "retail_goods:shopping=music", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "cd", 
     "record", 
     "tape"
   ], 
-  "wof:brand_name": "Our Price", 
-  "wof:brand_id": 1125153325
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416243
 }

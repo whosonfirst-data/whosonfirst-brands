@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414505, 
+  "wof:brand_name": "Interim Services", 
+  "wof:brand_id": 1125152215, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=employment_agencies", 
+    "sg:services=health_services", 
+    "services:health_services=clinic", 
+    "services:health_services=nursing_and_care_facility", 
+    "services:health_services=doctor", 
+    "services:professional=business_services", 
+    "services:professional=secretarial_services", 
+    "sg:services=social_services", 
+    "services:health_services=health_practitioner", 
+    "services:insurance=health_insurance", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=management_and_consulting", 
+    "services:social_services=adult_care", 
+    "services:social_services=job_training", 
+    "sg:services=insurance"
+  ], 
   "wof:tags": [
     "help", 
     "supply", 
@@ -35,6 +53,6 @@
     "staff", 
     "supplemental"
   ], 
-  "wof:brand_name": "Interim Services", 
-  "wof:brand_id": 1125152215
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416270
 }

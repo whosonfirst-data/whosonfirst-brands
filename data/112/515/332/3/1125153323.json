@@ -1,6 +1,32 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414472, 
+  "wof:brand_name": "Nabisco", 
+  "wof:brand_id": 1125153323, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:services=professional", 
+    "sg:transportation=freight", 
+    "services:professional=management_and_consulting", 
+    "manufacturing_and_wholesale_goods:wholesale=tobacco_products", 
+    "manufacturing_and_wholesale_goods:manufacturing=pet_food", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "public_place:structure=warehouse", 
+    "retail_goods:food_and_beverages=candy", 
+    "retail_goods:shopping=department_store", 
+    "services:professional=advertising", 
+    "services:professional=business_services", 
+    "services:professional=computer_services", 
+    "services:retail=storage", 
+    "sg:food_and_drink=bakery", 
+    "sg:public_place=structure", 
+    "sg:retail_goods=shopping", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "cracker", 
     "cookie", 
@@ -58,6 +84,6 @@
     "warehouses-public-commercial", 
     "wholesaling"
   ], 
-  "wof:brand_name": "Nabisco", 
-  "wof:brand_id": 1125153323
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416243
 }

@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414490, 
+  "wof:brand_name": "Johnson Construction", 
+  "wof:brand_id": 1125156589, 
+  "wof:categories": [
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=construction", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=buildings", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "manufacturing_and_wholesale_goods:farming=farm_and_veterinary_services", 
+    "manufacturing_and_wholesale_goods:manufacturing=building_materials", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "services:building_and_trades=landscaping_services", 
+    "services:professional=engineering", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "contractor", 
     "house", 
@@ -53,6 +70,6 @@
     "wood", 
     "work"
   ], 
-  "wof:brand_name": "Johnson Construction", 
-  "wof:brand_id": 1125156589
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416258
 }

@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414477, 
+  "wof:brand_name": "Prestige Cleaners", 
+  "wof:brand_id": 1125159069, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "services:retail=selfservice_laundry", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "cleaners", 
     "drycleaning", 
@@ -15,6 +21,6 @@
     "repair", 
     "rug"
   ], 
-  "wof:brand_name": "Prestige Cleaners", 
-  "wof:brand_id": 1125159069
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416247
 }

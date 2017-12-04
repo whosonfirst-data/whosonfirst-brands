@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414493, 
+  "wof:brand_name": "Title Max", 
+  "wof:brand_id": 1125156151, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=pawn_shop", 
+    "sg:services=banks_and_credit_unions", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=real_estate", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:shopping=department_store", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "company", 
     "title", 
@@ -14,6 +27,6 @@
     "personal", 
     "store"
   ], 
-  "wof:brand_name": "Title Max", 
-  "wof:brand_id": 1125156151
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416261
 }

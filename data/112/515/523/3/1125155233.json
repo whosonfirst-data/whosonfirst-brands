@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414516, 
+  "wof:brand_name": "Canadian Tire Gas Bar", 
+  "wof:brand_id": 1125155233, 
+  "wof:categories": [
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station"
+  ], 
   "wof:tags": [
     "automobile", 
     "parts", 
@@ -10,6 +15,6 @@
     "polishing", 
     "washing"
   ], 
-  "wof:brand_name": "Canadian Tire Gas Bar", 
-  "wof:brand_id": 1125155233
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416279
 }

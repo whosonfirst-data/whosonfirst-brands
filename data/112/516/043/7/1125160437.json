@@ -1,6 +1,12 @@
 {
   "wof:brand_name": "Bealls", 
   "wof:brand_id": 1125160437, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=shoes"
+  ], 
   "wof:tags": [
     "shop", 
     "apparel", 
@@ -25,6 +31,6 @@
     1125156359
   ], 
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414552, 
+  "wof:lastmodified": 1512416308, 
   "mz:is_current": 1
 }

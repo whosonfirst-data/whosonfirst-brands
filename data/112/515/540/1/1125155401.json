@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414483, 
+  "wof:brand_name": "Muffin Break", 
+  "wof:brand_id": 1125155401, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:food_and_drink=cafe", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "food_and_drink:bars_and_pubs=wine_bar", 
+    "food_and_drink:bars_and_pubs=lounge", 
+    "sg:food_and_drink=bakery", 
+    "sg:food_and_drink=fast_food", 
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "baker", 
     "cafe", 
@@ -12,6 +23,6 @@
     "pastry", 
     "take"
   ], 
-  "wof:brand_name": "Muffin Break", 
-  "wof:brand_id": 1125155401
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416252
 }

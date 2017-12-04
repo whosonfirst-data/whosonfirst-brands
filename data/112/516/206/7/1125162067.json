@@ -1,9 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414541, 
+  "wof:brand_name": "Value City Department Store", 
+  "wof:brand_id": 1125162067, 
+  "wof:categories": [
+    "retail_goods:shopping=department_store", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=shoes"
+  ], 
   "wof:tags": [
     "shop"
   ], 
-  "wof:brand_name": "Value City Department Store", 
-  "wof:brand_id": 1125162067
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416299
 }

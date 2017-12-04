@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414472, 
+  "wof:brand_name": "Magnet", 
+  "wof:brand_id": 1125152603, 
+  "wof:categories": [
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "entertainment:sports_and_exercise=gym", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "services:organizations=nonprofit_organization", 
+    "services:social_services=child_care", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=organizations", 
+    "sg:services=professional", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "center", 
     "club", 
@@ -17,6 +35,6 @@
     "service/non-profit", 
     "studio"
   ], 
-  "wof:brand_name": "Magnet", 
-  "wof:brand_id": 1125152603
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416244
 }

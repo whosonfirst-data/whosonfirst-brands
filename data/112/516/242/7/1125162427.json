@@ -1,10 +1,14 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414539, 
+  "wof:brand_name": "Super Photo Snelservice", 
+  "wof:brand_id": 1125162427, 
+  "wof:categories": [
+    "services:retail=photofinishing", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "film", 
     "foto"
   ], 
-  "wof:brand_name": "Super Photo Snelservice", 
-  "wof:brand_id": 1125162427
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416297
 }

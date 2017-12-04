@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414508, 
+  "wof:brand_name": "Ritz Camera Centers Inc", 
+  "wof:brand_id": 1125158619, 
+  "wof:categories": [
+    "retail_goods:shopping=photographic_equipment", 
+    "sg:retail_goods=shopping", 
+    "sg:services=retail", 
+    "services:retail=photofinishing", 
+    "public_place:education=special_training", 
+    "services:retail=portrait_studio", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "supply", 
     "camera", 
@@ -17,6 +26,6 @@
     "store", 
     "suppl"
   ], 
-  "wof:brand_name": "Ritz Camera Centers Inc", 
-  "wof:brand_id": 1125158619
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416272
 }

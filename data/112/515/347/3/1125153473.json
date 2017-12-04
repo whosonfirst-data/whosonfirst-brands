@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414519, 
+  "wof:brand_name": "Renal Care Group", 
+  "wof:brand_id": 1125153473, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=doctor", 
+    "services:health_services=clinic", 
+    "services:health_services=hospital", 
+    "entertainment:sports_and_exercise=gym", 
+    "public_place:government=office", 
+    "services:professional=computer_services", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:public_place=government", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "clinic", 
     "dialysis", 
@@ -20,6 +32,6 @@
     "surgeons", 
     "trainer"
   ], 
-  "wof:brand_name": "Renal Care Group", 
-  "wof:brand_id": 1125153473
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416282
 }

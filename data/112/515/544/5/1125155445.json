@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414496, 
+  "wof:brand_name": "Woolworths plc", 
+  "wof:brand_id": 1125155445, 
+  "wof:categories": [
+    "retail_goods:shopping=department_store", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "departmental"
   ], 
-  "wof:brand_name": "Woolworths plc", 
-  "wof:brand_id": 1125155445
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416264
 }

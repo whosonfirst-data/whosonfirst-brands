@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414491, 
+  "wof:brand_name": "Shear Designs", 
+  "wof:brand_id": 1125154483, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "services:personal=tanning_parlor", 
+    "services:professional=art_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "shop", 
     "barber", 
@@ -12,6 +20,6 @@
     "stylist", 
     "treatment"
   ], 
-  "wof:brand_name": "Shear Designs", 
-  "wof:brand_id": 1125154483
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416259
 }

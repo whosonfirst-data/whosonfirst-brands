@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414557, 
+  "wof:brand_name": "Mr Sub", 
+  "wof:brand_id": 1125149947, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:food_and_drink=deli", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "sandwich", 
     "american", 
@@ -12,6 +18,6 @@
     "soup", 
     "vegetarian"
   ], 
-  "wof:brand_name": "Mr Sub", 
-  "wof:brand_id": 1125149947
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416312
 }

@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414528, 
+  "wof:brand_name": "Village Cleaners", 
+  "wof:brand_id": 1125150989, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "services:retail=selfservice_laundry", 
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "services:retail=repair_shop", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "cleaners", 
     "plant", 
@@ -17,6 +25,6 @@
     "pressing", 
     "weaving"
   ], 
-  "wof:brand_name": "Village Cleaners", 
-  "wof:brand_id": 1125150989
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416289
 }

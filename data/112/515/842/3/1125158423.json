@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414480, 
+  "wof:brand_name": "Wine Cellar", 
+  "wof:brand_id": 1125158423, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:retail_goods=shopping", 
+    "sg:food_and_drink=restaurant", 
+    "food_and_drink:bars_and_pubs=wine_bar", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "manufacturing_and_wholesale_goods:wholesale=wine_and_distilled_alcoholic_beverages", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "services:banks_and_credit_unions=bureau_de_change", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "wine", 
     "alcoholic", 
@@ -17,6 +32,6 @@
     "package", 
     "winery"
   ], 
-  "wof:brand_name": "Wine Cellar", 
-  "wof:brand_id": 1125158423
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416250
 }

@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414508, 
+  "wof:brand_name": "Deluxe Inn", 
+  "wof:brand_id": 1125158749, 
+  "wof:categories": [
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel", 
+    "entertainment:travel=bed_and_breakfast", 
+    "entertainment:recreation=marina", 
+    "sg:entertainment=recreation", 
+    "sg:food_and_drink=bars_and_pubs"
+  ], 
   "wof:tags": [
     "operation", 
     "inn", 
@@ -10,6 +18,6 @@
     "drinking", 
     "operations"
   ], 
-  "wof:brand_name": "Deluxe Inn", 
-  "wof:brand_id": 1125158749
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416272
 }

@@ -1,6 +1,31 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414528, 
+  "wof:brand_name": "Daily Grind", 
+  "wof:brand_id": 1125152269, 
+  "wof:categories": [
+    "sg:food_and_drink=coffee_and_tea", 
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=bakery", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "food_and_drink:bagels=none", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "manufacturing_and_wholesale_goods:wholesale=vending_machines", 
+    "retail_goods:food_and_beverages=bakery", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=news", 
+    "retail_goods:shopping=tobacco", 
+    "services:professional=business_services", 
+    "services:retail=selfservice_laundry", 
+    "sg:food_and_drink=bagels", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "coffee", 
     "american", 
@@ -31,6 +56,6 @@
     "roasted", 
     "sales"
   ], 
-  "wof:brand_name": "Daily Grind", 
-  "wof:brand_id": 1125152269
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416288
 }

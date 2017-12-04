@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414468, 
+  "wof:brand_name": "Vogue", 
+  "wof:brand_id": 1125159429, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=florist", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=shoes", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:personal=nail_salon", 
+    "services:personal=sauna"
+  ], 
   "wof:tags": [
     "-", 
     "lady", 
@@ -23,6 +35,6 @@
     "sewing", 
     "tailor"
   ], 
-  "wof:brand_name": "Vogue", 
-  "wof:brand_id": 1125159429
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416241
 }

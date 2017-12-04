@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414546, 
+  "wof:brand_name": "Commonwealth Land Title Insur", 
+  "wof:brand_id": 1125162193, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=title_insurance", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=real_estate", 
+    "services:insurance=insurance_agent", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "abstract", 
     "agency", 
@@ -14,6 +23,6 @@
     "insurance", 
     "real"
   ], 
-  "wof:brand_name": "Commonwealth Land Title Insur", 
-  "wof:brand_id": 1125162193
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416302
 }

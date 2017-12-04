@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414548, 
+  "wof:brand_name": "El Charro", 
+  "wof:brand_id": 1125162223, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:food_and_drink=fast_food", 
+    "sg:retail_goods=shopping", 
+    "entertainment:sports_and_exercise=race_track", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:utilities=water", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=professional", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "mexican", 
     "eating", 
@@ -14,6 +29,6 @@
     "out", 
     "tack"
   ], 
-  "wof:brand_name": "El Charro", 
-  "wof:brand_id": 1125162223
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416304
 }

@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414492, 
+  "wof:brand_name": "El Greco", 
+  "wof:brand_id": 1125158975, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "sg:food_and_drink=cafe", 
+    "sg:food_and_drink=fast_food", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "breakfast", 
     "brunch", 
@@ -10,6 +17,6 @@
     "mediterranean", 
     "mexican"
   ], 
-  "wof:brand_name": "El Greco", 
-  "wof:brand_id": 1125158975
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416260
 }

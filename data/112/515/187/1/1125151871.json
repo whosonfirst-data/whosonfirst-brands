@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414510, 
+  "wof:brand_name": "Amsoil Synthetic Lubricants", 
+  "wof:brand_id": 1125151871, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=chemicals_and_plastics", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "manufacturing_and_wholesale_goods:manufacturing=petroleum_products", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "retail_goods:home_and_garden=building_materials", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "oil", 
     "petroleum", 
@@ -21,6 +36,6 @@
     "retail", 
     "store"
   ], 
-  "wof:brand_name": "Amsoil Synthetic Lubricants", 
-  "wof:brand_id": 1125151871
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416274
 }

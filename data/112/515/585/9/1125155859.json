@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414533, 
+  "wof:brand_name": "TDS Telecom", 
+  "wof:brand_id": 1125155859, 
+  "wof:categories": [
+    "services:utilities=telephone", 
+    "sg:services=utilities", 
+    "services:professional=computer_services", 
+    "sg:services=professional", 
+    "sg:retail_goods=shopping", 
+    "sg:services=communications"
+  ], 
   "wof:tags": [
     "company", 
     "telecommunication", 
@@ -10,6 +18,6 @@
     "systems-repair", 
     "telephone"
   ], 
-  "wof:brand_name": "TDS Telecom", 
-  "wof:brand_id": 1125155859
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416292
 }

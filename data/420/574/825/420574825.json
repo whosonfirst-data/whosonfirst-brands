@@ -1,12 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414460, 
+  "wof:brand_name": "Moss Chemists", 
+  "wof:brand_id": 420574825, 
+  "wof:categories": [
+    "retail_goods:shopping=pharmacy", 
+    "sg:retail_goods=shopping", 
+    "sg:services=health_services", 
+    "services:health_services=doctor", 
+    "services:health_services=nursing_and_care_facility"
+  ], 
   "wof:tags": [
     "chemist", 
     "pharmacist", 
     "drug", 
     "store"
   ], 
-  "wof:brand_name": "Moss Chemists", 
-  "wof:brand_id": 420574825
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416234
 }

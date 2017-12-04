@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414460, 
+  "wof:brand_name": "Claires", 
+  "wof:brand_id": 420574489, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=jewelry", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=jewelry", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:shopping=antiques", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "retail_goods:shopping=florist", 
+    "retail_goods:shopping=news", 
+    "services:professional=business_services", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:food_and_drink=deli", 
+    "sg:food_and_drink=restaurant", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "accessory", 
     "jewelry", 
@@ -30,6 +50,6 @@
     "to", 
     "women's"
   ], 
-  "wof:brand_name": "Claires", 
-  "wof:brand_id": 420574489
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416233
 }

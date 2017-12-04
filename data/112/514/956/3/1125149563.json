@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414556, 
+  "wof:brand_name": "Brooks Pharmacy", 
+  "wof:brand_id": 1125149563, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=pharmacy", 
+    "sg:services=retail", 
+    "services:retail=photofinishing", 
+    "services:retail=portrait_studio", 
+    "retail_goods:shopping=gifts_and_souvenirs"
+  ], 
   "wof:tags": [
     "store", 
     "drugstore", 
@@ -17,6 +25,6 @@
     "rent", 
     "supply"
   ], 
-  "wof:brand_name": "Brooks Pharmacy", 
-  "wof:brand_id": 1125149563
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416311
 }

@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414448, 
+  "wof:brand_name": "Lloyds Tsb Bank Plc", 
+  "wof:brand_id": 420575069, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "services:organizations=nonprofit_organization", 
+    "sg:services=organizations", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "financial", 
     "institution", 
@@ -10,6 +18,6 @@
     "society", 
     "voluntary"
   ], 
-  "wof:brand_name": "Lloyds Tsb Bank Plc", 
-  "wof:brand_id": 420575069
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416225
 }

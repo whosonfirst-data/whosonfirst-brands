@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414562, 
+  "wof:brand_name": "Gemeentebestuur", 
+  "wof:brand_id": 1125149457, 
+  "wof:categories": [
+    "services:health_services=nursing_and_care_facility", 
+    "sg:services=health_services", 
+    "services:organizations=community_association", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "public", 
     "de", 
@@ -9,6 +15,6 @@
     "publics", 
     "s\u00e9lection"
   ], 
-  "wof:brand_name": "Gemeentebestuur", 
-  "wof:brand_id": 1125149457
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416315
 }

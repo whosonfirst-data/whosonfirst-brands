@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414543, 
+  "wof:brand_name": "At&T Cits", 
+  "wof:brand_id": 1125161377, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:utilities=telephone", 
+    "sg:services=utilities", 
+    "services:professional=computer_services", 
+    "sg:services=communications"
+  ], 
   "wof:tags": [
     "establishment", 
     "telecommunication", 
@@ -9,6 +16,6 @@
     "datum", 
     "system"
   ], 
-  "wof:brand_name": "At&T Cits", 
-  "wof:brand_id": 1125161377
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416300
 }

@@ -1,6 +1,31 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414462, 
+  "wof:brand_name": "Habitat For Humanity", 
+  "wof:brand_id": 420574395, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=nonprofit_organization", 
+    "sg:services=social_services", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "services:organizations=membership_organization", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate", 
+    "retail_goods:shopping=used_merchandise", 
+    "sg:retail_goods=shopping", 
+    "services:organizations=professional_association", 
+    "sg:services=professional", 
+    "retail_goods:home_and_garden=building_materials", 
+    "services:organizations=community_association", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:transportation=freight", 
+    "public_place:government=office", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:professional=business_services", 
+    "sg:public_place=government", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=personal", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "human", 
     "organization", 
@@ -44,6 +69,6 @@
     "society", 
     "trust"
   ], 
-  "wof:brand_name": "Habitat For Humanity", 
-  "wof:brand_id": 420574395
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416236
 }

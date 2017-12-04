@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414485, 
+  "wof:brand_name": "Prints Plus", 
+  "wof:brand_id": 1125159339, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "poster", 
     "picture", 
@@ -9,6 +14,6 @@
     "dealer", 
     "gallery"
   ], 
-  "wof:brand_name": "Prints Plus", 
-  "wof:brand_id": 1125159339
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416254
 }

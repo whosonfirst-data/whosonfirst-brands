@@ -1,6 +1,28 @@
 {
   "wof:brand_name": "Macy's", 
   "wof:brand_id": 420575351, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=department_store", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=furniture", 
+    "sg:public_place=shopping_center", 
+    "sg:services=professional", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:transportation=freight", 
+    "manufacturing_and_wholesale_goods:manufacturing=leather_goods", 
+    "manufacturing_and_wholesale_goods:wholesale=computers", 
+    "retail_goods:food_and_beverages=candy", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "services:personal=hair_removal", 
+    "services:professional=computer_services", 
+    "services:professional=detective_and_security_services", 
+    "services:professional=management_and_consulting", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "store", 
     "clothing", 
@@ -27,6 +49,6 @@
     1125153975
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414449, 
+  "wof:lastmodified": 1512416226, 
   "mz:is_current": 1
 }

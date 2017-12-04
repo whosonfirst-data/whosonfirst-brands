@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414488, 
+  "wof:brand_name": "Orthopedic Associates", 
+  "wof:brand_id": 1125159637, 
+  "wof:categories": [
+    "services:health_services=doctor", 
+    "sg:services=health_services", 
+    "services:health_services=clinic", 
+    "entertainment:sports_and_exercise=gym", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:public_place=community_center"
+  ], 
   "wof:tags": [
     "physician", 
     "surgeon", 
@@ -17,6 +25,6 @@
     "pediatrics-emergency", 
     "trainer"
   ], 
-  "wof:brand_name": "Orthopedic Associates", 
-  "wof:brand_id": 1125159637
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416256
 }

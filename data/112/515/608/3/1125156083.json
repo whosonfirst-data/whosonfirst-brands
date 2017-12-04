@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414515, 
+  "wof:brand_name": "Gamma", 
+  "wof:brand_id": 1125156083, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "services:banks_and_credit_unions=bank", 
+    "services:retail=repair_shop", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "-", 
     "alarm", 
@@ -12,6 +20,6 @@
     "supply", 
     "system"
   ], 
-  "wof:brand_name": "Gamma", 
-  "wof:brand_id": 1125156083
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416278
 }

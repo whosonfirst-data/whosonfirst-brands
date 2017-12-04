@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414470, 
+  "wof:brand_name": "Pearle Vision Center", 
+  "wof:brand_id": 1125156287, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "services:health_services=optometrist", 
+    "sg:services=health_services", 
+    "retail_goods:shopping=optician", 
+    "retail_goods:shopping=optical_goods", 
+    "services:health_services=doctor"
+  ], 
   "wof:tags": [
     "eyewear", 
     "-", 
@@ -13,6 +21,6 @@
     "physician", 
     "surgeon"
   ], 
-  "wof:brand_name": "Pearle Vision Center", 
-  "wof:brand_id": 1125156287
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416242
 }

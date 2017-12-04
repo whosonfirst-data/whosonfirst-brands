@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414457, 
+  "wof:brand_name": "Adecco", 
+  "wof:brand_id": 420574505, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=employment_agencies", 
+    "services:professional=secretarial_services", 
+    "services:professional=management_and_consulting", 
+    "services:professional=advertising", 
+    "services:real_estate=real_estate_operator", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "opportunity", 
     "help", 
@@ -24,6 +33,6 @@
     "temp", 
     "temporary"
   ], 
-  "wof:brand_name": "Adecco", 
-  "wof:brand_id": 420574505
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416231
 }

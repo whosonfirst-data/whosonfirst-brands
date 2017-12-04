@@ -1,6 +1,27 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414488, 
+  "wof:brand_name": "Gift Shop", 
+  "wof:brand_id": 1125154047, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:services=organizations", 
+    "retail_goods:shopping=florist", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "entertainment:museum=botanical_garden", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "services:organizations=community_association", 
+    "services:organizations=membership_organization", 
+    "services:organizations=nonprofit_organization", 
+    "services:organizations=religious_organization", 
+    "sg:entertainment=museum", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=professional", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "shop", 
     "auxiliary", 
@@ -19,6 +40,6 @@
     "tobacco", 
     "toy"
   ], 
-  "wof:brand_name": "Gift Shop", 
-  "wof:brand_id": 1125154047
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416256
 }

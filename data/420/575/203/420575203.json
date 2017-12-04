@@ -1,10 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414445, 
+  "wof:brand_name": "Cr\u00e9dit Agricole", 
+  "wof:brand_id": 420575203, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:insurance=insurance_agent", 
+    "sg:services=insurance", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=investment_brokerage"
+  ], 
   "wof:tags": [
     "broker", 
     "financing"
   ], 
-  "wof:brand_name": "Cr\u00e9dit Agricole", 
-  "wof:brand_id": 420575203
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416223
 }

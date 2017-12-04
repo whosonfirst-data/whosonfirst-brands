@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414463, 
+  "wof:brand_name": "China Garden", 
+  "wof:brand_id": 420574667, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=glass_and_minerals", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:food_and_beverages=meat_and_fish", 
+    "services:professional=printing_and_photocopies", 
+    "sg:food_and_drink=coffee_and_tea", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "chinese", 
     "eating", 
@@ -20,6 +32,6 @@
     "delivery", 
     "glassware"
   ], 
-  "wof:brand_name": "China Garden", 
-  "wof:brand_id": 420574667
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416236
 }

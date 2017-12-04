@@ -1,12 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414512, 
+  "wof:brand_name": "H S B C Bank", 
+  "wof:brand_id": 1125152657, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "commercial", 
     "state", 
     "saving", 
     "national"
   ], 
-  "wof:brand_name": "H S B C Bank", 
-  "wof:brand_id": 1125152657
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416276
 }

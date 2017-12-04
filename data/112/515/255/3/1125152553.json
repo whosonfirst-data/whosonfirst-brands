@@ -1,12 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414537, 
+  "wof:brand_name": "Save Service Station", 
+  "wof:brand_id": 1125152553, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "petrol", 
     "filling", 
     "builder", 
     "hr"
   ], 
-  "wof:brand_name": "Save Service Station", 
-  "wof:brand_id": 1125152553
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416295
 }

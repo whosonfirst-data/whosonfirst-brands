@@ -1,12 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414551, 
+  "wof:brand_name": "Fone Zone", 
+  "wof:brand_id": 1125161117, 
+  "wof:categories": [
+    "retail_goods:shopping=mobile_phones", 
+    "sg:retail_goods=shopping", 
+    "sg:services=communications"
+  ], 
   "wof:tags": [
     "accessory", 
     "telephone", 
     "telecommunication", 
     "supplier"
   ], 
-  "wof:brand_name": "Fone Zone", 
-  "wof:brand_id": 1125161117
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416307
 }

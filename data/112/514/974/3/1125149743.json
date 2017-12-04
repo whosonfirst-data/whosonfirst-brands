@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414554, 
+  "wof:brand_name": "Medicine Shoppe", 
+  "wof:brand_id": 1125149743, 
+  "wof:categories": [
+    "retail_goods:shopping=pharmacy", 
+    "sg:retail_goods=shopping", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=medical_equipment_and_supplies", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=drugs", 
+    "retail_goods:food_and_beverages=specialty", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:professional=business_services", 
+    "services:professional=management_and_consulting", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "drug", 
     "store", 
@@ -25,6 +40,6 @@
     "proprietary", 
     "telegraph"
   ], 
-  "wof:brand_name": "Medicine Shoppe", 
-  "wof:brand_id": 1125149743
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416309
 }

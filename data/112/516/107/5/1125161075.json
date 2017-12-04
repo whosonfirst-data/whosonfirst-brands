@@ -1,12 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414543, 
+  "wof:brand_name": "County Sheriff", 
+  "wof:brand_id": 1125161075, 
+  "wof:categories": [
+    "sg:public_place=government", 
+    "public_place:government=police_station", 
+    "public_place:government=office"
+  ], 
   "wof:tags": [
     "sheriff", 
     "protection", 
     "department", 
     "executive"
   ], 
-  "wof:brand_name": "County Sheriff", 
-  "wof:brand_id": 1125161075
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416300
 }

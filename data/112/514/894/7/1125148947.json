@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414563, 
+  "wof:brand_name": "Soup Man", 
+  "wof:brand_id": 1125148947, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:shopping=pharmacy", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "american", 
     "soup", 
@@ -12,6 +19,6 @@
     "traditional", 
     "wrap"
   ], 
-  "wof:brand_name": "Soup Man", 
-  "wof:brand_id": 1125148947
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416316
 }

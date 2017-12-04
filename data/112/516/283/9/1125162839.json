@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414543, 
+  "wof:brand_name": "Travel World", 
+  "wof:brand_id": 1125162839, 
+  "wof:categories": [
+    "entertainment:travel=travel_agent", 
+    "sg:entertainment=travel"
+  ], 
   "wof:tags": [
     "agency", 
     "bureau", 
@@ -9,6 +13,6 @@
     "transportation", 
     "services-commercial"
   ], 
-  "wof:brand_name": "Travel World", 
-  "wof:brand_id": 1125162839
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416300
 }

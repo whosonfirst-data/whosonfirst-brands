@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414540, 
+  "wof:brand_name": "Golden Star", 
+  "wof:brand_id": 1125160197, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "sg:retail_goods=shopping", 
+    "sg:retail_goods=food_and_beverages", 
+    "manufacturing_and_wholesale_goods:wholesale=jewelry", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:shopping=jewelry", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:food_and_beverages=meat_and_fish", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=optical_goods", 
+    "services:personal=beauty_salon", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:services=personal", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "eating", 
     "chinese", 
@@ -20,6 +37,6 @@
     "sushi", 
     "vietnamese"
   ], 
-  "wof:brand_name": "Golden Star", 
-  "wof:brand_id": 1125160197
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416298
 }

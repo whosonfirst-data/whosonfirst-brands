@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414549, 
+  "wof:brand_name": "Equitable Life Assurance Soc", 
+  "wof:brand_id": 1125161095, 
+  "wof:categories": [
+    "services:insurance=insurance_agent", 
+    "sg:services=insurance", 
+    "services:insurance=life_insurance"
+  ], 
   "wof:tags": [
     "agency", 
     "carrier", 
@@ -8,6 +13,6 @@
     "carrie", 
     "health"
   ], 
-  "wof:brand_name": "Equitable Life Assurance Soc", 
-  "wof:brand_id": 1125161095
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416305
 }

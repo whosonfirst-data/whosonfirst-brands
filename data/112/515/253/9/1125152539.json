@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414495, 
+  "wof:brand_name": "New England Financial", 
+  "wof:brand_id": 1125152539, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:insurance=hazard_insurance", 
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "services:insurance=life_insurance", 
+    "services:organizations=community_association", 
+    "services:professional=management_and_consulting", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "financial", 
     "advisory", 
@@ -30,6 +44,6 @@
     "sharing", 
     "specializing"
   ], 
-  "wof:brand_name": "New England Financial", 
-  "wof:brand_id": 1125152539
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416263
 }

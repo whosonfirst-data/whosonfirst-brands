@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414543, 
+  "wof:brand_name": "Amigos", 
+  "wof:brand_id": 1125161371, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "services:insurance=insurance_agent", 
+    "sg:services=insurance", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "eating", 
     "mexican", 
@@ -12,6 +21,6 @@
     "night", 
     "personal"
   ], 
-  "wof:brand_name": "Amigos", 
-  "wof:brand_id": 1125161371
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416300
 }

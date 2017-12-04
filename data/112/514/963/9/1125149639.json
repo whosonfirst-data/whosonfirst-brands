@@ -1,6 +1,29 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414556, 
+  "wof:brand_name": "Amtrak", 
+  "wof:brand_id": 1125149639, 
+  "wof:categories": [
+    "sg:transportation=railroad", 
+    "entertainment:travel=travel_agent", 
+    "sg:entertainment=travel", 
+    "sg:transportation=local_transit", 
+    "sg:transportation=transit_center", 
+    "transportation:transit_center=passenger", 
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:transportation=train_station", 
+    "transportation:train_station=rail", 
+    "sg:transportation=freight", 
+    "sg:services=personal", 
+    "sg:services=professional", 
+    "public_place:structure=warehouse", 
+    "services:building_and_trades=electrical", 
+    "services:professional=computer_services", 
+    "services:retail=storage", 
+    "sg:public_place=structure", 
+    "sg:services=building_and_trades", 
+    "sg:services=retail", 
+    "sg:transportation=bus_station"
+  ], 
   "wof:tags": [
     "passenger", 
     "arrangement", 
@@ -41,6 +64,6 @@
     "transporter", 
     "warehouses-merchandise"
   ], 
-  "wof:brand_name": "Amtrak", 
-  "wof:brand_id": 1125149639
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416311
 }

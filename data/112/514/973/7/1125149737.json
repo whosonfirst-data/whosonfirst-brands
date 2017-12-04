@@ -1,6 +1,25 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414560, 
+  "wof:brand_name": "Contours Express", 
+  "wof:brand_id": 1125149737, 
+  "wof:categories": [
+    "entertainment:sports_and_exercise=gym", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:services=personal", 
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "sg:retail_goods=shopping", 
+    "entertainment:arena=sports_club", 
+    "services:professional=management_and_consulting", 
+    "sg:entertainment=arena", 
+    "sg:entertainment=recreation", 
+    "sg:services=health_services", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "services:health_services=clinic", 
+    "services:health_services=health_practitioner", 
+    "services:social_services=child_care", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "health", 
     "gymnasium", 
@@ -22,6 +41,6 @@
     "psychotherapist", 
     "tour"
   ], 
-  "wof:brand_name": "Contours Express", 
-  "wof:brand_id": 1125149737
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416314
 }

@@ -1,9 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414446, 
+  "wof:brand_name": "Reitmans", 
+  "wof:brand_id": 420575937, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=department_store"
+  ], 
   "wof:tags": [
     "sportswear"
   ], 
-  "wof:brand_name": "Reitmans", 
-  "wof:brand_id": 420575937
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416223
 }

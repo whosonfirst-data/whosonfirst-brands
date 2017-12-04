@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414506, 
+  "wof:brand_name": "Budget Car & Truck Rental", 
+  "wof:brand_id": 1125151107, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=auto_rental", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "services:retail=storage", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "entertainment:sports_and_exercise=bicycle_rental", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "services:retail=auto_repair", 
+    "services:retail=car_wash", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:retail_goods=shopping", 
+    "sg:services=personal", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "renting", 
     "truck", 
@@ -22,6 +39,6 @@
     "handyman's", 
     "mover"
   ], 
-  "wof:brand_name": "Budget Car & Truck Rental", 
-  "wof:brand_id": 1125151107
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416271
 }

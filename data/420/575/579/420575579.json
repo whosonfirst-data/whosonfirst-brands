@@ -1,6 +1,31 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414448, 
+  "wof:brand_name": "Masonic Hall", 
+  "wof:brand_id": 420575579, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=community_association", 
+    "services:organizations=membership_organization", 
+    "sg:entertainment=recreation", 
+    "public_place:government=city_hall", 
+    "sg:public_place=government", 
+    "services:organizations=professional_association", 
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_operator", 
+    "services:retail=event_space", 
+    "sg:services=retail", 
+    "sg:food_and_drink=restaurant", 
+    "sg:services=social_services", 
+    "entertainment:travel=hotels_and_motels", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:organizations=religious_organization", 
+    "services:professional=employment_agencies", 
+    "services:real_estate=developer", 
+    "sg:entertainment=travel", 
+    "sg:public_place=community_center", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=personal", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "auditorium", 
     "hall", 
@@ -29,6 +54,6 @@
     "volunteer", 
     "workers'"
   ], 
-  "wof:brand_name": "Masonic Hall", 
-  "wof:brand_id": 420575579
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416224
 }

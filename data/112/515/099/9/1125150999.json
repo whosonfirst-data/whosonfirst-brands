@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414536, 
+  "wof:brand_name": "Association-Retarded Citizens", 
+  "wof:brand_id": 1125150999, 
+  "wof:categories": [
+    "sg:services=social_services", 
+    "services:social_services=job_training", 
+    "sg:services=organizations", 
+    "services:organizations=professional_association", 
+    "services:organizations=nonprofit_organization", 
+    "services:social_services=adult_care", 
+    "sg:public_place=education", 
+    "public_place:education=school", 
+    "retail_goods:shopping=used_merchandise", 
+    "sg:retail_goods=shopping", 
+    "public_place:education=special_training", 
+    "public_place:government=office", 
+    "services:building_and_trades=equipment_rental", 
+    "sg:public_place=government", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "disabled", 
     "dev", 
@@ -26,6 +43,6 @@
     "supply", 
     "vocational"
   ], 
-  "wof:brand_name": "Association-Retarded Citizens", 
-  "wof:brand_id": 1125150999
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416295
 }

@@ -1,11 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414516, 
+  "wof:brand_name": "US Commerce Dept", 
+  "wof:brand_id": 1125153491, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government"
+  ], 
   "wof:tags": [
     "adm", 
     "federal", 
     "program"
   ], 
-  "wof:brand_name": "US Commerce Dept", 
-  "wof:brand_id": 1125153491
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416279
 }

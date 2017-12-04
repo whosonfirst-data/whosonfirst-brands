@@ -1,6 +1,32 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414444, 
+  "wof:brand_name": "Culligan Water Conditioning", 
+  "wof:brand_id": 420575251, 
+  "wof:categories": [
+    "services:retail=repair_shop", 
+    "sg:services=retail", 
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=home_and_garden", 
+    "services:utilities=water", 
+    "sg:services=utilities", 
+    "manufacturing_and_wholesale_goods:wholesale=beer", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "retail_goods:home_and_garden=hardware", 
+    "entertainment:recreation=water_park", 
+    "sg:entertainment=recreation", 
+    "manufacturing_and_wholesale_goods:wholesale=hardware", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=retail_goods", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "services:professional=management_and_consulting", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "water", 
     "equipment", 
@@ -36,6 +62,6 @@
     "softener", 
     "supplies-wholesale"
   ], 
-  "wof:brand_name": "Culligan Water Conditioning", 
-  "wof:brand_id": 420575251
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416221
 }

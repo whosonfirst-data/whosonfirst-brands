@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414483, 
+  "wof:brand_name": "Larry's Barber Shop", 
+  "wof:brand_id": 1125157001, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=barber", 
+    "services:personal=beauty_salon", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
@@ -11,6 +18,6 @@
     "merchandise", 
     "used"
   ], 
-  "wof:brand_name": "Larry's Barber Shop", 
-  "wof:brand_id": 1125157001
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416252
 }

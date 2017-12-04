@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414559, 
+  "wof:brand_name": "Jani-King", 
+  "wof:brand_id": 1125149727, 
+  "wof:categories": [
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=professional", 
+    "sg:services=retail", 
+    "services:professional=business_services", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "services:retail=repair_shop", 
+    "retail_goods:shopping=department_store", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:building_and_trades=construction", 
+    "services:professional=management_and_consulting", 
+    "services:real_estate=real_estate_services", 
+    "sg:retail_goods=shopping", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "janitor", 
     "maintenance", 
@@ -38,6 +56,6 @@
     "shop", 
     "suppl"
   ], 
-  "wof:brand_name": "Jani-King", 
-  "wof:brand_id": 1125149727
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416313
 }

@@ -1,12 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414531, 
+  "wof:brand_name": "Haddows", 
+  "wof:brand_id": 1125153527, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "beer", 
     "spirit", 
     "wines", 
     "wine"
   ], 
-  "wof:brand_name": "Haddows", 
-  "wof:brand_id": 1125153527
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416291
 }

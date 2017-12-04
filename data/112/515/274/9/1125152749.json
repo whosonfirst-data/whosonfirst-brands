@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414465, 
+  "wof:brand_name": "Vocational Rehabilitation Div", 
+  "wof:brand_id": 1125152749, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:services=social_services", 
+    "services:social_services=job_training", 
+    "services:professional=employment_agencies", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "state", 
     "program", 
@@ -19,6 +27,6 @@
     "rehab", 
     "sector"
   ], 
-  "wof:brand_name": "Vocational Rehabilitation Div", 
-  "wof:brand_id": 1125152749
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416238
 }

@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414518, 
+  "wof:brand_name": "Novus Auto Glass Repair", 
+  "wof:brand_id": 1125157687, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "retail_goods:home_and_garden=building_materials", 
+    "sg:retail_goods=home_and_garden", 
+    "services:retail=auto_repair", 
+    "services:building_and_trades=construction", 
+    "services:retail=repair_shop", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:manufacturing=glass_and_minerals", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "manufacturing_and_wholesale_goods:manufacturing=pet_food", 
+    "retail_goods:food_and_beverages=specialty", 
+    "services:utilities=telephone", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "glass", 
     "window", 
@@ -39,6 +57,6 @@
     "trade", 
     "wind"
   ], 
-  "wof:brand_name": "Novus Auto Glass Repair", 
-  "wof:brand_id": 1125157687
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416280
 }

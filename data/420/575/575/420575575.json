@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414444, 
+  "wof:brand_name": "Leslie's Swimming Pool Supply", 
+  "wof:brand_id": 420575575, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:wholesale=sporting_goods", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "services:professional=business_services", 
+    "sg:services=professional", 
+    "entertainment:sports_and_exercise=swimming_pool", 
+    "manufacturing_and_wholesale_goods:manufacturing=toys_and_sporting_goods", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "retail_goods:shopping=catalog_store", 
+    "retail_goods:shopping=department_store", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "pool", 
     "swimming", 
@@ -25,6 +41,6 @@
     "mail", 
     "shop"
   ], 
-  "wof:brand_name": "Leslie's Swimming Pool Supply", 
-  "wof:brand_id": 420575575
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416221
 }

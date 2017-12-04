@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414460, 
+  "wof:brand_name": "Famous Footwear", 
+  "wof:brand_id": 420574425, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=shoes", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "services:real_estate=real_estate_agent", 
+    "sg:public_place=shopping_center", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "store", 
     "sportswear", 
@@ -16,6 +26,6 @@
     "retailer", 
     "shoes"
   ], 
-  "wof:brand_name": "Famous Footwear", 
-  "wof:brand_id": 420574425
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416234
 }

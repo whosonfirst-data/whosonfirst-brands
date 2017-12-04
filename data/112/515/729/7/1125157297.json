@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414478, 
+  "wof:brand_name": "Victory Outreach", 
+  "wof:brand_id": 1125157297, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=religious_organization", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship", 
+    "sg:services=social_services", 
+    "services:health_services=clinic", 
+    "sg:services=health_services", 
+    "services:organizations=nonprofit_organization", 
+    "services:social_services=adult_care", 
+    "services:social_services=job_training", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "church", 
     "churches-assemblies", 
@@ -25,6 +38,6 @@
     "residential", 
     "worship"
   ], 
-  "wof:brand_name": "Victory Outreach", 
-  "wof:brand_id": 1125157297
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416248
 }

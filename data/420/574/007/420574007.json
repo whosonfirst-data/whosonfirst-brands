@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414455, 
+  "wof:brand_name": "Victoria Wine", 
+  "wof:brand_id": 420574007, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "sg:retail_goods=food_and_beverages", 
+    "services:banks_and_credit_unions=bureau_de_change", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:food_and_drink=bars_and_pubs"
+  ], 
   "wof:tags": [
     "beer", 
     "spirit", 
@@ -9,6 +16,6 @@
     "inn", 
     "pubs"
   ], 
-  "wof:brand_name": "Victoria Wine", 
-  "wof:brand_id": 420574007
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416230
 }

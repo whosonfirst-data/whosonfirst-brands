@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414538, 
+  "wof:brand_name": "Angelo's Pizza", 
+  "wof:brand_id": 1125162511, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=deli"
+  ], 
   "wof:tags": [
     "pizza", 
     "eating", 
@@ -11,6 +15,6 @@
     "drinking", 
     "wining"
   ], 
-  "wof:brand_name": "Angelo's Pizza", 
-  "wof:brand_id": 1125162511
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416296
 }

@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414558, 
+  "wof:brand_name": "Einstein Bros", 
+  "wof:brand_id": 1125149003, 
+  "wof:categories": [
+    "sg:food_and_drink=bagels", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:food_and_drink=bakery", 
+    "food_and_drink:bagels=none", 
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=deli", 
+    "sg:food_and_drink=coffee_and_tea"
+  ], 
   "wof:tags": [
     "american", 
     "salad", 
@@ -19,6 +29,6 @@
     "coffee", 
     "tea"
   ], 
-  "wof:brand_name": "Einstein Bros", 
-  "wof:brand_id": 1125149003
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416312
 }

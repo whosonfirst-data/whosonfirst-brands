@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414487, 
+  "wof:brand_name": "Shear Design", 
+  "wof:brand_id": 1125156481, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=home_furnishings", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "services:personal=nail_salon", 
+    "services:personal=tanning_parlor"
+  ], 
   "wof:tags": [
     "shop", 
     "beauty", 
@@ -9,6 +18,6 @@
     "hair", 
     "salon"
   ], 
-  "wof:brand_name": "Shear Design", 
-  "wof:brand_id": 1125156481
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416256
 }

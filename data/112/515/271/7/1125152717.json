@@ -1,6 +1,27 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414496, 
+  "wof:brand_name": "Karate For Kids", 
+  "wof:brand_id": 1125152717, 
+  "wof:categories": [
+    "sg:entertainment=recreation", 
+    "entertainment:arena=sports_club", 
+    "sg:entertainment=arena", 
+    "sg:retail_goods=shopping", 
+    "entertainment:sports_and_exercise=gym", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:entertainment=sports_and_exercise", 
+    "public_place:community_center=youth", 
+    "public_place:education=special_training", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "sg:public_place=community_center", 
+    "sg:public_place=education", 
+    "sg:services=professional", 
+    "public_place:government=police_station", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "services:professional=management_and_consulting", 
+    "services:social_services=child_care", 
+    "sg:public_place=government", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "instruction", 
     "arts", 
@@ -21,6 +42,6 @@
     "protection", 
     "school"
   ], 
-  "wof:brand_name": "Karate For Kids", 
-  "wof:brand_id": 1125152717
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416263
 }

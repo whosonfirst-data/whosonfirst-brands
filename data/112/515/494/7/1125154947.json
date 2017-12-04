@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414488, 
+  "wof:brand_name": "Wolf Camera & Video", 
+  "wof:brand_id": 1125154947, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "sg:services=retail", 
+    "services:retail=photofinishing", 
+    "retail_goods:shopping=photographic_equipment", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:retail=portrait_studio", 
+    "services:retail=repair_shop", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "finishing", 
     "photo", 
@@ -10,6 +21,6 @@
     "photographer", 
     "photographic"
   ], 
-  "wof:brand_name": "Wolf Camera & Video", 
-  "wof:brand_id": 1125154947
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416256
 }

@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414560, 
+  "wof:brand_name": "Cut Above", 
+  "wof:brand_id": 1125149881, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "services:retail=animal_services", 
+    "sg:services=retail", 
+    "services:building_and_trades=landscaping_services", 
+    "services:personal=nail_salon", 
+    "services:personal=skin_care", 
+    "services:personal=tanning_parlor", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "shop", 
     "hairdresser", 
@@ -19,6 +31,6 @@
     "tree", 
     "washing"
   ], 
-  "wof:brand_name": "Cut Above", 
-  "wof:brand_id": 1125149881
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416313
 }

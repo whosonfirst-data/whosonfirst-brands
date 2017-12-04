@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414464, 
+  "wof:brand_name": "Head Start Program", 
+  "wof:brand_id": 1125159277, 
+  "wof:categories": [
+    "sg:services=social_services", 
+    "services:social_services=child_care", 
+    "sg:public_place=education", 
+    "public_place:education=school", 
+    "public_place:education=preschool", 
+    "sg:services=organizations", 
+    "public_place:government=office", 
+    "services:organizations=professional_association", 
+    "sg:public_place=government", 
+    "public_place:education=special_training", 
+    "services:organizations=community_association", 
+    "services:organizations=nonprofit_organization"
+  ], 
   "wof:tags": [
     "day", 
     "kindergarten", 
@@ -21,6 +35,6 @@
     "preschool", 
     "private"
   ], 
-  "wof:brand_name": "Head Start Program", 
-  "wof:brand_id": 1125159277
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416237
 }

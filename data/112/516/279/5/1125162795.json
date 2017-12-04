@@ -1,12 +1,19 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414547, 
+  "wof:brand_name": "Snip N' Clip", 
+  "wof:brand_id": 1125162795, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "services:retail=animal_services", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "grooming", 
     "pet", 
     "shop", 
     "washing"
   ], 
-  "wof:brand_name": "Snip N' Clip", 
-  "wof:brand_id": 1125162795
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416303
 }

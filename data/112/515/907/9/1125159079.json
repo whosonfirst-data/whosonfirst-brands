@@ -1,6 +1,27 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414529, 
+  "wof:brand_name": "Shaklee Independent Distr", 
+  "wof:brand_id": 1125159079, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "manufacturing_and_wholesale_goods:wholesale=chemicals_and_plastics", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "services:organizations=professional_association", 
+    "sg:services=health_services", 
+    "sg:services=organizations", 
+    "manufacturing_and_wholesale_goods:manufacturing=pet_food", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "retail_goods:shopping=catalog_store", 
+    "services:health_services=clinic", 
+    "services:health_services=health_practitioner", 
+    "services:professional=advertising", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "health", 
     "diet", 
@@ -26,6 +47,6 @@
     "product", 
     "selling"
   ], 
-  "wof:brand_name": "Shaklee Independent Distr", 
-  "wof:brand_id": 1125159079
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416289
 }

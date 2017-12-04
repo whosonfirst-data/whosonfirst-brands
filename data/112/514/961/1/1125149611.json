@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414556, 
+  "wof:brand_name": "AIG Royal Alliance", 
+  "wof:brand_id": 1125149611, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=banks_and_credit_unions", 
+    "services:insurance=insurance_agent", 
+    "sg:services=insurance", 
+    "sg:services=professional", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=business_services"
+  ], 
   "wof:tags": [
     "consultant", 
     "financial", 
@@ -19,6 +28,6 @@
     "planner", 
     "return"
   ], 
-  "wof:brand_name": "AIG Royal Alliance", 
-  "wof:brand_id": 1125149611
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416310
 }

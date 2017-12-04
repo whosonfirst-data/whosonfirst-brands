@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414473, 
+  "wof:brand_name": "J Crew", 
+  "wof:brand_id": 1125151599, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=catalog_store", 
+    "entertainment:sports_and_exercise=bicycle_rental", 
+    "sg:entertainment=sports_and_exercise", 
+    "retail_goods:shopping=department_store", 
+    "sg:public_place=shopping_center"
+  ], 
   "wof:tags": [
     "clothing", 
     "women's", 
@@ -17,6 +26,6 @@
     "order", 
     "woman"
   ], 
-  "wof:brand_name": "J Crew", 
-  "wof:brand_id": 1125151599
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416244
 }

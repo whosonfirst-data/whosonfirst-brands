@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414516, 
+  "wof:brand_name": "Veritas", 
+  "wof:brand_id": 1125156683, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=computer_services", 
+    "services:professional=research", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "retail_goods:shopping=florist", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:building_and_trades=construction", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=building_and_trades", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "software", 
     "consultant", 
@@ -14,6 +27,6 @@
     "related", 
     "security"
   ], 
-  "wof:brand_name": "Veritas", 
-  "wof:brand_id": 1125156683
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416278
 }

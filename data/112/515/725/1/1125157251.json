@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414500, 
+  "wof:brand_name": "Shady Grove Baptist Church", 
+  "wof:brand_id": 1125157251, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "church"
   ], 
-  "wof:brand_name": "Shady Grove Baptist Church", 
-  "wof:brand_id": 1125157251
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416266
 }

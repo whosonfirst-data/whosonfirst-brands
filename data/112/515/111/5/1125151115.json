@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414530, 
+  "wof:brand_name": "Overnite Transportation Co", 
+  "wof:brand_id": 1125151115, 
+  "wof:categories": [
+    "sg:transportation=freight", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional", 
+    "sg:transportation=airline", 
+    "sg:transportation=transit_center", 
+    "transportation:transit_center=freight"
+  ], 
   "wof:tags": [
     "trucking", 
     "operator", 
@@ -25,6 +33,6 @@
     "tran", 
     "trucking-motor"
   ], 
-  "wof:brand_name": "Overnite Transportation Co", 
-  "wof:brand_id": 1125151115
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416290
 }

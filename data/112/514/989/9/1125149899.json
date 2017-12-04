@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414554, 
+  "wof:brand_name": "Chicago Park District", 
+  "wof:brand_id": 1125149899, 
+  "wof:categories": [
+    "sg:public_place=park", 
+    "sg:entertainment=sports_and_exercise", 
+    "entertainment:sports_and_exercise=sports_center", 
+    "sg:public_place=community_center", 
+    "entertainment:recreation=picnic_area", 
+    "sg:entertainment=recreation", 
+    "sg:public_place=government", 
+    "public_place:government=city_hall", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional", 
+    "entertainment:recreation=amusement_park", 
+    "entertainment:sports_and_exercise=golf", 
+    "public_place:government=office"
+  ], 
   "wof:tags": [
     "amateur", 
     "team", 
@@ -15,6 +30,6 @@
     "ride", 
     "sport"
   ], 
-  "wof:brand_name": "Chicago Park District", 
-  "wof:brand_id": 1125149899
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416309
 }

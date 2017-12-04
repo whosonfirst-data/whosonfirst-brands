@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414532, 
+  "wof:brand_name": "Radiology Associates", 
+  "wof:brand_id": 1125154801, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=doctor", 
+    "services:health_services=medical_lab", 
+    "manufacturing_and_wholesale_goods:wholesale=medical_equipment_and_supplies", 
+    "services:health_services=health_practitioner", 
+    "services:professional=accounting_and_tax_preparation", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "physician", 
     "surgeon", 
@@ -16,6 +26,6 @@
     "hearing", 
     "radiologist"
   ], 
-  "wof:brand_name": "Radiology Associates", 
-  "wof:brand_id": 1125154801
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416292
 }

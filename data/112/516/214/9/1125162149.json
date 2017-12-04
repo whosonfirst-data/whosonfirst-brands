@@ -1,7 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414539, 
-  "wof:tags": [], 
   "wof:brand_name": "Brotherhood of Maintenanc", 
-  "wof:brand_id": 1125162149
+  "wof:brand_id": 1125162149, 
+  "wof:categories": [
+    "services:organizations=labor_organization", 
+    "sg:services=organizations"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416297
 }

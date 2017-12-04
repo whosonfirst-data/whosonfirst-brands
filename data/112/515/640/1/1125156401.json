@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414485, 
+  "wof:brand_name": "Gino's Pizza", 
+  "wof:brand_id": 1125156401, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "pizza", 
     "american", 
@@ -9,6 +14,6 @@
     "italian", 
     "salad"
   ], 
-  "wof:brand_name": "Gino's Pizza", 
-  "wof:brand_id": 1125156401
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416254
 }

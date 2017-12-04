@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414525, 
+  "wof:brand_name": "Georgia Power Company", 
+  "wof:brand_id": 1125154745, 
+  "wof:categories": [
+    "services:utilities=electric", 
+    "sg:services=utilities", 
+    "manufacturing_and_wholesale_goods:manufacturing=electronics", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "services:professional=engineering", 
+    "services:professional=management_and_consulting"
+  ], 
   "wof:tags": [
     "company", 
     "equipment-testing", 
@@ -16,6 +26,6 @@
     "remote", 
     "transformer"
   ], 
-  "wof:brand_name": "Georgia Power Company", 
-  "wof:brand_id": 1125154745
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416286
 }

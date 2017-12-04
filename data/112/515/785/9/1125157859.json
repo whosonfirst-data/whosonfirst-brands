@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414521, 
+  "wof:brand_name": "Highway Department", 
+  "wof:brand_id": 1125157859, 
+  "wof:categories": [
+    "sg:public_place=government", 
+    "public_place:government=office", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:wholesale=scrap", 
+    "public_place:government=city_hall", 
+    "public_place:government=court_house", 
+    "public_place:government=police_station", 
+    "retail_goods:home_and_garden=building_materials", 
+    "services:professional=management_and_consulting", 
+    "services:retail=auto_repair", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=community_center", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=professional", 
+    "sg:services=retail", 
+    "sg:services=utilities", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "highway", 
     "department", 
@@ -36,6 +56,6 @@
     "street", 
     "town"
   ], 
-  "wof:brand_name": "Highway Department", 
-  "wof:brand_id": 1125157859
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416283
 }

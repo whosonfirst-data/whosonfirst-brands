@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414559, 
+  "wof:brand_name": "Sovereign Bank", 
+  "wof:brand_id": 1125148813, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services"
+  ], 
   "wof:tags": [
     "savings", 
     "federal", 
@@ -19,6 +24,6 @@
     "real estate", 
     "state"
   ], 
-  "wof:brand_name": "Sovereign Bank", 
-  "wof:brand_id": 1125148813
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416313
 }

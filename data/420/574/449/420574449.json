@@ -1,6 +1,40 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414463, 
+  "wof:brand_name": "Shaklee Distributor", 
+  "wof:brand_id": 420574449, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "services:professional=advertising", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping", 
+    "sg:services=personal", 
+    "sg:services=health_services", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "services:health_services=health_practitioner", 
+    "services:professional=business_services", 
+    "manufacturing_and_wholesale_goods:wholesale=chemicals_and_plastics", 
+    "retail_goods:shopping=pharmacy", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:farming=farm", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "manufacturing_and_wholesale_goods:wholesale=drugs", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "manufacturing_and_wholesale_goods:wholesale=hardware", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:home_and_garden=hardware", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "retail_goods:shopping=catalog_store", 
+    "services:health_services=clinic", 
+    "services:personal=beauty_salon", 
+    "services:professional=research", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "direct", 
     "selling", 
@@ -53,6 +87,6 @@
     "weight", 
     "wholesale"
   ], 
-  "wof:brand_name": "Shaklee Distributor", 
-  "wof:brand_id": 420574449
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416236
 }

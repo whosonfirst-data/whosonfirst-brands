@@ -1,11 +1,17 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414544, 
+  "wof:brand_name": "National Tyres & Autocare", 
+  "wof:brand_id": 1125162735, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "garage", 
     "modification", 
     "tyre"
   ], 
-  "wof:brand_name": "National Tyres & Autocare", 
-  "wof:brand_id": 1125162735
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416301
 }

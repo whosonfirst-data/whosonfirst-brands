@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414486, 
+  "wof:brand_name": "Your-Move Co. U K Ltd.", 
+  "wof:brand_id": 1125152921, 
+  "wof:categories": [
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_agent", 
+    "services:banks_and_credit_unions=bank", 
+    "services:real_estate=real_estate_operator", 
+    "services:real_estate=surveying", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "agent", 
     "broker", 
@@ -9,6 +17,6 @@
     "surveyor", 
     "valuer"
   ], 
-  "wof:brand_name": "Your-Move Co. U K Ltd.", 
-  "wof:brand_id": 1125152921
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416255
 }

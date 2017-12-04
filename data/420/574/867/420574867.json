@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414461, 
+  "wof:brand_name": "Thrifty Car Rental", 
+  "wof:brand_id": 420574867, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=auto_rental", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "services:retail=storage", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:transportation=parking", 
+    "transportation:parking=lot", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate", 
+    "services:retail=auto_repair", 
+    "manufacturing_and_wholesale_goods:wholesale=motor_vehicles", 
+    "services:organizations=professional_association", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=organizations", 
+    "sg:transportation=airline"
+  ], 
   "wof:tags": [
     "automobile", 
     "car", 
@@ -32,6 +49,6 @@
     "shuttle", 
     "without"
   ], 
-  "wof:brand_name": "Thrifty Car Rental", 
-  "wof:brand_id": 420574867
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416234
 }

@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414489, 
+  "wof:brand_name": "Crusader Cash Advance", 
+  "wof:brand_id": 1125157821, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "cashing", 
     "check", 
@@ -12,6 +16,6 @@
     "personal", 
     "broker"
   ], 
-  "wof:brand_name": "Crusader Cash Advance", 
-  "wof:brand_id": 1125157821
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416257
 }

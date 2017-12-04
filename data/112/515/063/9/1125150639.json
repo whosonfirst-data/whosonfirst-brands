@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414535, 
+  "wof:brand_name": "Trader Joe's", 
+  "wof:brand_id": 1125150639, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=specialty", 
+    "retail_goods:food_and_beverages=ethnic_foods", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "manufacturing_and_wholesale_goods:wholesale=fruits_and_vegetables", 
+    "services:insurance=health_insurance", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=insurance", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "grocer", 
     "gourmet", 
@@ -16,6 +29,6 @@
     "liquor", 
     "saddlery"
   ], 
-  "wof:brand_name": "Trader Joe's", 
-  "wof:brand_id": 1125150639
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416294
 }

@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414513, 
+  "wof:brand_name": "Nail Tech", 
+  "wof:brand_id": 1125154781, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "manufacturing_and_wholesale_goods:wholesale=metals_and_minerals", 
+    "retail_goods:home_and_garden=mobile_homes", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=professional", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "manicuring", 
     "shop", 
@@ -13,6 +27,6 @@
     "spa", 
     "technician"
   ], 
-  "wof:brand_name": "Nail Tech", 
-  "wof:brand_id": 1125154781
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416277
 }

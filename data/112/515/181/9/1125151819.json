@@ -1,6 +1,30 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414515, 
+  "wof:brand_name": "Barbeques Galore", 
+  "wof:brand_id": 1125151819, 
+  "wof:categories": [
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=furniture", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "sg:food_and_drink=restaurant", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=building_materials", 
+    "entertainment:recreation=barbecue", 
+    "sg:entertainment=recreation", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:wholesale=home_furnishings", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "retail_goods:shopping=pets_and_pet_supplies", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "retail_goods:home_and_garden=kitchen_supply", 
+    "services:building_and_trades=pest_control", 
+    "services:utilities=fuel_oil_and_lpg", 
+    "sg:public_place=shopping_center", 
+    "sg:services=building_and_trades", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "outdoor", 
     "equipment", 
@@ -35,6 +59,6 @@
     "supplies-wholesale", 
     "utensil"
   ], 
-  "wof:brand_name": "Barbeques Galore", 
-  "wof:brand_id": 1125151819
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416278
 }

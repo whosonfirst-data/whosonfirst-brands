@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414495, 
+  "wof:brand_name": "Raymond James Financial Svcs", 
+  "wof:brand_id": 1125152367, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "services:professional=business_services", 
+    "services:banks_and_credit_unions=financial_services", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "security", 
     "financial", 
@@ -24,6 +34,6 @@
     "mutual", 
     "personal"
   ], 
-  "wof:brand_name": "Raymond James Financial Svcs", 
-  "wof:brand_id": 1125152367
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416263
 }

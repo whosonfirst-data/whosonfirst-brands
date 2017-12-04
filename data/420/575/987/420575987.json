@@ -1,9 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414450, 
+  "wof:brand_name": "Osco Drug", 
+  "wof:brand_id": 420575987, 
+  "wof:categories": [
+    "retail_goods:shopping=pharmacy", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "drugstore"
   ], 
-  "wof:brand_name": "Osco Drug", 
-  "wof:brand_id": 420575987
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416226
 }

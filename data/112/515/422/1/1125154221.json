@@ -1,6 +1,28 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414475, 
+  "wof:brand_name": "Jacobs", 
+  "wof:brand_id": 1125154221, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=engineering", 
+    "sg:food_and_drink=bakery", 
+    "sg:services=building_and_trades", 
+    "sg:services=retail", 
+    "entertainment:recreation=arcade", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:building_and_trades=construction", 
+    "services:building_and_trades=plumbing", 
+    "services:insurance=life_insurance", 
+    "services:professional=advertising", 
+    "services:real_estate=architect", 
+    "services:retail=auto_repair", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:entertainment=recreation", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:retail_goods=shopping", 
+    "sg:services=insurance", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "baker", 
     "confectioner", 
@@ -30,6 +52,6 @@
     "structural", 
     "wens-"
   ], 
-  "wof:brand_name": "Jacobs", 
-  "wof:brand_id": 1125154221
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416246
 }

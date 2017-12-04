@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414463, 
+  "wof:brand_name": "Miracle-Ear", 
+  "wof:brand_id": 420574199, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:wholesale=medical_equipment_and_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=health_services", 
+    "services:utilities=natural_gas", 
+    "sg:services=utilities", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "services:retail=repair_shop", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=retail", 
+    "services:health_services=clinic", 
+    "services:health_services=doctor", 
+    "sg:services=professional", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=pharmacy", 
+    "services:health_services=health_practitioner"
+  ], 
   "wof:tags": [
     "hearing", 
     "equipment", 
@@ -44,6 +62,6 @@
     "provides", 
     "surgeon"
   ], 
-  "wof:brand_name": "Miracle-Ear", 
-  "wof:brand_id": 420574199
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416237
 }

@@ -1,11 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414538, 
+  "wof:brand_name": "Metropolitan Community Church", 
+  "wof:brand_id": 1125160269, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "sg:public_place=place_of_worship", 
+    "public_place:place_of_worship=church"
+  ], 
   "wof:tags": [
     "church", 
     "churches-community", 
     "christ"
   ], 
-  "wof:brand_name": "Metropolitan Community Church", 
-  "wof:brand_id": 1125160269
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416296
 }

@@ -1,11 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414530, 
+  "wof:brand_name": "Pilgrim Rest Baptist Church", 
+  "wof:brand_id": 1125157943, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "sg:public_place=place_of_worship", 
+    "public_place:place_of_worship=church"
+  ], 
   "wof:tags": [
     "church", 
     "churches-baptist", 
     "churches-baptist-general"
   ], 
-  "wof:brand_name": "Pilgrim Rest Baptist Church", 
-  "wof:brand_id": 1125157943
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416290
 }

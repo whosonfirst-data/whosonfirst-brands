@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414478, 
+  "wof:brand_name": "Northwest Airlines", 
+  "wof:brand_id": 1125156443, 
+  "wof:categories": [
+    "sg:transportation=airline", 
+    "entertainment:travel=travel_agent", 
+    "sg:entertainment=travel", 
+    "sg:transportation=airport", 
+    "services:insurance=insurance_agent", 
+    "services:professional=management_and_consulting", 
+    "sg:services=insurance", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "air", 
     "scheduled", 
@@ -26,6 +36,6 @@
     "tran", 
     "transport"
   ], 
-  "wof:brand_name": "Northwest Airlines", 
-  "wof:brand_id": 1125156443
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416248
 }

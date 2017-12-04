@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414546, 
+  "wof:brand_name": "Stonham Housing Association Ltd.", 
+  "wof:brand_id": 1125160343, 
+  "wof:categories": [
+    "services:organizations=community_association", 
+    "sg:services=organizations", 
+    "services:health_services=nursing_and_care_facility", 
+    "sg:services=health_services", 
+    "entertainment:travel=hostel", 
+    "sg:entertainment=travel"
+  ], 
   "wof:tags": [
     "housing", 
     "society", 
@@ -11,6 +19,6 @@
     "societies", 
     "residential"
   ], 
-  "wof:brand_name": "Stonham Housing Association Ltd.", 
-  "wof:brand_id": 1125160343
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416302
 }

@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414460, 
+  "wof:brand_name": "Days Inn", 
+  "wof:brand_id": 420574021, 
+  "wof:categories": [
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel", 
+    "sg:food_and_drink=restaurant", 
+    "sg:services=professional", 
+    "sg:services=real_estate", 
+    "services:professional=management_and_consulting", 
+    "entertainment:travel=bed_and_breakfast", 
+    "services:professional=business_services", 
+    "services:real_estate=real_estate_operator", 
+    "entertainment:sports_and_exercise=gym", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:real_estate=developer", 
+    "services:real_estate=real_estate_agent", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "operation", 
     "lodging", 
@@ -51,6 +68,6 @@
     "shop", 
     "subdivider"
   ], 
-  "wof:brand_name": "Days Inn", 
-  "wof:brand_id": 420574021
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416234
 }

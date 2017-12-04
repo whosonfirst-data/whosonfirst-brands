@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414499, 
+  "wof:brand_name": "United Food & Commercial Wrkrs", 
+  "wof:brand_id": 1125153257, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=labor_organization", 
+    "services:organizations=professional_association", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "services:insurance=insurance_agent", 
+    "services:organizations=nonprofit_organization", 
+    "services:professional=management_and_consulting", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=insurance", 
+    "sg:services=professional", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "business", 
     "consultant", 
@@ -9,6 +22,6 @@
     "trade", 
     "union"
   ], 
-  "wof:brand_name": "United Food & Commercial Wrkrs", 
-  "wof:brand_id": 1125153257
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416266
 }

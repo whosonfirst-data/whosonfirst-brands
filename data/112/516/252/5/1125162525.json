@@ -1,6 +1,33 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414548, 
+  "wof:brand_name": "Aurora", 
+  "wof:brand_id": 1125162525, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=social_services", 
+    "services:personal=beauty_salon", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=paper_products", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "manufacturing_and_wholesale_goods:wholesale=medical_equipment_and_supplies", 
+    "public_place:education=dance_studio", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:building_and_trades=construction", 
+    "services:organizations=nonprofit_organization", 
+    "services:professional=computer_services", 
+    "services:professional=employment_agencies", 
+    "services:real_estate=real_estate_operator", 
+    "sg:public_place=education", 
+    "sg:retail_goods=shopping", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=building_and_trades", 
+    "sg:services=organizations", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "counseling", 
     "abuse", 
@@ -26,6 +53,6 @@
     "treatment", 
     "welfare"
   ], 
-  "wof:brand_name": "Aurora", 
-  "wof:brand_id": 1125162525
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416304
 }

@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414478, 
+  "wof:brand_name": "Olympia Sports", 
+  "wof:brand_id": 1125153169, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "retail_goods:shopping=shoes", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "entertainment:sports_and_exercise=bicycle_rental", 
+    "sg:entertainment=sports_and_exercise", 
+    "services:retail=repair_shop", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "store", 
     "goo", 
@@ -9,6 +19,6 @@
     "bicycles-renting", 
     "sportswear"
   ], 
-  "wof:brand_name": "Olympia Sports", 
-  "wof:brand_id": 1125153169
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416249
 }

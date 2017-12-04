@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414560, 
+  "wof:brand_name": "Kinkos", 
+  "wof:brand_id": 1125149149, 
+  "wof:categories": [
+    "services:professional=printing_and_photocopies", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "photocopying", 
     "typesetting", 
@@ -26,6 +34,6 @@
     "photo", 
     "provides"
   ], 
-  "wof:brand_name": "Kinkos", 
-  "wof:brand_id": 1125149149
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416314
 }

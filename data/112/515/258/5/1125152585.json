@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414492, 
+  "wof:brand_name": "Clip Joint", 
+  "wof:brand_id": 1125152585, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:retail=animal_services", 
+    "sg:services=retail", 
+    "services:personal=barber", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional", 
+    "entertainment:recreation=dog_park", 
+    "services:personal=tanning_parlor", 
+    "sg:entertainment=recreation", 
+    "sg:food_and_drink=bars_and_pubs"
+  ], 
   "wof:tags": [
     "shop", 
     "pet", 
@@ -21,6 +34,6 @@
     "men's", 
     "supply"
   ], 
-  "wof:brand_name": "Clip Joint", 
-  "wof:brand_id": 1125152585
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416259
 }

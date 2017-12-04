@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414529, 
+  "wof:brand_name": "Ecowater Systems", 
+  "wof:brand_id": 1125154299, 
+  "wof:categories": [
+    "services:professional=business_services", 
+    "sg:services=professional", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:wholesale=hardware", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:home_and_garden=hardware", 
+    "services:building_and_trades=plumbing", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=building_and_trades", 
+    "services:utilities=water", 
+    "sg:services=utilities", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "water", 
     "treatment", 
@@ -24,6 +39,6 @@
     "residential", 
     "softener"
   ], 
-  "wof:brand_name": "Ecowater Systems", 
-  "wof:brand_id": 1125154299
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416289
 }

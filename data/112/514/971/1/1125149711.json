@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414553, 
+  "wof:brand_name": "Jason's Deli", 
+  "wof:brand_id": 1125149711, 
+  "wof:categories": [
+    "sg:food_and_drink=deli", 
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:food_and_drink=fast_food", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "american", 
     "deli", 
@@ -21,6 +30,6 @@
     "vegetarian", 
     "wrap"
   ], 
-  "wof:brand_name": "Jason's Deli", 
-  "wof:brand_id": 1125149711
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416308
 }

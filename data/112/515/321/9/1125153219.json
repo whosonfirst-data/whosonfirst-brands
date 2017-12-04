@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414472, 
+  "wof:brand_name": "Gentiva Health Services", 
+  "wof:brand_id": 1125153219, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=clinic", 
+    "services:health_services=health_practitioner", 
+    "services:health_services=nursing_and_care_facility", 
+    "services:professional=employment_agencies", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "home", 
     "care", 
@@ -21,6 +29,6 @@
     "specialty", 
     "supply"
   ], 
-  "wof:brand_name": "Gentiva Health Services", 
-  "wof:brand_id": 1125153219
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416243
 }

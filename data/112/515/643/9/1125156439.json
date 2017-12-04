@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414496, 
+  "wof:brand_name": "Norfolk Southern Corporation", 
+  "wof:brand_id": 1125156439, 
+  "wof:categories": [
+    "sg:transportation=railroad", 
+    "sg:services=professional", 
+    "services:professional=engineering", 
+    "sg:transportation=train_station", 
+    "transportation:train_station=rail", 
+    "entertainment:travel=travel_agent", 
+    "manufacturing_and_wholesale_goods:manufacturing=motor_vehicles_and_parts", 
+    "services:building_and_trades=construction", 
+    "services:professional=management_and_consulting", 
+    "sg:entertainment=travel", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "line", 
     "operator", 
@@ -28,6 +42,6 @@
     "supply", 
     "terminal"
   ], 
-  "wof:brand_name": "Norfolk Southern Corporation", 
-  "wof:brand_id": 1125156439
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416264
 }

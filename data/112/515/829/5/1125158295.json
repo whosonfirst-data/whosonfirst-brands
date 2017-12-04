@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414489, 
+  "wof:brand_name": "Friday's", 
+  "wof:brand_id": 1125158295, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "retail_goods:food_and_beverages=meat_and_fish", 
+    "services:utilities=natural_gas", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "american", 
     "chip", 
@@ -8,6 +16,6 @@
     "supplier", 
     "traditional"
   ], 
-  "wof:brand_name": "Friday's", 
-  "wof:brand_id": 1125158295
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416257
 }

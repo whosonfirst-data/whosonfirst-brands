@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414528, 
+  "wof:brand_name": "Christ Community Church", 
+  "wof:brand_id": 1125150737, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=religious_organization", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship", 
+    "public_place:education=preschool", 
+    "public_place:education=school", 
+    "services:organizations=membership_organization", 
+    "services:social_services=child_care", 
+    "sg:public_place=education", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "church", 
     "christ", 
@@ -22,6 +34,6 @@
     "god-independent", 
     "missionary"
   ], 
-  "wof:brand_name": "Christ Community Church", 
-  "wof:brand_id": 1125150737
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416288
 }

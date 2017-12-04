@@ -1,12 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414557, 
+  "wof:brand_name": "Ryan's", 
+  "wof:brand_id": 1125149523, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=bars_and_pubs"
+  ], 
   "wof:tags": [
     "american", 
     "banquet", 
     "rooms", 
     "traditional"
   ], 
-  "wof:brand_name": "Ryan's", 
-  "wof:brand_id": 1125149523
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416311
 }

@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414522, 
+  "wof:brand_name": "Good Feet Store", 
+  "wof:brand_id": 1125155003, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=shoes", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:building_and_trades=landscaping_services", 
+    "services:health_services=health_practitioner", 
+    "sg:services=building_and_trades", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "appliance", 
     "foot", 
@@ -18,6 +27,6 @@
     "shoes", 
     "sportswear"
   ], 
-  "wof:brand_name": "Good Feet Store", 
-  "wof:brand_id": 1125155003
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416284
 }

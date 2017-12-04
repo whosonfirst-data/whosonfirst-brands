@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414520, 
+  "wof:brand_name": "Tweeter", 
+  "wof:brand_id": 1125154373, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:shopping=mobile_phones", 
+    "services:retail=repair_shop", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:manufacturing=electronics", 
+    "services:professional=computer_services", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "fidelity", 
     "high", 
@@ -18,6 +31,6 @@
     "store", 
     "video"
   ], 
-  "wof:brand_name": "Tweeter", 
-  "wof:brand_id": 1125154373
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416282
 }

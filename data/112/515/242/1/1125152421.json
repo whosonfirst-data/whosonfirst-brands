@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414473, 
+  "wof:brand_name": "Pharma Plus Drugmart", 
+  "wof:brand_id": 1125152421, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=pharmacy", 
+    "public_place:government=post_office", 
+    "sg:public_place=government", 
+    "retail_goods:food_and_beverages=specialty", 
+    "services:retail=photofinishing", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "cosmetic", 
     "perfume", 
@@ -9,6 +19,6 @@
     "photo", 
     "vitamin"
   ], 
-  "wof:brand_name": "Pharma Plus Drugmart", 
-  "wof:brand_id": 1125152421
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416244
 }

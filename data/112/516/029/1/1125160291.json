@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414549, 
+  "wof:brand_name": "Petra", 
+  "wof:brand_id": 1125160291, 
+  "wof:categories": [
+    "services:personal=nail_salon", 
+    "sg:services=personal", 
+    "sg:services=building_and_trades", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:shopping=adult", 
+    "services:building_and_trades=construction", 
+    "services:building_and_trades=plumbing", 
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "pedicure", 
     "contractor", 
@@ -11,6 +23,6 @@
     "plumbing", 
     "tricotage"
   ], 
-  "wof:brand_name": "Petra", 
-  "wof:brand_id": 1125160291
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416305
 }

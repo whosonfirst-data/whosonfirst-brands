@@ -1,7 +1,11 @@
 {
-  "wof:brand_size": "O", 
-  "wof:lastmodified": 1512414563, 
-  "wof:tags": [], 
   "wof:brand_name": "Four Barrel", 
-  "wof:brand_id": 1141959941
+  "wof:brand_id": 1141959941, 
+  "wof:categories": [
+    "eat_and_drink:drink=coffee_shop", 
+    "sg:food_and_drink=coffee_and_tea"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "O", 
+  "wof:lastmodified": 1512416316
 }

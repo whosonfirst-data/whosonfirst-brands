@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414460, 
+  "wof:brand_name": "Countrywide Home Loans", 
+  "wof:brand_id": 420574189, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=real_estate", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "loan", 
     "real estate", 
@@ -15,6 +24,6 @@
     "financial", 
     "financing"
   ], 
-  "wof:brand_name": "Countrywide Home Loans", 
-  "wof:brand_id": 420574189
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416234
 }

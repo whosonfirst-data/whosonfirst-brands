@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414507, 
+  "wof:brand_name": "Groomingdales", 
+  "wof:brand_id": 1125154753, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=animal_services", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=pets_and_pet_supplies", 
+    "services:retail=pet_boarding", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "grooming", 
     "pet", 
@@ -16,6 +24,6 @@
     "store", 
     "supply"
   ], 
-  "wof:brand_name": "Groomingdales", 
-  "wof:brand_id": 1125154753
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416272
 }

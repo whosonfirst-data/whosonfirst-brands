@@ -1,6 +1,34 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414526, 
+  "wof:brand_name": "Alpha", 
+  "wof:brand_id": 1125158025, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=social_services", 
+    "manufacturing_and_wholesale_goods:manufacturing=paper_products", 
+    "manufacturing_and_wholesale_goods:manufacturing=signs", 
+    "manufacturing_and_wholesale_goods:wholesale=construction_materials", 
+    "manufacturing_and_wholesale_goods:wholesale=farm_supplies", 
+    "public_place:education=school", 
+    "retail_goods:food_and_beverages=fruits_and_vegetables", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "services:banks_and_credit_unions=bank", 
+    "services:organizations=religious_organization", 
+    "services:personal=beauty_salon", 
+    "services:professional=advertising", 
+    "services:professional=engineering", 
+    "services:retail=driving_school", 
+    "services:social_services=adult_care", 
+    "sg:public_place=education", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:retail_goods=shopping", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=organizations", 
+    "sg:services=personal", 
+    "sg:services=retail", 
+    "sg:transportation=taxi"
+  ], 
   "wof:tags": [
     "establishment", 
     "-", 
@@ -26,6 +54,6 @@
     "taxicab", 
     "video"
   ], 
-  "wof:brand_name": "Alpha", 
-  "wof:brand_id": 1125158025
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416287
 }

@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414551, 
+  "wof:brand_name": "US Home Corp", 
+  "wof:brand_id": 1125160373, 
+  "wof:categories": [
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_agent", 
+    "retail_goods:home_and_garden=mobile_homes", 
+    "services:banks_and_credit_unions=bank", 
+    "services:real_estate=developer", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "builder", 
     "home", 
@@ -9,6 +20,6 @@
     "loan", 
     "real estate"
   ], 
-  "wof:brand_name": "US Home Corp", 
-  "wof:brand_id": 1125160373
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416307
 }

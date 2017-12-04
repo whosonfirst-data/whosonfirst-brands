@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414546, 
+  "wof:brand_name": "Heritage Propane", 
+  "wof:brand_id": 1125161139, 
+  "wof:categories": [
+    "sg:services=utilities", 
+    "services:utilities=fuel_oil_and_lpg", 
+    "services:utilities=natural_gas"
+  ], 
   "wof:tags": [
     "gas", 
     "petroleum", 
@@ -15,6 +20,6 @@
     "retail", 
     "supply"
   ], 
-  "wof:brand_name": "Heritage Propane", 
-  "wof:brand_id": 1125161139
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416303
 }

@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414493, 
+  "wof:brand_name": "Aamco Transmissions", 
+  "wof:brand_id": 1125150015, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "transmission", 
     "automotive", 
@@ -27,6 +36,6 @@
     "towing", 
     "used"
   ], 
-  "wof:brand_name": "Aamco Transmissions", 
-  "wof:brand_id": 1125150015
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416260
 }

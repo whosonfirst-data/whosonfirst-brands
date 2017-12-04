@@ -1,6 +1,36 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414537, 
+  "wof:brand_name": "One Stop Shop", 
+  "wof:brand_id": 1125162745, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=shopping", 
+    "sg:services=retail", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "services:retail=auto_repair", 
+    "sg:services=professional", 
+    "public_place:government=office", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "retail_goods:shopping=department_store", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=government", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=florist", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=pets_and_pet_supplies", 
+    "services:banks_and_credit_unions=bureau_de_change", 
+    "services:personal=beauty_salon", 
+    "services:professional=management_and_consulting", 
+    "services:retail=car_wash", 
+    "sg:food_and_drink=deli", 
+    "sg:food_and_drink=fast_food", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=personal", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "merchandise", 
     "automobile", 
@@ -26,6 +56,6 @@
     "ticket", 
     "wine"
   ], 
-  "wof:brand_name": "One Stop Shop", 
-  "wof:brand_id": 1125162745
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416296
 }

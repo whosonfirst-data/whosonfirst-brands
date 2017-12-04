@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414532, 
+  "wof:brand_name": "Meijer", 
+  "wof:brand_id": 1125153883, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=pharmacy", 
+    "entertainment:sports_and_exercise=stables", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:public_place=shopping_center", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "grocer", 
     "drugstore", 
@@ -9,6 +23,6 @@
     "super", 
     "warehouse"
   ], 
-  "wof:brand_name": "Meijer", 
-  "wof:brand_id": 1125153883
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416292
 }

@@ -1,12 +1,25 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414477, 
+  "wof:brand_name": "Petals", 
+  "wof:brand_id": 1125159063, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=florist", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "services:building_and_trades=construction", 
+    "services:personal=beauty_salon", 
+    "services:retail=funeral_services", 
+    "sg:services=building_and_trades", 
+    "sg:services=personal", 
+    "sg:services=professional", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "contractor", 
     "craft", 
     "hanging", 
     "supply"
   ], 
-  "wof:brand_name": "Petals", 
-  "wof:brand_id": 1125159063
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416247
 }

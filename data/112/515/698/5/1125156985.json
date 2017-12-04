@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414465, 
+  "wof:brand_name": "Juvenile Court", 
+  "wof:brand_id": 1125156985, 
+  "wof:categories": [
+    "sg:public_place=government", 
+    "public_place:government=court_house", 
+    "public_place:government=jail", 
+    "public_place:government=office", 
+    "sg:services=social_services", 
+    "public_place:education=library", 
+    "public_place:government=police_station", 
+    "services:social_services=adult_care", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "institution", 
     "county", 
@@ -22,6 +33,6 @@
     "parish", 
     "residential"
   ], 
-  "wof:brand_name": "Juvenile Court", 
-  "wof:brand_id": 1125156985
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416238
 }

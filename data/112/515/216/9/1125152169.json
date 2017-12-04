@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414474, 
+  "wof:brand_name": "Peet's Coffee & Tea", 
+  "wof:brand_id": 1125152169, 
+  "wof:categories": [
+    "sg:food_and_drink=coffee_and_tea", 
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=food_and_beverages", 
+    "food_and_drink:tea_room=none", 
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:food_and_drink=tea_room", 
+    "sg:food_and_drink=bakery", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "coffee", 
     "shop", 
@@ -13,6 +25,6 @@
     "pastry", 
     "tea-wholesale"
   ], 
-  "wof:brand_name": "Peet's Coffee & Tea", 
-  "wof:brand_id": 1125152169
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416245
 }

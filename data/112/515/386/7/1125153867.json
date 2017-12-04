@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414533, 
+  "wof:brand_name": "Hair Shack", 
+  "wof:brand_id": 1125153867, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "services:personal=nail_salon", 
+    "services:personal=tanning_parlor"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
@@ -10,6 +17,6 @@
     "unisex", 
     "barber"
   ], 
-  "wof:brand_name": "Hair Shack", 
-  "wof:brand_id": 1125153867
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416292
 }

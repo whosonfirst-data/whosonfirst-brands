@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414512, 
+  "wof:brand_name": "Realty World", 
+  "wof:brand_id": 1125150685, 
+  "wof:categories": [
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_agent", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:real_estate=developer", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "broker", 
     "buyer", 
@@ -27,6 +39,6 @@
     "vacancy", 
     "wooden"
   ], 
-  "wof:brand_name": "Realty World", 
-  "wof:brand_id": 1125150685
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416276
 }

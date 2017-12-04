@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414507, 
+  "wof:brand_name": "Leading Edge Music", 
+  "wof:brand_id": 1125155783, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=music", 
+    "retail_goods:shopping=computers_and_home_electronics"
+  ], 
   "wof:tags": [
     "store", 
     "instrument", 
@@ -8,6 +13,6 @@
     "equipment", 
     "hi-fi"
   ], 
-  "wof:brand_name": "Leading Edge Music", 
-  "wof:brand_id": 1125155783
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416271
 }

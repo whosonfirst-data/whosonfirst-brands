@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414555, 
+  "wof:brand_name": "Community Of Christ", 
+  "wof:brand_id": 1125149641, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "sg:public_place=place_of_worship", 
+    "public_place:place_of_worship=church"
+  ], 
   "wof:tags": [
     "church", 
     "christ", 
@@ -12,6 +18,6 @@
     "christ-new", 
     "testament"
   ], 
-  "wof:brand_name": "Community Of Christ", 
-  "wof:brand_id": 1125149641
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416310
 }

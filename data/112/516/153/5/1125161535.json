@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414539, 
+  "wof:brand_name": "Lucky House", 
+  "wof:brand_id": 1125161535, 
+  "wof:categories": [
+    "sg:food_and_drink=fast_food", 
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=meat_and_fish", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "away", 
     "take", 
@@ -13,6 +19,6 @@
     "eating", 
     "sushi"
   ], 
-  "wof:brand_name": "Lucky House", 
-  "wof:brand_id": 1125161535
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416297
 }

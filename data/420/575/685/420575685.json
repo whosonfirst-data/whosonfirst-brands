@@ -1,7 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414445, 
-  "wof:tags": [], 
   "wof:brand_name": "J Sainsbury", 
-  "wof:brand_id": 420575685
+  "wof:brand_id": 420575685, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=supermarket", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:shopping=pharmacy", 
+    "sg:retail_goods=shopping"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416222
 }

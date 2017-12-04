@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414524, 
+  "wof:brand_name": "Advanced Chiropractic", 
+  "wof:brand_id": 1125155559, 
+  "wof:categories": [
+    "services:health_services=chiropractor", 
+    "sg:services=health_services", 
+    "services:health_services=doctor", 
+    "services:personal=massage", 
+    "sg:public_place=community_center", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "chiropractic", 
     "clinic", 
@@ -14,6 +22,6 @@
     "surgeon", 
     "treatment"
   ], 
-  "wof:brand_name": "Advanced Chiropractic", 
-  "wof:brand_id": 1125155559
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416285
 }

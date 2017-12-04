@@ -1,10 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414466, 
+  "wof:brand_name": "US Customs Svc", 
+  "wof:brand_id": 1125152111, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government"
+  ], 
   "wof:tags": [
     "federal", 
     "taxation"
   ], 
-  "wof:brand_name": "US Customs Svc", 
-  "wof:brand_id": 1125152111
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416239
 }

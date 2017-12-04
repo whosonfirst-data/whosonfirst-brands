@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414536, 
+  "wof:brand_name": "Lawyers Title Insurance Corp", 
+  "wof:brand_id": 1125153625, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=title_insurance", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=real_estate", 
+    "services:insurance=insurance_agent", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "services:professional=lawyer_and_legal_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "title", 
     "carrier", 
@@ -16,6 +27,6 @@
     "tr", 
     "utility"
   ], 
-  "wof:brand_name": "Lawyers Title Insurance Corp", 
-  "wof:brand_id": 1125153625
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416295
 }

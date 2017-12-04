@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414554, 
+  "wof:brand_name": "L A Nails", 
+  "wof:brand_id": 1125149741, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "services:building_and_trades=construction", 
+    "services:personal=tanning_parlor", 
+    "sg:retail_goods=shopping", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "manicuring", 
     "shop", 
@@ -17,6 +27,6 @@
     "stampings", 
     "supply"
   ], 
-  "wof:brand_name": "L A Nails", 
-  "wof:brand_id": 1125149741
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416309
 }

@@ -1,6 +1,33 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414453, 
+  "wof:brand_name": "Coldwell Banker", 
+  "wof:brand_id": 420573869, 
+  "wof:categories": [
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_agent", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=banks_and_credit_unions", 
+    "services:real_estate=developer", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=professional", 
+    "services:real_estate=real_estate_operator", 
+    "services:building_and_trades=construction", 
+    "services:insurance=insurance_agent", 
+    "sg:services=building_and_trades", 
+    "sg:services=insurance", 
+    "services:professional=business_services", 
+    "services:professional=management_and_consulting", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:manufacturing=signs", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=optical_goods", 
+    "services:communications=film_and_video_production", 
+    "services:professional=accounting_and_tax_preparation", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=communications"
+  ], 
   "wof:tags": [
     "broker", 
     "buyer", 
@@ -60,6 +87,6 @@
     "s", 
     "selling"
   ], 
-  "wof:brand_name": "Coldwell Banker", 
-  "wof:brand_id": 420573869
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416228
 }

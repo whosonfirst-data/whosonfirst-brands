@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414448, 
+  "wof:brand_name": "Delta Kappa Gamma Society", 
+  "wof:brand_id": 420575385, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=community_association", 
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel", 
+    "public_place:education=special_training", 
+    "services:organizations=membership_organization", 
+    "services:organizations=professional_association", 
+    "services:professional=employment_agencies", 
+    "sg:public_place=education", 
+    "sg:services=professional", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "membership", 
     "club", 
@@ -12,6 +25,6 @@
     "volunteer", 
     "workers'"
   ], 
-  "wof:brand_name": "Delta Kappa Gamma Society", 
-  "wof:brand_id": 420575385
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416224
 }

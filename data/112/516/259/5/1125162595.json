@@ -1,10 +1,14 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414542, 
+  "wof:brand_name": "Coiffure Marleen", 
+  "wof:brand_id": 1125162595, 
+  "wof:categories": [
+    "services:personal=beauty_salon", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "coiffure", 
     "de"
   ], 
-  "wof:brand_name": "Coiffure Marleen", 
-  "wof:brand_id": 1125162595
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416299
 }

@@ -1,12 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414538, 
+  "wof:brand_name": "Extend-A-Care For Kids", 
+  "wof:brand_id": 1125161467, 
+  "wof:categories": [
+    "services:social_services=child_care", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "day", 
     "after", 
     "program", 
     "school"
   ], 
-  "wof:brand_name": "Extend-A-Care For Kids", 
-  "wof:brand_id": 1125161467
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416296
 }

@@ -1,12 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414462, 
+  "wof:brand_name": "Iceland Foods Plc", 
+  "wof:brand_id": 420574323, 
+  "wof:categories": [
+    "public_place:community_center=social", 
+    "sg:public_place=community_center"
+  ], 
   "wof:tags": [
     "centre", 
     "food", 
     "freezer", 
     "frozen"
   ], 
-  "wof:brand_name": "Iceland Foods Plc", 
-  "wof:brand_id": 420574323
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416236
 }

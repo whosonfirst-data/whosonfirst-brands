@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414483, 
+  "wof:brand_name": "Flower Shop", 
+  "wof:brand_id": 1125152205, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=florist", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "manufacturing_and_wholesale_goods:farming=nursery", 
+    "retail_goods:shopping=crafts_and_fabrics", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "services:real_estate=real_estate_operator", 
+    "sg:entertainment=recreation", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "supply", 
     "plant", 
@@ -23,6 +37,6 @@
     "ornamental", 
     "trees-silk"
   ], 
-  "wof:brand_name": "Flower Shop", 
-  "wof:brand_id": 1125152205
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416252
 }

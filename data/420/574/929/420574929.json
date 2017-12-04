@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414461, 
+  "wof:brand_name": "AAA Insurance", 
+  "wof:brand_id": 420574929, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "entertainment:travel=travel_agent", 
+    "sg:entertainment=travel", 
+    "sg:services=organizations", 
+    "services:insurance=hazard_insurance", 
+    "services:organizations=membership_organization", 
+    "services:insurance=title_insurance", 
+    "services:insurance=life_insurance", 
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:farming=farm", 
+    "public_place:government=office", 
+    "services:organizations=community_association", 
+    "services:organizations=professional_association", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:public_place=government", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "agency", 
     "bureau", 
@@ -27,6 +47,6 @@
     "travel", 
     "wrecker"
   ], 
-  "wof:brand_name": "AAA Insurance", 
-  "wof:brand_id": 420574929
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416234
 }

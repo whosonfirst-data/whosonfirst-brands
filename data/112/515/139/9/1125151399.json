@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414470, 
+  "wof:brand_name": "Yves Rocher", 
+  "wof:brand_id": 1125151399, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "services:personal=beauty_salon", 
+    "sg:services=personal", 
+    "manufacturing_and_wholesale_goods:wholesale=drugs", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:shopping=catalog_store", 
+    "sg:transportation=parking", 
+    "transportation:parking=bicycle"
+  ], 
   "wof:tags": [
     "-", 
     "perfumery", 
@@ -9,6 +20,6 @@
     "mail", 
     "order"
   ], 
-  "wof:brand_name": "Yves Rocher", 
-  "wof:brand_id": 1125151399
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416242
 }

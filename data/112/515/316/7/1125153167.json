@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414478, 
+  "wof:brand_name": "Narcotics Anonymous", 
+  "wof:brand_id": 1125153167, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=nonprofit_organization", 
+    "sg:services=health_services", 
+    "services:organizations=membership_organization", 
+    "sg:services=social_services", 
+    "services:health_services=hospital", 
+    "services:health_services=clinic", 
+    "services:health_services=doctor", 
+    "services:organizations=community_association", 
+    "services:social_services=adult_care", 
+    "sg:services=personal", 
+    "services:health_services=health_practitioner", 
+    "services:professional=lawyer_and_legal_services", 
+    "sg:public_place=community_center", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "addiction", 
     "drug", 
@@ -29,6 +46,6 @@
     "support", 
     "surgical"
   ], 
-  "wof:brand_name": "Narcotics Anonymous", 
-  "wof:brand_id": 1125153167
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416248
 }

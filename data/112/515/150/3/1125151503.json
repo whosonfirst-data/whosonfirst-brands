@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414520, 
+  "wof:brand_name": "D'Angelo Sandwich Shops", 
+  "wof:brand_id": 1125151503, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=deli", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:food_and_drink=fast_food"
+  ], 
   "wof:tags": [
     "sandwich", 
     "american", 
@@ -12,6 +19,6 @@
     "take", 
     "italian"
   ], 
-  "wof:brand_name": "D'Angelo Sandwich Shops", 
-  "wof:brand_id": 1125151503
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416282
 }

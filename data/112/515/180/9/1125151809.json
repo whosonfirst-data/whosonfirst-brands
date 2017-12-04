@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414473, 
+  "wof:brand_name": "United Transportation Union", 
+  "wof:brand_id": 1125151809, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=labor_organization", 
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:transportation=freight", 
+    "services:organizations=membership_organization", 
+    "services:organizations=professional_association", 
+    "sg:transportation=local_transit"
+  ], 
   "wof:tags": [
     "union", 
     "transportation", 
@@ -11,6 +21,6 @@
     "fraternal", 
     "permit"
   ], 
-  "wof:brand_name": "United Transportation Union", 
-  "wof:brand_id": 1125151809
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416244
 }

@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414524, 
+  "wof:brand_name": "Head Hunters", 
+  "wof:brand_id": 1125158309, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "entertainment:sports_and_exercise=sports_center", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "public_place:military_area=air_force_base", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:public_place=military_area", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "shop", 
     "hairdresser", 
@@ -15,6 +28,6 @@
     "stamp", 
     "stylist"
   ], 
-  "wof:brand_name": "Head Hunters", 
-  "wof:brand_id": 1125158309
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416285
 }

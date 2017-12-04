@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414456, 
+  "wof:brand_name": "Sunglass Hut", 
+  "wof:brand_id": 420574879, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=optical_goods", 
+    "services:personal=shoe_repair_and_shine", 
+    "sg:services=personal", 
+    "retail_goods:shopping=optician", 
+    "retail_goods:shopping=jewelry", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "sun", 
     "goggles", 
@@ -13,6 +24,6 @@
     "gas", 
     "optician"
   ], 
-  "wof:brand_name": "Sunglass Hut", 
-  "wof:brand_id": 420574879
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416231
 }

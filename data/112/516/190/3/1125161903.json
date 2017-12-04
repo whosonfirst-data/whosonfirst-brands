@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414546, 
+  "wof:brand_name": "Moneytree", 
+  "wof:brand_id": 1125161903, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=bank", 
+    "retail_goods:shopping=pawn_shop", 
+    "sg:retail_goods=shopping", 
+    "services:organizations=nonprofit_organization", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "check", 
     "loan", 
@@ -17,6 +26,6 @@
     "service/non-profit", 
     "transmission"
   ], 
-  "wof:brand_name": "Moneytree", 
-  "wof:brand_id": 1125161903
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416302
 }

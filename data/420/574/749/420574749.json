@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414455, 
+  "wof:brand_name": "Fire Dept", 
+  "wof:brand_id": 420574749, 
+  "wof:categories": [
+    "sg:public_place=government", 
+    "public_place:government=fire_station", 
+    "public_place:government=office", 
+    "sg:services=professional", 
+    "public_place:government=police_station", 
+    "services:professional=business_services", 
+    "manufacturing_and_wholesale_goods:manufacturing=lumber", 
+    "services:professional=computer_services", 
+    "sg:food_and_drink=restaurant", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "protection", 
     "department", 
@@ -27,6 +40,6 @@
     "vol", 
     "volunteer"
   ], 
-  "wof:brand_name": "Fire Dept", 
-  "wof:brand_id": 420574749
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416230
 }

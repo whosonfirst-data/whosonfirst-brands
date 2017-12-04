@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414537, 
+  "wof:brand_name": "Don Roberto Jewelers", 
+  "wof:brand_id": 1125160157, 
+  "wof:categories": [
+    "retail_goods:shopping=jewelry", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:manufacturing=jewelry", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:wholesale=jewelry", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "jeweler", 
     "designer", 
@@ -11,6 +19,6 @@
     "manufacturer", 
     "watch"
   ], 
-  "wof:brand_name": "Don Roberto Jewelers", 
-  "wof:brand_id": 1125160157
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416296
 }

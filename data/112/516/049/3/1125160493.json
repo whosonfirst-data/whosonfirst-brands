@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414545, 
+  "wof:brand_name": "FPL", 
+  "wof:brand_id": 1125160493, 
+  "wof:categories": [
+    "services:utilities=electric", 
+    "sg:services=utilities", 
+    "services:professional=research", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "services:retail=repair_shop", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "power", 
     "company", 
@@ -26,6 +36,6 @@
     "system", 
     "welding"
   ], 
-  "wof:brand_name": "FPL", 
-  "wof:brand_id": 1125160493
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416302
 }

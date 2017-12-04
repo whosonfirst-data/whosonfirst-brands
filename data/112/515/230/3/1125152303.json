@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414492, 
+  "wof:brand_name": "Safeway Food & Drug", 
+  "wof:brand_id": 1125152303, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=florist", 
+    "sg:food_and_drink=bakery", 
+    "retail_goods:shopping=pharmacy", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "sg:services=professional", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "services:professional=employment_agencies", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "drugstore", 
     "beer", 
@@ -10,6 +24,6 @@
     "super", 
     "wine"
   ], 
-  "wof:brand_name": "Safeway Food & Drug", 
-  "wof:brand_id": 1125152303
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416259
 }

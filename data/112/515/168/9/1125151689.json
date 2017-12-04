@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414524, 
+  "wof:brand_name": "Holiday Hair", 
+  "wof:brand_id": 1125151689, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
@@ -9,6 +14,6 @@
     "stylist", 
     "supply"
   ], 
-  "wof:brand_name": "Holiday Hair", 
-  "wof:brand_id": 1125151689
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416286
 }

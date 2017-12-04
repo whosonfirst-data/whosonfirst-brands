@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414493, 
+  "wof:brand_name": "Comet Group Plc", 
+  "wof:brand_id": 1125154031, 
+  "wof:categories": [
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "services:retail=event_space", 
+    "sg:services=retail", 
+    "retail_goods:home_and_garden=furniture", 
+    "services:professional=computer_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "domestic", 
     "electrical", 
@@ -10,6 +19,6 @@
     "software", 
     "system"
   ], 
-  "wof:brand_name": "Comet Group Plc", 
-  "wof:brand_id": 1125154031
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416260
 }

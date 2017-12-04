@@ -1,6 +1,34 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414526, 
+  "wof:brand_name": "Body & Soul", 
+  "wof:brand_id": 1125155343, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "sg:retail_goods=shopping", 
+    "sg:services=health_services", 
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "retail_goods:food_and_beverages=specialty", 
+    "services:health_services=clinic", 
+    "sg:retail_goods=food_and_beverages", 
+    "services:health_services=health_practitioner", 
+    "retail_goods:shopping=books", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:personal=massage", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:services=professional", 
+    "entertainment:sports_and_exercise=gym", 
+    "entertainment:sports_and_exercise=tennis_court", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "retail_goods:shopping=jewelry", 
+    "retail_goods:shopping=pharmacy", 
+    "services:health_services=chiropractor", 
+    "services:health_services=doctor", 
+    "services:personal=tanning_parlor", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "massage", 
     "therapist", 
@@ -41,6 +69,6 @@
     "therapy", 
     "vitamin"
   ], 
-  "wof:brand_name": "Body & Soul", 
-  "wof:brand_id": 1125155343
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416286
 }

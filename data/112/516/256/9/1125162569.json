@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414540, 
+  "wof:brand_name": "Cars R Us", 
+  "wof:brand_id": 1125162569, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=retail", 
+    "services:retail=auto_repair", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:retail=auto_rental", 
+    "services:retail=car_wash", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "car", 
     "dealer", 
@@ -13,6 +28,6 @@
     "financing", 
     "painting"
   ], 
-  "wof:brand_name": "Cars R Us", 
-  "wof:brand_id": 1125162569
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416298
 }

@@ -1,6 +1,31 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414475, 
+  "wof:brand_name": "Four Seasons Sunrooms", 
+  "wof:brand_id": 1125156237, 
+  "wof:categories": [
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=building_materials", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "entertainment:arts_and_performance=opera", 
+    "sg:entertainment=arts_and_performance", 
+    "manufacturing_and_wholesale_goods:farming=nursery", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "entertainment:museum=botanical_garden", 
+    "entertainment:sports_and_exercise=swimming_pool", 
+    "manufacturing_and_wholesale_goods:manufacturing=buildings", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "manufacturing_and_wholesale_goods:wholesale=plants", 
+    "manufacturing_and_wholesale_goods:wholesale=sporting_goods", 
+    "public_place:education=music_school", 
+    "retail_goods:home_and_garden=furniture", 
+    "sg:entertainment=museum", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:public_place=education", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "solarium", 
     "rooms", 
@@ -35,6 +60,6 @@
     "room", 
     "swimming"
   ], 
-  "wof:brand_name": "Four Seasons Sunrooms", 
-  "wof:brand_id": 1125156237
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416246
 }

@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414560, 
+  "wof:brand_name": "Red Roof Inn", 
+  "wof:brand_id": 1125149117, 
+  "wof:categories": [
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel", 
+    "entertainment:travel=bed_and_breakfast", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "operation", 
     "lodging", 
@@ -10,6 +17,6 @@
     "operations", 
     "roofing"
   ], 
-  "wof:brand_name": "Red Roof Inn", 
-  "wof:brand_id": 1125149117
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416314
 }

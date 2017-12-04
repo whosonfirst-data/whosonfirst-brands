@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414493, 
+  "wof:brand_name": "Scissors", 
+  "wof:brand_id": 1125152737, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "shop", 
     "hairdresser", 
@@ -13,6 +21,6 @@
     "merchandise", 
     "salon"
   ], 
-  "wof:brand_name": "Scissors", 
-  "wof:brand_id": 1125152737
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416261
 }

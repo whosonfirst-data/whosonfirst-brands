@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414502, 
+  "wof:brand_name": "Claire's Accessories", 
+  "wof:brand_id": 1125150185, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=jewelry", 
+    "sg:services=personal", 
+    "services:personal=piercing", 
+    "retail_goods:shopping=department_store"
+  ], 
   "wof:tags": [
     "boutique", 
     "item", 
@@ -16,6 +24,6 @@
     "shop", 
     "women's"
   ], 
-  "wof:brand_name": "Claire's Accessories", 
-  "wof:brand_id": 1125150185
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416268
 }

@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414541, 
+  "wof:brand_name": "Wyeth", 
+  "wof:brand_id": 1125161339, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=drugs", 
+    "sg:services=professional", 
+    "sg:transportation=freight", 
+    "services:professional=management_and_consulting", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "manufacturing_and_wholesale_goods:wholesale=medical_equipment_and_supplies", 
+    "retail_goods:shopping=pharmacy", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:health_services=medical_lab", 
+    "services:professional=testing_lab", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "pharmaceutical", 
     "mfg", 
@@ -23,6 +40,6 @@
     "manufacturer", 
     "products-wholesale"
   ], 
-  "wof:brand_name": "Wyeth", 
-  "wof:brand_id": 1125161339
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416299
 }

@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414487, 
+  "wof:brand_name": "Pub", 
+  "wof:brand_id": 1125156291, 
+  "wof:categories": [
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "retail_goods:shopping=tobacco", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "cocktail", 
     "lounge", 
@@ -13,6 +23,6 @@
     "shop", 
     "tavern"
   ], 
-  "wof:brand_name": "Pub", 
-  "wof:brand_id": 1125156291
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416255
 }

@@ -1,12 +1,16 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414550, 
+  "wof:brand_name": "Rubio's Fresh Mexican Grill", 
+  "wof:brand_id": 1125161983, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food"
+  ], 
   "wof:tags": [
     "mexican", 
     "seafood", 
     "take", 
     "tex-mex"
   ], 
-  "wof:brand_name": "Rubio's Fresh Mexican Grill", 
-  "wof:brand_id": 1125161983
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416305
 }

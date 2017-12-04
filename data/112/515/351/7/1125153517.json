@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414513, 
+  "wof:brand_name": "Fatburger", 
+  "wof:brand_id": 1125153517, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food"
+  ], 
   "wof:tags": [
     "burger", 
     "american", 
@@ -13,6 +17,6 @@
     "hamburger", 
     "hot"
   ], 
-  "wof:brand_name": "Fatburger", 
-  "wof:brand_id": 1125153517
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416277
 }

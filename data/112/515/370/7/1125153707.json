@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414473, 
+  "wof:brand_name": "Pampered Chef", 
+  "wof:brand_id": 1125153707, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "sg:retail_goods=home_and_garden", 
+    "services:professional=management_and_consulting", 
+    "sg:food_and_drink=restaurant", 
+    "manufacturing_and_wholesale_goods:wholesale=home_furnishings", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:shopping=florist", 
+    "services:building_and_trades=construction", 
+    "services:insurance=insurance_agent", 
+    "services:professional=business_services", 
+    "services:professional=computer_services", 
+    "sg:retail_goods=shopping", 
+    "sg:services=building_and_trades", 
+    "sg:services=insurance"
+  ], 
   "wof:tags": [
     "direct", 
     "retail", 
@@ -18,6 +35,6 @@
     "management", 
     "road"
   ], 
-  "wof:brand_name": "Pampered Chef", 
-  "wof:brand_id": 1125153707
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416244
 }

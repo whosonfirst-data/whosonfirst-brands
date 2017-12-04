@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414512, 
+  "wof:brand_name": "American Apparel", 
+  "wof:brand_id": 1125153137, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=department_store", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "accessory", 
     "clothing", 
@@ -21,6 +30,6 @@
     "mfg", 
     "outlet"
   ], 
-  "wof:brand_name": "American Apparel", 
-  "wof:brand_id": 1125153137
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416276
 }

@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414506, 
+  "wof:brand_name": "American Homepatient", 
+  "wof:brand_id": 1125150757, 
+  "wof:categories": [
+    "services:building_and_trades=equipment_rental", 
+    "sg:services=building_and_trades", 
+    "sg:retail_goods=shopping", 
+    "sg:services=health_services", 
+    "manufacturing_and_wholesale_goods:wholesale=medical_equipment_and_supplies", 
+    "services:health_services=clinic", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional", 
+    "retail_goods:shopping=pharmacy", 
+    "services:health_services=hospital"
+  ], 
   "wof:tags": [
     "medical", 
     "merchandise", 
@@ -36,6 +48,6 @@
     "surgeon", 
     "wholesale"
   ], 
-  "wof:brand_name": "American Homepatient", 
-  "wof:brand_id": 1125150757
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416271
 }

@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414451, 
+  "wof:brand_name": "Horace Mann Insurance Co", 
+  "wof:brand_id": 420575231, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=hazard_insurance", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "services:insurance=life_insurance", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "carrier", 
     "agency", 
@@ -20,6 +28,6 @@
     "primary", 
     "producer"
   ], 
-  "wof:brand_name": "Horace Mann Insurance Co", 
-  "wof:brand_id": 420575231
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416227
 }

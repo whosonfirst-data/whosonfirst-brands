@@ -1,6 +1,42 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414532, 
+  "wof:brand_name": "Golden Touch", 
+  "wof:brand_id": 1125157615, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "sg:services=retail", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=professional", 
+    "retail_goods:shopping=jewelry", 
+    "services:personal=barber", 
+    "sg:entertainment=recreation", 
+    "entertainment:arts_and_performance=theater", 
+    "entertainment:recreation=amusement_park", 
+    "services:health_services=health_practitioner", 
+    "services:personal=massage", 
+    "services:personal=tanning_parlor", 
+    "services:retail=auto_repair", 
+    "services:retail=car_wash", 
+    "services:retail=repair_shop", 
+    "sg:entertainment=arts_and_performance", 
+    "sg:services=health_services", 
+    "entertainment:recreation=arcade", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "retail_goods:shopping=comic_books", 
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "services:health_services=clinic", 
+    "services:health_services=hospital", 
+    "services:personal=adult", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=building_and_trades", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "shop", 
     "therapist", 
@@ -45,6 +81,6 @@
     "unisex", 
     "video"
   ], 
-  "wof:brand_name": "Golden Touch", 
-  "wof:brand_id": 1125157615
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416291
 }

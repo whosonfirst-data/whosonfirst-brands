@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414502, 
+  "wof:brand_name": "Carriage Cleaners", 
+  "wof:brand_id": 1125155729, 
+  "wof:categories": [
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:services=retail", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "cleaners", 
     "plant", 
@@ -22,6 +28,6 @@
     "rug", 
     "washer"
   ], 
-  "wof:brand_name": "Carriage Cleaners", 
-  "wof:brand_id": 1125155729
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416268
 }

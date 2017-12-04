@@ -1,6 +1,27 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414526, 
+  "wof:brand_name": "Planet Smoothie", 
+  "wof:brand_id": 1125150365, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=specialty", 
+    "food_and_drink:juice_bar=none", 
+    "sg:food_and_drink=juice_bar", 
+    "services:insurance=health_insurance", 
+    "sg:services=insurance", 
+    "sg:services=professional", 
+    "sg:food_and_drink=food_court", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "retail_goods:food_and_beverages=candy", 
+    "retail_goods:food_and_beverages=fruits_and_vegetables", 
+    "services:professional=business_services", 
+    "services:utilities=mobile_phone", 
+    "sg:food_and_drink=coffee_and_tea", 
+    "sg:food_and_drink=fast_food", 
+    "sg:food_and_drink=ice_cream", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "smoothy", 
     "juice", 
@@ -26,6 +47,6 @@
     "take", 
     "wi-fi"
   ], 
-  "wof:brand_name": "Planet Smoothie", 
-  "wof:brand_id": 1125150365
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416287
 }

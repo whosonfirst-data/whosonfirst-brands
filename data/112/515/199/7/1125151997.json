@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414534, 
+  "wof:brand_name": "LA-Z-Boy Furntiure Galleries", 
+  "wof:brand_id": 1125151997, 
+  "wof:categories": [
+    "retail_goods:home_and_garden=furniture", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:manufacturing=furniture", 
+    "retail_goods:shopping=jewelry", 
+    "retail_goods:shopping=luggage_and_leather_goods", 
+    "services:professional=business_services", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=professional", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "chair", 
     "clocks", 
@@ -12,6 +24,6 @@
     "house", 
     "interior"
   ], 
-  "wof:brand_name": "LA-Z-Boy Furntiure Galleries", 
-  "wof:brand_id": 1125151997
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416293
 }

@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414492, 
+  "wof:brand_name": "Cigna", 
+  "wof:brand_id": 1125154865, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=health_insurance", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "sg:services=health_services", 
+    "services:health_services=doctor", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=hazard_insurance", 
+    "sg:services=banks_and_credit_unions", 
+    "entertainment:sports_and_exercise=gym", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:health_services=clinic", 
+    "services:insurance=life_insurance", 
+    "services:professional=computer_services", 
+    "services:professional=secretarial_services", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "plan", 
     "maintenance", 
@@ -24,6 +44,6 @@
     "trainer", 
     "warehouse"
   ], 
-  "wof:brand_name": "Cigna", 
-  "wof:brand_id": 1125154865
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416259
 }

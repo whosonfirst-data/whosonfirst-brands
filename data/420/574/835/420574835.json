@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414456, 
+  "wof:brand_name": "Highway Patrol", 
+  "wof:brand_id": 420574835, 
+  "wof:categories": [
+    "sg:public_place=government", 
+    "public_place:government=police_station", 
+    "services:professional=detective_and_security_services", 
+    "sg:services=professional", 
+    "public_place:government=office", 
+    "public_place:government=court_house", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "state", 
     "patrol", 
@@ -16,6 +25,6 @@
     "safety", 
     "welfare"
   ], 
-  "wof:brand_name": "Highway Patrol", 
-  "wof:brand_id": 420574835
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416231
 }

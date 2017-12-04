@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414561, 
+  "wof:brand_name": "Accountemps", 
+  "wof:brand_id": 1125149583, 
+  "wof:categories": [
+    "services:professional=employment_agencies", 
+    "sg:services=professional", 
+    "services:professional=accounting_and_tax_preparation", 
+    "manufacturing_and_wholesale_goods:wholesale=office_equipment", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "opportunity", 
     "help", 
@@ -16,6 +25,6 @@
     "personnel", 
     "temping"
   ], 
-  "wof:brand_name": "Accountemps", 
-  "wof:brand_id": 1125149583
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416314
 }

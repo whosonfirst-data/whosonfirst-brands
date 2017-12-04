@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414539, 
+  "wof:brand_name": "Rexel Australia Electrical Supplies", 
+  "wof:brand_id": 1125161591, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:home_and_garden=building_materials", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "wholesaler", 
     "equipment", 
@@ -9,6 +17,6 @@
     "system", 
     "ventilating"
   ], 
-  "wof:brand_name": "Rexel Australia Electrical Supplies", 
-  "wof:brand_id": 1125161591
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416297
 }

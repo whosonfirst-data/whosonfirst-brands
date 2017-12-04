@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414479, 
+  "wof:brand_name": "Wawa Food Markets", 
+  "wof:brand_id": 1125154577, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:food_and_drink=deli", 
+    "retail_goods:food_and_beverages=bakery", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:food_and_drink=coffee_and_tea", 
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "sandwich", 
     "deli", 
@@ -11,6 +22,6 @@
     "delicatessen", 
     "market"
   ], 
-  "wof:brand_name": "Wawa Food Markets", 
-  "wof:brand_id": 1125154577
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416249
 }

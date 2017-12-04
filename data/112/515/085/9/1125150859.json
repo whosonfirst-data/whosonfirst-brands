@@ -1,6 +1,32 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414477, 
+  "wof:brand_name": "Ferguson", 
+  "wof:brand_id": 1125150859, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=building_materials", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "manufacturing_and_wholesale_goods:wholesale=construction_materials", 
+    "manufacturing_and_wholesale_goods:wholesale=home_furnishings", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "services:professional=engineering", 
+    "manufacturing_and_wholesale_goods:wholesale=hardware", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:manufacturing=glass_and_minerals", 
+    "manufacturing_and_wholesale_goods:wholesale=metals_and_minerals", 
+    "services:building_and_trades=construction", 
+    "services:building_and_trades=plumbing", 
+    "services:professional=management_and_consulting", 
+    "services:real_estate=real_estate_operator", 
+    "services:retail=repair_shop", 
+    "sg:retail_goods=shopping", 
+    "sg:services=real_estate", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "plumbing", 
     "fixture", 
@@ -45,6 +71,6 @@
     "surplus", 
     "systems-wholesale"
   ], 
-  "wof:brand_name": "Ferguson", 
-  "wof:brand_id": 1125150859
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416247
 }

@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414499, 
+  "wof:brand_name": "Trammell Crow Co", 
+  "wof:brand_id": 1125152501, 
+  "wof:categories": [
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_agent", 
+    "services:real_estate=real_estate_operator", 
+    "sg:services=professional", 
+    "services:real_estate=developer", 
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "services:professional=management_and_consulting", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "support", 
     "building", 
@@ -16,6 +27,6 @@
     "consultant", 
     "maintenance"
   ], 
-  "wof:brand_name": "Trammell Crow Co", 
-  "wof:brand_id": 1125152501
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416265
 }

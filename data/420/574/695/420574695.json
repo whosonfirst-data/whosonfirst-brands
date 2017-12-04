@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414463, 
+  "wof:brand_name": "Sprint PCS", 
+  "wof:brand_id": 420574695, 
+  "wof:categories": [
+    "sg:services=utilities", 
+    "services:utilities=mobile_phone", 
+    "sg:retail_goods=shopping", 
+    "services:utilities=telephone", 
+    "retail_goods:shopping=mobile_phones", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "cellular", 
     "telephone", 
@@ -15,6 +23,6 @@
     "telecommunication", 
     "wireless"
   ], 
-  "wof:brand_name": "Sprint PCS", 
-  "wof:brand_id": 420574695
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416236
 }

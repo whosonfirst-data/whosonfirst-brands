@@ -1,10 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414468, 
+  "wof:brand_name": "Booker Cash & Carry", 
+  "wof:brand_id": 1125153079, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "carry", 
     "cash"
   ], 
-  "wof:brand_name": "Booker Cash & Carry", 
-  "wof:brand_id": 1125153079
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416240
 }

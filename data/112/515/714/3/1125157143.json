@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414527, 
+  "wof:brand_name": "Community Action Agency", 
+  "wof:brand_id": 1125157143, 
+  "wof:categories": [
+    "sg:services=social_services", 
+    "sg:services=organizations", 
+    "services:organizations=community_association", 
+    "services:organizations=nonprofit_organization", 
+    "services:social_services=child_care", 
+    "services:organizations=membership_organization", 
+    "sg:services=professional", 
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "services:organizations=professional_association", 
+    "services:professional=business_services", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "organization", 
     "welfare", 
@@ -25,6 +39,6 @@
     "referral", 
     "warehouse"
   ], 
-  "wof:brand_name": "Community Action Agency", 
-  "wof:brand_id": 1125157143
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416287
 }

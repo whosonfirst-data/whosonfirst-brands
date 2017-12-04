@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414497, 
+  "wof:brand_name": "Dulux Decorator Centre", 
+  "wof:brand_id": 1125156067, 
+  "wof:categories": [
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=hardware", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "services:professional=art_services", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=home_furnishings", 
+    "manufacturing_and_wholesale_goods:wholesale=painting_supplies", 
+    "retail_goods:shopping=pharmacy", 
+    "services:building_and_trades=construction", 
+    "services:social_services=adult_care", 
+    "sg:retail_goods=shopping", 
+    "sg:services=building_and_trades", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "paint", 
     "merchant", 
@@ -16,6 +32,6 @@
     "wall", 
     "wallpaper"
   ], 
-  "wof:brand_name": "Dulux Decorator Centre", 
-  "wof:brand_id": 1125156067
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416264
 }

@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414541, 
+  "wof:brand_name": "Emergency Medical Svc", 
+  "wof:brand_id": 1125160813, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:services=health_services", 
+    "services:health_services=doctor", 
+    "sg:transportation=local_transit", 
+    "services:health_services=clinic"
+  ], 
   "wof:tags": [
     "state", 
     "health", 
@@ -12,6 +20,6 @@
     "surgeon", 
     "clinic"
   ], 
-  "wof:brand_name": "Emergency Medical Svc", 
-  "wof:brand_id": 1125160813
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416298
 }

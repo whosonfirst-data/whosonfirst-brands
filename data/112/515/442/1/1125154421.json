@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414469, 
+  "wof:brand_name": "English Heritage", 
+  "wof:brand_id": 1125154421, 
+  "wof:categories": [
+    "public_place:landmark=tourist_attraction", 
+    "sg:public_place=landmark", 
+    "sg:services=professional", 
+    "public_place:government=post_office", 
+    "sg:public_place=government", 
+    "services:building_and_trades=construction", 
+    "services:professional=management_and_consulting", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "interest", 
     "archaeologist", 
@@ -8,6 +18,6 @@
     "contractor", 
     "masonry"
   ], 
-  "wof:brand_name": "English Heritage", 
-  "wof:brand_id": 1125154421
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416241
 }

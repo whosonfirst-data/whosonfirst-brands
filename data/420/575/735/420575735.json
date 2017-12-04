@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414445, 
+  "wof:brand_name": "Venezia", 
+  "wof:brand_id": 420575735, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:food_and_drink=restaurant", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:real_estate=real_estate_operator", 
+    "sg:entertainment=recreation", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "pizza", 
     "accessory", 
@@ -13,6 +25,6 @@
     "ready", 
     "telephone"
   ], 
-  "wof:brand_name": "Venezia", 
-  "wof:brand_id": 420575735
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416223
 }

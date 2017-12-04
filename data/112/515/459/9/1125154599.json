@@ -1,9 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414531, 
+  "wof:brand_name": "Balfour News", 
+  "wof:brand_id": 1125154599, 
+  "wof:categories": [
+    "retail_goods:shopping=news", 
+    "sg:retail_goods=shopping", 
+    "public_place:government=post_office", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:public_place=government", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "newsagent"
   ], 
-  "wof:brand_name": "Balfour News", 
-  "wof:brand_id": 1125154599
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416291
 }

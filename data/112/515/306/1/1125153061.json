@@ -1,11 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414470, 
+  "wof:brand_name": "The Post Office", 
+  "wof:brand_id": 1125153061, 
+  "wof:categories": [
+    "public_place:government=post_office", 
+    "sg:public_place=government", 
+    "sg:services=personal", 
+    "sg:transportation=freight", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=news"
+  ], 
   "wof:tags": [
     "delivery", 
     "haulage", 
     "road"
   ], 
-  "wof:brand_name": "The Post Office", 
-  "wof:brand_id": 1125153061
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416242
 }

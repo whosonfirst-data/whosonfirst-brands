@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414477, 
+  "wof:brand_name": "American Home Patient Inc", 
+  "wof:brand_id": 1125150927, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=medical_equipment_and_supplies", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:wholesale=chemicals_and_plastics", 
+    "services:health_services=clinic", 
+    "sg:services=health_services", 
+    "retail_goods:shopping=pharmacy"
+  ], 
   "wof:tags": [
     "hospital", 
     "physician", 
@@ -14,6 +25,6 @@
     "apparatus", 
     "medic"
   ], 
-  "wof:brand_name": "American Home Patient Inc", 
-  "wof:brand_id": 1125150927
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416248
 }

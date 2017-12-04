@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414473, 
+  "wof:brand_name": "Check Advance", 
+  "wof:brand_id": 1125150405, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "check", 
     "cashing", 
@@ -14,6 +18,6 @@
     "agency", 
     "cash"
   ], 
-  "wof:brand_name": "Check Advance", 
-  "wof:brand_id": 1125150405
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416245
 }

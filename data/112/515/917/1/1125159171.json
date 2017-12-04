@@ -1,11 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414475, 
+  "wof:brand_name": "Briarwood Apartments", 
+  "wof:brand_id": 1125159171, 
+  "wof:categories": [
+    "services:real_estate=real_estate_operator", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "apartment", 
     "building", 
     "complex"
   ], 
-  "wof:brand_name": "Briarwood Apartments", 
-  "wof:brand_id": 1125159171
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416246
 }

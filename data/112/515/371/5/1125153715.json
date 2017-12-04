@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414478, 
+  "wof:brand_name": "Rodeway Inn", 
+  "wof:brand_id": 1125153715, 
+  "wof:categories": [
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel", 
+    "entertainment:travel=bed_and_breakfast"
+  ], 
   "wof:tags": [
     "operation", 
     "lodging", 
@@ -10,6 +15,6 @@
     "eating", 
     "hotels-apartment"
   ], 
-  "wof:brand_name": "Rodeway Inn", 
-  "wof:brand_id": 1125153715
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416248
 }

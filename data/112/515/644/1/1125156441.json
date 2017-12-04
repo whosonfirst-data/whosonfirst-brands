@@ -1,6 +1,33 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414478, 
+  "wof:brand_name": "Northrop Grumman Space", 
+  "wof:brand_id": 1125156441, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=computer_services", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=motor_vehicles_and_parts", 
+    "services:professional=research", 
+    "services:professional=engineering", 
+    "services:professional=management_and_consulting", 
+    "manufacturing_and_wholesale_goods:manufacturing=electronics", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "services:professional=credit_reporting_and_collection", 
+    "manufacturing_and_wholesale_goods:manufacturing=aerospace", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "services:retail=repair_shop", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:real_estate=real_estate_services", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=real_estate", 
+    "sg:transportation=airport"
+  ], 
   "wof:tags": [
     "mfg", 
     "design", 
@@ -72,6 +99,6 @@
     "up", 
     "warehouse"
   ], 
-  "wof:brand_name": "Northrop Grumman Space", 
-  "wof:brand_id": 1125156441
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416248
 }

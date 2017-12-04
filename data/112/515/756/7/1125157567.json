@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414515, 
+  "wof:brand_name": "Beyond Fitness", 
+  "wof:brand_id": 1125157567, 
+  "wof:categories": [
+    "entertainment:sports_and_exercise=gym", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:services=personal", 
+    "entertainment:arena=sports_club", 
+    "services:professional=employment_agencies", 
+    "sg:entertainment=arena", 
+    "sg:services=professional", 
+    "services:health_services=clinic", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "health", 
     "club", 
@@ -15,6 +26,6 @@
     "training", 
     "consultant"
   ], 
-  "wof:brand_name": "Beyond Fitness", 
-  "wof:brand_id": 1125157567
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416278
 }

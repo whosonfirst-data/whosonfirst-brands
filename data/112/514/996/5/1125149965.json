@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414554, 
+  "wof:brand_name": "Claire's", 
+  "wof:brand_id": 1125149965, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:services=personal", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "services:personal=beauty_salon", 
+    "services:personal=piercing", 
+    "services:personal=shoe_repair_and_shine", 
+    "retail_goods:shopping=jewelry", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:shopping=shoes", 
+    "services:personal=barber", 
+    "services:professional=secretarial_services", 
+    "services:real_estate=real_estate_agent", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:manufacturing_and_wholesale_goods=mining_and_drilling", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "boutique", 
     "item", 
@@ -24,6 +44,6 @@
     "oil", 
     "store"
   ], 
-  "wof:brand_name": "Claire's", 
-  "wof:brand_id": 1125149965
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416309
 }

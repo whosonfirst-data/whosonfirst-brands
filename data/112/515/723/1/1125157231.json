@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414509, 
+  "wof:brand_name": "Photo Hall", 
+  "wof:brand_id": 1125157231, 
+  "wof:categories": [
+    "public_place:education=university", 
+    "sg:public_place=education", 
+    "services:retail=repair_shop", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "hall", 
     "photo", 
@@ -9,6 +15,6 @@
     "equipment", 
     "photographic"
   ], 
-  "wof:brand_name": "Photo Hall", 
-  "wof:brand_id": 1125157231
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416274
 }

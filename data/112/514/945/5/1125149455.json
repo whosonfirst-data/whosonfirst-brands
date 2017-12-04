@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414562, 
+  "wof:brand_name": "Farm Credit Svc", 
+  "wof:brand_id": 1125149455, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=professional", 
+    "services:insurance=insurance_agent", 
+    "sg:services=insurance", 
+    "services:professional=business_services", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "loan", 
     "real estate", 
@@ -13,6 +23,6 @@
     "institution", 
     "notary"
   ], 
-  "wof:brand_name": "Farm Credit Svc", 
-  "wof:brand_id": 1125149455
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416315
 }

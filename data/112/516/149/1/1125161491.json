@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414551, 
+  "wof:brand_name": "Gymboree Store", 
+  "wof:brand_id": 1125161491, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "entertainment:sports_and_exercise=gym", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:public_place=shopping_center"
+  ], 
   "wof:tags": [
     "children's", 
     "clothing", 
@@ -11,6 +19,6 @@
     "merchandise", 
     "trainer"
   ], 
-  "wof:brand_name": "Gymboree Store", 
-  "wof:brand_id": 1125161491
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416307
 }

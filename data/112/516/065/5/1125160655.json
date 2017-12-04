@@ -1,6 +1,38 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414542, 
+  "wof:brand_name": "Scruples", 
+  "wof:brand_id": 1125160655, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:personal=barber", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "food_and_drink:bars_and_pubs=nightclub", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=jewelry", 
+    "sg:food_and_drink=restaurant", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "entertainment:recreation=dance_hall", 
+    "entertainment:sports_and_exercise=gym", 
+    "food_and_drink:bars_and_pubs=lounge", 
+    "food_and_drink:bars_and_pubs=wine_bar", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "manufacturing_and_wholesale_goods:manufacturing=jewelry", 
+    "public_place:government=customs_house", 
+    "retail_goods:shopping=comic_books", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=pharmacy", 
+    "services:organizations=community_association", 
+    "services:personal=nail_salon", 
+    "sg:entertainment=casinos_and_gambling", 
+    "sg:entertainment=recreation", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:food_and_drink=cafe", 
+    "sg:food_and_drink=fast_food", 
+    "sg:public_place=government", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "hairdresser", 
     "unisex", 
@@ -39,6 +71,6 @@
     "wear", 
     "women's"
   ], 
-  "wof:brand_name": "Scruples", 
-  "wof:brand_id": 1125160655
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416299
 }

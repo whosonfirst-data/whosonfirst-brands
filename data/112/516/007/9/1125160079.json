@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414539, 
+  "wof:brand_name": "Associated Builders & Contrs", 
+  "wof:brand_id": 1125160079, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=professional_association", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "services:organizations=nonprofit_organization", 
+    "public_place:education=vocational_school", 
+    "services:organizations=community_association", 
+    "services:professional=business_services", 
+    "services:real_estate=real_estate_agent", 
+    "sg:public_place=education", 
+    "sg:services=professional", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "trade", 
     "business", 
@@ -10,6 +24,6 @@
     "house", 
     "residential"
   ], 
-  "wof:brand_name": "Associated Builders & Contrs", 
-  "wof:brand_id": 1125160079
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416297
 }

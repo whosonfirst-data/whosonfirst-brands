@@ -1,6 +1,31 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414540, 
+  "wof:brand_name": "Happy Days", 
+  "wof:brand_id": 1125160851, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "services:social_services=child_care", 
+    "sg:services=social_services", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:shopping=party_supplies", 
+    "sg:food_and_drink=cafe", 
+    "sg:food_and_drink=fast_food", 
+    "services:retail=auto_repair", 
+    "sg:services=organizations", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:farming=nursery", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "retail_goods:autos_and_motor_vehicles=boat_sales", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:organizations=community_association", 
+    "services:organizations=nonprofit_organization", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:transportation=bus_charters"
+  ], 
   "wof:tags": [
     "day", 
     "snack-bars", 
@@ -36,6 +61,6 @@
     "toy", 
     "voluntary"
   ], 
-  "wof:brand_name": "Happy Days", 
-  "wof:brand_id": 1125160851
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416298
 }

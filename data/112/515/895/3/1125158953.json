@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414467, 
+  "wof:brand_name": "Central Church Of Christ", 
+  "wof:brand_id": 1125158953, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship"
+  ], 
   "wof:tags": [
     "church", 
     "christ", 
@@ -8,6 +14,6 @@
     "churches-church", 
     "testament"
   ], 
-  "wof:brand_name": "Central Church Of Christ", 
-  "wof:brand_id": 1125158953
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416239
 }

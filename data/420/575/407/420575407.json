@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414448, 
+  "wof:brand_name": "Regions Bank", 
+  "wof:brand_id": 420575407, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:professional=business_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "commercial", 
     "saving", 
@@ -18,6 +25,6 @@
     "company", 
     "holding"
   ], 
-  "wof:brand_name": "Regions Bank", 
-  "wof:brand_id": 420575407
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416225
 }

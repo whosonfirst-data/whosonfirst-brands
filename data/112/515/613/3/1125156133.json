@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414482, 
+  "wof:brand_name": "Staffing Solutions", 
+  "wof:brand_id": 1125156133, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=employment_agencies", 
+    "services:professional=management_and_consulting"
+  ], 
   "wof:tags": [
     "help", 
     "opportunity", 
@@ -11,6 +16,6 @@
     "temporary", 
     "establishment"
   ], 
-  "wof:brand_name": "Staffing Solutions", 
-  "wof:brand_id": 1125156133
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416251
 }

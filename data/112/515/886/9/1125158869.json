@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414523, 
+  "wof:brand_name": "The Gap", 
+  "wof:brand_id": 1125158869, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "entertainment:sports_and_exercise=bicycle_rental", 
+    "sg:entertainment=sports_and_exercise", 
+    "retail_goods:shopping=department_store", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "manufacturing_and_wholesale_goods:manufacturing=furniture", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "retail_goods:shopping=baby_store", 
+    "services:health_services=health_practitioner", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "clothing", 
     "women's", 
@@ -18,6 +32,6 @@
     "system", 
     "vacuum"
   ], 
-  "wof:brand_name": "The Gap", 
-  "wof:brand_id": 1125158869
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416285
 }

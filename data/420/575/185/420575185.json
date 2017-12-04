@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414447, 
+  "wof:brand_name": "Talbots", 
+  "wof:brand_id": 420575185, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=department_store", 
+    "sg:public_place=shopping_center", 
+    "sg:services=professional", 
+    "services:professional=lawyer_and_legal_services", 
+    "manufacturing_and_wholesale_goods:wholesale=construction_materials", 
+    "retail_goods:shopping=catalog_store", 
+    "retail_goods:shopping=jewelry", 
+    "retail_goods:shopping=shoes", 
+    "services:professional=business_services", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=commercial_area"
+  ], 
   "wof:tags": [
     "accessory", 
     "women's", 
@@ -27,6 +42,6 @@
     "order", 
     "solicitor"
   ], 
-  "wof:brand_name": "Talbots", 
-  "wof:brand_id": 420575185
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416224
 }

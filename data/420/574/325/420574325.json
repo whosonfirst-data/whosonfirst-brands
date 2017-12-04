@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414459, 
+  "wof:brand_name": "Public Storage Inc", 
+  "wof:brand_id": 420574325, 
+  "wof:categories": [
+    "sg:transportation=freight", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "services:real_estate=real_estate_operator", 
+    "services:retail=auto_rental", 
+    "sg:services=personal", 
+    "sg:services=real_estate", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "storage", 
     "commercial", 
@@ -32,6 +42,6 @@
     "truck", 
     "who"
   ], 
-  "wof:brand_name": "Public Storage Inc", 
-  "wof:brand_id": 420574325
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416233
 }

@@ -1,12 +1,19 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414485, 
+  "wof:brand_name": "Hair Care", 
+  "wof:brand_id": 1125154315, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "services:personal=nail_salon", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
     "stylist", 
     "beauty"
   ], 
-  "wof:brand_name": "Hair Care", 
-  "wof:brand_id": 1125154315
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416254
 }

@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414530, 
+  "wof:brand_name": "Officeteam", 
+  "wof:brand_id": 1125151113, 
+  "wof:categories": [
+    "services:professional=employment_agencies", 
+    "sg:services=professional", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "retail_goods:shopping=jewelry", 
+    "services:professional=management_and_consulting"
+  ], 
   "wof:tags": [
     "opportunity", 
     "help", 
@@ -13,6 +21,6 @@
     "search", 
     "staffing"
   ], 
-  "wof:brand_name": "Officeteam", 
-  "wof:brand_id": 1125151113
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416290
 }

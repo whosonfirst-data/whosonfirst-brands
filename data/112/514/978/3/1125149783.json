@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414557, 
+  "wof:brand_name": "Nova Care", 
+  "wof:brand_id": 1125149783, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=health_practitioner", 
+    "sg:services=social_services", 
+    "services:social_services=job_training", 
+    "services:health_services=doctor", 
+    "sg:services=professional", 
+    "services:building_and_trades=landscaping_services", 
+    "services:insurance=insurance_agent", 
+    "services:professional=management_and_consulting", 
+    "sg:retail_goods=shopping", 
+    "sg:services=building_and_trades", 
+    "sg:services=insurance"
+  ], 
   "wof:tags": [
     "therapist", 
     "physical", 
@@ -23,6 +37,6 @@
     "planning", 
     "surgical"
   ], 
-  "wof:brand_name": "Nova Care", 
-  "wof:brand_id": 1125149783
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416312
 }

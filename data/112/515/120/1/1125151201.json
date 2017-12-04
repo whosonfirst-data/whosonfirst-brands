@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414466, 
+  "wof:brand_name": "Woodforest National Bank", 
+  "wof:brand_id": 1125151201, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "services:professional=business_services", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "commercial", 
     "national", 
@@ -10,6 +17,6 @@
     "record", 
     "telephone"
   ], 
-  "wof:brand_name": "Woodforest National Bank", 
-  "wof:brand_id": 1125151201
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416239
 }

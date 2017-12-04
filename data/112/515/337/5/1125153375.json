@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414518, 
+  "wof:brand_name": "Electric Beach", 
+  "wof:brand_id": 1125153375, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=tanning_parlor", 
+    "services:personal=beauty_salon", 
+    "services:building_and_trades=electrical", 
+    "sg:services=building_and_trades", 
+    "services:personal=nail_salon", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:wholesale=sporting_goods", 
+    "services:personal=piercing", 
+    "sg:entertainment=recreation", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "salon", 
     "contractor", 
@@ -22,6 +36,6 @@
     "supply", 
     "women's"
   ], 
-  "wof:brand_name": "Electric Beach", 
-  "wof:brand_id": 1125153375
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416280
 }

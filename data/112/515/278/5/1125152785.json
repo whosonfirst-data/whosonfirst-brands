@@ -1,6 +1,38 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414503, 
+  "wof:brand_name": "Hidden Treasures", 
+  "wof:brand_id": 1125152785, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=used_merchandise", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:services=professional", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=home_and_garden", 
+    "services:professional=business_services", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "retail_goods:shopping=jewelry", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=home_furnishings", 
+    "retail_goods:shopping=antiques", 
+    "retail_goods:shopping=florist", 
+    "manufacturing_and_wholesale_goods:wholesale=toys_and_hobbies", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:shopping=books", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=thrift_store", 
+    "services:health_services=clinic", 
+    "services:professional=computer_services", 
+    "services:professional=management_and_consulting", 
+    "services:real_estate=real_estate_operator", 
+    "services:social_services=child_care", 
+    "sg:services=health_services", 
+    "sg:services=real_estate", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "shop", 
     "antique", 
@@ -39,6 +71,6 @@
     "vintage", 
     "wholesaler"
   ], 
-  "wof:brand_name": "Hidden Treasures", 
-  "wof:brand_id": 1125152785
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416269
 }

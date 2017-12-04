@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414553, 
+  "wof:brand_name": "Red Robin", 
+  "wof:brand_id": 1125149043, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "american", 
     "burger", 
@@ -11,6 +17,6 @@
     "patent", 
     "personal"
   ], 
-  "wof:brand_name": "Red Robin", 
-  "wof:brand_id": 1125149043
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416308
 }

@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414551, 
+  "wof:brand_name": "His & Hers", 
+  "wof:brand_id": 1125161495, 
+  "wof:categories": [
+    "services:personal=beauty_salon", 
+    "sg:services=personal", 
+    "services:personal=barber", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:professional=printing_and_photocopies", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "shop", 
     "hairdresser", 
@@ -18,6 +33,6 @@
     "salons-equipment", 
     "supply"
   ], 
-  "wof:brand_name": "His & Hers", 
-  "wof:brand_id": 1125161495
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416307
 }

@@ -1,11 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414538, 
+  "wof:brand_name": "Kaiser", 
+  "wof:brand_id": 1125160879, 
+  "wof:categories": [
+    "services:health_services=doctor", 
+    "services:insurance=hazard_insurance", 
+    "services:insurance=health_insurance", 
+    "sg:services=health_services", 
+    "sg:services=insurance"
+  ], 
   "wof:tags": [
     "maintenance", 
     "physician", 
     "surgeon"
   ], 
-  "wof:brand_name": "Kaiser", 
-  "wof:brand_id": 1125160879
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416296
 }

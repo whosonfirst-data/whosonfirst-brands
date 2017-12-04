@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414482, 
+  "wof:brand_name": "Hair Station", 
+  "wof:brand_id": 1125151429, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "services:retail=repair_shop", 
+    "sg:services=communications", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
@@ -12,6 +20,6 @@
     "gift", 
     "unisex"
   ], 
-  "wof:brand_name": "Hair Station", 
-  "wof:brand_id": 1125151429
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416252
 }

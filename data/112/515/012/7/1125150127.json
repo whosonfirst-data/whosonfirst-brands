@@ -1,6 +1,35 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414493, 
+  "wof:brand_name": "Iron Mountain", 
+  "wof:brand_id": 1125150127, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=real_estate", 
+    "manufacturing_and_wholesale_goods:manufacturing=paper_products", 
+    "services:real_estate=architect", 
+    "services:health_services=medical_lab", 
+    "sg:services=health_services", 
+    "sg:transportation=freight", 
+    "services:professional=computer_services", 
+    "services:professional=detective_and_security_services", 
+    "sg:retail_goods=shopping", 
+    "sg:services=personal", 
+    "sg:services=retail", 
+    "services:retail=repair_shop", 
+    "manufacturing_and_wholesale_goods:manufacturing=retail_goods", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "retail_goods:shopping=music", 
+    "retail_goods:shopping=optician", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "services:banks_and_credit_unions=bank", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=management_and_consulting", 
+    "services:real_estate=real_estate_operator", 
+    "services:retail=storage", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "document", 
     "record", 
@@ -49,6 +78,6 @@
     "supply", 
     "w"
   ], 
-  "wof:brand_name": "Iron Mountain", 
-  "wof:brand_id": 1125150127
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416261
 }

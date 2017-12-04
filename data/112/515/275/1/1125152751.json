@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414474, 
+  "wof:brand_name": "Wesco Distributing Inc", 
+  "wof:brand_id": 1125152751, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=professional", 
+    "services:professional=advertising", 
+    "manufacturing_and_wholesale_goods:wholesale=computers", 
+    "retail_goods:home_and_garden=building_materials", 
+    "sg:retail_goods=home_and_garden", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "services:building_and_trades=construction", 
+    "services:professional=management_and_consulting", 
+    "services:utilities=telephone", 
+    "sg:services=building_and_trades", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "equipment", 
     "electric", 
@@ -21,6 +38,6 @@
     "sample", 
     "utility"
   ], 
-  "wof:brand_name": "Wesco Distributing Inc", 
-  "wof:brand_id": 1125152751
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416245
 }

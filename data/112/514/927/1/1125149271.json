@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414552, 
+  "wof:brand_name": "Krystal", 
+  "wof:brand_id": 1125149271, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "retail_goods:food_and_beverages=meat_and_fish", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "burger", 
     "american", 
@@ -10,6 +18,6 @@
     "designer", 
     "fast"
   ], 
-  "wof:brand_name": "Krystal", 
-  "wof:brand_id": 1125149271
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416308
 }

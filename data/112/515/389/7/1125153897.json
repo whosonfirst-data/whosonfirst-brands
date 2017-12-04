@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414512, 
+  "wof:brand_name": "Physiotherapy Associates", 
+  "wof:brand_id": 1125153897, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=health_practitioner", 
+    "services:health_services=clinic", 
+    "services:health_services=doctor", 
+    "entertainment:sports_and_exercise=gym", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:public_place=community_center", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "physical", 
     "therapy", 
@@ -23,6 +33,6 @@
     "surgeon", 
     "trainer"
   ], 
-  "wof:brand_name": "Physiotherapy Associates", 
-  "wof:brand_id": 1125153897
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416276
 }

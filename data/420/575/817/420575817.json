@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414451, 
+  "wof:brand_name": "Carlton Cards", 
+  "wof:brand_id": 420575817, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "retail_goods:shopping=books", 
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "greeting", 
     "cards", 
@@ -11,6 +21,6 @@
     "maintenance", 
     "poster"
   ], 
-  "wof:brand_name": "Carlton Cards", 
-  "wof:brand_id": 420575817
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416227
 }

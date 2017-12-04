@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414494, 
+  "wof:brand_name": "Citizens National Bank", 
+  "wof:brand_id": 1125150895, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=investment_brokerage"
+  ], 
   "wof:tags": [
     "commercial", 
     "national", 
@@ -17,6 +23,6 @@
     "mortgage", 
     "trust"
   ], 
-  "wof:brand_name": "Citizens National Bank", 
-  "wof:brand_id": 1125150895
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416261
 }

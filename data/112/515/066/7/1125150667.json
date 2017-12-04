@@ -1,10 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414527, 
+  "wof:brand_name": "Colruyt", 
+  "wof:brand_id": 1125150667, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=supermarket", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "department", 
     "store"
   ], 
-  "wof:brand_name": "Colruyt", 
-  "wof:brand_id": 1125150667
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416288
 }

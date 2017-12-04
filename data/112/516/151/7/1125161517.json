@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414541, 
+  "wof:brand_name": "Karl Schmidt", 
+  "wof:brand_id": 1125161517, 
+  "wof:categories": [
+    "services:building_and_trades=construction", 
+    "services:building_and_trades=plumbing", 
+    "services:real_estate=real_estate_operator", 
+    "sg:services=building_and_trades", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "air conditioning", 
     "contractor", 
@@ -13,6 +20,6 @@
     "specialty", 
     "system"
   ], 
-  "wof:brand_name": "Karl Schmidt", 
-  "wof:brand_id": 1125161517
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416298
 }

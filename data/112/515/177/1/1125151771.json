@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414492, 
+  "wof:brand_name": "Central Christian Church", 
+  "wof:brand_id": 1125151771, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "sg:public_place=place_of_worship", 
+    "public_place:place_of_worship=church", 
+    "public_place:education=preschool", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "church", 
     "churches-various", 
@@ -17,6 +25,6 @@
     "clergy", 
     "kindergarten"
   ], 
-  "wof:brand_name": "Central Christian Church", 
-  "wof:brand_id": 1125151771
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416260
 }

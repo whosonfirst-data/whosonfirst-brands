@@ -1,11 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414513, 
+  "wof:brand_name": "Federated Insurance Co", 
+  "wof:brand_id": 1125152527, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=hazard_insurance"
+  ], 
   "wof:tags": [
     "carrier", 
     "agency", 
     "consultant"
   ], 
-  "wof:brand_name": "Federated Insurance Co", 
-  "wof:brand_id": 1125152527
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416276
 }

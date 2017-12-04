@@ -1,11 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414519, 
+  "wof:brand_name": "Stead & Simpson Ltd.", 
+  "wof:brand_id": 1125151023, 
+  "wof:categories": [
+    "retail_goods:shopping=shoes", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "shop", 
     "footwear", 
     "retailer"
   ], 
-  "wof:brand_name": "Stead & Simpson Ltd.", 
-  "wof:brand_id": 1125151023
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416282
 }

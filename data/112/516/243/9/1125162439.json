@@ -1,12 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414543, 
+  "wof:brand_name": "The National Childbirth Trust", 
+  "wof:brand_id": 1125162439, 
+  "wof:categories": [
+    "services:organizations=nonprofit_organization", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "charity", 
     "organisation", 
     "voluntary", 
     "charitable"
   ], 
-  "wof:brand_name": "The National Childbirth Trust", 
-  "wof:brand_id": 1125162439
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416300
 }

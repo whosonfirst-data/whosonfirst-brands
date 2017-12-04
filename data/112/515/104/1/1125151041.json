@@ -1,11 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414472, 
+  "wof:brand_name": "J J B Sports Plc", 
+  "wof:brand_id": 1125151041, 
+  "wof:categories": [
+    "entertainment:sports_and_exercise=sports_center", 
+    "sg:entertainment=sports_and_exercise", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:home_and_garden=carpets_and_floor_coverings", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "shop", 
     "good", 
     "sale"
   ], 
-  "wof:brand_name": "J J B Sports Plc", 
-  "wof:brand_id": 1125151041
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416243
 }

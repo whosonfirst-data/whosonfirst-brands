@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414520, 
+  "wof:brand_name": "KWIK Kar Lube & Tune", 
+  "wof:brand_id": 1125157421, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=auto_repair", 
+    "services:retail=car_wash", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "automobile", 
     "lubrication", 
@@ -14,6 +21,6 @@
     "maintenance", 
     "oil"
   ], 
-  "wof:brand_name": "KWIK Kar Lube & Tune", 
-  "wof:brand_id": 1125157421
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416282
 }

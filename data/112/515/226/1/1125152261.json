@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414528, 
+  "wof:brand_name": "Century Small Business Sltns", 
+  "wof:brand_id": 1125152261, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=management_and_consulting", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate", 
+    "services:professional=business_services", 
+    "services:professional=engineering"
+  ], 
   "wof:tags": [
     "accountant", 
     "bookkeeping", 
@@ -21,6 +30,6 @@
     "public", 
     "telephone"
   ], 
-  "wof:brand_name": "Century Small Business Sltns", 
-  "wof:brand_id": 1125152261
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416288
 }

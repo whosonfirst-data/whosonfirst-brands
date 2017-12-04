@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414518, 
+  "wof:brand_name": "Monique", 
+  "wof:brand_id": 1125151953, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=adult", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:personal=barber", 
+    "sg:food_and_drink=bakery", 
+    "sg:food_and_drink=fast_food"
+  ], 
   "wof:tags": [
     "-", 
     "hairdressing", 
@@ -17,6 +27,6 @@
     "salon", 
     "tricotage"
   ], 
-  "wof:brand_name": "Monique", 
-  "wof:brand_id": 1125151953
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416281
 }

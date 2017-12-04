@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414479, 
+  "wof:brand_name": "Underground Station", 
+  "wof:brand_id": 1125154573, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=shoes", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=department_store"
+  ], 
   "wof:tags": [
     "store", 
     "manufacturer", 
@@ -9,6 +17,6 @@
     "shoe", 
     "women's"
   ], 
-  "wof:brand_name": "Underground Station", 
-  "wof:brand_id": 1125154573
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416249
 }

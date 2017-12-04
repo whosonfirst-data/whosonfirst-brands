@@ -1,11 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414461, 
+  "wof:brand_name": "Credit Suisse", 
+  "wof:brand_id": 420574951, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:professional=lawyer_and_legal_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "attorney", 
     "loan", 
     "real estate"
   ], 
-  "wof:brand_name": "Credit Suisse", 
-  "wof:brand_id": 420574951
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416235
 }

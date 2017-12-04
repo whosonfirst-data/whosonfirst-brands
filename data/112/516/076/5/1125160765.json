@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414547, 
+  "wof:brand_name": "Charity Baptist Church", 
+  "wof:brand_id": 1125160765, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship", 
+    "services:social_services=child_care", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "church", 
     "churches-baptist", 
@@ -9,6 +17,6 @@
     "place", 
     "worship"
   ], 
-  "wof:brand_name": "Charity Baptist Church", 
-  "wof:brand_id": 1125160765
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416303
 }

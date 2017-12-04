@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414497, 
+  "wof:brand_name": "Nations Rent", 
+  "wof:brand_id": 1125150679, 
+  "wof:categories": [
+    "services:building_and_trades=equipment_rental", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "retail_goods:home_and_garden=hardware", 
+    "services:professional=computer_services", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "contractor", 
     "yard", 
@@ -14,6 +28,6 @@
     "rental", 
     "sales"
   ], 
-  "wof:brand_name": "Nations Rent", 
-  "wof:brand_id": 1125150679
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416264
 }

@@ -1,12 +1,21 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414447, 
+  "wof:brand_name": "Lovely Nails", 
+  "wof:brand_id": 420575687, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:shopping=department_store", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "manicuring", 
     "shop", 
     "nail", 
     "eyelash"
   ], 
-  "wof:brand_name": "Lovely Nails", 
-  "wof:brand_id": 420575687
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416224
 }

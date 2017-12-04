@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414527, 
+  "wof:brand_name": "Just For Kids", 
+  "wof:brand_id": 1125156423, 
+  "wof:categories": [
+    "sg:services=social_services", 
+    "services:social_services=child_care", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:services=health_services", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:health_services=doctor", 
+    "retail_goods:shopping=baby_store", 
+    "services:health_services=dentist", 
+    "public_place:government=court_house", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "retail_goods:shopping=shoes", 
+    "services:building_and_trades=construction", 
+    "services:organizations=nonprofit_organization", 
+    "services:social_services=job_training", 
+    "sg:public_place=government", 
+    "sg:services=building_and_trades", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "day", 
     "wear", 
@@ -31,6 +51,6 @@
     "school", 
     "store"
   ], 
-  "wof:brand_name": "Just For Kids", 
-  "wof:brand_id": 1125156423
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416288
 }

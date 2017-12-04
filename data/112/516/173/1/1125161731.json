@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414548, 
+  "wof:brand_name": "Buth-Na-Bodhaige Inc", 
+  "wof:brand_id": 1125161731, 
+  "wof:categories": [
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "sg:retail_goods=shopping", 
+    "services:personal=beauty_salon", 
+    "sg:services=personal", 
+    "manufacturing_and_wholesale_goods:wholesale=drugs", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "product", 
     "care", 
@@ -11,6 +19,6 @@
     "health", 
     "toiletry"
   ], 
-  "wof:brand_name": "Buth-Na-Bodhaige Inc", 
-  "wof:brand_id": 1125161731
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416304
 }

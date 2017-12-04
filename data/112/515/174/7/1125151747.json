@@ -1,6 +1,28 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414536, 
+  "wof:brand_name": "Sign Shop", 
+  "wof:brand_id": 1125151747, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=signs", 
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "services:professional=art_services", 
+    "entertainment:arts_and_performance=art_gallery", 
+    "manufacturing_and_wholesale_goods:manufacturing=wood_products", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "services:communications=newspaper", 
+    "services:professional=advertising", 
+    "services:professional=engineering", 
+    "services:retail=auto_repair", 
+    "sg:entertainment=arts_and_performance", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=communications", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "specialty", 
     "mfg", 
@@ -28,6 +50,6 @@
     "truck", 
     "writer"
   ], 
-  "wof:brand_name": "Sign Shop", 
-  "wof:brand_id": 1125151747
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416295
 }

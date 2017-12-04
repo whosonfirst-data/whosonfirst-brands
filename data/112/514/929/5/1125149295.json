@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414560, 
+  "wof:brand_name": "Maurice's", 
+  "wof:brand_id": 1125149295, 
+  "wof:categories": [
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=shopping", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:food_and_drink=restaurant", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "casual", 
     "ready", 
@@ -12,6 +19,6 @@
     "lounge", 
     "wear"
   ], 
-  "wof:brand_name": "Maurice's", 
-  "wof:brand_id": 1125149295
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416314
 }

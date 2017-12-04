@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414483, 
+  "wof:brand_name": "Hilton Garden Inn", 
+  "wof:brand_id": 1125152209, 
+  "wof:categories": [
+    "sg:entertainment=travel", 
+    "entertainment:travel=hotels_and_motels", 
+    "entertainment:travel=bed_and_breakfast", 
+    "services:retail=event_space", 
+    "sg:services=retail", 
+    "sg:food_and_drink=restaurant", 
+    "sg:public_place=conference_center", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "lodging", 
     "inn", 
@@ -23,6 +33,6 @@
     "planning", 
     "s"
   ], 
-  "wof:brand_name": "Hilton Garden Inn", 
-  "wof:brand_id": 1125152209
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416252
 }

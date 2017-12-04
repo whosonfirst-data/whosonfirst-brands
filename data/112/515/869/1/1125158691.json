@@ -1,6 +1,39 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414469, 
+  "wof:brand_name": "Acme", 
+  "wof:brand_id": 1125158691, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=professional", 
+    "retail_goods:food_and_beverages=farmers_market", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "sg:services=building_and_trades", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:manufacturing=aerospace", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "manufacturing_and_wholesale_goods:manufacturing=furniture", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "retail_goods:shopping=pharmacy", 
+    "services:banks_and_credit_unions=bank", 
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "services:building_and_trades=construction", 
+    "services:insurance=insurance_agent", 
+    "services:organizations=professional_association", 
+    "services:professional=computer_services", 
+    "services:retail=auto_repair", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:retail_goods=shopping", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=insurance", 
+    "sg:services=organizations", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "supermarket", 
     "super", 
@@ -52,6 +85,6 @@
     "used", 
     "wood"
   ], 
-  "wof:brand_name": "Acme", 
-  "wof:brand_id": 1125158691
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416241
 }

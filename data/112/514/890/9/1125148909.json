@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414557, 
+  "wof:brand_name": "El Pollo Loco", 
+  "wof:brand_id": 1125148909, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "entertainment:sports_and_exercise=bicycle_rental", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "mexican", 
     "tex-mex", 
@@ -13,6 +20,6 @@
     "wear", 
     "wing"
   ], 
-  "wof:brand_name": "El Pollo Loco", 
-  "wof:brand_id": 1125148909
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416312
 }

@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414516, 
+  "wof:brand_name": "Creative Hair Design", 
+  "wof:brand_id": 1125158263, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
@@ -12,6 +20,6 @@
     "merchandise", 
     "station"
   ], 
-  "wof:brand_name": "Creative Hair Design", 
-  "wof:brand_id": 1125158263
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416279
 }

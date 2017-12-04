@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414451, 
+  "wof:brand_name": "Banque Nationale Du Canada", 
+  "wof:brand_id": 420575109, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "optometrist"
   ], 
-  "wof:brand_name": "Banque Nationale Du Canada", 
-  "wof:brand_id": 420575109
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416227
 }

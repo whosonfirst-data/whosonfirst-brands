@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414493, 
+  "wof:brand_name": "Holy Cross Catholic Church", 
+  "wof:brand_id": 1125159011, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=religious_organization", 
+    "sg:public_place=place_of_worship", 
+    "public_place:education=school", 
+    "public_place:place_of_worship=church", 
+    "retail_goods:shopping=pharmacy", 
+    "services:organizations=nonprofit_organization", 
+    "sg:public_place=education", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "church", 
     "care", 
@@ -18,6 +29,6 @@
     "middle", 
     "organisation"
   ], 
-  "wof:brand_name": "Holy Cross Catholic Church", 
-  "wof:brand_id": 1125159011
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416260
 }

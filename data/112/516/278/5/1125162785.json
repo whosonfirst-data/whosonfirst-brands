@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414546, 
+  "wof:brand_name": "Shaklee Authorized Distr", 
+  "wof:brand_id": 1125162785, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=professional", 
+    "services:professional=advertising", 
+    "services:professional=management_and_consulting", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "vitamin", 
     "distribution", 
@@ -12,6 +20,6 @@
     "control", 
     "weight"
   ], 
-  "wof:brand_name": "Shaklee Authorized Distr", 
-  "wof:brand_id": 1125162785
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416303
 }

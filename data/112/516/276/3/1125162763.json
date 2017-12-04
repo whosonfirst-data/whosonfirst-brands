@@ -1,7 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414545, 
-  "wof:tags": [], 
   "wof:brand_name": "Plumbers & Steamfitters", 
-  "wof:brand_id": 1125162763
+  "wof:brand_id": 1125162763, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=labor_organization", 
+    "services:banks_and_credit_unions=bank", 
+    "services:organizations=professional_association", 
+    "sg:services=banks_and_credit_unions"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416302
 }

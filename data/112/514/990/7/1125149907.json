@@ -1,6 +1,36 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414553, 
+  "wof:brand_name": "Hess", 
+  "wof:brand_id": 1125149907, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:services=professional", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=petroleum", 
+    "services:professional=management_and_consulting", 
+    "services:real_estate=real_estate_agent", 
+    "sg:retail_goods=shopping", 
+    "sg:services=real_estate", 
+    "entertainment:travel=travel_agent", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "retail_goods:food_and_beverages=bakery", 
+    "retail_goods:home_and_garden=hardware", 
+    "retail_goods:shopping=pharmacy", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:building_and_trades=construction", 
+    "services:professional=business_services", 
+    "services:professional=engineering", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:professional=secretarial_services", 
+    "sg:entertainment=travel", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "station", 
     "gasoline", 
@@ -40,6 +70,6 @@
     "wholesale", 
     "work"
   ], 
-  "wof:brand_name": "Hess", 
-  "wof:brand_id": 1125149907
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416308
 }

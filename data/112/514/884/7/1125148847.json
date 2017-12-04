@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414559, 
+  "wof:brand_name": "Federale Politie", 
+  "wof:brand_id": 1125148847, 
+  "wof:categories": [
+    "public_place:government=police_station", 
+    "sg:public_place=government"
+  ], 
   "wof:tags": [
     "gendarmerie"
   ], 
-  "wof:brand_name": "Federale Politie", 
-  "wof:brand_id": 1125148847
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416313
 }

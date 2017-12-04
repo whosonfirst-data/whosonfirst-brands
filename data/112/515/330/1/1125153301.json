@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414527, 
+  "wof:brand_name": "Golden Krust", 
+  "wof:brand_id": 1125153301, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:food_and_drink=bakery", 
+    "retail_goods:food_and_beverages=bakery", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores"
+  ], 
   "wof:tags": [
     "caribbean", 
     "breakfast", 
@@ -13,6 +20,6 @@
     "traditional", 
     "wedding"
   ], 
-  "wof:brand_name": "Golden Krust", 
-  "wof:brand_id": 1125153301
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416288
 }

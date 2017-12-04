@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414475, 
+  "wof:brand_name": "Jim's Barber Shop", 
+  "wof:brand_id": 1125154223, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=barber", 
+    "services:personal=beauty_salon"
+  ], 
   "wof:tags": [
     "shop", 
     "beauty", 
@@ -9,6 +14,6 @@
     "men's", 
     "stylist"
   ], 
-  "wof:brand_name": "Jim's Barber Shop", 
-  "wof:brand_id": 1125154223
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416246
 }

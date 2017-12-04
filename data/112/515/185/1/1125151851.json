@@ -1,12 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414494, 
+  "wof:brand_name": "P.F. Chang's", 
+  "wof:brand_id": 1125151851, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "chinese", 
     "asian", 
     "japanese", 
     "fusion"
   ], 
-  "wof:brand_name": "P.F. Chang's", 
-  "wof:brand_id": 1125151851
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416261
 }

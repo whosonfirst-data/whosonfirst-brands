@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414506, 
+  "wof:brand_name": "Babies R Us", 
+  "wof:brand_id": 1125150763, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:shopping=baby_store", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "retail_goods:shopping=department_store", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "infant", 
     "wear", 
@@ -22,6 +35,6 @@
     "department", 
     "software"
   ], 
-  "wof:brand_name": "Babies R Us", 
-  "wof:brand_id": 1125150763
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416271
 }

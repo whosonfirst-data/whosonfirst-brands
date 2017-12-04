@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414450, 
+  "wof:brand_name": "Lady Foot Locker", 
+  "wof:brand_id": 420575331, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=shoes", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:public_place=shopping_center", 
+    "entertainment:sports_and_exercise=bicycle_rental", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "sg:entertainment=sports_and_exercise", 
+    "retail_goods:shopping=department_store"
+  ], 
   "wof:tags": [
     "store", 
     "women's", 
@@ -20,6 +30,6 @@
     "sport", 
     "woman"
   ], 
-  "wof:brand_name": "Lady Foot Locker", 
-  "wof:brand_id": 420575331
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416226
 }

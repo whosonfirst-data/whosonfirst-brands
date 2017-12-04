@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414509, 
+  "wof:brand_name": "Pizza Place", 
+  "wof:brand_id": 1125156623, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "pizza", 
     "eating", 
@@ -9,6 +17,6 @@
     "supplier", 
     "take"
   ], 
-  "wof:brand_name": "Pizza Place", 
-  "wof:brand_id": 1125156623
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416274
 }

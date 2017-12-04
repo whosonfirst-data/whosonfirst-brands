@@ -1,10 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414491, 
+  "wof:brand_name": "Chemdry", 
+  "wof:brand_id": 1125153205, 
+  "wof:categories": [
+    "retail_goods:home_and_garden=carpets_and_floor_coverings", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "cleaner", 
     "upholstery"
   ], 
-  "wof:brand_name": "Chemdry", 
-  "wof:brand_id": 1125153205
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416259
 }

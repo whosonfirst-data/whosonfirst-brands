@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414470, 
+  "wof:brand_name": "Shear Pleasure", 
+  "wof:brand_id": 1125159367, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "services:personal=nail_salon", 
+    "services:personal=skin_care", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
@@ -11,6 +20,6 @@
     "stylist", 
     "wig"
   ], 
-  "wof:brand_name": "Shear Pleasure", 
-  "wof:brand_id": 1125159367
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416242
 }

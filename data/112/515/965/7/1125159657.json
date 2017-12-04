@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414526, 
+  "wof:brand_name": "R & R Construction", 
+  "wof:brand_id": 1125159657, 
+  "wof:categories": [
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=construction", 
+    "sg:transportation=railroad", 
+    "manufacturing_and_wholesale_goods:farming=farm", 
+    "manufacturing_and_wholesale_goods:manufacturing=buildings", 
+    "manufacturing_and_wholesale_goods:wholesale=petroleum", 
+    "services:building_and_trades=electrical", 
+    "services:real_estate=real_estate_operator", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=real_estate", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "contractor", 
     "general", 
@@ -40,6 +55,6 @@
     "trucking", 
     "work"
   ], 
-  "wof:brand_name": "R & R Construction", 
-  "wof:brand_id": 1125159657
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416286
 }

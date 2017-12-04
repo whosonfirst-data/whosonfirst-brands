@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414450, 
+  "wof:brand_name": "Red Wing Shoe Store", 
+  "wof:brand_id": 420575181, 
+  "wof:categories": [
+    "retail_goods:shopping=shoes", 
+    "sg:retail_goods=shopping", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "manufacturing_and_wholesale_goods:manufacturing=leather_goods", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "services:personal=shoe_repair_and_shine", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "store", 
     "clothing", 
@@ -21,6 +34,6 @@
     "shoes", 
     "wholesale"
   ], 
-  "wof:brand_name": "Red Wing Shoe Store", 
-  "wof:brand_id": 420575181
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416226
 }

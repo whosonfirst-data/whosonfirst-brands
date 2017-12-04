@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414489, 
+  "wof:brand_name": "Pampered Pets", 
+  "wof:brand_id": 1125151379, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=animal_services", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=pets_and_pet_supplies", 
+    "sg:services=personal", 
+    "entertainment:recreation=dog_park", 
+    "sg:entertainment=recreation", 
+    "services:retail=pet_boarding", 
+    "manufacturing_and_wholesale_goods:manufacturing=retail_goods", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:real_estate=developer", 
+    "services:retail=veterinary_services", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=real_estate", 
+    "sg:transportation=transit_center", 
+    "transportation:transit_center=passenger"
+  ], 
   "wof:tags": [
     "pet", 
     "grooming", 
@@ -31,6 +51,6 @@
     "product", 
     "retailer"
   ], 
-  "wof:brand_name": "Pampered Pets", 
-  "wof:brand_id": 1125151379
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416257
 }

@@ -1,12 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414499, 
+  "wof:brand_name": "Locksmith Emergency", 
+  "wof:brand_id": 1125153401, 
+  "wof:categories": [
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=locksmith", 
+    "services:retail=repair_shop", 
+    "sg:services=retail", 
+    "services:building_and_trades=plumbing", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "key", 
     "lock", 
     "locksmith", 
     "towing"
   ], 
-  "wof:brand_name": "Locksmith Emergency", 
-  "wof:brand_id": 1125153401
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416266
 }

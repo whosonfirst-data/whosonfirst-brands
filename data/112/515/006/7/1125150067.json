@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414489, 
+  "wof:brand_name": "Cbc", 
+  "wof:brand_id": 1125150067, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:manufacturing=toys_and_sporting_goods", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "retail_goods:shopping=mobile_phones", 
+    "services:insurance=insurance_agent", 
+    "services:real_estate=real_estate_agent", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=insurance", 
+    "sg:services=professional", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "broker", 
     "care", 
@@ -13,6 +27,6 @@
     "skateboard", 
     "space"
   ], 
-  "wof:brand_name": "Cbc", 
-  "wof:brand_id": 1125150067
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416257
 }

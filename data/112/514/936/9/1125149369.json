@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414554, 
+  "wof:brand_name": "Midas", 
+  "wof:brand_id": 1125149369, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "retail_goods:home_and_garden=kitchen_supply", 
+    "sg:retail_goods=home_and_garden", 
+    "entertainment:sports_and_exercise=ice_rink", 
+    "public_place:government=fire_station", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "services:building_and_trades=electrical", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:public_place=government", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "oil", 
     "tire", 
@@ -32,6 +48,6 @@
     "spring", 
     "suspension"
   ], 
-  "wof:brand_name": "Midas", 
-  "wof:brand_id": 1125149369
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416309
 }

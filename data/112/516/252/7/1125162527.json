@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414548, 
+  "wof:brand_name": "Auto Doctor", 
+  "wof:brand_id": 1125162527, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "public_place:government=office", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:public_place=government", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales"
+  ], 
   "wof:tags": [
     "automobile", 
     "repairing", 
@@ -17,6 +26,6 @@
     "transmission", 
     "used"
   ], 
-  "wof:brand_name": "Auto Doctor", 
-  "wof:brand_id": 1125162527
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416304
 }

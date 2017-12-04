@@ -1,6 +1,21 @@
 {
   "wof:brand_name": "Aldo Shoes", 
   "wof:brand_id": 1125152563, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=shoes", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=department_store", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "services:building_and_trades=construction", 
+    "services:personal=barber", 
+    "sg:public_place=shopping_center", 
+    "sg:services=building_and_trades", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "store", 
     "manufacturer", 
@@ -25,6 +40,6 @@
     1125156895
   ], 
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414474, 
+  "wof:lastmodified": 1512416245, 
   "mz:is_current": 1
 }

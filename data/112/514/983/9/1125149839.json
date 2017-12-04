@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414553, 
+  "wof:brand_name": "Conoco", 
+  "wof:brand_id": 1125149839, 
+  "wof:categories": [
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=petroleum_products", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:manufacturing=retail_goods", 
+    "manufacturing_and_wholesale_goods:wholesale=fruits_and_vegetables", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "services:personal=beauty_salon", 
+    "services:retail=auto_repair", 
+    "services:retail=car_wash", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=personal", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "oil", 
     "gasoline", 
@@ -22,6 +40,6 @@
     "shop", 
     "tire"
   ], 
-  "wof:brand_name": "Conoco", 
-  "wof:brand_id": 1125149839
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416309
 }

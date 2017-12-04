@@ -1,12 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414475, 
+  "wof:brand_name": "Jack's Barber Shop", 
+  "wof:brand_id": 1125159897, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=barber", 
+    "services:personal=beauty_salon"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
     "barber", 
     "salon"
   ], 
-  "wof:brand_name": "Jack's Barber Shop", 
-  "wof:brand_id": 1125159897
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416246
 }

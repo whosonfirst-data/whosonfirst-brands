@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414539, 
+  "wof:brand_name": "Americredit Financial Svcs Inc", 
+  "wof:brand_id": 1125161693, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "services:insurance=insurance_agent", 
+    "sg:services=insurance"
+  ], 
   "wof:tags": [
     "institution", 
     "personal", 
@@ -14,6 +20,6 @@
     "finance", 
     "finances"
   ], 
-  "wof:brand_name": "Americredit Financial Svcs Inc", 
-  "wof:brand_id": 1125161693
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416297
 }

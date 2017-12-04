@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414464, 
+  "wof:brand_name": "Bank of Scotland", 
+  "wof:brand_id": 1125152323, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:professional=business_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "financial", 
     "institution", 
@@ -8,6 +15,6 @@
     "foreign", 
     "saving"
   ], 
-  "wof:brand_name": "Bank of Scotland", 
-  "wof:brand_id": 1125152323
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416237
 }

@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414480, 
+  "wof:brand_name": "Zions First National Bank", 
+  "wof:brand_id": 1125158429, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:social_services=job_training", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "national", 
     "commercial", 
@@ -15,6 +22,6 @@
     "real estate", 
     "skill"
   ], 
-  "wof:brand_name": "Zions First National Bank", 
-  "wof:brand_id": 1125158429
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416250
 }

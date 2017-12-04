@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414469, 
+  "wof:brand_name": "Kragen O'ReillyAuto Parts", 
+  "wof:brand_id": 1125150829, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "services:retail=auto_repair", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "accessory", 
     "automobile", 
@@ -14,6 +23,6 @@
     "exchange", 
     "rebuilding"
   ], 
-  "wof:brand_name": "Kragen O'ReillyAuto Parts", 
-  "wof:brand_id": 1125150829
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416241
 }

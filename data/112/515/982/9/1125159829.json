@@ -1,11 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414530, 
+  "wof:brand_name": "Church Of God By Faith", 
+  "wof:brand_id": 1125159829, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "sg:public_place=place_of_worship"
+  ], 
   "wof:tags": [
     "church", 
     "churches-pentecostal", 
     "god"
   ], 
-  "wof:brand_name": "Church Of God By Faith", 
-  "wof:brand_id": 1125159829
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416290
 }

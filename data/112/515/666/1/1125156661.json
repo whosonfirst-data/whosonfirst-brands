@@ -1,6 +1,36 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414536, 
+  "wof:brand_name": "Talk Of The Town", 
+  "wof:brand_id": 1125156661, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "sg:retail_goods=shopping", 
+    "sg:food_and_drink=restaurant", 
+    "sg:services=professional", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=used_merchandise", 
+    "sg:entertainment=recreation", 
+    "entertainment:recreation=amusement_park", 
+    "entertainment:travel=hotels_and_motels", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "public_place:education=special_training", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:shopping=books", 
+    "retail_goods:shopping=florist", 
+    "retail_goods:shopping=jewelry", 
+    "services:personal=barber", 
+    "services:personal=nail_salon", 
+    "services:professional=advertising", 
+    "services:professional=computer_services", 
+    "sg:entertainment=travel", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=education", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "shop", 
     "caterer", 
@@ -38,6 +68,6 @@
     "website", 
     "wedding"
   ], 
-  "wof:brand_name": "Talk Of The Town", 
-  "wof:brand_id": 1125156661
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416295
 }

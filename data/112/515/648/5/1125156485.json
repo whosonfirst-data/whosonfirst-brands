@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414487, 
+  "wof:brand_name": "St Paul's United Methodist Chr", 
+  "wof:brand_id": 1125156485, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "church", 
     "care", 
@@ -8,6 +12,6 @@
     "clergy", 
     "day"
   ], 
-  "wof:brand_name": "St Paul's United Methodist Chr", 
-  "wof:brand_id": 1125156485
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416256
 }

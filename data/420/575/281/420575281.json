@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414448, 
+  "wof:brand_name": "Fire Department", 
+  "wof:brand_id": 420575281, 
+  "wof:categories": [
+    "sg:public_place=government", 
+    "public_place:government=fire_station", 
+    "public_place:government=office", 
+    "public_place:government=police_station", 
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "public_place:education=school", 
+    "public_place:government=city_hall", 
+    "services:organizations=membership_organization", 
+    "sg:public_place=education", 
+    "sg:services=organizations", 
+    "sg:transportation=local_transit"
+  ], 
   "wof:tags": [
     "protection", 
     "department", 
@@ -32,6 +46,6 @@
     "rescue", 
     "station"
   ], 
-  "wof:brand_name": "Fire Department", 
-  "wof:brand_id": 420575281
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416225
 }

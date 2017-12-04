@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414510, 
+  "wof:brand_name": "JK Harris & Company", 
+  "wof:brand_id": 1125151949, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "accountant", 
     "advising", 
@@ -15,6 +22,6 @@
     "business", 
     "law"
   ], 
-  "wof:brand_name": "JK Harris & Company", 
-  "wof:brand_id": 1125151949
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416274
 }

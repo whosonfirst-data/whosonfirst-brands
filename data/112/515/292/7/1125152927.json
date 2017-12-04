@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414486, 
+  "wof:brand_name": "Attorney At Law", 
+  "wof:brand_id": 1125152927, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=lawyer_and_legal_services", 
+    "public_place:government=court_house", 
+    "sg:public_place=government", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=business_services", 
+    "services:professional=management_and_consulting", 
+    "services:real_estate=real_estate_services", 
+    "services:real_estate=surveying", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "attorney", 
     "practice", 
@@ -25,6 +39,6 @@
     "used", 
     "wills"
   ], 
-  "wof:brand_name": "Attorney At Law", 
-  "wof:brand_id": 1125152927
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416255
 }

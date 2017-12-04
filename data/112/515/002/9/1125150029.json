@@ -1,12 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414487, 
+  "wof:brand_name": "Simple Simon's Pizza", 
+  "wof:brand_id": 1125150029, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food"
+  ], 
   "wof:tags": [
     "pizza", 
     "american", 
     "italian", 
     "eating"
   ], 
-  "wof:brand_name": "Simple Simon's Pizza", 
-  "wof:brand_id": 1125150029
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416255
 }

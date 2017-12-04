@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414468, 
+  "wof:brand_name": "Cutting Crew", 
+  "wof:brand_id": 1125152393, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber"
+  ], 
   "wof:tags": [
     "shop", 
     "hairdresser", 
@@ -11,6 +16,6 @@
     "barber", 
     "lady"
   ], 
-  "wof:brand_name": "Cutting Crew", 
-  "wof:brand_id": 1125152393
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416241
 }

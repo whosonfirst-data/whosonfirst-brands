@@ -1,6 +1,32 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414540, 
+  "wof:brand_name": "Carpe Diem", 
+  "wof:brand_id": 1125162565, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:services=professional", 
+    "entertainment:sports_and_exercise=gym", 
+    "entertainment:travel=bed_and_breakfast", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:shopping=florist", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:organizations=nonprofit_organization", 
+    "services:personal=beauty_salon", 
+    "services:professional=management_and_consulting", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:entertainment=travel", 
+    "sg:food_and_drink=cafe", 
+    "sg:food_and_drink=fast_food", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=organizations", 
+    "sg:services=personal", 
+    "sg:transportation=parking", 
+    "transportation:parking=bicycle"
+  ], 
   "wof:tags": [
     "accommodation", 
     "american", 
@@ -28,6 +54,6 @@
     "tavern", 
     "tourism"
   ], 
-  "wof:brand_name": "Carpe Diem", 
-  "wof:brand_id": 1125162565
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416297
 }

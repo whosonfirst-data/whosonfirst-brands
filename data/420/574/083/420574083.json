@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414458, 
+  "wof:brand_name": "Check 'n Go", 
+  "wof:brand_id": 420574083, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "check", 
     "cashing", 
@@ -14,6 +20,6 @@
     "cashing/pay-day", 
     "establishment"
   ], 
-  "wof:brand_name": "Check 'n Go", 
-  "wof:brand_id": 420574083
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416232
 }

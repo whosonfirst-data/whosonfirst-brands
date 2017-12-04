@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414546, 
+  "wof:brand_name": "Document Automation & Prod Svc", 
+  "wof:brand_id": 1125162217, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "commercial", 
     "lithographic", 
@@ -8,6 +12,6 @@
     "document", 
     "production"
   ], 
-  "wof:brand_name": "Document Automation & Prod Svc", 
-  "wof:brand_id": 1125162217
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416303
 }

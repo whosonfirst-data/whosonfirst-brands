@@ -1,6 +1,27 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414517, 
+  "wof:brand_name": "El Rodeo", 
+  "wof:brand_id": 1125157841, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:services=professional", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:entertainment=recreation", 
+    "sg:food_and_drink=fast_food", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "entertainment:recreation=dance_hall", 
+    "food_and_drink:bars_and_pubs=nightclub", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=shoes", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:organizations=religious_organization", 
+    "services:professional=management_and_consulting", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "mexican", 
     "eating", 
@@ -19,6 +40,6 @@
     "southwestern", 
     "vintage"
   ], 
-  "wof:brand_name": "El Rodeo", 
-  "wof:brand_id": 1125157841
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416280
 }

@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414514, 
+  "wof:brand_name": "Lamar Outdoor Advertising", 
+  "wof:brand_id": 1125158565, 
+  "wof:categories": [
+    "services:professional=advertising", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=signs", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:transportation=transit_center", 
+    "transportation:transit_center=freight"
+  ], 
   "wof:tags": [
     "outdoor", 
     "mfg", 
@@ -10,6 +18,6 @@
     "sign", 
     "specialty"
   ], 
-  "wof:brand_name": "Lamar Outdoor Advertising", 
-  "wof:brand_id": 1125158565
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416277
 }

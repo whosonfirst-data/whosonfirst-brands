@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414499, 
+  "wof:brand_name": "National Farmers Union", 
+  "wof:brand_id": 1125153409, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "services:organizations=professional_association", 
+    "sg:services=organizations", 
+    "entertainment:arena=sports_club", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "services:insurance=hazard_insurance", 
+    "services:professional=management_and_consulting", 
+    "sg:entertainment=arena", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "chamber", 
     "commerce", 
@@ -13,6 +29,6 @@
     "friendly", 
     "society"
   ], 
-  "wof:brand_name": "National Farmers Union", 
-  "wof:brand_id": 1125153409
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416266
 }

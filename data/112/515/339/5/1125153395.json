@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414502, 
+  "wof:brand_name": "Kodak", 
+  "wof:brand_id": 1125153395, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=photographic_equipment", 
+    "manufacturing_and_wholesale_goods:wholesale=office_equipment", 
+    "services:retail=photofinishing", 
+    "sg:services=retail", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:wholesale=medical_equipment_and_supplies", 
+    "retail_goods:shopping=photographic_equipment", 
+    "sg:services=professional", 
+    "sg:transportation=freight", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:health_services=clinic", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "mfg", 
     "photographic", 
@@ -55,6 +73,6 @@
     "unsupported", 
     "water"
   ], 
-  "wof:brand_name": "Kodak", 
-  "wof:brand_id": 1125153395
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416268
 }

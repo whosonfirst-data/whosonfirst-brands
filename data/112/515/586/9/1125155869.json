@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414479, 
+  "wof:brand_name": "Village Pizza", 
+  "wof:brand_id": 1125155869, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:food_and_drink=fast_food", 
+    "sg:retail_goods=food_and_beverages", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "sg:food_and_drink=deli", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "pizza", 
     "eating", 
@@ -21,6 +30,6 @@
     "wing", 
     "wrap"
   ], 
-  "wof:brand_name": "Village Pizza", 
-  "wof:brand_id": 1125155869
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416249
 }

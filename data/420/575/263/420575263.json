@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414448, 
+  "wof:brand_name": "Murphy Oil USA Inc", 
+  "wof:brand_id": 420575263, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "manufacturing_and_wholesale_goods:manufacturing=petroleum_products", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=mining_and_drilling", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "manufacturing_and_wholesale_goods:wholesale=petroleum", 
+    "services:utilities=natural_gas", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "oil", 
     "station", 
@@ -19,6 +32,6 @@
     "pipeline", 
     "producer"
   ], 
-  "wof:brand_name": "Murphy Oil USA Inc", 
-  "wof:brand_id": 420575263
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416225
 }

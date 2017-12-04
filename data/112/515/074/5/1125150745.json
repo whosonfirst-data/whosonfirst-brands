@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414526, 
+  "wof:brand_name": "First American Title Insur Co", 
+  "wof:brand_id": 1125150745, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=title_insurance", 
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_services", 
+    "services:insurance=insurance_agent", 
+    "sg:services=professional", 
+    "services:real_estate=real_estate_agent", 
+    "services:professional=computer_services", 
+    "services:professional=credit_reporting_and_collection", 
+    "services:banks_and_credit_unions=bank", 
+    "services:insurance=hazard_insurance", 
+    "services:professional=business_services", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "carrier", 
     "abstract", 
@@ -23,6 +38,6 @@
     "search", 
     "warranty"
   ], 
-  "wof:brand_name": "First American Title Insur Co", 
-  "wof:brand_id": 1125150745
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416287
 }

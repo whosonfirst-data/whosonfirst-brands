@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414487, 
+  "wof:brand_name": "Professional Cleaners", 
+  "wof:brand_id": 1125157039, 
+  "wof:categories": [
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:manufacturing=leather_goods", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "cleaners", 
     "drycleaning", 
@@ -10,6 +16,6 @@
     "garment", 
     "commercial"
   ], 
-  "wof:brand_name": "Professional Cleaners", 
-  "wof:brand_id": 1125157039
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416255
 }

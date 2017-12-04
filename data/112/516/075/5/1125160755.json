@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414547, 
+  "wof:brand_name": "Caprice", 
+  "wof:brand_id": 1125160755, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:personal=beauty_salon", 
+    "sg:services=personal", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=jewelry", 
+    "retail_goods:shopping=shoes", 
+    "entertainment:recreation=dance_hall", 
+    "food_and_drink:bars_and_pubs=champagne_bar", 
+    "retail_goods:shopping=baby_store", 
+    "sg:entertainment=recreation", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "-", 
     "boutique", 
@@ -16,6 +31,6 @@
     "silversmith", 
     "slipper"
   ], 
-  "wof:brand_name": "Caprice", 
-  "wof:brand_id": 1125160755
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416303
 }

@@ -1,6 +1,30 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414475, 
+  "wof:brand_name": "Bubbles", 
+  "wof:brand_id": 1125159173, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "retail_goods:shopping=baby_store", 
+    "sg:services=retail", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:retail=car_wash", 
+    "sg:services=building_and_trades", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "services:building_and_trades=construction", 
+    "services:personal=barber", 
+    "services:personal=sauna", 
+    "services:retail=auto_repair", 
+    "services:retail=repair_shop", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "shop", 
     "babywear", 
@@ -24,6 +48,6 @@
     "wedding", 
     "window"
   ], 
-  "wof:brand_name": "Bubbles", 
-  "wof:brand_id": 1125159173
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416246
 }

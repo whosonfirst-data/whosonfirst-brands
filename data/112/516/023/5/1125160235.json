@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414544, 
+  "wof:brand_name": "J & J Construction", 
+  "wof:brand_id": 1125160235, 
+  "wof:categories": [
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=construction", 
+    "services:building_and_trades=landscaping_services", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=real_estate", 
+    "manufacturing_and_wholesale_goods:wholesale=construction_materials", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:professional=management_and_consulting", 
+    "services:real_estate=developer", 
+    "services:real_estate=real_estate_operator", 
+    "sg:retail_goods=shopping", 
+    "sg:services=personal", 
+    "sg:services=professional", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "contractor", 
     "general", 
@@ -35,6 +52,6 @@
     "system", 
     "utility"
   ], 
-  "wof:brand_name": "J & J Construction", 
-  "wof:brand_id": 1125160235
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416301
 }

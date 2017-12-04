@@ -1,11 +1,21 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414451, 
+  "wof:brand_name": "Credit Lyonnais", 
+  "wof:brand_id": 420575501, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=professional", 
+    "services:organizations=professional_association", 
+    "services:professional=advertising", 
+    "services:professional=employment_agencies", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "banking", 
     "commercial", 
     "institution"
   ], 
-  "wof:brand_name": "Credit Lyonnais", 
-  "wof:brand_id": 420575501
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416227
 }

@@ -1,6 +1,21 @@
 {
   "wof:brand_name": "Best Western", 
   "wof:brand_id": 1125149433, 
+  "wof:categories": [
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel", 
+    "sg:food_and_drink=restaurant", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "services:professional=business_services", 
+    "services:real_estate=real_estate_operator", 
+    "sg:services=real_estate", 
+    "entertainment:travel=bed_and_breakfast", 
+    "services:building_and_trades=construction", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=building_and_trades", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "operation", 
     "eating", 
@@ -95,6 +110,6 @@
     420574153
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414559, 
+  "wof:lastmodified": 1512416313, 
   "mz:is_current": 1
 }

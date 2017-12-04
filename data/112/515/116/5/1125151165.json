@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414511, 
+  "wof:brand_name": "Bankers Life", 
+  "wof:brand_id": 1125151165, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=life_insurance", 
+    "services:insurance=hazard_insurance", 
+    "services:insurance=health_insurance", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:health_services=hospital", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "carrier", 
     "agency", 
@@ -28,6 +40,6 @@
     "sharing", 
     "surgical"
   ], 
-  "wof:brand_name": "Bankers Life", 
-  "wof:brand_id": 1125151165
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416275
 }

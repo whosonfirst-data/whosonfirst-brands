@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414539, 
+  "wof:brand_name": "Razors Edge", 
+  "wof:brand_id": 1125160943, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=barber", 
+    "services:personal=beauty_salon", 
+    "manufacturing_and_wholesale_goods:manufacturing=furniture", 
+    "services:retail=repair_shop", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "shop", 
     "hairdresser", 
@@ -16,6 +25,6 @@
     "lady", 
     "sharpening"
   ], 
-  "wof:brand_name": "Razors Edge", 
-  "wof:brand_id": 1125160943
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416297
 }

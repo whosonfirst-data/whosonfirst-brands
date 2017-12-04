@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414504, 
+  "wof:brand_name": "Performance Automotive", 
+  "wof:brand_id": 1125158159, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "services:professional=management_and_consulting", 
+    "services:retail=repair_shop", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "automobile", 
     "repairing", 
@@ -28,6 +40,6 @@
     "truck", 
     "wrecker"
   ], 
-  "wof:brand_name": "Performance Automotive", 
-  "wof:brand_id": 1125158159
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416270
 }

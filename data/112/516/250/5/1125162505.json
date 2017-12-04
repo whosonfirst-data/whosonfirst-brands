@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414545, 
+  "wof:brand_name": "Allied Pickfords", 
+  "wof:brand_id": 1125162505, 
+  "wof:categories": [
+    "sg:transportation=transit_center", 
+    "transportation:transit_center=freight", 
+    "services:retail=storage", 
+    "sg:services=retail", 
+    "sg:transportation=freight", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "agent", 
     "shipping", 
@@ -10,6 +19,6 @@
     "forwarders", 
     "relocation"
   ], 
-  "wof:brand_name": "Allied Pickfords", 
-  "wof:brand_id": 1125162505
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416302
 }

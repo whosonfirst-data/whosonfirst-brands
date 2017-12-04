@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414493, 
+  "wof:brand_name": "M & I Bank", 
+  "wof:brand_id": 1125151075, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services"
+  ], 
   "wof:tags": [
     "broker", 
     "mortgage", 
@@ -9,6 +14,6 @@
     "saving", 
     "savings"
   ], 
-  "wof:brand_name": "M & I Bank", 
-  "wof:brand_id": 1125151075
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416260
 }

@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414543, 
+  "wof:brand_name": "Shaklee Products Distributor", 
+  "wof:brand_id": 1125160955, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:retail_goods=food_and_beverages", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=drugs", 
+    "services:insurance=health_insurance", 
+    "sg:services=insurance", 
+    "manufacturing_and_wholesale_goods:wholesale=chemicals_and_plastics", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:wholesale=hardware", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:services=personal", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "diet", 
     "health", 
@@ -21,6 +38,6 @@
     "retail", 
     "sales"
   ], 
-  "wof:brand_name": "Shaklee Products Distributor", 
-  "wof:brand_id": 1125160955
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416300
 }

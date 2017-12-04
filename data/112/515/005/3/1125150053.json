@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414488, 
+  "wof:brand_name": "Shear Perfection", 
+  "wof:brand_id": 1125150053, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "services:building_and_trades=construction", 
+    "services:retail=animal_services", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=shopping", 
+    "sg:services=building_and_trades", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "shop", 
     "beauty", 
@@ -22,6 +34,6 @@
     "parking", 
     "therapist"
   ], 
-  "wof:brand_name": "Shear Perfection", 
-  "wof:brand_id": 1125150053
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416257
 }

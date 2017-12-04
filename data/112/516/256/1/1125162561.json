@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414540, 
+  "wof:brand_name": "California Budget Finance", 
+  "wof:brand_id": 1125162561, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=investment_brokerage"
+  ], 
   "wof:tags": [
     "cashing", 
     "check", 
@@ -16,6 +22,6 @@
     "mortgage", 
     "personal"
   ], 
-  "wof:brand_name": "California Budget Finance", 
-  "wof:brand_id": 1125162561
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416298
 }

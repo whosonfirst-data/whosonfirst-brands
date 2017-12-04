@@ -1,6 +1,25 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414461, 
+  "wof:brand_name": "Circuit City", 
+  "wof:brand_id": 420574461, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "sg:services=professional", 
+    "services:retail=repair_shop", 
+    "sg:services=retail", 
+    "services:professional=computer_services", 
+    "manufacturing_and_wholesale_goods:wholesale=computers", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:home_and_garden=building_materials", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=music", 
+    "services:professional=management_and_consulting"
+  ], 
   "wof:tags": [
     "equipment", 
     "electronic", 
@@ -52,6 +71,6 @@
     "tv", 
     "visual"
   ], 
-  "wof:brand_name": "Circuit City", 
-  "wof:brand_id": 420574461
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416235
 }

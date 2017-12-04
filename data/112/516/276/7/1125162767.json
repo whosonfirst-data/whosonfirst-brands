@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414545, 
+  "wof:brand_name": "Pressed 4 Time", 
+  "wof:brand_id": 1125162767, 
+  "wof:categories": [
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:services=retail", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "cleaners", 
     "cleaner", 
@@ -17,6 +22,6 @@
     "repair", 
     "trucking"
   ], 
-  "wof:brand_name": "Pressed 4 Time", 
-  "wof:brand_id": 1125162767
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416302
 }

@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414522, 
+  "wof:brand_name": "Gambro Healthcare Inc", 
+  "wof:brand_id": 1125159873, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=clinic", 
+    "services:health_services=doctor", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "services:health_services=nursing_and_care_facility", 
+    "services:health_services=hospital"
+  ], 
   "wof:tags": [
     "center", 
     "dialysis", 
@@ -21,6 +30,6 @@
     "laboratory", 
     "surgical"
   ], 
-  "wof:brand_name": "Gambro Healthcare Inc", 
-  "wof:brand_id": 1125159873
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416283
 }

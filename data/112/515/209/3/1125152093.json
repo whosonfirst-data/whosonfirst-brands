@@ -1,12 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414496, 
+  "wof:brand_name": "First Citizens Bank & Trust Co", 
+  "wof:brand_id": 1125152093, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "commercial", 
     "loan", 
     "state", 
     "real estate"
   ], 
-  "wof:brand_name": "First Citizens Bank & Trust Co", 
-  "wof:brand_id": 1125152093
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416263
 }

@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414478, 
+  "wof:brand_name": "3 Day Blinds", 
+  "wof:brand_id": 1125155703, 
+  "wof:categories": [
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "manufacturing_and_wholesale_goods:wholesale=home_furnishings", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:home_and_garden=building_materials", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=building_materials", 
+    "manufacturing_and_wholesale_goods:manufacturing=furniture"
+  ], 
   "wof:tags": [
     "blind", 
     "venetian", 
@@ -21,6 +31,6 @@
     "mfg", 
     "mini"
   ], 
-  "wof:brand_name": "3 Day Blinds", 
-  "wof:brand_id": 1125155703
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416248
 }

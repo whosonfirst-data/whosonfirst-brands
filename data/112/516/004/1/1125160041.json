@@ -1,10 +1,19 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414550, 
+  "wof:brand_name": "W H Smith Trading Ltd.", 
+  "wof:brand_id": 1125160041, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=books", 
+    "manufacturing_and_wholesale_goods:wholesale=books_periodicals_and_newspapers", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:shopping=news", 
+    "services:professional=business_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "bookseller", 
     "newsagent"
   ], 
-  "wof:brand_name": "W H Smith Trading Ltd.", 
-  "wof:brand_id": 1125160041
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416306
 }

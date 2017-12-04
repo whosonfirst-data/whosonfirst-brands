@@ -1,11 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414531, 
+  "wof:brand_name": "The Bakers Oven", 
+  "wof:brand_id": 1125152623, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:food_and_drink=cafe", 
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "baker", 
     "bar", 
     "snack"
   ], 
-  "wof:brand_name": "The Bakers Oven", 
-  "wof:brand_id": 1125152623
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416291
 }

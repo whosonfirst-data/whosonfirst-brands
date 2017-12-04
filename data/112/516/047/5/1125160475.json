@@ -1,9 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414545, 
+  "wof:brand_name": "Deals-Nothing Over A Dollar", 
+  "wof:brand_id": 1125160475, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=discount_and_variety_stores"
+  ], 
   "wof:tags": [
     "shop"
   ], 
-  "wof:brand_name": "Deals-Nothing Over A Dollar", 
-  "wof:brand_id": 1125160475
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416301
 }

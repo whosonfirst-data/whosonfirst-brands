@@ -1,12 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414510, 
+  "wof:brand_name": "Livera", 
+  "wof:brand_id": 1125159295, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=adult"
+  ], 
   "wof:tags": [
     "lingerie", 
     "ondergoed", 
     "en", 
     "tricotage"
   ], 
-  "wof:brand_name": "Livera", 
-  "wof:brand_id": 1125159295
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416275
 }

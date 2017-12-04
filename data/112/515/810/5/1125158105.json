@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414533, 
+  "wof:brand_name": "Holy Trinity Episcopal Church", 
+  "wof:brand_id": 1125158105, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "sg:public_place=place_of_worship", 
+    "public_place:place_of_worship=church"
+  ], 
   "wof:tags": [
     "church", 
     "churches-episcopal", 
@@ -8,6 +14,6 @@
     "place", 
     "worship"
   ], 
-  "wof:brand_name": "Holy Trinity Episcopal Church", 
-  "wof:brand_id": 1125158105
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416293
 }

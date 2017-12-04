@@ -1,6 +1,28 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414510, 
+  "wof:brand_name": "Auto Tech", 
+  "wof:brand_id": 1125151873, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=auto_repair", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "services:retail=car_wash", 
+    "services:retail=repair_shop", 
+    "manufacturing_and_wholesale_goods:manufacturing=electronics", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "public_place:education=vocational_school", 
+    "public_place:government=office", 
+    "services:building_and_trades=construction", 
+    "services:professional=detective_and_security_services", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=education", 
+    "sg:public_place=government", 
+    "sg:services=building_and_trades", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "automobile", 
     "repairing", 
@@ -43,6 +65,6 @@
     "used", 
     "washing"
   ], 
-  "wof:brand_name": "Auto Tech", 
-  "wof:brand_id": 1125151873
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416274
 }

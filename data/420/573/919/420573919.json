@@ -1,6 +1,25 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414453, 
+  "wof:brand_name": "Sally Beauty Supply", 
+  "wof:brand_id": 420573919, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "services:personal=barber", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "manufacturing_and_wholesale_goods:manufacturing=retail_goods", 
+    "manufacturing_and_wholesale_goods:wholesale=drugs", 
+    "entertainment:recreation=gun_range", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "sg:entertainment=recreation"
+  ], 
   "wof:tags": [
     "salon", 
     "beauty", 
@@ -32,6 +51,6 @@
     "miscellaneous", 
     "spa"
   ], 
-  "wof:brand_name": "Sally Beauty Supply", 
-  "wof:brand_id": 420573919
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416228
 }

@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414557, 
+  "wof:brand_name": "Administration Communale", 
+  "wof:brand_id": 1125149285, 
+  "wof:categories": [
+    "services:health_services=nursing_and_care_facility", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "public"
   ], 
-  "wof:brand_name": "Administration Communale", 
-  "wof:brand_id": 1125149285
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416311
 }

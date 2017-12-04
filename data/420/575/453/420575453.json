@@ -1,6 +1,10 @@
 {
   "wof:brand_name": "Red Lobster", 
   "wof:brand_id": 420575453, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food"
+  ], 
   "wof:tags": [
     "seafood", 
     "american", 
@@ -16,6 +20,6 @@
     1125161255
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414444, 
+  "wof:lastmodified": 1512416222, 
   "mz:is_current": 1
 }

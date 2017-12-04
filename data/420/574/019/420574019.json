@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414456, 
+  "wof:brand_name": "Advance Auto Parts Inc", 
+  "wof:brand_id": 420574019, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "automobile", 
     "parts", 
@@ -23,6 +32,6 @@
     "mach", 
     "tire"
   ], 
-  "wof:brand_name": "Advance Auto Parts Inc", 
-  "wof:brand_id": 420574019
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416231
 }

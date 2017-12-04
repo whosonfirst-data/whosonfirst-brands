@@ -1,6 +1,29 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414501, 
+  "wof:brand_name": "Therapeutic Massage", 
+  "wof:brand_id": 1125152913, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "sg:services=health_services", 
+    "services:health_services=health_practitioner", 
+    "services:personal=massage", 
+    "retail_goods:shopping=pharmacy", 
+    "services:health_services=clinic", 
+    "sg:retail_goods=shopping", 
+    "sg:entertainment=recreation", 
+    "sg:services=professional", 
+    "entertainment:recreation=marina", 
+    "manufacturing_and_wholesale_goods:manufacturing=retail_goods", 
+    "services:building_and_trades=construction", 
+    "services:health_services=chiropractor", 
+    "services:organizations=membership_organization", 
+    "services:professional=management_and_consulting", 
+    "services:retail=auto_repair", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=building_and_trades", 
+    "sg:services=organizations", 
+    "sg:services=retail", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "therapist", 
     "massage", 
@@ -19,6 +42,6 @@
     "product", 
     "repairing"
   ], 
-  "wof:brand_name": "Therapeutic Massage", 
-  "wof:brand_id": 1125152913
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416267
 }

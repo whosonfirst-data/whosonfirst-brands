@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414537, 
+  "wof:brand_name": "Agence Hippique Dumoulin", 
+  "wof:brand_id": 1125162497, 
+  "wof:categories": [
+    "services:professional=business_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "bookmaker"
   ], 
-  "wof:brand_name": "Agence Hippique Dumoulin", 
-  "wof:brand_id": 1125162497
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416296
 }

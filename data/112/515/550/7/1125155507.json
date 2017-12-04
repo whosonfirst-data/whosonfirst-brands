@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414495, 
+  "wof:brand_name": "KOA Kampgrounds", 
+  "wof:brand_id": 1125155507, 
+  "wof:categories": [
+    "sg:entertainment=travel", 
+    "entertainment:travel=campground", 
+    "entertainment:travel=hotels_and_motels", 
+    "retail_goods:autos_and_motor_vehicles=recreational_vehicle_sales", 
+    "services:real_estate=developer", 
+    "services:retail=selfservice_laundry", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=real_estate", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "trailer", 
     "parks", 
@@ -14,6 +25,6 @@
     "petroleum", 
     "resort"
   ], 
-  "wof:brand_name": "KOA Kampgrounds", 
-  "wof:brand_id": 1125155507
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416262
 }

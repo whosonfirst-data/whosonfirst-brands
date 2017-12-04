@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414484, 
+  "wof:brand_name": "AAA Locksmith", 
+  "wof:brand_id": 1125150653, 
+  "wof:categories": [
+    "services:building_and_trades=locksmith", 
+    "sg:services=building_and_trades", 
+    "services:retail=repair_shop", 
+    "sg:services=retail", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=electronics", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "services:professional=detective_and_security_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "key", 
     "lock", 
@@ -14,6 +25,6 @@
     "monitoring", 
     "system"
   ], 
-  "wof:brand_name": "AAA Locksmith", 
-  "wof:brand_id": 1125150653
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416253
 }

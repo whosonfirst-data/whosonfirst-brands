@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414455, 
+  "wof:brand_name": "Colonial Bank", 
+  "wof:brand_id": 420574705, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=financial_services"
+  ], 
   "wof:tags": [
     "state", 
     "commercial", 
@@ -16,6 +21,6 @@
     "depository", 
     "institution"
   ], 
-  "wof:brand_name": "Colonial Bank", 
-  "wof:brand_id": 420574705
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416230
 }

@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414498, 
+  "wof:brand_name": "St James Lutheran Church", 
+  "wof:brand_id": 1125157071, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship", 
+    "public_place:education=preschool", 
+    "public_place:education=school", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "church", 
     "lutheran", 
@@ -9,6 +18,6 @@
     "churches-lutheran-evangelical", 
     "elementary"
   ], 
-  "wof:brand_name": "St James Lutheran Church", 
-  "wof:brand_id": 1125157071
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416265
 }

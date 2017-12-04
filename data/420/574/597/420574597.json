@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414455, 
+  "wof:brand_name": "Pearle Vision", 
+  "wof:brand_id": 420574597, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=optical_goods", 
+    "sg:services=health_services", 
+    "services:health_services=optometrist", 
+    "retail_goods:shopping=optician", 
+    "entertainment:sports_and_exercise=gym", 
+    "sg:entertainment=sports_and_exercise", 
+    "services:health_services=doctor", 
+    "services:building_and_trades=construction", 
+    "services:professional=management_and_consulting", 
+    "sg:services=building_and_trades", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "contact", 
     "lens", 
@@ -31,6 +45,6 @@
     "shop", 
     "surgeon"
   ], 
-  "wof:brand_name": "Pearle Vision", 
-  "wof:brand_id": 420574597
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416230
 }

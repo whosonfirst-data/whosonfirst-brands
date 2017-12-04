@@ -1,10 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414449, 
+  "wof:brand_name": "Bairstow Eves", 
+  "wof:brand_id": 420575911, 
+  "wof:categories": [
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:real_estate=real_estate_operator", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "consultant", 
     "letting"
   ], 
-  "wof:brand_name": "Bairstow Eves", 
-  "wof:brand_id": 420575911
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416226
 }

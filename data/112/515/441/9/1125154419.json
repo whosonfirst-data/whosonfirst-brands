@@ -1,9 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414537, 
+  "wof:brand_name": "De Voorzorg", 
+  "wof:brand_id": 1125154419, 
+  "wof:categories": [
+    "retail_goods:shopping=optician", 
+    "services:personal=beauty_salon", 
+    "sg:retail_goods=shopping", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "-"
   ], 
-  "wof:brand_name": "De Voorzorg", 
-  "wof:brand_id": 1125154419
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416295
 }

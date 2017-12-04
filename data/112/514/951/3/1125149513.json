@@ -1,7 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414560, 
-  "wof:tags": [], 
   "wof:brand_name": "Optimist International", 
-  "wof:brand_id": 1125149513
+  "wof:brand_id": 1125149513, 
+  "wof:categories": [
+    "services:organizations=community_association", 
+    "sg:services=organizations", 
+    "services:insurance=insurance_agent", 
+    "sg:services=insurance"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416314
 }

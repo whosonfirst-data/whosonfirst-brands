@@ -1,11 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414464, 
+  "wof:brand_name": "Bob's Barber Shop", 
+  "wof:brand_id": 1125152329, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=barber", 
+    "services:personal=beauty_salon"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
     "hairdresser"
   ], 
-  "wof:brand_name": "Bob's Barber Shop", 
-  "wof:brand_id": 1125152329
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416238
 }

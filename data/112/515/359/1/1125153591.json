@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414489, 
+  "wof:brand_name": "Community National Bank", 
+  "wof:brand_id": 1125153591, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:professional=business_services", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=professional", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "commercial", 
     "national", 
@@ -17,6 +26,6 @@
     "savings", 
     "system"
   ], 
-  "wof:brand_name": "Community National Bank", 
-  "wof:brand_id": 1125153591
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416257
 }

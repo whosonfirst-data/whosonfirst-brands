@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414479, 
+  "wof:brand_name": "The Barber Shop", 
+  "wof:brand_id": 1125150815, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=barber", 
+    "services:personal=beauty_salon"
+  ], 
   "wof:tags": [
     "hairdresser", 
     "men's", 
@@ -8,6 +13,6 @@
     "shop", 
     "stylist"
   ], 
-  "wof:brand_name": "The Barber Shop", 
-  "wof:brand_id": 1125150815
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416249
 }

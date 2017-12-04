@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414457, 
+  "wof:brand_name": "Laboratory Corp Of America", 
+  "wof:brand_id": 420574259, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=medical_lab", 
+    "sg:services=professional", 
+    "services:professional=research", 
+    "services:professional=testing_lab", 
+    "services:health_services=doctor", 
+    "services:organizations=nonprofit_organization", 
+    "sg:services=organizations", 
+    "services:health_services=clinic", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "laboratory", 
     "establishment", 
@@ -19,6 +31,6 @@
     "screening", 
     "test"
   ], 
-  "wof:brand_name": "Laboratory Corp Of America", 
-  "wof:brand_id": 420574259
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416232
 }

@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414525, 
+  "wof:brand_name": "Going Places", 
+  "wof:brand_id": 1125154747, 
+  "wof:categories": [
+    "entertainment:travel=travel_agent", 
+    "sg:entertainment=travel", 
+    "sg:services=professional", 
+    "entertainment:sports_and_exercise=gym", 
+    "retail_goods:shopping=luggage_and_leather_goods", 
+    "services:organizations=nonprofit_organization", 
+    "services:professional=business_services", 
+    "services:professional=computer_services", 
+    "services:professional=employment_agencies", 
+    "services:professional=management_and_consulting", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:retail_goods=shopping", 
+    "sg:services=organizations", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "agency", 
     "abuse", 
@@ -23,6 +39,6 @@
     "treatment", 
     "website"
   ], 
-  "wof:brand_name": "Going Places", 
-  "wof:brand_id": 1125154747
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416286
 }

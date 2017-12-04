@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414498, 
+  "wof:brand_name": "Network Video", 
+  "wof:brand_id": 1125151563, 
+  "wof:categories": [
+    "services:communications=film_and_video_production", 
+    "sg:services=communications", 
+    "entertainment:cinema=movie_rental", 
+    "sg:entertainment=cinema", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "retail_goods:shopping=music", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "retail_goods:shopping=tobacco", 
+    "services:building_and_trades=equipment_rental", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "dvd", 
     "library", 
@@ -30,6 +44,6 @@
     "system", 
     "television"
   ], 
-  "wof:brand_name": "Network Video", 
-  "wof:brand_id": 1125151563
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416265
 }

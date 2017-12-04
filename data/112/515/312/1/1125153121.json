@@ -1,9 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414518, 
+  "wof:brand_name": "St John's Catholic Church", 
+  "wof:brand_id": 1125153121, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:education=school", 
+    "sg:public_place=education", 
+    "sg:public_place=place_of_worship"
+  ], 
   "wof:tags": [
     "church"
   ], 
-  "wof:brand_name": "St John's Catholic Church", 
-  "wof:brand_id": 1125153121
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416280
 }

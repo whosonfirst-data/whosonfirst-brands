@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414550, 
+  "wof:brand_name": "Hastings Books Music Video", 
+  "wof:brand_id": 1125162263, 
+  "wof:categories": [
+    "entertainment:cinema=movie_rental", 
+    "sg:entertainment=cinema", 
+    "retail_goods:shopping=books", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "disc", 
     "leasing", 
@@ -8,6 +14,6 @@
     "video", 
     "dealer"
   ], 
-  "wof:brand_name": "Hastings Books Music Video", 
-  "wof:brand_id": 1125162263
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416306
 }

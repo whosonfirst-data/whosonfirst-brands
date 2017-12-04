@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414544, 
+  "wof:brand_name": "Country Cuts", 
+  "wof:brand_id": 1125160139, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
@@ -8,6 +15,6 @@
     "stylist", 
     "unisex"
   ], 
-  "wof:brand_name": "Country Cuts", 
-  "wof:brand_id": 1125160139
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416301
 }

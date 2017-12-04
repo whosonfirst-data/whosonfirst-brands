@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414465, 
+  "wof:brand_name": "Uncle Bob's Self-Storage", 
+  "wof:brand_id": 1125151057, 
+  "wof:categories": [
+    "sg:transportation=freight", 
+    "manufacturing_and_wholesale_goods:manufacturing=paper_products", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "storage", 
     "commercial", 
@@ -20,6 +30,6 @@
     "solid", 
     "who"
   ], 
-  "wof:brand_name": "Uncle Bob's Self-Storage", 
-  "wof:brand_id": 1125151057
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416238
 }

@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414542, 
+  "wof:brand_name": "The Jaeger Co. Ltd.", 
+  "wof:brand_id": 1125160025, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=crafts_and_fabrics"
+  ], 
   "wof:tags": [
     "shop", 
     "menswear", 
@@ -8,6 +13,6 @@
     "fabric", 
     "ladieswear"
   ], 
-  "wof:brand_name": "The Jaeger Co. Ltd.", 
-  "wof:brand_id": 1125160025
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416299
 }

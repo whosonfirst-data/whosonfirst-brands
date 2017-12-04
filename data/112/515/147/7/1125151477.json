@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414514, 
+  "wof:brand_name": "MetroPCS", 
+  "wof:brand_id": 1125151477, 
+  "wof:categories": [
+    "retail_goods:shopping=mobile_phones", 
+    "sg:retail_goods=shopping", 
+    "services:utilities=mobile_phone", 
+    "sg:services=utilities", 
+    "manufacturing_and_wholesale_goods:manufacturing=electronics", 
+    "services:utilities=telephone", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=communications"
+  ], 
   "wof:tags": [
     "cellular", 
     "equipment", 
@@ -11,6 +21,6 @@
     "communication", 
     "wireless"
   ], 
-  "wof:brand_name": "MetroPCS", 
-  "wof:brand_id": 1125151477
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416277
 }

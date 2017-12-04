@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414444, 
+  "wof:brand_name": "Storage USA", 
+  "wof:brand_id": 420575993, 
+  "wof:categories": [
+    "sg:transportation=freight", 
+    "services:retail=storage", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:manufacturing=paper_products", 
+    "services:real_estate=real_estate_operator", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=personal", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "storage", 
     "commercial", 
@@ -21,6 +33,6 @@
     "merchandise", 
     "nonresidential"
   ], 
-  "wof:brand_name": "Storage USA", 
-  "wof:brand_id": 420575993
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416222
 }

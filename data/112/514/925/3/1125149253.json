@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414562, 
+  "wof:brand_name": "ERA", 
+  "wof:brand_id": 1125149253, 
+  "wof:categories": [
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate", 
+    "services:insurance=insurance_agent", 
+    "sg:services=insurance", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "services:building_and_trades=construction", 
+    "services:personal=beauty_salon", 
+    "services:professional=management_and_consulting", 
+    "sg:food_and_drink=restaurant", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=building_and_trades", 
+    "sg:services=personal", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "broker", 
     "agency", 
@@ -41,6 +56,6 @@
     "transportation", 
     "vocational"
   ], 
-  "wof:brand_name": "ERA", 
-  "wof:brand_id": 1125149253
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416316
 }

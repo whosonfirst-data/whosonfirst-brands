@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414471, 
+  "wof:brand_name": "Tiffany", 
+  "wof:brand_id": 1125156313, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=jewelry", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=jewelry", 
+    "sg:services=personal", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "public_place:education=dance_studio", 
+    "retail_goods:shopping=florist", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:personal=beauty_salon", 
+    "services:real_estate=real_estate_operator", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:food_and_drink=restaurant", 
+    "sg:public_place=education", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "china", 
     "alteration", 
@@ -22,6 +40,6 @@
     "ware", 
     "watch"
   ], 
-  "wof:brand_name": "Tiffany", 
-  "wof:brand_id": 1125156313
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416243
 }

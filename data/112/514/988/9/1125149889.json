@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414560, 
+  "wof:brand_name": "Romano's Macaroni Grill", 
+  "wof:brand_id": 1125149889, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "services:health_services=doctor", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "italian", 
     "eating", 
@@ -10,6 +15,6 @@
     "american", 
     "dentist"
   ], 
-  "wof:brand_name": "Romano's Macaroni Grill", 
-  "wof:brand_id": 1125149889
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416314
 }

@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414560, 
+  "wof:brand_name": "Bath & Body Works", 
+  "wof:brand_id": 1125149213, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "sg:services=personal", 
+    "services:personal=skin_care", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "services:personal=day_spa", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:public_place=shopping_center", 
+    "services:personal=beauty_salon", 
+    "entertainment:sports_and_exercise=gym", 
+    "services:personal=hair_removal", 
+    "sg:entertainment=sports_and_exercise"
+  ], 
   "wof:tags": [
     "perfume", 
     "candle", 
@@ -26,6 +44,6 @@
     "studio", 
     "trainer"
   ], 
-  "wof:brand_name": "Bath & Body Works", 
-  "wof:brand_id": 1125149213
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416314
 }

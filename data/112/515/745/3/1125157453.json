@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414522, 
+  "wof:brand_name": "New York Sports Club", 
+  "wof:brand_id": 1125157453, 
+  "wof:categories": [
+    "sg:entertainment=sports_and_exercise", 
+    "entertainment:sports_and_exercise=gym", 
+    "entertainment:arena=sports_club", 
+    "sg:entertainment=arena", 
+    "sg:entertainment=recreation", 
+    "entertainment:sports_and_exercise=tennis_court", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "sg:retail_goods=shopping", 
+    "sg:services=communications", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "health", 
     "club", 
@@ -18,6 +30,6 @@
     "program", 
     "racquetball"
   ], 
-  "wof:brand_name": "New York Sports Club", 
-  "wof:brand_id": 1125157453
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416283
 }

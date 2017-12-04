@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414450, 
+  "wof:brand_name": "Service Master Co", 
+  "wof:brand_id": 420575127, 
+  "wof:categories": [
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:services=retail", 
+    "services:building_and_trades=construction", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional", 
+    "services:building_and_trades=plumbing", 
+    "services:utilities=sewage", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "carpet", 
     "rug", 
@@ -34,6 +47,6 @@
     "treatment", 
     "work"
   ], 
-  "wof:brand_name": "Service Master Co", 
-  "wof:brand_id": 420575127
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416226
 }

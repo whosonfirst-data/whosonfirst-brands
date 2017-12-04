@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414475, 
+  "wof:brand_name": "Crescent Electric Supply Co", 
+  "wof:brand_id": 1125155589, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "retail_goods:home_and_garden=building_materials", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:manufacturing=electronics", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "retail_goods:shopping=discount_and_variety_stores"
+  ], 
   "wof:tags": [
     "equipment", 
     "supply", 
@@ -12,6 +24,6 @@
     "equipment-testing", 
     "wholesale"
   ], 
-  "wof:brand_name": "Crescent Electric Supply Co", 
-  "wof:brand_id": 1125155589
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416246
 }

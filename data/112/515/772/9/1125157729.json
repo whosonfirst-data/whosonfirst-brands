@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414517, 
+  "wof:brand_name": "Tedeschi Food Shops", 
+  "wof:brand_id": 1125157729, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "retail_goods:food_and_beverages=specialty", 
+    "retail_goods:food_and_beverages=supermarket"
+  ], 
   "wof:tags": [
     "beer", 
     "grocers-specialty", 
@@ -8,6 +15,6 @@
     "wine", 
     "super"
   ], 
-  "wof:brand_name": "Tedeschi Food Shops", 
-  "wof:brand_id": 1125157729
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416280
 }

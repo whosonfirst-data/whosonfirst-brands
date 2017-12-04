@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414500, 
+  "wof:brand_name": "Greetings", 
+  "wof:brand_id": 1125159001, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "retail_goods:shopping=news", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=paper_products", 
+    "manufacturing_and_wholesale_goods:manufacturing=retail_goods", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "services:professional=advertising"
+  ], 
   "wof:tags": [
     "card", 
     "poster", 
@@ -23,6 +37,6 @@
     "promotional", 
     "wens-"
   ], 
-  "wof:brand_name": "Greetings", 
-  "wof:brand_id": 1125159001
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416266
 }

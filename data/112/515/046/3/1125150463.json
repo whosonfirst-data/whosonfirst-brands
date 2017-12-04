@@ -1,6 +1,33 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414476, 
+  "wof:brand_name": "Pitney Bowes", 
+  "wof:brand_id": 1125150463, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=office_equipment", 
+    "sg:services=professional", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "sg:retail_goods=shopping", 
+    "services:building_and_trades=equipment_rental", 
+    "services:professional=management_and_consulting", 
+    "sg:services=building_and_trades", 
+    "services:banks_and_credit_unions=bank", 
+    "services:professional=business_services", 
+    "sg:services=banks_and_credit_unions", 
+    "manufacturing_and_wholesale_goods:manufacturing=motor_vehicles_and_parts", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "services:professional=printing_and_photocopies", 
+    "services:retail=repair_shop", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "public_place:government=post_office", 
+    "services:professional=advertising", 
+    "services:professional=computer_services", 
+    "sg:public_place=government", 
+    "sg:transportation=freight", 
+    "manufacturing_and_wholesale_goods:wholesale=vending_machines", 
+    "services:professional=accounting_and_tax_preparation"
+  ], 
   "wof:tags": [
     "machine", 
     "equipment", 
@@ -73,6 +100,6 @@
     "testing", 
     "whole"
   ], 
-  "wof:brand_name": "Pitney Bowes", 
-  "wof:brand_id": 1125150463
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416247
 }

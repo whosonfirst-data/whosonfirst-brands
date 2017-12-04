@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414487, 
+  "wof:brand_name": "Relate", 
+  "wof:brand_id": 1125151087, 
+  "wof:categories": [
+    "services:professional=lawyer_and_legal_services", 
+    "sg:services=professional", 
+    "sg:services=personal", 
+    "retail_goods:shopping=thrift_store", 
+    "sg:retail_goods=shopping", 
+    "services:health_services=health_practitioner", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "advice", 
     "counselling", 
@@ -8,6 +17,6 @@
     "shop", 
     "psychologist"
   ], 
-  "wof:brand_name": "Relate", 
-  "wof:brand_id": 1125151087
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416256
 }

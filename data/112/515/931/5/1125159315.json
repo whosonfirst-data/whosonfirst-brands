@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414485, 
+  "wof:brand_name": "Muzak", 
+  "wof:brand_id": 1125159315, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "sg:services=communications", 
+    "manufacturing_and_wholesale_goods:manufacturing=electronics", 
+    "manufacturing_and_wholesale_goods:wholesale=music_publishers", 
+    "services:communications=film_and_video_production", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "retail_goods:shopping=musical_instruments", 
+    "services:building_and_trades=electrical", 
+    "services:communications=radio_station", 
+    "services:utilities=mobile_phone", 
+    "sg:services=building_and_trades", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "music", 
     "foreground", 
@@ -27,6 +47,6 @@
     "programming", 
     "signaling"
   ], 
-  "wof:brand_name": "Muzak", 
-  "wof:brand_id": 1125159315
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416254
 }

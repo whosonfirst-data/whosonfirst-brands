@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414553, 
+  "wof:brand_name": "Aeropostale", 
+  "wof:brand_id": 1125149833, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=used_merchandise", 
+    "sg:services=professional", 
+    "entertainment:sports_and_exercise=bicycle_rental", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "manufacturing_and_wholesale_goods:wholesale=metals_and_minerals", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "services:organizations=religious_organization", 
+    "services:professional=business_services", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "clothing", 
     "women's", 
@@ -21,6 +38,6 @@
     "wire", 
     "working"
   ], 
-  "wof:brand_name": "Aeropostale", 
-  "wof:brand_id": 1125149833
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416309
 }

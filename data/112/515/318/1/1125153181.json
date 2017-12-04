@@ -1,6 +1,31 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414527, 
+  "wof:brand_name": "Store", 
+  "wof:brand_id": 1125153181, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=used_merchandise", 
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "retail_goods:home_and_garden=furniture", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=jewelry", 
+    "retail_goods:shopping=pharmacy", 
+    "services:utilities=mobile_phone", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=social_services", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "grocer", 
     "general", 
@@ -35,6 +60,6 @@
     "telephone", 
     "welfare"
   ], 
-  "wof:brand_name": "Store", 
-  "wof:brand_id": 1125153181
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416288
 }

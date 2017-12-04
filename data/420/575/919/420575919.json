@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414445, 
+  "wof:brand_name": "Discount Auto Parts Inc", 
+  "wof:brand_id": 420575919, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "parts", 
     "automobile", 
@@ -17,6 +25,6 @@
     "supp", 
     "y"
   ], 
-  "wof:brand_name": "Discount Auto Parts Inc", 
-  "wof:brand_id": 420575919
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416222
 }

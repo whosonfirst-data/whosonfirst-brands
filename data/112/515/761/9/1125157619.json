@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414532, 
+  "wof:brand_name": "Golf USA", 
+  "wof:brand_id": 1125157619, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "entertainment:sports_and_exercise=golf", 
+    "sg:entertainment=sports_and_exercise", 
+    "manufacturing_and_wholesale_goods:wholesale=sporting_goods", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:retail=repair_shop", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "golf", 
     "equipment", 
@@ -14,6 +25,6 @@
     "refinishing", 
     "repair"
   ], 
-  "wof:brand_name": "Golf USA", 
-  "wof:brand_id": 1125157619
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416291
 }

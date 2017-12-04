@@ -1,6 +1,10 @@
 {
   "wof:brand_name": "Always Available 24 Hour Emergency Locksmith", 
   "wof:brand_id": 1125149033, 
+  "wof:categories": [
+    "services:building_and_trades=locksmith", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "key"
   ], 
@@ -8,6 +12,6 @@
     1125152123
   ], 
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414560, 
+  "wof:lastmodified": 1512416314, 
   "mz:is_current": 1
 }

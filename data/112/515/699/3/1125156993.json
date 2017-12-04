@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414505, 
+  "wof:brand_name": "Knights Of Columbus Insurance", 
+  "wof:brand_id": 1125156993, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "sg:services=organizations", 
+    "services:organizations=membership_organization", 
+    "services:insurance=hazard_insurance", 
+    "services:organizations=community_association", 
+    "services:professional=secretarial_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "fraternal", 
     "business", 
@@ -8,6 +18,6 @@
     "consultant", 
     "resume"
   ], 
-  "wof:brand_name": "Knights Of Columbus Insurance", 
-  "wof:brand_id": 1125156993
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416270
 }

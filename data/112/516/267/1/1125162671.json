@@ -1,12 +1,17 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414545, 
+  "wof:brand_name": "Innovus Inc", 
+  "wof:brand_id": 1125162671, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=computers", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "establishment", 
     "datum", 
     "equipment", 
     "processing"
   ], 
-  "wof:brand_name": "Innovus Inc", 
-  "wof:brand_id": 1125162671
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416302
 }

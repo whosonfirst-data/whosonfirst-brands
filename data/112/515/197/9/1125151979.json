@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414491, 
+  "wof:brand_name": "Cleaning Authority", 
+  "wof:brand_id": 1125151979, 
+  "wof:categories": [
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "sg:services=building_and_trades", 
+    "sg:services=retail", 
+    "services:retail=repair_shop", 
+    "services:professional=employment_agencies", 
+    "sg:services=professional", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "services:building_and_trades=equipment_rental", 
+    "manufacturing_and_wholesale_goods:wholesale=chemicals_and_plastics", 
+    "services:building_and_trades=construction", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "house", 
     "janitor", 
@@ -23,6 +37,6 @@
     "management", 
     "room"
   ], 
-  "wof:brand_name": "Cleaning Authority", 
-  "wof:brand_id": 1125151979
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416259
 }

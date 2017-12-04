@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414561, 
+  "wof:brand_name": "Kids Foot Locker", 
+  "wof:brand_id": 1125149775, 
+  "wof:categories": [
+    "retail_goods:shopping=shoes", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=baby_store", 
+    "entertainment:sports_and_exercise=bicycle_rental", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:entertainment=sports_and_exercise"
+  ], 
   "wof:tags": [
     "store", 
     "children's", 
@@ -9,6 +17,6 @@
     "athletic", 
     "clothing"
   ], 
-  "wof:brand_name": "Kids Foot Locker", 
-  "wof:brand_id": 1125149775
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416315
 }

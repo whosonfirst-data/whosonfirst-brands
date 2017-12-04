@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414478, 
+  "wof:brand_name": "A-1 Self Storage", 
+  "wof:brand_id": 1125155707, 
+  "wof:categories": [
+    "sg:transportation=freight", 
+    "sg:services=retail", 
+    "services:retail=storage", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:manufacturing=paper_products", 
+    "services:building_and_trades=construction", 
+    "services:professional=business_services", 
+    "services:retail=auto_rental", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=building_and_trades", 
+    "sg:services=personal", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "commercial", 
     "storage", 
@@ -25,6 +40,6 @@
     "truck", 
     "unit"
   ], 
-  "wof:brand_name": "A-1 Self Storage", 
-  "wof:brand_id": 1125155707
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416248
 }

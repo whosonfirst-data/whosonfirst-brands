@@ -1,7 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414472, 
-  "wof:tags": [], 
   "wof:brand_name": "Britannic Assurance Plc", 
-  "wof:brand_id": 1125154851
+  "wof:brand_id": 1125154851, 
+  "wof:categories": [
+    "services:insurance=insurance_agent", 
+    "sg:services=insurance", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416243
 }

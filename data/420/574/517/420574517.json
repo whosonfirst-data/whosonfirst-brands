@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414461, 
+  "wof:brand_name": "Regal Nails", 
+  "wof:brand_id": 420574517, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon", 
+    "manufacturing_and_wholesale_goods:wholesale=metals_and_minerals", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "manicuring", 
     "shop", 
@@ -12,6 +21,6 @@
     "preparation", 
     "toilet"
   ], 
-  "wof:brand_name": "Regal Nails", 
-  "wof:brand_id": 420574517
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416235
 }

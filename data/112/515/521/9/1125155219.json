@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414486, 
+  "wof:brand_name": "Asplundh Tree Expert Co", 
+  "wof:brand_id": 1125155219, 
+  "wof:categories": [
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=landscaping_services", 
+    "services:building_and_trades=construction"
+  ], 
   "wof:tags": [
     "tree", 
     "utility", 
@@ -19,6 +24,6 @@
     "primarily", 
     "shrub"
   ], 
-  "wof:brand_name": "Asplundh Tree Expert Co", 
-  "wof:brand_id": 1125155219
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416255
 }

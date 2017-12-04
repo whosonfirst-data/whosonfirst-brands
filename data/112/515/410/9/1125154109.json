@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414481, 
+  "wof:brand_name": "Church Of The Brethren", 
+  "wof:brand_id": 1125154109, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship"
+  ], 
   "wof:tags": [
     "church", 
     "brother", 
@@ -10,6 +16,6 @@
     "place", 
     "worship"
   ], 
-  "wof:brand_name": "Church Of The Brethren", 
-  "wof:brand_id": 1125154109
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416251
 }

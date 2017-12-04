@@ -1,10 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414561, 
+  "wof:brand_name": "Merry Maids Inc", 
+  "wof:brand_id": 1125149795, 
+  "wof:categories": [
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "house", 
     "home"
   ], 
-  "wof:brand_name": "Merry Maids Inc", 
-  "wof:brand_id": 1125149795
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416315
 }

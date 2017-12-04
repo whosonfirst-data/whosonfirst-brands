@@ -1,7 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414510, 
-  "wof:tags": [], 
   "wof:brand_name": "The Dental Surgery", 
-  "wof:brand_id": 1125154157
+  "wof:brand_id": 1125154157, 
+  "wof:categories": [
+    "services:health_services=dentist", 
+    "sg:services=health_services"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416275
 }

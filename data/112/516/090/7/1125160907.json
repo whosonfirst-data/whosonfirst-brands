@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414544, 
+  "wof:brand_name": "Manor Care Health Svc", 
+  "wof:brand_id": 1125160907, 
+  "wof:categories": [
+    "services:health_services=nursing_and_care_facility", 
+    "sg:services=health_services", 
+    "sg:services=social_services", 
+    "services:social_services=job_training", 
+    "services:social_services=adult_care"
+  ], 
   "wof:tags": [
     "home", 
     "convalescent", 
@@ -9,6 +16,6 @@
     "citizen", 
     "senior"
   ], 
-  "wof:brand_name": "Manor Care Health Svc", 
-  "wof:brand_id": 1125160907
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416301
 }

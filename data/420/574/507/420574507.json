@@ -1,6 +1,40 @@
 {
   "wof:brand_name": "Body Shop", 
   "wof:brand_id": 420574507, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "sg:services=retail", 
+    "services:retail=auto_repair", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "entertainment:sports_and_exercise=gym", 
+    "sg:entertainment=sports_and_exercise", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "services:personal=tattoo_parlor", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "sg:services=professional", 
+    "entertainment:arts_and_performance=theater", 
+    "manufacturing_and_wholesale_goods:wholesale=drugs", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:entertainment=arts_and_performance", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "manufacturing_and_wholesale_goods:wholesale=furniture", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:shopping=adult", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=florist", 
+    "services:building_and_trades=construction", 
+    "services:personal=skin_care", 
+    "services:personal=tanning_parlor", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "body", 
     "perfume", 
@@ -73,6 +107,6 @@
     1125159483
   ], 
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414463, 
+  "wof:lastmodified": 1512416236, 
   "mz:is_current": 1
 }

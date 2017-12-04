@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414517, 
+  "wof:brand_name": "In & Out Burger", 
+  "wof:brand_id": 1125150551, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "eat:restaurant=american", 
+    "eat_and_drink:eat=restaurant"
+  ], 
   "wof:tags": [
     "american", 
     "burger", 
@@ -11,6 +17,6 @@
     "style", 
     "take"
   ], 
-  "wof:brand_name": "In & Out Burger", 
-  "wof:brand_id": 1125150551
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416280
 }

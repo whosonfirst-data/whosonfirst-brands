@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414444, 
+  "wof:brand_name": "Olive Garden", 
+  "wof:brand_id": 420575983, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food"
+  ], 
   "wof:tags": [
     "italian", 
     "pasta", 
@@ -11,6 +15,6 @@
     "eating", 
     "drinking"
   ], 
-  "wof:brand_name": "Olive Garden", 
-  "wof:brand_id": 420575983
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416222
 }

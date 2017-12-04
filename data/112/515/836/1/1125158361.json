@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414526, 
+  "wof:brand_name": "Murphy Oil Usa Inc", 
+  "wof:brand_id": 1125158361, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "manufacturing_and_wholesale_goods:manufacturing=petroleum_products", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "services:professional=management_and_consulting", 
+    "sg:manufacturing_and_wholesale_goods=mining_and_drilling", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "gasoline", 
     "station", 
@@ -13,6 +22,6 @@
     "field", 
     "grocery"
   ], 
-  "wof:brand_name": "Murphy Oil Usa Inc", 
-  "wof:brand_id": 1125158361
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416287
 }

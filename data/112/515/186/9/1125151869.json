@@ -1,12 +1,21 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414519, 
+  "wof:brand_name": "Whitbread Hotel Co. Ltd.", 
+  "wof:brand_id": 1125151869, 
+  "wof:categories": [
+    "sg:food_and_drink=bars_and_pubs", 
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel", 
+    "entertainment:sports_and_exercise=golf", 
+    "public_place:government=office", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:public_place=government"
+  ], 
   "wof:tags": [
     "inn", 
     "pubs", 
     "armed", 
     "reserve"
   ], 
-  "wof:brand_name": "Whitbread Hotel Co. Ltd.", 
-  "wof:brand_id": 1125151869
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416281
 }

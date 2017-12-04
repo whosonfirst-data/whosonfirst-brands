@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414554, 
+  "wof:brand_name": "Knights Inn", 
+  "wof:brand_id": 1125149911, 
+  "wof:categories": [
+    "sg:entertainment=travel", 
+    "entertainment:travel=hotels_and_motels", 
+    "entertainment:travel=bed_and_breakfast", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "operation", 
     "eating", 
@@ -19,6 +26,6 @@
     "store", 
     "tourism"
   ], 
-  "wof:brand_name": "Knights Inn", 
-  "wof:brand_id": 1125149911
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416309
 }

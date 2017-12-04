@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414555, 
+  "wof:brand_name": "Ruby Tuesday", 
+  "wof:brand_id": 1125149331, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=shopping", 
+    "sg:food_and_drink=fast_food", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "eating", 
     "american", 
@@ -15,6 +24,6 @@
     "pizza", 
     "sandwich"
   ], 
-  "wof:brand_name": "Ruby Tuesday", 
-  "wof:brand_id": 1125149331
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416310
 }

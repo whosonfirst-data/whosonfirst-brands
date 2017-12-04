@@ -1,6 +1,18 @@
 {
   "wof:brand_name": "Payless Shoe Source", 
   "wof:brand_id": 420573809, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=shoes", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional", 
+    "retail_goods:shopping=department_store", 
+    "services:personal=shoe_repair_and_shine", 
+    "sg:public_place=shopping_center", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "store", 
     "shoe", 
@@ -24,6 +36,6 @@
     1125149567
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414454, 
+  "wof:lastmodified": 1512416229, 
   "mz:is_current": 1
 }

@@ -1,10 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414457, 
+  "wof:brand_name": "Employment Service Jobcentre", 
+  "wof:brand_id": 420574423, 
+  "wof:categories": [
+    "services:professional=employment_agencies", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "consultant", 
     "recruitment"
   ], 
-  "wof:brand_name": "Employment Service Jobcentre", 
-  "wof:brand_id": 420574423
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416231
 }

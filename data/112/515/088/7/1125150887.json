@@ -1,7 +1,10 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414499, 
-  "wof:tags": [], 
   "wof:brand_name": "Akropolis", 
-  "wof:brand_id": 1125150887
+  "wof:brand_id": 1125150887, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416265
 }

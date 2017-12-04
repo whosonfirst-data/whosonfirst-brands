@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414517, 
+  "wof:brand_name": "Wizard", 
+  "wof:brand_id": 1125150559, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=financial_services", 
+    "retail_goods:shopping=department_store", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "services:professional=management_and_consulting", 
+    "services:retail=auto_repair", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=personal", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "mortgage", 
     "finance", 
@@ -15,6 +29,6 @@
     "marketing", 
     "sewing"
   ], 
-  "wof:brand_name": "Wizard", 
-  "wof:brand_id": 1125150559
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416280
 }

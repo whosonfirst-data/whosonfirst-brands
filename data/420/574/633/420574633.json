@@ -1,6 +1,27 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414459, 
+  "wof:brand_name": "N Y City of", 
+  "wof:brand_id": 420574633, 
+  "wof:categories": [
+    "sg:public_place=education", 
+    "public_place:education=school", 
+    "sg:public_place=park", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:entertainment=museum", 
+    "entertainment:sports_and_exercise=sports_center", 
+    "services:health_services=hospital", 
+    "sg:services=health_services", 
+    "public_place:education=university", 
+    "entertainment:sports_and_exercise=ice_rink", 
+    "sg:services=professional", 
+    "entertainment:museum=zoo", 
+    "entertainment:sports_and_exercise=golf", 
+    "retail_goods:autos_and_motor_vehicles=motorcycle_sales", 
+    "retail_goods:shopping=pets_and_pet_supplies", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=computer_services", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "elementary", 
     "high", 
@@ -13,6 +34,6 @@
     "repair", 
     "store"
   ], 
-  "wof:brand_name": "N Y City of", 
-  "wof:brand_id": 420574633
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416233
 }

@@ -1,12 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414448, 
+  "wof:brand_name": "British Gas Energy Centre", 
+  "wof:brand_id": 420575605, 
+  "wof:categories": [
+    "retail_goods:home_and_garden=household_appliances", 
+    "sg:retail_goods=home_and_garden", 
+    "services:utilities=natural_gas", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "gas", 
     "domestic", 
     "centre", 
     "electrical"
   ], 
-  "wof:brand_name": "British Gas Energy Centre", 
-  "wof:brand_id": 420575605
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416224
 }

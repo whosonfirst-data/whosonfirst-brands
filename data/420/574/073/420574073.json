@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414463, 
+  "wof:brand_name": "United Methodist Church", 
+  "wof:brand_id": 420574073, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=religious_organization", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship", 
+    "services:social_services=child_care", 
+    "sg:services=social_services", 
+    "public_place:education=school", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:organizations=membership_organization", 
+    "services:professional=management_and_consulting", 
+    "sg:public_place=education", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "church", 
     "churches-methodist", 
@@ -21,6 +36,6 @@
     "child", 
     "united"
   ], 
-  "wof:brand_name": "United Methodist Church", 
-  "wof:brand_id": 420574073
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416236
 }

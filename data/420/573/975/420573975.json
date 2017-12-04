@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414454, 
+  "wof:brand_name": "Bank One", 
+  "wof:brand_id": 420573975, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:insurance=insurance_agent", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=management_and_consulting", 
+    "services:retail=auto_repair", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=insurance", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "national", 
     "commercial", 
@@ -41,6 +59,6 @@
     "up", 
     "used"
   ], 
-  "wof:brand_name": "Bank One", 
-  "wof:brand_id": 420573975
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416229
 }

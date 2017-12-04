@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414536, 
+  "wof:brand_name": "Tie Rack", 
+  "wof:brand_id": 1125156667, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=jewelry", 
+    "services:organizations=professional_association", 
+    "services:retail=auto_rental", 
+    "sg:services=organizations", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "tie", 
     "neckwear", 
@@ -12,6 +21,6 @@
     "furnishing", 
     "women's"
   ], 
-  "wof:brand_name": "Tie Rack", 
-  "wof:brand_id": 1125156667
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416295
 }

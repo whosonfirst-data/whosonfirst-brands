@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414555, 
+  "wof:brand_name": "M&T", 
+  "wof:brand_id": 1125149333, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:banks_and_credit_unions=financial_services", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "public_place:military_area=armory", 
+    "retail_goods:home_and_garden=building_materials", 
+    "services:building_and_trades=construction", 
+    "services:professional=management_and_consulting", 
+    "services:real_estate=real_estate_services", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=military_area", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=building_and_trades", 
+    "sg:services=professional", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "commercial", 
     "state", 
@@ -19,6 +37,6 @@
     "retail", 
     "sales"
   ], 
-  "wof:brand_name": "M&T", 
-  "wof:brand_id": 1125149333
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416310
 }

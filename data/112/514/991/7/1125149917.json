@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414554, 
+  "wof:brand_name": "Physiotherapy Associates Inc", 
+  "wof:brand_id": 1125149917, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=health_practitioner", 
+    "services:social_services=job_training", 
+    "sg:services=social_services", 
+    "services:health_services=doctor", 
+    "services:professional=accounting_and_tax_preparation", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "physical", 
     "therapist", 
@@ -15,6 +24,6 @@
     "physiotherapy", 
     "receivable"
   ], 
-  "wof:brand_name": "Physiotherapy Associates Inc", 
-  "wof:brand_id": 1125149917
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416309
 }

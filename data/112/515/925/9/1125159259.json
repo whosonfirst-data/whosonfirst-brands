@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414527, 
+  "wof:brand_name": "Fox & Hounds", 
+  "wof:brand_id": 1125159259, 
+  "wof:categories": [
+    "sg:food_and_drink=bars_and_pubs", 
+    "public_place:community_center=social", 
+    "sg:public_place=community_center", 
+    "sg:food_and_drink=restaurant", 
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel", 
+    "services:real_estate=real_estate_operator", 
+    "sg:services=professional", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "inn", 
     "pubs", 
@@ -14,6 +25,6 @@
     "guest", 
     "tavern"
   ], 
-  "wof:brand_name": "Fox & Hounds", 
-  "wof:brand_id": 1125159259
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416287
 }

@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414561, 
+  "wof:brand_name": "Thrivent Fincl For Lutherans", 
+  "wof:brand_id": 1125149501, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=life_insurance", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=organizations", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:insurance=hazard_insurance", 
+    "services:organizations=community_association", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:insurance=health_insurance", 
+    "services:organizations=membership_organization", 
+    "services:professional=computer_services"
+  ], 
   "wof:tags": [
     "fraternal", 
     "organization", 
@@ -30,6 +46,6 @@
     "s", 
     "social"
   ], 
-  "wof:brand_name": "Thrivent Fincl For Lutherans", 
-  "wof:brand_id": 1125149501
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416315
 }

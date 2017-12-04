@@ -1,11 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414550, 
+  "wof:brand_name": "CBFC Limited", 
+  "wof:brand_id": 1125162159, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=banks_and_credit_unions", 
+    "services:professional=business_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "financier", 
     "consultant", 
     "leasing"
   ], 
-  "wof:brand_name": "CBFC Limited", 
-  "wof:brand_id": 1125162159
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416305
 }

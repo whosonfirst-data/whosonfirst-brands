@@ -1,11 +1,20 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414544, 
+  "wof:brand_name": "Maes", 
+  "wof:brand_id": 1125162713, 
+  "wof:categories": [
+    "sg:food_and_drink=bakery", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:insurance=life_insurance", 
+    "services:professional=business_services", 
+    "sg:retail_goods=shopping", 
+    "sg:services=insurance", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "baker", 
     "confectioner", 
     "assurance"
   ], 
-  "wof:brand_name": "Maes", 
-  "wof:brand_id": 1125162713
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416301
 }

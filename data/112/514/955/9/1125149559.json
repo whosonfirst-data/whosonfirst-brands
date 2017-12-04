@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414557, 
+  "wof:brand_name": "Dick Smith Electronics", 
+  "wof:brand_id": 1125149559, 
+  "wof:categories": [
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "sg:retail_goods=shopping", 
+    "sg:services=communications"
+  ], 
   "wof:tags": [
     "equipment", 
     "electronic", 
@@ -10,6 +15,6 @@
     "hardware", 
     "radio"
   ], 
-  "wof:brand_name": "Dick Smith Electronics", 
-  "wof:brand_id": 1125149559
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416312
 }

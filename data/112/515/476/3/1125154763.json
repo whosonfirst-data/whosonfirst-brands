@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414534, 
+  "wof:brand_name": "Jefferson-Pilot", 
+  "wof:brand_id": 1125154763, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=life_insurance", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=communications", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:communications=television_station", 
+    "services:communications=news_services", 
+    "services:communications=radio_station", 
+    "services:insurance=hazard_insurance", 
+    "services:banks_and_credit_unions=bank", 
+    "services:insurance=health_insurance", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "carrier", 
     "agency", 
@@ -37,6 +54,6 @@
     "radio", 
     "underwriter"
   ], 
-  "wof:brand_name": "Jefferson-Pilot", 
-  "wof:brand_id": 1125154763
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416293
 }

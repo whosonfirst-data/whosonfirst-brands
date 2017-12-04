@@ -1,12 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414506, 
+  "wof:brand_name": "Le Nails", 
+  "wof:brand_id": 1125151847, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon"
+  ], 
   "wof:tags": [
     "manicuring", 
     "shop", 
     "nail", 
     "eyelash"
   ], 
-  "wof:brand_name": "Le Nails", 
-  "wof:brand_id": 1125151847
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416271
 }

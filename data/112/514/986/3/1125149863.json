@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414555, 
+  "wof:brand_name": "Disney Store", 
+  "wof:brand_id": 1125149863, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "manufacturing_and_wholesale_goods:manufacturing=jewelry", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=baby_store"
+  ], 
   "wof:tags": [
     "shop", 
     "family", 
@@ -15,6 +26,6 @@
     "furniture", 
     "gear"
   ], 
-  "wof:brand_name": "Disney Store", 
-  "wof:brand_id": 1125149863
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416310
 }

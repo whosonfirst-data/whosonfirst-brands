@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414523, 
+  "wof:brand_name": "Beauty World", 
+  "wof:brand_id": 1125155883, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "sg:retail_goods=shopping", 
+    "services:personal=beauty_salon", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:personal=barber", 
+    "retail_goods:shopping=department_store", 
+    "manufacturing_and_wholesale_goods:manufacturing=retail_goods", 
+    "services:personal=hair_removal", 
+    "services:personal=nail_salon", 
+    "services:personal=skin_care", 
+    "services:personal=tanning_parlor", 
+    "services:personal=tattoo_parlor", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "supply", 
     "shop", 
@@ -28,6 +46,6 @@
     "therapy", 
     "toupee"
   ], 
-  "wof:brand_name": "Beauty World", 
-  "wof:brand_id": 1125155883
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416285
 }

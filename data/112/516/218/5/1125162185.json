@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414540, 
+  "wof:brand_name": "Cigarettes For Less", 
+  "wof:brand_id": 1125162185, 
+  "wof:categories": [
+    "retail_goods:shopping=tobacco", 
+    "sg:retail_goods=shopping", 
+    "sg:retail_goods=food_and_beverages", 
+    "manufacturing_and_wholesale_goods:wholesale=tobacco_products", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "cigarette", 
     "cigar", 
@@ -8,6 +17,6 @@
     "product", 
     "shop"
   ], 
-  "wof:brand_name": "Cigarettes For Less", 
-  "wof:brand_id": 1125162185
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416298
 }

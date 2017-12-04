@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414514, 
+  "wof:brand_name": "Mervyns", 
+  "wof:brand_id": 1125153465, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:transportation=freight", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "clothing", 
     "department", 
@@ -21,6 +30,6 @@
     "warehouse", 
     "wear"
   ], 
-  "wof:brand_name": "Mervyns", 
-  "wof:brand_id": 1125153465
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416278
 }

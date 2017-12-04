@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414450, 
+  "wof:brand_name": "Chili's Grill & Bar", 
+  "wof:brand_id": 420575029, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:food_and_drink=fast_food"
+  ], 
   "wof:tags": [
     "american", 
     "family", 
@@ -19,6 +24,6 @@
     "new", 
     "barbecue"
   ], 
-  "wof:brand_name": "Chili's Grill & Bar", 
-  "wof:brand_id": 420575029
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416226
 }

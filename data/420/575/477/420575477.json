@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414450, 
+  "wof:brand_name": "Top Nails", 
+  "wof:brand_id": 420575477, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon", 
+    "manufacturing_and_wholesale_goods:manufacturing=retail_goods", 
+    "manufacturing_and_wholesale_goods:wholesale=metals_and_minerals", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:personal=hair_removal", 
+    "services:personal=massage", 
+    "services:personal=skin_care", 
+    "services:personal=tanning_parlor", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "manicuring", 
     "shop", 
@@ -12,6 +29,6 @@
     "product", 
     "salon"
   ], 
-  "wof:brand_name": "Top Nails", 
-  "wof:brand_id": 420575477
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416226
 }

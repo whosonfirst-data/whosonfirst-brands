@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414489, 
+  "wof:brand_name": "The Corner Shop", 
+  "wof:brand_id": 1125152435, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=news", 
+    "retail_goods:shopping=department_store", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "retail_goods:food_and_beverages=fruits_and_vegetables", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:food_and_drink=fast_food", 
+    "public_place:community_center=social", 
+    "retail_goods:food_and_beverages=chocolate", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:food_and_drink=cafe", 
+    "sg:food_and_drink=deli", 
+    "sg:public_place=community_center"
+  ], 
   "wof:tags": [
     "newsagent", 
     "greengrocer", 
@@ -9,6 +27,6 @@
     "take", 
     "chocolatiers"
   ], 
-  "wof:brand_name": "The Corner Shop", 
-  "wof:brand_id": 1125152435
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416257
 }

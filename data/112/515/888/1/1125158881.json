@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414471, 
+  "wof:brand_name": "Transouth Financial", 
+  "wof:brand_id": 1125158881, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=investment_brokerage"
+  ], 
   "wof:tags": [
     "loan", 
     "real estate", 
@@ -11,6 +16,6 @@
     "mortgage", 
     "personal"
   ], 
-  "wof:brand_name": "Transouth Financial", 
-  "wof:brand_id": 1125158881
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416242
 }

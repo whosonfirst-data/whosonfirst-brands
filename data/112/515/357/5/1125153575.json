@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414535, 
+  "wof:brand_name": "American Medical Response", 
+  "wof:brand_id": 1125153575, 
+  "wof:categories": [
+    "sg:transportation=local_transit", 
+    "sg:services=health_services", 
+    "services:health_services=hospital", 
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "services:health_services=clinic", 
+    "services:health_services=doctor", 
+    "services:health_services=medical_lab", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "ambulance", 
     "passenger", 
@@ -17,6 +30,6 @@
     "supply", 
     "urgent"
   ], 
-  "wof:brand_name": "American Medical Response", 
-  "wof:brand_id": 1125153575
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416294
 }

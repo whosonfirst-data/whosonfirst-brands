@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414544, 
+  "wof:brand_name": "State Office", 
+  "wof:brand_id": 1125162807, 
+  "wof:categories": [
+    "sg:public_place=government", 
+    "public_place:government=office", 
+    "public_place:government=jail", 
+    "services:health_services=nursing_and_care_facility", 
+    "services:organizations=nonprofit_organization", 
+    "sg:services=health_services", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "convalescent", 
     "correctional", 
@@ -9,6 +18,6 @@
     "institution", 
     "nonprofit"
   ], 
-  "wof:brand_name": "State Office", 
-  "wof:brand_id": 1125162807
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416301
 }

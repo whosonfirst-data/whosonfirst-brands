@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414549, 
+  "wof:brand_name": "Metals USA", 
+  "wof:brand_id": 1125160581, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=metals_and_minerals", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:wholesale=construction_materials", 
+    "retail_goods:home_and_garden=building_materials", 
+    "services:building_and_trades=construction", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=building_and_trades", 
+    "sg:services=professional", 
+    "services:professional=advertising", 
+    "services:professional=business_services", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "steel", 
     "center", 
@@ -42,6 +57,6 @@
     "welding", 
     "width"
   ], 
-  "wof:brand_name": "Metals USA", 
-  "wof:brand_id": 1125160581
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416305
 }

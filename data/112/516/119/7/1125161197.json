@@ -1,6 +1,42 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414546, 
+  "wof:brand_name": "Meridian", 
+  "wof:brand_id": 1125161197, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "sg:services=real_estate", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:services=professional", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:real_estate=real_estate_operator", 
+    "sg:services=banks_and_credit_unions", 
+    "entertainment:travel=hotels_and_motels", 
+    "retail_goods:home_and_garden=furniture", 
+    "services:building_and_trades=construction", 
+    "services:health_services=nursing_and_care_facility", 
+    "services:real_estate=real_estate_agent", 
+    "sg:entertainment=travel", 
+    "sg:food_and_drink=restaurant", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=building_and_trades", 
+    "sg:services=health_services", 
+    "manufacturing_and_wholesale_goods:manufacturing=furniture", 
+    "manufacturing_and_wholesale_goods:manufacturing=motor_vehicles_and_parts", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "public_place:military_area=air_force_base", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:insurance=health_insurance", 
+    "services:personal=beauty_salon", 
+    "services:professional=engineering", 
+    "services:professional=management_and_consulting", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=military_area", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=insurance", 
+    "sg:services=personal", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "apartment", 
     "establishment", 
@@ -37,6 +73,6 @@
     "trust", 
     "women's"
   ], 
-  "wof:brand_name": "Meridian", 
-  "wof:brand_id": 1125161197
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416303
 }

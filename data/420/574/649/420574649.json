@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414456, 
+  "wof:brand_name": "Staples The Office Superstore", 
+  "wof:brand_id": 420574649, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "services:professional=printing_and_photocopies", 
+    "sg:services=professional", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "copying", 
     "duplicating", 
@@ -12,6 +22,6 @@
     "form", 
     "system"
   ], 
-  "wof:brand_name": "Staples The Office Superstore", 
-  "wof:brand_id": 420574649
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416231
 }

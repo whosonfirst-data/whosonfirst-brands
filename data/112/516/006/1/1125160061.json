@@ -1,6 +1,41 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414543, 
+  "wof:brand_name": "ABS", 
+  "wof:brand_id": 1125160061, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "sg:services=building_and_trades", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "services:building_and_trades=construction", 
+    "services:professional=accounting_and_tax_preparation", 
+    "sg:services=retail", 
+    "services:professional=credit_reporting_and_collection", 
+    "services:professional=management_and_consulting", 
+    "manufacturing_and_wholesale_goods:wholesale=motor_vehicles", 
+    "services:building_and_trades=electrical", 
+    "services:insurance=insurance_agent", 
+    "services:retail=auto_repair", 
+    "sg:retail_goods=shopping", 
+    "sg:services=insurance", 
+    "manufacturing_and_wholesale_goods:farming=farm_and_veterinary_services", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "manufacturing_and_wholesale_goods:wholesale=office_equipment", 
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "services:health_services=hospital", 
+    "services:organizations=religious_organization", 
+    "services:professional=business_services", 
+    "services:professional=computer_services", 
+    "services:retail=animal_services", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=health_services", 
+    "sg:services=organizations", 
+    "sg:services=personal", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "establishment", 
     "contractor", 
@@ -57,6 +92,6 @@
     "storage", 
     "teller"
   ], 
-  "wof:brand_name": "ABS", 
-  "wof:brand_id": 1125160061
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416300
 }

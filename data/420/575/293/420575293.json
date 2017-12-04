@@ -1,6 +1,30 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414448, 
+  "wof:brand_name": "Walmart", 
+  "wof:brand_id": 420575293, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:shopping=mobile_phones", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:health_services=optometrist", 
+    "sg:services=health_services", 
+    "sg:services=retail", 
+    "retail_goods:shopping=pharmacy", 
+    "manufacturing_and_wholesale_goods:wholesale=computers", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "retail_goods:home_and_garden=building_materials", 
+    "services:retail=auto_repair", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:retail_goods=home_and_garden", 
+    "services:retail=photofinishing", 
+    "services:retail=portrait_studio", 
+    "sg:transportation=local_transit"
+  ], 
   "wof:tags": [
     "clothing", 
     "merchandise", 
@@ -16,6 +40,6 @@
     "photo", 
     "photography"
   ], 
-  "wof:brand_name": "Walmart", 
-  "wof:brand_id": 420575293
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416225
 }

@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414478, 
+  "wof:brand_name": "Ameriquest Mortgage Co", 
+  "wof:brand_id": 1125151927, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:professional=credit_reporting_and_collection", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "loan", 
     "real estate", 
@@ -14,6 +21,6 @@
     "personal", 
     "savings"
   ], 
-  "wof:brand_name": "Ameriquest Mortgage Co", 
-  "wof:brand_id": 1125151927
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416248
 }

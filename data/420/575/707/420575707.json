@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414447, 
+  "wof:brand_name": "Avon Products", 
+  "wof:brand_id": 420575707, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:professional=employment_agencies", 
+    "sg:services=professional", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "manufacturing_and_wholesale_goods:wholesale=chemicals_and_plastics", 
+    "public_place:education=kindergarten", 
+    "retail_goods:shopping=jewelry", 
+    "retail_goods:shopping=optical_goods", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "perfume", 
     "cosmetic", 
@@ -17,6 +34,6 @@
     "school", 
     "weight"
   ], 
-  "wof:brand_name": "Avon Products", 
-  "wof:brand_id": 420575707
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416224
 }

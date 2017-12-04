@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414473, 
+  "wof:brand_name": "Ntb-National Tire & Battery", 
+  "wof:brand_id": 1125159963, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:manufacturing=rubber_and_plastics", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "tire", 
     "brake", 
@@ -19,6 +29,6 @@
     "supply", 
     "work"
   ], 
-  "wof:brand_name": "Ntb-National Tire & Battery", 
-  "wof:brand_id": 1125159963
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416244
 }

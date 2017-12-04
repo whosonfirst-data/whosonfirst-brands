@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414508, 
+  "wof:brand_name": "Putt Putt Golf & Games", 
+  "wof:brand_id": 1125158611, 
+  "wof:categories": [
+    "sg:entertainment=recreation", 
+    "entertainment:recreation=amusement_park", 
+    "entertainment:recreation=miniature_golf", 
+    "entertainment:recreation=picnic_area", 
+    "manufacturing_and_wholesale_goods:wholesale=construction_materials", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "golf", 
     "course", 
@@ -28,6 +37,6 @@
     "vehicle", 
     "video"
   ], 
-  "wof:brand_name": "Putt Putt Golf & Games", 
-  "wof:brand_id": 1125158611
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416272
 }

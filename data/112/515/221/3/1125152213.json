@@ -1,6 +1,32 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414505, 
+  "wof:brand_name": "Human Resources", 
+  "wof:brand_id": 1125152213, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "sg:public_place=education", 
+    "services:professional=employment_agencies", 
+    "sg:services=health_services", 
+    "public_place:education=college", 
+    "services:health_services=hospital", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=social_services", 
+    "public_place:education=school", 
+    "services:banks_and_credit_unions=bank", 
+    "services:health_services=clinic", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "public_place:education=vocational_school", 
+    "public_place:government=city_hall", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:organizations=professional_association", 
+    "services:professional=business_services", 
+    "services:professional=detective_and_security_services", 
+    "services:social_services=adult_care", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "resource", 
     "human", 
@@ -60,6 +86,6 @@
     "trade", 
     "transportation"
   ], 
-  "wof:brand_name": "Human Resources", 
-  "wof:brand_id": 1125152213
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416270
 }

@@ -1,6 +1,9 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414505, 
+  "wof:brand_name": "National Weather Svc", 
+  "wof:brand_id": 1125157919, 
+  "wof:categories": [
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "agency", 
     "government", 
@@ -8,6 +11,6 @@
     "weather", 
     "establishment"
   ], 
-  "wof:brand_name": "National Weather Svc", 
-  "wof:brand_id": 1125157919
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416270
 }

@@ -1,6 +1,34 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414464, 
+  "wof:brand_name": "Greyhound Bus Lines", 
+  "wof:brand_id": 420574441, 
+  "wof:categories": [
+    "sg:transportation=local_transit", 
+    "sg:entertainment=travel", 
+    "sg:transportation=freight", 
+    "entertainment:travel=travel_agent", 
+    "sg:transportation=bus_station", 
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "sg:transportation=bus_charters", 
+    "sg:transportation=transit_center", 
+    "transportation:transit_center=passenger", 
+    "sg:transportation=airline", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:retail_goods=shopping", 
+    "entertainment:travel=hotels_and_motels", 
+    "public_place:landmark=tourist_information", 
+    "retail_goods:shopping=books", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "services:building_and_trades=plumbing", 
+    "services:organizations=labor_organization", 
+    "services:retail=repair_shop", 
+    "sg:food_and_drink=restaurant", 
+    "sg:public_place=landmark", 
+    "sg:services=building_and_trades", 
+    "sg:services=organizations", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "line", 
     "bus", 
@@ -48,6 +76,6 @@
     "tour", 
     "video"
   ], 
-  "wof:brand_name": "Greyhound Bus Lines", 
-  "wof:brand_id": 420574441
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416237
 }

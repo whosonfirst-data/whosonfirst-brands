@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414515, 
+  "wof:brand_name": "Ryder Integrated Logistics Inc", 
+  "wof:brand_id": 1125159359, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "services:retail=auto_rental", 
+    "sg:services=retail", 
+    "sg:transportation=freight", 
+    "services:professional=computer_services", 
+    "services:building_and_trades=equipment_rental", 
+    "sg:services=building_and_trades", 
+    "sg:transportation=school_buses"
+  ], 
   "wof:tags": [
     "logistics", 
     "leasing", 
@@ -20,6 +31,6 @@
     "warehouse", 
     "website"
   ], 
-  "wof:brand_name": "Ryder Integrated Logistics Inc", 
-  "wof:brand_id": 1125159359
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416278
 }

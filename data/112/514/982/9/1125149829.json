@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414563, 
+  "wof:brand_name": "Woodmen Of The World Insurance", 
+  "wof:brand_id": 1125149829, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:organizations=community_association", 
+    "sg:services=organizations", 
+    "entertainment:travel=campground", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:insurance=hazard_insurance", 
+    "sg:entertainment=travel", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "consultant", 
     "fraternal", 
@@ -10,6 +21,6 @@
     "commercial", 
     "financial"
   ], 
-  "wof:brand_name": "Woodmen Of The World Insurance", 
-  "wof:brand_id": 1125149829
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416316
 }

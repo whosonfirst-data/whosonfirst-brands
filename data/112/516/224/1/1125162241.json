@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414540, 
+  "wof:brand_name": "Food Stamps", 
+  "wof:brand_id": 1125162241, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=social_services", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:insurance=health_insurance", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=insurance"
+  ], 
   "wof:tags": [
     "resource", 
     "state", 
@@ -20,6 +31,6 @@
     "stamp", 
     "welfare"
   ], 
-  "wof:brand_name": "Food Stamps", 
-  "wof:brand_id": 1125162241
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416298
 }

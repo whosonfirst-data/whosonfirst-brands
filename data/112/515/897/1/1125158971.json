@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414492, 
+  "wof:brand_name": "Diva", 
+  "wof:brand_id": 1125158971, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "sg:services=professional", 
+    "retail_goods:shopping=shoes", 
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:home_and_garden=building_materials", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:shopping=adult", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:personal=nail_salon", 
+    "services:professional=business_services", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "clothing", 
     "shop", 
@@ -28,6 +44,6 @@
     "underwear", 
     "wedding"
   ], 
-  "wof:brand_name": "Diva", 
-  "wof:brand_id": 1125158971
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416260
 }

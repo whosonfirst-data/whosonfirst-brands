@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414514, 
+  "wof:brand_name": "Coach House", 
+  "wof:brand_id": 1125154619, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "entertainment:travel=hotels_and_motels", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:health_services=nursing_and_care_facility", 
+    "sg:entertainment=travel", 
+    "sg:services=health_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "shop", 
     "cards", 
@@ -15,6 +27,6 @@
     "seafood", 
     "steak"
   ], 
-  "wof:brand_name": "Coach House", 
-  "wof:brand_id": 1125154619
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416277
 }

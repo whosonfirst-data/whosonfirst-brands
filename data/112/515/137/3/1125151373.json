@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414489, 
+  "wof:brand_name": "Kindercare Child Care Network", 
+  "wof:brand_id": 1125151373, 
+  "wof:categories": [
+    "services:social_services=child_care", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "day", 
     "center", 
@@ -8,6 +12,6 @@
     "nursery", 
     "preschool"
   ], 
-  "wof:brand_name": "Kindercare Child Care Network", 
-  "wof:brand_id": 1125151373
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416257
 }

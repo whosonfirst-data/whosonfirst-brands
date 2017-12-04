@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414550, 
+  "wof:brand_name": "Speedy Mart", 
+  "wof:brand_id": 1125160667, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "alcoholic", 
     "beauty", 
@@ -9,6 +18,6 @@
     "super", 
     "supply"
   ], 
-  "wof:brand_name": "Speedy Mart", 
-  "wof:brand_id": 1125160667
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416306
 }

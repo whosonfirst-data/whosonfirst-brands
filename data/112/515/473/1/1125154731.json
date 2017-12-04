@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414484, 
+  "wof:brand_name": "Elite Nails", 
+  "wof:brand_id": 1125154731, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "manicuring", 
     "shop", 
@@ -8,6 +17,6 @@
     "equipment", 
     "establishment"
   ], 
-  "wof:brand_name": "Elite Nails", 
-  "wof:brand_id": 1125154731
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416253
 }

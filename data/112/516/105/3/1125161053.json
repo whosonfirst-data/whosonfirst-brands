@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414537, 
+  "wof:brand_name": "Child Protective Svc", 
+  "wof:brand_id": 1125161053, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:services=social_services", 
+    "services:social_services=child_care", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "resource", 
     "state", 
@@ -11,6 +18,6 @@
     "executive", 
     "government"
   ], 
-  "wof:brand_name": "Child Protective Svc", 
-  "wof:brand_id": 1125161053
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416296
 }

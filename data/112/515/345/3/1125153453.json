@@ -1,7 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414521, 
-  "wof:tags": [], 
   "wof:brand_name": "Independent Order of Odd", 
-  "wof:brand_id": 1125153453
+  "wof:brand_id": 1125153453, 
+  "wof:categories": [
+    "services:organizations=community_association", 
+    "sg:services=organizations"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416283
 }

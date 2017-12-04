@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414522, 
+  "wof:brand_name": "Savers", 
+  "wof:brand_id": 1125155303, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=used_merchandise", 
+    "retail_goods:shopping=thrift_store", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "manufacturing_and_wholesale_goods:manufacturing=glass_and_minerals", 
+    "retail_goods:shopping=pharmacy", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "shop", 
     "thrift", 
@@ -15,6 +29,6 @@
     "plate", 
     "window"
   ], 
-  "wof:brand_name": "Savers", 
-  "wof:brand_id": 1125155303
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416283
 }

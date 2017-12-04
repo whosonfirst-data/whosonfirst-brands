@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414517, 
+  "wof:brand_name": "Aetna", 
+  "wof:brand_id": 1125153919, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=health_insurance", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=hazard_insurance", 
+    "services:insurance=life_insurance", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "plan", 
     "carrier", 
@@ -13,6 +22,6 @@
     "hospital", 
     "investment"
   ], 
-  "wof:brand_name": "Aetna", 
-  "wof:brand_id": 1125153919
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416280
 }

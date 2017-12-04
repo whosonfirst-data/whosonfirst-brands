@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414515, 
+  "wof:brand_name": "Airborne", 
+  "wof:brand_id": 1125151817, 
+  "wof:categories": [
+    "sg:transportation=freight", 
+    "sg:transportation=airline", 
+    "sg:services=professional", 
+    "entertainment:sports_and_exercise=stables", 
+    "manufacturing_and_wholesale_goods:manufacturing=wood_products", 
+    "services:professional=advertising", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "arrangement", 
     "courier", 
@@ -34,6 +44,6 @@
     "t", 
     "truck"
   ], 
-  "wof:brand_name": "Airborne", 
-  "wof:brand_id": 1125151817
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416278
 }

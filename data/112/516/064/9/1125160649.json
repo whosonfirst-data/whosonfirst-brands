@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414538, 
+  "wof:brand_name": "Safeguard Self Storage", 
+  "wof:brand_id": 1125160649, 
+  "wof:categories": [
+    "sg:transportation=freight", 
+    "services:retail=storage", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:manufacturing=paper_products", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=professional", 
+    "entertainment:cinema=movie_rental", 
+    "public_place:structure=warehouse", 
+    "sg:entertainment=cinema", 
+    "sg:public_place=structure", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "commercial", 
     "storage", 
@@ -26,6 +39,6 @@
     "video", 
     "warehouses-public-commercial"
   ], 
-  "wof:brand_name": "Safeguard Self Storage", 
-  "wof:brand_id": 1125160649
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416296
 }

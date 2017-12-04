@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414552, 
+  "wof:brand_name": "Hubo", 
+  "wof:brand_id": 1125162665, 
+  "wof:categories": [
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=hardware", 
+    "retail_goods:home_and_garden=building_materials"
+  ], 
   "wof:tags": [
     "bois", 
     "gr", 
@@ -9,6 +14,6 @@
     "article", 
     "do-it-yourself"
   ], 
-  "wof:brand_name": "Hubo", 
-  "wof:brand_id": 1125162665
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416307
 }

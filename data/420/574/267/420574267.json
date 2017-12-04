@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414459, 
+  "wof:brand_name": "The Royal British Legion", 
+  "wof:brand_id": 420574267, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=membership_organization", 
+    "services:organizations=community_association", 
+    "services:organizations=nonprofit_organization", 
+    "services:health_services=nursing_and_care_facility", 
+    "services:social_services=retirement_home", 
+    "sg:services=health_services", 
+    "sg:services=social_services", 
+    "entertainment:arena=sports_club", 
+    "public_place:community_center=social", 
+    "public_place:government=city_hall", 
+    "sg:entertainment=arena", 
+    "sg:public_place=community_center", 
+    "sg:public_place=government", 
+    "sg:transportation=parking"
+  ], 
   "wof:tags": [
     "club", 
     "social", 
@@ -12,6 +29,6 @@
     "care", 
     "residential"
   ], 
-  "wof:brand_name": "The Royal British Legion", 
-  "wof:brand_id": 420574267
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416233
 }

@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414511, 
+  "wof:brand_name": "Interiors By Decorating Den", 
+  "wof:brand_id": 1125154217, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "services:professional=art_services", 
+    "retail_goods:home_and_garden=furniture", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "interior", 
     "decorator", 
@@ -23,6 +33,6 @@
     "vertical", 
     "wall"
   ], 
-  "wof:brand_name": "Interiors By Decorating Den", 
-  "wof:brand_id": 1125154217
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416275
 }

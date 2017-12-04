@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414500, 
+  "wof:brand_name": "Cruiseone", 
+  "wof:brand_id": 1125158075, 
+  "wof:categories": [
+    "entertainment:travel=travel_agent", 
+    "sg:entertainment=travel", 
+    "sg:transportation=marine", 
+    "sg:entertainment=recreation", 
+    "sg:services=professional", 
+    "entertainment:recreation=boat_charter", 
+    "public_place:education=vocational_school", 
+    "services:professional=management_and_consulting", 
+    "sg:public_place=education", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "agency", 
     "cruise", 
@@ -15,6 +27,6 @@
     "transportation", 
     "travel"
   ], 
-  "wof:brand_name": "Cruiseone", 
-  "wof:brand_id": 1125158075
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416266
 }

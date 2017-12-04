@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414458, 
+  "wof:brand_name": "Sylvan Learning Ctr", 
+  "wof:brand_id": 420574363, 
+  "wof:categories": [
+    "sg:public_place=education", 
+    "public_place:education=special_training", 
+    "public_place:education=school", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "tutoring", 
     "educational", 
@@ -13,6 +21,6 @@
     "school", 
     "center"
   ], 
-  "wof:brand_name": "Sylvan Learning Ctr", 
-  "wof:brand_id": 420574363
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416232
 }

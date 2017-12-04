@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414558, 
+  "wof:brand_name": "Yellow Cab", 
+  "wof:brand_id": 1125149163, 
+  "wof:categories": [
+    "sg:transportation=taxi", 
+    "sg:transportation=local_transit", 
+    "sg:transportation=airline", 
+    "sg:transportation=freight", 
+    "sg:transportation=airport", 
+    "sg:services=professional", 
+    "entertainment:travel=travel_agent", 
+    "sg:entertainment=travel", 
+    "services:professional=advertising", 
+    "services:professional=management_and_consulting"
+  ], 
   "wof:tags": [
     "taxicab", 
     "airport", 
@@ -22,6 +34,6 @@
     "transit", 
     "transport"
   ], 
-  "wof:brand_name": "Yellow Cab", 
-  "wof:brand_id": 1125149163
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416312
 }

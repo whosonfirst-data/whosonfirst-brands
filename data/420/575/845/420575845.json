@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414444, 
+  "wof:brand_name": "Baha'i Faith", 
+  "wof:brand_id": 420575845, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=religious_organization", 
+    "sg:entertainment=recreation", 
+    "sg:public_place=place_of_worship", 
+    "sg:services=professional", 
+    "entertainment:recreation=arcade", 
+    "public_place:place_of_worship=church", 
+    "services:health_services=chiropractor", 
+    "services:organizations=nonprofit_organization", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "church", 
     "organisation", 
@@ -18,6 +30,6 @@
     "synagogue", 
     "worship"
   ], 
-  "wof:brand_name": "Baha'i Faith", 
-  "wof:brand_id": 420575845
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416221
 }

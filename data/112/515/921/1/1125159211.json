@@ -1,7 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414511, 
-  "wof:tags": [], 
   "wof:brand_name": "Coffee Club The", 
-  "wof:brand_id": 1125159211
+  "wof:brand_id": 1125159211, 
+  "wof:categories": [
+    "sg:food_and_drink=cafe", 
+    "sg:food_and_drink=restaurant"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416275
 }

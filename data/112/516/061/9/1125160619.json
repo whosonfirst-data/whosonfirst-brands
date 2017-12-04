@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414537, 
+  "wof:brand_name": "Precision Automotive", 
+  "wof:brand_id": 1125160619, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "services:professional=engineering", 
+    "services:social_services=child_care", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=professional", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "automobile", 
     "repairing", 
@@ -18,6 +30,6 @@
     "supply", 
     "transmission"
   ], 
-  "wof:brand_name": "Precision Automotive", 
-  "wof:brand_id": 1125160619
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416296
 }

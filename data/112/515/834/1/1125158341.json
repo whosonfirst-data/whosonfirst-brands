@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414509, 
+  "wof:brand_name": "Local STD Testing", 
+  "wof:brand_id": 1125158341, 
+  "wof:categories": [
+    "sg:public_place=community_center", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "services:health_services=clinic", 
+    "sg:services=health_services", 
+    "services:health_services=medical_lab", 
+    "services:organizations=nonprofit_organization", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "medical", 
     "std", 
@@ -10,6 +20,6 @@
     "community", 
     "service/non-profit"
   ], 
-  "wof:brand_name": "Local STD Testing", 
-  "wof:brand_id": 1125158341
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416274
 }

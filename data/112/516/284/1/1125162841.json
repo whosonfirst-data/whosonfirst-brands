@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414539, 
+  "wof:brand_name": "Trugreen Chemlawn", 
+  "wof:brand_id": 1125162841, 
+  "wof:categories": [
+    "services:building_and_trades=landscaping_services", 
+    "sg:services=building_and_trades", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "lawn", 
     "grounds", 
@@ -10,6 +15,6 @@
     "care", 
     "establishment"
   ], 
-  "wof:brand_name": "Trugreen Chemlawn", 
-  "wof:brand_id": 1125162841
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416297
 }

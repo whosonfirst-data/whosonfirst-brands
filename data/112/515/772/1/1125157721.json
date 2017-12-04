@@ -1,6 +1,9 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414517, 
+  "wof:brand_name": "Steak-Out", 
+  "wof:brand_id": 1125157721, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "american", 
     "steakhouse", 
@@ -8,6 +11,6 @@
     "house", 
     "steak"
   ], 
-  "wof:brand_name": "Steak-Out", 
-  "wof:brand_id": 1125157721
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416280
 }

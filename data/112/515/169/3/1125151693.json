@@ -1,12 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414474, 
+  "wof:brand_name": "Ncp", 
+  "wof:brand_id": 1125151693, 
+  "wof:categories": [
+    "sg:transportation=parking", 
+    "services:communications=television_station", 
+    "sg:services=communications"
+  ], 
   "wof:tags": [
     "car", 
     "park", 
     "production", 
     "remote"
   ], 
-  "wof:brand_name": "Ncp", 
-  "wof:brand_id": 1125151693
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416245
 }

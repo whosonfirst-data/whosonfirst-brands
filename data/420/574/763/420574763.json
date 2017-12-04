@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414460, 
+  "wof:brand_name": "Flight Centre", 
+  "wof:brand_id": 420574763, 
+  "wof:categories": [
+    "entertainment:travel=travel_agent", 
+    "sg:entertainment=travel", 
+    "sg:transportation=airline"
+  ], 
   "wof:tags": [
     "consultant", 
     "tourism", 
@@ -11,6 +16,6 @@
     "bureau", 
     "agent"
   ], 
-  "wof:brand_name": "Flight Centre", 
-  "wof:brand_id": 420574763
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416234
 }

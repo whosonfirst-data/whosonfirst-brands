@@ -1,11 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414520, 
+  "wof:brand_name": "Mr Gatti's Pizza", 
+  "wof:brand_id": 1125155635, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "pizza", 
     "banquet", 
     "rooms"
   ], 
-  "wof:brand_name": "Mr Gatti's Pizza", 
-  "wof:brand_id": 1125155635
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416282
 }

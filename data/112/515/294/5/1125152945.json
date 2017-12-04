@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414533, 
+  "wof:brand_name": "Hair We Are", 
+  "wof:brand_id": 1125152945, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "manufacturing_and_wholesale_goods:wholesale=plants", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:personal=nail_salon", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "shop", 
     "hairdresser", 
@@ -14,6 +24,6 @@
     "toupee", 
     "wig"
   ], 
-  "wof:brand_name": "Hair We Are", 
-  "wof:brand_id": 1125152945
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416293
 }

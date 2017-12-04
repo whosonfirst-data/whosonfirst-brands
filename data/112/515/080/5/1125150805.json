@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414502, 
+  "wof:brand_name": "Just Brakes", 
+  "wof:brand_id": 1125150805, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "public_place:military_area=army_base", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:public_place=military_area", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "brake", 
     "automotive", 
@@ -19,6 +27,6 @@
     "tune", 
     "wholesaler"
   ], 
-  "wof:brand_name": "Just Brakes", 
-  "wof:brand_id": 1125150805
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416268
 }

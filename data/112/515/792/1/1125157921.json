@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414494, 
+  "wof:brand_name": "New Century Mortgage", 
+  "wof:brand_id": 1125157921, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=investment_brokerage"
+  ], 
   "wof:tags": [
     "loan", 
     "real estate", 
@@ -9,6 +15,6 @@
     "advisory", 
     "financial"
   ], 
-  "wof:brand_name": "New Century Mortgage", 
-  "wof:brand_id": 1125157921
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416261
 }

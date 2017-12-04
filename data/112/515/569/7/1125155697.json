@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414473, 
+  "wof:brand_name": "Twice As Nice", 
+  "wof:brand_id": 1125155697, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=used_merchandise", 
+    "retail_goods:shopping=jewelry", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:services=professional", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:services=personal", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "retail_goods:shopping=department_store", 
+    "services:building_and_trades=landscaping_services", 
+    "services:personal=adult", 
+    "services:personal=tattoo_parlor", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "-", 
     "shop", 
@@ -26,6 +42,6 @@
     "tree", 
     "woman"
   ], 
-  "wof:brand_name": "Twice As Nice", 
-  "wof:brand_id": 1125155697
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416244
 }

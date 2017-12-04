@@ -1,6 +1,38 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414476, 
+  "wof:brand_name": "Miller & Miller", 
+  "wof:brand_id": 1125155805, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:professional=accounting_and_tax_preparation", 
+    "sg:services=health_services", 
+    "sg:services=real_estate", 
+    "services:building_and_trades=construction", 
+    "services:insurance=insurance_agent", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=building_and_trades", 
+    "sg:services=insurance", 
+    "manufacturing_and_wholesale_goods:farming=farm", 
+    "services:health_services=doctor", 
+    "services:real_estate=real_estate_operator", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:manufacturing=lumber", 
+    "manufacturing_and_wholesale_goods:manufacturing=wood_products", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=musical_instruments", 
+    "services:health_services=clinic", 
+    "services:health_services=optometrist", 
+    "sg:entertainment=recreation", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "attorney", 
     "establishment", 
@@ -45,6 +77,6 @@
     "wheat", 
     "wills"
   ], 
-  "wof:brand_name": "Miller & Miller", 
-  "wof:brand_id": 1125155805
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416247
 }

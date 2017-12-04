@@ -1,6 +1,40 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414476, 
+  "wof:brand_name": "Sugar Shack", 
+  "wof:brand_id": 1125156855, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=candy", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:services=professional", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:entertainment=recreation", 
+    "sg:food_and_drink=ice_cream", 
+    "sg:services=personal", 
+    "entertainment:travel=hotels_and_motels", 
+    "food_and_drink:bars_and_pubs=dive_bar", 
+    "food_and_drink:bars_and_pubs=nightclub", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "manufacturing_and_wholesale_goods:wholesale=dairy", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "retail_goods:food_and_beverages=specialty", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:building_and_trades=construction", 
+    "services:personal=beauty_salon", 
+    "services:personal=skin_care", 
+    "services:professional=management_and_consulting", 
+    "services:professional=printing_and_photocopies", 
+    "sg:entertainment=travel", 
+    "sg:food_and_drink=bakery", 
+    "sg:food_and_drink=deli", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "eating", 
     "confectionery", 
@@ -44,6 +78,6 @@
     "wrap", 
     "yogurt"
   ], 
-  "wof:brand_name": "Sugar Shack", 
-  "wof:brand_id": 1125156855
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416246
 }

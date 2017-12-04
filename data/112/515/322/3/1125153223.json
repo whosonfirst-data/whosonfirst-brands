@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414518, 
+  "wof:brand_name": "Home Interiors & Gifts", 
+  "wof:brand_id": 1125153223, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:professional=business_services", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:shopping=catalog_store", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=pottery", 
+    "manufacturing_and_wholesale_goods:manufacturing=soap", 
+    "manufacturing_and_wholesale_goods:wholesale=home_furnishings", 
+    "retail_goods:home_and_garden=furniture", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=art_services", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "direct", 
     "retail", 
@@ -25,6 +45,6 @@
     "miscellaneous", 
     "store"
   ], 
-  "wof:brand_name": "Home Interiors & Gifts", 
-  "wof:brand_id": 1125153223
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416281
 }

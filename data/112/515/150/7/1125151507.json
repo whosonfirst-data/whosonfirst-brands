@@ -1,6 +1,27 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414520, 
+  "wof:brand_name": "Hartford", 
+  "wof:brand_id": 1125151507, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "sg:services=professional", 
+    "services:insurance=hazard_insurance", 
+    "services:insurance=life_insurance", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:insurance=health_insurance", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:professional=business_services", 
+    "services:organizations=membership_organization", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=detective_and_security_services", 
+    "services:professional=employment_agencies", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:professional=management_and_consulting", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=organizations", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "establishment", 
     "carrier", 
@@ -30,6 +51,6 @@
     "system", 
     "telemarketing"
   ], 
-  "wof:brand_name": "Hartford", 
-  "wof:brand_id": 1125151507
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416282
 }

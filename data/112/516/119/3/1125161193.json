@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414546, 
+  "wof:brand_name": "Meldisco K-M", 
+  "wof:brand_id": 1125161193, 
+  "wof:categories": [
+    "retail_goods:shopping=shoes", 
+    "sg:retail_goods=shopping", 
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "store", 
     "shoe", 
@@ -9,6 +14,6 @@
     "footwear", 
     "pizza"
   ], 
-  "wof:brand_name": "Meldisco K-M", 
-  "wof:brand_id": 1125161193
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416303
 }

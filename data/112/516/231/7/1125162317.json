@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414550, 
+  "wof:brand_name": "Mail & More", 
+  "wof:brand_id": 1125162317, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=advertising", 
+    "services:professional=business_services", 
+    "sg:transportation=freight", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "services:professional=printing_and_photocopies", 
+    "manufacturing_and_wholesale_goods:manufacturing=paper_products", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "manufacturing_and_wholesale_goods:manufacturing=rubber_and_plastics", 
+    "public_place:government=post_office", 
+    "retail_goods:home_and_garden=hardware", 
+    "services:professional=lawyer_and_legal_services", 
+    "sg:public_place=government", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "shipping", 
     "mailing", 
@@ -42,6 +59,6 @@
     "transmission", 
     "trucking"
   ], 
-  "wof:brand_name": "Mail & More", 
-  "wof:brand_id": 1125162317
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416306
 }

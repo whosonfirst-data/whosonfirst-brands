@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414529, 
+  "wof:brand_name": "Optus World", 
+  "wof:brand_id": 1125151145, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=mobile_phones", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "services:professional=employment_agencies", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "accessory", 
     "telephone", 
@@ -9,6 +16,6 @@
     "internet", 
     "provider"
   ], 
-  "wof:brand_name": "Optus World", 
-  "wof:brand_id": 1125151145
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416289
 }

@@ -1,6 +1,27 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414443, 
+  "wof:brand_name": "Rave", 
+  "wof:brand_id": 420575899, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=department_store", 
+    "sg:services=professional", 
+    "services:personal=beauty_salon", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=personal", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "manufacturing_and_wholesale_goods:wholesale=farm_supplies", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "retail_goods:shopping=pharmacy", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:communications=film_and_video_production", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=communications", 
+    "sg:transportation=local_transit"
+  ], 
   "wof:tags": [
     "women's", 
     "accessory", 
@@ -25,6 +46,6 @@
     "wear", 
     "wool"
   ], 
-  "wof:brand_name": "Rave", 
-  "wof:brand_id": 420575899
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416221
 }

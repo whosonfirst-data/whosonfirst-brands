@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414516, 
+  "wof:brand_name": "Woodmen Of The World Life Ins", 
+  "wof:brand_id": 1125156687, 
+  "wof:categories": [
+    "services:insurance=insurance_agent", 
+    "sg:services=insurance", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:organizations=community_association", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=organizations", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "center", 
     "consultant", 
@@ -10,6 +19,6 @@
     "planning", 
     "youth"
   ], 
-  "wof:brand_name": "Woodmen Of The World Life Ins", 
-  "wof:brand_id": 1125156687
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416278
 }

@@ -1,6 +1,27 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414495, 
+  "wof:brand_name": "GMAC", 
+  "wof:brand_id": 1125150235, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=professional", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:professional=business_services", 
+    "manufacturing_and_wholesale_goods:manufacturing=motor_vehicles_and_parts", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:insurance=insurance_agent", 
+    "services:professional=credit_reporting_and_collection", 
+    "services:professional=management_and_consulting", 
+    "services:real_estate=developer", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=insurance"
+  ], 
   "wof:tags": [
     "mortgage", 
     "loan", 
@@ -52,6 +73,6 @@
     "used", 
     "utility"
   ], 
-  "wof:brand_name": "GMAC", 
-  "wof:brand_id": 1125150235
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416263
 }

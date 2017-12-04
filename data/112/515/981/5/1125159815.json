@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414528, 
+  "wof:brand_name": "C H S", 
+  "wof:brand_id": 1125159815, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:wholesale=farm_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "sg:transportation=freight", 
+    "manufacturing_and_wholesale_goods:farming=farm_and_veterinary_services", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "manufacturing_and_wholesale_goods:manufacturing=signs", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "services:utilities=fuel_oil_and_lpg", 
+    "sg:services=retail", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "bean", 
     "petroleum", 
@@ -50,6 +64,6 @@
     "trucking", 
     "warehouse"
   ], 
-  "wof:brand_name": "C H S", 
-  "wof:brand_id": 1125159815
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416289
 }

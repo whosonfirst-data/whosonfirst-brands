@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414465, 
+  "wof:brand_name": "Super Nails", 
+  "wof:brand_id": 1125152743, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "services:building_and_trades=construction", 
+    "sg:retail_goods=shopping", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "manicuring", 
     "shop", 
@@ -9,6 +18,6 @@
     "supply", 
     "technician"
   ], 
-  "wof:brand_name": "Super Nails", 
-  "wof:brand_id": 1125152743
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416238
 }

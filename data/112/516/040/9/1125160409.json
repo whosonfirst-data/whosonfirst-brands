@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414539, 
+  "wof:brand_name": "Academy Sports & Outdoors", 
+  "wof:brand_id": 1125160409, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "entertainment:sports_and_exercise=bicycle_rental", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=shoes", 
+    "sg:entertainment=sports_and_exercise"
+  ], 
   "wof:tags": [
     "apparel", 
     "athletic", 
@@ -14,6 +23,6 @@
     "store", 
     "wear"
   ], 
-  "wof:brand_name": "Academy Sports & Outdoors", 
-  "wof:brand_id": 1125160409
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416297
 }

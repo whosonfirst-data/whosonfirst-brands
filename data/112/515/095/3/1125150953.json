@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414493, 
+  "wof:brand_name": "Pep Boys Automotive Supercenters", 
+  "wof:brand_id": 1125150953, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "services:retail=auto_rental", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "check", 
     "smog", 
@@ -8,6 +19,6 @@
     "car", 
     "part"
   ], 
-  "wof:brand_name": "Pep Boys Automotive Supercenters", 
-  "wof:brand_id": 1125150953
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416260
 }

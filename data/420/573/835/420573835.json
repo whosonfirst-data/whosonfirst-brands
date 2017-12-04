@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414453, 
+  "wof:brand_name": "Advance America", 
+  "wof:brand_id": 420573835, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "check", 
     "cashing", 
@@ -22,6 +32,6 @@
     "dealer", 
     "establishment"
   ], 
-  "wof:brand_name": "Advance America", 
-  "wof:brand_id": 420573835
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416228
 }

@@ -1,6 +1,32 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414549, 
+  "wof:brand_name": "Needful Things", 
+  "wof:brand_id": 1125161553, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=used_merchandise", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=professional", 
+    "retail_goods:home_and_garden=furniture", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:services=personal", 
+    "manufacturing_and_wholesale_goods:manufacturing=jewelry", 
+    "retail_goods:food_and_beverages=specialty", 
+    "retail_goods:home_and_garden=hardware", 
+    "retail_goods:shopping=antiques", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "retail_goods:shopping=crafts_and_fabrics", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "retail_goods:shopping=jewelry", 
+    "retail_goods:shopping=thrift_store", 
+    "services:building_and_trades=construction", 
+    "services:personal=psychics_and_astrologers", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "shop", 
     "antique", 
@@ -28,6 +54,6 @@
     "thrift", 
     "video"
   ], 
-  "wof:brand_name": "Needful Things", 
-  "wof:brand_id": 1125161553
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416305
 }

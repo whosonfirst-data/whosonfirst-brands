@@ -1,6 +1,30 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414516, 
+  "wof:brand_name": "Trends", 
+  "wof:brand_id": 1125159415, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:shopping=jewelry", 
+    "manufacturing_and_wholesale_goods:manufacturing=jewelry", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:shopping=bridal", 
+    "retail_goods:shopping=party_supplies", 
+    "retail_goods:shopping=pawn_shop", 
+    "retail_goods:shopping=shoes", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:professional=research", 
+    "services:retail=event_space", 
+    "services:social_services=child_care", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=professional", 
+    "sg:services=retail", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "shop", 
     "furnishing", 
@@ -41,6 +65,6 @@
     "watch", 
     "wedding"
   ], 
-  "wof:brand_name": "Trends", 
-  "wof:brand_id": 1125159415
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416279
 }

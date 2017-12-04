@@ -1,10 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414483, 
+  "wof:brand_name": "Spring Skills", 
+  "wof:brand_id": 1125159697, 
+  "wof:categories": [
+    "public_place:education=special_training", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "centre", 
     "product"
   ], 
-  "wof:brand_name": "Spring Skills", 
-  "wof:brand_id": 1125159697
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416252
 }

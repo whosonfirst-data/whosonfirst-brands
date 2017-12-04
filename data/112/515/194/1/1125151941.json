@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414510, 
+  "wof:brand_name": "City National Bank", 
+  "wof:brand_id": 1125151941, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=financial_services"
+  ], 
   "wof:tags": [
     "commercial", 
     "national", 
@@ -9,6 +14,6 @@
     "mortgage", 
     "state"
   ], 
-  "wof:brand_name": "City National Bank", 
-  "wof:brand_id": 1125151941
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416274
 }

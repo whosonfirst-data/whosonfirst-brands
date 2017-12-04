@@ -1,9 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414554, 
+  "wof:brand_name": "Pearle Opticiens", 
+  "wof:brand_id": 1125149953, 
+  "wof:categories": [
+    "retail_goods:shopping=optician", 
+    "sg:retail_goods=shopping", 
+    "services:health_services=optometrist", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "-"
   ], 
-  "wof:brand_name": "Pearle Opticiens", 
-  "wof:brand_id": 1125149953
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416309
 }

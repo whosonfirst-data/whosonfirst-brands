@@ -1,7 +1,12 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414455, 
-  "wof:tags": [], 
   "wof:brand_name": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale", 
-  "wof:brand_id": 420573849
+  "wof:brand_id": 420573849, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:public_place=industrial_area"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416229
 }

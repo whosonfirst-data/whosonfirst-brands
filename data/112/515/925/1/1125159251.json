@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414527, 
+  "wof:brand_name": "First Union", 
+  "wof:brand_id": 1125159251, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=professional", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:professional=management_and_consulting", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "commercial", 
     "mortgage", 
@@ -18,6 +26,6 @@
     "security", 
     "state"
   ], 
-  "wof:brand_name": "First Union", 
-  "wof:brand_id": 1125159251
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416287
 }

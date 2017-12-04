@@ -1,6 +1,33 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414563, 
+  "wof:brand_name": "Public Works", 
+  "wof:brand_id": 1125149825, 
+  "wof:categories": [
+    "sg:public_place=government", 
+    "public_place:government=office", 
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=construction", 
+    "sg:services=utilities", 
+    "sg:services=professional", 
+    "services:utilities=water", 
+    "sg:services=retail", 
+    "services:professional=management_and_consulting", 
+    "services:retail=repair_shop", 
+    "services:utilities=recycling", 
+    "sg:entertainment=recreation", 
+    "sg:services=real_estate", 
+    "sg:transportation=freight", 
+    "public_place:government=city_hall", 
+    "public_place:government=court_house", 
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "services:professional=engineering", 
+    "services:professional=research", 
+    "services:real_estate=developer", 
+    "services:real_estate=real_estate_services", 
+    "services:retail=auto_repair", 
+    "services:utilities=electric", 
+    "services:utilities=refuse", 
+    "sg:public_place=military_area"
+  ], 
   "wof:tags": [
     "maintenance", 
     "marking", 
@@ -90,6 +117,6 @@
     "water", 
     "work"
   ], 
-  "wof:brand_name": "Public Works", 
-  "wof:brand_id": 1125149825
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416316
 }

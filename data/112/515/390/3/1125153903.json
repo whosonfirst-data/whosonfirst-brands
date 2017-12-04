@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414499, 
+  "wof:brand_name": "Supermarkt", 
+  "wof:brand_id": 1125153903, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=fruits_and_vegetables", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "l\u00e9gumes"
   ], 
-  "wof:brand_name": "Supermarkt", 
-  "wof:brand_id": 1125153903
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416266
 }

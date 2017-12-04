@@ -1,6 +1,27 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414456, 
+  "wof:brand_name": "EB Games", 
+  "wof:brand_id": 420574781, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "entertainment:cinema=movie_rental", 
+    "sg:entertainment=cinema", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=computers", 
+    "retail_goods:shopping=music", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=jewelry", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "retail_goods:shopping=jewelry", 
+    "services:professional=computer_services", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "retail_goods:shopping=books", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "services:professional=business_services"
+  ], 
   "wof:tags": [
     "video", 
     "game", 
@@ -30,6 +51,6 @@
     "music", 
     "sport"
   ], 
-  "wof:brand_name": "EB Games", 
-  "wof:brand_id": 420574781
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416231
 }

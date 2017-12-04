@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414495, 
+  "wof:brand_name": "Monumental Life Insurance Co", 
+  "wof:brand_id": 1125152535, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=life_insurance", 
+    "services:insurance=health_insurance", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "carrier", 
     "agency", 
@@ -14,6 +22,6 @@
     "broker", 
     "company"
   ], 
-  "wof:brand_name": "Monumental Life Insurance Co", 
-  "wof:brand_id": 1125152535
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416262
 }

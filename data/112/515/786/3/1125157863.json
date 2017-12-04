@@ -1,6 +1,37 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414474, 
+  "wof:brand_name": "Innovations", 
+  "wof:brand_id": 1125157863, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "sg:services=professional", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:professional=business_services", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "services:building_and_trades=construction", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:manufacturing=signs", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "manufacturing_and_wholesale_goods:wholesale=photographic_equipment", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "retail_goods:home_and_garden=building_materials", 
+    "retail_goods:home_and_garden=hardware", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "services:personal=hair_removal", 
+    "services:personal=tanning_parlor", 
+    "services:professional=advertising", 
+    "services:professional=computer_services", 
+    "services:professional=printing_and_photocopies", 
+    "services:retail=auto_repair", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "shop", 
     "design", 
@@ -41,6 +72,6 @@
     "vinyl", 
     "wallpaper"
   ], 
-  "wof:brand_name": "Innovations", 
-  "wof:brand_id": 1125157863
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416245
 }

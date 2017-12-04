@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414548, 
+  "wof:brand_name": "Etam", 
+  "wof:brand_id": 1125162229, 
+  "wof:categories": [
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "dame", 
     "pour", 
@@ -11,6 +15,6 @@
     "clothing", 
     "lady"
   ], 
-  "wof:brand_name": "Etam", 
-  "wof:brand_id": 1125162229
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416304
 }

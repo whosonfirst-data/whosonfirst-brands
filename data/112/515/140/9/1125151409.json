@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414516, 
+  "wof:brand_name": "Clinique DE Physiotherapie", 
+  "wof:brand_id": 1125151409, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=doctor", 
+    "services:health_services=health_practitioner", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "physiotherapist", 
     "clinic", 
@@ -10,6 +16,6 @@
     "massage", 
     "physical"
   ], 
-  "wof:brand_name": "Clinique DE Physiotherapie", 
-  "wof:brand_id": 1125151409
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416279
 }

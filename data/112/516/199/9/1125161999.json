@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414551, 
+  "wof:brand_name": "Shipley Donuts", 
+  "wof:brand_id": 1125161999, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:retail_goods=food_and_beverages", 
+    "food_and_drink:donuts=none", 
+    "sg:food_and_drink=donuts", 
+    "sg:food_and_drink=restaurant", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "sg:food_and_drink=bakery", 
+    "sg:food_and_drink=coffee_and_tea", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "doughnut", 
     "shop", 
@@ -9,6 +20,6 @@
     "eating", 
     "espresso"
   ], 
-  "wof:brand_name": "Shipley Donuts", 
-  "wof:brand_id": 1125161999
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416307
 }

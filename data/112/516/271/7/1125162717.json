@@ -1,12 +1,19 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414544, 
+  "wof:brand_name": "Mattress World", 
+  "wof:brand_id": 1125162717, 
+  "wof:categories": [
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:home_and_garden=carpets_and_floor_coverings", 
+    "manufacturing_and_wholesale_goods:wholesale=furniture", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "mattress", 
     "bed", 
     "store", 
     "retail"
   ], 
-  "wof:brand_name": "Mattress World", 
-  "wof:brand_id": 1125162717
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416301
 }

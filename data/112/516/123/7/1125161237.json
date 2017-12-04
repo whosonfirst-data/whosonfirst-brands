@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414540, 
+  "wof:brand_name": "Pepperidge Farm Incorporated", 
+  "wof:brand_id": 1125161237, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:retail_goods=food_and_beverages", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:transportation=freight", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:farming=farm", 
+    "services:professional=management_and_consulting", 
+    "services:professional=testing_lab", 
+    "sg:manufacturing_and_wholesale_goods=farming"
+  ], 
   "wof:tags": [
     "mfg", 
     "product", 
@@ -25,6 +39,6 @@
     "truck", 
     "warehouse"
   ], 
-  "wof:brand_name": "Pepperidge Farm Incorporated", 
-  "wof:brand_id": 1125161237
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416298
 }

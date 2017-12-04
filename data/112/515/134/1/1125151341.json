@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414478, 
+  "wof:brand_name": "Adecco Employment Services", 
+  "wof:brand_id": 1125151341, 
+  "wof:categories": [
+    "services:professional=employment_agencies", 
+    "sg:services=professional", 
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=construction", 
+    "services:building_and_trades=pest_control", 
+    "services:professional=accounting_and_tax_preparation"
+  ], 
   "wof:tags": [
     "help", 
     "supply", 
@@ -10,6 +18,6 @@
     "bookkeeping", 
     "opportunity"
   ], 
-  "wof:brand_name": "Adecco Employment Services", 
-  "wof:brand_id": 1125151341
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416248
 }

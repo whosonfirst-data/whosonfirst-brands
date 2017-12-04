@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414457, 
+  "wof:brand_name": "Granada Home Technology", 
+  "wof:brand_id": 420574735, 
+  "wof:categories": [
+    "sg:services=communications", 
+    "services:communications=film_and_video_production", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "tv", 
     "dvd", 
@@ -8,6 +14,6 @@
     "rental", 
     "video"
   ], 
-  "wof:brand_name": "Granada Home Technology", 
-  "wof:brand_id": 420574735
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416231
 }

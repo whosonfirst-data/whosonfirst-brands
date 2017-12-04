@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414561, 
+  "wof:brand_name": "Associated Press", 
+  "wof:brand_id": 1125149753, 
+  "wof:categories": [
+    "sg:services=communications", 
+    "services:communications=news_services", 
+    "services:communications=newspaper", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "retail_goods:shopping=news", 
+    "services:organizations=professional_association", 
+    "services:professional=advertising", 
+    "sg:retail_goods=shopping", 
+    "sg:services=organizations", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "syndicate", 
     "feature", 
@@ -13,6 +26,6 @@
     "gathering", 
     "information"
   ], 
-  "wof:brand_name": "Associated Press", 
-  "wof:brand_id": 1125149753
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416315
 }

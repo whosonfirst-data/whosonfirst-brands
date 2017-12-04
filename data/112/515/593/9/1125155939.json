@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414501, 
+  "wof:brand_name": "Jong, De", 
+  "wof:brand_id": 1125155939, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:farming=fish_and_marine_products", 
+    "sg:manufacturing_and_wholesale_goods=farming"
+  ], 
   "wof:tags": [
     "vi"
   ], 
-  "wof:brand_name": "Jong, De", 
-  "wof:brand_id": 1125155939
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416267
 }

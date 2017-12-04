@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414523, 
+  "wof:brand_name": "Snap Fitness", 
+  "wof:brand_id": 1125153057, 
+  "wof:categories": [
+    "sg:entertainment=sports_and_exercise", 
+    "entertainment:sports_and_exercise=gym", 
+    "entertainment:arena=sports_club", 
+    "sg:entertainment=arena", 
+    "sg:services=personal", 
+    "sg:services=health_services", 
+    "services:health_services=clinic", 
+    "services:health_services=health_practitioner", 
+    "entertainment:sports_and_exercise=playing_field"
+  ], 
   "wof:tags": [
     "trainer", 
     "health", 
@@ -24,6 +35,6 @@
     "reducing", 
     "treatment"
   ], 
-  "wof:brand_name": "Snap Fitness", 
-  "wof:brand_id": 1125153057
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416284
 }

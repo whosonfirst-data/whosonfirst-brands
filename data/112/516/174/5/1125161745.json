@@ -1,6 +1,9 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414552, 
+  "wof:brand_name": "Captain Ds", 
+  "wof:brand_id": 1125161745, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "eating", 
     "seafood", 
@@ -9,6 +12,6 @@
     "drinking", 
     "specializing"
   ], 
-  "wof:brand_name": "Captain Ds", 
-  "wof:brand_id": 1125161745
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416308
 }

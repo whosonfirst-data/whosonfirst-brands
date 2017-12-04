@@ -1,10 +1,16 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414539, 
+  "wof:brand_name": "Anita", 
+  "wof:brand_id": 1125161695, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:farming=fish_and_marine_products", 
+    "sg:food_and_drink=cafe", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "snack-bars", 
     "vi"
   ], 
-  "wof:brand_name": "Anita", 
-  "wof:brand_id": 1125161695
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416297
 }

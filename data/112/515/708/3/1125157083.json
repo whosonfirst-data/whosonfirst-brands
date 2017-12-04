@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414472, 
+  "wof:brand_name": "Ten Thousand Villages", 
+  "wof:brand_id": 1125157083, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:shopping=jewelry", 
+    "sg:services=social_services", 
+    "manufacturing_and_wholesale_goods:wholesale=toys_and_hobbies", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "retail_goods:shopping=crafts_and_fabrics", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "services:organizations=nonprofit_organization", 
+    "services:social_services=job_training", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "shop", 
     "decor", 
@@ -23,6 +40,6 @@
     "store", 
     "supply"
   ], 
-  "wof:brand_name": "Ten Thousand Villages", 
-  "wof:brand_id": 1125157083
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416243
 }

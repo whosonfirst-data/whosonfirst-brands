@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414448, 
+  "wof:brand_name": "New York Life", 
+  "wof:brand_id": 420575515, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=life_insurance", 
+    "services:insurance=hazard_insurance", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=professional", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:insurance=health_insurance", 
+    "services:professional=management_and_consulting", 
+    "services:professional=business_services", 
+    "services:building_and_trades=construction", 
+    "services:health_services=doctor", 
+    "services:professional=computer_services", 
+    "sg:services=building_and_trades", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "carrier", 
     "business", 
@@ -40,6 +58,6 @@
     "programing", 
     "term"
   ], 
-  "wof:brand_name": "New York Life", 
-  "wof:brand_id": 420575515
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416225
 }

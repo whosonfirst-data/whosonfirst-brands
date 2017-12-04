@@ -1,6 +1,31 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414536, 
+  "wof:brand_name": "Attic", 
+  "wof:brand_id": 1125156027, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=used_merchandise", 
+    "sg:transportation=freight", 
+    "sg:services=professional", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:shopping=shoes", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=personal", 
+    "sg:services=social_services", 
+    "food_and_drink:bars_and_pubs=lounge", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "manufacturing_and_wholesale_goods:wholesale=furniture", 
+    "services:personal=barber", 
+    "services:personal=beauty_salon", 
+    "services:professional=business_services", 
+    "services:retail=repair_shop", 
+    "sg:entertainment=recreation", 
+    "sg:food_and_drink=restaurant", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "shop", 
     "commercial", 
@@ -43,6 +68,6 @@
     "tanning", 
     "uniform"
   ], 
-  "wof:brand_name": "Attic", 
-  "wof:brand_id": 1125156027
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416295
 }

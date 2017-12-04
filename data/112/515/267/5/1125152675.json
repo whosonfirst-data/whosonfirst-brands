@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414499, 
+  "wof:brand_name": "Select Comfort", 
+  "wof:brand_id": 1125152675, 
+  "wof:categories": [
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=carpets_and_floor_coverings", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "entertainment:travel=hotels_and_motels", 
+    "retail_goods:shopping=department_store", 
+    "sg:entertainment=travel", 
+    "sg:public_place=shopping_center", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "mattress", 
     "bed", 
@@ -8,6 +19,6 @@
     "set", 
     "equipment"
   ], 
-  "wof:brand_name": "Select Comfort", 
-  "wof:brand_id": 1125152675
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416266
 }

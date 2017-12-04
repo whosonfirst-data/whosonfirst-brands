@@ -1,6 +1,27 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414543, 
+  "wof:brand_name": "Anderson & Anderson", 
+  "wof:brand_id": 1125161373, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:professional=accounting_and_tax_preparation", 
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=construction", 
+    "services:building_and_trades=landscaping_services", 
+    "sg:services=health_services", 
+    "sg:services=real_estate", 
+    "sg:services=retail", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:health_services=doctor", 
+    "services:health_services=health_practitioner", 
+    "services:professional=management_and_consulting", 
+    "services:real_estate=real_estate_operator", 
+    "services:real_estate=real_estate_services", 
+    "services:retail=portrait_studio", 
+    "services:retail=selfservice_laundry", 
+    "sg:entertainment=recreation", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "establishment", 
     "attorney", 
@@ -29,6 +50,6 @@
     "title", 
     "tree"
   ], 
-  "wof:brand_name": "Anderson & Anderson", 
-  "wof:brand_id": 1125161373
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416300
 }

@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414546, 
+  "wof:brand_name": "Premier Bank", 
+  "wof:brand_id": 1125161247, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "services:professional=credit_reporting_and_collection", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "commercial", 
     "state", 
@@ -11,6 +17,6 @@
     "federal", 
     "savings"
   ], 
-  "wof:brand_name": "Premier Bank", 
-  "wof:brand_id": 1125161247
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416302
 }

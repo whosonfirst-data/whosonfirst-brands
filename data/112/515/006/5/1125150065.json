@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414489, 
+  "wof:brand_name": "Ben Franklin", 
+  "wof:brand_id": 1125150065, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=computers", 
+    "manufacturing_and_wholesale_goods:wholesale=plants", 
+    "retail_goods:home_and_garden=hardware", 
+    "retail_goods:shopping=crafts_and_fabrics", 
+    "retail_goods:shopping=florist", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:professional=management_and_consulting", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "shop", 
     "craft", 
@@ -19,6 +35,6 @@
     "software", 
     "supplies-wholesale"
   ], 
-  "wof:brand_name": "Ben Franklin", 
-  "wof:brand_id": 1125150065
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416257
 }

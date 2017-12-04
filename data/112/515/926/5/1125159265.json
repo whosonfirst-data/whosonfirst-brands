@@ -1,6 +1,25 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414519, 
+  "wof:brand_name": "Good Guys", 
+  "wof:brand_id": 1125159265, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "sg:services=retail", 
+    "services:retail=portrait_studio", 
+    "services:professional=computer_services", 
+    "sg:services=professional", 
+    "sg:services=utilities", 
+    "manufacturing_and_wholesale_goods:manufacturing=aerospace", 
+    "manufacturing_and_wholesale_goods:wholesale=computers", 
+    "retail_goods:shopping=photographic_equipment", 
+    "services:building_and_trades=landscaping_services", 
+    "services:retail=car_wash", 
+    "services:utilities=mobile_phone", 
+    "services:utilities=refuse", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "supply", 
     "electronic", 
@@ -20,6 +39,6 @@
     "tree", 
     "washing"
   ], 
-  "wof:brand_name": "Good Guys", 
-  "wof:brand_id": 1125159265
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416281
 }

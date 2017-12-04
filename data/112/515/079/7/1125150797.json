@@ -1,6 +1,30 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414476, 
+  "wof:brand_name": "Corporate Express", 
+  "wof:brand_id": 1125150797, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=furniture", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "manufacturing_and_wholesale_goods:manufacturing=paper_products", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "manufacturing_and_wholesale_goods:manufacturing=furniture", 
+    "retail_goods:home_and_garden=furniture", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:transportation=freight", 
+    "manufacturing_and_wholesale_goods:wholesale=office_equipment", 
+    "manufacturing_and_wholesale_goods:wholesale=painting_supplies", 
+    "public_place:education=school", 
+    "services:professional=advertising", 
+    "services:professional=business_services", 
+    "services:professional=printing_and_photocopies", 
+    "sg:public_place=education", 
+    "sg:transportation=airline"
+  ], 
   "wof:tags": [
     "equipment", 
     "supply", 
@@ -35,6 +59,6 @@
     "truck", 
     "trucking"
   ], 
-  "wof:brand_name": "Corporate Express", 
-  "wof:brand_id": 1125150797
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416247
 }

@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414542, 
+  "wof:brand_name": "Bianca", 
+  "wof:brand_id": 1125160091, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:manufacturing=textiles", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:retail=repair_shop", 
+    "sg:food_and_drink=restaurant", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=personal", 
+    "sg:services=retail", 
+    "sg:transportation=parking", 
+    "transportation:parking=lot"
+  ], 
   "wof:tags": [
     "american", 
     "investor", 
@@ -8,6 +23,6 @@
     "silverware", 
     "transport"
   ], 
-  "wof:brand_name": "Bianca", 
-  "wof:brand_id": 1125160091
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416300
 }

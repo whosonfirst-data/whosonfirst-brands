@@ -1,12 +1,21 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414516, 
+  "wof:brand_name": "Republican Headquarters", 
+  "wof:brand_id": 1125156469, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=political_organization", 
+    "services:organizations=professional_association", 
+    "sg:services=professional", 
+    "public_place:government=office", 
+    "services:professional=employment_agencies", 
+    "sg:public_place=government"
+  ], 
   "wof:tags": [
     "establishment", 
     "campaign", 
     "car", 
     "employer"
   ], 
-  "wof:brand_name": "Republican Headquarters", 
-  "wof:brand_id": 1125156469
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416279
 }

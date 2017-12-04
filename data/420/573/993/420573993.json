@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414453, 
+  "wof:brand_name": "Schools", 
+  "wof:brand_id": 420573993, 
+  "wof:categories": [
+    "public_place:education=school", 
+    "sg:public_place=education", 
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:education=preschool", 
+    "services:social_services=child_care", 
+    "sg:services=social_services", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "public_place:education=special_training", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "elementary", 
     "high", 
@@ -10,6 +22,6 @@
     "day", 
     "educational"
   ], 
-  "wof:brand_name": "Schools", 
-  "wof:brand_id": 420573993
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416228
 }

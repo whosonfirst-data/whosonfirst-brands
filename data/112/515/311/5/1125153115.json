@@ -1,10 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414470, 
+  "wof:brand_name": "Schmidt", 
+  "wof:brand_id": 1125153115, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:manufacturing=lumber", 
+    "retail_goods:home_and_garden=kitchen_supply", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "installation", 
     "timber"
   ], 
-  "wof:brand_name": "Schmidt", 
-  "wof:brand_id": 1125153115
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416241
 }

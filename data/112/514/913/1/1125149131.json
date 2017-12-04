@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414561, 
+  "wof:brand_name": "A 24 Hour Emergency Locksmith", 
+  "wof:brand_id": 1125149131, 
+  "wof:categories": [
+    "services:building_and_trades=locksmith", 
+    "sg:services=building_and_trades", 
+    "services:retail=repair_shop", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:manufacturing=soap", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "key", 
     "lock", 
@@ -10,6 +18,6 @@
     "locksmiths-commercial", 
     "manufacturer"
   ], 
-  "wof:brand_name": "A 24 Hour Emergency Locksmith", 
-  "wof:brand_id": 1125149131
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416315
 }

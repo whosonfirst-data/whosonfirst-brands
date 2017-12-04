@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414543, 
+  "wof:brand_name": "Critter Sitters", 
+  "wof:brand_id": 1125161773, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=animal_services", 
+    "sg:services=personal", 
+    "services:retail=pet_boarding", 
+    "manufacturing_and_wholesale_goods:farming=livestock_farm", 
+    "manufacturing_and_wholesale_goods:manufacturing=lumber", 
+    "retail_goods:shopping=pets_and_pet_supplies", 
+    "services:social_services=child_care", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:public_place=animal_shelter", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "pet", 
     "sitting", 
@@ -15,6 +31,6 @@
     "specialty", 
     "store"
   ], 
-  "wof:brand_name": "Critter Sitters", 
-  "wof:brand_id": 1125161773
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416300
 }

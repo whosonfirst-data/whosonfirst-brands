@@ -1,12 +1,24 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414467, 
+  "wof:brand_name": "American Bowling Congress", 
+  "wof:brand_id": 1125151969, 
+  "wof:categories": [
+    "entertainment:sports_and_exercise=bowling", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:services=organizations", 
+    "services:organizations=membership_organization", 
+    "sg:entertainment=recreation", 
+    "manufacturing_and_wholesale_goods:wholesale=sporting_goods", 
+    "services:organizations=community_association", 
+    "services:organizations=nonprofit_organization", 
+    "services:organizations=professional_association", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "center", 
     "club", 
     "membership", 
     "athletic"
   ], 
-  "wof:brand_name": "American Bowling Congress", 
-  "wof:brand_id": 1125151969
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416240
 }

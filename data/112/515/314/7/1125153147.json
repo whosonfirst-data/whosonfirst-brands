@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414467, 
+  "wof:brand_name": "First Federal Savings Bank", 
+  "wof:brand_id": 1125153147, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "savings", 
     "federal", 
@@ -15,6 +22,6 @@
     "mortgage", 
     "real estate"
   ], 
-  "wof:brand_name": "First Federal Savings Bank", 
-  "wof:brand_id": 1125153147
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416240
 }

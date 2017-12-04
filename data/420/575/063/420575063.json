@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414452, 
+  "wof:brand_name": "Hancock Fabrics", 
+  "wof:brand_id": 420575063, 
+  "wof:categories": [
+    "retail_goods:shopping=crafts_and_fabrics", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:home_and_garden=furniture", 
+    "sg:retail_goods=home_and_garden", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "shop", 
     "store", 
@@ -21,6 +33,6 @@
     "ar", 
     "equipment"
   ], 
-  "wof:brand_name": "Hancock Fabrics", 
-  "wof:brand_id": 420575063
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416228
 }

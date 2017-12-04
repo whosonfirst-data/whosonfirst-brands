@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414497, 
+  "wof:brand_name": "Union Bank", 
+  "wof:brand_id": 1125151615, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "commercial", 
     "saving", 
@@ -11,6 +17,6 @@
     "mortgage", 
     "national"
   ], 
-  "wof:brand_name": "Union Bank", 
-  "wof:brand_id": 1125151615
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416264
 }

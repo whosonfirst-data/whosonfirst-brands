@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414553, 
+  "wof:brand_name": "A 1 Emergency Locksmith", 
+  "wof:brand_id": 1125148801, 
+  "wof:categories": [
+    "services:building_and_trades=locksmith", 
+    "sg:services=building_and_trades", 
+    "services:retail=repair_shop", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "key", 
     "lock", 
@@ -8,6 +14,6 @@
     "industrial", 
     "locksmiths-commercial"
   ], 
-  "wof:brand_name": "A 1 Emergency Locksmith", 
-  "wof:brand_id": 1125148801
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416308
 }

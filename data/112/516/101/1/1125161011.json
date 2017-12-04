@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414539, 
+  "wof:brand_name": "ABC Stores", 
+  "wof:brand_id": 1125161011, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "public_place:government=office", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "sg:public_place=government", 
+    "sg:public_place=shopping_center"
+  ], 
   "wof:tags": [
     "alcoholic", 
     "shop", 
@@ -10,6 +21,6 @@
     "department", 
     "store"
   ], 
-  "wof:brand_name": "ABC Stores", 
-  "wof:brand_id": 1125161011
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416297
 }

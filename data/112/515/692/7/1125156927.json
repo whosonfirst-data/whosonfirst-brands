@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414487, 
+  "wof:brand_name": "Cali Nails", 
+  "wof:brand_id": 1125156927, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "manicuring", 
     "shop", 
@@ -8,6 +14,6 @@
     "nail", 
     "perfume"
   ], 
-  "wof:brand_name": "Cali Nails", 
-  "wof:brand_id": 1125156927
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416256
 }

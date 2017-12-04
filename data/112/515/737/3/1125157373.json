@@ -1,6 +1,30 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414510, 
+  "wof:brand_name": "Dr Vinyl", 
+  "wof:brand_id": 1125157373, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=auto_repair", 
+    "services:retail=repair_shop", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=building_and_trades", 
+    "retail_goods:home_and_garden=carpets_and_floor_coverings", 
+    "services:building_and_trades=construction", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "manufacturing_and_wholesale_goods:manufacturing=rubber_and_plastics", 
+    "manufacturing_and_wholesale_goods:manufacturing=signs", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "retail_goods:autos_and_motor_vehicles=boat_sales", 
+    "retail_goods:home_and_garden=furniture", 
+    "services:building_and_trades=electrical", 
+    "services:health_services=doctor", 
+    "services:professional=detective_and_security_services", 
+    "services:retail=car_wash", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=health_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "body", 
     "automobile", 
@@ -35,6 +59,6 @@
     "unsupported", 
     "upholsterer"
   ], 
-  "wof:brand_name": "Dr Vinyl", 
-  "wof:brand_id": 1125157373
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416274
 }

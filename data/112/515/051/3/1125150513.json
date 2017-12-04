@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414534, 
+  "wof:brand_name": "Mt Olive Baptist Church", 
+  "wof:brand_id": 1125150513, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship"
+  ], 
   "wof:tags": [
     "church", 
     "churches-baptist", 
@@ -8,6 +14,6 @@
     "baptist", 
     "clergy"
   ], 
-  "wof:brand_name": "Mt Olive Baptist Church", 
-  "wof:brand_id": 1125150513
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416293
 }

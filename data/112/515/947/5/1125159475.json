@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414512, 
+  "wof:brand_name": "Beauty Mart", 
+  "wof:brand_id": 1125159475, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "services:personal=barber", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "manufacturing_and_wholesale_goods:wholesale=drugs", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "supply", 
     "perfume", 
@@ -21,6 +34,6 @@
     "e", 
     "school"
   ], 
-  "wof:brand_name": "Beauty Mart", 
-  "wof:brand_id": 1125159475
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416276
 }

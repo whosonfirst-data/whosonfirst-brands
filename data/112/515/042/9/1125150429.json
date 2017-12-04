@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414478, 
+  "wof:brand_name": "84 Lumber", 
+  "wof:brand_id": 1125150429, 
+  "wof:categories": [
+    "retail_goods:home_and_garden=building_materials", 
+    "sg:retail_goods=home_and_garden", 
+    "manufacturing_and_wholesale_goods:manufacturing=wood_products", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "lumber", 
     "center", 
@@ -12,6 +18,6 @@
     "supply", 
     "wood"
   ], 
-  "wof:brand_name": "84 Lumber", 
-  "wof:brand_id": 1125150429
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416249
 }

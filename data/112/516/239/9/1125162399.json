@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414538, 
+  "wof:brand_name": "Ryder Truck Rental", 
+  "wof:brand_id": 1125162399, 
+  "wof:categories": [
+    "services:retail=auto_rental", 
+    "sg:services=retail", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "leasing", 
     "renting", 
@@ -10,6 +16,6 @@
     "car", 
     "rental"
   ], 
-  "wof:brand_name": "Ryder Truck Rental", 
-  "wof:brand_id": 1125162399
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416296
 }

@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414471, 
+  "wof:brand_name": "Probation Office", 
+  "wof:brand_id": 1125154797, 
+  "wof:categories": [
+    "sg:services=social_services", 
+    "sg:public_place=government", 
+    "public_place:government=jail", 
+    "public_place:government=court_house", 
+    "public_place:government=office"
+  ], 
   "wof:tags": [
     "probation", 
     "executive", 
@@ -11,6 +18,6 @@
     "justice", 
     "parole"
   ], 
-  "wof:brand_name": "Probation Office", 
-  "wof:brand_id": 1125154797
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416243
 }

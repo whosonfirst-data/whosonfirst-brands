@@ -1,11 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414515, 
+  "wof:brand_name": "ANZ", 
+  "wof:brand_id": 1125150227, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services"
+  ], 
   "wof:tags": [
     "finance", 
     "loan", 
     "mortgage"
   ], 
-  "wof:brand_name": "ANZ", 
-  "wof:brand_id": 1125150227
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416278
 }

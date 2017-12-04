@@ -1,6 +1,25 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414543, 
+  "wof:brand_name": "Rhino Linings", 
+  "wof:brand_id": 1125161971, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "manufacturing_and_wholesale_goods:manufacturing=motor_vehicles_and_parts", 
+    "manufacturing_and_wholesale_goods:wholesale=construction_materials", 
+    "retail_goods:autos_and_motor_vehicles=recreational_vehicle_sales", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "retail_goods:autos_and_motor_vehicles=motorcycle_sales", 
+    "retail_goods:home_and_garden=building_materials", 
+    "services:professional=detective_and_security_services", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "truck", 
     "accessory", 
@@ -37,6 +56,6 @@
     "vehicles-supplies", 
     "wheel"
   ], 
-  "wof:brand_name": "Rhino Linings", 
-  "wof:brand_id": 1125161971
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416300
 }

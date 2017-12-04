@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414538, 
+  "wof:brand_name": "Affordable Storage", 
+  "wof:brand_id": 1125162119, 
+  "wof:categories": [
+    "sg:transportation=freight", 
+    "services:retail=storage", 
+    "sg:services=retail", 
+    "public_place:structure=warehouse", 
+    "sg:entertainment=recreation", 
+    "sg:public_place=structure", 
+    "entertainment:recreation=boat_charter", 
+    "entertainment:recreation=marina", 
+    "services:professional=business_services", 
+    "sg:retail_goods=shopping", 
+    "sg:services=personal", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "commercial", 
     "storage", 
@@ -20,6 +34,6 @@
     "recreational", 
     "vehicle"
   ], 
-  "wof:brand_name": "Affordable Storage", 
-  "wof:brand_id": 1125162119
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416296
 }

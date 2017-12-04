@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414525, 
+  "wof:brand_name": "Hunan Chinese Restaurant", 
+  "wof:brand_id": 1125152407, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=specialty", 
+    "services:retail=event_space", 
+    "sg:food_and_drink=fast_food", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "eating", 
     "chinese", 
@@ -13,6 +21,6 @@
     "hall", 
     "reception"
   ], 
-  "wof:brand_name": "Hunan Chinese Restaurant", 
-  "wof:brand_id": 1125152407
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416286
 }

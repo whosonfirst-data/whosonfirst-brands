@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414491, 
+  "wof:brand_name": "Smurfit-Stone Container Corp", 
+  "wof:brand_id": 1125154811, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=paper_products", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "manufacturing_and_wholesale_goods:manufacturing=retail_goods", 
+    "manufacturing_and_wholesale_goods:wholesale=chemicals_and_plastics"
+  ], 
   "wof:tags": [
     "box", 
     "fiber", 
@@ -23,6 +31,6 @@
     "plant", 
     "sheet"
   ], 
-  "wof:brand_name": "Smurfit-Stone Container Corp", 
-  "wof:brand_id": 1125154811
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416258
 }

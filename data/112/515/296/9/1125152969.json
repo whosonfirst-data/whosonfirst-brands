@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414465, 
+  "wof:brand_name": "Oracle", 
+  "wof:brand_id": 1125152969, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=computer_services", 
+    "manufacturing_and_wholesale_goods:wholesale=computers", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "services:professional=management_and_consulting", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:professional=business_services", 
+    "sg:retail_goods=shopping", 
+    "entertainment:arts_and_performance=theater", 
+    "services:communications=newspaper", 
+    "services:organizations=religious_organization", 
+    "services:professional=accounting_and_tax_preparation", 
+    "sg:entertainment=arts_and_performance", 
+    "sg:services=communications", 
+    "sg:services=organizations", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "software", 
     "prepackaged", 
@@ -41,6 +61,6 @@
     "theatrical", 
     "travel"
   ], 
-  "wof:brand_name": "Oracle", 
-  "wof:brand_id": 1125152969
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416238
 }

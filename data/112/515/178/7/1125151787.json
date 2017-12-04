@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414482, 
+  "wof:brand_name": "House Of Prayer", 
+  "wof:brand_id": 1125151787, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "sg:public_place=place_of_worship", 
+    "public_place:place_of_worship=church", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "church", 
     "churches-pentecostal", 
@@ -8,6 +15,6 @@
     "clergy", 
     "establishment"
   ], 
-  "wof:brand_name": "House Of Prayer", 
-  "wof:brand_id": 1125151787
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416251
 }

@@ -1,12 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414480, 
+  "wof:brand_name": "Black's Photography", 
+  "wof:brand_id": 1125156199, 
+  "wof:categories": [
+    "retail_goods:shopping=photographic_equipment", 
+    "sg:retail_goods=shopping", 
+    "services:retail=photofinishing", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "supply", 
     "photo", 
     "finishing", 
     "photographic"
   ], 
-  "wof:brand_name": "Black's Photography", 
-  "wof:brand_id": 1125156199
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416249
 }

@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414556, 
+  "wof:brand_name": "Peoples Bank", 
+  "wof:brand_id": 1125149371, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=real_estate", 
+    "services:professional=management_and_consulting", 
+    "services:real_estate=real_estate_agent", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "savings", 
     "state", 
@@ -21,6 +32,6 @@
     "real estate", 
     "trust"
   ], 
-  "wof:brand_name": "Peoples Bank", 
-  "wof:brand_id": 1125149371
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416311
 }

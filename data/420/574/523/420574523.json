@@ -1,6 +1,24 @@
 {
   "wof:brand_name": "Baskin-Robbins", 
   "wof:brand_id": 420574523, 
+  "wof:categories": [
+    "sg:food_and_drink=ice_cream", 
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=dairy", 
+    "sg:food_and_drink=bakery", 
+    "food_and_drink:donuts=none", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:food_and_drink=donuts", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "public_place:education=vocational_school", 
+    "retail_goods:food_and_beverages=candy", 
+    "sg:food_and_drink=food_court", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:public_place=education", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "american", 
     "ice", 
@@ -39,6 +57,6 @@
     1125149613
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414461, 
+  "wof:lastmodified": 1512416235, 
   "mz:is_current": 1
 }

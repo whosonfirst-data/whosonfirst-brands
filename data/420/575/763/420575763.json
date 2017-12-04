@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414449, 
+  "wof:brand_name": "Methodist Church", 
+  "wof:brand_id": 420575763, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=religious_organization", 
+    "sg:public_place=place_of_worship", 
+    "public_place:place_of_worship=church", 
+    "services:organizations=nonprofit_organization"
+  ], 
   "wof:tags": [
     "church", 
     "churches-methodist", 
@@ -11,6 +18,6 @@
     "place", 
     "worship"
   ], 
-  "wof:brand_name": "Methodist Church", 
-  "wof:brand_id": 420575763
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416225
 }

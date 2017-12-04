@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414559, 
+  "wof:brand_name": "Charley's Grilled Subs", 
+  "wof:brand_id": 1125149437, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:food_and_drink=fast_food", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores"
+  ], 
   "wof:tags": [
     "sandwich", 
     "american", 
@@ -9,6 +16,6 @@
     "barbecue", 
     "chicken"
   ], 
-  "wof:brand_name": "Charley's Grilled Subs", 
-  "wof:brand_id": 1125149437
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416313
 }

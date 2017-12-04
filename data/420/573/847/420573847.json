@@ -1,6 +1,33 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414454, 
+  "wof:brand_name": "GNC", 
+  "wof:brand_id": 420573847, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=pharmacy", 
+    "retail_goods:food_and_beverages=fruits_and_vegetables", 
+    "services:insurance=health_insurance", 
+    "sg:services=insurance", 
+    "sg:services=health_services", 
+    "services:health_services=clinic", 
+    "services:health_services=health_practitioner", 
+    "sg:food_and_drink=restaurant", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:professional=management_and_consulting", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:health_services=doctor", 
+    "services:professional=business_services", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "health", 
     "diet", 
@@ -55,6 +82,6 @@
     "supply", 
     "telecommunication"
   ], 
-  "wof:brand_name": "GNC", 
-  "wof:brand_id": 420573847
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416229
 }

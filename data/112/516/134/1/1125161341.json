@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414540, 
+  "wof:brand_name": "007 Locksmith", 
+  "wof:brand_id": 1125161341, 
+  "wof:categories": [
+    "services:retail=repair_shop", 
+    "sg:services=retail", 
+    "services:building_and_trades=locksmith", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "lock", 
     "locksmith", 
@@ -8,6 +14,6 @@
     "industrial", 
     "locksmiths-commercial"
   ], 
-  "wof:brand_name": "007 Locksmith", 
-  "wof:brand_id": 1125161341
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416298
 }

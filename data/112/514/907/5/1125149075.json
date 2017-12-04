@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414563, 
+  "wof:brand_name": "Texas Roadhouse", 
+  "wof:brand_id": 1125149075, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "retail_goods:shopping=music", 
+    "services:professional=accounting_and_tax_preparation", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "american", 
     "steakhouse", 
@@ -16,6 +24,6 @@
     "eating", 
     "southern"
   ], 
-  "wof:brand_name": "Texas Roadhouse", 
-  "wof:brand_id": 1125149075
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416316
 }

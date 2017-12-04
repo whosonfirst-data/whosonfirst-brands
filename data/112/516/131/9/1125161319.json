@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414545, 
+  "wof:brand_name": "Town & Country Real Estate", 
+  "wof:brand_id": 1125161319, 
+  "wof:categories": [
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_agent", 
+    "services:real_estate=real_estate_services", 
+    "manufacturing_and_wholesale_goods:farming=livestock_farm", 
+    "services:professional=business_services", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "agency", 
     "beef", 
@@ -12,6 +21,6 @@
     "insurance", 
     "real estate"
   ], 
-  "wof:brand_name": "Town & Country Real Estate", 
-  "wof:brand_id": 1125161319
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416301
 }

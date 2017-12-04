@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414532, 
+  "wof:brand_name": "Linda", 
+  "wof:brand_id": 1125159929, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:manufacturing=rubber_and_plastics", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "retail_goods:shopping=pharmacy", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:personal=barber", 
+    "sg:food_and_drink=bakery", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "pedicure", 
     "-", 
@@ -18,6 +33,6 @@
     "t", 
     "timber"
   ], 
-  "wof:brand_name": "Linda", 
-  "wof:brand_id": 1125159929
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416292
 }

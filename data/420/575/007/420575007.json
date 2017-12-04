@@ -1,11 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414444, 
+  "wof:brand_name": "Dolcis", 
+  "wof:brand_id": 420575007, 
+  "wof:categories": [
+    "retail_goods:shopping=shoes", 
+    "sg:retail_goods=shopping", 
+    "services:professional=business_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "shop", 
     "footwear", 
     "retailer"
   ], 
-  "wof:brand_name": "Dolcis", 
-  "wof:brand_id": 420575007
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416222
 }

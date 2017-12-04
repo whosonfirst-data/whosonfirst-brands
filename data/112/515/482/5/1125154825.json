@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414525, 
+  "wof:brand_name": "Winchell's Doughnut House", 
+  "wof:brand_id": 1125154825, 
+  "wof:categories": [
+    "sg:food_and_drink=bakery", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:food_and_drink=restaurant", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "manufacturing_and_wholesale_goods:manufacturing=pet_food", 
+    "sg:food_and_drink=coffee_and_tea"
+  ], 
   "wof:tags": [
     "american", 
     "juice", 
@@ -9,6 +19,6 @@
     "bakery", 
     "espresso"
   ], 
-  "wof:brand_name": "Winchell's Doughnut House", 
-  "wof:brand_id": 1125154825
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416286
 }

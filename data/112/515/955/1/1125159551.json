@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414493, 
+  "wof:brand_name": "Family Vision Care", 
+  "wof:brand_id": 1125159551, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=optometrist", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=optical_goods", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "retail_goods:shopping=optician", 
+    "services:health_services=doctor", 
+    "services:insurance=health_insurance", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=insurance"
+  ], 
   "wof:tags": [
     "good", 
     "optical", 
@@ -13,6 +25,6 @@
     "surgeon", 
     "surgical"
   ], 
-  "wof:brand_name": "Family Vision Care", 
-  "wof:brand_id": 1125159551
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416261
 }

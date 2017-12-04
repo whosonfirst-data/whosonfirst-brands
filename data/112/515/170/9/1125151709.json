@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414475, 
+  "wof:brand_name": "American Federation of St", 
+  "wof:brand_id": 1125151709, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "sg:services=organizations", 
+    "services:organizations=labor_organization", 
+    "services:professional=business_services", 
+    "services:organizations=nonprofit_organization", 
+    "services:organizations=membership_organization", 
+    "public_place:government=office", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:health_services=doctor", 
+    "services:organizations=professional_association", 
+    "services:professional=management_and_consulting", 
+    "sg:public_place=government", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "social", 
     "administrative", 
@@ -12,6 +28,6 @@
     "program", 
     "trust"
   ], 
-  "wof:brand_name": "American Federation of St", 
-  "wof:brand_id": 1125151709
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416246
 }

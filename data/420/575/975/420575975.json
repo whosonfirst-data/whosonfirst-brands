@@ -1,12 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414451, 
+  "wof:brand_name": "Inland Revenue", 
+  "wof:brand_id": 420575975, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate", 
+    "sg:transportation=airport", 
+    "transportation:airport=general_aviation"
+  ], 
   "wof:tags": [
     "inland", 
     "revenue", 
     "local", 
     "valuer"
   ], 
-  "wof:brand_name": "Inland Revenue", 
-  "wof:brand_id": 420575975
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416226
 }

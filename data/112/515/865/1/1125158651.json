@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414496, 
+  "wof:brand_name": "The Goddard School", 
+  "wof:brand_id": 1125158651, 
+  "wof:categories": [
+    "services:social_services=child_care", 
+    "sg:services=social_services", 
+    "sg:public_place=education", 
+    "public_place:education=preschool", 
+    "public_place:education=school", 
+    "sg:entertainment=recreation"
+  ], 
   "wof:tags": [
     "day", 
     "kindergarten", 
@@ -14,6 +22,6 @@
     "specialty", 
     "summer"
   ], 
-  "wof:brand_name": "The Goddard School", 
-  "wof:brand_id": 1125158651
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416263
 }

@@ -1,7 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414456, 
-  "wof:tags": [], 
   "wof:brand_name": "Swiss Bank Corp.", 
-  "wof:brand_id": 420574893
+  "wof:brand_id": 420574893, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416231
 }

@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414538, 
+  "wof:brand_name": "Joe's Auto Repair", 
+  "wof:brand_id": 1125160877, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "retail_goods:autos_and_motor_vehicles=boat_sales", 
+    "services:retail=repair_shop"
+  ], 
   "wof:tags": [
     "automobile", 
     "repairing", 
@@ -19,6 +28,6 @@
     "system", 
     "used"
   ], 
-  "wof:brand_name": "Joe's Auto Repair", 
-  "wof:brand_id": 1125160877
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416296
 }

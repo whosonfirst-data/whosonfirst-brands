@@ -1,6 +1,40 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414518, 
+  "wof:brand_name": "Top Shop", 
+  "wof:brand_id": 1125153129, 
+  "wof:categories": [
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=furniture", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=retail", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "services:building_and_trades=construction", 
+    "services:retail=auto_repair", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=building_and_trades", 
+    "sg:services=personal", 
+    "manufacturing_and_wholesale_goods:manufacturing=furniture", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "services:personal=beauty_salon", 
+    "retail_goods:food_and_beverages=fruits_and_vegetables", 
+    "retail_goods:home_and_garden=building_materials", 
+    "retail_goods:shopping=department_store", 
+    "services:retail=repair_shop", 
+    "sg:services=professional", 
+    "entertainment:recreation=marina", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "manufacturing_and_wholesale_goods:wholesale=construction_materials", 
+    "retail_goods:autos_and_motor_vehicles=recreational_vehicle_sales", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "retail_goods:shopping=news", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:professional=computer_services", 
+    "services:retail=car_wash", 
+    "sg:entertainment=recreation", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "top", 
     "counter", 
@@ -35,6 +69,6 @@
     "trim", 
     "woo"
   ], 
-  "wof:brand_name": "Top Shop", 
-  "wof:brand_id": 1125153129
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416280
 }

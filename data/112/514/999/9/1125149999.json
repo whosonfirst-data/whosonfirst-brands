@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414559, 
+  "wof:brand_name": "North Fork Bank", 
+  "wof:brand_id": 1125149999, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "commercial", 
     "state", 
@@ -13,6 +17,6 @@
     "for", 
     "national"
   ], 
-  "wof:brand_name": "North Fork Bank", 
-  "wof:brand_id": 1125149999
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416313
 }

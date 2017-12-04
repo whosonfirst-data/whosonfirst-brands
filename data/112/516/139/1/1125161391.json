@@ -1,9 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414539, 
+  "wof:brand_name": "Bio-Reference Laboratories Inc", 
+  "wof:brand_id": 1125161391, 
+  "wof:categories": [
+    "services:health_services=medical_lab", 
+    "sg:services=health_services", 
+    "services:professional=research", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "laboratory"
   ], 
-  "wof:brand_name": "Bio-Reference Laboratories Inc", 
-  "wof:brand_id": 1125161391
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416297
 }

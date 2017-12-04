@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414490, 
+  "wof:brand_name": "Happy Garden", 
+  "wof:brand_id": 1125153151, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:food_and_beverages=meat_and_fish", 
+    "services:retail=event_space", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=professional", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "chinese", 
     "asian", 
@@ -27,6 +38,6 @@
     "taiwanese", 
     "thai"
   ], 
-  "wof:brand_name": "Happy Garden", 
-  "wof:brand_id": 1125153151
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416258
 }

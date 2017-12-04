@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414553, 
+  "wof:brand_name": "IHOP", 
+  "wof:brand_id": 1125148709, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "american", 
     "sandwich", 
@@ -28,6 +33,6 @@
     "operator", 
     "pancake"
   ], 
-  "wof:brand_name": "IHOP", 
-  "wof:brand_id": 1125148709
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416308
 }

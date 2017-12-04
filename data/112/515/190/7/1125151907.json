@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414502, 
+  "wof:brand_name": "Primera Iglesia Bautista", 
+  "wof:brand_id": 1125151907, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "sg:public_place=place_of_worship", 
+    "public_place:place_of_worship=church", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "church", 
     "churches-baptist", 
@@ -9,6 +16,6 @@
     "clergy", 
     "establishment"
   ], 
-  "wof:brand_name": "Primera Iglesia Bautista", 
-  "wof:brand_id": 1125151907
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416268
 }

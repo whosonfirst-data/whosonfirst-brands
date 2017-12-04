@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414475, 
+  "wof:brand_name": "Contech Construction Prods Inc", 
+  "wof:brand_id": 1125155587, 
+  "wof:categories": [
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "manufacturing_and_wholesale_goods:wholesale=metals_and_minerals", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:manufacturing=rubber_and_plastics"
+  ], 
   "wof:tags": [
     "culvert", 
     "fabricated", 
@@ -22,6 +31,6 @@
     "product", 
     "strip"
   ], 
-  "wof:brand_name": "Contech Construction Prods Inc", 
-  "wof:brand_id": 1125155587
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416246
 }

@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414486, 
+  "wof:brand_name": "P&v", 
+  "wof:brand_id": 1125154065, 
+  "wof:categories": [
+    "services:insurance=life_insurance", 
+    "sg:services=insurance"
+  ], 
   "wof:tags": [
     "assurance"
   ], 
-  "wof:brand_name": "P&v", 
-  "wof:brand_id": 1125154065
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416255
 }

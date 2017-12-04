@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414504, 
+  "wof:brand_name": "Cash America", 
+  "wof:brand_id": 1125153669, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "retail_goods:shopping=jewelry", 
+    "retail_goods:shopping=pawn_shop", 
+    "services:utilities=telephone", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "pawnshop", 
     "cashing", 
@@ -29,6 +39,6 @@
     "sporting", 
     "to"
   ], 
-  "wof:brand_name": "Cash America", 
-  "wof:brand_id": 1125153669
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416270
 }

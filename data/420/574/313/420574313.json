@@ -1,9 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414461, 
+  "wof:brand_name": "Abn Amro", 
+  "wof:brand_id": 420574313, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "establishment"
   ], 
-  "wof:brand_name": "Abn Amro", 
-  "wof:brand_id": 420574313
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416235
 }

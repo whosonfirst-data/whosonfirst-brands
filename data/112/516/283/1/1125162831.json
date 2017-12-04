@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414543, 
+  "wof:brand_name": "Tiny Computers Ltd.", 
+  "wof:brand_id": 1125162831, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=computer_services", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "software", 
     "system", 
@@ -8,6 +14,6 @@
     "repair", 
     "tech"
   ], 
-  "wof:brand_name": "Tiny Computers Ltd.", 
-  "wof:brand_id": 1125162831
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416300
 }

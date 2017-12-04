@@ -1,6 +1,37 @@
 {
   "wof:brand_name": "US Post Office", 
   "wof:brand_id": 420573749, 
+  "wof:categories": [
+    "sg:public_place=government", 
+    "public_place:government=post_office", 
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "public_place:government=office", 
+    "sg:transportation=freight", 
+    "public_place:government=city_hall", 
+    "public_place:government=fire_station", 
+    "services:building_and_trades=construction", 
+    "services:professional=advertising", 
+    "sg:retail_goods=shopping", 
+    "sg:services=building_and_trades", 
+    "entertainment:travel=hotels_and_motels", 
+    "public_place:education=college", 
+    "retail_goods:home_and_garden=building_materials", 
+    "retail_goods:shopping=catalog_store", 
+    "retail_goods:shopping=pharmacy", 
+    "services:health_services=clinic", 
+    "services:organizations=labor_organization", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:retail=auto_repair", 
+    "services:social_services=job_training", 
+    "sg:entertainment=travel", 
+    "sg:public_place=education", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=health_services", 
+    "sg:services=organizations", 
+    "sg:services=retail", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "postal", 
     "us", 
@@ -63,6 +94,6 @@
     1125150373
   ], 
   "wof:brand_size": "XXXL", 
-  "wof:lastmodified": 1512414453, 
+  "wof:lastmodified": 1512416228, 
   "mz:is_current": 1
 }

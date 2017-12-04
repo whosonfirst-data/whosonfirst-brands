@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414485, 
+  "wof:brand_name": "Parker Hannifin Corporation", 
+  "wof:brand_id": 1125159331, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "manufacturing_and_wholesale_goods:manufacturing=rubber_and_plastics", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "manufacturing_and_wholesale_goods:manufacturing=aerospace", 
+    "sg:services=professional", 
+    "sg:transportation=freight", 
+    "manufacturing_and_wholesale_goods:manufacturing=paper_products", 
+    "manufacturing_and_wholesale_goods:manufacturing=petroleum_products", 
+    "manufacturing_and_wholesale_goods:wholesale=chemicals_and_plastics", 
+    "services:professional=research"
+  ], 
   "wof:tags": [
     "mfg", 
     "power", 
@@ -55,6 +70,6 @@
     "warehouse", 
     "wiring"
   ], 
-  "wof:brand_name": "Parker Hannifin Corporation", 
-  "wof:brand_id": 1125159331
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416254
 }

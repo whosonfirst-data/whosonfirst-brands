@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414560, 
+  "wof:brand_name": "Christopher & Banks", 
+  "wof:brand_id": 1125149143, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "retail_goods:shopping=department_store", 
+    "services:banks_and_credit_unions=bank", 
+    "services:health_services=nursing_and_care_facility", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "women's", 
     "accessory", 
@@ -15,6 +26,6 @@
     "shop", 
     "specialty"
   ], 
-  "wof:brand_name": "Christopher & Banks", 
-  "wof:brand_id": 1125149143
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416314
 }

@@ -1,6 +1,28 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414549, 
+  "wof:brand_name": "Profiles", 
+  "wof:brand_id": 1125161957, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "sg:services=professional", 
+    "sg:retail_goods=shopping", 
+    "services:communications=film_and_video_production", 
+    "services:professional=management_and_consulting", 
+    "sg:services=communications", 
+    "entertainment:sports_and_exercise=sports_center", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=comic_books", 
+    "retail_goods:shopping=shoes", 
+    "services:health_services=medical_lab", 
+    "services:organizations=labor_organization", 
+    "services:professional=employment_agencies", 
+    "services:professional=testing_lab", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=health_services", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "shop", 
     "hairdresser", 
@@ -37,6 +59,6 @@
     "shoe", 
     "taping"
   ], 
-  "wof:brand_name": "Profiles", 
-  "wof:brand_id": 1125161957
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416305
 }

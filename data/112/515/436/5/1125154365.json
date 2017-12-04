@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414527, 
+  "wof:brand_name": "Snelling", 
+  "wof:brand_id": 1125154365, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=employment_agencies", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:professional=management_and_consulting", 
+    "entertainment:travel=travel_agent", 
+    "manufacturing_and_wholesale_goods:wholesale=furniture", 
+    "services:banks_and_credit_unions=bank", 
+    "services:building_and_trades=plumbing", 
+    "services:professional=business_services", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:real_estate=real_estate_agent", 
+    "services:social_services=job_training", 
+    "sg:entertainment=travel", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=building_and_trades", 
+    "sg:services=real_estate", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "help", 
     "supply", 
@@ -29,6 +49,6 @@
     "provides", 
     "upholstered"
   ], 
-  "wof:brand_name": "Snelling", 
-  "wof:brand_id": 1125154365
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416287
 }

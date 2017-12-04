@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414450, 
+  "wof:brand_name": "American Home Mortgage", 
+  "wof:brand_id": 420575317, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_agent", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=professional", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:insurance=insurance_agent", 
+    "services:professional=advertising", 
+    "services:professional=management_and_consulting", 
+    "sg:services=insurance"
+  ], 
   "wof:tags": [
     "loan", 
     "real estate", 
@@ -12,6 +26,6 @@
     "marketing", 
     "program"
   ], 
-  "wof:brand_name": "American Home Mortgage", 
-  "wof:brand_id": 420575317
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416226
 }

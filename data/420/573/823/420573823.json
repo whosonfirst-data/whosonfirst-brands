@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414454, 
+  "wof:brand_name": "Dollar Tree", 
+  "wof:brand_id": 420573823, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=department_store", 
+    "sg:transportation=freight", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:shopping=thrift_store", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:public_place=shopping_center", 
+    "sg:services=personal", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "retail_goods:shopping=party_supplies", 
+    "services:building_and_trades=landscaping_services", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "shop", 
     "merchandise", 
@@ -22,6 +40,6 @@
     "thrift", 
     "used"
   ], 
-  "wof:brand_name": "Dollar Tree", 
-  "wof:brand_id": 420573823
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416229
 }

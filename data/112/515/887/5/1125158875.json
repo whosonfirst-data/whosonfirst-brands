@@ -1,11 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414505, 
+  "wof:brand_name": "Tom's Barber Shop", 
+  "wof:brand_id": 1125158875, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=barber", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
     "stylist"
   ], 
-  "wof:brand_name": "Tom's Barber Shop", 
-  "wof:brand_id": 1125158875
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416270
 }

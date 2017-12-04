@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414476, 
+  "wof:brand_name": "Church of Jesus Christ", 
+  "wof:brand_id": 1125156937, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship", 
+    "services:social_services=child_care", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "church", 
     "christ", 
@@ -12,6 +20,6 @@
     "denomination", 
     "testament"
   ], 
-  "wof:brand_name": "Church of Jesus Christ", 
-  "wof:brand_id": 1125156937
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416246
 }

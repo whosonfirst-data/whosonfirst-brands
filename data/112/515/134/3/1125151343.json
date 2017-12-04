@@ -1,6 +1,27 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414478, 
+  "wof:brand_name": "Aid Assoc For Lutherans", 
+  "wof:brand_id": 1125151343, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "sg:services=organizations", 
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "services:insurance=life_insurance", 
+    "services:organizations=religious_organization", 
+    "services:organizations=membership_organization", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=hazard_insurance", 
+    "services:organizations=nonprofit_organization", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:organizations=community_association", 
+    "services:insurance=health_insurance", 
+    "public_place:education=college", 
+    "services:banks_and_credit_unions=bank", 
+    "services:organizations=professional_association", 
+    "services:professional=lawyer_and_legal_services", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "carrier", 
     "health", 
@@ -26,6 +47,6 @@
     "research", 
     "trade"
   ], 
-  "wof:brand_name": "Aid Assoc For Lutherans", 
-  "wof:brand_id": 1125151343
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416248
 }

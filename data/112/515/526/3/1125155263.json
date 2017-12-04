@@ -1,10 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414521, 
+  "wof:brand_name": "J Sainsbury PLC", 
+  "wof:brand_id": 1125155263, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=supermarket", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:shopping=pharmacy", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "chemist", 
     "pharmacist"
   ], 
-  "wof:brand_name": "J Sainsbury PLC", 
-  "wof:brand_id": 1125155263
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416283
 }

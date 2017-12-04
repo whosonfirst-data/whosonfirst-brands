@@ -1,7 +1,11 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414557, 
-  "wof:tags": [], 
   "wof:brand_name": "Dexia", 
-  "wof:brand_id": 1125148717
+  "wof:brand_id": 1125148717, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=banks_and_credit_unions"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416311
 }

@@ -1,11 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414517, 
+  "wof:brand_name": "Eurotel-sur S.l.", 
+  "wof:brand_id": 1125155919, 
+  "wof:categories": [
+    "sg:entertainment=casinos_and_gambling"
+  ], 
   "wof:tags": [
     "de", 
     "juego", 
     "locale"
   ], 
-  "wof:brand_name": "Eurotel-sur S.l.", 
-  "wof:brand_id": 1125155919
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416280
 }

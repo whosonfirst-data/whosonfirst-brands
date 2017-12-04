@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414508, 
+  "wof:brand_name": "Gift Box", 
+  "wof:brand_id": 1125158095, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=used_merchandise", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:shopping=catalog_store", 
+    "retail_goods:shopping=musical_instruments"
+  ], 
   "wof:tags": [
     "shop", 
     "antique", 
@@ -18,6 +28,6 @@
     "post", 
     "supply"
   ], 
-  "wof:brand_name": "Gift Box", 
-  "wof:brand_id": 1125158095
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416272
 }

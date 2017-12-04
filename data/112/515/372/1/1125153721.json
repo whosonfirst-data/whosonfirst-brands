@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414488, 
+  "wof:brand_name": "Spherion Staffing Group", 
+  "wof:brand_id": 1125153721, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=employment_agencies", 
+    "services:professional=management_and_consulting", 
+    "services:social_services=job_training", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "help", 
     "supply", 
@@ -9,6 +16,6 @@
     "temp", 
     "opportunity"
   ], 
-  "wof:brand_name": "Spherion Staffing Group", 
-  "wof:brand_id": 1125153721
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416257
 }

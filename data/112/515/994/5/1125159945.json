@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414494, 
+  "wof:brand_name": "Michaels - The Arts & Craft Store", 
+  "wof:brand_id": 1125159945, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=crafts_and_fabrics", 
+    "manufacturing_and_wholesale_goods:farming=fish_and_marine_products", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "services:retail=repair_shop", 
+    "sg:services=retail", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "sg:entertainment=arts_and_performance", 
+    "entertainment:arts_and_performance=art_gallery", 
+    "entertainment:arts_and_performance=arts_center", 
+    "public_place:education=special_training", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:public_place=education", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "supply", 
     "art", 
@@ -28,6 +45,6 @@
     "supplies-wholesale", 
     "tree"
   ], 
-  "wof:brand_name": "Michaels - The Arts & Craft Store", 
-  "wof:brand_id": 1125159945
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416261
 }

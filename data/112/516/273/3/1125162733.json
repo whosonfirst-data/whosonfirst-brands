@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414544, 
+  "wof:brand_name": "National Car & Truck Rental", 
+  "wof:brand_id": 1125162733, 
+  "wof:categories": [
+    "services:retail=auto_rental", 
+    "sg:services=retail", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "renting", 
     "automobile", 
@@ -8,6 +14,6 @@
     "truck", 
     "car"
   ], 
-  "wof:brand_name": "National Car & Truck Rental", 
-  "wof:brand_id": 1125162733
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416301
 }

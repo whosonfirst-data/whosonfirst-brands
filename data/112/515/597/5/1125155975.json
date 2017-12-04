@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414468, 
+  "wof:brand_name": "Railway Hotel", 
+  "wof:brand_id": 1125155975, 
+  "wof:categories": [
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel", 
+    "sg:food_and_drink=bars_and_pubs"
+  ], 
   "wof:tags": [
     "accommodation", 
     "inn", 
@@ -12,6 +17,6 @@
     "house", 
     "public"
   ], 
-  "wof:brand_name": "Railway Hotel", 
-  "wof:brand_id": 1125155975
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416240
 }

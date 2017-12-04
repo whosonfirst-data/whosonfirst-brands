@@ -1,6 +1,33 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414523, 
+  "wof:brand_name": "Smiths", 
+  "wof:brand_id": 1125153055, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=pharmacy", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:services=building_and_trades", 
+    "sg:services=professional", 
+    "sg:services=retail", 
+    "sg:services=real_estate", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "retail_goods:food_and_beverages=meat_and_fish", 
+    "retail_goods:home_and_garden=kitchen_supply", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "services:building_and_trades=construction", 
+    "services:building_and_trades=landscaping_services", 
+    "services:professional=business_services", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:professional=management_and_consulting", 
+    "services:real_estate=architect", 
+    "services:real_estate=real_estate_agent", 
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "photofinishing", 
     "supermarket", 
@@ -19,6 +46,6 @@
     "water", 
     "well"
   ], 
-  "wof:brand_name": "Smiths", 
-  "wof:brand_id": 1125153055
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416284
 }

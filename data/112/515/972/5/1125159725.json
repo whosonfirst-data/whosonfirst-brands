@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414501, 
+  "wof:brand_name": "Transwestern Publishing", 
+  "wof:brand_id": 1125159725, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=professional", 
+    "services:professional=advertising", 
+    "services:professional=management_and_consulting", 
+    "services:professional=computer_services"
+  ], 
   "wof:tags": [
     "publisher", 
     "guide", 
@@ -27,6 +35,6 @@
     "relations", 
     "retrieval"
   ], 
-  "wof:brand_name": "Transwestern Publishing", 
-  "wof:brand_id": 1125159725
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416267
 }

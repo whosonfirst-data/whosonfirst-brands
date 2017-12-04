@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414542, 
+  "wof:brand_name": "Samuels Jewelers", 
+  "wof:brand_id": 1125160651, 
+  "wof:categories": [
+    "retail_goods:shopping=jewelry", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:manufacturing=jewelry", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "jeweler", 
     "store", 
@@ -11,6 +17,6 @@
     "manufacturer", 
     "watch"
   ], 
-  "wof:brand_name": "Samuels Jewelers", 
-  "wof:brand_id": 1125160651
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416299
 }

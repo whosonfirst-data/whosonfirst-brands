@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414544, 
+  "wof:brand_name": "Pittsburgh Paints", 
+  "wof:brand_id": 1125162363, 
+  "wof:categories": [
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=building_materials", 
+    "manufacturing_and_wholesale_goods:wholesale=painting_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "retail_goods:home_and_garden=hardware", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "paint", 
     "wall", 
@@ -18,6 +27,6 @@
     "supply", 
     "wholesale"
   ], 
-  "wof:brand_name": "Pittsburgh Paints", 
-  "wof:brand_id": 1125162363
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416301
 }

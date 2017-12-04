@@ -1,10 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414477, 
+  "wof:brand_name": "Amway Of Australia Pty Ltd", 
+  "wof:brand_id": 1125158447, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:wholesale=painting_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "cleaning", 
     "product"
   ], 
-  "wof:brand_name": "Amway Of Australia Pty Ltd", 
-  "wof:brand_id": 1125158447
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416247
 }

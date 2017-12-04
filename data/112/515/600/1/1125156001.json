@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414499, 
+  "wof:brand_name": "Sun Microsystems", 
+  "wof:brand_id": 1125156001, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:wholesale=computers", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "sg:services=professional", 
+    "services:professional=computer_services", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:professional=management_and_consulting", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "manufacturing_and_wholesale_goods:manufacturing=petroleum_products", 
+    "public_place:education=special_training", 
+    "retail_goods:shopping=used_merchandise", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "computer", 
     "mfg", 
@@ -38,6 +54,6 @@
     "terminal", 
     "whole"
   ], 
-  "wof:brand_name": "Sun Microsystems", 
-  "wof:brand_id": 1125156001
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416266
 }

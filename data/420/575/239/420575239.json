@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414444, 
+  "wof:brand_name": "Pro Nails", 
+  "wof:brand_id": 420575239, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon", 
+    "services:personal=hair_removal", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "services:personal=day_spa", 
+    "services:personal=skin_care", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "manicuring", 
     "shop", 
@@ -15,6 +25,6 @@
     "stylist", 
     "supplies-wholesale"
   ], 
-  "wof:brand_name": "Pro Nails", 
-  "wof:brand_id": 420575239
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416222
 }

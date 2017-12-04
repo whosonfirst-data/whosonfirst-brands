@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414512, 
+  "wof:brand_name": "Computers Plus", 
+  "wof:brand_id": 1125159515, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=computer_services", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "manufacturing_and_wholesale_goods:wholesale=computers", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:professional=advertising"
+  ], 
   "wof:tags": [
     "repair", 
     "dealer", 
@@ -20,6 +30,6 @@
     "retail", 
     "sales"
   ], 
-  "wof:brand_name": "Computers Plus", 
-  "wof:brand_id": 1125159515
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416276
 }

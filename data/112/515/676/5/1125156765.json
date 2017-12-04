@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414524, 
+  "wof:brand_name": "Holy Family Church", 
+  "wof:brand_id": 1125156765, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "sg:public_place=place_of_worship", 
+    "public_place:place_of_worship=church", 
+    "public_place:education=school", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "church", 
     "catholic", 
@@ -9,6 +17,6 @@
     "k-", 
     "private"
   ], 
-  "wof:brand_name": "Holy Family Church", 
-  "wof:brand_id": 1125156765
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416286
 }

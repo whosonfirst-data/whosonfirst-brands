@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414486, 
+  "wof:brand_name": "Express Personnel Services", 
+  "wof:brand_id": 1125150459, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=employment_agencies", 
+    "services:professional=management_and_consulting", 
+    "services:professional=business_services", 
+    "services:social_services=job_training", 
+    "sg:services=social_services", 
+    "services:insurance=insurance_agent", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:retail=auto_repair", 
+    "sg:services=insurance", 
+    "sg:services=personal", 
+    "sg:services=retail", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "help", 
     "supply", 
@@ -29,6 +44,6 @@
     "return", 
     "search"
   ], 
-  "wof:brand_name": "Express Personnel Services", 
-  "wof:brand_id": 1125150459
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416254
 }

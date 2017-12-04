@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414541, 
+  "wof:brand_name": "The Pantry", 
+  "wof:brand_id": 1125162039, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:food_and_drink=fast_food", 
+    "sg:food_and_drink=cafe", 
+    "sg:food_and_drink=deli", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:shopping=department_store", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:food_and_beverages=specialty", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "away", 
     "take", 
@@ -21,6 +35,6 @@
     "shop", 
     "snack"
   ], 
-  "wof:brand_name": "The Pantry", 
-  "wof:brand_id": 1125162039
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416299
 }

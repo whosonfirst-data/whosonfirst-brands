@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414470, 
+  "wof:brand_name": "Head Quarters", 
+  "wof:brand_id": 1125158311, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "services:retail=auto_repair", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
@@ -14,6 +21,6 @@
     "scalp", 
     "treatment"
   ], 
-  "wof:brand_name": "Head Quarters", 
-  "wof:brand_id": 1125158311
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416242
 }

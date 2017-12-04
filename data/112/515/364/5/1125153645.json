@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414478, 
+  "wof:brand_name": "Snelling Personnel Svc", 
+  "wof:brand_id": 1125153645, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=employment_agencies", 
+    "services:professional=management_and_consulting"
+  ], 
   "wof:tags": [
     "opportunity", 
     "contractor", 
@@ -10,6 +15,6 @@
     "temporary", 
     "training"
   ], 
-  "wof:brand_name": "Snelling Personnel Svc", 
-  "wof:brand_id": 1125153645
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416248
 }

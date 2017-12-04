@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414538, 
+  "wof:brand_name": "VIP Cleaners", 
+  "wof:brand_id": 1125162851, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:retail=selfservice_laundry", 
+    "sg:retail_goods=shopping", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "cleaners", 
     "agent", 
@@ -13,6 +21,6 @@
     "power", 
     "therapist"
   ], 
-  "wof:brand_name": "VIP Cleaners", 
-  "wof:brand_id": 1125162851
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416296
 }

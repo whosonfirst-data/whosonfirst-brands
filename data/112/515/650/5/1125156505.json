@@ -1,12 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414527, 
+  "wof:brand_name": "Urbaser S.a.", 
+  "wof:brand_id": 1125156505, 
+  "wof:categories": [
+    "entertainment:sports_and_exercise=golf", 
+    "sg:entertainment=sports_and_exercise"
+  ], 
   "wof:tags": [
     "campos", 
     "clases", 
     "de", 
     "y"
   ], 
-  "wof:brand_name": "Urbaser S.a.", 
-  "wof:brand_id": 1125156505
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416288
 }

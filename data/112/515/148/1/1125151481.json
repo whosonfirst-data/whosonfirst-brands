@@ -1,6 +1,28 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414494, 
+  "wof:brand_name": "Parks & Recreation", 
+  "wof:brand_id": 1125151481, 
+  "wof:categories": [
+    "sg:entertainment=recreation", 
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:public_place=community_center", 
+    "sg:public_place=park", 
+    "sg:services=social_services", 
+    "entertainment:recreation=amusement_park", 
+    "entertainment:travel=campground", 
+    "sg:entertainment=travel", 
+    "sg:services=organizations", 
+    "entertainment:recreation=campground", 
+    "entertainment:sports_and_exercise=golf", 
+    "services:organizations=community_association", 
+    "services:organizations=membership_organization", 
+    "services:professional=management_and_consulting", 
+    "services:social_services=child_care", 
+    "services:utilities=water", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:services=professional", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "parks", 
     "conservation", 
@@ -44,6 +66,6 @@
     "vehicle", 
     "wildlife"
   ], 
-  "wof:brand_name": "Parks & Recreation", 
-  "wof:brand_id": 1125151481
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416261
 }

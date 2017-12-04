@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414527, 
+  "wof:brand_name": "Chase Manhattan Mortgage Corp", 
+  "wof:brand_id": 1125150665, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "loan", 
     "real estate", 
@@ -11,6 +20,6 @@
     "commercial", 
     "national"
   ], 
-  "wof:brand_name": "Chase Manhattan Mortgage Corp", 
-  "wof:brand_id": 1125150665
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416288
 }

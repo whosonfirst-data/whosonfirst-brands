@@ -1,6 +1,27 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414490, 
+  "wof:brand_name": "Mirage", 
+  "wof:brand_id": 1125157679, 
+  "wof:categories": [
+    "sg:food_and_drink=bars_and_pubs", 
+    "services:personal=beauty_salon", 
+    "sg:services=personal", 
+    "sg:food_and_drink=restaurant", 
+    "sg:services=professional", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=shopping", 
+    "food_and_drink:bars_and_pubs=nightclub", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "public_place:education=dance_studio", 
+    "services:health_services=clinic", 
+    "services:organizations=community_association", 
+    "services:professional=engineering", 
+    "services:retail=driving_school", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=education", 
+    "sg:services=health_services", 
+    "sg:services=organizations", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "club", 
     "drinking", 
@@ -21,6 +42,6 @@
     "shoes-wholesale", 
     "wear"
   ], 
-  "wof:brand_name": "Mirage", 
-  "wof:brand_id": 1125157679
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416258
 }

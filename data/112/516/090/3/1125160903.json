@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414544, 
+  "wof:brand_name": "Mandee Shops", 
+  "wof:brand_id": 1125160903, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=department_store"
+  ], 
   "wof:tags": [
     "accessory", 
     "clothing", 
@@ -8,6 +13,6 @@
     "apparel", 
     "store"
   ], 
-  "wof:brand_name": "Mandee Shops", 
-  "wof:brand_id": 1125160903
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416301
 }

@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414557, 
+  "wof:brand_name": "Community Baptist Church", 
+  "wof:brand_id": 1125149287, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship", 
+    "services:real_estate=real_estate_operator", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "church", 
     "churches-baptist", 
@@ -13,6 +21,6 @@
     "clergy", 
     "school"
   ], 
-  "wof:brand_name": "Community Baptist Church", 
-  "wof:brand_id": 1125149287
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416311
 }

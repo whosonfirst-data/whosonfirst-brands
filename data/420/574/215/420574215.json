@@ -1,6 +1,36 @@
 {
   "wof:brand_name": "Avis Rent A Car", 
   "wof:brand_id": 420574215, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=auto_rental", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=professional", 
+    "services:retail=auto_repair", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate", 
+    "sg:transportation=local_transit", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:transportation=transit_center", 
+    "transportation:transit_center=passenger", 
+    "entertainment:sports_and_exercise=gym", 
+    "entertainment:travel=hotels_and_motels", 
+    "manufacturing_and_wholesale_goods:wholesale=jewelry", 
+    "manufacturing_and_wholesale_goods:wholesale=sporting_goods", 
+    "services:building_and_trades=equipment_rental", 
+    "services:organizations=labor_organization", 
+    "services:personal=beauty_salon", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=business_services", 
+    "services:professional=management_and_consulting", 
+    "sg:entertainment=casinos_and_gambling", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:entertainment=travel", 
+    "sg:services=building_and_trades", 
+    "sg:services=organizations", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "automobile", 
     "renting", 
@@ -41,6 +71,6 @@
     1125149045
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414462, 
+  "wof:lastmodified": 1512416236, 
   "mz:is_current": 1
 }

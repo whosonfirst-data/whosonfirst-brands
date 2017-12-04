@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414532, 
+  "wof:brand_name": "Mutual of Omaha", 
+  "wof:brand_id": 1125153887, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=life_insurance", 
+    "services:insurance=hazard_insurance", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:professional=lawyer_and_legal_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "agency", 
     "carrier", 
@@ -19,6 +30,6 @@
     "sales", 
     "underwriter"
   ], 
-  "wof:brand_name": "Mutual of Omaha", 
-  "wof:brand_id": 1125153887
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416292
 }

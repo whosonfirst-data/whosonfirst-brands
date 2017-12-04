@@ -1,6 +1,25 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414464, 
+  "wof:brand_name": "Age Concern", 
+  "wof:brand_id": 420574607, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=nonprofit_organization", 
+    "retail_goods:shopping=thrift_store", 
+    "sg:retail_goods=shopping", 
+    "sg:services=social_services", 
+    "services:social_services=adult_care", 
+    "sg:services=professional", 
+    "services:professional=computer_services", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:health_services=nursing_and_care_facility", 
+    "services:insurance=insurance_agent", 
+    "services:organizations=membership_organization", 
+    "services:professional=management_and_consulting", 
+    "services:social_services=retirement_home", 
+    "sg:public_place=community_center", 
+    "sg:services=health_services", 
+    "sg:services=insurance"
+  ], 
   "wof:tags": [
     "charity", 
     "organisation", 
@@ -20,6 +39,6 @@
     "holding", 
     "private"
   ], 
-  "wof:brand_name": "Age Concern", 
-  "wof:brand_id": 420574607
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416237
 }

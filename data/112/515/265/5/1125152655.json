@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414512, 
+  "wof:brand_name": "Great Harvest Bread Co", 
+  "wof:brand_id": 1125152655, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "sg:food_and_drink=bakery", 
+    "sg:food_and_drink=restaurant", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery"
+  ], 
   "wof:tags": [
     "baker", 
     "mfg", 
@@ -21,6 +30,6 @@
     "roll", 
     "sandwich"
   ], 
-  "wof:brand_name": "Great Harvest Bread Co", 
-  "wof:brand_id": 1125152655
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416276
 }

@@ -1,6 +1,25 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414544, 
+  "wof:brand_name": "Little Red School House", 
+  "wof:brand_id": 1125160895, 
+  "wof:categories": [
+    "services:social_services=child_care", 
+    "sg:services=social_services", 
+    "sg:public_place=education", 
+    "public_place:education=school", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "public_place:education=special_training", 
+    "public_place:landmark=historic", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:organizations=nonprofit_organization", 
+    "sg:food_and_drink=restaurant", 
+    "sg:public_place=landmark", 
+    "sg:public_place=park", 
+    "sg:services=organizations", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "day", 
     "school", 
@@ -18,6 +37,6 @@
     "private", 
     "wear"
   ], 
-  "wof:brand_name": "Little Red School House", 
-  "wof:brand_id": 1125160895
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416301
 }

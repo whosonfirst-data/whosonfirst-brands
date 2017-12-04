@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414492, 
+  "wof:brand_name": "David's Bridal", 
+  "wof:brand_id": 1125150081, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=bridal", 
+    "retail_goods:shopping=party_supplies", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:services=retail", 
+    "sg:services=personal", 
+    "services:personal=beauty_salon"
+  ], 
   "wof:tags": [
     "shop", 
     "bridal", 
@@ -22,6 +32,6 @@
     "supply", 
     "wear"
   ], 
-  "wof:brand_name": "David's Bridal", 
-  "wof:brand_id": 1125150081
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416260
 }

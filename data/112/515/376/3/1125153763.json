@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414528, 
+  "wof:brand_name": "Employment Security Commission", 
+  "wof:brand_id": 1125153763, 
+  "wof:categories": [
+    "services:social_services=job_training", 
+    "sg:services=social_services", 
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "services:professional=employment_agencies", 
+    "sg:services=professional", 
+    "sg:public_place=education", 
+    "public_place:education=college", 
+    "public_place:education=special_training", 
+    "services:insurance=insurance_agent", 
+    "services:organizations=labor_organization", 
+    "sg:services=insurance", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "rehab", 
     "government", 
@@ -19,6 +34,6 @@
     "school", 
     "vocational"
   ], 
-  "wof:brand_name": "Employment Security Commission", 
-  "wof:brand_id": 1125153763
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416288
 }

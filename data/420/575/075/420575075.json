@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414448, 
+  "wof:brand_name": "Thomas Cook", 
+  "wof:brand_id": 420575075, 
+  "wof:categories": [
+    "entertainment:travel=travel_agent", 
+    "sg:entertainment=travel", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bureau_de_change", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:transportation=airline", 
+    "manufacturing_and_wholesale_goods:farming=livestock_farm", 
+    "services:professional=lawyer_and_legal_services", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "activity", 
     "agency", 
@@ -19,6 +31,6 @@
     "practice", 
     "trademark"
   ], 
-  "wof:brand_name": "Thomas Cook", 
-  "wof:brand_id": 420575075
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416225
 }

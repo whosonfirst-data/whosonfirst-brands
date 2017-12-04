@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414543, 
+  "wof:brand_name": "Clear Channel Communications", 
+  "wof:brand_id": 1125162589, 
+  "wof:categories": [
+    "sg:services=communications", 
+    "services:communications=radio_station", 
+    "sg:services=professional", 
+    "services:professional=advertising", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:professional=business_services", 
+    "services:professional=computer_services", 
+    "services:real_estate=real_estate_operator", 
+    "services:retail=repair_shop", 
+    "sg:services=real_estate", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "broadcasting", 
     "broadcast", 
@@ -24,6 +38,6 @@
     "television", 
     "wiring"
   ], 
-  "wof:brand_name": "Clear Channel Communications", 
-  "wof:brand_id": 1125162589
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416300
 }

@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414522, 
+  "wof:brand_name": "Shoney's", 
+  "wof:brand_id": 1125155307, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:food_and_drink=fast_food", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "american", 
     "family", 
@@ -9,6 +15,6 @@
     "shop", 
     "out"
   ], 
-  "wof:brand_name": "Shoney's", 
-  "wof:brand_id": 1125155307
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416283
 }

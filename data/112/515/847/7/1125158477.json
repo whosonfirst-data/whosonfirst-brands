@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414515, 
+  "wof:brand_name": "City Council", 
+  "wof:brand_id": 1125158477, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=banks_and_credit_unions", 
+    "public_place:government=city_hall", 
+    "public_place:government=police_station"
+  ], 
   "wof:tags": [
     "village", 
     "body", 
@@ -20,6 +28,6 @@
     "planner", 
     "town"
   ], 
-  "wof:brand_name": "City Council", 
-  "wof:brand_id": 1125158477
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416278
 }

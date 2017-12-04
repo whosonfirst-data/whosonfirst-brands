@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414535, 
+  "wof:brand_name": "Republic Bank", 
+  "wof:brand_id": 1125152669, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:professional=business_services", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=professional", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "commercial", 
     "state", 
@@ -11,6 +20,6 @@
     "real estate", 
     "national"
   ], 
-  "wof:brand_name": "Republic Bank", 
-  "wof:brand_id": 1125152669
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416294
 }

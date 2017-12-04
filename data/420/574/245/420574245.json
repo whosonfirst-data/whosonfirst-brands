@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414458, 
+  "wof:brand_name": "New York Life Insurance Co", 
+  "wof:brand_id": 420574245, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=hazard_insurance", 
+    "services:insurance=life_insurance", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:health_services=doctor", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "bond", 
     "business", 
@@ -9,6 +19,6 @@
     "stock", 
     "surgeon"
   ], 
-  "wof:brand_name": "New York Life Insurance Co", 
-  "wof:brand_id": 420574245
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416232
 }

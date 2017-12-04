@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414487, 
+  "wof:brand_name": "Cash & Go", 
+  "wof:brand_id": 1125159493, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:shopping=pawn_shop", 
+    "services:insurance=insurance_agent", 
+    "services:utilities=electric", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:retail_goods=shopping", 
+    "sg:services=insurance", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "cashing", 
     "check", 
@@ -21,6 +34,6 @@
     "reserve", 
     "second-hand"
   ], 
-  "wof:brand_name": "Cash & Go", 
-  "wof:brand_id": 1125159493
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416255
 }

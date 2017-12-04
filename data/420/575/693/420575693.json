@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414445, 
+  "wof:brand_name": "Phillips 66", 
+  "wof:brand_id": 420575693, 
+  "wof:categories": [
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=petroleum_products", 
+    "manufacturing_and_wholesale_goods:manufacturing=rubber_and_plastics", 
+    "services:building_and_trades=construction", 
+    "services:professional=management_and_consulting", 
+    "services:retail=auto_repair", 
+    "sg:services=building_and_trades", 
+    "sg:services=professional", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "oil", 
     "gasoline", 
@@ -24,6 +40,6 @@
     "petroleum", 
     "repair"
   ], 
-  "wof:brand_name": "Phillips 66", 
-  "wof:brand_id": 420575693
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416222
 }

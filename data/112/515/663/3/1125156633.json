@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414500, 
+  "wof:brand_name": "Qwest Communications", 
+  "wof:brand_id": 1125156633, 
+  "wof:categories": [
+    "services:utilities=telephone", 
+    "sg:services=utilities", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "sg:services=communications", 
+    "services:professional=advertising"
+  ], 
   "wof:tags": [
     "company", 
     "telecommunication", 
@@ -12,6 +20,6 @@
     "communication", 
     "specialty"
   ], 
-  "wof:brand_name": "Qwest Communications", 
-  "wof:brand_id": 1125156633
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416266
 }

@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414544, 
+  "wof:brand_name": "Bang & Olufsen", 
+  "wof:brand_id": 1125161713, 
+  "wof:categories": [
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "sg:retail_goods=shopping", 
+    "sg:services=communications"
+  ], 
   "wof:tags": [
     "fidelity", 
     "high", 
@@ -23,6 +28,6 @@
     "stereo", 
     "theater"
   ], 
-  "wof:brand_name": "Bang & Olufsen", 
-  "wof:brand_id": 1125161713
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416301
 }

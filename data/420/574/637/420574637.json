@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414461, 
+  "wof:brand_name": "24 Hour Locksmith", 
+  "wof:brand_id": 420574637, 
+  "wof:categories": [
+    "services:retail=repair_shop", 
+    "sg:services=retail", 
+    "services:building_and_trades=locksmith", 
+    "sg:services=building_and_trades", 
+    "retail_goods:home_and_garden=hardware", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "lock", 
     "locksmith", 
@@ -11,6 +20,6 @@
     "lubricant", 
     "store"
   ], 
-  "wof:brand_name": "24 Hour Locksmith", 
-  "wof:brand_id": 420574637
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416235
 }

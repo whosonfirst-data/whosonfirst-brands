@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414543, 
+  "wof:brand_name": "Aaron Brothers Inc", 
+  "wof:brand_id": 1125160063, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=crafts_and_fabrics", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "services:retail=repair_shop", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "picture", 
     "frame", 
@@ -10,6 +17,6 @@
     "gallery", 
     "supply"
   ], 
-  "wof:brand_name": "Aaron Brothers Inc", 
-  "wof:brand_id": 1125160063
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416300
 }

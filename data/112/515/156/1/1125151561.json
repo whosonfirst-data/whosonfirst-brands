@@ -1,12 +1,30 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414498, 
+  "wof:brand_name": "NORFOLK COUNTY COUNCIL", 
+  "wof:brand_id": 1125151561, 
+  "wof:categories": [
+    "sg:public_place=education", 
+    "public_place:education=school", 
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "public_place:education=library", 
+    "entertainment:arena=sports_club", 
+    "entertainment:museum=art_museum", 
+    "public_place:community_center=youth", 
+    "public_place:education=preschool", 
+    "services:health_services=nursing_and_care_facility", 
+    "services:social_services=retirement_home", 
+    "sg:entertainment=arena", 
+    "sg:entertainment=museum", 
+    "sg:public_place=community_center", 
+    "sg:services=health_services", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "authority", 
     "local", 
     "agency", 
     "education"
   ], 
-  "wof:brand_name": "NORFOLK COUNTY COUNCIL", 
-  "wof:brand_id": 1125151561
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416265
 }

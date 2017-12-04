@@ -1,6 +1,9 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414471, 
+  "wof:brand_name": "Tony Romas", 
+  "wof:brand_id": 1125156315, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "american", 
     "seafood", 
@@ -12,6 +15,6 @@
     "personal", 
     "pizza"
   ], 
-  "wof:brand_name": "Tony Romas", 
-  "wof:brand_id": 1125156315
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416243
 }

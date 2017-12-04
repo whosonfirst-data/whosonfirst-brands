@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414464, 
+  "wof:brand_name": "National City Bank", 
+  "wof:brand_id": 420574237, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=professional", 
+    "services:professional=computer_services", 
+    "services:professional=management_and_consulting"
+  ], 
   "wof:tags": [
     "commercial", 
     "national", 
@@ -15,6 +23,6 @@
     "for", 
     "headquarters"
   ], 
-  "wof:brand_name": "National City Bank", 
-  "wof:brand_id": 420574237
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416237
 }

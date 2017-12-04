@@ -1,6 +1,32 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414455, 
+  "wof:brand_name": "Planned Parenthood", 
+  "wof:brand_id": 420574497, 
+  "wof:categories": [
+    "sg:services=social_services", 
+    "sg:services=health_services", 
+    "services:health_services=doctor", 
+    "services:health_services=clinic", 
+    "services:social_services=child_care", 
+    "sg:services=organizations", 
+    "services:organizations=nonprofit_organization", 
+    "sg:public_place=community_center", 
+    "sg:public_place=education", 
+    "public_place:education=kindergarten", 
+    "sg:services=personal", 
+    "services:professional=management_and_consulting", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional", 
+    "retail_goods:shopping=baby_store", 
+    "services:health_services=hospital", 
+    "public_place:education=library", 
+    "public_place:government=office", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:health_services=health_practitioner", 
+    "services:insurance=health_insurance", 
+    "services:organizations=political_organization", 
+    "sg:public_place=government", 
+    "sg:services=insurance"
+  ], 
   "wof:tags": [
     "information", 
     "planning", 
@@ -54,6 +80,6 @@
     "surgeons", 
     "youth"
   ], 
-  "wof:brand_name": "Planned Parenthood", 
-  "wof:brand_id": 420574497
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416230
 }

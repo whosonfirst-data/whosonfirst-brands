@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414492, 
+  "wof:brand_name": "Food City", 
+  "wof:brand_id": 1125153601, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=florist", 
+    "retail_goods:shopping=pharmacy", 
+    "retail_goods:food_and_beverages=specialty", 
+    "retail_goods:home_and_garden=hardware", 
+    "services:insurance=insurance_agent", 
+    "sg:food_and_drink=bakery", 
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=insurance"
+  ], 
   "wof:tags": [
     "grocer", 
     "super", 
@@ -11,6 +26,6 @@
     "product", 
     "supermarket"
   ], 
-  "wof:brand_name": "Food City", 
-  "wof:brand_id": 1125153601
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416260
 }

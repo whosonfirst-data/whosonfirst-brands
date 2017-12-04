@@ -1,11 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414514, 
+  "wof:brand_name": "Rack Room Shoes Inc", 
+  "wof:brand_id": 1125155665, 
+  "wof:categories": [
+    "retail_goods:shopping=shoes", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "store", 
     "shoe", 
     "family"
   ], 
-  "wof:brand_name": "Rack Room Shoes Inc", 
-  "wof:brand_id": 1125155665
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416277
 }

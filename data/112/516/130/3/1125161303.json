@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414539, 
+  "wof:brand_name": "Street Dept", 
+  "wof:brand_id": 1125161303, 
+  "wof:categories": [
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "services:utilities=refuse", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "maintenance", 
     "marking", 
@@ -19,6 +27,6 @@
     "transportation", 
     "village"
   ], 
-  "wof:brand_name": "Street Dept", 
-  "wof:brand_id": 1125161303
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416297
 }

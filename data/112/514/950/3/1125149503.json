@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414561, 
+  "wof:brand_name": "Uni-Mart", 
+  "wof:brand_id": 1125149503, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "station", 
     "gas", 
@@ -8,6 +14,6 @@
     "product", 
     "tobacco"
   ], 
-  "wof:brand_name": "Uni-Mart", 
-  "wof:brand_id": 1125149503
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416315
 }

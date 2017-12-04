@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414529, 
+  "wof:brand_name": "Emmanuel Lutheran Church", 
+  "wof:brand_id": 1125155749, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship", 
+    "public_place:education=preschool", 
+    "public_place:education=school", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "church", 
     "lutheran", 
@@ -13,6 +22,6 @@
     "private", 
     "religious"
   ], 
-  "wof:brand_name": "Emmanuel Lutheran Church", 
-  "wof:brand_id": 1125155749
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416289
 }

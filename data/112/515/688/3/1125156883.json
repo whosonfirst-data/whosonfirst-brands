@@ -1,12 +1,21 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414526, 
+  "wof:brand_name": "Wokingham District Council", 
+  "wof:brand_id": 1125156883, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:services=social_services", 
+    "public_place:education=school", 
+    "services:social_services=adult_care", 
+    "services:social_services=child_care", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "local", 
     "authority", 
     "children's", 
     "home"
   ], 
-  "wof:brand_name": "Wokingham District Council", 
-  "wof:brand_id": 1125156883
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416287
 }

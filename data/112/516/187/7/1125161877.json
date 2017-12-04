@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414548, 
+  "wof:brand_name": "Kodak Express", 
+  "wof:brand_id": 1125161877, 
+  "wof:categories": [
+    "entertainment:sports_and_exercise=ski_resort", 
+    "sg:entertainment=sports_and_exercise", 
+    "services:retail=photofinishing", 
+    "sg:services=retail", 
+    "services:professional=art_services", 
+    "sg:services=professional", 
+    "retail_goods:shopping=photographic_equipment", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "photographic", 
     "hobbies", 
@@ -11,6 +21,6 @@
     "processing", 
     "sport"
   ], 
-  "wof:brand_name": "Kodak Express", 
-  "wof:brand_id": 1125161877
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416304
 }

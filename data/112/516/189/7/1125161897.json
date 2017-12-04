@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414547, 
+  "wof:brand_name": "Modern Cleaners", 
+  "wof:brand_id": 1125161897, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "services:retail=selfservice_laundry"
+  ], 
   "wof:tags": [
     "cleaners", 
     "plant", 
@@ -17,6 +22,6 @@
     "pressing", 
     "professional"
   ], 
-  "wof:brand_name": "Modern Cleaners", 
-  "wof:brand_id": 1125161897
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416303
 }

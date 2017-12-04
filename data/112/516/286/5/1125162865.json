@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414538, 
+  "wof:brand_name": "Washington Mutual Inc.", 
+  "wof:brand_id": 1125162865, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=financial_services"
+  ], 
   "wof:tags": [
     "broker", 
     "mortgage", 
@@ -8,6 +13,6 @@
     "institution", 
     "saving"
   ], 
-  "wof:brand_name": "Washington Mutual Inc.", 
-  "wof:brand_id": 1125162865
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416296
 }

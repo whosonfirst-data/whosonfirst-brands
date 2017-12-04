@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414557, 
+  "wof:brand_name": "Mr Rooter", 
+  "wof:brand_id": 1125149781, 
+  "wof:categories": [
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=plumbing", 
+    "services:retail=repair_shop", 
+    "sg:services=retail", 
+    "services:utilities=sewage", 
+    "sg:services=utilities", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:home_and_garden=building_materials", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "services:building_and_trades=construction"
+  ], 
   "wof:tags": [
     "contractor", 
     "plumbing", 
@@ -29,6 +43,6 @@
     "remodeling", 
     "work"
   ], 
-  "wof:brand_name": "Mr Rooter", 
-  "wof:brand_id": 1125149781
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416312
 }

@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414496, 
+  "wof:brand_name": "Paper Plus", 
+  "wof:brand_id": 1125152805, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "manufacturing_and_wholesale_goods:manufacturing=paper_products", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "retail_goods:home_and_garden=hardware", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "retail_goods:shopping=party_supplies", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:professional=computer_services", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "paper", 
     "product", 
@@ -26,6 +44,6 @@
     "representative", 
     "shop"
   ], 
-  "wof:brand_name": "Paper Plus", 
-  "wof:brand_id": 1125152805
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416264
 }

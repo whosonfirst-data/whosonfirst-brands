@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414526, 
+  "wof:brand_name": "First Reformed Church", 
+  "wof:brand_id": 1125156963, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship"
+  ], 
   "wof:tags": [
     "church", 
     "churches-reformed", 
@@ -9,6 +15,6 @@
     "place", 
     "worship"
   ], 
-  "wof:brand_name": "First Reformed Church", 
-  "wof:brand_id": 1125156963
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416287
 }

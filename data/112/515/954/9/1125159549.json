@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414522, 
+  "wof:brand_name": "Family First Mortgage Corp", 
+  "wof:brand_id": 1125159549, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:professional=business_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "loan", 
     "real estate", 
@@ -8,6 +17,6 @@
     "broker", 
     "lender"
   ], 
-  "wof:brand_name": "Family First Mortgage Corp", 
-  "wof:brand_id": 1125159549
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416284
 }

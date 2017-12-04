@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414561, 
+  "wof:brand_name": "Aqualia Gestion Integral Del Agua S.a.", 
+  "wof:brand_id": 1125149797, 
+  "wof:categories": [
+    "services:professional=business_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "asesor\u00cda", 
     "control", 
@@ -10,6 +14,6 @@
     "organizaci\u00d3n", 
     "y"
   ], 
-  "wof:brand_name": "Aqualia Gestion Integral Del Agua S.a.", 
-  "wof:brand_id": 1125149797
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416315
 }

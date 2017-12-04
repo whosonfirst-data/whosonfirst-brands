@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414498, 
+  "wof:brand_name": "St Joseph's School", 
+  "wof:brand_id": 1125153483, 
+  "wof:categories": [
+    "public_place:education=school", 
+    "sg:public_place=education", 
+    "public_place:education=special_training", 
+    "services:organizations=religious_organization", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "elementary", 
     "religious", 
@@ -15,6 +22,6 @@
     "sch", 
     "secondary"
   ], 
-  "wof:brand_name": "St Joseph's School", 
-  "wof:brand_id": 1125153483
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416265
 }

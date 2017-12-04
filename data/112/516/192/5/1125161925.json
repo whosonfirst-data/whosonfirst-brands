@@ -1,11 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414540, 
+  "wof:brand_name": "Nw Autocentres Ltd.", 
+  "wof:brand_id": 1125161925, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "garage", 
     "modification", 
     "related"
   ], 
-  "wof:brand_name": "Nw Autocentres Ltd.", 
-  "wof:brand_id": 1125161925
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416298
 }

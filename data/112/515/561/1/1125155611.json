@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414526, 
+  "wof:brand_name": "Gentle Dental Care", 
+  "wof:brand_id": 1125155611, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=doctor", 
+    "services:health_services=dentist", 
+    "services:health_services=health_practitioner"
+  ], 
   "wof:tags": [
     "dentist", 
     "dental", 
@@ -13,6 +19,6 @@
     "tooth", 
     "whitening"
   ], 
-  "wof:brand_name": "Gentle Dental Care", 
-  "wof:brand_id": 1125155611
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416287
 }

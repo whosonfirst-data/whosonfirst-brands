@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414469, 
+  "wof:brand_name": "Full Spectrum Lending", 
+  "wof:brand_id": 1125155609, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=real_estate", 
+    "services:building_and_trades=equipment_rental", 
+    "services:real_estate=real_estate_agent", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "loan", 
     "real estate", 
@@ -9,6 +19,6 @@
     "leasing", 
     "processing"
   ], 
-  "wof:brand_name": "Full Spectrum Lending", 
-  "wof:brand_id": 1125155609
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416241
 }

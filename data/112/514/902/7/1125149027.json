@@ -1,11 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414563, 
+  "wof:brand_name": "Emergency 24 Hour 7 Day Locksmith", 
+  "wof:brand_id": 1125149027, 
+  "wof:categories": [
+    "services:building_and_trades=locksmith", 
+    "sg:services=building_and_trades", 
+    "services:retail=repair_shop", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "key", 
     "lock", 
     "locksmith"
   ], 
-  "wof:brand_name": "Emergency 24 Hour 7 Day Locksmith", 
-  "wof:brand_id": 1125149027
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416316
 }

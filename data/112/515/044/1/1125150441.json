@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414507, 
+  "wof:brand_name": "Huntington Learning Center", 
+  "wof:brand_id": 1125150441, 
+  "wof:categories": [
+    "sg:public_place=education", 
+    "public_place:education=special_training", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "public_place:education=school", 
+    "public_place:education=library", 
+    "services:social_services=child_care", 
+    "sg:services=social_services", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:professional=business_services", 
+    "sg:services=banks_and_credit_unions", 
+    "public_place:education=preschool", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "services:communications=radio_station", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=communications"
+  ], 
   "wof:tags": [
     "tutoring", 
     "educational", 
@@ -37,6 +55,6 @@
     "testing", 
     "tutor"
   ], 
-  "wof:brand_name": "Huntington Learning Center", 
-  "wof:brand_id": 1125150441
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416271
 }

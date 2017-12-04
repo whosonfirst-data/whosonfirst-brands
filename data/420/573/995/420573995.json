@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414453, 
+  "wof:brand_name": "Washington Mutual", 
+  "wof:brand_id": 420573995, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=real_estate", 
+    "services:insurance=insurance_agent", 
+    "sg:services=insurance", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "mortgage", 
     "broker", 
@@ -26,6 +38,6 @@
     "security", 
     "system"
   ], 
-  "wof:brand_name": "Washington Mutual", 
-  "wof:brand_id": 420573995
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416228
 }

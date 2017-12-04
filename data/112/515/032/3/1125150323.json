@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414477, 
+  "wof:brand_name": "Family Christian Book Store", 
+  "wof:brand_id": 1125150323, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=books", 
+    "retail_goods:shopping=gifts_and_souvenirs"
+  ], 
   "wof:tags": [
     "dealer", 
     "church", 
@@ -8,6 +13,6 @@
     "religious", 
     "shop"
   ], 
-  "wof:brand_name": "Family Christian Book Store", 
-  "wof:brand_id": 1125150323
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416248
 }

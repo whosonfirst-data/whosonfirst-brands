@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414533, 
+  "wof:brand_name": "House Of Beauty", 
+  "wof:brand_id": 1125152879, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=department_store", 
+    "services:personal=barber", 
+    "services:personal=nail_salon", 
+    "services:personal=tanning_parlor", 
+    "services:professional=management_and_consulting"
+  ], 
   "wof:tags": [
     "shop", 
     "beauty", 
@@ -15,6 +29,6 @@
     "perfume", 
     "stylist"
   ], 
-  "wof:brand_name": "House Of Beauty", 
-  "wof:brand_id": 1125152879
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416292
 }

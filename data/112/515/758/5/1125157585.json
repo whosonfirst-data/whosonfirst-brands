@@ -1,10 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414524, 
+  "wof:brand_name": "DX Communications Ltd", 
+  "wof:brand_id": 1125157585, 
+  "wof:categories": [
+    "retail_goods:shopping=mobile_phones", 
+    "sg:retail_goods=shopping", 
+    "sg:services=communications"
+  ], 
   "wof:tags": [
     "telecommunication", 
     "supplier"
   ], 
-  "wof:brand_name": "DX Communications Ltd", 
-  "wof:brand_id": 1125157585
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416285
 }

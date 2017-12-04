@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414480, 
+  "wof:brand_name": "National Bank of Canada", 
+  "wof:brand_id": 1125156279, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "services:real_estate=real_estate_operator", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "commercial", 
     "apartment", 
@@ -15,6 +21,6 @@
     "foreign", 
     "lender"
   ], 
-  "wof:brand_name": "National Bank of Canada", 
-  "wof:brand_id": 1125156279
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416250
 }

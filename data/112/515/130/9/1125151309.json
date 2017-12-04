@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414474, 
+  "wof:brand_name": "Heavenly Ham", 
+  "wof:brand_id": 1125151309, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=meat_and_fish", 
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=meat", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:services=professional", 
+    "sg:food_and_drink=deli", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "retail_goods:shopping=catalog_store", 
+    "services:professional=management_and_consulting", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "american", 
     "eating", 
@@ -27,6 +42,6 @@
     "specializing", 
     "turkey"
   ], 
-  "wof:brand_name": "Heavenly Ham", 
-  "wof:brand_id": 1125151309
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416245
 }

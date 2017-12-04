@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414541, 
+  "wof:brand_name": "Ulta", 
+  "wof:brand_id": 1125162061, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "services:personal=beauty_salon", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "supply", 
     "merchandise", 
@@ -16,6 +22,6 @@
     "spa", 
     "store"
   ], 
-  "wof:brand_name": "Ulta", 
-  "wof:brand_id": 1125162061
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416299
 }

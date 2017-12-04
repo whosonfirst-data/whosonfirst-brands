@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414554, 
+  "wof:brand_name": "Ayuntamiento", 
+  "wof:brand_id": 1125149963, 
+  "wof:categories": [
+    "entertainment:cinema=movie_theater", 
+    "public_place:government=office", 
+    "sg:entertainment=cinema", 
+    "sg:public_place=government", 
+    "sg:transportation=taxi"
+  ], 
   "wof:tags": [
     "administraci\u00d3n", 
     "cine", 
@@ -9,6 +16,6 @@
     "interior", 
     "salas"
   ], 
-  "wof:brand_name": "Ayuntamiento", 
-  "wof:brand_id": 1125149963
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416309
 }

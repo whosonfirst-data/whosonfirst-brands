@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414548, 
+  "wof:brand_name": "Family Planning Clinic", 
+  "wof:brand_id": 1125161815, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=clinic", 
+    "services:health_services=doctor", 
+    "sg:services=social_services", 
+    "public_place:government=office", 
+    "services:health_services=health_practitioner", 
+    "sg:public_place=government"
+  ], 
   "wof:tags": [
     "family", 
     "planning", 
@@ -23,6 +32,6 @@
     "program", 
     "surgeon"
   ], 
-  "wof:brand_name": "Family Planning Clinic", 
-  "wof:brand_id": 1125161815
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416304
 }

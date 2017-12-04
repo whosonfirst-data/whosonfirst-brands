@@ -1,7 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414522, 
-  "wof:tags": [], 
   "wof:brand_name": "Adrexo", 
-  "wof:brand_id": 1125159771
+  "wof:brand_id": 1125159771, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=advertising", 
+    "services:professional=printing_and_photocopies"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416284
 }

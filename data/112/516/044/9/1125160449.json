@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414547, 
+  "wof:brand_name": "Campus Crusade For Christ", 
+  "wof:brand_id": 1125160449, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=religious_organization", 
+    "sg:services=social_services", 
+    "services:organizations=nonprofit_organization", 
+    "sg:public_place=place_of_worship"
+  ], 
   "wof:tags": [
     "church", 
     "center", 
@@ -11,6 +18,6 @@
     "mission", 
     "social"
   ], 
-  "wof:brand_name": "Campus Crusade For Christ", 
-  "wof:brand_id": 1125160449
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416303
 }

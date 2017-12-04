@@ -1,10 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414530, 
+  "wof:brand_name": "Timpson Shoe Repairs", 
+  "wof:brand_id": 1125150963, 
+  "wof:categories": [
+    "retail_goods:shopping=shoes", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:home_and_garden=building_materials", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "hinge", 
     "shop"
   ], 
-  "wof:brand_name": "Timpson Shoe Repairs", 
-  "wof:brand_id": 1125150963
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416290
 }

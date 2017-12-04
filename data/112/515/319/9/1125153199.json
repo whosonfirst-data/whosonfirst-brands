@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414475, 
+  "wof:brand_name": "Best Value Inn", 
+  "wof:brand_id": 1125153199, 
+  "wof:categories": [
+    "sg:entertainment=travel", 
+    "entertainment:travel=hotels_and_motels", 
+    "retail_goods:home_and_garden=hardware", 
+    "sg:retail_goods=home_and_garden", 
+    "entertainment:travel=bed_and_breakfast", 
+    "services:real_estate=real_estate_operator", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "operation", 
     "inn", 
@@ -14,6 +23,6 @@
     "sale", 
     "vacation"
   ], 
-  "wof:brand_name": "Best Value Inn", 
-  "wof:brand_id": 1125153199
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416246
 }

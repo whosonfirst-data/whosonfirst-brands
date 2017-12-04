@@ -1,10 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414496, 
+  "wof:brand_name": "Halfords", 
+  "wof:brand_id": 1125152711, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "services:retail=auto_repair", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "accessory", 
     "part"
   ], 
-  "wof:brand_name": "Halfords", 
-  "wof:brand_id": 1125152711
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416263
 }

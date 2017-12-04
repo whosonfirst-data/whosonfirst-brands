@@ -1,11 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414522, 
+  "wof:brand_name": "New Image Beauty Salon", 
+  "wof:brand_id": 1125157451, 
+  "wof:categories": [
+    "services:personal=beauty_salon", 
+    "sg:services=personal", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "sg:retail_goods=shopping", 
+    "services:personal=barber"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
     "merchandise"
   ], 
-  "wof:brand_name": "New Image Beauty Salon", 
-  "wof:brand_id": 1125157451
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416283
 }

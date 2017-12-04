@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414482, 
+  "wof:brand_name": "Rotary International", 
+  "wof:brand_id": 1125154145, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=community_association", 
+    "services:organizations=membership_organization", 
+    "sg:services=social_services", 
+    "public_place:education=special_training", 
+    "services:organizations=professional_association", 
+    "services:professional=business_services", 
+    "sg:entertainment=recreation", 
+    "sg:public_place=education", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "civic", 
     "establishment", 
@@ -12,6 +24,6 @@
     "volunteer", 
     "workers'"
   ], 
-  "wof:brand_name": "Rotary International", 
-  "wof:brand_id": 1125154145
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416251
 }

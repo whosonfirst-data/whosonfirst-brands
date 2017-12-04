@@ -1,6 +1,41 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414489, 
+  "wof:brand_name": "Hallmark", 
+  "wof:brand_id": 1125151009, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "sg:services=professional", 
+    "retail_goods:shopping=florist", 
+    "services:communications=film_and_video_production", 
+    "sg:services=building_and_trades", 
+    "sg:services=communications", 
+    "entertainment:arts_and_performance=theater", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "public_place:education=school", 
+    "retail_goods:shopping=crafts_and_fabrics", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "services:building_and_trades=construction", 
+    "services:organizations=community_association", 
+    "services:personal=beauty_salon", 
+    "services:professional=advertising", 
+    "services:professional=business_services", 
+    "services:professional=employment_agencies", 
+    "services:professional=research", 
+    "services:real_estate=real_estate_services", 
+    "services:social_services=adult_care", 
+    "sg:entertainment=arts_and_performance", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:public_place=education", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=organizations", 
+    "sg:services=personal", 
+    "sg:services=real_estate", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "shop", 
     "greeting", 
@@ -37,6 +72,6 @@
     "title", 
     "wens-"
   ], 
-  "wof:brand_name": "Hallmark", 
-  "wof:brand_id": 1125151009
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416257
 }

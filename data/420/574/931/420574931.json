@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414457, 
+  "wof:brand_name": "Ann Taylor", 
+  "wof:brand_id": 420574931, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=department_store", 
+    "sg:public_place=shopping_center", 
+    "services:professional=art_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "accessory", 
     "women's", 
@@ -17,6 +25,6 @@
     "to", 
     "wear"
   ], 
-  "wof:brand_name": "Ann Taylor", 
-  "wof:brand_id": 420574931
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416232
 }

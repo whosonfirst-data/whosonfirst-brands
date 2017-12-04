@@ -1,6 +1,9 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414540, 
+  "wof:brand_name": "Papa Romano's", 
+  "wof:brand_id": 1125160927, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "pizza", 
     "american", 
@@ -8,6 +11,6 @@
     "wrap", 
     "eating"
   ], 
-  "wof:brand_name": "Papa Romano's", 
-  "wof:brand_id": 1125160927
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416298
 }

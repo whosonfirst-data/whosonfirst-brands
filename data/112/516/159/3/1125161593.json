@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414539, 
+  "wof:brand_name": "Rumors", 
+  "wof:brand_id": 1125161593, 
+  "wof:categories": [
+    "sg:food_and_drink=bars_and_pubs", 
+    "services:personal=beauty_salon", 
+    "sg:services=personal", 
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=shopping", 
+    "food_and_drink:bars_and_pubs=lounge", 
+    "sg:services=professional", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "entertainment:recreation=arcade", 
+    "food_and_drink:bars_and_pubs=gay_bar", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:entertainment=recreation"
+  ], 
   "wof:tags": [
     "shop", 
     "drinking", 
@@ -30,6 +44,6 @@
     "toupee", 
     "wig"
   ], 
-  "wof:brand_name": "Rumors", 
-  "wof:brand_id": 1125161593
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416297
 }

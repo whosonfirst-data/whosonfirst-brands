@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414447, 
+  "wof:brand_name": "Party City", 
+  "wof:brand_id": 420575047, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=party_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "sg:services=personal", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "services:professional=business_services", 
+    "services:professional=management_and_consulting", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "services:building_and_trades=equipment_rental", 
+    "services:professional=accounting_and_tax_preparation", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "party", 
     "supply", 
@@ -41,6 +61,6 @@
     "variety", 
     "wedding"
   ], 
-  "wof:brand_name": "Party City", 
-  "wof:brand_id": 420575047
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416224
 }

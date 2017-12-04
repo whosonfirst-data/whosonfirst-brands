@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414498, 
+  "wof:brand_name": "Nail Pro", 
+  "wof:brand_id": 1125157217, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "retail_goods:shopping=department_store", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "manicuring", 
     "shop", 
@@ -11,6 +20,6 @@
     "spa", 
     "toilet"
   ], 
-  "wof:brand_name": "Nail Pro", 
-  "wof:brand_id": 1125157217
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416265
 }

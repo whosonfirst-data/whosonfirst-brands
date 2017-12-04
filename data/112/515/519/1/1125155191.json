@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414519, 
+  "wof:brand_name": "Tim Horton's", 
+  "wof:brand_id": 1125155191, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=coffee_and_tea", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:food_and_drink=deli", 
+    "food_and_drink:donuts=none", 
+    "sg:food_and_drink=donuts", 
+    "sg:food_and_drink=fast_food"
+  ], 
   "wof:tags": [
     "espresso", 
     "sandwich", 
@@ -15,6 +26,6 @@
     "donut", 
     "eating"
   ], 
-  "wof:brand_name": "Tim Horton's", 
-  "wof:brand_id": 1125155191
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416281
 }

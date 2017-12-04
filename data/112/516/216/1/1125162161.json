@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414540, 
+  "wof:brand_name": "Calvary Presbyterian Church", 
+  "wof:brand_id": 1125162161, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship", 
+    "public_place:education=preschool", 
+    "public_place:education=school", 
+    "services:social_services=child_care", 
+    "sg:public_place=education", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "church", 
     "presbyterian", 
@@ -16,6 +27,6 @@
     "venue", 
     "worship"
   ], 
-  "wof:brand_name": "Calvary Presbyterian Church", 
-  "wof:brand_id": 1125162161
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416298
 }

@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414541, 
+  "wof:brand_name": "Dave & Buster's", 
+  "wof:brand_id": 1125160149, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:entertainment=recreation", 
+    "entertainment:recreation=arcade", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "entertainment:recreation=amusement_park", 
+    "food_and_drink:bars_and_pubs=sports_bar", 
+    "entertainment:recreation=picnic_area", 
+    "food_and_drink:bars_and_pubs=lounge", 
+    "services:retail=event_space", 
+    "sg:food_and_drink=fast_food", 
+    "sg:services=personal", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "american", 
     "pub", 
@@ -25,6 +39,6 @@
     "life", 
     "new"
   ], 
-  "wof:brand_name": "Dave & Buster's", 
-  "wof:brand_id": 1125160149
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416298
 }

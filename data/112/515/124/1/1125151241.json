@@ -1,6 +1,25 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414501, 
+  "wof:brand_name": "Vitamin Shoppe", 
+  "wof:brand_id": 1125151241, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=specialty", 
+    "retail_goods:food_and_beverages=fruits_and_vegetables", 
+    "services:insurance=health_insurance", 
+    "sg:retail_goods=shopping", 
+    "sg:services=insurance", 
+    "sg:services=health_services", 
+    "retail_goods:shopping=catalog_store", 
+    "services:health_services=clinic", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "entertainment:sports_and_exercise=gym", 
+    "manufacturing_and_wholesale_goods:wholesale=drugs", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:shopping=pharmacy", 
+    "services:health_services=health_practitioner", 
+    "sg:entertainment=sports_and_exercise"
+  ], 
   "wof:tags": [
     "vitamin", 
     "supplement", 
@@ -21,6 +40,6 @@
     "pharmacy", 
     "store"
   ], 
-  "wof:brand_name": "Vitamin Shoppe", 
-  "wof:brand_id": 1125151241
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416267
 }

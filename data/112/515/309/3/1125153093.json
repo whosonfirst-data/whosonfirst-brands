@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414492, 
+  "wof:brand_name": "Hair Creations", 
+  "wof:brand_id": 1125153093, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "services:personal=hair_removal", 
+    "services:personal=nail_salon", 
+    "services:personal=day_spa", 
+    "services:personal=massage", 
+    "services:personal=skin_care"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
@@ -11,6 +21,6 @@
     "beauty", 
     "removing"
   ], 
-  "wof:brand_name": "Hair Creations", 
-  "wof:brand_id": 1125153093
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416260
 }

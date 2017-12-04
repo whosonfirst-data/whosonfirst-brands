@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414481, 
+  "wof:brand_name": "Orchard Supply Hardware", 
+  "wof:brand_id": 1125157695, 
+  "wof:categories": [
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=hardware", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "retail_goods:home_and_garden=building_materials", 
+    "manufacturing_and_wholesale_goods:farming=nursery", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "retail_goods:home_and_garden=household_appliances"
+  ], 
   "wof:tags": [
     "store", 
     "gardening", 
@@ -12,6 +21,6 @@
     "hardware", 
     "supply"
   ], 
-  "wof:brand_name": "Orchard Supply Hardware", 
-  "wof:brand_id": 1125157695
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416250
 }

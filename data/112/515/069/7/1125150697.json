@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414501, 
+  "wof:brand_name": "US Bancorp", 
+  "wof:brand_id": 1125150697, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "manufacturing_and_wholesale_goods:wholesale=office_equipment", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:building_and_trades=equipment_rental", 
+    "services:organizations=professional_association", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=building_and_trades", 
+    "sg:services=organizations", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "commercial", 
     "national", 
@@ -22,6 +36,6 @@
     "operates", 
     "trust"
   ], 
-  "wof:brand_name": "US Bancorp", 
-  "wof:brand_id": 1125150697
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416267
 }

@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414497, 
+  "wof:brand_name": "Apostolic Christian Church", 
+  "wof:brand_id": 1125153839, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship", 
+    "services:personal=beauty_salon", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "church", 
     "churches-apostolic", 
@@ -18,6 +26,6 @@
     "shop", 
     "skilled"
   ], 
-  "wof:brand_name": "Apostolic Christian Church", 
-  "wof:brand_id": 1125153839
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416264
 }

@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414446, 
+  "wof:brand_name": "Outback Steakhouse", 
+  "wof:brand_id": 420575933, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "steakhouse", 
     "american", 
@@ -20,6 +26,6 @@
     "gluten-free", 
     "management"
   ], 
-  "wof:brand_name": "Outback Steakhouse", 
-  "wof:brand_id": 420575933
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416223
 }

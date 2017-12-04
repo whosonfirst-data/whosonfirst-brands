@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414452, 
+  "wof:brand_name": "Aerus Electrolux", 
+  "wof:brand_id": 420575551, 
+  "wof:categories": [
+    "retail_goods:home_and_garden=household_appliances", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "services:retail=repair_shop", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:wholesale=scrap", 
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "services:building_and_trades=construction", 
+    "services:professional=business_services", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "cleaners", 
     "vacuum", 
@@ -42,6 +62,6 @@
     "telemarketing", 
     "upholstery"
   ], 
-  "wof:brand_name": "Aerus Electrolux", 
-  "wof:brand_id": 420575551
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416227
 }

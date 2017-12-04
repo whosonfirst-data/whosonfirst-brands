@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414491, 
+  "wof:brand_name": "Select", 
+  "wof:brand_id": 1125154481, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:retail=driving_school", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:manufacturing=leather_goods", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:building_and_trades=construction", 
+    "services:insurance=hazard_insurance", 
+    "services:insurance=insurance_agent", 
+    "services:professional=research", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=building_and_trades", 
+    "sg:services=insurance", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "-", 
     "analyst", 
@@ -11,6 +29,6 @@
     "real estate", 
     "recognized"
   ], 
-  "wof:brand_name": "Select", 
-  "wof:brand_id": 1125154481
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416259
 }

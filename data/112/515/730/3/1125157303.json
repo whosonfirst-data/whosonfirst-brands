@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414486, 
+  "wof:brand_name": "Water Plant", 
+  "wof:brand_id": 1125157303, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:services=utilities", 
+    "services:utilities=water", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "sg:services=professional", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "services:professional=business_services", 
+    "services:professional=management_and_consulting", 
+    "services:utilities=sewage", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "village", 
     "company", 
@@ -20,6 +34,6 @@
     "sewerage", 
     "system"
   ], 
-  "wof:brand_name": "Water Plant", 
-  "wof:brand_id": 1125157303
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416254
 }

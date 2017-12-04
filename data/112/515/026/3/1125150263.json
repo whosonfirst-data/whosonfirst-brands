@@ -1,6 +1,33 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414468, 
+  "wof:brand_name": "Headstart", 
+  "wof:brand_id": 1125150263, 
+  "wof:categories": [
+    "sg:services=social_services", 
+    "services:social_services=child_care", 
+    "sg:public_place=education", 
+    "public_place:education=school", 
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "public_place:education=special_training", 
+    "sg:services=organizations", 
+    "services:organizations=nonprofit_organization", 
+    "public_place:education=preschool", 
+    "public_place:government=office", 
+    "services:organizations=community_association", 
+    "services:personal=barber", 
+    "sg:public_place=government", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:farming=nursery", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:professional=employment_agencies", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:real_estate=real_estate_operator", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:retail_goods=shopping", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "academic", 
     "kindergarten", 
@@ -43,6 +70,6 @@
     "program", 
     "shop"
   ], 
-  "wof:brand_name": "Headstart", 
-  "wof:brand_id": 1125150263
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416240
 }

@@ -1,11 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414554, 
+  "wof:brand_name": "Servicio Andaluz De Salud", 
+  "wof:brand_id": 1125149089, 
+  "wof:categories": [
+    "sg:services=communications"
+  ], 
   "wof:tags": [
     "radio", 
     "televisiones", 
     "y"
   ], 
-  "wof:brand_name": "Servicio Andaluz De Salud", 
-  "wof:brand_id": 1125149089
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416309
 }

@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414513, 
+  "wof:brand_name": "Da Vita Inc", 
+  "wof:brand_id": 1125153511, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=doctor", 
+    "services:health_services=clinic", 
+    "services:health_services=hospital", 
+    "services:health_services=medical_lab", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:health_services=health_practitioner", 
+    "sg:retail_goods=shopping", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "clinic", 
     "dialysis", 
@@ -20,6 +31,6 @@
     "services-information", 
     "supply"
   ], 
-  "wof:brand_name": "Da Vita Inc", 
-  "wof:brand_id": 1125153511
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416277
 }

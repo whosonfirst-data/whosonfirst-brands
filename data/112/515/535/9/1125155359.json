@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414536, 
+  "wof:brand_name": "City Cafe", 
+  "wof:brand_id": 1125155359, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:food_and_drink=deli", 
+    "public_place:community_center=social", 
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:entertainment=recreation", 
+    "sg:food_and_drink=cafe", 
+    "sg:food_and_drink=coffee_and_tea", 
+    "sg:public_place=community_center"
+  ], 
   "wof:tags": [
     "eating", 
     "drinking", 
@@ -17,6 +30,6 @@
     "new", 
     "pizza"
   ], 
-  "wof:brand_name": "City Cafe", 
-  "wof:brand_id": 1125155359
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416294
 }

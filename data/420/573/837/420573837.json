@@ -1,6 +1,18 @@
 {
   "wof:brand_name": "Jehovah's Witnesses", 
   "wof:brand_id": 420573837, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "sg:public_place=place_of_worship", 
+    "public_place:place_of_worship=church", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=construction_materials", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "church", 
     "churches-jehovah's", 
@@ -33,6 +45,6 @@
     1125156261
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414453, 
+  "wof:lastmodified": 1512416229, 
   "mz:is_current": 1
 }

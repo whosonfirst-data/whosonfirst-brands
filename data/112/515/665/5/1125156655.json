@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414510, 
+  "wof:brand_name": "Speedy Cash", 
+  "wof:brand_id": 1125156655, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "manufacturing_and_wholesale_goods:manufacturing=jewelry", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "retail_goods:shopping=used_merchandise", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional", 
+    "services:professional=lawyer_and_legal_services"
+  ], 
   "wof:tags": [
     "cashing", 
     "check", 
@@ -26,6 +37,6 @@
     "personal", 
     "shop"
   ], 
-  "wof:brand_name": "Speedy Cash", 
-  "wof:brand_id": 1125156655
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416274
 }

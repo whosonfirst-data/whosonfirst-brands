@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414549, 
+  "wof:brand_name": "Pop Warner Little Scholar", 
+  "wof:brand_id": 1125161951, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:social_services=child_care", 
+    "sg:services=social_services", 
+    "sg:services=organizations", 
+    "services:organizations=membership_organization", 
+    "sg:entertainment=recreation", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "public_place:education=special_training", 
+    "services:communications=radio_station", 
+    "services:organizations=community_association", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:public_place=education", 
+    "sg:services=communications"
+  ], 
   "wof:tags": [
     "day", 
     "club", 
@@ -11,6 +26,6 @@
     "mfg", 
     "sport"
   ], 
-  "wof:brand_name": "Pop Warner Little Scholar", 
-  "wof:brand_id": 1125161951
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416305
 }

@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414536, 
+  "wof:brand_name": "Sewage Treatment Plant", 
+  "wof:brand_id": 1125159685, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:services=utilities", 
+    "services:utilities=sewage", 
+    "services:building_and_trades=construction", 
+    "services:utilities=refuse", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "village", 
     "system", 
@@ -18,6 +27,6 @@
     "waste", 
     "water"
   ], 
-  "wof:brand_name": "Sewage Treatment Plant", 
-  "wof:brand_id": 1125159685
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416295
 }

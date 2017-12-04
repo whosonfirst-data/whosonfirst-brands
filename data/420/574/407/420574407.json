@@ -1,6 +1,30 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414459, 
+  "wof:brand_name": "Jackson Hewitt Tax Service", 
+  "wof:brand_id": 420574407, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=accounting_and_tax_preparation", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:professional=business_services", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:insurance=insurance_agent", 
+    "services:professional=management_and_consulting", 
+    "sg:services=insurance", 
+    "public_place:government=office", 
+    "services:banks_and_credit_unions=bank", 
+    "services:health_services=doctor", 
+    "services:organizations=professional_association", 
+    "services:professional=printing_and_photocopies", 
+    "services:retail=veterinary_services", 
+    "sg:public_place=government", 
+    "sg:services=health_services", 
+    "sg:services=organizations", 
+    "sg:services=retail", 
+    "sg:transportation=freight", 
+    "sg:transportation=taxi"
+  ], 
   "wof:tags": [
     "return", 
     "bookkeeping", 
@@ -29,6 +53,6 @@
     "provides", 
     "veterinarian"
   ], 
-  "wof:brand_name": "Jackson Hewitt Tax Service", 
-  "wof:brand_id": 420574407
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416233
 }

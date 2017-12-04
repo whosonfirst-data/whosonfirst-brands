@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414544, 
+  "wof:brand_name": "Johnny's Pizza", 
+  "wof:brand_id": 1125160239, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=bakery", 
+    "retail_goods:food_and_beverages=specialty"
+  ], 
   "wof:tags": [
     "pizza", 
     "american", 
@@ -12,6 +18,6 @@
     "sandwich", 
     "wing"
   ], 
-  "wof:brand_name": "Johnny's Pizza", 
-  "wof:brand_id": 1125160239
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416301
 }

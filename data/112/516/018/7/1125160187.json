@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414546, 
+  "wof:brand_name": "Gift Gallery", 
+  "wof:brand_id": 1125160187, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=catalog_store", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "services:professional=computer_services", 
+    "services:retail=repair_shop", 
+    "sg:entertainment=recreation", 
+    "sg:services=personal", 
+    "sg:services=professional", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "shop", 
     "merchandise", 
@@ -11,6 +23,6 @@
     "sport", 
     "stationer"
   ], 
-  "wof:brand_name": "Gift Gallery", 
-  "wof:brand_id": 1125160187
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416302
 }

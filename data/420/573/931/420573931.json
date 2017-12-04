@@ -1,6 +1,37 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414453, 
+  "wof:brand_name": "Sherwin-Williams Paints", 
+  "wof:brand_id": 420573931, 
+  "wof:categories": [
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=building_materials", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=painting_supplies", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "retail_goods:home_and_garden=carpets_and_floor_coverings", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=professional", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "manufacturing_and_wholesale_goods:wholesale=home_furnishings", 
+    "services:professional=management_and_consulting", 
+    "services:professional=research", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:manufacturing=textiles", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=business_services", 
+    "services:professional=credit_reporting_and_collection", 
+    "services:real_estate=architect", 
+    "sg:services=real_estate", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "paint", 
     "covering", 
@@ -66,6 +97,6 @@
     "wholesale", 
     "workroom"
   ], 
-  "wof:brand_name": "Sherwin-Williams Paints", 
-  "wof:brand_id": 420573931
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416228
 }

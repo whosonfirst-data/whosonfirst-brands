@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414559, 
+  "wof:brand_name": "Braum's Ice Cream & Dairy Stores", 
+  "wof:brand_id": 1125148879, 
+  "wof:categories": [
+    "sg:food_and_drink=ice_cream", 
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=dairy", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "american", 
     "cream", 
@@ -9,6 +18,6 @@
     "yogurt", 
     "parlor"
   ], 
-  "wof:brand_name": "Braum's Ice Cream & Dairy Stores", 
-  "wof:brand_id": 1125148879
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416313
 }

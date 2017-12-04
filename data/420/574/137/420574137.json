@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414458, 
+  "wof:brand_name": "American General Finance Inc", 
+  "wof:brand_id": 420574137, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:insurance=life_insurance", 
+    "services:professional=management_and_consulting"
+  ], 
   "wof:tags": [
     "financing", 
     "loan", 
@@ -33,6 +45,6 @@
     "licensed", 
     "stock"
   ], 
-  "wof:brand_name": "American General Finance Inc", 
-  "wof:brand_id": 420574137
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416232
 }

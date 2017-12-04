@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414540, 
+  "wof:brand_name": "Global Travel", 
+  "wof:brand_id": 1125160193, 
+  "wof:categories": [
+    "entertainment:travel=travel_agent", 
+    "sg:entertainment=travel"
+  ], 
   "wof:tags": [
     "agency", 
     "bureau", 
@@ -10,6 +14,6 @@
     "services-commercial", 
     "tours"
   ], 
-  "wof:brand_name": "Global Travel", 
-  "wof:brand_id": 1125160193
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416298
 }

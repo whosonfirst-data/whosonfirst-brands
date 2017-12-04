@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414447, 
+  "wof:brand_name": "Tuesday Morning", 
+  "wof:brand_id": 420575107, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "retail_goods:shopping=catalog_store", 
+    "retail_goods:shopping=luggage_and_leather_goods", 
+    "services:building_and_trades=construction", 
+    "sg:food_and_drink=coffee_and_tea", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "shop", 
     "housewares", 
@@ -26,6 +42,6 @@
     "merchandise", 
     "parcel"
   ], 
-  "wof:brand_name": "Tuesday Morning", 
-  "wof:brand_id": 420575107
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416224
 }

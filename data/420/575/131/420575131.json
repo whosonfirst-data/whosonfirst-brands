@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414447, 
+  "wof:brand_name": "Wolverhampton Borough Council", 
+  "wof:brand_id": 420575131, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:public_place=community_center", 
+    "public_place:education=school", 
+    "sg:public_place=education", 
+    "manufacturing_and_wholesale_goods:farming=nursery", 
+    "manufacturing_and_wholesale_goods:wholesale=fruits_and_vegetables", 
+    "services:social_services=adult_care", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=social_services", 
+    "sg:transportation=parking"
+  ], 
   "wof:tags": [
     "local", 
     "centre", 
@@ -11,6 +25,6 @@
     "park", 
     "recreation"
   ], 
-  "wof:brand_name": "Wolverhampton Borough Council", 
-  "wof:brand_id": 420575131
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416224
 }

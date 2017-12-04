@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414465, 
+  "wof:brand_name": "Bojangles", 
+  "wof:brand_id": 1125158455, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "services:personal=beauty_salon", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:services=personal", 
+    "services:personal=barber", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "retail_goods:shopping=shoes", 
+    "services:professional=advertising", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "eating", 
     "fast", 
@@ -16,6 +30,6 @@
     "shop", 
     "southern"
   ], 
-  "wof:brand_name": "Bojangles", 
-  "wof:brand_id": 1125158455
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416238
 }

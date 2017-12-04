@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414503, 
+  "wof:brand_name": "International House of Pancakes", 
+  "wof:brand_id": 1125152787, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=coffee_and_tea"
+  ], 
   "wof:tags": [
     "breakfast", 
     "brunch", 
@@ -11,6 +15,6 @@
     "style", 
     "traditional"
   ], 
-  "wof:brand_name": "International House of Pancakes", 
-  "wof:brand_id": 1125152787
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416269
 }

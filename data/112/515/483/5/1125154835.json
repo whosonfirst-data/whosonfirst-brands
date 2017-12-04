@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414523, 
+  "wof:brand_name": "American Cleaners", 
+  "wof:brand_id": 1125154835, 
+  "wof:categories": [
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "cleaners", 
     "plant", 
@@ -18,6 +24,6 @@
     "shirt", 
     "supply"
   ], 
-  "wof:brand_name": "American Cleaners", 
-  "wof:brand_id": 1125154835
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416285
 }

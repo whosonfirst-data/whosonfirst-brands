@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414546, 
+  "wof:brand_name": "Nail Club", 
+  "wof:brand_id": 1125161909, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon", 
+    "sg:entertainment=recreation", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "manicuring", 
     "shop", 
@@ -12,6 +20,6 @@
     "preparation", 
     "toilet"
   ], 
-  "wof:brand_name": "Nail Club", 
-  "wof:brand_id": 1125161909
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416302
 }

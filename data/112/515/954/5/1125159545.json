@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414522, 
+  "wof:brand_name": "Equity Corporate Housing", 
+  "wof:brand_id": 1125159545, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_agent", 
+    "sg:entertainment=travel", 
+    "entertainment:travel=bed_and_breakfast", 
+    "services:real_estate=real_estate_operator", 
+    "entertainment:travel=hotels_and_motels", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=professional", 
+    "public_place:government=office", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:public_place=government", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "loan", 
     "housing", 
@@ -29,6 +45,6 @@
     "trust", 
     "vacancy"
   ], 
-  "wof:brand_name": "Equity Corporate Housing", 
-  "wof:brand_id": 1125159545
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416284
 }

@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414561, 
+  "wof:brand_name": "Pep Boys", 
+  "wof:brand_id": 1125149871, 
+  "wof:categories": [
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:transportation=freight", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "part", 
     "automobile", 
@@ -29,6 +42,6 @@
     "pa", 
     "r"
   ], 
-  "wof:brand_name": "Pep Boys", 
-  "wof:brand_id": 1125149871
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416315
 }

@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414463, 
+  "wof:brand_name": "Assembly Of God Church", 
+  "wof:brand_id": 420574859, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship", 
+    "manufacturing_and_wholesale_goods:manufacturing=retail_goods", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "public_place:education=school", 
+    "retail_goods:shopping=crafts_and_fabrics", 
+    "sg:public_place=education", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "church", 
     "god", 
@@ -25,6 +37,6 @@
     "religious", 
     "sewing"
   ], 
-  "wof:brand_name": "Assembly Of God Church", 
-  "wof:brand_id": 420574859
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416237
 }

@@ -1,6 +1,29 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414503, 
+  "wof:brand_name": "Aquarius", 
+  "wof:brand_id": 1125157555, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "sg:services=personal", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:services=professional", 
+    "services:personal=beauty_salon", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "entertainment:sports_and_exercise=gym", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=jewelry", 
+    "retail_goods:shopping=pets_and_pet_supplies", 
+    "services:personal=psychics_and_astrologers", 
+    "services:professional=art_services", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:social_services=retirement_home", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:food_and_drink=fast_food", 
+    "sg:food_and_drink=restaurant", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "shop", 
     "accessory", 
@@ -25,6 +48,6 @@
     "therapeutic", 
     "water"
   ], 
-  "wof:brand_name": "Aquarius", 
-  "wof:brand_id": 1125157555
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416268
 }

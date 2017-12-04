@@ -1,11 +1,15 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414455, 
+  "wof:brand_name": "Sun Trust Bank", 
+  "wof:brand_id": 420574307, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "commercial", 
     "national", 
     "loan"
   ], 
-  "wof:brand_name": "Sun Trust Bank", 
-  "wof:brand_id": 420574307
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416230
 }

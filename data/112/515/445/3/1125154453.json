@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414491, 
+  "wof:brand_name": "Mr. Hero", 
+  "wof:brand_id": 1125154453, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:food_and_drink=deli", 
+    "sg:food_and_drink=fast_food", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "sandwich", 
     "american", 
@@ -9,6 +16,6 @@
     "shop", 
     "take"
   ], 
-  "wof:brand_name": "Mr. Hero", 
-  "wof:brand_id": 1125154453
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416259
 }

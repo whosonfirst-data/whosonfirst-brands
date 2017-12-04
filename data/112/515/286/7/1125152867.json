@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414468, 
+  "wof:brand_name": "Dollar Mart", 
+  "wof:brand_id": 1125152867, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "shop", 
     "merchandise", 
@@ -13,6 +25,6 @@
     "personal", 
     "supply"
   ], 
-  "wof:brand_name": "Dollar Mart", 
-  "wof:brand_id": 1125152867
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416240
 }

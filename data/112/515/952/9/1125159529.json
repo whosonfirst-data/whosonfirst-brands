@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414493, 
+  "wof:brand_name": "Dave's Auto Repair", 
+  "wof:brand_id": 1125159529, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "automobile", 
     "repairing", 
@@ -23,6 +33,6 @@
     "station", 
     "transmission"
   ], 
-  "wof:brand_name": "Dave's Auto Repair", 
-  "wof:brand_id": 1125159529
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416261
 }

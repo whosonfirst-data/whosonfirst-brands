@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414510, 
+  "wof:brand_name": "The Crown", 
+  "wof:brand_id": 1125154155, 
+  "wof:categories": [
+    "sg:food_and_drink=bars_and_pubs", 
+    "public_place:community_center=social", 
+    "sg:public_place=community_center", 
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel", 
+    "sg:food_and_drink=cafe"
+  ], 
   "wof:tags": [
     "inn", 
     "pubs", 
@@ -9,6 +17,6 @@
     "room", 
     "tea"
   ], 
-  "wof:brand_name": "The Crown", 
-  "wof:brand_id": 1125154155
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416275
 }

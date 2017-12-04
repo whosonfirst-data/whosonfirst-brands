@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414480, 
+  "wof:brand_name": "Maid Brigade", 
+  "wof:brand_id": 1125152003, 
+  "wof:categories": [
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "sg:services=building_and_trades", 
+    "sg:services=professional", 
+    "services:professional=employment_agencies", 
+    "sg:services=personal", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:services=retail", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "house", 
     "home", 
@@ -34,6 +45,6 @@
     "supp", 
     "window"
   ], 
-  "wof:brand_name": "Maid Brigade", 
-  "wof:brand_id": 1125152003
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416250
 }

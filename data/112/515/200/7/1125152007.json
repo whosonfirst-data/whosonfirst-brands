@@ -1,7 +1,10 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414480, 
-  "wof:tags": [], 
   "wof:brand_name": "Restaurant Bahnhof", 
-  "wof:brand_id": 1125152007
+  "wof:brand_id": 1125152007, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416250
 }

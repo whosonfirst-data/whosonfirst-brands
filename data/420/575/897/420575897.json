@@ -1,6 +1,38 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414447, 
+  "wof:brand_name": "Quick Stop", 
+  "wof:brand_id": 420575897, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:food_and_beverages=candy", 
+    "retail_goods:food_and_beverages=specialty", 
+    "retail_goods:shopping=news", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=building_and_trades", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "manufacturing_and_wholesale_goods:wholesale=petroleum", 
+    "manufacturing_and_wholesale_goods:wholesale=wine_and_distilled_alcoholic_beverages", 
+    "retail_goods:food_and_beverages=meat_and_fish", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "retail_goods:shopping=tobacco", 
+    "services:building_and_trades=equipment_rental", 
+    "services:building_and_trades=landscaping_services", 
+    "services:communications=newspaper", 
+    "services:professional=computer_services", 
+    "services:utilities=fuel_oil_and_lpg", 
+    "sg:food_and_drink=deli", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=communications", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "gasoline", 
     "station", 
@@ -39,6 +71,6 @@
     "wrap", 
     "yard"
   ], 
-  "wof:brand_name": "Quick Stop", 
-  "wof:brand_id": 420575897
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416224
 }

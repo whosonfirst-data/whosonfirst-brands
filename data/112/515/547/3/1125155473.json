@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414465, 
+  "wof:brand_name": "Counseling Center", 
+  "wof:brand_id": 1125155473, 
+  "wof:categories": [
+    "sg:services=social_services", 
+    "sg:services=health_services", 
+    "services:health_services=health_practitioner", 
+    "services:health_services=clinic", 
+    "services:health_services=doctor", 
+    "services:health_services=hospital", 
+    "sg:services=organizations", 
+    "public_place:government=office", 
+    "services:organizations=nonprofit_organization", 
+    "services:organizations=religious_organization", 
+    "services:social_services=adult_care", 
+    "services:social_services=job_training", 
+    "sg:public_place=government", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "counseling", 
     "counselor", 
@@ -33,6 +49,6 @@
     "psychiatric", 
     "substance"
   ], 
-  "wof:brand_name": "Counseling Center", 
-  "wof:brand_id": 1125155473
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416238
 }

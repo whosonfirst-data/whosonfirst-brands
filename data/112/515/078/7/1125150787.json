@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414511, 
+  "wof:brand_name": "Shell Canada Products Ltd", 
+  "wof:brand_id": 1125150787, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=petroleum", 
+    "sg:services=retail", 
+    "services:retail=car_wash", 
+    "manufacturing_and_wholesale_goods:manufacturing=petroleum_products", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "services:retail=auto_repair", 
+    "services:utilities=fuel_oil_and_lpg", 
+    "sg:food_and_drink=restaurant", 
+    "sg:manufacturing_and_wholesale_goods=mining_and_drilling", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "oil", 
     "gasoline", 
@@ -20,6 +38,6 @@
     "repairing", 
     "store"
   ], 
-  "wof:brand_name": "Shell Canada Products Ltd", 
-  "wof:brand_id": 1125150787
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416275
 }

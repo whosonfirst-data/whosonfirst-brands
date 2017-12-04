@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414546, 
+  "wof:brand_name": "Day Care", 
+  "wof:brand_id": 1125160807, 
+  "wof:categories": [
+    "services:social_services=child_care", 
+    "sg:services=social_services", 
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "sg:public_place=education", 
+    "public_place:education=school", 
+    "public_place:education=special_training", 
+    "services:health_services=clinic", 
+    "services:real_estate=real_estate_operator", 
+    "sg:services=health_services", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "day", 
     "provider", 
@@ -19,6 +32,6 @@
     "specialty", 
     "worship"
   ], 
-  "wof:brand_name": "Day Care", 
-  "wof:brand_id": 1125160807
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416303
 }

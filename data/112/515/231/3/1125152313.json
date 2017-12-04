@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414525, 
+  "wof:brand_name": "Vocational Rehabilitation Svc", 
+  "wof:brand_id": 1125152313, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:services=social_services", 
+    "services:social_services=job_training", 
+    "sg:services=professional", 
+    "services:professional=employment_agencies", 
+    "services:professional=management_and_consulting", 
+    "services:health_services=clinic", 
+    "services:social_services=adult_care", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "state", 
     "program", 
@@ -24,6 +36,6 @@
     "related", 
     "residential"
   ], 
-  "wof:brand_name": "Vocational Rehabilitation Svc", 
-  "wof:brand_id": 1125152313
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416286
 }

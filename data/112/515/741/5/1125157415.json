@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414524, 
+  "wof:brand_name": "Internal Medicine", 
+  "wof:brand_id": 1125157415, 
+  "wof:categories": [
+    "services:health_services=doctor", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "physician", 
     "surgeon", 
@@ -14,6 +18,6 @@
     "practice", 
     "rheumatology"
   ], 
-  "wof:brand_name": "Internal Medicine", 
-  "wof:brand_id": 1125157415
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416285
 }

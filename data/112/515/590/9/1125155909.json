@@ -1,6 +1,25 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414490, 
+  "wof:brand_name": "Country Market", 
+  "wof:brand_id": 1125155909, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional", 
+    "retail_goods:food_and_beverages=farmers_market", 
+    "retail_goods:food_and_beverages=fruits_and_vegetables", 
+    "retail_goods:food_and_beverages=meat_and_fish", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:insurance=health_insurance", 
+    "sg:food_and_drink=deli", 
+    "sg:services=insurance"
+  ], 
   "wof:tags": [
     "grocer", 
     "market", 
@@ -28,6 +47,6 @@
     "ticket", 
     "truck"
   ], 
-  "wof:brand_name": "Country Market", 
-  "wof:brand_id": 1125155909
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416258
 }

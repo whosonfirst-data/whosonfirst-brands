@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414537, 
+  "wof:brand_name": "Gifts Galore", 
+  "wof:brand_id": 1125158783, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:shopping=department_store", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:shopping=catalog_store", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "retail_goods:shopping=jewelry", 
+    "retail_goods:shopping=pharmacy", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "shop", 
     "party", 
@@ -14,6 +26,6 @@
     "tourism", 
     "travel"
   ], 
-  "wof:brand_name": "Gifts Galore", 
-  "wof:brand_id": 1125158783
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416295
 }

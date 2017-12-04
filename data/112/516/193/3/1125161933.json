@@ -1,6 +1,28 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414542, 
+  "wof:brand_name": "Panorama", 
+  "wof:brand_id": 1125161933, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "sg:services=professional", 
+    "entertainment:travel=hotels_and_motels", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "retail_goods:home_and_garden=building_materials", 
+    "retail_goods:shopping=books", 
+    "retail_goods:shopping=news", 
+    "services:communications=television_station", 
+    "services:professional=printing_and_photocopies", 
+    "services:real_estate=real_estate_operator", 
+    "services:retail=auto_repair", 
+    "services:social_services=adult_care", 
+    "sg:entertainment=travel", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=communications", 
+    "sg:services=real_estate", 
+    "sg:services=retail", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "a", 
     "as", 
@@ -21,6 +43,6 @@
     "week-", 
     "windows"
   ], 
-  "wof:brand_name": "Panorama", 
-  "wof:brand_id": 1125161933
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416299
 }

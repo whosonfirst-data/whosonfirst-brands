@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414448, 
+  "wof:brand_name": "Ryland Homes", 
+  "wof:brand_id": 420575339, 
+  "wof:categories": [
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:manufacturing=buildings", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "services:real_estate=developer", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "builder", 
     "home", 
@@ -17,6 +25,6 @@
     "new", 
     "remodeling"
   ], 
-  "wof:brand_name": "Ryland Homes", 
-  "wof:brand_id": 420575339
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416225
 }

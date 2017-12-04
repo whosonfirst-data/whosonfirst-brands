@@ -1,12 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414522, 
+  "wof:brand_name": "Gambino's Pizza", 
+  "wof:brand_id": 1125159871, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "pizza", 
     "american", 
     "eating", 
     "italian"
   ], 
-  "wof:brand_name": "Gambino's Pizza", 
-  "wof:brand_id": 1125159871
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416283
 }

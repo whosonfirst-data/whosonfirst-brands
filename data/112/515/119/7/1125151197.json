@@ -1,6 +1,25 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414503, 
+  "wof:brand_name": "Saic", 
+  "wof:brand_id": 1125151197, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=research", 
+    "services:professional=computer_services", 
+    "services:professional=engineering", 
+    "services:professional=management_and_consulting", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "services:professional=business_services", 
+    "sg:public_place=science_facility", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "services:insurance=hazard_insurance", 
+    "services:professional=detective_and_security_services", 
+    "services:professional=employment_agencies", 
+    "sg:food_and_drink=ice_cream", 
+    "sg:services=insurance"
+  ], 
   "wof:tags": [
     "physical", 
     "development", 
@@ -74,6 +93,6 @@
     "testing", 
     "transportation"
   ], 
-  "wof:brand_name": "Saic", 
-  "wof:brand_id": 1125151197
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416268
 }

@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414515, 
+  "wof:brand_name": "Bell South", 
+  "wof:brand_id": 1125150229, 
+  "wof:categories": [
+    "services:utilities=telephone", 
+    "sg:services=utilities", 
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=construction", 
+    "services:professional=computer_services", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "services:building_and_trades=electrical", 
+    "services:professional=management_and_consulting", 
+    "services:real_estate=architect", 
+    "services:retail=auto_repair", 
+    "services:retail=repair_shop", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping", 
+    "sg:services=communications", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "company", 
     "communications", 
@@ -27,6 +47,6 @@
     "transmitting", 
     "work"
   ], 
-  "wof:brand_name": "Bell South", 
-  "wof:brand_id": 1125150229
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416278
 }

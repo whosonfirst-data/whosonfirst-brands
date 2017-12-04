@@ -1,11 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414498, 
+  "wof:brand_name": "Banca Sella Spa", 
+  "wof:brand_id": 1125157333, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services"
+  ], 
   "wof:tags": [
     "banking", 
     "finance", 
     "insurance"
   ], 
-  "wof:brand_name": "Banca Sella Spa", 
-  "wof:brand_id": 1125157333
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416265
 }

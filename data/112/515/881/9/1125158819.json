@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414504, 
+  "wof:brand_name": "Mr Chips", 
+  "wof:brand_id": 1125158819, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=meat_and_fish", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:food_and_drink=fast_food", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:professional=computer_services", 
+    "services:retail=auto_repair", 
+    "sg:food_and_drink=food_court", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "chip", 
     "away", 
@@ -14,6 +30,6 @@
     "takeaway", 
     "wining"
   ], 
-  "wof:brand_name": "Mr Chips", 
-  "wof:brand_id": 1125158819
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416269
 }

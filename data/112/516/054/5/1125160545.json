@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414543, 
+  "wof:brand_name": "Holy Trinity Catholic Church", 
+  "wof:brand_id": 1125160545, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "sg:public_place=place_of_worship", 
+    "public_place:education=school", 
+    "sg:public_place=education", 
+    "public_place:place_of_worship=church"
+  ], 
   "wof:tags": [
     "church", 
     "catholic", 
@@ -10,6 +18,6 @@
     "middle", 
     "school"
   ], 
-  "wof:brand_name": "Holy Trinity Catholic Church", 
-  "wof:brand_id": 1125160545
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416300
 }

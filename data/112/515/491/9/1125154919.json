@@ -1,6 +1,29 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414532, 
+  "wof:brand_name": "Shaklee Authorized Distributor", 
+  "wof:brand_id": 1125154919, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:retail_goods=food_and_beverages", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping", 
+    "services:insurance=health_insurance", 
+    "sg:services=insurance", 
+    "manufacturing_and_wholesale_goods:wholesale=drugs", 
+    "retail_goods:shopping=pharmacy", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "manufacturing_and_wholesale_goods:wholesale=hardware", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:home_and_garden=hardware", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "direct", 
     "selling", 
@@ -30,6 +53,6 @@
     "water", 
     "wellness"
   ], 
-  "wof:brand_name": "Shaklee Authorized Distributor", 
-  "wof:brand_id": 1125154919
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416292
 }

@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414468, 
+  "wof:brand_name": "First Student Inc", 
+  "wof:brand_id": 1125152345, 
+  "wof:categories": [
+    "sg:transportation=bus_charters", 
+    "sg:transportation=school_buses", 
+    "sg:transportation=local_transit", 
+    "sg:services=retail", 
+    "sg:transportation=freight", 
+    "services:retail=auto_rental", 
+    "public_place:education=special_training", 
+    "services:retail=auto_repair", 
+    "sg:public_place=education", 
+    "sg:services=professional", 
+    "sg:transportation=taxi"
+  ], 
   "wof:tags": [
     "rental", 
     "line", 
@@ -23,6 +36,6 @@
     "terminal", 
     "trucking"
   ], 
-  "wof:brand_name": "First Student Inc", 
-  "wof:brand_id": 1125152345
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416241
 }

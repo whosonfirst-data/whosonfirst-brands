@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414511, 
+  "wof:brand_name": "Giovanni's Pizza", 
+  "wof:brand_id": 1125154999, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:food_and_drink=deli", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "pizza", 
     "eating", 
@@ -12,6 +18,6 @@
     "retail", 
     "sandwich"
   ], 
-  "wof:brand_name": "Giovanni's Pizza", 
-  "wof:brand_id": 1125154999
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416275
 }

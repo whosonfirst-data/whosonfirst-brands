@@ -1,6 +1,37 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414554, 
+  "wof:brand_name": "Second Time Around", 
+  "wof:brand_id": 1125149747, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=used_merchandise", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=home_and_garden", 
+    "services:banks_and_credit_unions=bank", 
+    "services:retail=repair_shop", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=retail", 
+    "public_place:government=customs_house", 
+    "sg:public_place=government", 
+    "sg:services=professional", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:shopping=catalog_store", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=thrift_store", 
+    "services:professional=business_services", 
+    "food_and_drink:bars_and_pubs=nightclub", 
+    "manufacturing_and_wholesale_goods:manufacturing=furniture", 
+    "retail_goods:home_and_garden=building_materials", 
+    "retail_goods:shopping=antiques", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "retail_goods:shopping=music", 
+    "retail_goods:shopping=news", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:food_and_drink=restaurant", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "shop", 
     "consignment", 
@@ -63,6 +94,6 @@
     "time", 
     "wiring"
   ], 
-  "wof:brand_name": "Second Time Around", 
-  "wof:brand_id": 1125149747
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416309
 }

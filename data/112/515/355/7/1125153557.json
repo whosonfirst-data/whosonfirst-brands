@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414482, 
+  "wof:brand_name": "Stanley,A G,Ltd", 
+  "wof:brand_id": 1125153557, 
+  "wof:categories": [
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "services:professional=art_services", 
+    "sg:services=professional", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:home_and_garden=hardware"
+  ], 
   "wof:tags": [
     "covering", 
     "wall", 
@@ -10,6 +18,6 @@
     "diy", 
     "retailer"
   ], 
-  "wof:brand_name": "Stanley,A G,Ltd", 
-  "wof:brand_id": 1125153557
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416251
 }

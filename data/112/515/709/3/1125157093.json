@@ -1,9 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414536, 
+  "wof:brand_name": "Womens Intl Bowl Congress", 
+  "wof:brand_id": 1125157093, 
+  "wof:categories": [
+    "entertainment:sports_and_exercise=bowling", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:services=organizations", 
+    "services:organizations=membership_organization", 
+    "services:organizations=religious_organization"
+  ], 
   "wof:tags": [
     "center"
   ], 
-  "wof:brand_name": "Womens Intl Bowl Congress", 
-  "wof:brand_id": 1125157093
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416295
 }

@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414444, 
+  "wof:brand_name": "Nordea", 
+  "wof:brand_id": 420575891, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "banker"
   ], 
-  "wof:brand_name": "Nordea", 
-  "wof:brand_id": 420575891
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416222
 }

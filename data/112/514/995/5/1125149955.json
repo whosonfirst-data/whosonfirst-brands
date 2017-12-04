@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414554, 
+  "wof:brand_name": "UBS Financial Svc", 
+  "wof:brand_id": 1125149955, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:banks_and_credit_unions=bank", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "bond", 
     "stock", 
@@ -12,6 +19,6 @@
     "business", 
     "management"
   ], 
-  "wof:brand_name": "UBS Financial Svc", 
-  "wof:brand_id": 1125149955
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416309
 }

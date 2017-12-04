@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414510, 
+  "wof:brand_name": "Embassy Suites", 
+  "wof:brand_id": 1125157375, 
+  "wof:categories": [
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel", 
+    "services:retail=event_space", 
+    "sg:food_and_drink=restaurant", 
+    "sg:services=retail", 
+    "sg:services=personal", 
+    "entertainment:travel=resort", 
+    "public_place:structure=office_building", 
+    "services:professional=management_and_consulting", 
+    "sg:public_place=conference_center", 
+    "sg:public_place=structure", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "operation", 
     "eating", 
@@ -31,6 +45,6 @@
     "s", 
     "wedding"
   ], 
-  "wof:brand_name": "Embassy Suites", 
-  "wof:brand_id": 1125157375
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416274
 }

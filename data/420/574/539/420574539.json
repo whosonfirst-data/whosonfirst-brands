@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414460, 
+  "wof:brand_name": "Merrill Lynch", 
+  "wof:brand_id": 420574539, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=insurance", 
+    "services:insurance=life_insurance", 
+    "services:professional=business_services", 
+    "services:insurance=insurance_agent", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=computer_services", 
+    "services:professional=research", 
+    "services:real_estate=real_estate_operator", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "security", 
     "stock", 
@@ -56,6 +76,6 @@
     "trust", 
     "vending"
   ], 
-  "wof:brand_name": "Merrill Lynch", 
-  "wof:brand_id": 420574539
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416234
 }

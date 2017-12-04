@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414484, 
+  "wof:brand_name": "Equity Residential", 
+  "wof:brand_id": 1125158281, 
+  "wof:categories": [
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_operator", 
+    "sg:services=banks_and_credit_unions", 
+    "services:real_estate=developer", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:real_estate=real_estate_agent", 
+    "services:banks_and_credit_unions=bank", 
+    "services:real_estate=real_estate_services", 
+    "services:banks_and_credit_unions=financial_services", 
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel", 
+    "services:professional=management_and_consulting", 
+    "services:social_services=adult_care", 
+    "sg:services=professional", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "apartment", 
     "building", 
@@ -28,6 +45,6 @@
     "trust", 
     "vacancy"
   ], 
-  "wof:brand_name": "Equity Residential", 
-  "wof:brand_id": 1125158281
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416253
 }

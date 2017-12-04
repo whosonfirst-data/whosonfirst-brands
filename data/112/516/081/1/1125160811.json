@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414541, 
+  "wof:brand_name": "Edmunds Walker", 
+  "wof:brand_id": 1125160811, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "component"
   ], 
-  "wof:brand_name": "Edmunds Walker", 
-  "wof:brand_id": 1125160811
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416298
 }

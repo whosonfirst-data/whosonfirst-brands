@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414514, 
+  "wof:brand_name": "Attorney General", 
+  "wof:brand_id": 1125151297, 
+  "wof:categories": [
+    "sg:public_place=government", 
+    "public_place:government=court_house", 
+    "services:professional=lawyer_and_legal_services", 
+    "sg:services=professional", 
+    "public_place:government=office", 
+    "public_place:government=police_station"
+  ], 
   "wof:tags": [
     "state", 
     "counsel", 
@@ -10,6 +18,6 @@
     "department", 
     "justice"
   ], 
-  "wof:brand_name": "Attorney General", 
-  "wof:brand_id": 1125151297
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416278
 }

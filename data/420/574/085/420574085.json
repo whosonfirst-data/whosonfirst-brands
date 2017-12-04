@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414456, 
+  "wof:brand_name": "Comfort Inn", 
+  "wof:brand_id": 420574085, 
+  "wof:categories": [
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "sg:services=real_estate", 
+    "entertainment:travel=bed_and_breakfast", 
+    "services:professional=business_services", 
+    "services:real_estate=developer", 
+    "sg:services=building_and_trades", 
+    "public_place:government=office", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:building_and_trades=construction", 
+    "services:building_and_trades=plumbing", 
+    "services:real_estate=real_estate_operator", 
+    "sg:food_and_drink=restaurant", 
+    "sg:public_place=government", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "operation", 
     "lodging", 
@@ -63,6 +83,6 @@
     "ticket", 
     "wine"
   ], 
-  "wof:brand_name": "Comfort Inn", 
-  "wof:brand_id": 420574085
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416231
 }

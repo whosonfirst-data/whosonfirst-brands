@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414563, 
+  "wof:brand_name": "AutoZone", 
+  "wof:brand_id": 1125149025, 
+  "wof:categories": [
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "part", 
     "automobile", 
@@ -13,6 +22,6 @@
     "repair", 
     "supply"
   ], 
-  "wof:brand_name": "AutoZone", 
-  "wof:brand_id": 1125149025
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416316
 }

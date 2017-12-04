@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414493, 
+  "wof:brand_name": "LA Fitness", 
+  "wof:brand_id": 1125159287, 
+  "wof:categories": [
+    "sg:entertainment=sports_and_exercise", 
+    "entertainment:sports_and_exercise=gym", 
+    "entertainment:arena=sports_club", 
+    "sg:entertainment=arena", 
+    "entertainment:sports_and_exercise=playing_field", 
+    "sg:services=personal", 
+    "services:health_services=clinic", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "health", 
     "fitness", 
@@ -13,6 +23,6 @@
     "medical", 
     "studio"
   ], 
-  "wof:brand_name": "LA Fitness", 
-  "wof:brand_id": 1125159287
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416261
 }

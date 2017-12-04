@@ -1,6 +1,32 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414522, 
+  "wof:brand_name": "Great Expectations", 
+  "wof:brand_id": 1125155005, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "sg:services=professional", 
+    "services:personal=adult", 
+    "sg:retail_goods=shopping", 
+    "services:professional=management_and_consulting", 
+    "sg:services=organizations", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:organizations=professional_association", 
+    "sg:services=social_services", 
+    "services:health_services=clinic", 
+    "sg:services=health_services", 
+    "retail_goods:shopping=antiques", 
+    "retail_goods:shopping=books", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=party_supplies", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:building_and_trades=landscaping_services", 
+    "services:organizations=community_association", 
+    "services:professional=art_services", 
+    "services:professional=computer_services", 
+    "services:social_services=child_care", 
+    "sg:food_and_drink=restaurant", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "dating", 
     "shop", 
@@ -32,6 +58,6 @@
     "sales", 
     "wellness"
   ], 
-  "wof:brand_name": "Great Expectations", 
-  "wof:brand_id": 1125155005
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416284
 }

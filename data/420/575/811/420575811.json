@@ -1,7 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414447, 
-  "wof:tags": [], 
   "wof:brand_name": "Schweiz. Bankgesellschaft", 
-  "wof:brand_id": 420575811
+  "wof:brand_id": 420575811, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416224
 }

@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414470, 
+  "wof:brand_name": "Premier Mortgage", 
+  "wof:brand_id": 1125154677, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=investment_brokerage"
+  ], 
   "wof:tags": [
     "loan", 
     "real estate", 
@@ -11,6 +17,6 @@
     "correspondent", 
     "financial"
   ], 
-  "wof:brand_name": "Premier Mortgage", 
-  "wof:brand_id": 1125154677
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416242
 }

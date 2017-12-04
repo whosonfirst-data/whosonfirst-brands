@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414552, 
+  "wof:brand_name": "Veterans Affairs", 
+  "wof:brand_id": 1125160997, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:services=organizations", 
+    "services:organizations=community_association", 
+    "services:organizations=membership_organization", 
+    "services:health_services=hospital", 
+    "services:professional=business_services", 
+    "sg:services=health_services", 
+    "sg:services=professional", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "affairs", 
     "admin", 
@@ -17,6 +29,6 @@
     "security", 
     "welfare"
   ], 
-  "wof:brand_name": "Veterans Affairs", 
-  "wof:brand_id": 1125160997
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416308
 }

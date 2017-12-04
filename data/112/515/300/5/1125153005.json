@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414510, 
+  "wof:brand_name": "CD Warehouse", 
+  "wof:brand_id": 1125153005, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=music", 
+    "retail_goods:shopping=musical_instruments", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "record", 
     "compact", 
@@ -23,6 +32,6 @@
     "video", 
     "vintage"
   ], 
-  "wof:brand_name": "CD Warehouse", 
-  "wof:brand_id": 1125153005
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416275
 }

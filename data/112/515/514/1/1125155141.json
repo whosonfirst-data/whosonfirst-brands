@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414519, 
+  "wof:brand_name": "Havertys Furniture", 
+  "wof:brand_id": 1125155141, 
+  "wof:categories": [
+    "retail_goods:home_and_garden=furniture", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=carpets_and_floor_coverings", 
+    "retail_goods:home_and_garden=home_furnishings"
+  ], 
   "wof:tags": [
     "store", 
     "mattress", 
@@ -12,6 +18,6 @@
     "builder", 
     "custom"
   ], 
-  "wof:brand_name": "Havertys Furniture", 
-  "wof:brand_id": 1125155141
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416281
 }

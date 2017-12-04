@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414450, 
+  "wof:brand_name": "Greenalls Management Ltd.", 
+  "wof:brand_id": 420575637, 
+  "wof:categories": [
+    "sg:food_and_drink=bars_and_pubs", 
+    "public_place:community_center=social", 
+    "sg:public_place=community_center", 
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel", 
+    "sg:food_and_drink=restaurant", 
+    "food_and_drink:bars_and_pubs=nightclub", 
+    "food_and_drink:bars_and_pubs=wine_bar", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "inn", 
     "pubs", 
@@ -8,6 +20,6 @@
     "house", 
     "public"
   ], 
-  "wof:brand_name": "Greenalls Management Ltd.", 
-  "wof:brand_id": 420575637
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416226
 }

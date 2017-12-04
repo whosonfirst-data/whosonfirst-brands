@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414451, 
+  "wof:brand_name": "Ameri Gas Inc", 
+  "wof:brand_id": 420575555, 
+  "wof:categories": [
+    "sg:services=utilities", 
+    "services:utilities=natural_gas", 
+    "services:utilities=fuel_oil_and_lpg", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:retail_goods=shopping", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "distribution", 
     "transmission", 
@@ -16,6 +28,6 @@
     "storage", 
     "water"
   ], 
-  "wof:brand_name": "Ameri Gas Inc", 
-  "wof:brand_id": 420575555
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416227
 }

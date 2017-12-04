@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414483, 
+  "wof:brand_name": "Creative Cuts", 
+  "wof:brand_id": 1125152085, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "services:personal=nail_salon", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
@@ -12,6 +20,6 @@
     "establishment", 
     "machine"
   ], 
-  "wof:brand_name": "Creative Cuts", 
-  "wof:brand_id": 1125152085
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416252
 }

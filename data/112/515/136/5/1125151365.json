@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414495, 
+  "wof:brand_name": "J C Penney Optical", 
+  "wof:brand_id": 1125151365, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=optical_goods", 
+    "retail_goods:shopping=optician", 
+    "services:health_services=optometrist", 
+    "sg:services=health_services", 
+    "retail_goods:shopping=department_store"
+  ], 
   "wof:tags": [
     "optician", 
     "eyewear", 
@@ -12,6 +20,6 @@
     "manufacture", 
     "personal"
   ], 
-  "wof:brand_name": "J C Penney Optical", 
-  "wof:brand_id": 1125151365
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416263
 }

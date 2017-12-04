@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414473, 
+  "wof:brand_name": "Fred Loya Insurance", 
+  "wof:brand_id": 1125151593, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=hazard_insurance"
+  ], 
   "wof:tags": [
     "auto", 
     "business", 
@@ -10,6 +15,6 @@
     "consultant", 
     "analyst"
   ], 
-  "wof:brand_name": "Fred Loya Insurance", 
-  "wof:brand_id": 1125151593
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416244
 }

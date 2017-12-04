@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414529, 
+  "wof:brand_name": "Pilot Travel Ctr", 
+  "wof:brand_id": 1125153545, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "entertainment:travel=travel_agent", 
+    "sg:entertainment=travel", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "truck", 
     "plaza", 
@@ -11,6 +20,6 @@
     "grocer", 
     "bureau"
   ], 
-  "wof:brand_name": "Pilot Travel Ctr", 
-  "wof:brand_id": 1125153545
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416289
 }

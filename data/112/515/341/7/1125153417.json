@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414482, 
+  "wof:brand_name": "St James Episcopal Church", 
+  "wof:brand_id": 1125153417, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "sg:public_place=place_of_worship", 
+    "public_place:place_of_worship=church", 
+    "retail_goods:shopping=party_supplies", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "church", 
     "churches-episcopal", 
@@ -11,6 +19,6 @@
     "wedding", 
     "worship"
   ], 
-  "wof:brand_name": "St James Episcopal Church", 
-  "wof:brand_id": 1125153417
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416252
 }

@@ -1,11 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414457, 
+  "wof:brand_name": "Kruidvat", 
+  "wof:brand_id": 420574619, 
+  "wof:categories": [
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "sg:retail_goods=shopping", 
+    "services:building_and_trades=electrical", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "-", 
     "perfumery", 
     "distributor"
   ], 
-  "wof:brand_name": "Kruidvat", 
-  "wof:brand_id": 420574619
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416231
 }

@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414445, 
+  "wof:brand_name": "C & A", 
+  "wof:brand_id": 420575609, 
+  "wof:categories": [
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "-", 
     "accessory", 
@@ -10,6 +16,6 @@
     "large", 
     "sale-rooms"
   ], 
-  "wof:brand_name": "C & A", 
-  "wof:brand_id": 420575609
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416223
 }

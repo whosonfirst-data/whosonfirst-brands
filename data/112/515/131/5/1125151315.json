@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414497, 
+  "wof:brand_name": "Limited", 
+  "wof:brand_id": 1125151315, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "retail_goods:shopping=department_store", 
+    "services:building_and_trades=construction", 
+    "services:retail=auto_repair", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=building_and_trades", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "establishment", 
     "woman", 
@@ -12,6 +24,6 @@
     "store", 
     "women's"
   ], 
-  "wof:brand_name": "Limited", 
-  "wof:brand_id": 1125151315
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416264
 }

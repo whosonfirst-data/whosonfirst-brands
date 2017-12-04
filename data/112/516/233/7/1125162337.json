@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414539, 
+  "wof:brand_name": "Nails Plus", 
+  "wof:brand_id": 1125162337, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "services:personal=day_spa", 
+    "services:personal=tanning_parlor", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "manicuring", 
     "shop", 
@@ -10,6 +21,6 @@
     "manicurist", 
     "salon"
   ], 
-  "wof:brand_name": "Nails Plus", 
-  "wof:brand_id": 1125162337
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416297
 }

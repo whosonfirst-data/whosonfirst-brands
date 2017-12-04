@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414540, 
+  "wof:brand_name": "Church", 
+  "wof:brand_id": 1125162181, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=religious_organization", 
+    "entertainment:arts_and_performance=music", 
+    "public_place:place_of_worship=church", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:organizations=community_association", 
+    "sg:entertainment=arts_and_performance", 
+    "sg:food_and_drink=restaurant", 
+    "sg:public_place=place_of_worship", 
+    "sg:retail_goods=shopping", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "church", 
     "american", 
@@ -19,6 +32,6 @@
     "testament", 
     "venue"
   ], 
-  "wof:brand_name": "Church", 
-  "wof:brand_id": 1125162181
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416298
 }

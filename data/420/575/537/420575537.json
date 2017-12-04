@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414452, 
+  "wof:brand_name": "Hair Masters", 
+  "wof:brand_id": 420575537, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:personal=tanning_parlor", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
@@ -14,6 +24,6 @@
     "supply", 
     "unisex"
   ], 
-  "wof:brand_name": "Hair Masters", 
-  "wof:brand_id": 420575537
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416227
 }

@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414537, 
+  "wof:brand_name": "Cricket", 
+  "wof:brand_id": 1125154417, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=mobile_phones", 
+    "sg:services=utilities", 
+    "services:utilities=mobile_phone", 
+    "services:utilities=telephone", 
+    "manufacturing_and_wholesale_goods:manufacturing=electronics", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=communications", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:organizations=community_association", 
+    "services:professional=printing_and_photocopies", 
+    "services:real_estate=real_estate_operator", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:food_and_drink=restaurant", 
+    "sg:services=organizations", 
+    "sg:services=professional", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "cellular", 
     "equipment", 
@@ -22,6 +42,6 @@
     "wear", 
     "wireless"
   ], 
-  "wof:brand_name": "Cricket", 
-  "wof:brand_id": 1125154417
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416295
 }

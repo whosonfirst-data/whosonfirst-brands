@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414506, 
+  "wof:brand_name": "Securities America", 
+  "wof:brand_id": 1125151573, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:insurance=insurance_agent", 
+    "services:professional=detective_and_security_services", 
+    "sg:services=insurance"
+  ], 
   "wof:tags": [
     "security", 
     "advisory", 
@@ -22,6 +32,6 @@
     "planner", 
     "retirement"
   ], 
-  "wof:brand_name": "Securities America", 
-  "wof:brand_id": 1125151573
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416271
 }

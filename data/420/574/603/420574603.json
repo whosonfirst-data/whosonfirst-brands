@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414463, 
+  "wof:brand_name": "Rent Way", 
+  "wof:brand_id": 420574603, 
+  "wof:categories": [
+    "services:building_and_trades=equipment_rental", 
+    "sg:services=building_and_trades", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate", 
+    "services:professional=computer_services", 
+    "sg:services=professional", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "sg:retail_goods=shopping", 
+    "services:retail=repair_shop", 
+    "sg:services=retail", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "leasing", 
     "furniture", 
@@ -16,6 +29,6 @@
     "stereophonic", 
     "delivery"
   ], 
-  "wof:brand_name": "Rent Way", 
-  "wof:brand_id": 420574603
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416236
 }

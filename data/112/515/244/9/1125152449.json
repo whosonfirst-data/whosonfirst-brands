@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414532, 
+  "wof:brand_name": "Book Rack", 
+  "wof:brand_id": 1125152449, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=used_merchandise", 
+    "retail_goods:shopping=books", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "dealer", 
     "rare", 
@@ -20,6 +28,6 @@
     "sell", 
     "stationery"
   ], 
-  "wof:brand_name": "Book Rack", 
-  "wof:brand_id": 1125152449
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416292
 }

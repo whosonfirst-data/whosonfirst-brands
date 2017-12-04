@@ -1,12 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414525, 
+  "wof:brand_name": "Downey Savings & Loan Assn", 
+  "wof:brand_id": 1125159233, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "association", 
     "loan", 
     "savings", 
     "commercial"
   ], 
-  "wof:brand_name": "Downey Savings & Loan Assn", 
-  "wof:brand_id": 1125159233
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416286
 }

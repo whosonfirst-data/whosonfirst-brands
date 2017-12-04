@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414514, 
+  "wof:brand_name": "Video 2000", 
+  "wof:brand_id": 1125157749, 
+  "wof:categories": [
+    "entertainment:cinema=movie_rental", 
+    "sg:entertainment=cinema", 
+    "sg:services=communications", 
+    "services:communications=film_and_video_production", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=music", 
+    "services:communications=television_station", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:building_and_trades=construction", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "video", 
     "tape", 
@@ -20,6 +34,6 @@
     "rental", 
     "sale"
   ], 
-  "wof:brand_name": "Video 2000", 
-  "wof:brand_id": 1125157749
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416277
 }

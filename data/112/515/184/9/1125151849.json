@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414506, 
+  "wof:brand_name": "NAACP", 
+  "wof:brand_id": 1125151849, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=professional_association", 
+    "sg:services=social_services", 
+    "services:organizations=community_association", 
+    "services:organizations=membership_organization", 
+    "services:organizations=nonprofit_organization", 
+    "sg:services=professional", 
+    "sg:public_place=government", 
+    "public_place:education=special_training", 
+    "public_place:government=city_hall", 
+    "public_place:government=office", 
+    "services:professional=management_and_consulting", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "organization", 
     "welfare", 
@@ -13,6 +28,6 @@
     "school", 
     "service/non-profit"
   ], 
-  "wof:brand_name": "NAACP", 
-  "wof:brand_id": 1125151849
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416271
 }

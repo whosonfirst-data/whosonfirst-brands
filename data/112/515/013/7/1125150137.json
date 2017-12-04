@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414496, 
+  "wof:brand_name": "Perfect Nails", 
+  "wof:brand_id": 1125150137, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "manicuring", 
     "shop", 
@@ -11,6 +20,6 @@
     "technician", 
     "toilet"
   ], 
-  "wof:brand_name": "Perfect Nails", 
-  "wof:brand_id": 1125150137
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416264
 }

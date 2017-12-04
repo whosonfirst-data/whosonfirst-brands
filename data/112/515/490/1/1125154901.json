@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414505, 
+  "wof:brand_name": "M/I Homes", 
+  "wof:brand_id": 1125154901, 
+  "wof:categories": [
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "sg:services=real_estate", 
+    "manufacturing_and_wholesale_goods:manufacturing=buildings", 
+    "services:real_estate=developer", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "services:real_estate=architect"
+  ], 
   "wof:tags": [
     "builder", 
     "home", 
@@ -9,6 +18,6 @@
     "estimate", 
     "house"
   ], 
-  "wof:brand_name": "M/I Homes", 
-  "wof:brand_id": 1125154901
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416270
 }

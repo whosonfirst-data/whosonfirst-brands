@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414454, 
+  "wof:brand_name": "Rabobank", 
+  "wof:brand_id": 420573783, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "commercial", 
     "saving", 
@@ -9,6 +17,6 @@
     "investing", 
     "loan"
   ], 
-  "wof:brand_name": "Rabobank", 
-  "wof:brand_id": 420573783
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416229
 }

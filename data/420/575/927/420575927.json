@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414443, 
+  "wof:brand_name": "Hair Gallery", 
+  "wof:brand_id": 420575927, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "services:personal=tanning_parlor", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:personal=nail_salon", 
+    "services:real_estate=real_estate_operator", 
+    "sg:services=real_estate", 
+    "sg:transportation=taxi"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
@@ -24,6 +40,6 @@
     "supplies-wholesale", 
     "taxicab"
   ], 
-  "wof:brand_name": "Hair Gallery", 
-  "wof:brand_id": 420575927
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416221
 }

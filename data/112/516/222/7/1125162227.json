@@ -1,10 +1,15 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414548, 
+  "wof:brand_name": "Endodontic Associates", 
+  "wof:brand_id": 1125162227, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=doctor", 
+    "services:health_services=dentist"
+  ], 
   "wof:tags": [
     "dentist", 
     "dentists-endodontists"
   ], 
-  "wof:brand_name": "Endodontic Associates", 
-  "wof:brand_id": 1125162227
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416304
 }

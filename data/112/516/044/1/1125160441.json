@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414547, 
+  "wof:brand_name": "Bos", 
+  "wof:brand_id": 1125160441, 
+  "wof:categories": [
+    "services:professional=management_and_consulting", 
+    "sg:services=professional", 
+    "services:personal=nail_salon", 
+    "sg:food_and_drink=restaurant", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "adviesbureaus", 
     "business", 
@@ -9,6 +16,6 @@
     "public", 
     "relation"
   ], 
-  "wof:brand_name": "Bos", 
-  "wof:brand_id": 1125160441
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416303
 }

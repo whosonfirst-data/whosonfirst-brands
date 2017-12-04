@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414550, 
+  "wof:brand_name": "Pricewaterhousecoopers LLP", 
+  "wof:brand_id": 1125160627, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=business_services", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "consulting", 
     "accountant", 
@@ -26,6 +33,6 @@
     "return", 
     "system"
   ], 
-  "wof:brand_name": "Pricewaterhousecoopers LLP", 
-  "wof:brand_id": 1125160627
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416305
 }

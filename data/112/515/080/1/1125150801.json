@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414502, 
+  "wof:brand_name": "Hometown Buffet", 
+  "wof:brand_id": 1125150801, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=ice_cream"
+  ], 
   "wof:tags": [
     "american", 
     "new", 
@@ -13,6 +17,6 @@
     "style", 
     "personal"
   ], 
-  "wof:brand_name": "Hometown Buffet", 
-  "wof:brand_id": 1125150801
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416268
 }

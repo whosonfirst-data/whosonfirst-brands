@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414546, 
+  "wof:brand_name": "Family Planning", 
+  "wof:brand_id": 1125162633, 
+  "wof:categories": [
+    "sg:services=social_services", 
+    "sg:services=health_services", 
+    "services:health_services=clinic", 
+    "services:health_services=doctor", 
+    "sg:services=professional", 
+    "public_place:government=office", 
+    "services:health_services=hospital", 
+    "sg:public_place=community_center", 
+    "sg:public_place=government"
+  ], 
   "wof:tags": [
     "family", 
     "planning", 
@@ -23,6 +34,6 @@
     "physician", 
     "surgeon"
   ], 
-  "wof:brand_name": "Family Planning", 
-  "wof:brand_id": 1125162633
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416303
 }

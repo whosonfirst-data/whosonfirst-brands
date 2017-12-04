@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414551, 
+  "wof:brand_name": "The Stroke Association", 
+  "wof:brand_id": 1125162445, 
+  "wof:categories": [
+    "services:organizations=nonprofit_organization", 
+    "sg:services=organizations", 
+    "sg:services=professional", 
+    "services:professional=computer_services", 
+    "services:professional=lawyer_and_legal_services"
+  ], 
   "wof:tags": [
     "charity", 
     "organisation", 
@@ -10,6 +17,6 @@
     "counselling", 
     "information"
   ], 
-  "wof:brand_name": "The Stroke Association", 
-  "wof:brand_id": 1125162445
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416307
 }

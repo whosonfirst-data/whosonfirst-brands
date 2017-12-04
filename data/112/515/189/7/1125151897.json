@@ -1,12 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414507, 
+  "wof:brand_name": "Jetset", 
+  "wof:brand_id": 1125151897, 
+  "wof:categories": [
+    "entertainment:travel=travel_agent", 
+    "sg:entertainment=travel", 
+    "sg:transportation=airline"
+  ], 
   "wof:tags": [
     "consultant", 
     "agent", 
     "agency", 
     "bureau"
   ], 
-  "wof:brand_name": "Jetset", 
-  "wof:brand_id": 1125151897
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416272
 }

@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414502, 
+  "wof:brand_name": "Midas Auto Service Experts", 
+  "wof:brand_id": 1125150181, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "public_place:government=office", 
+    "services:professional=advertising", 
+    "services:utilities=fuel_oil_and_lpg", 
+    "sg:public_place=government", 
+    "sg:services=professional", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "tire", 
     "exhaust", 
@@ -33,6 +46,6 @@
     "smog", 
     "transmission"
   ], 
-  "wof:brand_name": "Midas Auto Service Experts", 
-  "wof:brand_id": 1125150181
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416268
 }

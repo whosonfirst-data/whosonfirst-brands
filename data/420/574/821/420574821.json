@@ -1,6 +1,31 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414461, 
+  "wof:brand_name": "Gymboree", 
+  "wof:brand_id": 420574821, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=baby_store", 
+    "sg:entertainment=recreation", 
+    "sg:services=social_services", 
+    "services:social_services=child_care", 
+    "entertainment:sports_and_exercise=gym", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:public_place=education", 
+    "public_place:education=special_training", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "public_place:education=preschool", 
+    "retail_goods:shopping=department_store", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=personal", 
+    "manufacturing_and_wholesale_goods:manufacturing=musical_instruments", 
+    "public_place:education=dance_studio", 
+    "public_place:education=school", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:organizations=religious_organization", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "wear", 
     "infant", 
@@ -42,6 +67,6 @@
     "specialty", 
     "supply"
   ], 
-  "wof:brand_name": "Gymboree", 
-  "wof:brand_id": 420574821
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416235
 }

@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414464, 
+  "wof:brand_name": "Radio Rentals", 
+  "wof:brand_id": 420574709, 
+  "wof:categories": [
+    "services:communications=film_and_video_production", 
+    "sg:services=communications", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "tv", 
     "studio", 
@@ -8,6 +14,6 @@
     "equipment", 
     "small"
   ], 
-  "wof:brand_name": "Radio Rentals", 
-  "wof:brand_id": 420574709
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416237
 }

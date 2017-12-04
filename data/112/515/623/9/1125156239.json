@@ -1,11 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414475, 
+  "wof:brand_name": "Gambrinus", 
+  "wof:brand_id": 1125156239, 
+  "wof:categories": [
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=cafe"
+  ], 
   "wof:tags": [
     "caf\u00e9s", 
     "russian", 
     "seafood"
   ], 
-  "wof:brand_name": "Gambrinus", 
-  "wof:brand_id": 1125156239
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416246
 }

@@ -1,6 +1,25 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414457, 
+  "wof:brand_name": "Gap", 
+  "wof:brand_id": 420574241, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=baby_store", 
+    "entertainment:sports_and_exercise=bicycle_rental", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate", 
+    "manufacturing_and_wholesale_goods:manufacturing=petroleum_products", 
+    "manufacturing_and_wholesale_goods:wholesale=construction_materials", 
+    "retail_goods:shopping=shoes", 
+    "services:building_and_trades=construction", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "family", 
     "clothing", 
@@ -40,6 +59,6 @@
     "woman", 
     "young"
   ], 
-  "wof:brand_name": "Gap", 
-  "wof:brand_id": 420574241
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416231
 }

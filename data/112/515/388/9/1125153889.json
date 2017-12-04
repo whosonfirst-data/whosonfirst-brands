@@ -1,6 +1,35 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414532, 
+  "wof:brand_name": "Nortel Networks Inc", 
+  "wof:brand_id": 1125153889, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "services:professional=computer_services", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:manufacturing=electronics", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "sg:services=utilities", 
+    "services:professional=management_and_consulting", 
+    "services:utilities=telephone", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "manufacturing_and_wholesale_goods:wholesale=computers", 
+    "services:utilities=mobile_phone", 
+    "services:building_and_trades=electrical", 
+    "sg:services=building_and_trades", 
+    "sg:transportation=freight", 
+    "services:professional=business_services", 
+    "services:retail=repair_shop", 
+    "services:social_services=job_training", 
+    "sg:services=communications", 
+    "sg:services=retail", 
+    "sg:services=social_services", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:banks_and_credit_unions=bank", 
+    "services:professional=engineering", 
+    "sg:retail_goods=shopping", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "mfg", 
     "system", 
@@ -57,6 +86,6 @@
     "voice", 
     "working"
   ], 
-  "wof:brand_name": "Nortel Networks Inc", 
-  "wof:brand_id": 1125153889
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416292
 }

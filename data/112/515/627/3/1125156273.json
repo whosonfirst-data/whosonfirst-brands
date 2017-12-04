@@ -1,6 +1,36 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414480, 
+  "wof:brand_name": "Marsh", 
+  "wof:brand_id": 1125156273, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "retail_goods:shopping=pharmacy", 
+    "sg:retail_goods=shopping", 
+    "services:insurance=hazard_insurance", 
+    "services:professional=lawyer_and_legal_services", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=health_services", 
+    "manufacturing_and_wholesale_goods:manufacturing=signs", 
+    "manufacturing_and_wholesale_goods:wholesale=farm_supplies", 
+    "manufacturing_and_wholesale_goods:wholesale=hardware", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:building_and_trades=construction", 
+    "services:health_services=clinic", 
+    "services:health_services=doctor", 
+    "services:personal=beauty_salon", 
+    "services:professional=business_services", 
+    "services:retail=repair_shop", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=building_and_trades", 
+    "sg:services=personal", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "supermarket", 
     "business", 
@@ -26,6 +56,6 @@
     "station", 
     "supply"
   ], 
-  "wof:brand_name": "Marsh", 
-  "wof:brand_id": 1125156273
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416250
 }

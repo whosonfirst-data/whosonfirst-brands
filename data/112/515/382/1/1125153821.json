@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414472, 
+  "wof:brand_name": "Tetco Stores Inc", 
+  "wof:brand_id": 1125153821, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "gasoline", 
     "station", 
@@ -12,6 +18,6 @@
     "petroleum", 
     "production"
   ], 
-  "wof:brand_name": "Tetco Stores Inc", 
-  "wof:brand_id": 1125153821
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416243
 }

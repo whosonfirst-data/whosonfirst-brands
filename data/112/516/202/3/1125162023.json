@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414544, 
+  "wof:brand_name": "Stevens", 
+  "wof:brand_id": 1125162023, 
+  "wof:categories": [
+    "entertainment:recreation=gun_range", 
+    "entertainment:sports_and_exercise=skate_park", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "services:health_services=health_practitioner", 
+    "sg:entertainment=recreation", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "-", 
     "ammunition", 
@@ -13,6 +26,6 @@
     "steak", 
     "used"
   ], 
-  "wof:brand_name": "Stevens", 
-  "wof:brand_id": 1125162023
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416301
 }

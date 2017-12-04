@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414552, 
+  "wof:brand_name": "Weatherford", 
+  "wof:brand_id": 1125160391, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=mining_and_drilling", 
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=equipment_rental", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "manufacturing_and_wholesale_goods:manufacturing=glass_and_minerals", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "services:building_and_trades=construction", 
+    "services:professional=business_services", 
+    "services:professional=research"
+  ], 
   "wof:tags": [
     "oil", 
     "field", 
@@ -27,6 +43,6 @@
     "rent", 
     "shop"
   ], 
-  "wof:brand_name": "Weatherford", 
-  "wof:brand_id": 1125160391
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416307
 }

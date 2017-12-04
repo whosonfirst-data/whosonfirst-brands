@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414523, 
+  "wof:brand_name": "Family Dollar", 
+  "wof:brand_id": 1125150485, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:shopping=thrift_store", 
+    "retail_goods:shopping=pharmacy", 
+    "sg:public_place=shopping_center", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "variety", 
     "merchandising", 
@@ -9,6 +20,6 @@
     "shopping", 
     "wholesale"
   ], 
-  "wof:brand_name": "Family Dollar", 
-  "wof:brand_id": 1125150485
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416284
 }

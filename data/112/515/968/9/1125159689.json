@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414536, 
+  "wof:brand_name": "Shades", 
+  "wof:brand_id": 1125159689, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "services:personal=beauty_salon", 
+    "sg:services=personal", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=optical_goods", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "sg:retail_goods=home_and_garden", 
+    "manufacturing_and_wholesale_goods:wholesale=painting_supplies", 
+    "retail_goods:shopping=optician", 
+    "services:personal=barber", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "goggles", 
     "sun", 
@@ -15,6 +30,6 @@
     "manicuring", 
     "window"
   ], 
-  "wof:brand_name": "Shades", 
-  "wof:brand_id": 1125159689
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416295
 }

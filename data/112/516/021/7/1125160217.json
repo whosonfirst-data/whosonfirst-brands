@@ -1,6 +1,29 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414547, 
+  "wof:brand_name": "Herbal Life", 
+  "wof:brand_id": 1125160217, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=personal", 
+    "sg:services=health_services", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "entertainment:sports_and_exercise=gym", 
+    "services:health_services=clinic", 
+    "services:health_services=doctor", 
+    "services:health_services=health_practitioner", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "manufacturing_and_wholesale_goods:wholesale=drugs", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "retail_goods:food_and_beverages=fruits_and_vegetables", 
+    "retail_goods:shopping=catalog_store", 
+    "retail_goods:shopping=pharmacy", 
+    "services:professional=advertising", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "health", 
     "weight", 
@@ -33,6 +56,6 @@
     "supplement", 
     "trainer"
   ], 
-  "wof:brand_name": "Herbal Life", 
-  "wof:brand_id": 1125160217
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416303
 }

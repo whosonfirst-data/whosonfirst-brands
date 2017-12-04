@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414502, 
+  "wof:brand_name": "Quality Lawn Care", 
+  "wof:brand_id": 1125159347, 
+  "wof:categories": [
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=landscaping_services", 
+    "manufacturing_and_wholesale_goods:manufacturing=wood_products", 
+    "services:building_and_trades=construction", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "lawn", 
     "maintenance", 
@@ -14,6 +22,6 @@
     "nonresidential", 
     "sanitary"
   ], 
-  "wof:brand_name": "Quality Lawn Care", 
-  "wof:brand_id": 1125159347
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416268
 }

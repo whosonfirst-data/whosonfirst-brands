@@ -1,6 +1,34 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414515, 
+  "wof:brand_name": "Rainbow International", 
+  "wof:brand_id": 1125153173, 
+  "wof:categories": [
+    "retail_goods:home_and_garden=carpets_and_floor_coverings", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=retail", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "services:insurance=hazard_insurance", 
+    "sg:services=insurance", 
+    "services:building_and_trades=construction", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=aerospace", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "services:communications=film_and_video_production", 
+    "services:organizations=labor_organization", 
+    "services:retail=event_space", 
+    "services:retail=repair_shop", 
+    "services:social_services=adult_care", 
+    "services:utilities=water", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=communications", 
+    "sg:services=organizations", 
+    "sg:services=personal", 
+    "sg:services=social_services", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "cleaner", 
     "upholstery", 
@@ -36,6 +64,6 @@
     "specializing", 
     "trauma"
   ], 
-  "wof:brand_name": "Rainbow International", 
-  "wof:brand_id": 1125153173
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416278
 }

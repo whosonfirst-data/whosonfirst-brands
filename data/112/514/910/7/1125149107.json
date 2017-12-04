@@ -1,6 +1,28 @@
 {
   "wof:brand_name": "Blimpie", 
   "wof:brand_id": 1125149107, 
+  "wof:categories": [
+    "sg:food_and_drink=deli", 
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:food_and_drink=fast_food", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:services=professional", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=banks_and_credit_unions", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "food_and_drink:donuts=none", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "public_place:government=police_station", 
+    "services:professional=management_and_consulting", 
+    "services:utilities=fuel_oil_and_lpg", 
+    "sg:food_and_drink=donuts", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:public_place=government", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "sandwich", 
     "american", 
@@ -61,6 +83,6 @@
     1125148733
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414554, 
+  "wof:lastmodified": 1512416309, 
   "mz:is_current": 1
 }

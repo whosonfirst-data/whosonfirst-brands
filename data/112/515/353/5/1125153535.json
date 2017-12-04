@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414471, 
+  "wof:brand_name": "Ladbrokes", 
+  "wof:brand_id": 1125153535, 
+  "wof:categories": [
+    "services:professional=business_services", 
+    "sg:services=professional", 
+    "sg:entertainment=casinos_and_gambling", 
+    "sg:entertainment=recreation"
+  ], 
   "wof:tags": [
     "bookmaker", 
     "operation", 
@@ -8,6 +14,6 @@
     "racing", 
     "track"
   ], 
-  "wof:brand_name": "Ladbrokes", 
-  "wof:brand_id": 1125153535
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416242
 }

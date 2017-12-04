@@ -1,11 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414472, 
+  "wof:brand_name": "Vries, De", 
+  "wof:brand_id": 1125159743, 
+  "wof:categories": [
+    "entertainment:arena=auto_racetrack", 
+    "manufacturing_and_wholesale_goods:wholesale=petroleum", 
+    "sg:entertainment=arena", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "en", 
     "kart-", 
     "racebanen"
   ], 
-  "wof:brand_name": "Vries, De", 
-  "wof:brand_id": 1125159743
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416243
 }

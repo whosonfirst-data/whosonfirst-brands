@@ -1,10 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414559, 
+  "wof:brand_name": "Haushaltungsschule", 
+  "wof:brand_id": 1125148843, 
+  "wof:categories": [
+    "public_place:education=vocational_school", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "haushaltschulen", 
     "koch-"
   ], 
-  "wof:brand_name": "Haushaltungsschule", 
-  "wof:brand_id": 1125148843
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416313
 }

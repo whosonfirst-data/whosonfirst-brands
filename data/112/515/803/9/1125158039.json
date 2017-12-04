@@ -1,12 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414531, 
+  "wof:brand_name": "Beauty Nook", 
+  "wof:brand_id": 1125158039, 
+  "wof:categories": [
+    "services:personal=beauty_salon", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "shop", 
     "cosmetic", 
     "supply", 
     "tanning"
   ], 
-  "wof:brand_name": "Beauty Nook", 
-  "wof:brand_id": 1125158039
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416291
 }

@@ -1,12 +1,22 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414546, 
+  "wof:brand_name": "Custom Cuts", 
+  "wof:brand_id": 1125162211, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "sg:services=building_and_trades", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:building_and_trades=construction", 
+    "services:building_and_trades=landscaping_services", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "shop", 
     "beauty", 
     "salon", 
     "woodworker"
   ], 
-  "wof:brand_name": "Custom Cuts", 
-  "wof:brand_id": 1125162211
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416303
 }

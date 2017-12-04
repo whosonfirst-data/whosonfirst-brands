@@ -1,6 +1,31 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414446, 
+  "wof:brand_name": "Fastframe", 
+  "wof:brand_id": 420575387, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "sg:services=retail", 
+    "entertainment:arts_and_performance=art_gallery", 
+    "services:retail=repair_shop", 
+    "sg:entertainment=arts_and_performance", 
+    "sg:services=professional", 
+    "services:professional=art_services", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=wood_products", 
+    "manufacturing_and_wholesale_goods:farming=fish_and_marine_products", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "manufacturing_and_wholesale_goods:wholesale=home_furnishings", 
+    "services:building_and_trades=construction", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:manufacturing=electronics", 
+    "public_place:education=music_school", 
+    "retail_goods:shopping=crafts_and_fabrics", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:retail=photofinishing", 
+    "services:retail=portrait_studio", 
+    "sg:entertainment=recreation", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "picture", 
     "frame", 
@@ -33,6 +58,6 @@
     "store", 
     "teacher"
   ], 
-  "wof:brand_name": "Fastframe", 
-  "wof:brand_id": 420575387
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416223
 }

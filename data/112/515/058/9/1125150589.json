@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414519, 
+  "wof:brand_name": "Faith United Methodist Church", 
+  "wof:brand_id": 1125150589, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=religious_organization", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:organizations=professional_association", 
+    "services:social_services=child_care", 
+    "sg:retail_goods=shopping", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "church", 
     "methodist", 
@@ -20,6 +31,6 @@
     "miscellaneous", 
     "nonresidential"
   ], 
-  "wof:brand_name": "Faith United Methodist Church", 
-  "wof:brand_id": 1125150589
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416281
 }

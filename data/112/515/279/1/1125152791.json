@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414506, 
+  "wof:brand_name": "League Of Women Voters", 
+  "wof:brand_id": 1125152791, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=professional_association", 
+    "services:organizations=political_organization", 
+    "services:organizations=nonprofit_organization", 
+    "services:organizations=community_association", 
+    "services:organizations=membership_organization", 
+    "sg:services=professional", 
+    "services:professional=employment_agencies", 
+    "services:professional=management_and_consulting"
+  ], 
   "wof:tags": [
     "business", 
     "club", 
@@ -10,6 +21,6 @@
     "political", 
     "social"
   ], 
-  "wof:brand_name": "League Of Women Voters", 
-  "wof:brand_id": 1125152791
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416271
 }

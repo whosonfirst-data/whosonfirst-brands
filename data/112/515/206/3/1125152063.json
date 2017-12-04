@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414483, 
+  "wof:brand_name": "Sunbelt Business Brokers", 
+  "wof:brand_id": 1125152063, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "sg:services=banks_and_credit_unions", 
+    "services:professional=management_and_consulting", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=real_estate", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:real_estate=real_estate_agent", 
+    "services:building_and_trades=equipment_rental", 
+    "services:professional=computer_services", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "broker", 
     "consultant", 
@@ -23,6 +38,6 @@
     "software", 
     "valuation"
   ], 
-  "wof:brand_name": "Sunbelt Business Brokers", 
-  "wof:brand_id": 1125152063
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416252
 }

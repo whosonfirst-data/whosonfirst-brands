@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414498, 
+  "wof:brand_name": "Help-U-Sell Real Estate", 
+  "wof:brand_id": 1125159575, 
+  "wof:categories": [
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_agent", 
+    "services:real_estate=real_estate_services", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "broker", 
     "buyer", 
@@ -9,6 +17,6 @@
     "real estate", 
     "relocation"
   ], 
-  "wof:brand_name": "Help-U-Sell Real Estate", 
-  "wof:brand_id": 1125159575
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416265
 }

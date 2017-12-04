@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414542, 
+  "wof:brand_name": "Optical Shoppe", 
+  "wof:brand_id": 1125160287, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=optical_goods", 
+    "sg:services=health_services", 
+    "retail_goods:shopping=optician", 
+    "services:health_services=optometrist", 
+    "services:health_services=doctor"
+  ], 
   "wof:tags": [
     "eyewear", 
     "contact", 
@@ -17,6 +25,6 @@
     "sales", 
     "surgeons"
   ], 
-  "wof:brand_name": "Optical Shoppe", 
-  "wof:brand_id": 1125160287
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416299
 }

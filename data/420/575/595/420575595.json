@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414449, 
+  "wof:brand_name": "Wet Seal", 
+  "wof:brand_id": 420575595, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=used_merchandise", 
+    "retail_goods:shopping=department_store", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:public_place=shopping_center"
+  ], 
   "wof:tags": [
     "clothing", 
     "women's", 
@@ -15,6 +24,6 @@
     "shop", 
     "specialty"
   ], 
-  "wof:brand_name": "Wet Seal", 
-  "wof:brand_id": 420575595
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416226
 }

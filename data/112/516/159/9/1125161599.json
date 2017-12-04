@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414539, 
+  "wof:brand_name": "Schuck's Auto Supply", 
+  "wof:brand_id": 1125161599, 
+  "wof:categories": [
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales"
+  ], 
   "wof:tags": [
     "automobile", 
     "parts", 
@@ -13,6 +20,6 @@
     "exchange", 
     "rebuilding"
   ], 
-  "wof:brand_name": "Schuck's Auto Supply", 
-  "wof:brand_id": 1125161599
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416297
 }

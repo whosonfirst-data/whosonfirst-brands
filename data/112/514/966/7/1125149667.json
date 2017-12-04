@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414555, 
+  "wof:brand_name": "A T & T", 
+  "wof:brand_id": 1125149667, 
+  "wof:categories": [
+    "sg:services=utilities", 
+    "services:utilities=telephone", 
+    "sg:retail_goods=shopping", 
+    "sg:services=communications", 
+    "sg:services=professional", 
+    "retail_goods:shopping=mobile_phones", 
+    "services:professional=business_services", 
+    "services:utilities=mobile_phone", 
+    "manufacturing_and_wholesale_goods:manufacturing=textiles", 
+    "manufacturing_and_wholesale_goods:wholesale=computers", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:professional=computer_services", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "telecommunication", 
     "company", 
@@ -22,6 +38,6 @@
     "system", 
     "telemarketing"
   ], 
-  "wof:brand_name": "A T & T", 
-  "wof:brand_id": 1125149667
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416310
 }

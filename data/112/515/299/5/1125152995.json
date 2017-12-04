@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414482, 
+  "wof:brand_name": "Aarons", 
+  "wof:brand_id": 1125152995, 
+  "wof:categories": [
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=equipment_rental", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=furniture", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:building_and_trades=plumbing", 
+    "services:communications=radio_station", 
+    "sg:services=communications"
+  ], 
   "wof:tags": [
     "furniture", 
     "leasing", 
@@ -29,6 +42,6 @@
     "television", 
     "to"
   ], 
-  "wof:brand_name": "Aarons", 
-  "wof:brand_id": 1125152995
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416251
 }

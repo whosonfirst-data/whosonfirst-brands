@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414542, 
+  "wof:brand_name": "E5 Mode", 
+  "wof:brand_id": 1125161087, 
+  "wof:categories": [
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "-", 
     "clothing", 
@@ -8,6 +12,6 @@
     "large", 
     "sale-rooms"
   ], 
-  "wof:brand_name": "E5 Mode", 
-  "wof:brand_id": 1125161087
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416299
 }

@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414547, 
+  "wof:brand_name": "St Peter Lutheran Church", 
+  "wof:brand_id": 1125162017, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "church", 
     "a", 
@@ -8,6 +12,6 @@
     "lutheran", 
     "operates"
   ], 
-  "wof:brand_name": "St Peter Lutheran Church", 
-  "wof:brand_id": 1125162017
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416304
 }

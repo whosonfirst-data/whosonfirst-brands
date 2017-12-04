@@ -1,11 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414534, 
+  "wof:brand_name": "Hi-Q Tyre Services", 
+  "wof:brand_id": 1125153023, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "services:retail=auto_repair", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "tyre", 
     "garage", 
     "related"
   ], 
-  "wof:brand_name": "Hi-Q Tyre Services", 
-  "wof:brand_id": 1125153023
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416293
 }

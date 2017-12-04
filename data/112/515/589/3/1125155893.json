@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414515, 
+  "wof:brand_name": "British Waterways", 
+  "wof:brand_id": 1125155893, 
+  "wof:categories": [
+    "sg:transportation=marine", 
+    "sg:transportation=ferry", 
+    "entertainment:recreation=boat_charter", 
+    "sg:entertainment=recreation", 
+    "manufacturing_and_wholesale_goods:wholesale=office_equipment", 
+    "services:utilities=water", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "inland", 
     "river", 
@@ -8,6 +18,6 @@
     "excursion", 
     "authority"
   ], 
-  "wof:brand_name": "British Waterways", 
-  "wof:brand_id": 1125155893
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416278
 }

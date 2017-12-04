@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414446, 
+  "wof:brand_name": "All Tune & Lube", 
+  "wof:brand_id": 420575875, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=auto_repair", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "services:retail=repair_shop", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station"
+  ], 
   "wof:tags": [
     "automobile", 
     "repairing", 
@@ -23,6 +32,6 @@
     "repair", 
     "station"
   ], 
-  "wof:brand_name": "All Tune & Lube", 
-  "wof:brand_id": 420575875
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416223
 }

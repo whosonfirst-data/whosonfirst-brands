@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414512, 
+  "wof:brand_name": "The Clarks Shop", 
+  "wof:brand_id": 1125158407, 
+  "wof:categories": [
+    "retail_goods:shopping=shoes", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "shop"
   ], 
-  "wof:brand_name": "The Clarks Shop", 
-  "wof:brand_id": 1125158407
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416276
 }

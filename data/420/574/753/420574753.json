@@ -1,10 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414458, 
+  "wof:brand_name": "AM South Bank", 
+  "wof:brand_id": 420574753, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services"
+  ], 
   "wof:tags": [
     "loan", 
     "real estate"
   ], 
-  "wof:brand_name": "AM South Bank", 
-  "wof:brand_id": 420574753
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416232
 }

@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414537, 
+  "wof:brand_name": "Hair Haven", 
+  "wof:brand_id": 1125162257, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
@@ -11,6 +18,6 @@
     "salons-equipment", 
     "supplies-wholesale"
   ], 
-  "wof:brand_name": "Hair Haven", 
-  "wof:brand_id": 1125162257
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416296
 }

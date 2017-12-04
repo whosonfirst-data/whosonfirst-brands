@@ -1,6 +1,30 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414463, 
+  "wof:brand_name": "Penske Truck Rental", 
+  "wof:brand_id": 420574097, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=auto_rental", 
+    "services:building_and_trades=equipment_rental", 
+    "sg:services=building_and_trades", 
+    "services:retail=storage", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=paper_products", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=personal", 
+    "sg:transportation=freight", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "services:retail=auto_repair", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "services:professional=employment_agencies", 
+    "services:retail=repair_shop", 
+    "sg:transportation=transit_center", 
+    "transportation:transit_center=passenger"
+  ], 
   "wof:tags": [
     "truck", 
     "leasing", 
@@ -37,6 +61,6 @@
     "without", 
     "wrecker"
   ], 
-  "wof:brand_name": "Penske Truck Rental", 
-  "wof:brand_id": 420574097
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416236
 }

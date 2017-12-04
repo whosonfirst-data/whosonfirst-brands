@@ -1,6 +1,29 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414546, 
+  "wof:brand_name": "Financial Services", 
+  "wof:brand_id": 1125162635, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=professional", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:insurance=insurance_agent", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=business_services", 
+    "sg:services=insurance", 
+    "public_place:government=office", 
+    "services:banks_and_credit_unions=bank", 
+    "services:professional=management_and_consulting", 
+    "sg:public_place=government", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:public_place=education", 
+    "manufacturing_and_wholesale_goods:wholesale=medical_equipment_and_supplies", 
+    "public_place:education=college", 
+    "public_place:education=school", 
+    "services:building_and_trades=equipment_rental", 
+    "services:personal=hair_removal", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=building_and_trades", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "financial", 
     "advisory", 
@@ -30,6 +53,6 @@
     "television", 
     "university"
   ], 
-  "wof:brand_name": "Financial Services", 
-  "wof:brand_id": 1125162635
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416303
 }

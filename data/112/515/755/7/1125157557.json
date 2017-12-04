@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414503, 
+  "wof:brand_name": "B & B Construction", 
+  "wof:brand_id": 1125157557, 
+  "wof:categories": [
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:manufacturing=buildings", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "retail_goods:home_and_garden=mobile_homes", 
+    "services:retail=repair_shop", 
+    "services:utilities=refuse", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=retail", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "contractor", 
     "general", 
@@ -30,6 +42,6 @@
     "system", 
     "welding"
   ], 
-  "wof:brand_name": "B & B Construction", 
-  "wof:brand_id": 1125157557
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416268
 }

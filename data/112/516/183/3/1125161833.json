@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414550, 
+  "wof:brand_name": "H & M", 
+  "wof:brand_id": 1125161833, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=department_store", 
+    "manufacturing_and_wholesale_goods:manufacturing=jewelry", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "retail_goods:shopping=baby_store", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:retail=selfservice_laundry", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=shopping_center", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "women's", 
     "clothing", 
@@ -26,6 +40,6 @@
     "swimwear", 
     "wear"
   ], 
-  "wof:brand_name": "H & M", 
-  "wof:brand_id": 1125161833
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416305
 }

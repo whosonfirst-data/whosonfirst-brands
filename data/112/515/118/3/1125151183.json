@@ -1,11 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414500, 
+  "wof:brand_name": "Holland & Barrett", 
+  "wof:brand_id": 1125151183, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=specialty", 
+    "retail_goods:food_and_beverages=supermarket"
+  ], 
   "wof:tags": [
     "health", 
     "product", 
     "retailer"
   ], 
-  "wof:brand_name": "Holland & Barrett", 
-  "wof:brand_id": 1125151183
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416267
 }

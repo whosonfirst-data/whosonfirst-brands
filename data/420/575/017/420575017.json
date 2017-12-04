@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414445, 
+  "wof:brand_name": "Hardee's", 
+  "wof:brand_id": 420575017, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "sg:food_and_drink=coffee_and_tea", 
+    "sg:food_and_drink=ice_cream"
+  ], 
   "wof:tags": [
     "american", 
     "burger", 
@@ -23,6 +31,6 @@
     "tea", 
     "wrap"
   ], 
-  "wof:brand_name": "Hardee's", 
-  "wof:brand_id": 420575017
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416223
 }

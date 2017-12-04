@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414535, 
+  "wof:brand_name": "CSX Transportation", 
+  "wof:brand_id": 1125158941, 
+  "wof:categories": [
+    "sg:transportation=railroad", 
+    "sg:transportation=freight", 
+    "sg:transportation=train_station", 
+    "transportation:train_station=rail", 
+    "sg:transportation=local_transit", 
+    "sg:transportation=transit_center", 
+    "transportation:transit_center=freight"
+  ], 
   "wof:tags": [
     "line", 
     "operator", 
@@ -16,6 +25,6 @@
     "truck", 
     "trucking"
   ], 
-  "wof:brand_name": "CSX Transportation", 
-  "wof:brand_id": 1125158941
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416294
 }

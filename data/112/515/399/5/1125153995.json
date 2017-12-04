@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414503, 
+  "wof:brand_name": "Sleepy's", 
+  "wof:brand_id": 1125153995, 
+  "wof:categories": [
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:home_and_garden=carpets_and_floor_coverings", 
+    "retail_goods:home_and_garden=home_furnishings"
+  ], 
   "wof:tags": [
     "mattress", 
     "bed", 
@@ -8,6 +14,6 @@
     "bedroom", 
     "set"
   ], 
-  "wof:brand_name": "Sleepy's", 
-  "wof:brand_id": 1125153995
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416269
 }

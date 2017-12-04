@@ -1,11 +1,16 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414461, 
+  "wof:brand_name": "Bank of Montreal", 
+  "wof:brand_id": 420574317, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=investment_brokerage"
+  ], 
   "wof:tags": [
     "consultant", 
     "financial", 
     "planning"
   ], 
-  "wof:brand_name": "Bank of Montreal", 
-  "wof:brand_id": 420574317
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416235
 }

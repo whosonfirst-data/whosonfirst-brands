@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414507, 
+  "wof:brand_name": "Massage Therapy", 
+  "wof:brand_id": 1125153047, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "sg:services=health_services", 
+    "services:health_services=clinic", 
+    "services:personal=massage", 
+    "services:health_services=health_practitioner", 
+    "entertainment:sports_and_exercise=gym", 
+    "entertainment:travel=hotels_and_motels", 
+    "services:professional=management_and_consulting", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:entertainment=travel", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "therapist", 
     "massage", 
@@ -17,6 +30,6 @@
     "holistic", 
     "practitioner"
   ], 
-  "wof:brand_name": "Massage Therapy", 
-  "wof:brand_id": 1125153047
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416271
 }

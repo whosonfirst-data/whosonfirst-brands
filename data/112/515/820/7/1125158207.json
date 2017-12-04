@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414527, 
+  "wof:brand_name": "United Refrigeration", 
+  "wof:brand_id": 1125158207, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=hardware", 
+    "services:retail=repair_shop", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "services:professional=engineering", 
+    "sg:services=professional", 
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=plumbing", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=retail_goods", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "services:building_and_trades=construction", 
+    "services:building_and_trades=electrical", 
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "refrigerating", 
     "parts", 
@@ -38,6 +58,6 @@
     "systems-wholesale", 
     "valve"
   ], 
-  "wof:brand_name": "United Refrigeration", 
-  "wof:brand_id": 1125158207
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416288
 }

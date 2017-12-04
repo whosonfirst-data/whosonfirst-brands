@@ -1,6 +1,33 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414501, 
+  "wof:brand_name": "AIG", 
+  "wof:brand_id": 1125151247, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=hazard_insurance", 
+    "services:insurance=life_insurance", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=professional", 
+    "services:banks_and_credit_unions=bank", 
+    "services:insurance=health_insurance", 
+    "services:professional=computer_services", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=real_estate", 
+    "manufacturing_and_wholesale_goods:wholesale=computers", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "public_place:government=court_house", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:communications=film_and_video_production", 
+    "services:insurance=title_insurance", 
+    "services:professional=credit_reporting_and_collection", 
+    "services:professional=management_and_consulting", 
+    "services:real_estate=real_estate_agent", 
+    "services:real_estate=real_estate_operator", 
+    "sg:public_place=government", 
+    "sg:services=communications", 
+    "sg:transportation=airport"
+  ], 
   "wof:tags": [
     "carrier", 
     "security", 
@@ -38,6 +65,6 @@
     "trust", 
     "underwrites"
   ], 
-  "wof:brand_name": "AIG", 
-  "wof:brand_id": 1125151247
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416267
 }

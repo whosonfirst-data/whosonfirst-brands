@@ -1,12 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414492, 
+  "wof:brand_name": "Pizzeria Roma", 
+  "wof:brand_id": 1125152301, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food"
+  ], 
   "wof:tags": [
     "pizzeria", 
     "afhaal", 
     "pizza", 
     "restaurant"
   ], 
-  "wof:brand_name": "Pizzeria Roma", 
-  "wof:brand_id": 1125152301
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416259
 }

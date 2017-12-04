@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414498, 
+  "wof:brand_name": "Nail Boutique", 
+  "wof:brand_id": 1125157215, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "services:personal=hair_removal", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "manicuring", 
     "shop", 
@@ -10,6 +18,6 @@
     "park", 
     "ride"
   ], 
-  "wof:brand_name": "Nail Boutique", 
-  "wof:brand_id": 1125157215
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416265
 }

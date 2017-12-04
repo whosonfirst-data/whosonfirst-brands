@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414480, 
+  "wof:brand_name": "Pro Nail", 
+  "wof:brand_id": 1125157709, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "services:personal=skin_care", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "manicuring", 
     "shop", 
@@ -11,6 +21,6 @@
     "salon", 
     "toilet"
   ], 
-  "wof:brand_name": "Pro Nail", 
-  "wof:brand_id": 1125157709
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416249
 }

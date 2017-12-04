@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414544, 
+  "wof:brand_name": "Beauty Bar", 
+  "wof:brand_id": 1125162535, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "entertainment:recreation=dance_hall", 
+    "food_and_drink:bars_and_pubs=lounge", 
+    "services:personal=nail_salon", 
+    "sg:entertainment=recreation", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "shop", 
     "club", 
@@ -11,6 +22,6 @@
     "manicuring", 
     "perfume"
   ], 
-  "wof:brand_name": "Beauty Bar", 
-  "wof:brand_id": 1125162535
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416301
 }

@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414531, 
+  "wof:brand_name": "The Cheesecake Factory", 
+  "wof:brand_id": 1125152625, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=bakery", 
+    "retail_goods:food_and_beverages=candy", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:food_and_drink=fast_food", 
+    "food_and_drink:bars_and_pubs=nightclub", 
+    "sg:food_and_drink=bars_and_pubs"
+  ], 
   "wof:tags": [
     "american", 
     "new", 
@@ -16,6 +25,6 @@
     "pizza", 
     "salad"
   ], 
-  "wof:brand_name": "The Cheesecake Factory", 
-  "wof:brand_id": 1125152625
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416290
 }

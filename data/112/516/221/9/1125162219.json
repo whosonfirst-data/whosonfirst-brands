@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414546, 
+  "wof:brand_name": "Drivers License Dept", 
+  "wof:brand_id": 1125162219, 
+  "wof:categories": [
+    "sg:public_place=government", 
+    "public_place:government=office", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "public_place:education=special_training", 
+    "public_place:government=police_station", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "program", 
     "state", 
@@ -12,6 +21,6 @@
     "mfg", 
     "stampings"
   ], 
-  "wof:brand_name": "Drivers License Dept", 
-  "wof:brand_id": 1125162219
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416303
 }

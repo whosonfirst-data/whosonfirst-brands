@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414510, 
+  "wof:brand_name": "Trustmark National Bank", 
+  "wof:brand_id": 1125152013, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=investment_brokerage"
+  ], 
   "wof:tags": [
     "national", 
     "commercial", 
@@ -8,6 +14,6 @@
     "saving", 
     "security"
   ], 
-  "wof:brand_name": "Trustmark National Bank", 
-  "wof:brand_id": 1125152013
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416274
 }

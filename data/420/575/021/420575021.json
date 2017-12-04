@@ -1,10 +1,14 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414448, 
+  "wof:brand_name": "Maternal & Child Health Centres", 
+  "wof:brand_id": 420575021, 
+  "wof:categories": [
+    "services:social_services=child_care", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "health", 
     "support"
   ], 
-  "wof:brand_name": "Maternal & Child Health Centres", 
-  "wof:brand_id": 420575021
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416225
 }

@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414511, 
+  "wof:brand_name": "L A Weight Loss Ctr", 
+  "wof:brand_id": 1125150775, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=professional", 
+    "services:health_services=health_practitioner", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "control", 
     "weight", 
@@ -12,6 +20,6 @@
     "preparation", 
     "nutrition"
   ], 
-  "wof:brand_name": "L A Weight Loss Ctr", 
-  "wof:brand_id": 1125150775
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416275
 }

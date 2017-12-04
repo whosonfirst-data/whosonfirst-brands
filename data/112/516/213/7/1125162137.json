@@ -1,10 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414542, 
+  "wof:brand_name": "Bakers Dolphin Travel", 
+  "wof:brand_id": 1125162137, 
+  "wof:categories": [
+    "entertainment:travel=travel_agent", 
+    "sg:entertainment=travel", 
+    "sg:transportation=bus_charters"
+  ], 
   "wof:tags": [
     "coach", 
     "hire"
   ], 
-  "wof:brand_name": "Bakers Dolphin Travel", 
-  "wof:brand_id": 1125162137
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416299
 }

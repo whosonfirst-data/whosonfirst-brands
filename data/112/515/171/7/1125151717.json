@@ -1,12 +1,23 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414495, 
+  "wof:brand_name": "Benefits Agency", 
+  "wof:brand_id": 1125151717, 
+  "wof:categories": [
+    "sg:services=social_services", 
+    "public_place:government=office", 
+    "services:insurance=health_insurance", 
+    "services:organizations=nonprofit_organization", 
+    "services:professional=employment_agencies", 
+    "sg:public_place=government", 
+    "sg:services=insurance", 
+    "sg:services=organizations", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "agency", 
     "benefit", 
     "carrier", 
     "consultant"
   ], 
-  "wof:brand_name": "Benefits Agency", 
-  "wof:brand_id": 1125151717
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416263
 }

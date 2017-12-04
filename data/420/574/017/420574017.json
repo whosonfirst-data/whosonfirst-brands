@@ -1,6 +1,30 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414457, 
+  "wof:brand_name": "Sears Canada Inc", 
+  "wof:brand_id": 420574017, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=catalog_store", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:home_and_garden=furniture", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:services=professional", 
+    "sg:services=retail", 
+    "services:professional=advertising", 
+    "sg:services=real_estate", 
+    "sg:transportation=freight", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:home_and_garden=carpets_and_floor_coverings", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "retail_goods:shopping=florist", 
+    "services:professional=printing_and_photocopies", 
+    "services:real_estate=real_estate_agent", 
+    "services:real_estate=real_estate_operator", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "mail", 
     "order", 
@@ -21,6 +45,6 @@
     "shipping", 
     "store"
   ], 
-  "wof:brand_name": "Sears Canada Inc", 
-  "wof:brand_id": 420574017
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416231
 }

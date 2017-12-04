@@ -1,9 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414506, 
+  "wof:brand_name": "AFSCME", 
+  "wof:brand_id": 1125154169, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=labor_organization", 
+    "services:organizations=nonprofit_organization", 
+    "services:organizations=professional_association"
+  ], 
   "wof:tags": [
     "union"
   ], 
-  "wof:brand_name": "AFSCME", 
-  "wof:brand_id": 1125154169
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416271
 }

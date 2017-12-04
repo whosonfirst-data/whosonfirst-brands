@@ -1,11 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414545, 
+  "wof:brand_name": "Grace Fellowship", 
+  "wof:brand_id": 1125160525, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:education=school", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "church", 
     "churches-brethren", 
     "presbyterian"
   ], 
-  "wof:brand_name": "Grace Fellowship", 
-  "wof:brand_id": 1125160525
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416301
 }

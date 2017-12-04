@@ -1,6 +1,14 @@
 {
   "wof:brand_name": "Bank of the West", 
   "wof:brand_id": 1125150603, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "commercial", 
     "saving", 
@@ -17,6 +25,6 @@
     420575383
   ], 
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414508, 
+  "wof:lastmodified": 1512416272, 
   "mz:is_current": 1
 }

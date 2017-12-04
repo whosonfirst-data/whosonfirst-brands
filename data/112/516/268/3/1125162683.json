@@ -1,6 +1,28 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414546, 
+  "wof:brand_name": "Jade", 
+  "wof:brand_id": 1125162683, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:services=professional", 
+    "services:personal=beauty_salon", 
+    "sg:services=personal", 
+    "retail_goods:shopping=antiques", 
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:food_and_beverages=meat_and_fish", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "retail_goods:shopping=books", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "services:real_estate=real_estate_agent", 
+    "services:retail=repair_shop", 
+    "services:utilities=telephone", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=real_estate", 
+    "sg:services=retail", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "clothing", 
     "shop", 
@@ -28,6 +50,6 @@
     "small", 
     "space"
   ], 
-  "wof:brand_name": "Jade", 
-  "wof:brand_id": 1125162683
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416303
 }

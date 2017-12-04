@@ -1,12 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414521, 
+  "wof:brand_name": "Holy Family Catholic Church", 
+  "wof:brand_id": 1125156975, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "sg:public_place=place_of_worship", 
+    "public_place:place_of_worship=church"
+  ], 
   "wof:tags": [
     "church", 
     "catholic", 
     "churches-catholic", 
     "churches-catholic-traditional"
   ], 
-  "wof:brand_name": "Holy Family Catholic Church", 
-  "wof:brand_id": 1125156975
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416283
 }

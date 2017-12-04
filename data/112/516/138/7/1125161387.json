@@ -1,7 +1,12 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414542, 
-  "wof:tags": [], 
   "wof:brand_name": "Banque De Savoie", 
-  "wof:brand_id": 1125161387
+  "wof:brand_id": 1125161387, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=bank"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416299
 }

@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414521, 
+  "wof:brand_name": "Rexel Inc", 
+  "wof:brand_id": 1125158389, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:home_and_garden=building_materials", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "equipment", 
     "electronic", 
@@ -28,6 +34,6 @@
     "voice", 
     "wholesaler"
   ], 
-  "wof:brand_name": "Rexel Inc", 
-  "wof:brand_id": 1125158389
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416283
 }

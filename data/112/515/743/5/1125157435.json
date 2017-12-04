@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414491, 
+  "wof:brand_name": "Lunch Garden", 
+  "wof:brand_id": 1125157435, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food"
+  ], 
   "wof:tags": [
     "restaurant", 
     "emporter", 
@@ -8,6 +12,6 @@
     "\u00c0", 
     "meeneem"
   ], 
-  "wof:brand_name": "Lunch Garden", 
-  "wof:brand_id": 1125157435
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416259
 }

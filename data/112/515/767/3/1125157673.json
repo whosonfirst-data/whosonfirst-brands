@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414490, 
+  "wof:brand_name": "Methodist Parsonage", 
+  "wof:brand_id": 1125157673, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "sg:services=professional", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship"
+  ], 
   "wof:tags": [
     "clergy", 
     "church", 
@@ -10,6 +17,6 @@
     "churches-methodist", 
     "parsonage"
   ], 
-  "wof:brand_name": "Methodist Parsonage", 
-  "wof:brand_id": 1125157673
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416258
 }

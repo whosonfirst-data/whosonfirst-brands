@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414562, 
+  "wof:brand_name": "Manhattan Bagel", 
+  "wof:brand_id": 1125149779, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:food_and_drink=bagels", 
+    "sg:food_and_drink=restaurant", 
+    "food_and_drink:bagels=none", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:shopping=party_supplies", 
+    "sg:food_and_drink=bakery", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=banks_and_credit_unions", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "services:professional=management_and_consulting", 
+    "sg:food_and_drink=coffee_and_tea", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "bagel", 
     "american", 
@@ -20,6 +38,6 @@
     "restaurant", 
     "soup"
   ], 
-  "wof:brand_name": "Manhattan Bagel", 
-  "wof:brand_id": 1125149779
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416315
 }

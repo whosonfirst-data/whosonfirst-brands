@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414449, 
+  "wof:brand_name": "Help the Aged", 
+  "wof:brand_id": 420575929, 
+  "wof:categories": [
+    "retail_goods:shopping=thrift_store", 
+    "sg:retail_goods=shopping", 
+    "sg:services=organizations", 
+    "services:organizations=nonprofit_organization", 
+    "services:organizations=community_association", 
+    "services:health_services=nursing_and_care_facility", 
+    "services:organizations=membership_organization", 
+    "services:organizations=professional_association", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "charity", 
     "shop", 
@@ -10,6 +21,6 @@
     "home", 
     "social"
   ], 
-  "wof:brand_name": "Help the Aged", 
-  "wof:brand_id": 420575929
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416225
 }

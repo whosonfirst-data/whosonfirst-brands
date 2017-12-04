@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414464, 
+  "wof:brand_name": "Gastroenterology Consultants", 
+  "wof:brand_id": 1125158993, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=doctor", 
+    "services:health_services=clinic", 
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "services:professional=management_and_consulting"
+  ], 
   "wof:tags": [
     "physician", 
     "surgeon", 
@@ -11,6 +19,6 @@
     "coach", 
     "information"
   ], 
-  "wof:brand_name": "Gastroenterology Consultants", 
-  "wof:brand_id": 1125158993
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416237
 }

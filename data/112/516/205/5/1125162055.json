@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414545, 
+  "wof:brand_name": "Tutti Frutti", 
+  "wof:brand_id": 1125162055, 
+  "wof:categories": [
+    "sg:food_and_drink=ice_cream", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=dairy", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:food_and_beverages=candy", 
+    "retail_goods:food_and_beverages=fruits_and_vegetables", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:food_and_drink=restaurant", 
+    "public_place:education=special_training", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:shopping=baby_store", 
+    "retail_goods:shopping=pets_and_pet_supplies", 
+    "sg:food_and_drink=coffee_and_tea", 
+    "sg:food_and_drink=fast_food", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "yogurt", 
     "frozen", 
@@ -21,6 +38,6 @@
     "take", 
     "wholesale"
   ], 
-  "wof:brand_name": "Tutti Frutti", 
-  "wof:brand_id": 1125162055
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416302
 }

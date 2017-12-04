@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414519, 
+  "wof:brand_name": "Tuxedo Junction", 
+  "wof:brand_id": 1125155197, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=bridal", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "food_and_drink:bars_and_pubs=nightclub", 
+    "manufacturing_and_wholesale_goods:manufacturing=leather_goods", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:food_and_drink=restaurant", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "wear", 
     "formal", 
@@ -24,6 +37,6 @@
     "scout", 
     "uniform"
   ], 
-  "wof:brand_name": "Tuxedo Junction", 
-  "wof:brand_id": 1125155197
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416281
 }

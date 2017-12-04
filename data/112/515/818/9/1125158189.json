@@ -1,9 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414537, 
+  "wof:brand_name": "Stationery Box Ltd.", 
+  "wof:brand_id": 1125158189, 
+  "wof:categories": [
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "supplier"
   ], 
-  "wof:brand_name": "Stationery Box Ltd.", 
-  "wof:brand_id": 1125158189
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416295
 }

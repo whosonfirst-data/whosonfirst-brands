@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414497, 
+  "wof:brand_name": "Sisters Of Charity", 
+  "wof:brand_id": 1125156841, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=religious_organization", 
+    "services:organizations=nonprofit_organization", 
+    "sg:services=health_services", 
+    "services:health_services=hospital", 
+    "services:health_services=nursing_and_care_facility", 
+    "services:organizations=membership_organization", 
+    "sg:public_place=place_of_worship", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "convent", 
     "monastery", 
@@ -15,6 +26,6 @@
     "voluntary", 
     "welfare"
   ], 
-  "wof:brand_name": "Sisters Of Charity", 
-  "wof:brand_id": 1125156841
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416264
 }

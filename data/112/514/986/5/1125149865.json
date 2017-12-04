@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414555, 
+  "wof:brand_name": "Elegant Nails", 
+  "wof:brand_id": 1125149865, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon", 
+    "services:personal=tanning_parlor", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "services:professional=management_and_consulting", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "manicuring", 
     "shop", 
@@ -11,6 +23,6 @@
     "specialist", 
     "supply"
   ], 
-  "wof:brand_name": "Elegant Nails", 
-  "wof:brand_id": 1125149865
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416310
 }

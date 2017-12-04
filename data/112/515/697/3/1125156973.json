@@ -1,12 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414521, 
+  "wof:brand_name": "Hair Biz", 
+  "wof:brand_id": 1125156973, 
+  "wof:categories": [
+    "services:personal=beauty_salon", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
     "hairdresser", 
     "stylist"
   ], 
-  "wof:brand_name": "Hair Biz", 
-  "wof:brand_id": 1125156973
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416283
 }

@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414496, 
+  "wof:brand_name": "KWIK Fill", 
+  "wof:brand_id": 1125153785, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "gasoline", 
     "oil", 
@@ -8,6 +14,6 @@
     "grocer", 
     "grocery"
   ], 
-  "wof:brand_name": "KWIK Fill", 
-  "wof:brand_id": 1125153785
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416263
 }

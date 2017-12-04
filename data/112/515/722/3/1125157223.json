@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414536, 
+  "wof:brand_name": "New Life Ministries", 
+  "wof:brand_id": 1125157223, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=religious_organization", 
+    "sg:public_place=place_of_worship", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=education", 
+    "public_place:education=school", 
+    "public_place:education=special_training", 
+    "public_place:place_of_worship=temple", 
+    "services:organizations=nonprofit_organization", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "church", 
     "churches-christian", 
@@ -20,6 +32,6 @@
     "school", 
     "welfare"
   ], 
-  "wof:brand_name": "New Life Ministries", 
-  "wof:brand_id": 1125157223
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416294
 }

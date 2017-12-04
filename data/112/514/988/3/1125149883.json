@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414560, 
+  "wof:brand_name": "Dollar Store", 
+  "wof:brand_id": 1125149883, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=computers", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:shopping=thrift_store", 
+    "services:professional=business_services", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "merchandise", 
     "general", 
@@ -13,6 +29,6 @@
     "novelty", 
     "outlet"
   ], 
-  "wof:brand_name": "Dollar Store", 
-  "wof:brand_id": 1125149883
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416313
 }

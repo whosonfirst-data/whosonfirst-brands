@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414496, 
+  "wof:brand_name": "Harveys Furnishing Group Ltd.", 
+  "wof:brand_id": 1125156579, 
+  "wof:categories": [
+    "retail_goods:home_and_garden=furniture", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "outlet"
   ], 
-  "wof:brand_name": "Harveys Furnishing Group Ltd.", 
-  "wof:brand_id": 1125156579
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416263
 }

@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414552, 
+  "wof:brand_name": "Locksmith 24 Hours", 
+  "wof:brand_id": 1125149279, 
+  "wof:categories": [
+    "services:building_and_trades=locksmith", 
+    "sg:services=building_and_trades", 
+    "services:retail=repair_shop", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:wholesale=hardware", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "key", 
     "locksmith", 
@@ -9,6 +18,6 @@
     "supply", 
     "towing"
   ], 
-  "wof:brand_name": "Locksmith 24 Hours", 
-  "wof:brand_id": 1125149279
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416308
 }

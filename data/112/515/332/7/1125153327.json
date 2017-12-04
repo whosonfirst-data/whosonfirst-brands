@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414472, 
+  "wof:brand_name": "Pediatric Associates", 
+  "wof:brand_id": 1125153327, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=doctor", 
+    "sg:services=professional", 
+    "services:health_services=optometrist", 
+    "services:professional=management_and_consulting"
+  ], 
   "wof:tags": [
     "physician", 
     "surgeon", 
@@ -16,6 +23,6 @@
     "pediatrics-allergy", 
     "practice"
   ], 
-  "wof:brand_name": "Pediatric Associates", 
-  "wof:brand_id": 1125153327
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416243
 }

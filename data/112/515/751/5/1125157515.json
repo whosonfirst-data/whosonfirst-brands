@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414467, 
+  "wof:brand_name": "Talking Heads", 
+  "wof:brand_id": 1125157515, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "sg:public_place=community_center", 
+    "public_place:community_center=social", 
+    "public_place:community_center=youth", 
+    "public_place:government=post_office", 
+    "services:utilities=mobile_phone", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:public_place=government", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "hairdresser", 
     "unisex", 
@@ -18,6 +31,6 @@
     "pubs", 
     "window"
   ], 
-  "wof:brand_name": "Talking Heads", 
-  "wof:brand_id": 1125157515
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416240
 }

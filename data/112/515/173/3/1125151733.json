@@ -1,6 +1,31 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414511, 
+  "wof:brand_name": "Head To Toe", 
+  "wof:brand_id": 1125151733, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:personal=barber", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "services:personal=nail_salon", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "entertainment:sports_and_exercise=gym", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=florist", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=shoes", 
+    "services:health_services=clinic", 
+    "services:personal=hair_removal", 
+    "services:personal=skin_care", 
+    "services:personal=tanning_parlor", 
+    "services:professional=business_services", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "shop", 
     "beauty", 
@@ -36,6 +61,6 @@
     "tanning", 
     "weight"
   ], 
-  "wof:brand_name": "Head To Toe", 
-  "wof:brand_id": 1125151733
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416275
 }

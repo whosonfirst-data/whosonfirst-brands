@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414468, 
+  "wof:brand_name": "Hair Etc", 
+  "wof:brand_id": 1125152349, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:personal=nail_salon", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
@@ -12,6 +23,6 @@
     "manicuring", 
     "merchandise"
   ], 
-  "wof:brand_name": "Hair Etc", 
-  "wof:brand_id": 1125152349
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416241
 }

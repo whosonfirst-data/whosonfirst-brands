@@ -1,12 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414467, 
+  "wof:brand_name": "Raine & Horne", 
+  "wof:brand_id": 1125151961, 
+  "wof:categories": [
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate", 
+    "sg:services=professional", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:professional=business_services", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "auctioneer", 
     "broker", 
     "management", 
     "property"
   ], 
-  "wof:brand_name": "Raine & Horne", 
-  "wof:brand_id": 1125151961
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416240
 }

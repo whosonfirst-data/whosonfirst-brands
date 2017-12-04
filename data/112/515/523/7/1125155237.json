@@ -1,10 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414516, 
+  "wof:brand_name": "Connell Estate Agents", 
+  "wof:brand_id": 1125155237, 
+  "wof:categories": [
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_agent", 
+    "services:real_estate=real_estate_operator", 
+    "services:real_estate=surveying"
+  ], 
   "wof:tags": [
     "agent", 
     "letting"
   ], 
-  "wof:brand_name": "Connell Estate Agents", 
-  "wof:brand_id": 1125155237
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416279
 }

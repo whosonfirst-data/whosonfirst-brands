@@ -1,7 +1,10 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414481, 
-  "wof:tags": [], 
   "wof:brand_name": "Zur Post", 
-  "wof:brand_id": 1125150173
+  "wof:brand_id": 1125150173, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416251
 }

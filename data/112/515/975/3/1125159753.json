@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414522, 
+  "wof:brand_name": "Yogurtland", 
+  "wof:brand_id": 1125159753, 
+  "wof:categories": [
+    "sg:food_and_drink=ice_cream", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=candy", 
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=dairy", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores"
+  ], 
   "wof:tags": [
     "frozen", 
     "yogurt", 
@@ -8,6 +16,6 @@
     "do-it-yourself", 
     "product"
   ], 
-  "wof:brand_name": "Yogurtland", 
-  "wof:brand_id": 1125159753
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416284
 }

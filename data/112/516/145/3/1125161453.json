@@ -1,12 +1,21 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414552, 
+  "wof:brand_name": "Dental Office", 
+  "wof:brand_id": 1125161453, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=doctor", 
+    "services:health_services=dentist", 
+    "services:organizations=professional_association", 
+    "services:professional=business_services", 
+    "sg:services=organizations", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "dentist", 
     "clinic", 
     "dental", 
     "medical"
   ], 
-  "wof:brand_name": "Dental Office", 
-  "wof:brand_id": 1125161453
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416307
 }

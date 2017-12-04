@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414475, 
+  "wof:brand_name": "Womens International Bowl", 
+  "wof:brand_id": 1125152183, 
+  "wof:categories": [
+    "entertainment:sports_and_exercise=bowling", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:entertainment=recreation", 
+    "sg:services=organizations", 
+    "services:organizations=community_association", 
+    "services:organizations=membership_organization"
+  ], 
   "wof:tags": [
     "center", 
     "membership", 
@@ -8,6 +16,6 @@
     "club", 
     "bowling"
   ], 
-  "wof:brand_name": "Womens International Bowl", 
-  "wof:brand_id": 1125152183
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416246
 }

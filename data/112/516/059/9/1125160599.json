@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414538, 
+  "wof:brand_name": "Oakwood Apartments", 
+  "wof:brand_id": 1125160599, 
+  "wof:categories": [
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_operator", 
+    "entertainment:travel=hotels_and_motels", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:health_services=doctor", 
+    "services:real_estate=real_estate_agent", 
+    "services:real_estate=real_estate_services", 
+    "sg:entertainment=travel", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "apartment", 
     "building", 
@@ -19,6 +31,6 @@
     "trust", 
     "vacancy"
   ], 
-  "wof:brand_name": "Oakwood Apartments", 
-  "wof:brand_id": 1125160599
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416297
 }

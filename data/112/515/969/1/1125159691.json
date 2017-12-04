@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414483, 
+  "wof:brand_name": "Sheriffs Department", 
+  "wof:brand_id": 1125159691, 
+  "wof:categories": [
+    "sg:public_place=government", 
+    "public_place:government=police_station", 
+    "public_place:government=office", 
+    "public_place:education=vocational_school", 
+    "public_place:government=jail", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "protection", 
     "department", 
@@ -17,6 +25,6 @@
     "police", 
     "training"
   ], 
-  "wof:brand_name": "Sheriffs Department", 
-  "wof:brand_id": 1125159691
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416252
 }

@@ -1,12 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414521, 
+  "wof:brand_name": "Motorway Tyres & Autocentres", 
+  "wof:brand_id": 1125156109, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "services:professional=testing_lab", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "tyre", 
     "car", 
     "customizing", 
     "specialist"
   ], 
-  "wof:brand_name": "Motorway Tyres & Autocentres", 
-  "wof:brand_id": 1125156109
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416283
 }

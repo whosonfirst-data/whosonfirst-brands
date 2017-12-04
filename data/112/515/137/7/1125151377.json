@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414489, 
+  "wof:brand_name": "National Property Inspections", 
+  "wof:brand_id": 1125151377, 
+  "wof:categories": [
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_agent", 
+    "services:professional=business_services", 
+    "sg:services=professional", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "services:building_and_trades=construction", 
+    "services:real_estate=real_estate_operator", 
+    "services:utilities=telephone", 
+    "sg:services=utilities", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "inspection", 
     "building", 
@@ -17,6 +31,6 @@
     "property", 
     "remodeling"
   ], 
-  "wof:brand_name": "National Property Inspections", 
-  "wof:brand_id": 1125151377
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416257
 }

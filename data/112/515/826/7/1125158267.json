@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414516, 
+  "wof:brand_name": "Cub Foods", 
+  "wof:brand_id": 1125158267, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=pharmacy", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "retail_goods:shopping=florist"
+  ], 
   "wof:tags": [
     "grocer", 
     "drugstore", 
@@ -10,6 +18,6 @@
     "eating", 
     "chain"
   ], 
-  "wof:brand_name": "Cub Foods", 
-  "wof:brand_id": 1125158267
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416279
 }

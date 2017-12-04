@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414495, 
+  "wof:brand_name": "Rex TV & Appliances", 
+  "wof:brand_id": 1125156471, 
+  "wof:categories": [
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "sg:retail_goods=shopping", 
+    "services:retail=repair_shop", 
+    "sg:services=retail", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "television", 
     "radio", 
@@ -13,6 +21,6 @@
     "commercial", 
     "electrical"
   ], 
-  "wof:brand_name": "Rex TV & Appliances", 
-  "wof:brand_id": 1125156471
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416263
 }

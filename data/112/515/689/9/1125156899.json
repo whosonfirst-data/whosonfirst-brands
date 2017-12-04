@@ -1,7 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414478, 
-  "wof:tags": [], 
   "wof:brand_name": "Alte Post", 
-  "wof:brand_id": 1125156899
+  "wof:brand_id": 1125156899, 
+  "wof:categories": [
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416248
 }

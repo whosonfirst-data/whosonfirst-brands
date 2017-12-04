@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414491, 
+  "wof:brand_name": "Whitney National Bank", 
+  "wof:brand_id": 1125152833, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=financial_services"
+  ], 
   "wof:tags": [
     "national", 
     "commercial", 
@@ -10,6 +15,6 @@
     "saving", 
     "state"
   ], 
-  "wof:brand_name": "Whitney National Bank", 
-  "wof:brand_id": 1125152833
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416259
 }

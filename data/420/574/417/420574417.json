@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414456, 
+  "wof:brand_name": "Lane Bryant", 
+  "wof:brand_id": 420574417, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "entertainment:sports_and_exercise=swimming_pool", 
+    "sg:entertainment=sports_and_exercise", 
+    "retail_goods:shopping=department_store", 
+    "sg:public_place=shopping_center", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=used_merchandise", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "accessory", 
     "women's", 
@@ -19,6 +31,6 @@
     "sportswear", 
     "vintage"
   ], 
-  "wof:brand_name": "Lane Bryant", 
-  "wof:brand_id": 420574417
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416231
 }

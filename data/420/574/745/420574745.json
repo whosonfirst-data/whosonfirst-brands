@@ -1,6 +1,29 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414462, 
+  "wof:brand_name": "Things Remembered", 
+  "wof:brand_id": 420574745, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:services=professional", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=glass_and_minerals", 
+    "retail_goods:shopping=party_supplies", 
+    "services:professional=printing_and_photocopies", 
+    "services:professional=business_services", 
+    "retail_goods:shopping=optical_goods", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:shopping=antiques", 
+    "retail_goods:shopping=bridal", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=jewelry", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=shopping_center", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "shop", 
     "engraving", 
@@ -25,6 +48,6 @@
     "shopping", 
     "women's"
   ], 
-  "wof:brand_name": "Things Remembered", 
-  "wof:brand_id": 420574745
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416235
 }

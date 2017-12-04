@@ -1,6 +1,28 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414514, 
+  "wof:brand_name": "Learning Express", 
+  "wof:brand_id": 1125152959, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "services:social_services=child_care", 
+    "sg:services=social_services", 
+    "sg:public_place=education", 
+    "public_place:education=special_training", 
+    "public_place:education=school", 
+    "retail_goods:shopping=crafts_and_fabrics", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:manufacturing=toys_and_sporting_goods", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "manufacturing_and_wholesale_goods:wholesale=toys_and_hobbies", 
+    "retail_goods:shopping=baby_store", 
+    "retail_goods:shopping=books", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "store", 
     "toy", 
@@ -22,6 +44,6 @@
     "retailer", 
     "specialty"
   ], 
-  "wof:brand_name": "Learning Express", 
-  "wof:brand_id": 1125152959
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416277
 }

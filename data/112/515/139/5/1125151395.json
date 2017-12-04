@@ -1,12 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414470, 
+  "wof:brand_name": "Sue Ryder Foundation", 
+  "wof:brand_id": 1125151395, 
+  "wof:categories": [
+    "retail_goods:shopping=thrift_store", 
+    "sg:retail_goods=shopping", 
+    "services:organizations=nonprofit_organization", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "charity", 
     "shop", 
     "organisation", 
     "voluntary"
   ], 
-  "wof:brand_name": "Sue Ryder Foundation", 
-  "wof:brand_id": 1125151395
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416242
 }

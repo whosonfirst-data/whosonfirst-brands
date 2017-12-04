@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414519, 
+  "wof:brand_name": "Continental Airlines", 
+  "wof:brand_id": 1125152647, 
+  "wof:categories": [
+    "sg:transportation=airline", 
+    "entertainment:travel=travel_agent", 
+    "sg:entertainment=travel", 
+    "sg:transportation=airport", 
+    "sg:transportation=transit_center", 
+    "transportation:transit_center=freight", 
+    "services:professional=business_services", 
+    "sg:services=professional", 
+    "sg:transportation=freight", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:transportation=local_transit"
+  ], 
   "wof:tags": [
     "air", 
     "company", 
@@ -29,6 +43,6 @@
     "tran", 
     "warehouse"
   ], 
-  "wof:brand_name": "Continental Airlines", 
-  "wof:brand_id": 1125152647
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416281
 }

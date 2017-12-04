@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414466, 
+  "wof:brand_name": "China Kitchen", 
+  "wof:brand_id": 1125151465, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "manufacturing_and_wholesale_goods:manufacturing=glass_and_minerals", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "chinese", 
     "eating", 
@@ -12,6 +19,6 @@
     "glassware", 
     "take"
   ], 
-  "wof:brand_name": "China Kitchen", 
-  "wof:brand_id": 1125151465
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416239
 }

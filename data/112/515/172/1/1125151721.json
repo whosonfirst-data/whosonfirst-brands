@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414469, 
+  "wof:brand_name": "Centre DE LA Petite Enfance", 
+  "wof:brand_id": 1125151721, 
+  "wof:categories": [
+    "services:social_services=child_care", 
+    "sg:services=social_services", 
+    "sg:services=personal", 
+    "services:professional=employment_agencies", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "bureau", 
     "personal", 
@@ -11,6 +18,6 @@
     "school", 
     "sitter"
   ], 
-  "wof:brand_name": "Centre DE LA Petite Enfance", 
-  "wof:brand_id": 1125151721
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416241
 }

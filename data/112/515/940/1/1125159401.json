@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414526, 
+  "wof:brand_name": "The Royal Air Forces Association", 
+  "wof:brand_id": 1125159401, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=nonprofit_organization", 
+    "services:organizations=membership_organization", 
+    "services:organizations=community_association"
+  ], 
   "wof:tags": [
     "charity", 
     "organisation", 
@@ -9,6 +15,6 @@
     "club", 
     "social"
   ], 
-  "wof:brand_name": "The Royal Air Forces Association", 
-  "wof:brand_id": 1125159401
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416287
 }

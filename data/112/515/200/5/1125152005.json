@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414480, 
+  "wof:brand_name": "Regis Salon", 
+  "wof:brand_id": 1125152005, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "services:personal=day_spa", 
+    "sg:public_place=shopping_center"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
@@ -11,6 +18,6 @@
     "spa", 
     "unisex"
   ], 
-  "wof:brand_name": "Regis Salon", 
-  "wof:brand_id": 1125152005
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416250
 }

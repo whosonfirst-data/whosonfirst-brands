@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414507, 
+  "wof:brand_name": "Exel Logistics", 
+  "wof:brand_id": 1125155921, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "sg:transportation=freight", 
+    "services:professional=management_and_consulting", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:farming=crops", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "public_place:structure=warehouse", 
+    "services:retail=storage", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:public_place=structure", 
+    "sg:services=retail", 
+    "sg:transportation=airline"
+  ], 
   "wof:tags": [
     "distribution", 
     "logistics", 
@@ -24,6 +40,6 @@
     "tire", 
     "trucking"
   ], 
-  "wof:brand_name": "Exel Logistics", 
-  "wof:brand_id": 1125155921
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416272
 }

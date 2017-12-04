@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414476, 
+  "wof:brand_name": "Investment Planning Counsel", 
+  "wof:brand_id": 1125158791, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:insurance=insurance_agent", 
+    "sg:services=insurance", 
+    "services:banks_and_credit_unions=bank", 
+    "services:professional=lawyer_and_legal_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "planning", 
     "financial", 
@@ -12,6 +21,6 @@
     "retirement", 
     "investment"
   ], 
-  "wof:brand_name": "Investment Planning Counsel", 
-  "wof:brand_id": 1125158791
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416247
 }

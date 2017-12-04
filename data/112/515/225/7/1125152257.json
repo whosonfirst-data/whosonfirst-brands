@@ -1,10 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414464, 
+  "wof:brand_name": "Britannia Building Society", 
+  "wof:brand_id": 1125152257, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=banks_and_credit_unions", 
+    "manufacturing_and_wholesale_goods:manufacturing=building_materials", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "building", 
     "society"
   ], 
-  "wof:brand_name": "Britannia Building Society", 
-  "wof:brand_id": 1125152257
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416237
 }

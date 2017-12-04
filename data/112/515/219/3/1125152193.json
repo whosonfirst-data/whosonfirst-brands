@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414502, 
+  "wof:brand_name": "City Garage", 
+  "wof:brand_id": 1125152193, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "village", 
     "general", 
@@ -15,6 +23,6 @@
     "program", 
     "shop"
   ], 
-  "wof:brand_name": "City Garage", 
-  "wof:brand_id": 1125152193
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416267
 }

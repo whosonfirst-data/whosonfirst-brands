@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414486, 
+  "wof:brand_name": "Allied Building Products Corp", 
+  "wof:brand_id": 1125155213, 
+  "wof:categories": [
+    "retail_goods:home_and_garden=building_materials", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=construction_materials", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=building_materials", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:wholesale=hardware", 
+    "retail_goods:home_and_garden=hardware", 
+    "services:professional=business_services", 
+    "sg:services=professional", 
+    "sg:transportation=freight", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "manufacturing_and_wholesale_goods:manufacturing=petroleum_products"
+  ], 
   "wof:tags": [
     "roofing", 
     "supply", 
@@ -40,6 +57,6 @@
     "windows", 
     "windows-repair"
   ], 
-  "wof:brand_name": "Allied Building Products Corp", 
-  "wof:brand_id": 1125155213
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416255
 }

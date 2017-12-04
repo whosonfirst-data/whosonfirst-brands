@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414464, 
+  "wof:brand_name": "Banco Popular", 
+  "wof:brand_id": 1125152321, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:health_services=doctor", 
+    "services:organizations=nonprofit_organization", 
+    "services:professional=business_services", 
+    "sg:services=health_services", 
+    "sg:services=organizations", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "commercial", 
     "saving", 
@@ -17,6 +28,6 @@
     "philanthropic", 
     "research"
   ], 
-  "wof:brand_name": "Banco Popular", 
-  "wof:brand_id": 1125152321
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416238
 }

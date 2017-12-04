@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414511, 
+  "wof:brand_name": "Pricewaterhouse Coopers", 
+  "wof:brand_id": 1125158601, 
+  "wof:categories": [
+    "services:professional=accounting_and_tax_preparation", 
+    "sg:services=professional", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "accountant", 
     "bankruptcy", 
@@ -12,6 +21,6 @@
     "chartered", 
     "security"
   ], 
-  "wof:brand_name": "Pricewaterhouse Coopers", 
-  "wof:brand_id": 1125158601
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416275
 }

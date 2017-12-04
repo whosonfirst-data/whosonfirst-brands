@@ -1,6 +1,33 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414455, 
+  "wof:brand_name": "Wachovia", 
+  "wof:brand_id": 420574661, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=professional", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:building_and_trades=construction", 
+    "sg:public_place=shopping_center", 
+    "sg:services=building_and_trades", 
+    "services:professional=lawyer_and_legal_services", 
+    "sg:services=real_estate", 
+    "public_place:place_of_worship=church", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:banks_and_credit_unions=atm", 
+    "services:professional=art_services", 
+    "services:professional=computer_services", 
+    "services:professional=employment_agencies", 
+    "services:real_estate=developer", 
+    "services:real_estate=real_estate_agent", 
+    "services:retail=portrait_studio", 
+    "services:utilities=telephone", 
+    "sg:public_place=community_center", 
+    "sg:public_place=place_of_worship", 
+    "sg:retail_goods=shopping", 
+    "sg:services=retail", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "mortgage", 
     "commercial", 
@@ -39,6 +66,6 @@
     "store", 
     "telecommunication"
   ], 
-  "wof:brand_name": "Wachovia", 
-  "wof:brand_id": 420574661
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416230
 }

@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414485, 
+  "wof:brand_name": "Decision One", 
+  "wof:brand_id": 1125153947, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=computer_services", 
+    "services:utilities=telephone", 
+    "sg:services=utilities", 
+    "manufacturing_and_wholesale_goods:wholesale=computers", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=banks_and_credit_unions", 
+    "services:professional=management_and_consulting", 
+    "services:retail=auto_rental", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "repair", 
     "datum", 
@@ -23,6 +38,6 @@
     "technology", 
     "truck"
   ], 
-  "wof:brand_name": "Decision One", 
-  "wof:brand_id": 1125153947
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416254
 }

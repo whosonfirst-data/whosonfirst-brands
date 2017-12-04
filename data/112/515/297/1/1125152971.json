@@ -1,6 +1,32 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414530, 
+  "wof:brand_name": "Pfizer", 
+  "wof:brand_id": 1125152971, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=drugs", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "manufacturing_and_wholesale_goods:wholesale=medical_equipment_and_supplies", 
+    "retail_goods:shopping=pharmacy", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "sg:services=health_services", 
+    "services:health_services=medical_lab", 
+    "services:professional=research", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "manufacturing_and_wholesale_goods:wholesale=farm_supplies", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "services:health_services=doctor", 
+    "services:professional=employment_agencies", 
+    "services:retail=veterinary_services", 
+    "services:utilities=cable", 
+    "sg:services=retail", 
+    "sg:services=utilities", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "pharmaceutical", 
     "product", 
@@ -42,6 +68,6 @@
     "veterinarian", 
     "warehouse"
   ], 
-  "wof:brand_name": "Pfizer", 
-  "wof:brand_id": 1125152971
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416290
 }

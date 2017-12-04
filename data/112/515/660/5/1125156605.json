@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414535, 
+  "wof:brand_name": "Miller Construction", 
+  "wof:brand_id": 1125156605, 
+  "wof:categories": [
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=construction", 
+    "manufacturing_and_wholesale_goods:manufacturing=buildings", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=professional", 
+    "services:building_and_trades=electrical", 
+    "services:professional=business_services", 
+    "services:professional=engineering", 
+    "services:real_estate=real_estate_operator", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "contractor", 
     "house", 
@@ -30,6 +42,6 @@
     "specialty", 
     "system"
   ], 
-  "wof:brand_name": "Miller Construction", 
-  "wof:brand_id": 1125156605
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416294
 }

@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414496, 
+  "wof:brand_name": "Dermatology Associates", 
+  "wof:brand_id": 1125155113, 
+  "wof:categories": [
+    "services:health_services=doctor", 
+    "sg:services=health_services", 
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=skin_care", 
+    "services:health_services=clinic", 
+    "services:personal=hair_removal"
+  ], 
   "wof:tags": [
     "physician", 
     "surgeon", 
@@ -21,6 +30,6 @@
     "treatment", 
     "vascular"
   ], 
-  "wof:brand_name": "Dermatology Associates", 
-  "wof:brand_id": 1125155113
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416263
 }

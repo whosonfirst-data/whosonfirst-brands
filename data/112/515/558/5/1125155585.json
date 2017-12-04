@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414475, 
+  "wof:brand_name": "Claire's Boutiques", 
+  "wof:brand_id": 1125155585, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:services=personal", 
+    "retail_goods:shopping=jewelry", 
+    "services:personal=piercing", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "manufacturing_and_wholesale_goods:manufacturing=jewelry", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "boutique", 
     "item", 
@@ -14,6 +24,6 @@
     "shop", 
     "women's"
   ], 
-  "wof:brand_name": "Claire's Boutiques", 
-  "wof:brand_id": 1125155585
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416246
 }

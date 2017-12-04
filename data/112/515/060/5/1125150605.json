@@ -1,10 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414508, 
+  "wof:brand_name": "Deutsches Haus", 
+  "wof:brand_id": 1125150605, 
+  "wof:categories": [
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel"
+  ], 
   "wof:tags": [
     "guest", 
     "house"
   ], 
-  "wof:brand_name": "Deutsches Haus", 
-  "wof:brand_id": 1125150605
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416272
 }

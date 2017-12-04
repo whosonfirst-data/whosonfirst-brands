@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414465, 
+  "wof:brand_name": "First Franklin Financial Corp", 
+  "wof:brand_id": 1125150153, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=investment_brokerage"
+  ], 
   "wof:tags": [
     "loan", 
     "financing", 
@@ -17,6 +22,6 @@
     "correspondent", 
     "cred"
   ], 
-  "wof:brand_name": "First Franklin Financial Corp", 
-  "wof:brand_id": 1125150153
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416238
 }

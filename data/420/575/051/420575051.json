@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414452, 
+  "wof:brand_name": "Penske Truck Leasing", 
+  "wof:brand_id": 420575051, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=auto_rental", 
+    "services:building_and_trades=equipment_rental", 
+    "sg:services=building_and_trades", 
+    "services:retail=auto_repair", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "services:professional=employment_agencies", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "leasing", 
     "truck", 
@@ -12,6 +25,6 @@
     "driver", 
     "hydraulic"
   ], 
-  "wof:brand_name": "Penske Truck Leasing", 
-  "wof:brand_id": 420575051
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416228
 }

@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414489, 
+  "wof:brand_name": "First Security Bank", 
+  "wof:brand_id": 1125158291, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "services:professional=detective_and_security_services", 
+    "sg:services=professional", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=investment_brokerage"
+  ], 
   "wof:tags": [
     "commercial", 
     "guard", 
@@ -10,6 +18,6 @@
     "security", 
     "state"
   ], 
-  "wof:brand_name": "First Security Bank", 
-  "wof:brand_id": 1125158291
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416257
 }

@@ -1,7 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414539, 
-  "wof:tags": [], 
   "wof:brand_name": "Reeds Rains", 
-  "wof:brand_id": 1125160945
+  "wof:brand_id": 1125160945, 
+  "wof:categories": [
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416297
 }

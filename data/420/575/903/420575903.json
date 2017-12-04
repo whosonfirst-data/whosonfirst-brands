@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414449, 
+  "wof:brand_name": "State Attorney", 
+  "wof:brand_id": 420575903, 
+  "wof:categories": [
+    "public_place:government=court_house", 
+    "sg:public_place=government", 
+    "services:professional=lawyer_and_legal_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "counsel", 
     "state", 
@@ -8,6 +14,6 @@
     "attorney", 
     "county"
   ], 
-  "wof:brand_name": "State Attorney", 
-  "wof:brand_id": 420575903
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416225
 }

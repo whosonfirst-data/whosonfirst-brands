@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414450, 
+  "wof:brand_name": "Pizza Inn", 
+  "wof:brand_id": 420575727, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "sg:services=professional", 
+    "entertainment:travel=hotels_and_motels", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:entertainment=travel", 
+    "sg:retail_goods=food_and_beverages", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "services:professional=business_services", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:transportation=local_transit"
+  ], 
   "wof:tags": [
     "pizza", 
     "american", 
@@ -25,6 +40,6 @@
     "sandwich", 
     "specialty"
   ], 
-  "wof:brand_name": "Pizza Inn", 
-  "wof:brand_id": 420575727
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416226
 }

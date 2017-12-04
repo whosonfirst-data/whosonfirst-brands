@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414510, 
+  "wof:brand_name": "Money Concepts", 
+  "wof:brand_id": 1125155399, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=bank", 
+    "services:building_and_trades=equipment_rental", 
+    "services:insurance=hazard_insurance", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "consultant", 
     "financial", 
@@ -27,6 +41,6 @@
     "retirement", 
     "stock"
   ], 
-  "wof:brand_name": "Money Concepts", 
-  "wof:brand_id": 1125155399
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416274
 }

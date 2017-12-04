@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414474, 
+  "wof:brand_name": "Landmark Operations Limited", 
+  "wof:brand_id": 1125157883, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_agent", 
+    "services:real_estate=real_estate_services", 
+    "food_and_drink:bars_and_pubs=dive_bar", 
+    "sg:food_and_drink=bars_and_pubs"
+  ], 
   "wof:tags": [
     "agent", 
     "stock", 
@@ -8,6 +16,6 @@
     "knitwear", 
     "retail"
   ], 
-  "wof:brand_name": "Landmark Operations Limited", 
-  "wof:brand_id": 1125157883
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416245
 }

@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414446, 
+  "wof:brand_name": "Roto-Rooter Plumbing & Drain", 
+  "wof:brand_id": 420575335, 
+  "wof:categories": [
+    "services:building_and_trades=plumbing", 
+    "sg:services=building_and_trades", 
+    "services:retail=repair_shop", 
+    "sg:services=retail", 
+    "services:utilities=sewage", 
+    "sg:services=utilities", 
+    "sg:public_place=conference_center"
+  ], 
   "wof:tags": [
     "plumbing", 
     "contractor", 
@@ -18,6 +27,6 @@
     "systems-cleaning", 
     "tank"
   ], 
-  "wof:brand_name": "Roto-Rooter Plumbing & Drain", 
-  "wof:brand_id": 420575335
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416223
 }

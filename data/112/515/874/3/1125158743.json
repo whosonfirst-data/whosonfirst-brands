@@ -1,6 +1,25 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414508, 
+  "wof:brand_name": "Crown Castle USA", 
+  "wof:brand_id": 1125158743, 
+  "wof:categories": [
+    "sg:services=utilities", 
+    "services:utilities=telephone", 
+    "sg:services=professional", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=mobile_phones", 
+    "sg:services=communications", 
+    "manufacturing_and_wholesale_goods:manufacturing=electronics", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:building_and_trades=construction", 
+    "services:utilities=mobile_phone", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "telecommunication", 
     "establishment", 
@@ -16,6 +35,6 @@
     "telecommunications-equipment", 
     "telephone"
   ], 
-  "wof:brand_name": "Crown Castle USA", 
-  "wof:brand_id": 1125158743
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416272
 }

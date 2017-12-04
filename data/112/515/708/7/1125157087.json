@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414472, 
+  "wof:brand_name": "US Army Reserve Ctr", 
+  "wof:brand_id": 1125157087, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government"
+  ], 
   "wof:tags": [
     "security", 
     "federal", 
@@ -8,6 +12,6 @@
     "reserves", 
     "state"
   ], 
-  "wof:brand_name": "US Army Reserve Ctr", 
-  "wof:brand_id": 1125157087
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416243
 }

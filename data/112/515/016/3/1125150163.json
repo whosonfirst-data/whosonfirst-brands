@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414479, 
+  "wof:brand_name": "Q8", 
+  "wof:brand_id": 1125150163, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "services:utilities=fuel_oil_and_lpg", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "carburants", 
     "stations-service", 
@@ -8,6 +14,6 @@
     "petrol", 
     "combustible"
   ], 
-  "wof:brand_name": "Q8", 
-  "wof:brand_id": 1125150163
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416249
 }

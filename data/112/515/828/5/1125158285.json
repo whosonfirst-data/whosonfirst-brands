@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414484, 
+  "wof:brand_name": "Estee Lauder", 
+  "wof:brand_id": 1125158285, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "manufacturing_and_wholesale_goods:wholesale=drugs", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "retail_goods:shopping=optical_goods", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=management_and_consulting", 
+    "services:professional=research", 
+    "services:real_estate=real_estate_operator", 
+    "services:social_services=job_training", 
+    "sg:services=real_estate", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "merchandise", 
     "perfume", 
@@ -19,6 +36,6 @@
     "nonresidential", 
     "product"
   ], 
-  "wof:brand_name": "Estee Lauder", 
-  "wof:brand_id": 1125158285
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416253
 }

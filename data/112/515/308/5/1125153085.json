@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414484, 
+  "wof:brand_name": "Coach Store", 
+  "wof:brand_id": 1125153085, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=luggage_and_leather_goods", 
+    "manufacturing_and_wholesale_goods:manufacturing=leather_goods", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=discount_and_variety_stores"
+  ], 
   "wof:tags": [
     "merchandise", 
     "leather", 
@@ -9,6 +21,6 @@
     "mfg", 
     "variety"
   ], 
-  "wof:brand_name": "Coach Store", 
-  "wof:brand_id": 1125153085
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416253
 }

@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414539, 
+  "wof:brand_name": "Sunset Inn", 
+  "wof:brand_id": 1125162425, 
+  "wof:categories": [
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:food_and_drink=restaurant", 
+    "entertainment:travel=bed_and_breakfast", 
+    "retail_goods:home_and_garden=carpets_and_floor_coverings", 
+    "services:social_services=adult_care", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=personal", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "operation", 
     "accommodation", 
@@ -16,6 +28,6 @@
     "operator", 
     "tavern"
   ], 
-  "wof:brand_name": "Sunset Inn", 
-  "wof:brand_id": 1125162425
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416297
 }

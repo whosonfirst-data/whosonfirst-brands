@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414525, 
+  "wof:brand_name": "Ron's Barber Shop", 
+  "wof:brand_id": 1125158173, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=barber", 
+    "services:personal=beauty_salon", 
+    "services:insurance=insurance_agent", 
+    "sg:services=insurance"
+  ], 
   "wof:tags": [
     "shop", 
     "beauty", 
@@ -8,6 +15,6 @@
     "eating", 
     "salon"
   ], 
-  "wof:brand_name": "Ron's Barber Shop", 
-  "wof:brand_id": 1125158173
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416286
 }

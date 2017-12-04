@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414550, 
+  "wof:brand_name": "URS", 
+  "wof:brand_id": 1125160369, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=engineering", 
+    "services:professional=management_and_consulting", 
+    "services:real_estate=architect", 
+    "sg:services=real_estate", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "manufacturing_and_wholesale_goods:wholesale=office_equipment", 
+    "services:building_and_trades=construction", 
+    "services:utilities=natural_gas", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=building_and_trades", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "architectural", 
     "engineer", 
@@ -31,6 +46,6 @@
     "system", 
     "trucking"
   ], 
-  "wof:brand_name": "URS", 
-  "wof:brand_id": 1125160369
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416306
 }

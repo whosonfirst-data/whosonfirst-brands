@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414480, 
+  "wof:brand_name": "Cash Plus", 
+  "wof:brand_id": 1125158057, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=professional", 
+    "services:professional=lawyer_and_legal_services", 
+    "retail_goods:shopping=used_merchandise", 
+    "sg:retail_goods=shopping", 
+    "services:insurance=health_insurance", 
+    "services:professional=business_services", 
+    "sg:services=insurance"
+  ], 
   "wof:tags": [
     "check", 
     "cashing", 
@@ -22,6 +34,6 @@
     "telegraph", 
     "to"
   ], 
-  "wof:brand_name": "Cash Plus", 
-  "wof:brand_id": 1125158057
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416250
 }

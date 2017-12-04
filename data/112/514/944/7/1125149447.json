@@ -1,10 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414562, 
+  "wof:brand_name": "84 Lumber Co", 
+  "wof:brand_id": 1125149447, 
+  "wof:categories": [
+    "retail_goods:home_and_garden=building_materials", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "lumber", 
     "supply"
   ], 
-  "wof:brand_name": "84 Lumber Co", 
-  "wof:brand_id": 1125149447
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416315
 }

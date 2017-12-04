@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414460, 
+  "wof:brand_name": "Wal-Mart Portrait Studio", 
+  "wof:brand_id": 420574691, 
+  "wof:categories": [
+    "services:retail=portrait_studio", 
+    "sg:services=retail", 
+    "retail_goods:shopping=department_store", 
+    "sg:retail_goods=shopping", 
+    "services:professional=art_services", 
+    "sg:services=professional", 
+    "sg:services=personal", 
+    "retail_goods:shopping=discount_and_variety_stores"
+  ], 
   "wof:tags": [
     "photographer", 
     "photo", 
@@ -16,6 +26,6 @@
     "rental", 
     "transient"
   ], 
-  "wof:brand_name": "Wal-Mart Portrait Studio", 
-  "wof:brand_id": 420574691
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416234
 }

@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414492, 
+  "wof:brand_name": "Bayada Nurses", 
+  "wof:brand_id": 1125156355, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=clinic", 
+    "services:health_services=health_practitioner", 
+    "services:health_services=nursing_and_care_facility", 
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "sg:services=building_and_trades", 
+    "services:health_services=doctor", 
+    "services:health_services=hospital", 
+    "services:professional=employment_agencies", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "home", 
     "nurse", 
@@ -14,6 +26,6 @@
     "hospice", 
     "house"
   ], 
-  "wof:brand_name": "Bayada Nurses", 
-  "wof:brand_id": 1125156355
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416259
 }

@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414482, 
+  "wof:brand_name": "New China Buffet", 
+  "wof:brand_id": 1125152101, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:services=professional", 
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "chinese", 
     "asian", 
@@ -14,6 +20,6 @@
     "seafood", 
     "style"
   ], 
-  "wof:brand_name": "New China Buffet", 
-  "wof:brand_id": 1125152101
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416251
 }

@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414513, 
+  "wof:brand_name": "Pizza Pan", 
+  "wof:brand_id": 1125156809, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "pizza", 
     "american", 
@@ -13,6 +20,6 @@
     "pizzeria", 
     "sandwich"
   ], 
-  "wof:brand_name": "Pizza Pan", 
-  "wof:brand_id": 1125156809
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416276
 }

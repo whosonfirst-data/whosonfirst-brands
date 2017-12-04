@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414547, 
+  "wof:brand_name": "Bremer Bank", 
+  "wof:brand_id": 1125160447, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=investment_brokerage"
+  ], 
   "wof:tags": [
     "commercial", 
     "national", 
@@ -11,6 +16,6 @@
     "holding", 
     "security"
   ], 
-  "wof:brand_name": "Bremer Bank", 
-  "wof:brand_id": 1125160447
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416303
 }

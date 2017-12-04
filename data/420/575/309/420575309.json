@@ -1,12 +1,22 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414447, 
+  "wof:brand_name": "Forbuoys Ltd.", 
+  "wof:brand_id": 420575309, 
+  "wof:categories": [
+    "retail_goods:shopping=news", 
+    "sg:retail_goods=shopping", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "retail_goods:food_and_beverages=candy", 
+    "services:building_and_trades=landscaping_services", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "newsagent", 
     "confectioner", 
     "contractor", 
     "landscape"
   ], 
-  "wof:brand_name": "Forbuoys Ltd.", 
-  "wof:brand_id": 420575309
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416224
 }

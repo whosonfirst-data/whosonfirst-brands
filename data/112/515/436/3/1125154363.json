@@ -1,11 +1,24 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414527, 
+  "wof:brand_name": "Sears Hardware Store", 
+  "wof:brand_id": 1125154363, 
+  "wof:categories": [
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=hardware", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:home_and_garden=building_materials", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:retail=repair_shop", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "store", 
     "hardware", 
     "supply"
   ], 
-  "wof:brand_name": "Sears Hardware Store", 
-  "wof:brand_id": 1125154363
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416287
 }

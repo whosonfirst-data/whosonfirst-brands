@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414478, 
+  "wof:brand_name": "China Gourmet", 
+  "wof:brand_id": 1125159195, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "chinese", 
     "asian", 
@@ -16,6 +21,6 @@
     "seafood", 
     "sum"
   ], 
-  "wof:brand_name": "China Gourmet", 
-  "wof:brand_id": 1125159195
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416248
 }

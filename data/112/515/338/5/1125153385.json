@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414488, 
+  "wof:brand_name": "Guitar Center", 
+  "wof:brand_id": 1125153385, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=musical_instruments", 
+    "public_place:education=music_school", 
+    "sg:public_place=education", 
+    "entertainment:arts_and_performance=music", 
+    "manufacturing_and_wholesale_goods:manufacturing=musical_instruments", 
+    "services:communications=film_and_video_production", 
+    "sg:entertainment=arts_and_performance", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=communications", 
+    "retail_goods:shopping=computers_and_home_electronics"
+  ], 
   "wof:tags": [
     "teacher", 
     "instrument", 
@@ -17,6 +30,6 @@
     "dvd's", 
     "music"
   ], 
-  "wof:brand_name": "Guitar Center", 
-  "wof:brand_id": 1125153385
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416256
 }

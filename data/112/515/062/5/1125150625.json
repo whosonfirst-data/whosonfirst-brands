@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414525, 
+  "wof:brand_name": "First American Title Co", 
+  "wof:brand_id": 1125150625, 
+  "wof:categories": [
+    "services:real_estate=real_estate_services", 
+    "sg:services=real_estate", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=insurance", 
+    "services:insurance=title_insurance", 
+    "services:insurance=insurance_agent"
+  ], 
   "wof:tags": [
     "company", 
     "title", 
@@ -8,6 +17,6 @@
     "abstract", 
     "carrier"
   ], 
-  "wof:brand_name": "First American Title Co", 
-  "wof:brand_id": 1125150625
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416286
 }

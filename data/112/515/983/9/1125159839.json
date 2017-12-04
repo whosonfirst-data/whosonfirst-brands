@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414469, 
+  "wof:brand_name": "Computa Tune", 
+  "wof:brand_id": 1125159839, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "public_place:government=department_of_motor_vehicles", 
+    "services:professional=detective_and_security_services", 
+    "sg:public_place=government", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "car", 
     "engine", 
@@ -11,6 +19,6 @@
     "tuning", 
     "inspection"
   ], 
-  "wof:brand_name": "Computa Tune", 
-  "wof:brand_id": 1125159839
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416241
 }

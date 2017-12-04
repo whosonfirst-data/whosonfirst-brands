@@ -1,12 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414520, 
+  "wof:brand_name": "Crystal Nails", 
+  "wof:brand_id": 1125151501, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon", 
+    "services:personal=hair_removal"
+  ], 
   "wof:tags": [
     "manicuring", 
     "shop", 
     "nail", 
     "spa"
   ], 
-  "wof:brand_name": "Crystal Nails", 
-  "wof:brand_id": 1125151501
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416282
 }

@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414471, 
+  "wof:brand_name": "US Home", 
+  "wof:brand_id": 1125158887, 
+  "wof:categories": [
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "sg:services=real_estate", 
+    "services:real_estate=developer", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "services:professional=business_services", 
+    "services:real_estate=real_estate_agent", 
+    "sg:entertainment=recreation", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "house", 
     "builder", 
@@ -23,6 +37,6 @@
     "property", 
     "real"
   ], 
-  "wof:brand_name": "US Home", 
-  "wof:brand_id": 1125158887
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416242
 }

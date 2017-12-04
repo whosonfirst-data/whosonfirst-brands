@@ -1,6 +1,25 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414539, 
+  "wof:brand_name": "AT&T Advertising Solutions", 
+  "wof:brand_id": 1125160403, 
+  "wof:categories": [
+    "sg:services=communications", 
+    "services:communications=film_and_video_production", 
+    "services:professional=advertising", 
+    "sg:services=professional", 
+    "food_and_drink:internet_cafe=none", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "manufacturing_and_wholesale_goods:wholesale=books_periodicals_and_newspapers", 
+    "public_place:government=post_office", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:professional=computer_services", 
+    "sg:food_and_drink=internet_cafe", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=government", 
+    "sg:services=banks_and_credit_unions", 
+    "services:professional=management_and_consulting", 
+    "services:communications=newspaper"
+  ], 
   "wof:tags": [
     "directory", 
     "guide", 
@@ -31,6 +50,6 @@
     "advertising", 
     "program"
   ], 
-  "wof:brand_name": "AT&T Advertising Solutions", 
-  "wof:brand_id": 1125160403
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416297
 }

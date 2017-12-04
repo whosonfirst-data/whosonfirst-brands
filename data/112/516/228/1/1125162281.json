@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414549, 
+  "wof:brand_name": "Immaculate Conception", 
+  "wof:brand_id": 1125162281, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "sg:public_place=place_of_worship", 
+    "public_place:education=school", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=education", 
+    "entertainment:sports_and_exercise=gym", 
+    "services:professional=printing_and_photocopies", 
+    "services:social_services=child_care", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:services=professional", 
+    "sg:services=social_services", 
+    "sg:transportation=school_buses"
+  ], 
   "wof:tags": [
     "church", 
     "churches-catholic", 
@@ -15,6 +30,6 @@
     "private", 
     "school"
   ], 
-  "wof:brand_name": "Immaculate Conception", 
-  "wof:brand_id": 1125162281
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416305
 }

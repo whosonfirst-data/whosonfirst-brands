@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414551, 
+  "wof:brand_name": "Slender Lady", 
+  "wof:brand_id": 1125160969, 
+  "wof:categories": [
+    "entertainment:sports_and_exercise=gym", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:services=personal", 
+    "entertainment:arena=sports_club", 
+    "retail_goods:food_and_beverages=specialty", 
+    "services:health_services=health_practitioner", 
+    "services:professional=business_services", 
+    "sg:entertainment=arena", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=health_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "health", 
     "club", 
@@ -18,6 +31,6 @@
     "diet", 
     "personal"
   ], 
-  "wof:brand_name": "Slender Lady", 
-  "wof:brand_id": 1125160969
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416307
 }

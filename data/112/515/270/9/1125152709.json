@@ -1,6 +1,25 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414498, 
+  "wof:brand_name": "Goodwill", 
+  "wof:brand_id": 1125152709, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=used_merchandise", 
+    "retail_goods:shopping=thrift_store", 
+    "services:organizations=nonprofit_organization", 
+    "sg:services=organizations", 
+    "sg:services=social_services", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:professional=employment_agencies", 
+    "services:social_services=job_training", 
+    "sg:services=professional", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "services:real_estate=real_estate_agent", 
+    "services:retail=selfservice_laundry", 
+    "services:social_services=adult_care", 
+    "sg:services=real_estate", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "consignment", 
     "vintage", 
@@ -29,6 +48,6 @@
     "training", 
     "used"
   ], 
-  "wof:brand_name": "Goodwill", 
-  "wof:brand_id": 1125152709
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416265
 }

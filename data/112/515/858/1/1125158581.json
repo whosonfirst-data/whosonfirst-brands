@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414504, 
+  "wof:brand_name": "Moore Wallace North Amer Inc", 
+  "wof:brand_id": 1125158581, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=office_equipment", 
+    "manufacturing_and_wholesale_goods:manufacturing=paper_products", 
+    "manufacturing_and_wholesale_goods:wholesale=computers", 
+    "services:professional=advertising", 
+    "services:professional=computer_services", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "supply", 
     "business", 
@@ -28,6 +44,6 @@
     "vehicle", 
     "warehouse"
   ], 
-  "wof:brand_name": "Moore Wallace North Amer Inc", 
-  "wof:brand_id": 1125158581
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416269
 }

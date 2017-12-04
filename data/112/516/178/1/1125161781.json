@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414541, 
+  "wof:brand_name": "Dentistry For Children", 
+  "wof:brand_id": 1125161781, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=doctor", 
+    "services:health_services=dentist"
+  ], 
   "wof:tags": [
     "dentist", 
     "pediatric", 
@@ -11,6 +16,6 @@
     "organization", 
     "professional"
   ], 
-  "wof:brand_name": "Dentistry For Children", 
-  "wof:brand_id": 1125161781
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416299
 }

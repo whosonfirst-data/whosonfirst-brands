@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414471, 
+  "wof:brand_name": "Cash Express", 
+  "wof:brand_id": 1125150073, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=used_merchandise", 
+    "retail_goods:shopping=pawn_shop", 
+    "retail_goods:shopping=catalog_store", 
+    "retail_goods:shopping=jewelry"
+  ], 
   "wof:tags": [
     "cashing", 
     "check", 
@@ -18,6 +27,6 @@
     "small", 
     "title"
   ], 
-  "wof:brand_name": "Cash Express", 
-  "wof:brand_id": 1125150073
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416243
 }

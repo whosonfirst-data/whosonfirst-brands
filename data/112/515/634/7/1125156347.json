@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414522, 
+  "wof:brand_name": "Anderson Construction", 
+  "wof:brand_id": 1125156347, 
+  "wof:categories": [
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=construction", 
+    "manufacturing_and_wholesale_goods:manufacturing=buildings", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "services:building_and_trades=plumbing", 
+    "services:professional=management_and_consulting", 
+    "sg:services=personal", 
+    "sg:services=professional", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "contractor", 
     "house", 
@@ -25,6 +36,6 @@
     "siding", 
     "trucking"
   ], 
-  "wof:brand_name": "Anderson Construction", 
-  "wof:brand_id": 1125156347
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416284
 }

@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414449, 
+  "wof:brand_name": "Couche-Tard", 
+  "wof:brand_id": 420575367, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "grocer"
   ], 
-  "wof:brand_name": "Couche-Tard", 
-  "wof:brand_id": 420575367
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416225
 }

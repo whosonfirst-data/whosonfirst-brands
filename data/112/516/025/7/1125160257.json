@@ -1,6 +1,28 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414547, 
+  "wof:brand_name": "Los Amigos", 
+  "wof:brand_id": 1125160257, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=professional", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "sg:food_and_drink=deli", 
+    "sg:services=organizations", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:organizations=community_association", 
+    "services:organizations=nonprofit_organization", 
+    "services:retail=auto_repair", 
+    "services:social_services=child_care", 
+    "sg:food_and_drink=fast_food", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=retail", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "mexican", 
     "eating", 
@@ -18,6 +40,6 @@
     "out", 
     "tire"
   ], 
-  "wof:brand_name": "Los Amigos", 
-  "wof:brand_id": 1125160257
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416303
 }

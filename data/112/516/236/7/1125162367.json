@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414544, 
+  "wof:brand_name": "Pronto Pizza", 
+  "wof:brand_id": 1125162367, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "pizza", 
     "away", 
@@ -16,6 +22,6 @@
     "italian", 
     "operates"
   ], 
-  "wof:brand_name": "Pronto Pizza", 
-  "wof:brand_id": 1125162367
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416301
 }

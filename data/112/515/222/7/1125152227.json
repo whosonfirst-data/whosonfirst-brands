@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414515, 
+  "wof:brand_name": "Petite Sophisticate", 
+  "wof:brand_id": 1125152227, 
+  "wof:categories": [
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "women's", 
     "apparel", 
@@ -11,6 +16,6 @@
     "establishment", 
     "woman"
   ], 
-  "wof:brand_name": "Petite Sophisticate", 
-  "wof:brand_id": 1125152227
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416278
 }

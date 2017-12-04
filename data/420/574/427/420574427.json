@@ -1,6 +1,27 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414458, 
+  "wof:brand_name": "Public Storage", 
+  "wof:brand_id": 420574427, 
+  "wof:categories": [
+    "services:retail=storage", 
+    "sg:services=retail", 
+    "sg:transportation=freight", 
+    "sg:services=personal", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "sg:retail_goods=home_and_garden", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "public_place:structure=warehouse", 
+    "sg:public_place=structure", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:building_and_trades=construction", 
+    "services:real_estate=architect", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=building_and_trades", 
+    "sg:services=real_estate", 
+    "sg:transportation=airport"
+  ], 
   "wof:tags": [
     "commercial", 
     "self", 
@@ -41,6 +62,6 @@
     "vehicle", 
     "warehousing"
   ], 
-  "wof:brand_name": "Public Storage", 
-  "wof:brand_id": 420574427
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416232
 }

@@ -1,10 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414542, 
+  "wof:brand_name": "Mormon Missionaries", 
+  "wof:brand_id": 1125161545, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=religious_organization", 
+    "sg:services=social_services", 
+    "services:organizations=membership_organization", 
+    "services:organizations=nonprofit_organization"
+  ], 
   "wof:tags": [
     "church", 
     "mission"
   ], 
-  "wof:brand_name": "Mormon Missionaries", 
-  "wof:brand_id": 1125161545
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416299
 }

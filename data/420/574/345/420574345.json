@@ -1,6 +1,36 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414462, 
+  "wof:brand_name": "Safeway", 
+  "wof:brand_id": 420574345, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=pharmacy", 
+    "retail_goods:shopping=florist", 
+    "sg:food_and_drink=bakery", 
+    "sg:transportation=freight", 
+    "sg:services=building_and_trades", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "public_place:structure=warehouse", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "retail_goods:food_and_beverages=bakery", 
+    "retail_goods:food_and_beverages=candy", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "services:banks_and_credit_unions=bank", 
+    "services:building_and_trades=equipment_rental", 
+    "services:building_and_trades=plumbing", 
+    "services:professional=business_services", 
+    "services:retail=storage", 
+    "sg:food_and_drink=coffee_and_tea", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:public_place=shopping_center", 
+    "sg:public_place=structure", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "grocer", 
     "supermarket", 
@@ -32,6 +62,6 @@
     "trucking", 
     "warehouses-public-commercial"
   ], 
-  "wof:brand_name": "Safeway", 
-  "wof:brand_id": 420574345
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416235
 }

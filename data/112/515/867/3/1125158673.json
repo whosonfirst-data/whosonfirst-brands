@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414511, 
+  "wof:brand_name": "Visible Changes", 
+  "wof:brand_id": 1125158673, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "services:personal=hair_removal", 
+    "entertainment:sports_and_exercise=gym", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "services:personal=day_spa", 
+    "services:personal=nail_salon", 
+    "services:personal=tanning_parlor", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
@@ -15,6 +28,6 @@
     "skin", 
     "styling"
   ], 
-  "wof:brand_name": "Visible Changes", 
-  "wof:brand_id": 1125158673
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416275
 }

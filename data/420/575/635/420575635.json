@@ -1,10 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414447, 
+  "wof:brand_name": "Fred's Store", 
+  "wof:brand_id": 420575635, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=pharmacy"
+  ], 
   "wof:tags": [
     "shop", 
     "merchandise"
   ], 
-  "wof:brand_name": "Fred's Store", 
-  "wof:brand_id": 420575635
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416224
 }

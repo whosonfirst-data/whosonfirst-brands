@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414518, 
+  "wof:brand_name": "Pennzoil 10 Minute Oil Change", 
+  "wof:brand_id": 1125153987, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "services:retail=car_wash"
+  ], 
   "wof:tags": [
     "automobile", 
     "lubrication", 
@@ -19,6 +27,6 @@
     "wash", 
     "washing"
   ], 
-  "wof:brand_name": "Pennzoil 10 Minute Oil Change", 
-  "wof:brand_id": 1125153987
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416281
 }

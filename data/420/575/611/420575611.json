@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414444, 
+  "wof:brand_name": "Christian Science Church", 
+  "wof:brand_id": 420575611, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=religious_organization", 
+    "sg:public_place=place_of_worship", 
+    "services:organizations=membership_organization", 
+    "public_place:place_of_worship=church", 
+    "retail_goods:shopping=books", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "church", 
     "science", 
@@ -18,6 +27,6 @@
     "religious", 
     "worship"
   ], 
-  "wof:brand_name": "Christian Science Church", 
-  "wof:brand_id": 420575611
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416221
 }

@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414449, 
+  "wof:brand_name": "Anglian Home Improvements", 
+  "wof:brand_id": 420575997, 
+  "wof:categories": [
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:manufacturing=petroleum_products", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "public_place:education=music_school", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "replacement", 
     "window", 
@@ -9,6 +17,6 @@
     "conservatory", 
     "installers"
   ], 
-  "wof:brand_name": "Anglian Home Improvements", 
-  "wof:brand_id": 420575997
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416226
 }

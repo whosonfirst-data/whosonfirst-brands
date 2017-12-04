@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414540, 
+  "wof:brand_name": "ABB Inc", 
+  "wof:brand_id": 1125161347, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "services:building_and_trades=electrical", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "retail_goods:home_and_garden=building_materials", 
+    "services:building_and_trades=equipment_rental", 
+    "services:professional=business_services", 
+    "services:professional=engineering", 
+    "services:utilities=electric", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "equipment", 
     "electric", 
@@ -40,6 +60,6 @@
     "transmission", 
     "well"
   ], 
-  "wof:brand_name": "ABB Inc", 
-  "wof:brand_id": 1125161347
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416298
 }

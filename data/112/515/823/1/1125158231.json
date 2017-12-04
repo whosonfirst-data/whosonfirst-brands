@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414503, 
+  "wof:brand_name": "Wonder Nails", 
+  "wof:brand_id": 1125158231, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon", 
+    "entertainment:travel=hotels_and_motels", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "sg:entertainment=travel", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "manicuring", 
     "shop", 
@@ -10,6 +21,6 @@
     "merchandise", 
     "technician"
   ], 
-  "wof:brand_name": "Wonder Nails", 
-  "wof:brand_id": 1125158231
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416268
 }

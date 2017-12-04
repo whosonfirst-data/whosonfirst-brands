@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414535, 
+  "wof:brand_name": "Mind", 
+  "wof:brand_id": 1125156607, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=nonprofit_organization", 
+    "retail_goods:shopping=thrift_store", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "services:professional=lawyer_and_legal_services", 
+    "sg:services=social_services", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "services:health_services=doctor", 
+    "services:organizations=community_association", 
+    "services:social_services=adult_care", 
+    "services:social_services=child_care", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "charitable", 
     "charity", 
@@ -14,6 +31,6 @@
     "surgical", 
     "voluntary"
   ], 
-  "wof:brand_name": "Mind", 
-  "wof:brand_id": 1125156607
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416294
 }

@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414476, 
+  "wof:brand_name": "Sue Ryder Care", 
+  "wof:brand_id": 1125156853, 
+  "wof:categories": [
+    "retail_goods:shopping=thrift_store", 
+    "sg:retail_goods=shopping", 
+    "services:health_services=nursing_and_care_facility", 
+    "sg:services=health_services", 
+    "services:organizations=nonprofit_organization", 
+    "sg:public_place=conference_center", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "charity", 
     "shop", 
@@ -9,6 +18,6 @@
     "organisation", 
     "voluntary"
   ], 
-  "wof:brand_name": "Sue Ryder Care", 
-  "wof:brand_id": 1125156853
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416246
 }

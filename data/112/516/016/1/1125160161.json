@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414541, 
+  "wof:brand_name": "Elders Ltd", 
+  "wof:brand_id": 1125160161, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "services:insurance=insurance_agent", 
+    "services:real_estate=real_estate_agent", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=insurance", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "agent", 
     "stock", 
@@ -9,6 +20,6 @@
     "equipment", 
     "wool"
   ], 
-  "wof:brand_name": "Elders Ltd", 
-  "wof:brand_id": 1125160161
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416298
 }

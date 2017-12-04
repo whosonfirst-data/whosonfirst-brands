@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414550, 
+  "wof:brand_name": "Computertots", 
+  "wof:brand_id": 1125161065, 
+  "wof:categories": [
+    "sg:public_place=education", 
+    "public_place:education=vocational_school", 
+    "sg:services=professional", 
+    "services:social_services=child_care", 
+    "sg:services=social_services", 
+    "services:professional=computer_services", 
+    "public_place:education=special_training", 
+    "public_place:education=school", 
+    "services:professional=management_and_consulting", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "computer", 
     "training", 
@@ -22,6 +35,6 @@
     "school", 
     "teach"
   ], 
-  "wof:brand_name": "Computertots", 
-  "wof:brand_id": 1125161065
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416306
 }

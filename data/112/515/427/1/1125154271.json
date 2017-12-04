@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414490, 
+  "wof:brand_name": "A-1 Locksmith", 
+  "wof:brand_id": 1125154271, 
+  "wof:categories": [
+    "services:building_and_trades=locksmith", 
+    "sg:services=building_and_trades", 
+    "services:retail=repair_shop", 
+    "sg:services=retail", 
+    "services:retail=auto_rental", 
+    "services:utilities=cable", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "key", 
     "lock", 
@@ -12,6 +21,6 @@
     "repair", 
     "truck"
   ], 
-  "wof:brand_name": "A-1 Locksmith", 
-  "wof:brand_id": 1125154271
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416258
 }

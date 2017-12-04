@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414503, 
+  "wof:brand_name": "99 Cent Store", 
+  "wof:brand_id": 1125152637, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:building_and_trades=construction", 
+    "services:professional=management_and_consulting", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=building_and_trades", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "merchandise", 
     "shop", 
@@ -19,6 +36,6 @@
     "merchandising", 
     "phone"
   ], 
-  "wof:brand_name": "99 Cent Store", 
-  "wof:brand_id": 1125152637
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416268
 }

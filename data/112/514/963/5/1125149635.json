@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414556, 
+  "wof:brand_name": "Sylvan Learning Centers", 
+  "wof:brand_id": 1125149635, 
+  "wof:categories": [
+    "sg:public_place=education", 
+    "public_place:education=special_training", 
+    "sg:services=social_services", 
+    "services:social_services=child_care", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "public_place:education=school", 
+    "public_place:education=vocational_school", 
+    "services:professional=business_services", 
+    "sg:entertainment=recreation"
+  ], 
   "wof:tags": [
     "educational", 
     "business", 
@@ -37,6 +49,6 @@
     "provides", 
     "tutorial"
   ], 
-  "wof:brand_name": "Sylvan Learning Centers", 
-  "wof:brand_id": 1125149635
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416311
 }

@@ -1,10 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414533, 
+  "wof:brand_name": "El Torito", 
+  "wof:brand_id": 1125155595, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:food_and_beverages=meat_and_fish"
+  ], 
   "wof:tags": [
     "mexican", 
     "grocer"
   ], 
-  "wof:brand_name": "El Torito", 
-  "wof:brand_id": 1125155595
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416293
 }

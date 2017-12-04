@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414501, 
+  "wof:brand_name": "Whole Foods Market", 
+  "wof:brand_id": 1125150113, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "services:insurance=health_insurance", 
+    "sg:services=insurance", 
+    "retail_goods:food_and_beverages=specialty", 
+    "retail_goods:food_and_beverages=farmers_market", 
+    "retail_goods:food_and_beverages=meat_and_fish", 
+    "sg:food_and_drink=deli", 
+    "sg:food_and_drink=restaurant", 
+    "manufacturing_and_wholesale_goods:wholesale=fruits_and_vegetables", 
+    "retail_goods:food_and_beverages=cheese", 
+    "retail_goods:food_and_beverages=ethnic_foods", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "sg:food_and_drink=bakery", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "market", 
     "grocer", 
@@ -21,6 +39,6 @@
     "veggie", 
     "wine"
   ], 
-  "wof:brand_name": "Whole Foods Market", 
-  "wof:brand_id": 1125150113
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416267
 }

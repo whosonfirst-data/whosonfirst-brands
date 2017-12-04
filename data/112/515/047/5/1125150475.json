@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414498, 
+  "wof:brand_name": "Centex", 
+  "wof:brand_id": 1125150475, 
+  "wof:categories": [
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=construction", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "services:building_and_trades=pest_control", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=glass_and_minerals", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:wholesale=construction_materials", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "retail_goods:home_and_garden=building_materials", 
+    "services:real_estate=real_estate_operator", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "house", 
     "mortgage", 
@@ -28,6 +46,6 @@
     "mixed", 
     "sand"
   ], 
-  "wof:brand_name": "Centex", 
-  "wof:brand_id": 1125150475
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416265
 }

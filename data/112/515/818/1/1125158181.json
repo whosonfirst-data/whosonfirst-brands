@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414537, 
+  "wof:brand_name": "Scotts Lawn Svc", 
+  "wof:brand_id": 1125158181, 
+  "wof:categories": [
+    "services:building_and_trades=landscaping_services", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:farming=farm_and_veterinary_services", 
+    "manufacturing_and_wholesale_goods:wholesale=farm_supplies", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "lawn", 
     "maintenance", 
@@ -14,6 +24,6 @@
     "tree", 
     "weed"
   ], 
-  "wof:brand_name": "Scotts Lawn Svc", 
-  "wof:brand_id": 1125158181
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416295
 }

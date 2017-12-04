@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414543, 
+  "wof:brand_name": "D R Horton Custom Homes", 
+  "wof:brand_id": 1125161079, 
+  "wof:categories": [
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:manufacturing=buildings", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "builder", 
     "home", 
@@ -9,6 +15,6 @@
     "contractor", 
     "speculative"
   ], 
-  "wof:brand_name": "D R Horton Custom Homes", 
-  "wof:brand_id": 1125161079
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416300
 }

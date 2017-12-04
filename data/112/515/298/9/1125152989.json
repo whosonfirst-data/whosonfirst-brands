@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414531, 
+  "wof:brand_name": "U S Cellular", 
+  "wof:brand_id": 1125152989, 
+  "wof:categories": [
+    "services:utilities=mobile_phone", 
+    "sg:services=utilities", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=mobile_phones", 
+    "sg:services=communications"
+  ], 
   "wof:tags": [
     "cellular", 
     "telephone", 
@@ -10,6 +17,6 @@
     "communications-common", 
     "merchandise"
   ], 
-  "wof:brand_name": "U S Cellular", 
-  "wof:brand_id": 1125152989
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416290
 }

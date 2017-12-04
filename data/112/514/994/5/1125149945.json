@@ -1,6 +1,30 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414557, 
+  "wof:brand_name": "Crawford & Co", 
+  "wof:brand_id": 1125149945, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:social_services=job_training", 
+    "sg:services=social_services", 
+    "sg:services=professional", 
+    "services:health_services=clinic", 
+    "sg:services=health_services", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "services:insurance=hazard_insurance", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "entertainment:travel=hotels_and_motels", 
+    "retail_goods:food_and_beverages=bakery", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:building_and_trades=construction", 
+    "services:professional=detective_and_security_services", 
+    "services:professional=management_and_consulting", 
+    "services:real_estate=real_estate_agent", 
+    "sg:entertainment=travel", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:retail_goods=shopping", 
+    "sg:services=building_and_trades", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "adjuster", 
     "rehabilitation", 
@@ -18,6 +42,6 @@
     "soybean", 
     "specialty"
   ], 
-  "wof:brand_name": "Crawford & Co", 
-  "wof:brand_id": 1125149945
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416312
 }

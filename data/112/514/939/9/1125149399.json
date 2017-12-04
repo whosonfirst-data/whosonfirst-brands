@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414553, 
+  "wof:brand_name": "Harmon Auto Glass", 
+  "wof:brand_id": 1125149399, 
+  "wof:categories": [
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=building_materials", 
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "services:building_and_trades=construction", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:manufacturing=glass_and_minerals", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "services:insurance=insurance_agent", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=insurance"
+  ], 
   "wof:tags": [
     "glass", 
     "plate", 
@@ -27,6 +44,6 @@
     "residential", 
     "type"
   ], 
-  "wof:brand_name": "Harmon Auto Glass", 
-  "wof:brand_id": 1125149399
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416308
 }

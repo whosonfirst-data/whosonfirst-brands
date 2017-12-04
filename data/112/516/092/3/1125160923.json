@@ -1,11 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414540, 
+  "wof:brand_name": "New Life Christian Ctr", 
+  "wof:brand_id": 1125160923, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "retail_goods:shopping=books", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "church", 
     "clergy", 
     "dealer"
   ], 
-  "wof:brand_name": "New Life Christian Ctr", 
-  "wof:brand_id": 1125160923
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416298
 }

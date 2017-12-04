@@ -1,6 +1,35 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414452, 
+  "wof:brand_name": "BellSouth", 
+  "wof:brand_id": 420575849, 
+  "wof:categories": [
+    "sg:services=utilities", 
+    "services:utilities=telephone", 
+    "sg:services=professional", 
+    "services:utilities=mobile_phone", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "services:professional=advertising", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:transportation=freight", 
+    "services:building_and_trades=construction", 
+    "services:building_and_trades=electrical", 
+    "services:professional=business_services", 
+    "services:professional=management_and_consulting", 
+    "sg:retail_goods=shopping", 
+    "sg:services=retail", 
+    "services:retail=repair_shop", 
+    "public_place:government=office", 
+    "services:professional=computer_services", 
+    "services:professional=testing_lab", 
+    "services:retail=auto_repair", 
+    "services:social_services=job_training", 
+    "services:utilities=cable", 
+    "sg:public_place=government", 
+    "sg:services=social_services", 
+    "sg:transportation=airline"
+  ], 
   "wof:tags": [
     "communications", 
     "telecommunication", 
@@ -64,6 +93,6 @@
     "warehousing", 
     "wire"
   ], 
-  "wof:brand_name": "BellSouth", 
-  "wof:brand_id": 420575849
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416227
 }

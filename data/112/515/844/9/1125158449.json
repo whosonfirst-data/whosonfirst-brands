@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414477, 
+  "wof:brand_name": "Automatic Data Processing", 
+  "wof:brand_id": 1125158449, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=computer_services", 
+    "services:professional=management_and_consulting", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "payroll", 
     "datum", 
@@ -16,6 +24,6 @@
     "support", 
     "time"
   ], 
-  "wof:brand_name": "Automatic Data Processing", 
-  "wof:brand_id": 1125158449
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416247
 }

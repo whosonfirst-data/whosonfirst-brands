@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414456, 
+  "wof:brand_name": "Journeys", 
+  "wof:brand_id": 420574685, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=shoes", 
+    "entertainment:travel=travel_agent", 
+    "sg:entertainment=travel", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:services=professional", 
+    "food_and_drink:bars_and_pubs=wine_bar", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "public_place:education=school", 
+    "retail_goods:shopping=books", 
+    "retail_goods:shopping=jewelry", 
+    "services:professional=business_services", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "store", 
     "agency", 
@@ -19,6 +36,6 @@
     "sews", 
     "shoes"
   ], 
-  "wof:brand_name": "Journeys", 
-  "wof:brand_id": 420574685
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416231
 }

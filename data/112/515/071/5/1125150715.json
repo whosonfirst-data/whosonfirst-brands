@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414513, 
+  "wof:brand_name": "Pillar To Post", 
+  "wof:brand_id": 1125150715, 
+  "wof:categories": [
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "services:real_estate=real_estate_services", 
+    "sg:transportation=freight", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "services:professional=testing_lab", 
+    "sg:retail_goods=shopping", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "inspection", 
     "home", 
@@ -17,6 +30,6 @@
     "mold", 
     "remediation"
   ], 
-  "wof:brand_name": "Pillar To Post", 
-  "wof:brand_id": 1125150715
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416276
 }

@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414534, 
+  "wof:brand_name": "United States Dept of Army", 
+  "wof:brand_id": 1125155203, 
+  "wof:categories": [
+    "sg:public_place=government", 
+    "public_place:government=office", 
+    "public_place:education=school", 
+    "public_place:government=fire_station", 
+    "services:communications=film_and_video_production", 
+    "services:professional=research", 
+    "services:utilities=fuel_oil_and_lpg", 
+    "sg:public_place=education", 
+    "sg:services=communications", 
+    "sg:services=professional", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "national", 
     "security", 
@@ -27,6 +40,6 @@
     "protection", 
     "station"
   ], 
-  "wof:brand_name": "United States Dept of Army", 
-  "wof:brand_id": 1125155203
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416293
 }

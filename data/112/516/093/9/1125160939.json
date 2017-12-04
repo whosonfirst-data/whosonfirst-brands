@@ -1,10 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414551, 
+  "wof:brand_name": "Q S Plc", 
+  "wof:brand_id": 1125160939, 
+  "wof:categories": [
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "shop", 
     "ladieswear"
   ], 
-  "wof:brand_name": "Q S Plc", 
-  "wof:brand_id": 1125160939
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416306
 }

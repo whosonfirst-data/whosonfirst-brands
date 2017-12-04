@@ -1,7 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414540, 
-  "wof:tags": [], 
   "wof:brand_name": "Forte Posthouse", 
-  "wof:brand_id": 1125161823
+  "wof:brand_id": 1125161823, 
+  "wof:categories": [
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416298
 }

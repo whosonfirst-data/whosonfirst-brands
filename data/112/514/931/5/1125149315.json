@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414555, 
+  "wof:brand_name": "Dillard's", 
+  "wof:brand_id": 1125149315, 
+  "wof:categories": [
+    "retail_goods:shopping=department_store", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "manufacturing_and_wholesale_goods:manufacturing=glass_and_minerals", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "sg:public_place=shopping_center"
+  ], 
   "wof:tags": [
     "clothing", 
     "girls'", 
@@ -26,6 +39,6 @@
     "shop", 
     "supply"
   ], 
-  "wof:brand_name": "Dillard's", 
-  "wof:brand_id": 1125149315
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416310
 }

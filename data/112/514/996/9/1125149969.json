@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414554, 
+  "wof:brand_name": "Discovery Toys", 
+  "wof:brand_id": 1125149969, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "sg:services=professional", 
+    "retail_goods:shopping=books", 
+    "services:professional=management_and_consulting", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=toys_and_hobbies", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "services:insurance=insurance_agent", 
+    "services:personal=nail_salon", 
+    "services:professional=business_services", 
+    "sg:services=insurance", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "store", 
     "toy", 
@@ -20,6 +36,6 @@
     "need", 
     "product"
   ], 
-  "wof:brand_name": "Discovery Toys", 
-  "wof:brand_id": 1125149969
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416309
 }

@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414516, 
+  "wof:brand_name": "USFreightways", 
+  "wof:brand_id": 1125151917, 
+  "wof:categories": [
+    "sg:transportation=freight", 
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "services:professional=computer_services", 
+    "services:utilities=refuse", 
+    "sg:services=utilities", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "manufacturing_and_wholesale_goods:wholesale=scrap", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "trucking", 
     "operator", 
@@ -50,6 +62,6 @@
     "warehouse", 
     "weighing"
   ], 
-  "wof:brand_name": "USFreightways", 
-  "wof:brand_id": 1125151917
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416279
 }

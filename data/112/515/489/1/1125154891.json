@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414502, 
+  "wof:brand_name": "Jyske Bank", 
+  "wof:brand_id": 1125154891, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "banker"
   ], 
-  "wof:brand_name": "Jyske Bank", 
-  "wof:brand_id": 1125154891
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416268
 }

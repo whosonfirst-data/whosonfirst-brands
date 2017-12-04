@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414554, 
+  "wof:brand_name": "Young Life", 
+  "wof:brand_id": 1125149959, 
+  "wof:categories": [
+    "sg:services=social_services", 
+    "sg:services=organizations", 
+    "services:organizations=religious_organization", 
+    "services:organizations=membership_organization", 
+    "services:organizations=nonprofit_organization", 
+    "sg:services=professional", 
+    "public_place:community_center=youth", 
+    "services:organizations=community_association", 
+    "services:professional=business_services", 
+    "sg:public_place=community_center", 
+    "entertainment:travel=campground", 
+    "services:personal=shoe_repair_and_shine", 
+    "services:professional=management_and_consulting", 
+    "services:real_estate=real_estate_agent", 
+    "services:social_services=child_care", 
+    "sg:entertainment=travel", 
+    "sg:services=personal", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "youth", 
     "center", 
@@ -20,6 +40,6 @@
     "outreach", 
     "sunglass"
   ], 
-  "wof:brand_name": "Young Life", 
-  "wof:brand_id": 1125149959
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416309
 }

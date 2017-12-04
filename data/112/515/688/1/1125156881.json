@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414526, 
+  "wof:brand_name": "Winners Apparel Ltd", 
+  "wof:brand_id": 1125156881, 
+  "wof:categories": [
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "accessory"
   ], 
-  "wof:brand_name": "Winners Apparel Ltd", 
-  "wof:brand_id": 1125156881
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416287
 }

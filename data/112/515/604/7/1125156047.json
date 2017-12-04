@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414482, 
+  "wof:brand_name": "Book Warehouse", 
+  "wof:brand_id": 1125156047, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=books", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "manufacturing_and_wholesale_goods:manufacturing=toys_and_sporting_goods", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "dealer", 
     "shop", 
@@ -12,6 +21,6 @@
     "trampoline", 
     "video"
   ], 
-  "wof:brand_name": "Book Warehouse", 
-  "wof:brand_id": 1125156047
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416252
 }

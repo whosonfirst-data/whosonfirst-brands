@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414524, 
+  "wof:brand_name": "Hair Salon", 
+  "wof:brand_id": 1125155011, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:shopping=department_store", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "shop", 
     "beauty", 
@@ -11,6 +22,6 @@
     "stylist", 
     "tanning"
   ], 
-  "wof:brand_name": "Hair Salon", 
-  "wof:brand_id": 1125155011
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416285
 }

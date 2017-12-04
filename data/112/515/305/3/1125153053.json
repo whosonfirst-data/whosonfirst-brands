@@ -1,6 +1,37 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414523, 
+  "wof:brand_name": "Secret Garden", 
+  "wof:brand_id": 1125153053, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=florist", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "sg:food_and_drink=restaurant", 
+    "sg:services=personal", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:personal=beauty_salon", 
+    "services:building_and_trades=landscaping_services", 
+    "sg:services=building_and_trades", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:social_services=child_care", 
+    "sg:services=social_services", 
+    "manufacturing_and_wholesale_goods:farming=nursery", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=professional", 
+    "entertainment:travel=hotels_and_motels", 
+    "manufacturing_and_wholesale_goods:manufacturing=retail_goods", 
+    "public_place:education=preschool", 
+    "public_place:education=school", 
+    "retail_goods:food_and_beverages=fruits_and_vegetables", 
+    "retail_goods:food_and_beverages=specialty", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "sg:entertainment=travel", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "shop", 
     "artwork", 
@@ -47,6 +78,6 @@
     "supply", 
     "wear"
   ], 
-  "wof:brand_name": "Secret Garden", 
-  "wof:brand_id": 1125153053
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416284
 }

@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414539, 
+  "wof:brand_name": "Bottle Shop", 
+  "wof:brand_id": 1125161395, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "manufacturing_and_wholesale_goods:wholesale=wine_and_distilled_alcoholic_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:food_and_drink=restaurant", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "alcoholic", 
     "beer", 
@@ -13,6 +22,6 @@
     "lounge", 
     "store"
   ], 
-  "wof:brand_name": "Bottle Shop", 
-  "wof:brand_id": 1125161395
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416297
 }

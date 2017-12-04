@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414487, 
+  "wof:brand_name": "Coldwater Creek", 
+  "wof:brand_id": 1125151541, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=catalog_store", 
+    "sg:services=professional", 
+    "entertainment:sports_and_exercise=bicycle_rental", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:real_estate=real_estate_operator", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:food_and_drink=restaurant", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "clothing", 
     "women's", 
@@ -20,6 +34,6 @@
     "vintage", 
     "wear"
   ], 
-  "wof:brand_name": "Coldwater Creek", 
-  "wof:brand_id": 1125151541
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416255
 }

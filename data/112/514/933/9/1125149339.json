@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414555, 
+  "wof:brand_name": "Charlotte Russe", 
+  "wof:brand_id": 1125149339, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=department_store", 
+    "sg:services=professional", 
+    "entertainment:sports_and_exercise=bicycle_rental", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "retail_goods:shopping=jewelry", 
+    "retail_goods:shopping=shoes", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "clothing", 
     "women's", 
@@ -9,6 +21,6 @@
     "apparel", 
     "wear"
   ], 
-  "wof:brand_name": "Charlotte Russe", 
-  "wof:brand_id": 1125149339
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416310
 }

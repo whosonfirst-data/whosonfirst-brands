@@ -1,11 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414504, 
+  "wof:brand_name": "Gymboree Corporation", 
+  "wof:brand_id": 1125157403, 
+  "wof:categories": [
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "wear", 
     "children's", 
     "clothing"
   ], 
-  "wof:brand_name": "Gymboree Corporation", 
-  "wof:brand_id": 1125157403
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416270
 }

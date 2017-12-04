@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414544, 
+  "wof:brand_name": "Insurance Solutions", 
+  "wof:brand_id": 1125161857, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=hazard_insurance", 
+    "sg:services=professional", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=computer_services"
+  ], 
   "wof:tags": [
     "business", 
     "commercial", 
@@ -24,6 +32,6 @@
     "underwriter", 
     "vehicle"
   ], 
-  "wof:brand_name": "Insurance Solutions", 
-  "wof:brand_id": 1125161857
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416301
 }

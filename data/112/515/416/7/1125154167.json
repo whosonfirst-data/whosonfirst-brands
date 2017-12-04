@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414505, 
+  "wof:brand_name": "World Savings", 
+  "wof:brand_id": 1125154167, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=atm"
+  ], 
   "wof:tags": [
     "loan", 
     "mortgage", 
@@ -20,6 +26,6 @@
     "location", 
     "saving"
   ], 
-  "wof:brand_name": "World Savings", 
-  "wof:brand_id": 1125154167
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416271
 }

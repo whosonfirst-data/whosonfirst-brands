@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414478, 
+  "wof:brand_name": "Vulcan Materials Co", 
+  "wof:brand_id": 1125157299, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=mining_and_drilling", 
+    "manufacturing_and_wholesale_goods:manufacturing=glass_and_minerals", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:wholesale=construction_materials", 
+    "retail_goods:home_and_garden=building_materials", 
+    "services:building_and_trades=construction", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "stone", 
     "lime", 
@@ -15,6 +26,6 @@
     "sand", 
     "slag"
   ], 
-  "wof:brand_name": "Vulcan Materials Co", 
-  "wof:brand_id": 1125157299
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416248
 }

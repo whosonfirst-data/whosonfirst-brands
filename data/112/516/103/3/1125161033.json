@@ -1,6 +1,35 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414546, 
+  "wof:brand_name": "Bliss", 
+  "wof:brand_id": 1125161033, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:food_and_drink=restaurant", 
+    "sg:services=professional", 
+    "retail_goods:shopping=party_supplies", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "manufacturing_and_wholesale_goods:manufacturing=glass_and_minerals", 
+    "manufacturing_and_wholesale_goods:wholesale=meat", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "retail_goods:shopping=bridal", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=jewelry", 
+    "services:health_services=clinic", 
+    "services:organizations=nonprofit_organization", 
+    "services:personal=day_spa", 
+    "services:professional=management_and_consulting", 
+    "services:retail=event_space", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=health_services", 
+    "sg:services=organizations", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "shop", 
     "american", 
@@ -37,6 +66,6 @@
     "tuxedo", 
     "wear"
   ], 
-  "wof:brand_name": "Bliss", 
-  "wof:brand_id": 1125161033
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416303
 }

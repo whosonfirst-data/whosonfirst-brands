@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414549, 
+  "wof:brand_name": "Restaurant Depot", 
+  "wof:brand_id": 1125162385, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "sg:food_and_drink=restaurant", 
+    "manufacturing_and_wholesale_goods:wholesale=beer", 
+    "manufacturing_and_wholesale_goods:wholesale=meat", 
+    "retail_goods:food_and_beverages=specialty", 
+    "retail_goods:shopping=department_store"
+  ], 
   "wof:tags": [
     "food", 
     "frozen", 
@@ -18,6 +31,6 @@
     "grocers-wholesale", 
     "processing"
   ], 
-  "wof:brand_name": "Restaurant Depot", 
-  "wof:brand_id": 1125162385
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416305
 }

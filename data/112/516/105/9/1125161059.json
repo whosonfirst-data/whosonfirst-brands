@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414537, 
+  "wof:brand_name": "Chiropractic Center", 
+  "wof:brand_id": 1125161059, 
+  "wof:categories": [
+    "services:health_services=chiropractor", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "chiropractic"
   ], 
-  "wof:brand_name": "Chiropractic Center", 
-  "wof:brand_id": 1125161059
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416296
 }

@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414560, 
+  "wof:brand_name": "Lerner New York", 
+  "wof:brand_id": 1125149511, 
+  "wof:categories": [
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=department_store", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:public_place=shopping_center", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "accessory", 
     "clothing", 
@@ -13,6 +21,6 @@
     "to", 
     "wear"
   ], 
-  "wof:brand_name": "Lerner New York", 
-  "wof:brand_id": 1125149511
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416314
 }

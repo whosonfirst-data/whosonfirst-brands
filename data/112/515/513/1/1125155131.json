@@ -1,11 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414515, 
+  "wof:brand_name": "Golden Chick", 
+  "wof:brand_id": 1125155131, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food"
+  ], 
   "wof:tags": [
     "american", 
     "chicken", 
     "eating"
   ], 
-  "wof:brand_name": "Golden Chick", 
-  "wof:brand_id": 1125155131
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416278
 }

@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414551, 
+  "wof:brand_name": "First Niagara Bank", 
+  "wof:brand_id": 1125162239, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=atm", 
+    "services:banks_and_credit_unions=financial_services"
+  ], 
   "wof:tags": [
     "commercial", 
     "saving", 
@@ -13,6 +19,6 @@
     "mortgage", 
     "savings"
   ], 
-  "wof:brand_name": "First Niagara Bank", 
-  "wof:brand_id": 1125162239
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416306
 }

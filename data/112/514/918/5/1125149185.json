@@ -1,10 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414558, 
+  "wof:brand_name": "O'REILLY Auto Parts", 
+  "wof:brand_id": 1125149185, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "automobile", 
     "parts"
   ], 
-  "wof:brand_name": "O'REILLY Auto Parts", 
-  "wof:brand_id": 1125149185
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416312
 }

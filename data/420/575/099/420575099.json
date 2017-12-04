@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414452, 
+  "wof:brand_name": "Safeway Stores Ltd.", 
+  "wof:brand_id": 420575099, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=supermarket", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "manufacturing_and_wholesale_goods:farming=nursery", 
+    "public_place:government=post_office", 
+    "retail_goods:shopping=pharmacy", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:public_place=government", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "petrol", 
     "filling", 
@@ -9,6 +21,6 @@
     "creche", 
     "pharmacist"
   ], 
-  "wof:brand_name": "Safeway Stores Ltd.", 
-  "wof:brand_id": 420575099
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416228
 }

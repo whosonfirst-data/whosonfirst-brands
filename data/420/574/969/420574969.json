@@ -1,6 +1,28 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414457, 
+  "wof:brand_name": "Countrywide", 
+  "wof:brand_id": 420574969, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=real_estate", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:real_estate=real_estate_services", 
+    "services:real_estate=real_estate_agent", 
+    "services:real_estate=surveying", 
+    "sg:retail_goods=shopping", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "services:building_and_trades=construction", 
+    "services:insurance=insurance_agent", 
+    "services:retail=auto_rental", 
+    "sg:services=building_and_trades", 
+    "sg:services=insurance", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "mortgage", 
     "banker", 
@@ -35,6 +57,6 @@
     "security", 
     "strategic"
   ], 
-  "wof:brand_name": "Countrywide", 
-  "wof:brand_id": 420574969
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416231
 }

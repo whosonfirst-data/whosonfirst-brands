@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414550, 
+  "wof:brand_name": "Buca di Beppo", 
+  "wof:brand_id": 1125160745, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "services:retail=event_space", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "italian", 
     "banquet", 
@@ -12,6 +17,6 @@
     "style", 
     "eating"
   ], 
-  "wof:brand_name": "Buca di Beppo", 
-  "wof:brand_id": 1125160745
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416306
 }

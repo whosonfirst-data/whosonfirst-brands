@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414460, 
+  "wof:brand_name": "Tandy", 
+  "wof:brand_id": 420574999, 
+  "wof:categories": [
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:shopping=mobile_phones", 
+    "retail_goods:shopping=shoes", 
+    "services:retail=event_space", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "domestic", 
     "electrical", 
@@ -11,6 +22,6 @@
     "sales", 
     "shop"
   ], 
-  "wof:brand_name": "Tandy", 
-  "wof:brand_id": 420574999
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416234
 }

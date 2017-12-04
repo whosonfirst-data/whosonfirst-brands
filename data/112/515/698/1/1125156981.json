@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414465, 
+  "wof:brand_name": "J D Byrider Auto Sales", 
+  "wof:brand_id": 1125156981, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "services:retail=auto_repair", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "car", 
     "dealer", 
@@ -11,6 +17,6 @@
     "dealers-used", 
     "repairing"
   ], 
-  "wof:brand_name": "J D Byrider Auto Sales", 
-  "wof:brand_id": 1125156981
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416238
 }

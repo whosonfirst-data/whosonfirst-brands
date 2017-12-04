@@ -1,6 +1,28 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414481, 
+  "wof:brand_name": "CIT", 
+  "wof:brand_id": 1125154103, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "services:building_and_trades=equipment_rental", 
+    "sg:services=building_and_trades", 
+    "services:professional=computer_services", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "services:organizations=nonprofit_organization", 
+    "services:professional=business_services", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=organizations", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:professional=engineering", 
+    "services:utilities=telephone", 
+    "sg:services=utilities", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "institution", 
     "business", 
@@ -58,6 +80,6 @@
     "type", 
     "used"
   ], 
-  "wof:brand_name": "CIT", 
-  "wof:brand_id": 1125154103
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416251
 }

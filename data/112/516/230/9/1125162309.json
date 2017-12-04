@@ -1,12 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414543, 
+  "wof:brand_name": "Liquor Stax Australia Pty Ltd", 
+  "wof:brand_id": 1125162309, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "store", 
     "merchant", 
     "spirit", 
     "wine"
   ], 
-  "wof:brand_name": "Liquor Stax Australia Pty Ltd", 
-  "wof:brand_id": 1125162309
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416300
 }

@@ -1,6 +1,27 @@
 {
   "wof:brand_name": "Church of Jesus Christ of Latter-Day Saints", 
   "wof:brand_id": 1125150009, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=religious_organization", 
+    "sg:public_place=place_of_worship", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=education", 
+    "public_place:education=school", 
+    "sg:services=social_services", 
+    "public_place:education=library", 
+    "sg:services=professional", 
+    "entertainment:travel=campground", 
+    "public_place:education=college", 
+    "public_place:government=office", 
+    "retail_goods:shopping=books", 
+    "services:organizations=nonprofit_organization", 
+    "services:professional=employment_agencies", 
+    "services:professional=management_and_consulting", 
+    "sg:entertainment=travel", 
+    "sg:public_place=government", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "church", 
     "christ", 
@@ -38,6 +59,6 @@
     1125162183
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414511, 
+  "wof:lastmodified": 1512416275, 
   "mz:is_current": 1
 }

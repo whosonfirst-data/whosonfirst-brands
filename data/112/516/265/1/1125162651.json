@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414548, 
+  "wof:brand_name": "Guitar Center Inc", 
+  "wof:brand_id": 1125162651, 
+  "wof:categories": [
+    "retail_goods:shopping=musical_instruments", 
+    "sg:retail_goods=shopping", 
+    "public_place:education=music_school", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "teacher", 
     "instrument", 
@@ -8,6 +14,6 @@
     "dealer", 
     "music"
   ], 
-  "wof:brand_name": "Guitar Center Inc", 
-  "wof:brand_id": 1125162651
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416304
 }

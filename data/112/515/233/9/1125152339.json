@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414474, 
+  "wof:brand_name": "Faith Community Church", 
+  "wof:brand_id": 1125152339, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship", 
+    "services:social_services=child_care", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "church", 
     "churches-community", 
@@ -15,6 +23,6 @@
     "denomination", 
     "school"
   ], 
-  "wof:brand_name": "Faith Community Church", 
-  "wof:brand_id": 1125152339
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416245
 }

@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414527, 
+  "wof:brand_name": "Carter Lumber", 
+  "wof:brand_id": 1125150703, 
+  "wof:categories": [
+    "retail_goods:home_and_garden=building_materials", 
+    "sg:retail_goods=home_and_garden", 
+    "manufacturing_and_wholesale_goods:wholesale=hardware", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "lumber", 
     "supply", 
@@ -15,6 +21,6 @@
     "storm", 
     "window"
   ], 
-  "wof:brand_name": "Carter Lumber", 
-  "wof:brand_id": 1125150703
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416288
 }

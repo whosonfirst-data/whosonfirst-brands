@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414505, 
+  "wof:brand_name": "Kids R Kids", 
+  "wof:brand_id": 1125156991, 
+  "wof:categories": [
+    "services:social_services=child_care", 
+    "sg:services=social_services", 
+    "sg:public_place=education", 
+    "public_place:education=preschool", 
+    "public_place:education=school", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=hobbies_toys_and_games"
+  ], 
   "wof:tags": [
     "day", 
     "elementary", 
@@ -12,6 +22,6 @@
     "nursery", 
     "preschool"
   ], 
-  "wof:brand_name": "Kids R Kids", 
-  "wof:brand_id": 1125156991
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416270
 }

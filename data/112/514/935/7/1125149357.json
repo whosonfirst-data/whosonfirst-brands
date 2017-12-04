@@ -1,11 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414561, 
+  "wof:brand_name": "Federal Bureau-Investigation", 
+  "wof:brand_id": 1125149357, 
+  "wof:categories": [
+    "sg:public_place=government", 
+    "public_place:government=police_station", 
+    "services:professional=detective_and_security_services", 
+    "sg:services=professional", 
+    "public_place:government=office", 
+    "services:health_services=hospital", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "federal", 
     "investigator", 
     "security"
   ], 
-  "wof:brand_name": "Federal Bureau-Investigation", 
-  "wof:brand_id": 1125149357
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416314
 }

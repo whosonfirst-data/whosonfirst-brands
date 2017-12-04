@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414456, 
+  "wof:brand_name": "Panda Express", 
+  "wof:brand_id": 420574529, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "sg:services=professional", 
+    "retail_goods:food_and_beverages=ethnic_foods", 
+    "sg:retail_goods=food_and_beverages", 
+    "services:banks_and_credit_unions=bank", 
+    "services:insurance=health_insurance", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=insurance"
+  ], 
   "wof:tags": [
     "chinese", 
     "asian", 
@@ -15,6 +26,6 @@
     "repair", 
     "sum"
   ], 
-  "wof:brand_name": "Panda Express", 
-  "wof:brand_id": 420574529
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416230
 }

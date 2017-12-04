@@ -1,6 +1,30 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414479, 
+  "wof:brand_name": "Georgia-Pacific", 
+  "wof:brand_id": 1125154207, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:manufacturing=paper_products", 
+    "manufacturing_and_wholesale_goods:manufacturing=building_materials", 
+    "manufacturing_and_wholesale_goods:wholesale=construction_materials", 
+    "manufacturing_and_wholesale_goods:manufacturing=lumber", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "manufacturing_and_wholesale_goods:manufacturing=wood_products", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "manufacturing_and_wholesale_goods:manufacturing=glass_and_minerals", 
+    "sg:services=professional", 
+    "retail_goods:home_and_garden=building_materials", 
+    "sg:retail_goods=home_and_garden", 
+    "services:professional=management_and_consulting", 
+    "sg:transportation=freight", 
+    "manufacturing_and_wholesale_goods:wholesale=chemicals_and_plastics", 
+    "services:professional=testing_lab", 
+    "services:real_estate=real_estate_agent", 
+    "services:retail=repair_shop", 
+    "sg:services=real_estate", 
+    "sg:services=retail", 
+    "sg:transportation=airline"
+  ], 
   "wof:tags": [
     "mfg", 
     "paper", 
@@ -78,6 +102,6 @@
     "wax", 
     "work"
   ], 
-  "wof:brand_name": "Georgia-Pacific", 
-  "wof:brand_id": 1125154207
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416249
 }

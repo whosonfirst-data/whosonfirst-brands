@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414444, 
+  "wof:brand_name": "Children's World Learning Ctr", 
+  "wof:brand_id": 420575631, 
+  "wof:categories": [
+    "services:social_services=child_care", 
+    "sg:services=social_services", 
+    "sg:public_place=education", 
+    "public_place:education=special_training", 
+    "public_place:education=school", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "day", 
     "center", 
@@ -12,6 +20,6 @@
     "montessori", 
     "preschool"
   ], 
-  "wof:brand_name": "Children's World Learning Ctr", 
-  "wof:brand_id": 420575631
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416222
 }

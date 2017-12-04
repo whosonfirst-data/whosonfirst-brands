@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414559, 
+  "wof:brand_name": "Dots Inc", 
+  "wof:brand_id": 1125149723, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "retail_goods:shopping=bridal", 
+    "retail_goods:shopping=department_store", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "accessory", 
     "clothing", 
@@ -13,6 +21,6 @@
     "to", 
     "wear"
   ], 
-  "wof:brand_name": "Dots Inc", 
-  "wof:brand_id": 1125149723
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416313
 }

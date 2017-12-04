@@ -1,6 +1,33 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414536, 
+  "wof:brand_name": "California Closet Co", 
+  "wof:brand_id": 1125155353, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=home_furnishings", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=personal", 
+    "retail_goods:home_and_garden=building_materials", 
+    "manufacturing_and_wholesale_goods:manufacturing=rubber_and_plastics", 
+    "manufacturing_and_wholesale_goods:manufacturing=wood_products", 
+    "retail_goods:home_and_garden=hardware", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "sg:retail_goods=shopping", 
+    "entertainment:travel=travel_agent", 
+    "manufacturing_and_wholesale_goods:wholesale=furniture", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "services:personal=adult", 
+    "services:retail=storage", 
+    "sg:entertainment=travel", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "closet", 
     "accessory", 
@@ -49,6 +76,6 @@
     "t", 
     "wood"
   ], 
-  "wof:brand_name": "California Closet Co", 
-  "wof:brand_id": 1125155353
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416294
 }

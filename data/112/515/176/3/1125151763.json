@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414471, 
+  "wof:brand_name": "Bistro", 
+  "wof:brand_id": 1125151763, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=bars_and_pubs"
+  ], 
   "wof:tags": [
     "eating", 
     "cafe", 
@@ -8,6 +12,6 @@
     "french", 
     "tavern"
   ], 
-  "wof:brand_name": "Bistro", 
-  "wof:brand_id": 1125151763
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416242
 }

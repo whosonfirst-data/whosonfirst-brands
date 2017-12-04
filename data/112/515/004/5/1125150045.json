@@ -1,12 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414526, 
+  "wof:brand_name": "Galtelcom", 
+  "wof:brand_id": 1125150045, 
+  "wof:categories": [
+    "food_and_drink:tea_room=none", 
+    "sg:food_and_drink=tea_room", 
+    "sg:entertainment=casinos_and_gambling"
+  ], 
   "wof:tags": [
     "snack", 
     "de", 
     "juego", 
     "locale"
   ], 
-  "wof:brand_name": "Galtelcom", 
-  "wof:brand_id": 1125150045
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416287
 }

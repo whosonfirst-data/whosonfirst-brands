@@ -1,6 +1,30 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414512, 
+  "wof:brand_name": "Nottinghamshire County Council", 
+  "wof:brand_id": 1125153893, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:public_place=education", 
+    "public_place:education=school", 
+    "sg:services=social_services", 
+    "services:social_services=retirement_home", 
+    "sg:public_place=community_center", 
+    "public_place:community_center=youth", 
+    "public_place:education=library", 
+    "services:social_services=adult_care", 
+    "public_place:education=special_training", 
+    "services:organizations=nonprofit_organization", 
+    "sg:entertainment=arts_and_performance", 
+    "sg:services=organizations", 
+    "entertainment:arts_and_performance=arts_center", 
+    "entertainment:arts_and_performance=theater", 
+    "manufacturing_and_wholesale_goods:farming=nursery", 
+    "services:health_services=doctor", 
+    "services:professional=employment_agencies", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:services=health_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "local", 
     "authority", 
@@ -22,6 +46,6 @@
     "sheltered", 
     "theatre"
   ], 
-  "wof:brand_name": "Nottinghamshire County Council", 
-  "wof:brand_id": 1125153893
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416276
 }

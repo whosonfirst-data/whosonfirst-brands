@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414460, 
+  "wof:brand_name": "Tim Hortons", 
+  "wof:brand_id": 420574075, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=coffee_and_tea", 
+    "food_and_drink:donuts=none", 
+    "sg:food_and_drink=donuts", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "food_and_drink:bagels=none", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "services:professional=management_and_consulting", 
+    "sg:food_and_drink=bagels", 
+    "sg:food_and_drink=bakery", 
+    "sg:food_and_drink=deli", 
+    "sg:food_and_drink=fast_food", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "doughnut", 
     "coffee", 
@@ -22,6 +40,6 @@
     "restaurant", 
     "retail"
   ], 
-  "wof:brand_name": "Tim Hortons", 
-  "wof:brand_id": 420574075
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416234
 }

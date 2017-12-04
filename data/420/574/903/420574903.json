@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414461, 
+  "wof:brand_name": "Hair Cuttery", 
+  "wof:brand_id": 420574903, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "services:retail=selfservice_laundry", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "hair", 
     "stylist", 
@@ -12,6 +19,6 @@
     "unisex", 
     "spa"
   ], 
-  "wof:brand_name": "Hair Cuttery", 
-  "wof:brand_id": 420574903
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416235
 }

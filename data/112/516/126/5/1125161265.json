@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414549, 
+  "wof:brand_name": "Sakura", 
+  "wof:brand_id": 1125161265, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:services=personal", 
+    "services:personal=massage", 
+    "services:personal=beauty_salon"
+  ], 
   "wof:tags": [
     "japanese", 
     "asian", 
@@ -15,6 +21,6 @@
     "shop", 
     "steakhouse"
   ], 
-  "wof:brand_name": "Sakura", 
-  "wof:brand_id": 1125161265
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416305
 }

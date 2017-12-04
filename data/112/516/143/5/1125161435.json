@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414545, 
+  "wof:brand_name": "Communities In Schools", 
+  "wof:brand_id": 1125161435, 
+  "wof:categories": [
+    "sg:public_place=education", 
+    "sg:services=social_services", 
+    "public_place:education=school", 
+    "sg:services=organizations", 
+    "services:organizations=nonprofit_organization", 
+    "sg:services=professional", 
+    "public_place:education=special_training", 
+    "services:professional=management_and_consulting", 
+    "services:organizations=community_association", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "public_place:community_center=youth", 
+    "services:organizations=professional_association", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=community_center"
+  ], 
   "wof:tags": [
     "organization", 
     "welfare", 
@@ -27,6 +43,6 @@
     "serve", 
     "space"
   ], 
-  "wof:brand_name": "Communities In Schools", 
-  "wof:brand_id": 1125161435
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416302
 }

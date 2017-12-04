@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414547, 
+  "wof:brand_name": "Miller Farms", 
+  "wof:brand_id": 1125161895, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "manufacturing_and_wholesale_goods:farming=farm", 
+    "manufacturing_and_wholesale_goods:farming=livestock_farm", 
+    "manufacturing_and_wholesale_goods:farming=dairy_farm", 
+    "manufacturing_and_wholesale_goods:farming=vineyard", 
+    "manufacturing_and_wholesale_goods:manufacturing=lumber", 
+    "retail_goods:food_and_beverages=fruits_and_vegetables", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "crop", 
     "general", 
@@ -33,6 +47,6 @@
     "tobacco", 
     "tomato"
   ], 
-  "wof:brand_name": "Miller Farms", 
-  "wof:brand_id": 1125161895
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416303
 }

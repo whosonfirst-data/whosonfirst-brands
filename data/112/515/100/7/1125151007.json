@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414489, 
+  "wof:brand_name": "Freds", 
+  "wof:brand_id": 1125151007, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=department_store", 
+    "services:retail=repair_shop", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:manufacturing=motor_vehicles_and_parts", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "retail_goods:shopping=pharmacy", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "merchandise", 
     "general", 
@@ -10,6 +23,6 @@
     "mfg", 
     "welding"
   ], 
-  "wof:brand_name": "Freds", 
-  "wof:brand_id": 1125151007
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416257
 }

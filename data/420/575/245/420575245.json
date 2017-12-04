@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414447, 
+  "wof:brand_name": "British Heart Foundation", 
+  "wof:brand_id": 420575245, 
+  "wof:categories": [
+    "services:organizations=nonprofit_organization", 
+    "sg:services=organizations", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=thrift_store", 
+    "public_place:education=special_training", 
+    "retail_goods:shopping=mobile_phones", 
+    "retail_goods:shopping=shoes", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "charity", 
     "organisation", 
@@ -10,6 +20,6 @@
     "aid", 
     "first"
   ], 
-  "wof:brand_name": "British Heart Foundation", 
-  "wof:brand_id": 420575245
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416224
 }

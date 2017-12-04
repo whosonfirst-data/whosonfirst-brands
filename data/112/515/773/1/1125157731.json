@@ -1,10 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414464, 
+  "wof:brand_name": "The Coffee Beanery", 
+  "wof:brand_id": 1125157731, 
+  "wof:categories": [
+    "sg:food_and_drink=coffee_and_tea"
+  ], 
   "wof:tags": [
     "american", 
     "diner"
   ], 
-  "wof:brand_name": "The Coffee Beanery", 
-  "wof:brand_id": 1125157731
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416237
 }

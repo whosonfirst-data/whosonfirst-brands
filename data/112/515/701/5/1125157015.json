@@ -1,12 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414528, 
+  "wof:brand_name": "Midway Baptist Church", 
+  "wof:brand_id": 1125157015, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "sg:public_place=place_of_worship", 
+    "public_place:place_of_worship=church"
+  ], 
   "wof:tags": [
     "church", 
     "baptist", 
     "churches-baptist", 
     "churches-baptist-general"
   ], 
-  "wof:brand_name": "Midway Baptist Church", 
-  "wof:brand_id": 1125157015
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416288
 }

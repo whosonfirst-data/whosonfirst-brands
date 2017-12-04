@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414550, 
+  "wof:brand_name": "Advance Til Payday", 
+  "wof:brand_id": 1125161681, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "cashing", 
     "check", 
@@ -13,6 +17,6 @@
     "company", 
     "personal"
   ], 
-  "wof:brand_name": "Advance Til Payday", 
-  "wof:brand_id": 1125161681
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416305
 }

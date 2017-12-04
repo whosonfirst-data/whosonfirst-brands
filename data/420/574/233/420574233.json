@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414456, 
+  "wof:brand_name": "Motel 6", 
+  "wof:brand_id": 420574233, 
+  "wof:categories": [
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel", 
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "operation", 
     "lodging", 
@@ -12,6 +17,6 @@
     "metal", 
     "regional"
   ], 
-  "wof:brand_name": "Motel 6", 
-  "wof:brand_id": 420574233
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416231
 }

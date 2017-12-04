@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414518, 
+  "wof:brand_name": "Intersport", 
+  "wof:brand_id": 1125153227, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "sg:entertainment=sports_and_exercise", 
+    "entertainment:sports_and_exercise=sports_center", 
+    "entertainment:sports_and_exercise=ski_slope", 
+    "entertainment:travel=travel_agent", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=department_store", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:personal=shoe_repair_and_shine", 
+    "services:retail=auto_repair", 
+    "services:retail=car_wash", 
+    "sg:entertainment=travel", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=personal", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "sport", 
     "-", 
@@ -15,6 +35,6 @@
     "sportswear", 
     "wear"
   ], 
-  "wof:brand_name": "Intersport", 
-  "wof:brand_id": 1125153227
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416281
 }

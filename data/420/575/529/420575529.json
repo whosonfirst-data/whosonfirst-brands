@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414444, 
+  "wof:brand_name": "American Tower Corp", 
+  "wof:brand_id": 420575529, 
+  "wof:categories": [
+    "sg:services=utilities", 
+    "services:utilities=telephone", 
+    "sg:services=communications", 
+    "sg:services=professional", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "services:professional=management_and_consulting", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:manufacturing=building_materials", 
+    "services:utilities=cable", 
+    "services:utilities=mobile_phone"
+  ], 
   "wof:tags": [
     "telecommunication", 
     "tower", 
@@ -20,6 +34,6 @@
     "operates", 
     "wireless"
   ], 
-  "wof:brand_name": "American Tower Corp", 
-  "wof:brand_id": 420575529
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416222
 }

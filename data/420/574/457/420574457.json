@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414457, 
+  "wof:brand_name": "Anchor Trust", 
+  "wof:brand_id": 420574457, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=community_association", 
+    "services:health_services=nursing_and_care_facility", 
+    "sg:services=health_services", 
+    "sg:services=social_services", 
+    "services:social_services=retirement_home", 
+    "services:organizations=nonprofit_organization", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:social_services=adult_care", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "housing", 
     "society", 
@@ -18,6 +30,6 @@
     "advice", 
     "counselling"
   ], 
-  "wof:brand_name": "Anchor Trust", 
-  "wof:brand_id": 420574457
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416231
 }

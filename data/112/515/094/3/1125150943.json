@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414471, 
+  "wof:brand_name": "Great Clips For Hair", 
+  "wof:brand_id": 1125150943, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "sg:public_place=education", 
+    "public_place:education=school", 
+    "public_place:education=vocational_school", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "hair", 
     "supply", 
@@ -11,6 +21,6 @@
     "management", 
     "shop"
   ], 
-  "wof:brand_name": "Great Clips For Hair", 
-  "wof:brand_id": 1125150943
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416243
 }

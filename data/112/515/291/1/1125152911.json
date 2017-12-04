@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414501, 
+  "wof:brand_name": "Super Stop", 
+  "wof:brand_id": 1125152911, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:manufacturing=petroleum_products", 
+    "retail_goods:home_and_garden=building_materials", 
+    "services:retail=auto_repair", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:food_and_drink=restaurant", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "grocer", 
     "gasoline", 
@@ -19,6 +34,6 @@
     "repairing", 
     "washer"
   ], 
-  "wof:brand_name": "Super Stop", 
-  "wof:brand_id": 1125152911
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416267
 }

@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414445, 
+  "wof:brand_name": "Stein Mart", 
+  "wof:brand_id": 420575341, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=shoes"
+  ], 
   "wof:tags": [
     "women's", 
     "clothing", 
@@ -14,6 +21,6 @@
     "nonresidential", 
     "operator"
   ], 
-  "wof:brand_name": "Stein Mart", 
-  "wof:brand_id": 420575341
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416223
 }

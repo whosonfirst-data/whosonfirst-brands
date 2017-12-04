@@ -1,6 +1,29 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414513, 
+  "wof:brand_name": "Smoke Shop", 
+  "wof:brand_id": 1125150719, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=tobacco", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=food_and_beverages", 
+    "manufacturing_and_wholesale_goods:wholesale=tobacco_products", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "manufacturing_and_wholesale_goods:manufacturing=tobacco_products", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "services:professional=business_services", 
+    "sg:entertainment=recreation", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=farm_supplies", 
+    "retail_goods:food_and_beverages=bakery", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:food_and_beverages=meat_and_fish", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=news", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "services:health_services=clinic", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "cigarette", 
     "cigar", 
@@ -35,6 +58,6 @@
     "specialty", 
     "store"
   ], 
-  "wof:brand_name": "Smoke Shop", 
-  "wof:brand_id": 1125150719
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416277
 }

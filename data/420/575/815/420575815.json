@@ -1,12 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414448, 
+  "wof:brand_name": "Booze Buster", 
+  "wof:brand_id": 420575815, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "sg:retail_goods=food_and_beverages", 
+    "services:banks_and_credit_unions=bureau_de_change", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "beer", 
     "spirit", 
     "wines", 
     "wine"
   ], 
-  "wof:brand_name": "Booze Buster", 
-  "wof:brand_id": 420575815
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416225
 }

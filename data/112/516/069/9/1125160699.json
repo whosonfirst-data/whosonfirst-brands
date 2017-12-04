@@ -1,6 +1,32 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414546, 
+  "wof:brand_name": "Willows", 
+  "wof:brand_id": 1125160699, 
+  "wof:categories": [
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_operator", 
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=shopping", 
+    "sg:services=health_services", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:health_services=nursing_and_care_facility", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=professional", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "services:professional=business_services", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:services=social_services", 
+    "entertainment:travel=hotels_and_motels", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "public_place:education=library", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:health_services=hospital", 
+    "services:real_estate=real_estate_agent", 
+    "services:social_services=adult_care", 
+    "sg:entertainment=travel", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "apartment", 
     "building", 
@@ -36,6 +62,6 @@
     "trailer", 
     "welfare"
   ], 
-  "wof:brand_name": "Willows", 
-  "wof:brand_id": 1125160699
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416302
 }

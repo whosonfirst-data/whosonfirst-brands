@@ -1,6 +1,40 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414547, 
+  "wof:brand_name": "Access", 
+  "wof:brand_id": 1125162489, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "sg:retail_goods=shopping", 
+    "sg:services=health_services", 
+    "sg:services=social_services", 
+    "retail_goods:shopping=luggage_and_leather_goods", 
+    "services:professional=business_services", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:health_services=clinic", 
+    "services:health_services=doctor", 
+    "services:utilities=telephone", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:public_place=education", 
+    "sg:services=building_and_trades", 
+    "sg:services=utilities", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "public_place:education=school", 
+    "public_place:education=special_training", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:building_and_trades=construction", 
+    "services:building_and_trades=pest_control", 
+    "services:health_services=hospital", 
+    "services:professional=computer_services", 
+    "services:professional=employment_agencies", 
+    "services:professional=engineering", 
+    "services:professional=management_and_consulting", 
+    "services:real_estate=architect", 
+    "services:social_services=adult_care", 
+    "services:social_services=job_training", 
+    "sg:entertainment=recreation", 
+    "sg:food_and_drink=coffee_and_tea", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "interior", 
     "crisis", 
@@ -41,6 +75,6 @@
     "surgeon", 
     "whole"
   ], 
-  "wof:brand_name": "Access", 
-  "wof:brand_id": 1125162489
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416304
 }

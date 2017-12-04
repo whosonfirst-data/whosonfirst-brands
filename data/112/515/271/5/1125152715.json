@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414496, 
+  "wof:brand_name": "Handyman Services", 
+  "wof:brand_id": 1125152715, 
+  "wof:categories": [
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=construction", 
+    "services:building_and_trades=plumbing", 
+    "sg:services=personal", 
+    "services:retail=repair_shop", 
+    "sg:services=retail", 
+    "services:building_and_trades=electrical", 
+    "retail_goods:home_and_garden=building_materials", 
+    "services:building_and_trades=landscaping_services", 
+    "services:professional=art_services", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "handyman", 
     "house", 
@@ -33,6 +47,6 @@
     "trenching", 
     "underground"
   ], 
-  "wof:brand_name": "Handyman Services", 
-  "wof:brand_id": 1125152715
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416263
 }

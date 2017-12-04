@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414524, 
+  "wof:brand_name": "Hobbytown USA", 
+  "wof:brand_id": 1125151687, 
+  "wof:categories": [
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "sg:retail_goods=shopping", 
+    "food_and_drink:bars_and_pubs=champagne_bar", 
+    "manufacturing_and_wholesale_goods:manufacturing=toys_and_sporting_goods", 
+    "manufacturing_and_wholesale_goods:wholesale=toys_and_hobbies", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "supply", 
     "model", 
@@ -21,6 +34,6 @@
     "party", 
     "planning"
   ], 
-  "wof:brand_name": "Hobbytown USA", 
-  "wof:brand_id": 1125151687
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416286
 }

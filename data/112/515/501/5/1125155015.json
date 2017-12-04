@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414524, 
+  "wof:brand_name": "Hot Stuff Pizza", 
+  "wof:brand_id": 1125155015, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "pizza", 
     "eating", 
@@ -8,6 +15,6 @@
     "gasoline", 
     "station"
   ], 
-  "wof:brand_name": "Hot Stuff Pizza", 
-  "wof:brand_id": 1125155015
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416285
 }

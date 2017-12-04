@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414491, 
+  "wof:brand_name": "Shoe Dept", 
+  "wof:brand_id": 1125154487, 
+  "wof:categories": [
+    "retail_goods:shopping=shoes", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "store", 
     "manufacturer", 
@@ -8,6 +14,6 @@
     "shoes-wholesale", 
     "family"
   ], 
-  "wof:brand_name": "Shoe Dept", 
-  "wof:brand_id": 1125154487
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416259
 }

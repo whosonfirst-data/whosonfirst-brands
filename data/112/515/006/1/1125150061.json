@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414489, 
+  "wof:brand_name": "Stewart Title Co", 
+  "wof:brand_id": 1125150061, 
+  "wof:categories": [
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=insurance", 
+    "services:insurance=title_insurance", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=professional", 
+    "services:professional=research", 
+    "services:insurance=insurance_agent", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:insurance=hazard_insurance", 
+    "services:real_estate=real_estate_agent"
+  ], 
   "wof:tags": [
     "company", 
     "title", 
@@ -21,6 +36,6 @@
     "practice", 
     "property"
   ], 
-  "wof:brand_name": "Stewart Title Co", 
-  "wof:brand_id": 1125150061
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416257
 }

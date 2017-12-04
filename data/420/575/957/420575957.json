@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414447, 
+  "wof:brand_name": "Wereldwinkel", 
+  "wof:brand_id": 420575957, 
+  "wof:categories": [
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "geschenken"
   ], 
-  "wof:brand_name": "Wereldwinkel", 
-  "wof:brand_id": 420575957
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416224
 }

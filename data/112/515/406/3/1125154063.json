@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414486, 
+  "wof:brand_name": "Novacare Pa Inc", 
+  "wof:brand_id": 1125154063, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=health_practitioner", 
+    "services:health_services=clinic", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "services:health_services=doctor", 
+    "services:professional=employment_agencies", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=medical_equipment_and_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "outpatient", 
     "specialty", 
@@ -26,6 +40,6 @@
     "orthopedic", 
     "therapist"
   ], 
-  "wof:brand_name": "Novacare Pa Inc", 
-  "wof:brand_id": 1125154063
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416255
 }

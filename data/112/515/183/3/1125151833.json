@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414523, 
+  "wof:brand_name": "Ernst & Young", 
+  "wof:brand_id": 1125151833, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=management_and_consulting", 
+    "services:professional=research", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bureau_de_change", 
+    "services:banks_and_credit_unions=financial_services"
+  ], 
   "wof:tags": [
     "accountant", 
     "-kantoren", 
@@ -21,6 +30,6 @@
     "consultancy", 
     "revision"
   ], 
-  "wof:brand_name": "Ernst & Young", 
-  "wof:brand_id": 1125151833
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416285
 }

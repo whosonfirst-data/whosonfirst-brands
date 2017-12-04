@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414446, 
+  "wof:brand_name": "Evans Ltd", 
+  "wof:brand_id": 420575753, 
+  "wof:categories": [
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "shop"
   ], 
-  "wof:brand_name": "Evans Ltd", 
-  "wof:brand_id": 420575753
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416224
 }

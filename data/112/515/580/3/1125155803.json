@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414476, 
+  "wof:brand_name": "Mental Health Dept", 
+  "wof:brand_id": 1125155803, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:services=health_services", 
+    "services:health_services=clinic", 
+    "services:health_services=hospital", 
+    "sg:services=social_services", 
+    "public_place:education=special_training", 
+    "services:health_services=doctor", 
+    "services:health_services=health_practitioner", 
+    "services:health_services=medical_lab", 
+    "services:professional=management_and_consulting", 
+    "sg:public_place=education", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "health", 
     "program", 
@@ -27,6 +42,6 @@
     "parish", 
     "treatment"
   ], 
-  "wof:brand_name": "Mental Health Dept", 
-  "wof:brand_id": 1125155803
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416247
 }

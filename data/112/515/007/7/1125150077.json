@@ -1,6 +1,29 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414471, 
+  "wof:brand_name": "Comcast Cable", 
+  "wof:brand_id": 1125150077, 
+  "wof:categories": [
+    "sg:services=utilities", 
+    "services:utilities=cable", 
+    "sg:services=professional", 
+    "services:professional=advertising", 
+    "services:professional=computer_services", 
+    "sg:services=communications", 
+    "services:communications=television_station", 
+    "services:utilities=telephone", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "sg:retail_goods=shopping", 
+    "sg:services=personal", 
+    "services:building_and_trades=electrical", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "services:communications=film_and_video_production", 
+    "services:professional=management_and_consulting", 
+    "services:retail=repair_shop", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "television", 
     "internet", 
@@ -34,6 +57,6 @@
     "telecommunication", 
     "website"
   ], 
-  "wof:brand_name": "Comcast Cable", 
-  "wof:brand_id": 1125150077
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416243
 }

@@ -1,9 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414523, 
+  "wof:brand_name": "Co-Operative Funeral Services", 
+  "wof:brand_id": 1125152389, 
+  "wof:categories": [
+    "services:retail=funeral_services", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:farming=dairy_farm", 
+    "sg:manufacturing_and_wholesale_goods=farming"
+  ], 
   "wof:tags": [
     "director"
   ], 
-  "wof:brand_name": "Co-Operative Funeral Services", 
-  "wof:brand_id": 1125152389
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416284
 }

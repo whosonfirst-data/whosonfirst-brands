@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414543, 
+  "wof:brand_name": "Tourist Information Centres", 
+  "wof:brand_id": 1125162833, 
+  "wof:categories": [
+    "public_place:landmark=tourist_information", 
+    "sg:public_place=landmark", 
+    "services:communications=news_services", 
+    "sg:services=communications", 
+    "entertainment:travel=travel_agent", 
+    "retail_goods:shopping=thrift_store", 
+    "services:professional=computer_services", 
+    "sg:entertainment=travel", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "information", 
     "attractions", 
@@ -9,6 +21,6 @@
     "consultant", 
     "shop"
   ], 
-  "wof:brand_name": "Tourist Information Centres", 
-  "wof:brand_id": 1125162833
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416300
 }

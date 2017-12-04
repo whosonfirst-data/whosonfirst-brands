@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414493, 
+  "wof:brand_name": "Independent Order-Odd Fellows", 
+  "wof:brand_id": 1125152475, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=community_association", 
+    "sg:entertainment=recreation", 
+    "services:health_services=nursing_and_care_facility", 
+    "services:organizations=nonprofit_organization", 
+    "services:organizations=professional_association", 
+    "sg:services=health_services", 
+    "sg:services=personal", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "fraternal", 
     "auditorium", 
@@ -16,6 +27,6 @@
     "wedding", 
     "welfare"
   ], 
-  "wof:brand_name": "Independent Order-Odd Fellows", 
-  "wof:brand_id": 1125152475
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416261
 }

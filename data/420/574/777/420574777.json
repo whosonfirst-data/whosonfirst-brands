@@ -1,6 +1,27 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414460, 
+  "wof:brand_name": "Big Brothers & Big Sisters", 
+  "wof:brand_id": 420574777, 
+  "wof:categories": [
+    "sg:services=social_services", 
+    "sg:services=organizations", 
+    "services:organizations=nonprofit_organization", 
+    "services:organizations=professional_association", 
+    "services:organizations=community_association", 
+    "public_place:government=office", 
+    "services:organizations=membership_organization", 
+    "sg:public_place=government", 
+    "services:social_services=child_care", 
+    "sg:entertainment=recreation", 
+    "public_place:community_center=youth", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:health_services=hospital", 
+    "services:organizations=religious_organization", 
+    "services:social_services=adult_care", 
+    "sg:public_place=community_center", 
+    "sg:retail_goods=shopping", 
+    "sg:services=health_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "organization", 
     "welfare", 
@@ -42,6 +63,6 @@
     "telephone", 
     "thrift"
   ], 
-  "wof:brand_name": "Big Brothers & Big Sisters", 
-  "wof:brand_id": 420574777
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416234
 }

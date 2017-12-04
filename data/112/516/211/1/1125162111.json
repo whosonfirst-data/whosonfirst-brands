@@ -1,12 +1,23 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414538, 
+  "wof:brand_name": "Adam", 
+  "wof:brand_id": 1125162111, 
+  "wof:categories": [
+    "services:professional=lawyer_and_legal_services", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:retail=auto_repair", 
+    "sg:food_and_drink=bakery", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "automobile-body", 
     "baker", 
     "clothing", 
     "confectioner"
   ], 
-  "wof:brand_name": "Adam", 
-  "wof:brand_id": 1125162111
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416296
 }

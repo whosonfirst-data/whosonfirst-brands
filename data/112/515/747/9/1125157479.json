@@ -1,9 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414476, 
+  "wof:brand_name": "R S McColl", 
+  "wof:brand_id": 1125157479, 
+  "wof:categories": [
+    "retail_goods:shopping=news", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:food_and_beverages=candy", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "newsagent"
   ], 
-  "wof:brand_name": "R S McColl", 
-  "wof:brand_id": 1125157479
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416247
 }

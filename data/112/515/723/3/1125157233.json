@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414509, 
+  "wof:brand_name": "Pinnacle Towers Inc", 
+  "wof:brand_id": 1125157233, 
+  "wof:categories": [
+    "sg:services=communications", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "services:real_estate=real_estate_operator", 
+    "services:utilities=telephone", 
+    "sg:services=real_estate", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "fabrication", 
     "structural", 
@@ -10,6 +21,6 @@
     "consultant", 
     "tower"
   ], 
-  "wof:brand_name": "Pinnacle Towers Inc", 
-  "wof:brand_id": 1125157233
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416274
 }

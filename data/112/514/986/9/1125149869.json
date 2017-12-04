@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414555, 
+  "wof:brand_name": "Modern Woodmen of America", 
+  "wof:brand_id": 1125149869, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:insurance=hazard_insurance", 
+    "services:insurance=life_insurance", 
+    "sg:services=banks_and_credit_unions", 
+    "services:organizations=membership_organization", 
+    "sg:services=organizations", 
+    "services:professional=business_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "fraternal", 
     "consultant", 
@@ -13,6 +25,6 @@
     "health", 
     "management"
   ], 
-  "wof:brand_name": "Modern Woodmen of America", 
-  "wof:brand_id": 1125149869
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416310
 }

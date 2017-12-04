@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414512, 
+  "wof:brand_name": "Just Cuts", 
+  "wof:brand_id": 1125150861, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "services:building_and_trades=landscaping_services", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "hairdresser", 
     "shop", 
@@ -11,6 +18,6 @@
     "hair", 
     "landscape"
   ], 
-  "wof:brand_name": "Just Cuts", 
-  "wof:brand_id": 1125150861
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416276
 }

@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414512, 
+  "wof:brand_name": "Cardsmart", 
+  "wof:brand_id": 1125157799, 
+  "wof:categories": [
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "cards", 
     "greeting", 
@@ -11,6 +18,6 @@
     "store", 
     "supply"
   ], 
-  "wof:brand_name": "Cardsmart", 
-  "wof:brand_id": 1125157799
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416276
 }

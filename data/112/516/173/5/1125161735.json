@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414548, 
+  "wof:brand_name": "Calendar Club", 
+  "wof:brand_id": 1125161735, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=community_association", 
+    "sg:retail_goods=shopping", 
+    "services:organizations=membership_organization", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:entertainment=recreation", 
+    "retail_goods:shopping=books", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "club", 
     "calendar", 
@@ -15,6 +29,6 @@
     "gallery", 
     "toy"
   ], 
-  "wof:brand_name": "Calendar Club", 
-  "wof:brand_id": 1125161735
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416304
 }

@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414540, 
+  "wof:brand_name": "Calypso", 
+  "wof:brand_id": 1125162563, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:food_and_drink=restaurant", 
+    "sg:services=professional", 
+    "entertainment:travel=hotels_and_motels", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:building_and_trades=landscaping_services", 
+    "services:personal=beauty_salon", 
+    "services:professional=business_services", 
+    "services:real_estate=real_estate_operator", 
+    "sg:entertainment=travel", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=building_and_trades", 
+    "sg:services=personal", 
+    "sg:services=real_estate", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "clothing", 
     "women's", 
@@ -16,6 +36,6 @@
     "shop", 
     "tavern"
   ], 
-  "wof:brand_name": "Calypso", 
-  "wof:brand_id": 1125162563
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416297
 }

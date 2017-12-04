@@ -1,6 +1,27 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414536, 
+  "wof:brand_name": "Unique Boutique", 
+  "wof:brand_id": 1125153425, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=used_merchandise", 
+    "retail_goods:shopping=jewelry", 
+    "services:personal=beauty_salon", 
+    "sg:services=personal", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "manufacturing_and_wholesale_goods:manufacturing=jewelry", 
+    "manufacturing_and_wholesale_goods:wholesale=jewelry", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "manufacturing_and_wholesale_goods:wholesale=medical_equipment_and_supplies", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "retail_goods:shopping=catalog_store", 
+    "retail_goods:shopping=florist", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "boutique", 
     "item", 
@@ -44,6 +65,6 @@
     "studio", 
     "wig"
   ], 
-  "wof:brand_name": "Unique Boutique", 
-  "wof:brand_id": 1125153425
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416295
 }

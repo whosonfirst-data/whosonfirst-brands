@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414498, 
+  "wof:brand_name": "Family Chiropractic Clinic", 
+  "wof:brand_id": 1125158767, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=chiropractor", 
+    "services:health_services=health_practitioner"
+  ], 
   "wof:tags": [
     "chiropractic", 
     "clinic", 
@@ -8,6 +13,6 @@
     "spec", 
     "therapist"
   ], 
-  "wof:brand_name": "Family Chiropractic Clinic", 
-  "wof:brand_id": 1125158767
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416265
 }

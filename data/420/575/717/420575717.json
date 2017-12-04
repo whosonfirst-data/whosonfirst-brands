@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414445, 
+  "wof:brand_name": "Fye", 
+  "wof:brand_id": 420575717, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=music", 
+    "retail_goods:shopping=musical_instruments", 
+    "retail_goods:shopping=used_merchandise", 
+    "sg:services=professional", 
+    "entertainment:arts_and_performance=jazz_and_blues", 
+    "public_place:education=music_school", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "sg:entertainment=arts_and_performance", 
+    "sg:public_place=education", 
+    "sg:public_place=shopping_center"
+  ], 
   "wof:tags": [
     "record", 
     "tape", 
@@ -18,6 +31,6 @@
     "rental", 
     "teacher"
   ], 
-  "wof:brand_name": "Fye", 
-  "wof:brand_id": 420575717
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416222
 }

@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414520, 
+  "wof:brand_name": "Bristol City Council", 
+  "wof:brand_id": 1125153845, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "public_place:education=school", 
+    "sg:public_place=education", 
+    "services:health_services=doctor", 
+    "services:retail=funeral_services", 
+    "services:social_services=child_care", 
+    "sg:services=health_services", 
+    "sg:services=retail", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "local", 
     "authority", 
@@ -9,6 +21,6 @@
     "home", 
     "practitioners"
   ], 
-  "wof:brand_name": "Bristol City Council", 
-  "wof:brand_id": 1125153845
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416282
 }

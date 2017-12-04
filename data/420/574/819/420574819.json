@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414455, 
+  "wof:brand_name": "Country Insurance & Financial", 
+  "wof:brand_id": 420574819, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=banks_and_credit_unions", 
+    "services:insurance=hazard_insurance", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "financial", 
     "consultant", 
@@ -8,6 +17,6 @@
     "planning", 
     "processing"
   ], 
-  "wof:brand_name": "Country Insurance & Financial", 
-  "wof:brand_id": 420574819
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416230
 }

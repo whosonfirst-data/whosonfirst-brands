@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414506, 
+  "wof:brand_name": "Hair Shop", 
+  "wof:brand_id": 1125151843, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "shop", 
     "beauty", 
@@ -14,6 +23,6 @@
     "salons-equipment", 
     "supply"
   ], 
-  "wof:brand_name": "Hair Shop", 
-  "wof:brand_id": 1125151843
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416271
 }

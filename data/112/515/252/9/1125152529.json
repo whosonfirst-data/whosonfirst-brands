@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414513, 
+  "wof:brand_name": "Fred Meyer Jewelers", 
+  "wof:brand_id": 1125152529, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=jewelry", 
+    "manufacturing_and_wholesale_goods:manufacturing=jewelry", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "retail_goods:shopping=department_store"
+  ], 
   "wof:tags": [
     "jeweler", 
     "appraiser", 
@@ -11,6 +18,6 @@
     "watch", 
     "fine"
   ], 
-  "wof:brand_name": "Fred Meyer Jewelers", 
-  "wof:brand_id": 1125152529
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416276
 }

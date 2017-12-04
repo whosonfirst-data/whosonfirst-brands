@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414468, 
+  "wof:brand_name": "Beverly", 
+  "wof:brand_id": 1125153075, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=nursing_and_care_facility", 
+    "services:health_services=clinic", 
+    "sg:services=social_services", 
+    "services:social_services=job_training", 
+    "sg:services=professional", 
+    "services:health_services=health_practitioner", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:personal=beauty_salon", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=management_and_consulting", 
+    "services:social_services=adult_care", 
+    "services:social_services=retirement_home", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "skilled", 
     "home", 
@@ -32,6 +49,6 @@
     "return", 
     "shop"
   ], 
-  "wof:brand_name": "Beverly", 
-  "wof:brand_id": 1125153075
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416240
 }

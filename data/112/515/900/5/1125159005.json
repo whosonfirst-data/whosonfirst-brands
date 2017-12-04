@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414500, 
+  "wof:brand_name": "Hair Palace", 
+  "wof:brand_id": 1125159005, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "shop", 
     "hairdresser", 
@@ -13,6 +20,6 @@
     "lady", 
     "unisex"
   ], 
-  "wof:brand_name": "Hair Palace", 
-  "wof:brand_id": 1125159005
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416266
 }

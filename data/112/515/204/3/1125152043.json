@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414481, 
+  "wof:brand_name": "Joe's Barber Shop", 
+  "wof:brand_id": 1125152043, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=barber", 
+    "services:personal=beauty_salon", 
+    "services:real_estate=real_estate_operator", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
@@ -11,6 +18,6 @@
     "nonresidential", 
     "stylist"
   ], 
-  "wof:brand_name": "Joe's Barber Shop", 
-  "wof:brand_id": 1125152043
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416250
 }

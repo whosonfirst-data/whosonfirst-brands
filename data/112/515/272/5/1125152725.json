@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414464, 
+  "wof:brand_name": "Marie Callender's", 
+  "wof:brand_id": 1125152725, 
+  "wof:categories": [
+    "sg:food_and_drink=bakery", 
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=bakery", 
+    "retail_goods:food_and_beverages=candy"
+  ], 
   "wof:tags": [
     "american", 
     "pastry", 
@@ -15,6 +22,6 @@
     "pie", 
     "style"
   ], 
-  "wof:brand_name": "Marie Callender's", 
-  "wof:brand_id": 1125152725
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416237
 }

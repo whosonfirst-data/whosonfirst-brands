@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414521, 
+  "wof:brand_name": "Mary Kay Consultant", 
+  "wof:brand_id": 1125155947, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "sg:services=personal", 
+    "retail_goods:shopping=catalog_store", 
+    "services:personal=beauty_salon", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "services:professional=business_services", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "merchandise", 
     "sales", 
@@ -24,6 +36,6 @@
     "skin", 
     "store"
   ], 
-  "wof:brand_name": "Mary Kay Consultant", 
-  "wof:brand_id": 1125155947
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416283
 }

@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414524, 
+  "wof:brand_name": "Hong Kong", 
+  "wof:brand_id": 1125155013, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "retail_goods:shopping=pets_and_pet_supplies", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "chinese", 
     "asian", 
@@ -15,6 +22,6 @@
     "store", 
     "take"
   ], 
-  "wof:brand_name": "Hong Kong", 
-  "wof:brand_id": 1125155013
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416285
 }

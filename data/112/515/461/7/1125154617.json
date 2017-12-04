@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414514, 
+  "wof:brand_name": "Coach", 
+  "wof:brand_id": 1125154617, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "manufacturing_and_wholesale_goods:manufacturing=leather_goods", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "retail_goods:shopping=luggage_and_leather_goods", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=shoes", 
+    "sg:food_and_drink=bars_and_pubs"
+  ], 
   "wof:tags": [
     "accessory", 
     "clothing", 
@@ -10,6 +20,6 @@
     "outlet", 
     "purse"
   ], 
-  "wof:brand_name": "Coach", 
-  "wof:brand_id": 1125154617
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416277
 }

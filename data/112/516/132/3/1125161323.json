@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414551, 
+  "wof:brand_name": "United Optical", 
+  "wof:brand_id": 1125161323, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=optical_goods", 
+    "sg:services=health_services", 
+    "services:health_services=optometrist", 
+    "retail_goods:shopping=optician", 
+    "services:health_services=doctor", 
+    "services:health_services=clinic", 
+    "services:professional=business_services", 
+    "sg:public_place=community_center", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "optician", 
     "eyewear", 
@@ -13,6 +25,6 @@
     "mfg", 
     "personal"
   ], 
-  "wof:brand_name": "United Optical", 
-  "wof:brand_id": 1125161323
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416306
 }

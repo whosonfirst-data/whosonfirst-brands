@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414540, 
+  "wof:brand_name": "Country Treasures", 
+  "wof:brand_id": 1125160799, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=used_merchandise", 
+    "sg:services=professional", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "sg:retail_goods=home_and_garden", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "retail_goods:shopping=catalog_store", 
+    "retail_goods:shopping=crafts_and_fabrics", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "services:building_and_trades=construction", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "shop", 
     "antique", 
@@ -21,6 +38,6 @@
     "used", 
     "woodworker"
   ], 
-  "wof:brand_name": "Country Treasures", 
-  "wof:brand_id": 1125160799
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416298
 }

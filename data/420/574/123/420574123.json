@@ -1,6 +1,29 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414456, 
+  "wof:brand_name": "Gamestop", 
+  "wof:brand_id": 420574123, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "entertainment:cinema=movie_rental", 
+    "sg:entertainment=cinema", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=computers", 
+    "retail_goods:shopping=music", 
+    "services:professional=computer_services", 
+    "sg:entertainment=recreation", 
+    "sg:services=professional", 
+    "entertainment:recreation=amusement_park", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "retail_goods:shopping=books", 
+    "entertainment:recreation=arcade", 
+    "manufacturing_and_wholesale_goods:wholesale=toys_and_hobbies", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:building_and_trades=construction", 
+    "sg:public_place=shopping_center", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "video", 
     "game", 
@@ -40,6 +63,6 @@
     "material", 
     "tape"
   ], 
-  "wof:brand_name": "Gamestop", 
-  "wof:brand_id": 420574123
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416231
 }

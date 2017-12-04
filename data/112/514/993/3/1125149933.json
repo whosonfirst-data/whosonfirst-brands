@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414554, 
+  "wof:brand_name": "First Citizens Bank", 
+  "wof:brand_id": 1125149933, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=financial_services", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "commercial", 
     "state", 
@@ -18,6 +25,6 @@
     "savings", 
     "st"
   ], 
-  "wof:brand_name": "First Citizens Bank", 
-  "wof:brand_id": 1125149933
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416309
 }

@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414455, 
+  "wof:brand_name": "Waldenbooks", 
+  "wof:brand_id": 420574611, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=books", 
+    "services:communications=newspaper", 
+    "sg:services=communications", 
+    "manufacturing_and_wholesale_goods:wholesale=books_periodicals_and_newspapers", 
+    "retail_goods:shopping=music", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=shopping_center"
+  ], 
   "wof:tags": [
     "dealer", 
     "store", 
@@ -12,6 +22,6 @@
     "music", 
     "software"
   ], 
-  "wof:brand_name": "Waldenbooks", 
-  "wof:brand_id": 420574611
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416230
 }

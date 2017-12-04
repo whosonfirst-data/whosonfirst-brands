@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414462, 
+  "wof:brand_name": "Christian Science Reading Room", 
+  "wof:brand_id": 420574411, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=religious_organization", 
+    "services:organizations=membership_organization", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=books", 
+    "sg:public_place=place_of_worship", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=community_center", 
+    "public_place:education=library", 
+    "sg:public_place=education", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=professional", 
+    "services:organizations=community_association", 
+    "services:organizations=nonprofit_organization"
+  ], 
   "wof:tags": [
     "church", 
     "science", 
@@ -39,6 +56,6 @@
     "retailer", 
     "video"
   ], 
-  "wof:brand_name": "Christian Science Reading Room", 
-  "wof:brand_id": 420574411
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416236
 }

@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414501, 
+  "wof:brand_name": "Hair Co", 
+  "wof:brand_id": 1125151221, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "services:personal=massage", 
+    "services:personal=skin_care", 
+    "services:personal=tanning_parlor"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
@@ -11,6 +19,6 @@
     "stylist", 
     "therapist"
   ], 
-  "wof:brand_name": "Hair Co", 
-  "wof:brand_id": 1125151221
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416267
 }

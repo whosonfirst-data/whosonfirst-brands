@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414482, 
+  "wof:brand_name": "Insty-Prints", 
+  "wof:brand_id": 1125151789, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=professional", 
+    "services:professional=printing_and_photocopies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=office_equipment", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "sg:retail_goods=shopping", 
+    "services:professional=advertising", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "services:professional=art_services"
+  ], 
   "wof:tags": [
     "printer", 
     "commercial", 
@@ -46,6 +60,6 @@
     "shipping", 
     "speed"
   ], 
-  "wof:brand_name": "Insty-Prints", 
-  "wof:brand_id": 1125151789
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416251
 }

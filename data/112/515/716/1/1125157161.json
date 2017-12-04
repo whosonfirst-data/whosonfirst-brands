@@ -1,6 +1,28 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414489, 
+  "wof:brand_name": "Financial Solutions", 
+  "wof:brand_id": 1125157161, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=professional", 
+    "sg:services=insurance", 
+    "services:banks_and_credit_unions=bank", 
+    "services:insurance=insurance_agent", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=management_and_consulting", 
+    "services:professional=business_services", 
+    "manufacturing_and_wholesale_goods:wholesale=motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "services:insurance=hazard_insurance", 
+    "services:insurance=health_insurance", 
+    "services:insurance=life_insurance", 
+    "services:real_estate=real_estate_agent", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=personal", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "financial", 
     "advisory", 
@@ -44,6 +66,6 @@
     "security", 
     "truck"
   ], 
-  "wof:brand_name": "Financial Solutions", 
-  "wof:brand_id": 1125157161
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416257
 }

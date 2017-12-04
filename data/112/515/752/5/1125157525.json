@@ -1,7 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414521, 
-  "wof:tags": [], 
   "wof:brand_name": "Unigate Dairies Ltd", 
-  "wof:brand_id": 1125157525
+  "wof:brand_id": 1125157525, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:farming=dairy_farm", 
+    "sg:manufacturing_and_wholesale_goods=farming"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416283
 }

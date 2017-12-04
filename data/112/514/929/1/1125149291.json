@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414560, 
+  "wof:brand_name": "Cruise One", 
+  "wof:brand_id": 1125149291, 
+  "wof:categories": [
+    "entertainment:travel=travel_agent", 
+    "sg:entertainment=travel", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:organizations=membership_organization", 
+    "services:professional=computer_services", 
+    "sg:entertainment=recreation", 
+    "sg:retail_goods=shopping", 
+    "sg:services=organizations", 
+    "sg:services=professional", 
+    "sg:transportation=ferry"
+  ], 
   "wof:tags": [
     "agency", 
     "bureau", 
@@ -14,6 +26,6 @@
     "tour", 
     "water"
   ], 
-  "wof:brand_name": "Cruise One", 
-  "wof:brand_id": 1125149291
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416314
 }

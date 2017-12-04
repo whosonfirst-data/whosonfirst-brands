@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414517, 
+  "wof:brand_name": "Juvenile Justice Dept", 
+  "wof:brand_id": 1125154327, 
+  "wof:categories": [
+    "public_place:government=court_house", 
+    "sg:public_place=government", 
+    "public_place:government=jail", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "counsel", 
     "state", 
@@ -9,6 +15,6 @@
     "institution", 
     "probation"
   ], 
-  "wof:brand_name": "Juvenile Justice Dept", 
-  "wof:brand_id": 1125154327
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416280
 }

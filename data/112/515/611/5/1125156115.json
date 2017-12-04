@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414465, 
+  "wof:brand_name": "Polish National Alliance", 
+  "wof:brand_id": 1125156115, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "sg:services=organizations", 
+    "services:insurance=life_insurance", 
+    "services:organizations=community_association", 
+    "services:organizations=membership_organization", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=hazard_insurance", 
+    "services:organizations=professional_association", 
+    "sg:services=professional", 
+    "services:insurance=health_insurance", 
+    "services:organizations=nonprofit_organization", 
+    "services:professional=business_services", 
+    "sg:entertainment=recreation"
+  ], 
   "wof:tags": [
     "carrier", 
     "club", 
@@ -14,6 +29,6 @@
     "philanthropic", 
     "research"
   ], 
-  "wof:brand_name": "Polish National Alliance", 
-  "wof:brand_id": 1125156115
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416238
 }

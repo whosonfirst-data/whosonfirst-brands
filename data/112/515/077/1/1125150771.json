@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414511, 
+  "wof:brand_name": "Hairport", 
+  "wof:brand_id": 1125150771, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "services:personal=tanning_parlor", 
+    "services:personal=nail_salon", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "services:personal=hair_removal", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "shop", 
     "hairdresser", 
@@ -12,6 +22,6 @@
     "men's", 
     "parlor"
   ], 
-  "wof:brand_name": "Hairport", 
-  "wof:brand_id": 1125150771
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416275
 }

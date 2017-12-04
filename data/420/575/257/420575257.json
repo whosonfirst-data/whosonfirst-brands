@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414449, 
+  "wof:brand_name": "Grace Lutheran Church", 
+  "wof:brand_id": 420575257, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "sg:public_place=place_of_worship", 
+    "public_place:place_of_worship=church", 
+    "public_place:education=school", 
+    "services:social_services=child_care", 
+    "sg:public_place=education", 
+    "sg:services=social_services", 
+    "public_place:education=preschool", 
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "church", 
     "churches-lutheran", 
@@ -23,6 +35,6 @@
     "organization", 
     "religious"
   ], 
-  "wof:brand_name": "Grace Lutheran Church", 
-  "wof:brand_id": 420575257
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416226
 }

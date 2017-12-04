@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414528, 
+  "wof:brand_name": "Deloitte", 
+  "wof:brand_id": 1125156953, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=management_and_consulting", 
+    "services:professional=computer_services", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:professional=engineering", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:real_estate=architect", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "accountant", 
     "consultant", 
@@ -12,6 +24,6 @@
     "engineer", 
     "financing"
   ], 
-  "wof:brand_name": "Deloitte", 
-  "wof:brand_id": 1125156953
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416289
 }

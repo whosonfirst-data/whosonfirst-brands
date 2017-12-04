@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414499, 
+  "wof:brand_name": "Ambulance Service", 
+  "wof:brand_id": 1125156695, 
+  "wof:categories": [
+    "sg:transportation=local_transit", 
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:services=health_services", 
+    "services:health_services=hospital", 
+    "sg:services=organizations", 
+    "services:health_services=clinic", 
+    "services:health_services=nursing_and_care_facility", 
+    "services:organizations=professional_association", 
+    "services:organizations=religious_organization", 
+    "services:professional=business_services", 
+    "sg:services=professional", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "ambulance", 
     "passenger", 
@@ -22,6 +37,6 @@
     "transportation", 
     "worship"
   ], 
-  "wof:brand_name": "Ambulance Service", 
-  "wof:brand_id": 1125156695
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416266
 }

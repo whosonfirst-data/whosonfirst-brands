@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414454, 
+  "wof:brand_name": "First Presbyterian Church", 
+  "wof:brand_id": 420573959, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "sg:public_place=place_of_worship", 
+    "public_place:place_of_worship=church", 
+    "sg:services=social_services", 
+    "services:social_services=child_care", 
+    "sg:public_place=education", 
+    "public_place:education=preschool", 
+    "public_place:education=school", 
+    "public_place:education=library"
+  ], 
   "wof:tags": [
     "church", 
     "churches-presbyterian-arp", 
@@ -34,6 +46,6 @@
     "pastoral", 
     "school"
   ], 
-  "wof:brand_name": "First Presbyterian Church", 
-  "wof:brand_id": 420573959
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416229
 }

@@ -1,6 +1,25 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414452, 
+  "wof:brand_name": "Children's Place", 
+  "wof:brand_id": 420575111, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:services=social_services", 
+    "services:social_services=child_care", 
+    "retail_goods:shopping=baby_store", 
+    "sg:services=organizations", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "public_place:education=preschool", 
+    "retail_goods:shopping=department_store", 
+    "services:organizations=nonprofit_organization", 
+    "services:organizations=religious_organization", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=education", 
+    "sg:public_place=shopping_center"
+  ], 
   "wof:tags": [
     "wear", 
     "infant", 
@@ -21,6 +40,6 @@
     "sales", 
     "store"
   ], 
-  "wof:brand_name": "Children's Place", 
-  "wof:brand_id": 420575111
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416227
 }

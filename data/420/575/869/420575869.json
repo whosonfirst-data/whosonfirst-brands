@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414444, 
+  "wof:brand_name": "Wilsons Leather", 
+  "wof:brand_id": 420575869, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=luggage_and_leather_goods", 
+    "manufacturing_and_wholesale_goods:manufacturing=leather_goods", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "leather", 
     "accessory", 
@@ -15,6 +24,6 @@
     "product", 
     "suede"
   ], 
-  "wof:brand_name": "Wilsons Leather", 
-  "wof:brand_id": 420575869
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416222
 }

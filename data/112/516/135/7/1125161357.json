@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414542, 
+  "wof:brand_name": "Action Realty", 
+  "wof:brand_id": 1125161357, 
+  "wof:categories": [
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_agent", 
+    "services:real_estate=real_estate_services", 
+    "services:real_estate=real_estate_operator", 
+    "services:insurance=insurance_agent", 
+    "services:real_estate=developer", 
+    "sg:services=insurance"
+  ], 
   "wof:tags": [
     "broker", 
     "buyer", 
@@ -14,6 +23,6 @@
     "maintenance", 
     "personal"
   ], 
-  "wof:brand_name": "Action Realty", 
-  "wof:brand_id": 1125161357
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416299
 }

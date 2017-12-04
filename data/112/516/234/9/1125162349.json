@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414538, 
+  "wof:brand_name": "Original Italian Pizza", 
+  "wof:brand_id": 1125162349, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "services:retail=auto_repair", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "pizza", 
     "eating", 
@@ -15,6 +23,6 @@
     "independent", 
     "product"
   ], 
-  "wof:brand_name": "Original Italian Pizza", 
-  "wof:brand_id": 1125162349
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416296
 }

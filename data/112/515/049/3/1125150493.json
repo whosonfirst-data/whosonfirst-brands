@@ -1,6 +1,27 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414500, 
+  "wof:brand_name": "Stop & Shop", 
+  "wof:brand_id": 1125150493, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=pharmacy", 
+    "sg:services=professional", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=florist", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:public_place=shopping_center", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "super", 
     "grocer", 
@@ -20,6 +41,6 @@
     "shop", 
     "wine"
   ], 
-  "wof:brand_name": "Stop & Shop", 
-  "wof:brand_id": 1125150493
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416267
 }

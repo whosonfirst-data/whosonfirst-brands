@@ -1,6 +1,32 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414535, 
+  "wof:brand_name": "Pro Image", 
+  "wof:brand_id": 1125158167, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "entertainment:sports_and_exercise=bicycle_rental", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional", 
+    "sg:services=personal", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:personal=barber", 
+    "services:retail=portrait_studio", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "manufacturing_and_wholesale_goods:wholesale=computers", 
+    "manufacturing_and_wholesale_goods:wholesale=motor_vehicles", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "manufacturing_and_wholesale_goods:wholesale=sporting_goods", 
+    "retail_goods:shopping=crafts_and_fabrics", 
+    "services:communications=film_and_video_production", 
+    "services:professional=advertising", 
+    "services:professional=art_services", 
+    "services:professional=business_services", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=communications"
+  ], 
   "wof:tags": [
     "sportswear", 
     "wear", 
@@ -43,6 +69,6 @@
     "tv", 
     "videography"
   ], 
-  "wof:brand_name": "Pro Image", 
-  "wof:brand_id": 1125158167
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416294
 }

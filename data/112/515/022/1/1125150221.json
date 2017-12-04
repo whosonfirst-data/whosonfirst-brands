@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414515, 
+  "wof:brand_name": "Natural Nails", 
+  "wof:brand_id": 1125150221, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon", 
+    "services:personal=day_spa", 
+    "services:personal=massage"
+  ], 
   "wof:tags": [
     "manicuring", 
     "shop", 
@@ -9,6 +16,6 @@
     "technician", 
     "therapist"
   ], 
-  "wof:brand_name": "Natural Nails", 
-  "wof:brand_id": 1125150221
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416278
 }

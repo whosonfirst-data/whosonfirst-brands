@@ -1,11 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414536, 
+  "wof:brand_name": "Media Expresse", 
+  "wof:brand_id": 1125157909, 
+  "wof:categories": [
+    "retail_goods:shopping=news", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "en", 
     "maandbladen", 
     "week-"
   ], 
-  "wof:brand_name": "Media Expresse", 
-  "wof:brand_id": 1125157909
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416295
 }

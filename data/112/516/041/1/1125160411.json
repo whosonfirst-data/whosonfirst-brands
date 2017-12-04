@@ -1,6 +1,32 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414552, 
+  "wof:brand_name": "Accent", 
+  "wof:brand_id": 1125160411, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "sg:services=professional", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=home_and_garden", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "retail_goods:home_and_garden=building_materials", 
+    "services:insurance=insurance_agent", 
+    "services:professional=business_services", 
+    "sg:services=insurance", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "manufacturing_and_wholesale_goods:manufacturing=furniture", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:shopping=shoes", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:personal=adult", 
+    "services:professional=art_services", 
+    "services:professional=employment_agencies", 
+    "services:social_services=job_training", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=personal", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "clothing", 
     "commercial", 
@@ -36,6 +62,6 @@
     "women's", 
     "work"
   ], 
-  "wof:brand_name": "Accent", 
-  "wof:brand_id": 1125160411
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416307
 }

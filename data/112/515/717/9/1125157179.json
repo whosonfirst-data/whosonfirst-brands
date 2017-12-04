@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414476, 
+  "wof:brand_name": "Hair Stop", 
+  "wof:brand_id": 1125157179, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "retail_goods:shopping=clothing_apparel_and_fashions"
+  ], 
   "wof:tags": [
     "shop", 
     "hairdresser", 
@@ -18,6 +29,6 @@
     "salons-equipment", 
     "stylist"
   ], 
-  "wof:brand_name": "Hair Stop", 
-  "wof:brand_id": 1125157179
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416247
 }

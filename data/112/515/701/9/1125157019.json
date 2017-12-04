@@ -1,6 +1,37 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414528, 
+  "wof:brand_name": "Morning Glory", 
+  "wof:brand_id": 1125157019, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:shopping=florist", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=paper_products", 
+    "retail_goods:shopping=department_store", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:wholesale=dairy", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "manufacturing_and_wholesale_goods:wholesale=home_furnishings", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=crafts_and_fabrics", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:building_and_trades=plumbing", 
+    "services:health_services=nursing_and_care_facility", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=building_and_trades", 
+    "sg:services=health_services", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "shop", 
     "card", 
@@ -37,6 +68,6 @@
     "supply", 
     "trees-silk"
   ], 
-  "wof:brand_name": "Morning Glory", 
-  "wof:brand_id": 1125157019
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416289
 }

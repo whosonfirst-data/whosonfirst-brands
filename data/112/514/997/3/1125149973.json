@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414560, 
+  "wof:brand_name": "Meineke Discount Mufflers", 
+  "wof:brand_id": 1125149973, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "sg:services=banks_and_credit_unions", 
+    "manufacturing_and_wholesale_goods:manufacturing=signs", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "retail_goods:shopping=department_store", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "exhaust", 
     "automotive", 
@@ -45,6 +60,6 @@
     "under", 
     "work"
   ], 
-  "wof:brand_name": "Meineke Discount Mufflers", 
-  "wof:brand_id": 1125149973
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416314
 }

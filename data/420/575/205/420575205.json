@@ -1,11 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414448, 
+  "wof:brand_name": "Dollond & Aitchison", 
+  "wof:brand_id": 420575205, 
+  "wof:categories": [
+    "retail_goods:shopping=optician", 
+    "sg:retail_goods=shopping", 
+    "services:health_services=optometrist", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "opthalmic", 
     "dispensing", 
     "optician"
   ], 
-  "wof:brand_name": "Dollond & Aitchison", 
-  "wof:brand_id": 420575205
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416224
 }

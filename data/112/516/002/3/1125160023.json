@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414542, 
+  "wof:brand_name": "Tcf Bank", 
+  "wof:brand_id": 1125160023, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=financial_services"
+  ], 
   "wof:tags": [
     "commercial", 
     "saving", 
@@ -10,6 +15,6 @@
     "institution", 
     "savings"
   ], 
-  "wof:brand_name": "Tcf Bank", 
-  "wof:brand_id": 1125160023
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416299
 }

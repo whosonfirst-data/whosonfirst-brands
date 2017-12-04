@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414463, 
+  "wof:brand_name": "Cellular One", 
+  "wof:brand_id": 420574601, 
+  "wof:categories": [
+    "sg:services=utilities", 
+    "services:utilities=mobile_phone", 
+    "sg:retail_goods=shopping", 
+    "services:utilities=telephone", 
+    "retail_goods:shopping=mobile_phones", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=electronics", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "services:building_and_trades=equipment_rental", 
+    "services:retail=repair_shop", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=building_and_trades", 
+    "sg:services=communications", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "cellular", 
     "telephone", 
@@ -43,6 +61,6 @@
     "tub", 
     "wood"
   ], 
-  "wof:brand_name": "Cellular One", 
-  "wof:brand_id": 420574601
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416236
 }

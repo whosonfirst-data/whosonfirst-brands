@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414537, 
+  "wof:brand_name": "Manhattan", 
+  "wof:brand_id": 1125162325, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=used_merchandise", 
+    "sg:food_and_drink=restaurant", 
+    "sg:services=real_estate", 
+    "sg:services=utilities", 
+    "retail_goods:food_and_beverages=bakery", 
+    "services:personal=beauty_salon", 
+    "services:real_estate=real_estate_agent", 
+    "services:real_estate=real_estate_operator", 
+    "services:utilities=mobile_phone", 
+    "services:utilities=telephone", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "furnishing", 
     "clothing", 
@@ -19,6 +36,6 @@
     "vintage", 
     "wi-fi"
   ], 
-  "wof:brand_name": "Manhattan", 
-  "wof:brand_id": 1125162325
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416296
 }

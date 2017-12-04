@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414471, 
+  "wof:brand_name": "Belk", 
+  "wof:brand_id": 1125150071, 
+  "wof:categories": [
+    "retail_goods:shopping=department_store", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:manufacturing=glass_and_minerals", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:home_and_garden=kitchen_supply", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=home_and_garden", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "china", 
     "crystal", 
@@ -23,6 +37,6 @@
     "family", 
     "system"
   ], 
-  "wof:brand_name": "Belk", 
-  "wof:brand_id": 1125150071
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416243
 }

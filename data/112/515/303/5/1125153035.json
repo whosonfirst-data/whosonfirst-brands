@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414466, 
+  "wof:brand_name": "Lanier Worldwide Inc", 
+  "wof:brand_id": 1125153035, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=office_equipment", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional", 
+    "services:building_and_trades=equipment_rental", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "services:professional=management_and_consulting", 
+    "services:professional=printing_and_photocopies", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "services:professional=advertising", 
+    "manufacturing_and_wholesale_goods:wholesale=furniture", 
+    "retail_goods:shopping=computers_and_home_electronics"
+  ], 
   "wof:tags": [
     "copying", 
     "machine", 
@@ -33,6 +51,6 @@
     "system", 
     "telephone"
   ], 
-  "wof:brand_name": "Lanier Worldwide Inc", 
-  "wof:brand_id": 1125153035
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416239
 }

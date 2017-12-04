@@ -1,11 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414510, 
+  "wof:brand_name": "Pizzeria Bella Italia", 
+  "wof:brand_id": 1125155967, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food"
+  ], 
   "wof:tags": [
     "pizzeria", 
     "away", 
     "take"
   ], 
-  "wof:brand_name": "Pizzeria Bella Italia", 
-  "wof:brand_id": 1125155967
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416274
 }

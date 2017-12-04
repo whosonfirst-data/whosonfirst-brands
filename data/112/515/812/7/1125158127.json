@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414482, 
+  "wof:brand_name": "Liquor Stores-Government", 
+  "wof:brand_id": 1125158127, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "store"
   ], 
-  "wof:brand_name": "Liquor Stores-Government", 
-  "wof:brand_id": 1125158127
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416252
 }

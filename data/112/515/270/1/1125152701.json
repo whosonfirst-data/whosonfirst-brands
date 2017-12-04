@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414498, 
+  "wof:brand_name": "China One", 
+  "wof:brand_id": 1125152701, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "manufacturing_and_wholesale_goods:manufacturing=glass_and_minerals", 
+    "sg:food_and_drink=fast_food", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "chinese", 
     "eating", 
@@ -11,6 +17,6 @@
     "glassware", 
     "take"
   ], 
-  "wof:brand_name": "China One", 
-  "wof:brand_id": 1125152701
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416265
 }

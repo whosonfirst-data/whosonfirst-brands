@@ -1,7 +1,10 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414498, 
-  "wof:tags": [], 
   "wof:brand_name": "Oxfam Wereldwinkel", 
-  "wof:brand_id": 1125151567
+  "wof:brand_id": 1125151567, 
+  "wof:categories": [
+    "sg:services=social_services"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416265
 }

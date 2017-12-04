@@ -1,6 +1,27 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414531, 
+  "wof:brand_name": "Bright Beginnings", 
+  "wof:brand_id": 1125154707, 
+  "wof:categories": [
+    "sg:services=social_services", 
+    "services:social_services=child_care", 
+    "sg:public_place=education", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional", 
+    "public_place:education=preschool", 
+    "public_place:education=school", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:health_services=clinic", 
+    "sg:services=health_services", 
+    "manufacturing_and_wholesale_goods:farming=nursery", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "services:organizations=nonprofit_organization", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:social_services=adult_care", 
+    "services:social_services=job_training", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:services=organizations", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "day", 
     "school", 
@@ -29,6 +50,6 @@
     "wear", 
     "welcoming"
   ], 
-  "wof:brand_name": "Bright Beginnings", 
-  "wof:brand_id": 1125154707
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416290
 }

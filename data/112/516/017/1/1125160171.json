@@ -1,6 +1,39 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414541, 
+  "wof:brand_name": "First Impression", 
+  "wof:brand_id": 1125160171, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "sg:services=professional", 
+    "sg:services=retail", 
+    "services:personal=barber", 
+    "services:retail=car_wash", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=shopping", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:professional=advertising", 
+    "services:professional=management_and_consulting", 
+    "manufacturing_and_wholesale_goods:manufacturing=signs", 
+    "public_place:structure=office_building", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "services:building_and_trades=construction", 
+    "services:organizations=community_association", 
+    "services:professional=art_services", 
+    "services:professional=printing_and_photocopies", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "services:retail=repair_shop", 
+    "sg:public_place=structure", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=organizations", 
+    "sg:transportation=local_transit"
+  ], 
   "wof:tags": [
     "shop", 
     "automobile", 
@@ -43,6 +76,6 @@
     "unisex", 
     "up"
   ], 
-  "wof:brand_name": "First Impression", 
-  "wof:brand_id": 1125160171
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416299
 }

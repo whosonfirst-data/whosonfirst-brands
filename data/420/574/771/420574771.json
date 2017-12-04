@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414457, 
+  "wof:brand_name": "The Surgery", 
+  "wof:brand_id": 420574771, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=doctor", 
+    "services:health_services=clinic", 
+    "services:health_services=dentist", 
+    "entertainment:travel=hotels_and_motels", 
+    "services:health_services=health_practitioner", 
+    "services:health_services=hospital", 
+    "services:health_services=podiatrist", 
+    "services:retail=auto_repair", 
+    "sg:entertainment=travel", 
+    "sg:services=retail", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "practitioners", 
     "nh", 
@@ -12,6 +26,6 @@
     "rust", 
     "servicing"
   ], 
-  "wof:brand_name": "The Surgery", 
-  "wof:brand_id": 420574771
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416231
 }

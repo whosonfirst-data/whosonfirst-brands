@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414528, 
+  "wof:brand_name": "Royal Hotel", 
+  "wof:brand_id": 1125151327, 
+  "wof:categories": [
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "public_place:community_center=social", 
+    "services:real_estate=real_estate_agent", 
+    "sg:public_place=community_center", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "accommodation", 
     "tavern", 
@@ -9,6 +18,6 @@
     "hotel", 
     "motel"
   ], 
-  "wof:brand_name": "Royal Hotel", 
-  "wof:brand_id": 1125151327
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416289
 }

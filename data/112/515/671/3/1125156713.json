@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414464, 
+  "wof:brand_name": "Car-X Auto Service", 
+  "wof:brand_id": 1125156713, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "public_place:government=office", 
+    "services:professional=advertising", 
+    "sg:public_place=government", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "tire", 
     "exhaust", 
@@ -24,6 +34,6 @@
     "supply", 
     "truck"
   ], 
-  "wof:brand_name": "Car-X Auto Service", 
-  "wof:brand_id": 1125156713
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416237
 }

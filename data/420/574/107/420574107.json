@@ -1,6 +1,37 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414458, 
+  "wof:brand_name": "Knights Of Columbus", 
+  "wof:brand_id": 420574107, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=community_association", 
+    "services:organizations=membership_organization", 
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:organizations=professional_association", 
+    "sg:entertainment=recreation", 
+    "services:real_estate=real_estate_operator", 
+    "sg:services=professional", 
+    "sg:services=real_estate", 
+    "services:professional=employment_agencies", 
+    "sg:services=social_services", 
+    "services:organizations=religious_organization", 
+    "sg:services=retail", 
+    "services:retail=event_space", 
+    "sg:food_and_drink=restaurant", 
+    "sg:public_place=exhibition_hall", 
+    "sg:services=personal", 
+    "public_place:education=college", 
+    "sg:public_place=education", 
+    "entertainment:sports_and_exercise=sports_center", 
+    "services:organizations=nonprofit_organization", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "entertainment:travel=hotels_and_motels", 
+    "services:insurance=hazard_insurance", 
+    "services:professional=research", 
+    "services:retail=repair_shop", 
+    "sg:entertainment=travel"
+  ], 
   "wof:tags": [
     "fraternal", 
     "club", 
@@ -51,6 +82,6 @@
     "union", 
     "welfare"
   ], 
-  "wof:brand_name": "Knights Of Columbus", 
-  "wof:brand_id": 420574107
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416232
 }

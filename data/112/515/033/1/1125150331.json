@@ -1,6 +1,30 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414535, 
+  "wof:brand_name": "Papyrus", 
+  "wof:brand_id": 1125150331, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "retail_goods:shopping=books", 
+    "sg:services=professional", 
+    "entertainment:travel=hotels_and_motels", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:building_and_trades=landscaping_services", 
+    "services:professional=engineering", 
+    "services:professional=printing_and_photocopies", 
+    "services:utilities=telephone", 
+    "sg:entertainment=travel", 
+    "sg:food_and_drink=restaurant", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=building_and_trades", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "card", 
     "greeting", 
@@ -35,6 +59,6 @@
     "supply", 
     "wedding"
   ], 
-  "wof:brand_name": "Papyrus", 
-  "wof:brand_id": 1125150331
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416294
 }

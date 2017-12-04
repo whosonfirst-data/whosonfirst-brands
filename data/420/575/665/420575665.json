@@ -1,6 +1,33 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414449, 
+  "wof:brand_name": "Wild Birds Unlimited", 
+  "wof:brand_id": 420575665, 
+  "wof:categories": [
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=pets_and_pet_supplies", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=farm_supplies", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=pet_food", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "services:retail=animal_services", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:farming=livestock_farm", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:retail_goods=food_and_beverages", 
+    "manufacturing_and_wholesale_goods:manufacturing=toys_and_sporting_goods", 
+    "retail_goods:food_and_beverages=meat_and_fish", 
+    "retail_goods:food_and_beverages=specialty", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:shopping=optical_goods", 
+    "services:building_and_trades=landscaping_services", 
+    "sg:services=building_and_trades", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "bird", 
     "feeder", 
@@ -60,6 +87,6 @@
     "various", 
     "wild"
   ], 
-  "wof:brand_name": "Wild Birds Unlimited", 
-  "wof:brand_id": 420575665
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416225
 }

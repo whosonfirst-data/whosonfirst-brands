@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414536, 
+  "wof:brand_name": "Hair Express", 
+  "wof:brand_id": 1125150439, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "sg:retail_goods=shopping", 
+    "services:personal=skin_care"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
@@ -11,6 +18,6 @@
     "perfume", 
     "product"
   ], 
-  "wof:brand_name": "Hair Express", 
-  "wof:brand_id": 1125150439
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416295
 }

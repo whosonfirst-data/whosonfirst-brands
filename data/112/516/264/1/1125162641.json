@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414549, 
+  "wof:brand_name": "Flower Box", 
+  "wof:brand_id": 1125162641, 
+  "wof:categories": [
+    "retail_goods:shopping=florist", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "center", 
     "establishment", 
@@ -10,6 +17,6 @@
     "portrait", 
     "studio"
   ], 
-  "wof:brand_name": "Flower Box", 
-  "wof:brand_id": 1125162641
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416305
 }

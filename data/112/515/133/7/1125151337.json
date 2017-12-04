@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414481, 
+  "wof:brand_name": "United Church of Canada", 
+  "wof:brand_id": 1125151337, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "church"
   ], 
-  "wof:brand_name": "United Church of Canada", 
-  "wof:brand_id": 1125151337
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416251
 }

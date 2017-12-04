@@ -1,6 +1,38 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414445, 
+  "wof:brand_name": "Sam's Club", 
+  "wof:brand_id": 420575241, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:shopping=pharmacy", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "services:organizations=community_association", 
+    "sg:services=organizations", 
+    "retail_goods:shopping=florist", 
+    "services:health_services=optometrist", 
+    "sg:services=health_services", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:shopping=optician", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:wholesale=computers", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "services:professional=art_services", 
+    "services:retail=portrait_studio", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "manufacturing_and_wholesale_goods:wholesale=toys_and_hobbies", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "retail_goods:shopping=optical_goods", 
+    "services:real_estate=real_estate_operator", 
+    "services:retail=photofinishing", 
+    "sg:services=real_estate", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "club", 
     "wholesale", 
@@ -27,6 +59,6 @@
     "warehouse", 
     "wholesaler"
   ], 
-  "wof:brand_name": "Sam's Club", 
-  "wof:brand_id": 420575241
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416223
 }

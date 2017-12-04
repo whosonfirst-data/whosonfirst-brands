@@ -1,10 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414448, 
+  "wof:brand_name": "RBC Centura Bank", 
+  "wof:brand_id": 420575653, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "state", 
     "commercial"
   ], 
-  "wof:brand_name": "RBC Centura Bank", 
-  "wof:brand_id": 420575653
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416225
 }

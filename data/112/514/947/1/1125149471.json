@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414560, 
+  "wof:brand_name": "Shoe Department", 
+  "wof:brand_id": 1125149471, 
+  "wof:categories": [
+    "retail_goods:shopping=shoes", 
+    "sg:retail_goods=shopping", 
+    "services:personal=shoe_repair_and_shine", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "store", 
     "equipment", 
@@ -10,6 +16,6 @@
     "shop", 
     "supply"
   ], 
-  "wof:brand_name": "Shoe Department", 
-  "wof:brand_id": 1125149471
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416314
 }

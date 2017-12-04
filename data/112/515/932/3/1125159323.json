@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414504, 
+  "wof:brand_name": "New Light Baptist Church", 
+  "wof:brand_id": 1125159323, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship"
+  ], 
   "wof:tags": [
     "church", 
     "churches-baptist", 
@@ -13,6 +19,6 @@
     "day", 
     "pastoral"
   ], 
-  "wof:brand_name": "New Light Baptist Church", 
-  "wof:brand_id": 1125159323
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416269
 }

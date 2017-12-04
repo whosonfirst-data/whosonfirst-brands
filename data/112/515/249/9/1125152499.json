@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414465, 
+  "wof:brand_name": "Town Clerk", 
+  "wof:brand_id": 1125152499, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government"
+  ], 
   "wof:tags": [
     "city", 
     "town", 
@@ -13,6 +17,6 @@
     "township", 
     "village"
   ], 
-  "wof:brand_name": "Town Clerk", 
-  "wof:brand_id": 1125152499
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416238
 }

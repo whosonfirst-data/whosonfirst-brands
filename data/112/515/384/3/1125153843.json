@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414520, 
+  "wof:brand_name": "Bassett Furniture Direct", 
+  "wof:brand_id": 1125153843, 
+  "wof:categories": [
+    "retail_goods:home_and_garden=furniture", 
+    "sg:retail_goods=home_and_garden", 
+    "manufacturing_and_wholesale_goods:manufacturing=furniture", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=furniture", 
+    "retail_goods:home_and_garden=carpets_and_floor_coverings", 
+    "manufacturing_and_wholesale_goods:wholesale=home_furnishings", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "services:building_and_trades=construction", 
+    "services:professional=business_services", 
+    "sg:retail_goods=shopping", 
+    "sg:services=building_and_trades", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "store", 
     "builder", 
@@ -20,6 +36,6 @@
     "interior", 
     "shade"
   ], 
-  "wof:brand_name": "Bassett Furniture Direct", 
-  "wof:brand_id": 1125153843
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416282
 }

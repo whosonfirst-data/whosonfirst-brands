@@ -1,6 +1,30 @@
 {
   "wof:brand_name": "Lucent Technologies", 
   "wof:brand_id": 1125154335, 
+  "wof:categories": [
+    "services:utilities=telephone", 
+    "sg:services=utilities", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=electronics", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "services:professional=computer_services", 
+    "services:building_and_trades=electrical", 
+    "services:professional=management_and_consulting", 
+    "sg:services=building_and_trades", 
+    "services:professional=business_services", 
+    "sg:retail_goods=shopping", 
+    "sg:services=communications", 
+    "services:professional=research", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "services:retail=repair_shop", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:wholesale=computers", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:professional=detective_and_security_services"
+  ], 
   "wof:tags": [
     "telecommunication", 
     "equipment", 
@@ -78,6 +102,6 @@
     1125151275
   ], 
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414470, 
+  "wof:lastmodified": 1512416242, 
   "mz:is_current": 1
 }

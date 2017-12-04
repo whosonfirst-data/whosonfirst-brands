@@ -1,6 +1,30 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414484, 
+  "wof:brand_name": "Ticketmaster", 
+  "wof:brand_id": 1125154009, 
+  "wof:categories": [
+    "sg:entertainment=recreation", 
+    "entertainment:arena=sports_club", 
+    "sg:entertainment=arena", 
+    "sg:entertainment=arts_and_performance", 
+    "entertainment:arts_and_performance=arts_center", 
+    "entertainment:recreation=amusement_park", 
+    "entertainment:arts_and_performance=theater", 
+    "services:retail=event_space", 
+    "sg:services=retail", 
+    "entertainment:recreation=picnic_area", 
+    "retail_goods:shopping=event_tickets", 
+    "sg:public_place=community_center", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional", 
+    "entertainment:arts_and_performance=music", 
+    "entertainment:travel=travel_agent", 
+    "services:professional=computer_services", 
+    "services:professional=management_and_consulting", 
+    "services:utilities=telephone", 
+    "sg:entertainment=travel", 
+    "sg:services=personal", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "ticket", 
     "sale", 
@@ -29,6 +53,6 @@
     "venue", 
     "web"
   ], 
-  "wof:brand_name": "Ticketmaster", 
-  "wof:brand_id": 1125154009
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416253
 }

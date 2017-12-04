@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414490, 
+  "wof:brand_name": "Dryclean USA", 
+  "wof:brand_id": 1125150547, 
+  "wof:categories": [
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "cleaners", 
     "plant", 
@@ -17,6 +23,6 @@
     "equipment", 
     "laundry"
   ], 
-  "wof:brand_name": "Dryclean USA", 
-  "wof:brand_id": 1125150547
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416258
 }

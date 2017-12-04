@@ -1,6 +1,40 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414546, 
+  "wof:brand_name": "Dimensions", 
+  "wof:brand_id": 1125162617, 
+  "wof:categories": [
+    "services:personal=beauty_salon", 
+    "sg:services=personal", 
+    "sg:services=professional", 
+    "sg:retail_goods=shopping", 
+    "services:professional=business_services", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:organizations=religious_organization", 
+    "services:professional=management_and_consulting", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=organizations", 
+    "entertainment:sports_and_exercise=gym", 
+    "manufacturing_and_wholesale_goods:manufacturing=paper_products", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:food_and_beverages=specialty", 
+    "retail_goods:home_and_garden=carpets_and_floor_coverings", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:shopping=books", 
+    "retail_goods:shopping=catalog_store", 
+    "retail_goods:shopping=news", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "services:building_and_trades=construction", 
+    "services:health_services=clinic", 
+    "services:social_services=job_training", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:food_and_drink=restaurant", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=building_and_trades", 
+    "sg:services=health_services", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "health", 
     "shop", 
@@ -31,6 +65,6 @@
     "to", 
     "woodworker"
   ], 
-  "wof:brand_name": "Dimensions", 
-  "wof:brand_id": 1125162617
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416302
 }

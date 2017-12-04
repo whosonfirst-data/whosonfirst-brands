@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414537, 
+  "wof:brand_name": "Parsonage", 
+  "wof:brand_id": 1125160611, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "sg:services=professional", 
+    "entertainment:travel=hotels_and_motels", 
+    "public_place:place_of_worship=church", 
+    "sg:entertainment=travel", 
+    "sg:public_place=place_of_worship", 
+    "entertainment:travel=bed_and_breakfast"
+  ], 
   "wof:tags": [
     "establishment", 
     "clergy", 
@@ -15,6 +25,6 @@
     "churches-various", 
     "denomination"
   ], 
-  "wof:brand_name": "Parsonage", 
-  "wof:brand_id": 1125160611
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416296
 }

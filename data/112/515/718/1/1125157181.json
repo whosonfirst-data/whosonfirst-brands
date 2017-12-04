@@ -1,10 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414529, 
+  "wof:brand_name": "IGA Everyday", 
+  "wof:brand_id": 1125157181, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores"
+  ], 
   "wof:tags": [
     "grocery", 
     "store"
   ], 
-  "wof:brand_name": "IGA Everyday", 
-  "wof:brand_id": 1125157181
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416289
 }

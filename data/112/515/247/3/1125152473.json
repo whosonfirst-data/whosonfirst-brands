@@ -1,6 +1,39 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414493, 
+  "wof:brand_name": "Finders Keepers", 
+  "wof:brand_id": 1125152473, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=used_merchandise", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=furniture", 
+    "sg:services=professional", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:shopping=antiques", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "services:professional=accounting_and_tax_preparation", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "manufacturing_and_wholesale_goods:wholesale=scrap", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:shopping=catalog_store", 
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "services:organizations=nonprofit_organization", 
+    "services:professional=business_services", 
+    "services:professional=detective_and_security_services", 
+    "services:professional=research", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=building_and_trades", 
+    "sg:services=organizations", 
+    "sg:services=retail", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "shop", 
     "consignment", 
@@ -43,6 +76,6 @@
     "wholesaler", 
     "women's"
   ], 
-  "wof:brand_name": "Finders Keepers", 
-  "wof:brand_id": 1125152473
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416261
 }

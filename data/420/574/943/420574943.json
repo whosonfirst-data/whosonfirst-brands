@@ -1,6 +1,36 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414460, 
+  "wof:brand_name": "Southwestern Bell Telephone LP", 
+  "wof:brand_id": 420574943, 
+  "wof:categories": [
+    "sg:services=utilities", 
+    "services:utilities=telephone", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "services:professional=business_services", 
+    "services:professional=computer_services", 
+    "sg:services=building_and_trades", 
+    "public_place:education=vocational_school", 
+    "services:building_and_trades=electrical", 
+    "services:professional=engineering", 
+    "services:real_estate=real_estate_agent", 
+    "services:retail=repair_shop", 
+    "services:utilities=mobile_phone", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:public_place=education", 
+    "sg:retail_goods=shopping", 
+    "sg:services=real_estate", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "services:building_and_trades=construction", 
+    "services:organizations=professional_association", 
+    "services:professional=advertising", 
+    "services:professional=lawyer_and_legal_services", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=organizations", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "communication", 
     "communications", 
@@ -40,6 +70,6 @@
     "system", 
     "telegraph"
   ], 
-  "wof:brand_name": "Southwestern Bell Telephone LP", 
-  "wof:brand_id": 420574943
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416234
 }

@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414447, 
+  "wof:brand_name": "Eckerd Drugs", 
+  "wof:brand_id": 420575487, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=pharmacy", 
+    "sg:services=retail", 
+    "services:retail=portrait_studio", 
+    "services:retail=photofinishing", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "retail_goods:shopping=photographic_equipment", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "drugstore", 
     "store", 
@@ -12,6 +23,6 @@
     "drug", 
     "supply"
   ], 
-  "wof:brand_name": "Eckerd Drugs", 
-  "wof:brand_id": 420575487
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416224
 }

@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414486, 
+  "wof:brand_name": "Pantry Inc", 
+  "wof:brand_id": 1125154067, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:building_and_trades=landscaping_services", 
+    "sg:retail_goods=shopping", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "gasoline", 
     "grocery", 
@@ -11,6 +23,6 @@
     "eating", 
     "gas"
   ], 
-  "wof:brand_name": "Pantry Inc", 
-  "wof:brand_id": 1125154067
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416255
 }

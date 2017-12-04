@@ -1,10 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414456, 
+  "wof:brand_name": "Openbare Bibliotheek", 
+  "wof:brand_id": 420574891, 
+  "wof:categories": [
+    "public_place:education=preschool", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "basis-", 
     "kleuteronderwijs"
   ], 
-  "wof:brand_name": "Openbare Bibliotheek", 
-  "wof:brand_id": 420574891
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416230
 }

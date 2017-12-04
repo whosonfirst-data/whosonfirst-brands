@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414516, 
+  "wof:brand_name": "Umpqua Bank", 
+  "wof:brand_id": 1125153493, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=investment_brokerage"
+  ], 
   "wof:tags": [
     "commercial", 
     "saving", 
@@ -19,6 +25,6 @@
     "real estate", 
     "security"
   ], 
-  "wof:brand_name": "Umpqua Bank", 
-  "wof:brand_id": 1125153493
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416279
 }

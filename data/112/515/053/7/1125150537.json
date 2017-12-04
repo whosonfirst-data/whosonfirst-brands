@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414532, 
+  "wof:brand_name": "Atlas Copco Rental Svc Corp", 
+  "wof:brand_id": 1125150537, 
+  "wof:categories": [
+    "services:building_and_trades=equipment_rental", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "contractor", 
     "yard", 
@@ -13,6 +23,6 @@
     "lawn", 
     "miscellaneous"
   ], 
-  "wof:brand_name": "Atlas Copco Rental Svc Corp", 
-  "wof:brand_id": 1125150537
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416291
 }

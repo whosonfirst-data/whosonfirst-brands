@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414540, 
+  "wof:brand_name": "Carstar", 
+  "wof:brand_id": 1125162167, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "body", 
     "automotive", 
@@ -18,6 +24,6 @@
     "patent", 
     "tire"
   ], 
-  "wof:brand_name": "Carstar", 
-  "wof:brand_id": 1125162167
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416298
 }

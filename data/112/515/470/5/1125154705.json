@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414531, 
+  "wof:brand_name": "Bon Marche", 
+  "wof:brand_id": 1125154705, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=used_merchandise", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=gifts_and_souvenirs"
+  ], 
   "wof:tags": [
     "ladieswear", 
     "fashionwear", 
@@ -10,6 +18,6 @@
     "hairdressing", 
     "supply"
   ], 
-  "wof:brand_name": "Bon Marche", 
-  "wof:brand_id": 1125154705
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416290
 }

@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414497, 
+  "wof:brand_name": "Daphne's Greek Cafe", 
+  "wof:brand_id": 1125156065, 
+  "wof:categories": [
+    "sg:food_and_drink=cafe", 
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "sg:food_and_drink=coffee_and_tea"
+  ], 
   "wof:tags": [
     "greek", 
     "mediterranean", 
@@ -9,6 +15,6 @@
     "espresso", 
     "vietnamese"
   ], 
-  "wof:brand_name": "Daphne's Greek Cafe", 
-  "wof:brand_id": 1125156065
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416264
 }

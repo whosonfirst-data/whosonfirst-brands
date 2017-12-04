@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414548, 
+  "wof:brand_name": "Pets Corner", 
+  "wof:brand_id": 1125161943, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=pets_and_pet_supplies", 
+    "public_place:landmark=tourist_attraction", 
+    "sg:public_place=landmark", 
+    "entertainment:recreation=dog_park", 
+    "manufacturing_and_wholesale_goods:manufacturing=pet_food", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "public_place:government=office", 
+    "services:building_and_trades=landscaping_services", 
+    "services:professional=business_services", 
+    "sg:entertainment=recreation", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=government", 
+    "sg:services=building_and_trades", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "shop", 
     "interest", 
@@ -17,6 +35,6 @@
     "product", 
     "store"
   ], 
-  "wof:brand_name": "Pets Corner", 
-  "wof:brand_id": 1125161943
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416304
 }

@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414539, 
+  "wof:brand_name": "Assessors Office", 
+  "wof:brand_id": 1125161699, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "services:professional=lawyer_and_legal_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "policy", 
     "taxation", 
@@ -21,6 +27,6 @@
     "values", 
     "village"
   ], 
-  "wof:brand_name": "Assessors Office", 
-  "wof:brand_id": 1125161699
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416297
 }

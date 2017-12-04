@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414509, 
+  "wof:brand_name": "Staples the Office Superstore", 
+  "wof:brand_id": 1125152489, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "services:professional=printing_and_photocopies", 
+    "sg:services=professional", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "manufacturing_and_wholesale_goods:wholesale=computers", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "equipment", 
     "printing", 
@@ -11,6 +22,6 @@
     "duplicating", 
     "limo"
   ], 
-  "wof:brand_name": "Staples the Office Superstore", 
-  "wof:brand_id": 1125152489
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416274
 }

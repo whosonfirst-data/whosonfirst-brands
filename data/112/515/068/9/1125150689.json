@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414512, 
+  "wof:brand_name": "Simply Fashions", 
+  "wof:brand_id": 1125150689, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=department_store", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "accessory", 
     "clothing", 
@@ -10,6 +17,6 @@
     "store", 
     "wear"
   ], 
-  "wof:brand_name": "Simply Fashions", 
-  "wof:brand_id": 1125150689
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416276
 }

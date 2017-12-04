@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414526, 
+  "wof:brand_name": "Internal Revenue Service", 
+  "wof:brand_id": 1125150047, 
+  "wof:categories": [
+    "sg:public_place=government", 
+    "public_place:government=office", 
+    "services:professional=accounting_and_tax_preparation", 
+    "sg:services=professional", 
+    "public_place:government=city_hall", 
+    "public_place:government=court_house"
+  ], 
   "wof:tags": [
     "policy", 
     "taxation", 
@@ -24,6 +32,6 @@
     "preparation", 
     "taxpayer"
   ], 
-  "wof:brand_name": "Internal Revenue Service", 
-  "wof:brand_id": 1125150047
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416287
 }

@@ -1,6 +1,25 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414477, 
+  "wof:brand_name": "Burlington Northern", 
+  "wof:brand_id": 1125150857, 
+  "wof:categories": [
+    "sg:transportation=railroad", 
+    "sg:transportation=freight", 
+    "manufacturing_and_wholesale_goods:manufacturing=motor_vehicles_and_parts", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:transportation=local_transit", 
+    "services:retail=repair_shop", 
+    "sg:services=building_and_trades", 
+    "sg:services=professional", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:wholesale=metals_and_minerals", 
+    "services:building_and_trades=construction", 
+    "services:building_and_trades=electrical", 
+    "services:insurance=insurance_agent", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=management_and_consulting", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=insurance"
+  ], 
   "wof:tags": [
     "line", 
     "operator", 
@@ -37,6 +56,6 @@
     "truck", 
     "trucking"
   ], 
-  "wof:brand_name": "Burlington Northern", 
-  "wof:brand_id": 1125150857
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416247
 }

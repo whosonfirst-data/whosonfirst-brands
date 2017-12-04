@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414532, 
+  "wof:brand_name": "Gullivers", 
+  "wof:brand_id": 1125155373, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=shoes", 
+    "retail_goods:shopping=luggage_and_leather_goods", 
+    "entertainment:sports_and_exercise=athletic_track", 
+    "sg:entertainment=sports_and_exercise", 
+    "services:personal=shoe_repair_and_shine", 
+    "sg:food_and_drink=restaurant", 
+    "sg:services=personal", 
+    "entertainment:travel=hotels_and_motels", 
+    "manufacturing_and_wholesale_goods:wholesale=photographic_equipment", 
+    "retail_goods:food_and_beverages=meat_and_fish", 
+    "retail_goods:shopping=news", 
+    "retail_goods:shopping=pets_and_pet_supplies", 
+    "services:building_and_trades=construction", 
+    "sg:entertainment=travel", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "shop", 
     "leathergoods", 
@@ -15,6 +35,6 @@
     "house", 
     "newsagent"
   ], 
-  "wof:brand_name": "Gullivers", 
-  "wof:brand_id": 1125155373
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416292
 }

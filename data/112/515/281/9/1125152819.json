@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414507, 
+  "wof:brand_name": "Scientific Games", 
+  "wof:brand_id": 1125152819, 
+  "wof:categories": [
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "sg:retail_goods=shopping", 
+    "sg:entertainment=recreation", 
+    "sg:services=professional", 
+    "services:professional=computer_services", 
+    "services:retail=repair_shop", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "supply", 
     "hobby", 
@@ -11,6 +20,6 @@
     "electrical", 
     "establishment"
   ], 
-  "wof:brand_name": "Scientific Games", 
-  "wof:brand_id": 1125152819
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416272
 }

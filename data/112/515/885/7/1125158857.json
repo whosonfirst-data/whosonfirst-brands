@@ -1,6 +1,36 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414483, 
+  "wof:brand_name": "Spot", 
+  "wof:brand_id": 1125158857, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:food_and_drink=restaurant", 
+    "sg:services=personal", 
+    "sg:services=professional", 
+    "services:personal=barber", 
+    "sg:entertainment=recreation", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:shopping=pets_and_pet_supplies", 
+    "retail_goods:shopping=shoes", 
+    "services:personal=beauty_salon", 
+    "services:retail=animal_services", 
+    "sg:services=retail", 
+    "entertainment:recreation=arcade", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "retail_goods:shopping=music", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:health_services=doctor", 
+    "services:organizations=nonprofit_organization", 
+    "services:utilities=mobile_phone", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=animal_shelter", 
+    "sg:services=health_services", 
+    "sg:services=organizations", 
+    "sg:services=social_services", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "establishment", 
     "club", 
@@ -40,6 +70,6 @@
     "washing", 
     "youth"
   ], 
-  "wof:brand_name": "Spot", 
-  "wof:brand_id": 1125158857
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416252
 }

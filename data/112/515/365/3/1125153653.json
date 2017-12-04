@@ -1,6 +1,28 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414500, 
+  "wof:brand_name": "Weyerhaeuser Co", 
+  "wof:brand_id": 1125153653, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:manufacturing=paper_products", 
+    "manufacturing_and_wholesale_goods:wholesale=construction_materials", 
+    "manufacturing_and_wholesale_goods:manufacturing=lumber", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=retail_goods", 
+    "retail_goods:home_and_garden=building_materials", 
+    "sg:retail_goods=home_and_garden", 
+    "manufacturing_and_wholesale_goods:manufacturing=building_materials", 
+    "manufacturing_and_wholesale_goods:manufacturing=wood_products", 
+    "services:professional=research", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "manufacturing_and_wholesale_goods:wholesale=scrap", 
+    "services:professional=art_services", 
+    "services:professional=business_services", 
+    "services:professional=testing_lab", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "box", 
     "fiber", 
@@ -48,6 +70,6 @@
     "tract", 
     "trucking"
   ], 
-  "wof:brand_name": "Weyerhaeuser Co", 
-  "wof:brand_id": 1125153653
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416267
 }

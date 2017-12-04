@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414556, 
+  "wof:brand_name": "White Castle", 
+  "wof:brand_id": 1125148929, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "eat_and_drink:eat=burger", 
+    "retail_goods:food_and_beverages=meat_and_fish", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "american", 
     "burger", 
@@ -12,6 +19,6 @@
     "restaurant", 
     "traditional"
   ], 
-  "wof:brand_name": "White Castle", 
-  "wof:brand_id": 1125148929
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416311
 }

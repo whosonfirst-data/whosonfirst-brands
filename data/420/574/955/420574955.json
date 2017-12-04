@@ -1,6 +1,40 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414458, 
+  "wof:brand_name": "Express", 
+  "wof:brand_id": 420574955, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:food_and_drink=restaurant", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=food_and_beverages", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:services=professional", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:food_and_beverages=specialty", 
+    "services:professional=business_services", 
+    "sg:services=retail", 
+    "entertainment:recreation=dance_hall", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "public_place:education=special_training", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "retail_goods:shopping=mobile_phones", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:building_and_trades=construction", 
+    "services:personal=shoe_repair_and_shine", 
+    "services:retail=auto_rental", 
+    "services:retail=auto_repair", 
+    "sg:entertainment=recreation", 
+    "sg:food_and_drink=coffee_and_tea", 
+    "sg:public_place=education", 
+    "sg:public_place=shopping_center", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=building_and_trades", 
+    "sg:services=personal", 
+    "sg:transportation=bus_charters"
+  ], 
   "wof:tags": [
     "women's", 
     "clothing", 
@@ -42,6 +76,6 @@
     "tea", 
     "woman"
   ], 
-  "wof:brand_name": "Express", 
-  "wof:brand_id": 420574955
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416233
 }

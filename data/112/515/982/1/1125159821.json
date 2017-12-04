@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414530, 
+  "wof:brand_name": "Car Wash", 
+  "wof:brand_id": 1125159821, 
+  "wof:categories": [
+    "services:retail=car_wash", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "washing", 
     "polishing", 
@@ -16,6 +24,6 @@
     "truck", 
     "used"
   ], 
-  "wof:brand_name": "Car Wash", 
-  "wof:brand_id": 1125159821
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416290
 }

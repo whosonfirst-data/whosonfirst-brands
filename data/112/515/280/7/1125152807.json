@@ -1,12 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414496, 
+  "wof:brand_name": "Partena", 
+  "wof:brand_id": 1125152807, 
+  "wof:categories": [
+    "services:professional=management_and_consulting", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "-", 
     "consultant", 
     "legislation", 
     "social"
   ], 
-  "wof:brand_name": "Partena", 
-  "wof:brand_id": 1125152807
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416264
 }

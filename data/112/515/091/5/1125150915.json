@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414467, 
+  "wof:brand_name": "Europcar", 
+  "wof:brand_id": 1125150915, 
+  "wof:categories": [
+    "services:retail=auto_rental", 
+    "sg:services=retail", 
+    "entertainment:travel=travel_agent", 
+    "services:professional=management_and_consulting", 
+    "sg:entertainment=travel", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "car", 
     "hire", 
@@ -10,6 +18,6 @@
     "program", 
     "truck"
   ], 
-  "wof:brand_name": "Europcar", 
-  "wof:brand_id": 1125150915
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416239
 }

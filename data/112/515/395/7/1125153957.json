@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414523, 
+  "wof:brand_name": "Figaro's Pizza", 
+  "wof:brand_id": 1125153957, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food"
+  ], 
   "wof:tags": [
     "pizza", 
     "american", 
@@ -8,6 +12,6 @@
     "eating", 
     "take"
   ], 
-  "wof:brand_name": "Figaro's Pizza", 
-  "wof:brand_id": 1125153957
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416284
 }

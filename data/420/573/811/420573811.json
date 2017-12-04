@@ -1,6 +1,31 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414453, 
+  "wof:brand_name": "American Legion", 
+  "wof:brand_id": 420573811, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=community_association", 
+    "services:organizations=membership_organization", 
+    "sg:services=social_services", 
+    "sg:services=professional", 
+    "services:professional=employment_agencies", 
+    "services:organizations=professional_association", 
+    "sg:entertainment=recreation", 
+    "services:organizations=nonprofit_organization", 
+    "services:retail=event_space", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:services=retail", 
+    "services:real_estate=real_estate_operator", 
+    "sg:services=real_estate", 
+    "sg:food_and_drink=restaurant", 
+    "food_and_drink:bars_and_pubs=nightclub", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "public_place:community_center=social", 
+    "services:professional=business_services", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:public_place=community_center", 
+    "sg:services=personal", 
+    "sg:transportation=local_transit"
+  ], 
   "wof:tags": [
     "military", 
     "veteran", 
@@ -50,6 +75,6 @@
     "sport", 
     "war"
   ], 
-  "wof:brand_name": "American Legion", 
-  "wof:brand_id": 420573811
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416229
 }

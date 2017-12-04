@@ -1,6 +1,40 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414518, 
+  "wof:brand_name": "Timeless Treasures", 
+  "wof:brand_id": 1125153127, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=used_merchandise", 
+    "sg:services=professional", 
+    "sg:services=retail", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "services:retail=repair_shop", 
+    "retail_goods:shopping=catalog_store", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "retail_goods:shopping=jewelry", 
+    "services:professional=business_services", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=home_and_garden", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "retail_goods:shopping=antiques", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=florist", 
+    "services:retail=portrait_studio", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "manufacturing_and_wholesale_goods:manufacturing=furniture", 
+    "manufacturing_and_wholesale_goods:manufacturing=jewelry", 
+    "manufacturing_and_wholesale_goods:manufacturing=wood_products", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "manufacturing_and_wholesale_goods:wholesale=jewelry", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=crafts_and_fabrics", 
+    "services:banks_and_credit_unions=bank", 
+    "services:professional=art_services", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "shop", 
     "antique", 
@@ -45,6 +79,6 @@
     "watch", 
     "wood"
   ], 
-  "wof:brand_name": "Timeless Treasures", 
-  "wof:brand_id": 1125153127
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416280
 }

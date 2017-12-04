@@ -1,6 +1,29 @@
 {
   "wof:brand_name": "Brookstone", 
   "wof:brand_id": 1125152641, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:health_services=nursing_and_care_facility", 
+    "sg:services=health_services", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:shopping=department_store", 
+    "sg:services=professional", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:home_and_garden=hardware", 
+    "manufacturing_and_wholesale_goods:wholesale=medical_equipment_and_supplies", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "retail_goods:shopping=luggage_and_leather_goods", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "services:building_and_trades=construction", 
+    "services:professional=advertising", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "shop", 
     "store", 
@@ -32,6 +55,6 @@
     1125151169
   ], 
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414519, 
+  "wof:lastmodified": 1512416281, 
   "mz:is_current": 1
 }

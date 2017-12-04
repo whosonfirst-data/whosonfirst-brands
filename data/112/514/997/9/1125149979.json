@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414560, 
+  "wof:brand_name": "Sir Speedy Printing Ctr", 
+  "wof:brand_id": 1125149979, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=professional", 
+    "services:professional=printing_and_photocopies", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "services:professional=art_services", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "printer", 
     "copying", 
@@ -15,6 +24,6 @@
     "screen", 
     "system"
   ], 
-  "wof:brand_name": "Sir Speedy Printing Ctr", 
-  "wof:brand_id": 1125149979
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416314
 }

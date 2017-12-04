@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414543, 
+  "wof:brand_name": "Top Nail", 
+  "wof:brand_id": 1125161635, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon", 
+    "manufacturing_and_wholesale_goods:wholesale=metals_and_minerals", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "manicuring", 
     "shop", 
@@ -9,6 +16,6 @@
     "fingernail", 
     "manicure"
   ], 
-  "wof:brand_name": "Top Nail", 
-  "wof:brand_id": 1125161635
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416300
 }

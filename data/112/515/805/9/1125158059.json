@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414480, 
+  "wof:brand_name": "Christian Life Ctr", 
+  "wof:brand_id": 1125158059, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=religious_organization", 
+    "services:organizations=nonprofit_organization", 
+    "services:professional=business_services", 
+    "sg:services=professional", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "church", 
     "agent", 
@@ -10,6 +18,6 @@
     "organization", 
     "youth"
   ], 
-  "wof:brand_name": "Christian Life Ctr", 
-  "wof:brand_id": 1125158059
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416250
 }

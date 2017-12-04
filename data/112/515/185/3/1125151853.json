@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414494, 
+  "wof:brand_name": "Rapid Fit", 
+  "wof:brand_id": 1125151853, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "services:professional=testing_lab", 
+    "sg:services=professional", 
+    "sg:transportation=transit_center", 
+    "transportation:transit_center=freight"
+  ], 
   "wof:tags": [
     "tyre", 
     "car", 
@@ -15,6 +26,6 @@
     "commercial", 
     "mot"
   ], 
-  "wof:brand_name": "Rapid Fit", 
-  "wof:brand_id": 1125151853
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416261
 }

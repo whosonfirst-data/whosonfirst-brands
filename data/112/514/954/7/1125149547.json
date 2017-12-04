@@ -1,10 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414562, 
+  "wof:brand_name": "L J Hooker", 
+  "wof:brand_id": 1125149547, 
+  "wof:categories": [
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "management", 
     "property"
   ], 
-  "wof:brand_name": "L J Hooker", 
-  "wof:brand_id": 1125149547
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416315
 }

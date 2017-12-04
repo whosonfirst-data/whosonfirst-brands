@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414535, 
+  "wof:brand_name": "Flowers Baking Co", 
+  "wof:brand_id": 1125150415, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:retail_goods=food_and_beverages", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:food_and_drink=bakery", 
+    "sg:transportation=freight", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "retail_goods:shopping=florist", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "baker", 
     "bakery", 
@@ -11,6 +24,6 @@
     "general", 
     "cracker"
   ], 
-  "wof:brand_name": "Flowers Baking Co", 
-  "wof:brand_id": 1125150415
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416294
 }

@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414538, 
+  "wof:brand_name": "Roses", 
+  "wof:brand_id": 1125162397, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=florist", 
+    "retail_goods:shopping=department_store", 
+    "sg:food_and_drink=restaurant", 
+    "services:personal=beauty_salon", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "department", 
     "asian", 
@@ -8,6 +17,6 @@
     "eating", 
     "variety"
   ], 
-  "wof:brand_name": "Roses", 
-  "wof:brand_id": 1125162397
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416296
 }

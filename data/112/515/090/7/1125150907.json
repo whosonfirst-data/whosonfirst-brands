@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414494, 
+  "wof:brand_name": "Tabernacle Baptist Church", 
+  "wof:brand_id": 1125150907, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "sg:public_place=place_of_worship", 
+    "public_place:place_of_worship=church", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "services:banks_and_credit_unions=bank", 
+    "services:social_services=child_care", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "church", 
     "churches-baptist", 
@@ -12,6 +24,6 @@
     "place", 
     "worship"
   ], 
-  "wof:brand_name": "Tabernacle Baptist Church", 
-  "wof:brand_id": 1125150907
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416262
 }

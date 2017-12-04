@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414447, 
+  "wof:brand_name": "Village Pantry", 
+  "wof:brand_id": 420575955, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "entertainment:travel=hotels_and_motels", 
+    "retail_goods:food_and_beverages=bakery", 
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:entertainment=travel", 
+    "sg:food_and_drink=coffee_and_tea"
+  ], 
   "wof:tags": [
     "away", 
     "delicatessen", 
@@ -25,6 +40,6 @@
     "shop", 
     "steak"
   ], 
-  "wof:brand_name": "Village Pantry", 
-  "wof:brand_id": 420575955
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416224
 }

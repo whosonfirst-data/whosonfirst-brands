@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414537, 
+  "wof:brand_name": "Hanover Housing Association", 
+  "wof:brand_id": 1125162259, 
+  "wof:categories": [
+    "services:organizations=community_association", 
+    "sg:services=organizations", 
+    "services:health_services=nursing_and_care_facility", 
+    "sg:services=health_services", 
+    "sg:services=social_services", 
+    "services:social_services=adult_care", 
+    "services:social_services=retirement_home"
+  ], 
   "wof:tags": [
     "housing", 
     "society", 
@@ -13,6 +22,6 @@
     "societies", 
     "trust"
   ], 
-  "wof:brand_name": "Hanover Housing Association", 
-  "wof:brand_id": 1125162259
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416296
 }

@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414552, 
+  "wof:brand_name": "US Dept of the Air Force", 
+  "wof:brand_id": 1125160991, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=aerospace", 
+    "services:professional=research", 
+    "services:professional=testing_lab", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:transportation=airport", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "national", 
     "security", 
@@ -25,6 +36,6 @@
     "squad", 
     "support"
   ], 
-  "wof:brand_name": "US Dept of the Air Force", 
-  "wof:brand_id": 1125160991
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416308
 }

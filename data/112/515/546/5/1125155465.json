@@ -1,12 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414477, 
+  "wof:brand_name": "Bart", 
+  "wof:brand_id": 1125155465, 
+  "wof:categories": [
+    "sg:food_and_drink=bakery", 
+    "services:professional=business_services", 
+    "sg:services=professional", 
+    "sg:transportation=local_transit"
+  ], 
   "wof:tags": [
     "baker", 
     "confectioner", 
     "suburban", 
     "system"
   ], 
-  "wof:brand_name": "Bart", 
-  "wof:brand_id": 1125155465
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416247
 }

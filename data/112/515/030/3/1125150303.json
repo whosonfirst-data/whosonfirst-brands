@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414512, 
+  "wof:brand_name": "Lowe's? Home Improvement", 
+  "wof:brand_id": 1125150303, 
+  "wof:categories": [
+    "retail_goods:home_and_garden=building_materials", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "services:building_and_trades=construction", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=building_and_trades", 
+    "retail_goods:home_and_garden=carpets_and_floor_coverings", 
+    "services:retail=repair_shop", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "heater", 
     "improvement", 
@@ -16,6 +26,6 @@
     "machine", 
     "roofing"
   ], 
-  "wof:brand_name": "Lowe's? Home Improvement", 
-  "wof:brand_id": 1125150303
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416276
 }

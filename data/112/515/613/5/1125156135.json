@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414482, 
+  "wof:brand_name": "State Bank", 
+  "wof:brand_id": 1125156135, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:insurance=hazard_insurance", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=insurance", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "commercial", 
     "state", 
@@ -14,6 +23,6 @@
     "foreign", 
     "savings"
   ], 
-  "wof:brand_name": "State Bank", 
-  "wof:brand_id": 1125156135
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416251
 }

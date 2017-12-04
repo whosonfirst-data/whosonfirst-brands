@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414541, 
+  "wof:brand_name": "Figaro", 
+  "wof:brand_id": 1125160169, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "sg:retail_goods=shopping", 
+    "entertainment:travel=hotels_and_motels", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=crafts_and_fabrics", 
+    "sg:entertainment=travel", 
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "-", 
     "hairdressing", 
@@ -19,6 +33,6 @@
     "perfumery", 
     "plant"
   ], 
-  "wof:brand_name": "Figaro", 
-  "wof:brand_id": 1125160169
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416298
 }

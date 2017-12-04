@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414468, 
+  "wof:brand_name": "Air Liquide America Corp", 
+  "wof:brand_id": 1125154587, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=chemicals_and_plastics", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=retail_goods", 
+    "sg:transportation=freight", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "services:building_and_trades=construction", 
+    "services:professional=testing_lab", 
+    "sg:manufacturing_and_wholesale_goods=mining_and_drilling", 
+    "sg:retail_goods=shopping", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "gas", 
     "industrial", 
@@ -53,6 +70,6 @@
     "separation", 
     "tank"
   ], 
-  "wof:brand_name": "Air Liquide America Corp", 
-  "wof:brand_id": 1125154587
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416240
 }

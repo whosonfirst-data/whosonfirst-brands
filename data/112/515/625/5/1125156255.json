@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414497, 
+  "wof:brand_name": "Hopewell Baptist Church", 
+  "wof:brand_id": 1125156255, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship"
+  ], 
   "wof:tags": [
     "church", 
     "churches-baptist", 
@@ -8,6 +14,6 @@
     "churches-baptist-independent", 
     "churches-baptist-southern"
   ], 
-  "wof:brand_name": "Hopewell Baptist Church", 
-  "wof:brand_id": 1125156255
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416264
 }

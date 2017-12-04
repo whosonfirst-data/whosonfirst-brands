@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414534, 
+  "wof:brand_name": "Liquor Store", 
+  "wof:brand_id": 1125154769, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:food_and_drink=restaurant", 
+    "entertainment:recreation=dance_hall", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "sg:entertainment=recreation", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "alcoholic", 
     "store", 
@@ -14,6 +25,6 @@
     "grocer", 
     "merchandise"
   ], 
-  "wof:brand_name": "Liquor Store", 
-  "wof:brand_id": 1125154769
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416293
 }

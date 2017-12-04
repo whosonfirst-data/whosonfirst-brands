@@ -1,11 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414561, 
+  "wof:brand_name": "Jersey Mike's", 
+  "wof:brand_id": 1125149269, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:food_and_drink=deli"
+  ], 
   "wof:tags": [
     "sandwich", 
     "american", 
     "wrap"
   ], 
-  "wof:brand_name": "Jersey Mike's", 
-  "wof:brand_id": 1125149269
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416315
 }

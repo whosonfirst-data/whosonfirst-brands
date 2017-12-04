@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414480, 
+  "wof:brand_name": "Prime Communications", 
+  "wof:brand_id": 1125157705, 
+  "wof:categories": [
+    "sg:services=communications", 
+    "sg:retail_goods=shopping", 
+    "sg:services=utilities", 
+    "services:utilities=mobile_phone", 
+    "retail_goods:shopping=mobile_phones", 
+    "services:utilities=telephone", 
+    "manufacturing_and_wholesale_goods:manufacturing=electronics", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "manufacturing_and_wholesale_goods:wholesale=photographic_equipment", 
+    "retail_goods:shopping=jewelry", 
+    "services:communications=television_station", 
+    "services:professional=computer_services"
+  ], 
   "wof:tags": [
     "communication", 
     "cellular", 
@@ -25,6 +42,6 @@
     "satellite", 
     "systems-repair"
   ], 
-  "wof:brand_name": "Prime Communications", 
-  "wof:brand_id": 1125157705
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416249
 }

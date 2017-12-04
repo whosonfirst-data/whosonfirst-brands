@@ -1,6 +1,27 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414478, 
+  "wof:brand_name": "Ronald Mc Donald House", 
+  "wof:brand_id": 1125153717, 
+  "wof:categories": [
+    "sg:services=social_services", 
+    "sg:services=organizations", 
+    "services:organizations=nonprofit_organization", 
+    "sg:services=health_services", 
+    "services:organizations=membership_organization", 
+    "sg:entertainment=travel", 
+    "entertainment:travel=bed_and_breakfast", 
+    "services:organizations=professional_association", 
+    "services:health_services=hospital", 
+    "entertainment:travel=hotels_and_motels", 
+    "public_place:government=office", 
+    "services:health_services=clinic", 
+    "services:health_services=doctor", 
+    "services:health_services=nursing_and_care_facility", 
+    "services:insurance=health_insurance", 
+    "services:organizations=religious_organization", 
+    "services:social_services=adult_care", 
+    "sg:public_place=government", 
+    "sg:services=insurance"
+  ], 
   "wof:tags": [
     "welfare", 
     "organization", 
@@ -28,6 +49,6 @@
     "social", 
     "terminally"
   ], 
-  "wof:brand_name": "Ronald Mc Donald House", 
-  "wof:brand_id": 1125153717
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416248
 }

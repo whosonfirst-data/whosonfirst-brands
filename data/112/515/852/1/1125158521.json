@@ -1,10 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414529, 
+  "wof:brand_name": "Euromaster", 
+  "wof:brand_id": 1125158521, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:manufacturing=rubber_and_plastics", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "-", 
     "transport"
   ], 
-  "wof:brand_name": "Euromaster", 
-  "wof:brand_id": 1125158521
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416289
 }

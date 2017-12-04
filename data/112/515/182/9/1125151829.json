@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414477, 
+  "wof:brand_name": "Check n Go", 
+  "wof:brand_id": 1125151829, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "services:professional=business_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "banking", 
     "depository", 
@@ -15,6 +21,6 @@
     "provides", 
     "savings"
   ], 
-  "wof:brand_name": "Check n Go", 
-  "wof:brand_id": 1125151829
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416248
 }

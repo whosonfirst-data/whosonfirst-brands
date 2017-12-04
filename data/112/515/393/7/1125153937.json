@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414507, 
+  "wof:brand_name": "Children's World Learning Centers", 
+  "wof:brand_id": 1125153937, 
+  "wof:categories": [
+    "services:social_services=child_care", 
+    "sg:services=social_services", 
+    "sg:public_place=education", 
+    "public_place:education=preschool", 
+    "public_place:education=school"
+  ], 
   "wof:tags": [
     "day", 
     "elementary", 
@@ -9,6 +16,6 @@
     "center", 
     "kindergarten"
   ], 
-  "wof:brand_name": "Children's World Learning Centers", 
-  "wof:brand_id": 1125153937
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416272
 }

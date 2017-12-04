@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414469, 
+  "wof:brand_name": "Tip Top Tailors", 
+  "wof:brand_id": 1125159103, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "formal", 
     "wear", 
@@ -8,6 +15,6 @@
     "clothing", 
     "tailor"
   ], 
-  "wof:brand_name": "Tip Top Tailors", 
-  "wof:brand_id": 1125159103
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416241
 }

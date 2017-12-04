@@ -1,7 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414489, 
-  "wof:tags": [], 
   "wof:brand_name": "Somerfield Stores Ltd.", 
-  "wof:brand_id": 1125159373
+  "wof:brand_id": 1125159373, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=supermarket", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416258
 }

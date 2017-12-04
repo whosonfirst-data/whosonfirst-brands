@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414528, 
+  "wof:brand_name": "Little League Baseball Inc", 
+  "wof:brand_id": 1125156777, 
+  "wof:categories": [
+    "sg:entertainment=recreation", 
+    "sg:services=organizations", 
+    "entertainment:sports_and_exercise=sports_center", 
+    "services:organizations=community_association", 
+    "services:organizations=professional_association", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "club", 
     "membership", 
@@ -9,6 +18,6 @@
     "sport", 
     "youth"
   ], 
-  "wof:brand_name": "Little League Baseball Inc", 
-  "wof:brand_id": 1125156777
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416288
 }

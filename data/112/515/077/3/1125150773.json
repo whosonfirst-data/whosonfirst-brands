@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414511, 
+  "wof:brand_name": "Harbor Freight Tools USA Inc", 
+  "wof:brand_id": 1125150773, 
+  "wof:categories": [
+    "retail_goods:home_and_garden=hardware", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:transportation=freight", 
+    "manufacturing_and_wholesale_goods:wholesale=hardware", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "retail_goods:shopping=department_store", 
+    "services:building_and_trades=equipment_rental", 
+    "sg:retail_goods=shopping", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "tool", 
     "used", 
@@ -14,6 +26,6 @@
     "shop", 
     "supply"
   ], 
-  "wof:brand_name": "Harbor Freight Tools USA Inc", 
-  "wof:brand_id": 1125150773
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416275
 }

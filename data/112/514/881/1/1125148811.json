@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414559, 
+  "wof:brand_name": "Round Table Pizza", 
+  "wof:brand_id": 1125148811, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:services=professional", 
+    "sg:food_and_drink=fast_food", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "pizza", 
     "american", 
@@ -20,6 +26,6 @@
     "personal", 
     "polish"
   ], 
-  "wof:brand_name": "Round Table Pizza", 
-  "wof:brand_id": 1125148811
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416313
 }

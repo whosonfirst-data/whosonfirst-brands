@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414551, 
+  "wof:brand_name": "Holy Family School", 
+  "wof:brand_id": 1125161143, 
+  "wof:categories": [
+    "public_place:education=school", 
+    "sg:public_place=education", 
+    "public_place:place_of_worship=church", 
+    "services:organizations=religious_organization", 
+    "sg:public_place=place_of_worship", 
+    "sg:services=organizations", 
+    "public_place:education=preschool", 
+    "public_place:government=office", 
+    "services:social_services=child_care", 
+    "sg:public_place=government", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "elementary", 
     "catholic", 
@@ -19,6 +32,6 @@
     "private", 
     "religious"
   ], 
-  "wof:brand_name": "Holy Family School", 
-  "wof:brand_id": 1125161143
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416306
 }

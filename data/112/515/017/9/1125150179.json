@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414481, 
+  "wof:brand_name": "Master Cuts", 
+  "wof:brand_id": 1125150179, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "hairdresser", 
     "shop", 
@@ -10,6 +17,6 @@
     "installation", 
     "men's"
   ], 
-  "wof:brand_name": "Master Cuts", 
-  "wof:brand_id": 1125150179
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416251
 }

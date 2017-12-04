@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414521, 
+  "wof:brand_name": "Phone Euskadi S. L.", 
+  "wof:brand_id": 1125158381, 
+  "wof:categories": [
+    "food_and_drink:tea_room=none", 
+    "sg:food_and_drink=tea_room"
+  ], 
   "wof:tags": [
     "snack"
   ], 
-  "wof:brand_name": "Phone Euskadi S. L.", 
-  "wof:brand_id": 1125158381
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416283
 }

@@ -1,7 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414457, 
-  "wof:tags": [], 
   "wof:brand_name": "Banque De France", 
-  "wof:brand_id": 420574521
+  "wof:brand_id": 420574521, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "manufacturing_and_wholesale_goods:manufacturing=paper_products", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416232
 }

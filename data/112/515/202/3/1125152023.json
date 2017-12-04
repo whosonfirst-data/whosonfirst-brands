@@ -1,6 +1,28 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414495, 
+  "wof:brand_name": "Anico", 
+  "wof:brand_id": 1125152023, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=life_insurance", 
+    "services:insurance=hazard_insurance", 
+    "services:insurance=health_insurance", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=real_estate", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "manufacturing_and_wholesale_goods:wholesale=wine_and_distilled_alcoholic_beverages", 
+    "services:banks_and_credit_unions=bank", 
+    "services:health_services=hospital", 
+    "services:professional=business_services", 
+    "services:real_estate=real_estate_agent", 
+    "services:real_estate=real_estate_services", 
+    "services:real_estate=surveying", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=health_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "agency", 
     "health", 
@@ -39,6 +61,6 @@
     "surgical", 
     "whol"
   ], 
-  "wof:brand_name": "Anico", 
-  "wof:brand_id": 1125152023
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416263
 }

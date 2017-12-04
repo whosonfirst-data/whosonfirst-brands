@@ -1,11 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414534, 
+  "wof:brand_name": "Kal Tire", 
+  "wof:brand_id": 1125151995, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical"
+  ], 
   "wof:tags": [
     "tire", 
     "repairing", 
     "automobile"
   ], 
-  "wof:brand_name": "Kal Tire", 
-  "wof:brand_id": 1125151995
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416293
 }

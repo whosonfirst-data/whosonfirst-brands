@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414481, 
+  "wof:brand_name": "Michel", 
+  "wof:brand_id": 1125155033, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "manufacturing_and_wholesale_goods:farming=fish_and_marine_products", 
+    "services:personal=barber", 
+    "services:personal=beauty_salon", 
+    "sg:food_and_drink=bakery", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "services:building_and_trades=construction", 
+    "services:retail=auto_repair", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=building_and_trades", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "-", 
     "hairdressing", 
@@ -13,6 +27,6 @@
     "automobile-body", 
     "carpenter"
   ], 
-  "wof:brand_name": "Michel", 
-  "wof:brand_id": 1125155033
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416251
 }

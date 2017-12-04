@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414465, 
+  "wof:brand_name": "Team Tires Plus", 
+  "wof:brand_id": 1125152495, 
+  "wof:categories": [
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:manufacturing=rubber_and_plastics", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "tire", 
     "automobile", 
@@ -33,6 +44,6 @@
     "tube", 
     "work"
   ], 
-  "wof:brand_name": "Team Tires Plus", 
-  "wof:brand_id": 1125152495
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416238
 }

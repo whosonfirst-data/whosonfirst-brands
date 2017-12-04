@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414503, 
+  "wof:brand_name": "Shopacheck Financial Services Ltd.", 
+  "wof:brand_id": 1125155987, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:professional=detective_and_security_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "consultant", 
     "institution", 
@@ -8,6 +15,6 @@
     "burglar", 
     "system"
   ], 
-  "wof:brand_name": "Shopacheck Financial Services Ltd.", 
-  "wof:brand_id": 1125155987
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416268
 }

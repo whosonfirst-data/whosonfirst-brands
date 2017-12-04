@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414479, 
+  "wof:brand_name": "Showtime Video", 
+  "wof:brand_id": 1125158395, 
+  "wof:categories": [
+    "entertainment:cinema=movie_rental", 
+    "sg:entertainment=cinema", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=music", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:building_and_trades=equipment_rental", 
+    "sg:services=building_and_trades", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=banks_and_credit_unions", 
+    "services:communications=film_and_video_production", 
+    "services:retail=repair_shop", 
+    "sg:services=communications", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "video", 
     "tape", 
@@ -19,6 +34,6 @@
     "security", 
     "tap"
   ], 
-  "wof:brand_name": "Showtime Video", 
-  "wof:brand_id": 1125158395
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416249
 }

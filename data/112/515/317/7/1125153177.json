@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414515, 
+  "wof:brand_name": "Sew What", 
+  "wof:brand_id": 1125153177, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=crafts_and_fabrics", 
+    "sg:services=retail", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "sg:services=personal", 
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "services:retail=repair_shop", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "manufacturing_and_wholesale_goods:manufacturing=textiles", 
+    "public_place:education=vocational_school", 
+    "services:professional=art_services", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "sewing", 
     "alteration", 
@@ -38,6 +58,6 @@
     "vehicle", 
     "window"
   ], 
-  "wof:brand_name": "Sew What", 
-  "wof:brand_id": 1125153177
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416278
 }

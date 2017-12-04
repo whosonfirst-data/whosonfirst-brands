@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414537, 
+  "wof:brand_name": "Damart", 
+  "wof:brand_id": 1125156551, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=catalog_store", 
+    "entertainment:recreation=dog_park", 
+    "manufacturing_and_wholesale_goods:manufacturing=textiles", 
+    "sg:entertainment=recreation", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "lingerie", 
     "ondergoed", 
@@ -17,6 +26,6 @@
     "shop", 
     "v\u00eatements"
   ], 
-  "wof:brand_name": "Damart", 
-  "wof:brand_id": 1125156551
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416295
 }

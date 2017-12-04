@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414465, 
+  "wof:brand_name": "Kmart Stores", 
+  "wof:brand_id": 1125150159, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=pharmacy", 
+    "services:retail=portrait_studio", 
+    "sg:services=retail", 
+    "services:professional=art_services", 
+    "sg:services=professional", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "sg:public_place=shopping_center"
+  ], 
   "wof:tags": [
     "drugstore", 
     "store", 
@@ -12,6 +23,6 @@
     "outlet", 
     "photo"
   ], 
-  "wof:brand_name": "Kmart Stores", 
-  "wof:brand_id": 1125150159
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416238
 }

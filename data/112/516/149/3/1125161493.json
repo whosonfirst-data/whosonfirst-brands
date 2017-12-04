@@ -1,6 +1,32 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414551, 
+  "wof:brand_name": "Habitat", 
+  "wof:brand_id": 1125161493, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_operator", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "retail_goods:shopping=bridal", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:building_and_trades=landscaping_services", 
+    "services:insurance=life_insurance", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:real_estate=architect", 
+    "sg:entertainment=recreation", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:food_and_drink=restaurant", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=building_and_trades", 
+    "sg:services=insurance", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "shop", 
     "apparel", 
@@ -23,6 +49,6 @@
     "shed", 
     "wedding"
   ], 
-  "wof:brand_name": "Habitat", 
-  "wof:brand_id": 1125161493
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416307
 }

@@ -1,6 +1,28 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414519, 
+  "wof:brand_name": "ADP", 
+  "wof:brand_id": 1125151025, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=computer_services", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=management_and_consulting", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "sg:retail_goods=shopping", 
+    "sg:services=banks_and_credit_unions", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:professional=employment_agencies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "retail_goods:home_and_garden=building_materials", 
+    "services:banks_and_credit_unions=bank", 
+    "services:professional=business_services", 
+    "services:professional=engineering", 
+    "services:retail=portrait_studio", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "datum", 
     "processing", 
@@ -42,6 +64,6 @@
     "supply", 
     "technical"
   ], 
-  "wof:brand_name": "ADP", 
-  "wof:brand_id": 1125151025
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416282
 }

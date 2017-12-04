@@ -1,6 +1,36 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414562, 
+  "wof:brand_name": "Knights of Columbus", 
+  "wof:brand_id": 1125149231, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=community_association", 
+    "services:organizations=membership_organization", 
+    "services:retail=event_space", 
+    "sg:services=retail", 
+    "services:organizations=religious_organization", 
+    "services:organizations=professional_association", 
+    "sg:entertainment=recreation", 
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:real_estate=real_estate_operator", 
+    "sg:services=real_estate", 
+    "sg:food_and_drink=restaurant", 
+    "sg:services=professional", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:services=banks_and_credit_unions", 
+    "entertainment:arts_and_performance=music", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:insurance=life_insurance", 
+    "services:organizations=nonprofit_organization", 
+    "services:professional=business_services", 
+    "services:professional=employment_agencies", 
+    "services:professional=management_and_consulting", 
+    "sg:entertainment=arts_and_performance", 
+    "sg:public_place=exhibition_hall", 
+    "sg:services=personal", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "fraternal", 
     "venue", 
@@ -43,6 +73,6 @@
     "store", 
     "trust"
   ], 
-  "wof:brand_name": "Knights of Columbus", 
-  "wof:brand_id": 1125149231
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416315
 }

@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414479, 
+  "wof:brand_name": "Ticor Title Insurance", 
+  "wof:brand_id": 1125152825, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=title_insurance", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=real_estate", 
+    "sg:services=banks_and_credit_unions", 
+    "services:insurance=insurance_agent", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=bank", 
+    "services:insurance=hazard_insurance", 
+    "services:professional=research", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "company", 
     "title", 
@@ -12,6 +26,6 @@
     "business", 
     "commercial"
   ], 
-  "wof:brand_name": "Ticor Title Insurance", 
-  "wof:brand_id": 1125152825
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416249
 }

@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414500, 
+  "wof:brand_name": "BP Oil Co", 
+  "wof:brand_id": 1125152765, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "services:retail=car_wash", 
+    "services:utilities=fuel_oil_and_lpg", 
+    "sg:services=retail", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "oil", 
     "gasoline", 
@@ -11,6 +19,6 @@
     "polishing", 
     "washing"
   ], 
-  "wof:brand_name": "BP Oil Co", 
-  "wof:brand_id": 1125152765
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416266
 }

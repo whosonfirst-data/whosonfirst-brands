@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414445, 
+  "wof:brand_name": "Champs Sports", 
+  "wof:brand_id": 420575079, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "retail_goods:shopping=shoes", 
+    "sg:entertainment=sports_and_exercise", 
+    "entertainment:sports_and_exercise=bicycle_rental", 
+    "entertainment:sports_and_exercise=sports_center", 
+    "services:professional=printing_and_photocopies", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "sportswear", 
     "shoes", 
@@ -20,6 +31,6 @@
     "plaque", 
     "trophies"
   ], 
-  "wof:brand_name": "Champs Sports", 
-  "wof:brand_id": 420575079
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416222
 }

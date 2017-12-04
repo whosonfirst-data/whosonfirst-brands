@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414450, 
+  "wof:brand_name": "Thorntons Plc", 
+  "wof:brand_id": 420575863, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=candy", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:wholesale=scrap", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "confectioner", 
     "breaker", 
@@ -8,6 +16,6 @@
     "dismantlers", 
     "poster"
   ], 
-  "wof:brand_name": "Thorntons Plc", 
-  "wof:brand_id": 420575863
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416226
 }

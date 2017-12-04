@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414521, 
+  "wof:brand_name": "Hair Plus", 
+  "wof:brand_id": 1125151555, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:personal=nail_salon", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "services:personal=barber", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "shop", 
     "merchandise", 
@@ -20,6 +31,6 @@
     "stylist", 
     "unisex"
   ], 
-  "wof:brand_name": "Hair Plus", 
-  "wof:brand_id": 1125151555
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416283
 }

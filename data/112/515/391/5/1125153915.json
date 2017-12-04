@@ -1,6 +1,33 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414517, 
+  "wof:brand_name": "Woodworks", 
+  "wof:brand_id": 1125153915, 
+  "wof:categories": [
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=home_and_garden", 
+    "manufacturing_and_wholesale_goods:manufacturing=building_materials", 
+    "retail_goods:home_and_garden=furniture", 
+    "manufacturing_and_wholesale_goods:manufacturing=wood_products", 
+    "sg:retail_goods=shopping", 
+    "services:retail=repair_shop", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:manufacturing=furniture", 
+    "manufacturing_and_wholesale_goods:manufacturing=glass_and_minerals", 
+    "manufacturing_and_wholesale_goods:manufacturing=lumber", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "retail_goods:home_and_garden=building_materials", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=watercraft", 
+    "manufacturing_and_wholesale_goods:wholesale=construction_materials", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:shopping=antiques", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "services:professional=business_services", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "mfg", 
     "cabinet", 
@@ -47,6 +74,6 @@
     "trophy", 
     "work"
   ], 
-  "wof:brand_name": "Woodworks", 
-  "wof:brand_id": 1125153915
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416279
 }

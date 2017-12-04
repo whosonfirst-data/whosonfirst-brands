@@ -1,6 +1,28 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414532, 
+  "wof:brand_name": "Sears Roebuck and Co", 
+  "wof:brand_id": 1125154807, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "sg:services=retail", 
+    "services:retail=auto_repair", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "sg:public_place=shopping_center", 
+    "retail_goods:shopping=optician", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "retail_goods:shopping=catalog_store", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:building_and_trades=construction", 
+    "services:professional=art_services", 
+    "services:retail=portrait_studio", 
+    "sg:services=building_and_trades", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "tire", 
     "repair", 
@@ -17,6 +39,6 @@
     "photography", 
     "store"
   ], 
-  "wof:brand_name": "Sears Roebuck and Co", 
-  "wof:brand_id": 1125154807
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416292
 }

@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414487, 
+  "wof:brand_name": "Eldi", 
+  "wof:brand_id": 1125151545, 
+  "wof:categories": [
+    "retail_goods:home_and_garden=household_appliances", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "-", 
     "electric", 
@@ -8,6 +12,6 @@
     "repair", 
     "housewares"
   ], 
-  "wof:brand_name": "Eldi", 
-  "wof:brand_id": 1125151545
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416255
 }

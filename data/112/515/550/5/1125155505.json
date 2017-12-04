@@ -1,6 +1,25 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414495, 
+  "wof:brand_name": "Junior Achievement", 
+  "wof:brand_id": 1125155505, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=nonprofit_organization", 
+    "sg:services=social_services", 
+    "services:organizations=professional_association", 
+    "services:organizations=community_association", 
+    "sg:services=professional", 
+    "sg:public_place=education", 
+    "public_place:education=special_training", 
+    "services:organizations=membership_organization", 
+    "public_place:education=school", 
+    "services:professional=management_and_consulting", 
+    "public_place:community_center=youth", 
+    "public_place:government=office", 
+    "services:professional=employment_agencies", 
+    "services:professional=research", 
+    "sg:public_place=community_center", 
+    "sg:public_place=government"
+  ], 
   "wof:tags": [
     "organization", 
     "center", 
@@ -21,6 +40,6 @@
     "trade", 
     "welfare"
   ], 
-  "wof:brand_name": "Junior Achievement", 
-  "wof:brand_id": 1125155505
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416262
 }

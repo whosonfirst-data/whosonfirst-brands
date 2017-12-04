@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414525, 
+  "wof:brand_name": "Hair Unlimited", 
+  "wof:brand_id": 1125150629, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:personal=hair_removal", 
+    "sg:retail_goods=shopping", 
+    "services:personal=tanning_parlor", 
+    "services:personal=tattoo_parlor"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
@@ -20,6 +30,6 @@
     "removing", 
     "weaving"
   ], 
-  "wof:brand_name": "Hair Unlimited", 
-  "wof:brand_id": 1125150629
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416286
 }

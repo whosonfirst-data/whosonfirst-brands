@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414546, 
+  "wof:brand_name": "Coram Healthcare", 
+  "wof:brand_id": 1125162199, 
+  "wof:categories": [
+    "services:health_services=clinic", 
+    "sg:services=health_services", 
+    "services:health_services=health_practitioner", 
+    "services:health_services=hospice", 
+    "manufacturing_and_wholesale_goods:wholesale=medical_equipment_and_supplies", 
+    "retail_goods:shopping=pharmacy", 
+    "services:health_services=nursing_and_care_facility", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=community_center", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "home", 
     "care", 
@@ -11,6 +23,6 @@
     "eldercare-home", 
     "welfare"
   ], 
-  "wof:brand_name": "Coram Healthcare", 
-  "wof:brand_id": 1125162199
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416302
 }

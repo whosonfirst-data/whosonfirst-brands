@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414484, 
+  "wof:brand_name": "Shear Magic", 
+  "wof:brand_id": 1125152905, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "services:personal=tanning_parlor"
+  ], 
   "wof:tags": [
     "shop", 
     "beauty", 
@@ -12,6 +18,6 @@
     "spa", 
     "unisex"
   ], 
-  "wof:brand_name": "Shear Magic", 
-  "wof:brand_id": 1125152905
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416253
 }

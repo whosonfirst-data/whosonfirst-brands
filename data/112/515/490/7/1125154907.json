@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414505, 
+  "wof:brand_name": "Peters", 
+  "wof:brand_id": 1125154907, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:farming=farm", 
+    "manufacturing_and_wholesale_goods:farming=livestock_farm", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "retail_goods:shopping=antiques", 
+    "retail_goods:shopping=news", 
+    "services:personal=barber", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=personal", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "car", 
     "corn", 
@@ -10,6 +28,6 @@
     "power", 
     "product"
   ], 
-  "wof:brand_name": "Peters", 
-  "wof:brand_id": 1125154907
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416270
 }

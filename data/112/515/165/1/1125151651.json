@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414491, 
+  "wof:brand_name": "KWIK KOPY Printing", 
+  "wof:brand_id": 1125151651, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "services:professional=printing_and_photocopies", 
+    "sg:services=professional", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "manufacturing_and_wholesale_goods:wholesale=office_equipment"
+  ], 
   "wof:tags": [
     "printer", 
     "commercial", 
@@ -31,6 +40,6 @@
     "supply", 
     "system"
   ], 
-  "wof:brand_name": "KWIK KOPY Printing", 
-  "wof:brand_id": 1125151651
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416258
 }

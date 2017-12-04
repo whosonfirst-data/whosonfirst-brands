@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414538, 
+  "wof:brand_name": "House Of Hair", 
+  "wof:brand_id": 1125162275, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:personal=tanning_parlor", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
@@ -12,6 +20,6 @@
     "hairdressing", 
     "lady"
   ], 
-  "wof:brand_name": "House Of Hair", 
-  "wof:brand_id": 1125162275
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416296
 }

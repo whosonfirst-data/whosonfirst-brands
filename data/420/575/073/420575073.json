@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414451, 
+  "wof:brand_name": "Nine West", 
+  "wof:brand_id": 420575073, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=shoes", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=department_store", 
+    "manufacturing_and_wholesale_goods:manufacturing=leather_goods", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "services:professional=management_and_consulting", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional", 
+    "services:personal=shoe_repair_and_shine", 
+    "sg:food_and_drink=restaurant", 
+    "sg:public_place=shopping_center", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "store", 
     "handbag", 
@@ -21,6 +37,6 @@
     "outlet", 
     "specialty"
   ], 
-  "wof:brand_name": "Nine West", 
-  "wof:brand_id": 420575073
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416227
 }

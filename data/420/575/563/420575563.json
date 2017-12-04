@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414450, 
+  "wof:brand_name": "Barber Shop", 
+  "wof:brand_id": 420575563, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=barber", 
+    "services:personal=beauty_salon", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
@@ -10,6 +17,6 @@
     "hairdresser", 
     "styling"
   ], 
-  "wof:brand_name": "Barber Shop", 
-  "wof:brand_id": 420575563
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416226
 }

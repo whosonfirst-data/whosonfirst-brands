@@ -1,7 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414503, 
-  "wof:tags": [], 
   "wof:brand_name": "Schwarzer Adler", 
-  "wof:brand_id": 1125155985
+  "wof:brand_id": 1125155985, 
+  "wof:categories": [
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416268
 }

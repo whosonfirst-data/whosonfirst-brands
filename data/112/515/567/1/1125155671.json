@@ -1,6 +1,42 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414528, 
+  "wof:brand_name": "Right At Home", 
+  "wof:brand_id": 1125155671, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=clinic", 
+    "services:health_services=health_practitioner", 
+    "sg:services=professional", 
+    "sg:services=social_services", 
+    "services:health_services=nursing_and_care_facility", 
+    "services:social_services=child_care", 
+    "public_place:community_center=senior", 
+    "services:professional=employment_agencies", 
+    "sg:public_place=community_center", 
+    "retail_goods:home_and_garden=furniture", 
+    "services:building_and_trades=construction", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:retail_goods=shopping", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:wholesale=home_furnishings", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:health_services=doctor", 
+    "services:professional=business_services", 
+    "services:social_services=adult_care", 
+    "services:social_services=retirement_home", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=personal", 
+    "sg:services=real_estate", 
+    "manufacturing_and_wholesale_goods:manufacturing=building_materials", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:organizations=nonprofit_organization", 
+    "services:real_estate=real_estate_agent", 
+    "services:real_estate=real_estate_services", 
+    "services:retail=repair_shop", 
+    "sg:services=organizations", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "home", 
     "care", 
@@ -34,6 +70,6 @@
     "store", 
     "upholsterer"
   ], 
-  "wof:brand_name": "Right At Home", 
-  "wof:brand_id": 1125155671
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416288
 }

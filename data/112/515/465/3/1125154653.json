@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414479, 
+  "wof:brand_name": "Jerry's Barber Shop", 
+  "wof:brand_id": 1125154653, 
+  "wof:categories": [
+    "services:personal=barber", 
+    "sg:services=personal", 
+    "services:personal=beauty_salon"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
@@ -8,6 +13,6 @@
     "shoe", 
     "stylist"
   ], 
-  "wof:brand_name": "Jerry's Barber Shop", 
-  "wof:brand_id": 1125154653
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416249
 }

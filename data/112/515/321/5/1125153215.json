@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414472, 
+  "wof:brand_name": "Diamond Nails", 
+  "wof:brand_id": 1125153215, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon", 
+    "services:health_services=health_practitioner", 
+    "services:personal=hair_removal", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "manicuring", 
     "shop", 
@@ -9,6 +17,6 @@
     "salon", 
     "technician"
   ], 
-  "wof:brand_name": "Diamond Nails", 
-  "wof:brand_id": 1125153215
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416243
 }

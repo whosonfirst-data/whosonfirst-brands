@@ -1,6 +1,38 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414464, 
+  "wof:brand_name": "American Red Cross", 
+  "wof:brand_id": 420574099, 
+  "wof:categories": [
+    "sg:services=social_services", 
+    "sg:services=organizations", 
+    "sg:services=health_services", 
+    "services:organizations=nonprofit_organization", 
+    "sg:public_place=education", 
+    "public_place:education=special_training", 
+    "sg:services=professional", 
+    "sg:public_place=government", 
+    "services:organizations=community_association", 
+    "public_place:government=fire_station", 
+    "services:health_services=clinic", 
+    "services:health_services=medical_lab", 
+    "services:professional=detective_and_security_services", 
+    "services:organizations=professional_association", 
+    "services:organizations=membership_organization", 
+    "public_place:government=office", 
+    "services:health_services=hospital", 
+    "services:professional=management_and_consulting", 
+    "public_place:education=school", 
+    "public_place:government=city_hall", 
+    "services:health_services=doctor", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:building_and_trades=equipment_rental", 
+    "services:professional=business_services", 
+    "services:professional=computer_services", 
+    "sg:entertainment=recreation", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=shopping", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "welfare", 
     "organization", 
@@ -72,6 +104,6 @@
     "which", 
     "youth"
   ], 
-  "wof:brand_name": "American Red Cross", 
-  "wof:brand_id": 420574099
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416237
 }

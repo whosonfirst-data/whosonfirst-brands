@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414552, 
+  "wof:brand_name": "Rehabworks", 
+  "wof:brand_id": 1125160633, 
+  "wof:categories": [
+    "services:social_services=job_training", 
+    "sg:services=social_services", 
+    "sg:services=health_services", 
+    "services:health_services=health_practitioner", 
+    "sg:services=professional", 
+    "services:health_services=clinic", 
+    "services:professional=employment_agencies"
+  ], 
   "wof:tags": [
     "rehabilitation", 
     "therapist", 
@@ -13,6 +22,6 @@
     "specialty", 
     "treatment"
   ], 
-  "wof:brand_name": "Rehabworks", 
-  "wof:brand_id": 1125160633
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416307
 }

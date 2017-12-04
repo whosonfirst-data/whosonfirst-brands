@@ -1,6 +1,37 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414466, 
+  "wof:brand_name": "US Filter", 
+  "wof:brand_id": 1125152113, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "services:professional=research", 
+    "manufacturing_and_wholesale_goods:wholesale=metals_and_minerals", 
+    "sg:services=utilities", 
+    "manufacturing_and_wholesale_goods:manufacturing=petroleum_products", 
+    "services:utilities=water", 
+    "sg:services=organizations", 
+    "manufacturing_and_wholesale_goods:wholesale=hardware", 
+    "public_place:government=office", 
+    "retail_goods:home_and_garden=hardware", 
+    "services:organizations=community_association", 
+    "sg:public_place=government", 
+    "sg:retail_goods=home_and_garden", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "manufacturing_and_wholesale_goods:wholesale=scrap", 
+    "services:building_and_trades=plumbing", 
+    "services:organizations=professional_association", 
+    "services:professional=computer_services", 
+    "services:professional=engineering", 
+    "services:retail=repair_shop", 
+    "services:utilities=refuse", 
+    "sg:retail_goods=shopping", 
+    "sg:services=building_and_trades", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "water", 
     "treatment", 
@@ -46,6 +77,6 @@
     "village", 
     "work"
   ], 
-  "wof:brand_name": "US Filter", 
-  "wof:brand_id": 1125152113
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416239
 }

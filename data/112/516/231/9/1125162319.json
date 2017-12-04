@@ -1,9 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414550, 
+  "wof:brand_name": "Maison Du Peuple", 
+  "wof:brand_id": 1125162319, 
+  "wof:categories": [
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:food_and_drink=cafe", 
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "caf\u00e9s"
   ], 
-  "wof:brand_name": "Maison Du Peuple", 
-  "wof:brand_id": 1125162319
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416306
 }

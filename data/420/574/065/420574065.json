@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414457, 
+  "wof:brand_name": "Royal Mail", 
+  "wof:brand_id": 420574065, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "public_place:government=post_office", 
+    "sg:public_place=government", 
+    "sg:transportation=freight", 
+    "sg:services=professional", 
+    "services:professional=advertising", 
+    "retail_goods:shopping=catalog_store", 
+    "services:professional=business_services", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "delivery", 
     "haulage", 
@@ -13,6 +24,6 @@
     "order", 
     "shipping"
   ], 
-  "wof:brand_name": "Royal Mail", 
-  "wof:brand_id": 420574065
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416232
 }

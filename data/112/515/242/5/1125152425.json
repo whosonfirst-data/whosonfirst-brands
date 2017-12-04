@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414473, 
+  "wof:brand_name": "Social Services Dept", 
+  "wof:brand_id": 1125152425, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:services=social_services", 
+    "sg:services=professional", 
+    "services:professional=employment_agencies", 
+    "services:professional=business_services", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:social_services=child_care", 
+    "services:social_services=retirement_home"
+  ], 
   "wof:tags": [
     "state", 
     "resource", 
@@ -25,6 +36,6 @@
     "village", 
     "welfare"
   ], 
-  "wof:brand_name": "Social Services Dept", 
-  "wof:brand_id": 1125152425
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416244
 }

@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414447, 
+  "wof:brand_name": "First Church Of The Nazarene", 
+  "wof:brand_id": 420575161, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "sg:public_place=place_of_worship", 
+    "public_place:place_of_worship=church", 
+    "services:social_services=child_care", 
+    "sg:services=social_services", 
+    "sg:entertainment=recreation"
+  ], 
   "wof:tags": [
     "church", 
     "churches-nazarene", 
@@ -13,6 +22,6 @@
     "hall", 
     "school"
   ], 
-  "wof:brand_name": "First Church Of The Nazarene", 
-  "wof:brand_id": 420575161
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416224
 }

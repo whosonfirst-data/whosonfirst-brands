@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414546, 
+  "wof:brand_name": "Select Specialty Hospital", 
+  "wof:brand_id": 1125160313, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=hospital", 
+    "services:health_services=clinic", 
+    "services:health_services=doctor", 
+    "services:social_services=job_training", 
+    "sg:services=social_services", 
+    "sg:services=professional", 
+    "services:professional=accounting_and_tax_preparation"
+  ], 
   "wof:tags": [
     "specialty", 
     "medical", 
@@ -16,6 +26,6 @@
     "skilled", 
     "term"
   ], 
-  "wof:brand_name": "Select Specialty Hospital", 
-  "wof:brand_id": 1125160313
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416303
 }

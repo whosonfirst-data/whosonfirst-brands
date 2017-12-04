@@ -1,6 +1,35 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414563, 
+  "wof:brand_name": "Johnstone Supply", 
+  "wof:brand_id": 1125149821, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=hardware", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "sg:services=professional", 
+    "services:professional=engineering", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "sg:services=building_and_trades", 
+    "sg:retail_goods=home_and_garden", 
+    "services:building_and_trades=plumbing", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "retail_goods:home_and_garden=building_materials", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "manufacturing_and_wholesale_goods:manufacturing=retail_goods", 
+    "manufacturing_and_wholesale_goods:wholesale=toys_and_hobbies", 
+    "services:building_and_trades=construction", 
+    "manufacturing_and_wholesale_goods:wholesale=construction_materials", 
+    "services:retail=repair_shop", 
+    "services:social_services=job_training", 
+    "sg:services=retail", 
+    "sg:services=social_services", 
+    "sg:services=utilities", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "air", 
     "supply", 
@@ -69,6 +98,6 @@
     "ventilating", 
     "warm"
   ], 
-  "wof:brand_name": "Johnstone Supply", 
-  "wof:brand_id": 1125149821
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416316
 }

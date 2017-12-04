@@ -1,12 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414484, 
+  "wof:brand_name": "Hss Hire Shops", 
+  "wof:brand_id": 1125151647, 
+  "wof:categories": [
+    "services:building_and_trades=equipment_rental", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "centre", 
     "hire", 
     "plant", 
     "tool"
   ], 
-  "wof:brand_name": "Hss Hire Shops", 
-  "wof:brand_id": 1125151647
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416253
 }

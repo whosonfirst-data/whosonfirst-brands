@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414483, 
+  "wof:brand_name": "Terminix International", 
+  "wof:brand_id": 1125152065, 
+  "wof:categories": [
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=pest_control", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "services:building_and_trades=plumbing", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "industrial", 
     "mothproofing", 
@@ -12,6 +19,6 @@
     "insecticide", 
     "spraying"
   ], 
-  "wof:brand_name": "Terminix International", 
-  "wof:brand_id": 1125152065
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416252
 }

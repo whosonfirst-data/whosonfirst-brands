@@ -1,6 +1,37 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414500, 
+  "wof:brand_name": "Design Works", 
+  "wof:brand_id": 1125158079, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "services:professional=art_services", 
+    "sg:retail_goods=shopping", 
+    "services:real_estate=architect", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=real_estate", 
+    "services:building_and_trades=construction", 
+    "services:professional=advertising", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:shopping=florist", 
+    "retail_goods:shopping=jewelry", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=personal", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:home_and_garden=carpets_and_floor_coverings", 
+    "retail_goods:shopping=antiques", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:personal=beauty_salon", 
+    "services:professional=computer_services", 
+    "services:retail=repair_shop", 
+    "sg:services=communications", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "designer", 
     "design", 
@@ -43,6 +74,6 @@
     "web", 
     "writer"
   ], 
-  "wof:brand_name": "Design Works", 
-  "wof:brand_id": 1125158079
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416266
 }

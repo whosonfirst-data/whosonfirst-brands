@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414446, 
+  "wof:brand_name": "Motherhood Maternity", 
+  "wof:brand_id": 420575045, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:shopping=department_store"
+  ], 
   "wof:tags": [
     "maternity", 
     "women's", 
@@ -12,6 +19,6 @@
     "mfrs", 
     "wholesaler"
   ], 
-  "wof:brand_name": "Motherhood Maternity", 
-  "wof:brand_id": 420575045
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416223
 }

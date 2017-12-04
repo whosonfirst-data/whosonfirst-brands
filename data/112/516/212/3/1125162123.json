@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414545, 
+  "wof:brand_name": "Air France", 
+  "wof:brand_id": 1125162123, 
+  "wof:categories": [
+    "sg:transportation=airline", 
+    "sg:transportation=freight", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:professional=business_services", 
+    "sg:public_place=industrial_area", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=professional", 
+    "sg:transportation=transit_center", 
+    "transportation:transit_center=passenger"
+  ], 
   "wof:tags": [
     "company", 
     "air", 
@@ -10,6 +21,6 @@
     "line", 
     "shuttle"
   ], 
-  "wof:brand_name": "Air France", 
-  "wof:brand_id": 1125162123
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416302
 }

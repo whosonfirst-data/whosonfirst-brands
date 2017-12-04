@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414445, 
+  "wof:brand_name": "Zion Lutheran Church", 
+  "wof:brand_id": 420575599, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "sg:public_place=place_of_worship", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=education", 
+    "public_place:education=school", 
+    "public_place:education=preschool", 
+    "services:social_services=child_care", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "church", 
     "churches-lutheran", 
@@ -25,6 +36,6 @@
     "rel", 
     "synod"
   ], 
-  "wof:brand_name": "Zion Lutheran Church", 
-  "wof:brand_id": 420575599
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416222
 }

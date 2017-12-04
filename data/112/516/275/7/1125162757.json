@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414540, 
+  "wof:brand_name": "Pioneer Credit Co", 
+  "wof:brand_id": 1125162757, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "loan", 
     "financing", 
@@ -9,6 +15,6 @@
     "establishment", 
     "mortgage"
   ], 
-  "wof:brand_name": "Pioneer Credit Co", 
-  "wof:brand_id": 1125162757
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416297
 }

@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414492, 
+  "wof:brand_name": "24 Hour Locksmith Service", 
+  "wof:brand_id": 1125154951, 
+  "wof:categories": [
+    "services:building_and_trades=locksmith", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "key"
   ], 
-  "wof:brand_name": "24 Hour Locksmith Service", 
-  "wof:brand_id": 1125154951
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416260
 }

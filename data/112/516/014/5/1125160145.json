@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414541, 
+  "wof:brand_name": "Cutting Edge Salon", 
+  "wof:brand_id": 1125160145, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "services:personal=hair_removal", 
+    "services:personal=massage", 
+    "services:personal=tanning_parlor"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
@@ -8,6 +16,6 @@
     "cosmetologist", 
     "therapist"
   ], 
-  "wof:brand_name": "Cutting Edge Salon", 
-  "wof:brand_id": 1125160145
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416298
 }

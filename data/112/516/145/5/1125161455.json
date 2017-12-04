@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414552, 
+  "wof:brand_name": "Discovery Channel Store", 
+  "wof:brand_id": 1125161455, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "sg:services=professional", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "retail_goods:shopping=crafts_and_fabrics", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "services:professional=employment_agencies", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "shop", 
     "store", 
@@ -13,6 +26,6 @@
     "miscellaneous", 
     "parcel"
   ], 
-  "wof:brand_name": "Discovery Channel Store", 
-  "wof:brand_id": 1125161455
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416307
 }

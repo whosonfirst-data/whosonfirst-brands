@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414445, 
+  "wof:brand_name": "Fed Ex", 
+  "wof:brand_id": 420575969, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=advertising", 
+    "sg:transportation=freight", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "services:professional=business_services", 
+    "services:professional=computer_services", 
+    "services:professional=printing_and_photocopies", 
+    "sg:transportation=airline"
+  ], 
   "wof:tags": [
     "shipping", 
     "mailing", 
@@ -20,6 +31,6 @@
     "page", 
     "printer"
   ], 
-  "wof:brand_name": "Fed Ex", 
-  "wof:brand_id": 420575969
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416223
 }

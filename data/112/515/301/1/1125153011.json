@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414531, 
+  "wof:brand_name": "Crown Communications", 
+  "wof:brand_id": 1125153011, 
+  "wof:categories": [
+    "sg:services=communications", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional", 
+    "sg:services=utilities", 
+    "services:utilities=telephone", 
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=construction", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "manufacturing_and_wholesale_goods:wholesale=computers", 
+    "services:building_and_trades=electrical", 
+    "services:retail=auto_repair", 
+    "services:utilities=mobile_phone", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "consultant", 
     "communications", 
@@ -18,6 +35,6 @@
     "tower", 
     "wireless"
   ], 
-  "wof:brand_name": "Crown Communications", 
-  "wof:brand_id": 1125153011
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416291
 }

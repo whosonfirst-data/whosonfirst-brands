@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414516, 
+  "wof:brand_name": "Tony's Auto Repair", 
+  "wof:brand_id": 1125159413, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "automobile", 
     "repairing", 
@@ -15,6 +23,6 @@
     "repair", 
     "shop"
   ], 
-  "wof:brand_name": "Tony's Auto Repair", 
-  "wof:brand_id": 1125159413
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416279
 }

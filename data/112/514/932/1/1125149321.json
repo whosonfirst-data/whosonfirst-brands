@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414559, 
+  "wof:brand_name": "Gloria Jean's Coffees", 
+  "wof:brand_id": 1125149321, 
+  "wof:categories": [
+    "sg:food_and_drink=cafe", 
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=coffee_and_tea", 
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "american", 
     "diner", 
@@ -9,6 +16,6 @@
     "espresso", 
     "tea"
   ], 
-  "wof:brand_name": "Gloria Jean's Coffees", 
-  "wof:brand_id": 1125149321
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416313
 }

@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414501, 
+  "wof:brand_name": "Two Men & A Truck", 
+  "wof:brand_id": 1125152915, 
+  "wof:categories": [
+    "sg:transportation=freight", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=personal", 
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "services:retail=storage", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "mover", 
     "local", 
@@ -25,6 +37,6 @@
     "store", 
     "supply"
   ], 
-  "wof:brand_name": "Two Men & A Truck", 
-  "wof:brand_id": 1125152915
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416267
 }

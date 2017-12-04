@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414464, 
+  "wof:brand_name": "Northern Reflections", 
+  "wof:brand_id": 1125152727, 
+  "wof:categories": [
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:home_and_garden=building_materials", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "sportswear", 
     "family", 
@@ -8,6 +14,6 @@
     "glass", 
     "leaded"
   ], 
-  "wof:brand_name": "Northern Reflections", 
-  "wof:brand_id": 1125152727
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416237
 }

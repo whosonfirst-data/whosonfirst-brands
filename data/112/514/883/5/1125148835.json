@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414556, 
+  "wof:brand_name": "Ecole Fondamentale Libre", 
+  "wof:brand_id": 1125148835, 
+  "wof:categories": [
+    "public_place:education=school", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "primary"
   ], 
-  "wof:brand_name": "Ecole Fondamentale Libre", 
-  "wof:brand_id": 1125148835
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416311
 }

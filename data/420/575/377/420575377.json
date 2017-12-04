@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414444, 
+  "wof:brand_name": "Staffmark", 
+  "wof:brand_id": 420575377, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=employment_agencies", 
+    "services:professional=management_and_consulting", 
+    "sg:services=social_services", 
+    "public_place:education=school", 
+    "services:social_services=job_training", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "opportunity", 
     "personnel", 
@@ -21,6 +30,6 @@
     "search", 
     "temp"
   ], 
-  "wof:brand_name": "Staffmark", 
-  "wof:brand_id": 420575377
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416222
 }

@@ -1,7 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414527, 
-  "wof:tags": [], 
   "wof:brand_name": "Banca Popolare Friuladria", 
-  "wof:brand_id": 1125157111
+  "wof:brand_id": 1125157111, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416287
 }

@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414501, 
+  "wof:brand_name": "AmSouth", 
+  "wof:brand_id": 1125150115, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "services:professional=employment_agencies"
+  ], 
   "wof:tags": [
     "state", 
     "commercial", 
@@ -18,6 +26,6 @@
     "mortgage", 
     "personal"
   ], 
-  "wof:brand_name": "AmSouth", 
-  "wof:brand_id": 1125150115
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416267
 }

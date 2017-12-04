@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414543, 
+  "wof:brand_name": "Shoe City", 
+  "wof:brand_id": 1125160959, 
+  "wof:categories": [
+    "retail_goods:shopping=shoes", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "store", 
     "manufacturer", 
@@ -13,6 +21,6 @@
     "sewing", 
     "women's"
   ], 
-  "wof:brand_name": "Shoe City", 
-  "wof:brand_id": 1125160959
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416300
 }

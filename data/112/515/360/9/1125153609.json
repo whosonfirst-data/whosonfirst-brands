@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414492, 
+  "wof:brand_name": "Heritage Bank", 
+  "wof:brand_id": 1125153609, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=atm"
+  ], 
   "wof:tags": [
     "commercial", 
     "loan", 
@@ -19,6 +25,6 @@
     "location", 
     "real estate"
   ], 
-  "wof:brand_name": "Heritage Bank", 
-  "wof:brand_id": 1125153609
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416260
 }

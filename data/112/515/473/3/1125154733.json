@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414484, 
+  "wof:brand_name": "Family Eye Care", 
+  "wof:brand_id": 1125154733, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=optometrist", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=optical_goods", 
+    "services:health_services=doctor", 
+    "retail_goods:shopping=optician", 
+    "services:retail=repair_shop", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "good", 
     "optical", 
@@ -12,6 +22,6 @@
     "lense", 
     "o"
   ], 
-  "wof:brand_name": "Family Eye Care", 
-  "wof:brand_id": 1125154733
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416253
 }

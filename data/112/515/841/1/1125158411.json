@@ -1,6 +1,29 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414499, 
+  "wof:brand_name": "Thermo King", 
+  "wof:brand_id": 1125158411, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "manufacturing_and_wholesale_goods:wholesale=hardware", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "services:retail=auto_repair", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:transportation=freight", 
+    "retail_goods:autos_and_motor_vehicles=motorcycle_sales", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "public_place:government=department_of_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=recreational_vehicle_sales", 
+    "services:building_and_trades=plumbing", 
+    "services:professional=engineering", 
+    "services:retail=repair_shop", 
+    "sg:public_place=government", 
+    "sg:services=building_and_trades", 
+    "sg:transportation=transit_center", 
+    "transportation:transit_center=freight"
+  ], 
   "wof:tags": [
     "truck", 
     "refrigeration", 
@@ -33,6 +56,6 @@
     "starter", 
     "transport"
   ], 
-  "wof:brand_name": "Thermo King", 
-  "wof:brand_id": 1125158411
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416266
 }

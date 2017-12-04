@@ -1,6 +1,27 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414553, 
+  "wof:brand_name": "Once Upon A Child", 
+  "wof:brand_id": 1125149703, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=used_merchandise", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=baby_store", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "retail_goods:home_and_garden=furniture", 
+    "services:social_services=child_care", 
+    "sg:services=social_services", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "retail_goods:shopping=books", 
+    "retail_goods:shopping=thrift_store", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=communications", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "wear", 
     "infant", 
@@ -35,6 +56,6 @@
     "used", 
     "web"
   ], 
-  "wof:brand_name": "Once Upon A Child", 
-  "wof:brand_id": 1125149703
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416309
 }

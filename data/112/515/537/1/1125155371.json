@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414532, 
+  "wof:brand_name": "Guardian Life Insurance Co", 
+  "wof:brand_id": 1125155371, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=life_insurance", 
+    "services:insurance=hazard_insurance", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "benefit", 
     "agency", 
@@ -10,6 +18,6 @@
     "fund", 
     "planning"
   ], 
-  "wof:brand_name": "Guardian Life Insurance Co", 
-  "wof:brand_id": 1125155371
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416292
 }

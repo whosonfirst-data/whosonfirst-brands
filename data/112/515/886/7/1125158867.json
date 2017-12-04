@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414523, 
+  "wof:brand_name": "Tech-Rentals (NZ) Ltd", 
+  "wof:brand_id": 1125158867, 
+  "wof:categories": [
+    "sg:entertainment=recreation", 
+    "entertainment:sports_and_exercise=tennis_court", 
+    "services:banks_and_credit_unions=atm", 
+    "services:building_and_trades=construction", 
+    "services:professional=engineering", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=building_and_trades", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "leisure", 
     "sport", 
@@ -11,6 +22,6 @@
     "industrial", 
     "rental"
   ], 
-  "wof:brand_name": "Tech-Rentals (NZ) Ltd", 
-  "wof:brand_id": 1125158867
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416285
 }

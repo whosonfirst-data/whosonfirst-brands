@@ -1,7 +1,11 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414488, 
-  "wof:tags": [], 
   "wof:brand_name": "Bank of New Zealand", 
-  "wof:brand_id": 1125154843
+  "wof:brand_id": 1125154843, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416256
 }

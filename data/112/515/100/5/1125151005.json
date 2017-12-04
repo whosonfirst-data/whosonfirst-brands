@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414489, 
+  "wof:brand_name": "Books-A-Million", 
+  "wof:brand_id": 1125151005, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=books", 
+    "manufacturing_and_wholesale_goods:wholesale=books_periodicals_and_newspapers", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=music", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "dealer", 
     "bookstore", 
@@ -14,6 +24,6 @@
     "collectible", 
     "newspaper"
   ], 
-  "wof:brand_name": "Books-A-Million", 
-  "wof:brand_id": 1125151005
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416257
 }

@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414461, 
+  "wof:brand_name": "NatWest", 
+  "wof:brand_id": 420574265, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=investment_brokerage"
+  ], 
   "wof:tags": [
     "financial", 
     "institution", 
@@ -9,6 +14,6 @@
     "trust", 
     "unit"
   ], 
-  "wof:brand_name": "NatWest", 
-  "wof:brand_id": 420574265
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416235
 }

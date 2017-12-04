@@ -1,7 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414477, 
-  "wof:tags": [], 
   "wof:brand_name": "Bankers Life & Casualty Co", 
-  "wof:brand_id": 1125150855
+  "wof:brand_id": 1125150855, 
+  "wof:categories": [
+    "services:insurance=insurance_agent", 
+    "sg:services=insurance"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416247
 }

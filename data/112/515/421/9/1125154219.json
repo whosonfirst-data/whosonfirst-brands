@@ -1,6 +1,27 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414511, 
+  "wof:brand_name": "It Figures", 
+  "wof:brand_id": 1125154219, 
+  "wof:categories": [
+    "entertainment:sports_and_exercise=gym", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:services=personal", 
+    "sg:services=professional", 
+    "services:professional=accounting_and_tax_preparation", 
+    "entertainment:arena=sports_club", 
+    "sg:entertainment=arena", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:health_services=health_practitioner", 
+    "services:personal=tanning_parlor", 
+    "services:professional=business_services", 
+    "services:retail=auto_repair", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=health_services", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "health", 
     "gymnasium", 
@@ -23,6 +44,6 @@
     "swimwear", 
     "trainer"
   ], 
-  "wof:brand_name": "It Figures", 
-  "wof:brand_id": 1125154219
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416275
 }

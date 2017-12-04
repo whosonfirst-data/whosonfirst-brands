@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414545, 
+  "wof:brand_name": "Alside Supply Center", 
+  "wof:brand_id": 1125162125, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=construction_materials", 
+    "retail_goods:home_and_garden=building_materials", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=building_materials", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "siding", 
     "manufacturer", 
@@ -31,6 +43,6 @@
     "vinyl", 
     "windows-wholesale"
   ], 
-  "wof:brand_name": "Alside Supply Center", 
-  "wof:brand_id": 1125162125
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416302
 }

@@ -1,6 +1,35 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414563, 
+  "wof:brand_name": "Ymca", 
+  "wof:brand_id": 1125149927, 
+  "wof:categories": [
+    "sg:services=social_services", 
+    "sg:public_place=community_center", 
+    "public_place:community_center=youth", 
+    "services:professional=employment_agencies", 
+    "sg:services=professional", 
+    "services:social_services=child_care", 
+    "entertainment:arena=sports_club", 
+    "sg:entertainment=arena", 
+    "sg:public_place=exhibition_hall", 
+    "sg:services=organizations", 
+    "services:organizations=community_association", 
+    "services:organizations=professional_association", 
+    "sg:entertainment=recreation", 
+    "sg:services=personal", 
+    "services:organizations=nonprofit_organization", 
+    "sg:entertainment=sports_and_exercise", 
+    "entertainment:sports_and_exercise=gym", 
+    "sg:public_place=education", 
+    "public_place:education=preschool", 
+    "services:social_services=job_training", 
+    "entertainment:sports_and_exercise=sports_center", 
+    "public_place:education=school", 
+    "public_place:education=special_training", 
+    "public_place:education=vocational_school", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "services:social_services=adult_care", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "placement", 
     "volunteer", 
@@ -42,6 +71,6 @@
     "social", 
     "studio"
   ], 
-  "wof:brand_name": "Ymca", 
-  "wof:brand_id": 1125149927
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416316
 }

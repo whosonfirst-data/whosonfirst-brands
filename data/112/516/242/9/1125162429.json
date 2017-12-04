@@ -1,11 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414539, 
+  "wof:brand_name": "T Interim", 
+  "wof:brand_id": 1125162429, 
+  "wof:categories": [
+    "services:professional=employment_agencies", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "-", 
     "clerical", 
     "temping"
   ], 
-  "wof:brand_name": "T Interim", 
-  "wof:brand_id": 1125162429
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416297
 }

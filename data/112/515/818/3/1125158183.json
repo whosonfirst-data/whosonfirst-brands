@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414537, 
+  "wof:brand_name": "Shear Expressions", 
+  "wof:brand_id": 1125158183, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "services:personal=hair_removal", 
+    "services:personal=tanning_parlor"
+  ], 
   "wof:tags": [
     "shop", 
     "apartment", 
@@ -9,6 +16,6 @@
     "nail", 
     "operator"
   ], 
-  "wof:brand_name": "Shear Expressions", 
-  "wof:brand_id": 1125158183
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416295
 }

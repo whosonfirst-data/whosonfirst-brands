@@ -1,10 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414488, 
+  "wof:brand_name": "Pace International Union", 
+  "wof:brand_id": 1125152297, 
+  "wof:categories": [
+    "services:organizations=labor_organization", 
+    "sg:services=organizations", 
+    "services:professional=accounting_and_tax_preparation", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "establishment", 
     "association"
   ], 
-  "wof:brand_name": "Pace International Union", 
-  "wof:brand_id": 1125152297
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416256
 }

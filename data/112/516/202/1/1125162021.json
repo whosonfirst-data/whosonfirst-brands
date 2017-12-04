@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414544, 
+  "wof:brand_name": "St Thomas Episcopal Church", 
+  "wof:brand_id": 1125162021, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship"
+  ], 
   "wof:tags": [
     "church", 
     "churches-episcopal", 
@@ -8,6 +14,6 @@
     "place", 
     "worship"
   ], 
-  "wof:brand_name": "St Thomas Episcopal Church", 
-  "wof:brand_id": 1125162021
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416301
 }

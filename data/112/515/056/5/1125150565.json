@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414527, 
+  "wof:brand_name": "Five Guys Burgers & Fries", 
+  "wof:brand_id": 1125150565, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "retail_goods:food_and_beverages=meat_and_fish", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "american", 
     "burger", 
@@ -8,6 +14,6 @@
     "hot", 
     "traditional"
   ], 
-  "wof:brand_name": "Five Guys Burgers & Fries", 
-  "wof:brand_id": 1125150565
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416287
 }

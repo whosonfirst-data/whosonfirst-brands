@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414547, 
+  "wof:brand_name": "Brakes Plus", 
+  "wof:brand_id": 1125160445, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales"
+  ], 
   "wof:tags": [
     "brake", 
     "automobile", 
@@ -25,6 +32,6 @@
     "supply", 
     "truck"
   ], 
-  "wof:brand_name": "Brakes Plus", 
-  "wof:brand_id": 1125160445
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416303
 }

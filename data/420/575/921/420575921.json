@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414449, 
+  "wof:brand_name": "Economy Inn", 
+  "wof:brand_id": 420575921, 
+  "wof:categories": [
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel", 
+    "services:professional=business_services", 
+    "sg:services=professional", 
+    "entertainment:travel=bed_and_breakfast", 
+    "entertainment:travel=resort", 
+    "services:real_estate=real_estate_operator", 
+    "sg:food_and_drink=restaurant", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "operation", 
     "lodging", 
@@ -16,6 +27,6 @@
     "motor", 
     "operator"
   ], 
-  "wof:brand_name": "Economy Inn", 
-  "wof:brand_id": 420575921
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416225
 }

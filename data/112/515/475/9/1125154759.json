@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414507, 
+  "wof:brand_name": "Independent Bank", 
+  "wof:brand_id": 1125154759, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "commercial", 
     "state", 
@@ -12,6 +16,6 @@
     "real estate", 
     "mortgage"
   ], 
-  "wof:brand_name": "Independent Bank", 
-  "wof:brand_id": 1125154759
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416272
 }

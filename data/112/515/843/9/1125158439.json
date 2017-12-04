@@ -1,6 +1,32 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414470, 
+  "wof:brand_name": "Allure", 
+  "wof:brand_id": 1125158439, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "services:personal=adult", 
+    "services:personal=hair_removal", 
+    "services:personal=massage", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=petroleum_products", 
+    "public_place:structure=warehouse", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:shopping=jewelry", 
+    "services:personal=barber", 
+    "services:personal=nail_salon", 
+    "services:personal=tanning_parlor", 
+    "services:real_estate=real_estate_operator", 
+    "services:retail=storage", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:public_place=structure", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=real_estate", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "-", 
     "accessory", 
@@ -40,6 +66,6 @@
     "v\u00eatements", 
     "warehouses-merchandise"
   ], 
-  "wof:brand_name": "Allure", 
-  "wof:brand_id": 1125158439
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416242
 }

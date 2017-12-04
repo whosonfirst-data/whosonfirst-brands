@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414519, 
+  "wof:brand_name": "Bar", 
+  "wof:brand_id": 1125159801, 
+  "wof:categories": [
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:food_and_drink=restaurant", 
+    "food_and_drink:bars_and_pubs=dive_bar", 
+    "food_and_drink:bars_and_pubs=nightclub", 
+    "sg:retail_goods=food_and_beverages", 
+    "entertainment:travel=hotels_and_motels", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "retail_goods:food_and_beverages=meat_and_fish", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:insurance=life_insurance", 
+    "services:organizations=community_association", 
+    "sg:entertainment=travel", 
+    "sg:retail_goods=shopping", 
+    "sg:services=insurance", 
+    "sg:services=organizations", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "cocktail", 
     "lounge", 
@@ -12,6 +30,6 @@
     "hot", 
     "pizza"
   ], 
-  "wof:brand_name": "Bar", 
-  "wof:brand_id": 1125159801
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416281
 }

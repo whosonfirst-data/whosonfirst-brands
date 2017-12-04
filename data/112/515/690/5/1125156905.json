@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414518, 
+  "wof:brand_name": "Ameristop Food Mart", 
+  "wof:brand_id": 1125156905, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "grocer", 
     "gasoline", 
@@ -8,6 +15,6 @@
     "delicatessen", 
     "station"
   ], 
-  "wof:brand_name": "Ameristop Food Mart", 
-  "wof:brand_id": 1125156905
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416281
 }

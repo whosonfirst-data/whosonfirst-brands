@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414529, 
+  "wof:brand_name": "Con-Way Central Express", 
+  "wof:brand_id": 1125154291, 
+  "wof:categories": [
+    "sg:transportation=freight", 
+    "services:professional=business_services", 
+    "sg:services=professional", 
+    "sg:transportation=transit_center", 
+    "transportation:transit_center=freight"
+  ], 
   "wof:tags": [
     "trucking", 
     "operator", 
@@ -9,6 +16,6 @@
     "local", 
     "trucking-motor"
   ], 
-  "wof:brand_name": "Con-Way Central Express", 
-  "wof:brand_id": 1125154291
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416289
 }

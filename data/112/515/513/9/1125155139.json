@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414516, 
+  "wof:brand_name": "Hair 2000", 
+  "wof:brand_id": 1125155139, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "services:personal=nail_salon", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
@@ -11,6 +19,6 @@
     "manicuring", 
     "salon"
   ], 
-  "wof:brand_name": "Hair 2000", 
-  "wof:brand_id": 1125155139
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416278
 }

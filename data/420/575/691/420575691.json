@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414449, 
+  "wof:brand_name": "Mothers Against Drunk Driving", 
+  "wof:brand_id": 420575691, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=membership_organization", 
+    "sg:services=social_services", 
+    "services:organizations=community_association", 
+    "services:organizations=professional_association", 
+    "services:organizations=nonprofit_organization", 
+    "public_place:education=special_training", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "welfare", 
     "organization", 
@@ -22,6 +32,6 @@
     "treatment", 
     "worker"
   ], 
-  "wof:brand_name": "Mothers Against Drunk Driving", 
-  "wof:brand_id": 420575691
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416225
 }

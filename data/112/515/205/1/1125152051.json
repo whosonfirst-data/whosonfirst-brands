@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414499, 
+  "wof:brand_name": "Manpower Inc", 
+  "wof:brand_id": 1125152051, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=employment_agencies", 
+    "public_place:education=vocational_school", 
+    "sg:public_place=education", 
+    "services:professional=management_and_consulting", 
+    "services:professional=secretarial_services", 
+    "services:social_services=job_training", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "contractor", 
     "help", 
@@ -16,6 +26,6 @@
     "vocational", 
     "word"
   ], 
-  "wof:brand_name": "Manpower Inc", 
-  "wof:brand_id": 1125152051
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416266
 }

@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414481, 
+  "wof:brand_name": "Oakwood Corporate Housing", 
+  "wof:brand_id": 1125157691, 
+  "wof:categories": [
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_agent", 
+    "sg:entertainment=travel", 
+    "entertainment:travel=hotels_and_motels", 
+    "sg:services=professional", 
+    "services:real_estate=real_estate_operator", 
+    "entertainment:travel=bed_and_breakfast", 
+    "services:real_estate=real_estate_services", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=personal", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "establishment", 
     "housing", 
@@ -23,6 +37,6 @@
     "temporary", 
     "vacancy"
   ], 
-  "wof:brand_name": "Oakwood Corporate Housing", 
-  "wof:brand_id": 1125157691
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416250
 }

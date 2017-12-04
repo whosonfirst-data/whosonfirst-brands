@@ -1,6 +1,33 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414457, 
+  "wof:brand_name": "Primerica", 
+  "wof:brand_id": 420574299, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=professional", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:professional=management_and_consulting", 
+    "services:professional=business_services", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:insurance=hazard_insurance", 
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_services", 
+    "services:banks_and_credit_unions=bank", 
+    "services:insurance=life_insurance", 
+    "sg:services=personal", 
+    "services:personal=hair_removal", 
+    "services:insurance=health_insurance", 
+    "services:professional=accounting_and_tax_preparation", 
+    "sg:services=social_services", 
+    "services:professional=computer_services", 
+    "services:professional=research", 
+    "services:real_estate=real_estate_agent", 
+    "services:social_services=child_care", 
+    "services:social_services=job_training", 
+    "sg:transportation=freight", 
+    "sg:transportation=taxi"
+  ], 
   "wof:tags": [
     "financial", 
     "consultant", 
@@ -67,6 +94,6 @@
     "taxicab", 
     "trust"
   ], 
-  "wof:brand_name": "Primerica", 
-  "wof:brand_id": 420574299
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416231
 }

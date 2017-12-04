@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414555, 
+  "wof:brand_name": "Caribou Coffee", 
+  "wof:brand_id": 1125148933, 
+  "wof:categories": [
+    "sg:food_and_drink=coffee_and_tea", 
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:food_and_drink=bakery"
+  ], 
   "wof:tags": [
     "american", 
     "diner", 
@@ -10,6 +17,6 @@
     "eating", 
     "pastry"
   ], 
-  "wof:brand_name": "Caribou Coffee", 
-  "wof:brand_id": 1125148933
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416310
 }

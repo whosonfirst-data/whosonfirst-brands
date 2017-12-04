@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414545, 
+  "wof:brand_name": "R S P C A", 
+  "wof:brand_id": 1125162769, 
+  "wof:categories": [
+    "services:organizations=nonprofit_organization", 
+    "sg:services=organizations", 
+    "retail_goods:shopping=thrift_store", 
+    "sg:retail_goods=shopping", 
+    "services:professional=business_services", 
+    "sg:services=professional", 
+    "public_place:government=office", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:organizations=community_association", 
+    "services:retail=veterinary_services", 
+    "sg:public_place=government", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "organisation", 
     "animal", 
@@ -16,6 +31,6 @@
     "export", 
     "import"
   ], 
-  "wof:brand_name": "R S P C A", 
-  "wof:brand_id": 1125162769
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416302
 }

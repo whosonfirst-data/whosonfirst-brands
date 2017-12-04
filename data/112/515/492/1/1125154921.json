@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414531, 
+  "wof:brand_name": "Shell Rapid Lube", 
+  "wof:brand_id": 1125154921, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=auto_repair", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "services:retail=car_wash", 
+    "public_place:government=office", 
+    "sg:food_and_drink=restaurant", 
+    "sg:public_place=government"
+  ], 
   "wof:tags": [
     "automobile", 
     "lubrication", 
@@ -17,6 +28,6 @@
     "shop", 
     "smog"
   ], 
-  "wof:brand_name": "Shell Rapid Lube", 
-  "wof:brand_id": 1125154921
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416291
 }

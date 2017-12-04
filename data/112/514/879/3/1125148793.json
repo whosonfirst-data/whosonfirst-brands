@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414555, 
+  "wof:brand_name": "Randstad", 
+  "wof:brand_id": 1125148793, 
+  "wof:categories": [
+    "services:professional=employment_agencies", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "help", 
     "contractor", 
@@ -9,6 +13,6 @@
     "temporary", 
     "staffing"
   ], 
-  "wof:brand_name": "Randstad", 
-  "wof:brand_id": 1125148793
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416310
 }

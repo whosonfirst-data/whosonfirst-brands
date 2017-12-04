@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414488, 
+  "wof:brand_name": "Peoples National Bank", 
+  "wof:brand_id": 1125158839, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=financial_services"
+  ], 
   "wof:tags": [
     "commercial", 
     "national", 
@@ -12,6 +17,6 @@
     "saving", 
     "state"
   ], 
-  "wof:brand_name": "Peoples National Bank", 
-  "wof:brand_id": 1125158839
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416256
 }

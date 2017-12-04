@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414471, 
+  "wof:brand_name": "National City Mortgage Co", 
+  "wof:brand_id": 1125159951, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "mortgage", 
     "loan", 
@@ -12,6 +19,6 @@
     "correspondent", 
     "processing"
   ], 
-  "wof:brand_name": "National City Mortgage Co", 
-  "wof:brand_id": 1125159951
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416243
 }

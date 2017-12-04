@@ -1,11 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414469, 
+  "wof:brand_name": "Burton Menswear", 
+  "wof:brand_id": 1125151679, 
+  "wof:categories": [
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "menswear", 
     "shop", 
     "ladieswear"
   ], 
-  "wof:brand_name": "Burton Menswear", 
-  "wof:brand_id": 1125151679
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416241
 }

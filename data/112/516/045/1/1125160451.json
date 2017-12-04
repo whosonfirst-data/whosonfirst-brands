@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414542, 
+  "wof:brand_name": "Cardiovascular Consultants", 
+  "wof:brand_id": 1125160451, 
+  "wof:categories": [
+    "services:health_services=doctor", 
+    "sg:services=health_services", 
+    "services:health_services=clinic", 
+    "services:professional=secretarial_services", 
+    "sg:public_place=community_center", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "physician", 
     "surgeon", 
@@ -13,6 +21,6 @@
     "thoracic", 
     "transcription"
   ], 
-  "wof:brand_name": "Cardiovascular Consultants", 
-  "wof:brand_id": 1125160451
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416299
 }

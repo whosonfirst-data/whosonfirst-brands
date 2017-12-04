@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414542, 
+  "wof:brand_name": "A 24 Hour Always Available Emerg 24 Locksmith", 
+  "wof:brand_id": 1125160057, 
+  "wof:categories": [
+    "services:building_and_trades=locksmith", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "key"
   ], 
-  "wof:brand_name": "A 24 Hour Always Available Emerg 24 Locksmith", 
-  "wof:brand_id": 1125160057
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416300
 }

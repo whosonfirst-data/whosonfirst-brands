@@ -1,12 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414539, 
+  "wof:brand_name": "Student Flights", 
+  "wof:brand_id": 1125162421, 
+  "wof:categories": [
+    "entertainment:travel=travel_agent", 
+    "sg:entertainment=travel", 
+    "sg:transportation=airline"
+  ], 
   "wof:tags": [
     "consultant", 
     "agency", 
     "services-commercial", 
     "ticket"
   ], 
-  "wof:brand_name": "Student Flights", 
-  "wof:brand_id": 1125162421
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416297
 }

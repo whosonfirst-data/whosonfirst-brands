@@ -1,10 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414557, 
+  "wof:brand_name": "Adler", 
+  "wof:brand_id": 1125148973, 
+  "wof:categories": [
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "-", 
     "surveyor"
   ], 
-  "wof:brand_name": "Adler", 
-  "wof:brand_id": 1125148973
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416311
 }

@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414487, 
+  "wof:brand_name": "Evangelical Free Church", 
+  "wof:brand_id": 1125151547, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=religious_organization", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship", 
+    "services:organizations=nonprofit_organization"
+  ], 
   "wof:tags": [
     "church", 
     "place", 
@@ -14,6 +21,6 @@
     "covenant", 
     "free"
   ], 
-  "wof:brand_name": "Evangelical Free Church", 
-  "wof:brand_id": 1125151547
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416255
 }

@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414466, 
+  "wof:brand_name": "The White Lion", 
+  "wof:brand_id": 1125159717, 
+  "wof:categories": [
+    "sg:food_and_drink=bars_and_pubs", 
+    "entertainment:travel=hotels_and_motels", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "sg:entertainment=travel", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "inn", 
     "pubs", 
@@ -8,6 +15,6 @@
     "house", 
     "public"
   ], 
-  "wof:brand_name": "The White Lion", 
-  "wof:brand_id": 1125159717
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416239
 }

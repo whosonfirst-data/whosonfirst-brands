@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414561, 
+  "wof:brand_name": "T Mobile", 
+  "wof:brand_id": 1125149411, 
+  "wof:categories": [
+    "sg:services=utilities", 
+    "services:utilities=mobile_phone", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=mobile_phones", 
+    "sg:services=professional", 
+    "services:utilities=telephone", 
+    "manufacturing_and_wholesale_goods:manufacturing=electronics", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "services:building_and_trades=electrical", 
+    "services:professional=computer_services", 
+    "services:retail=repair_shop", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=building_and_trades", 
+    "sg:services=communications", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "cellular", 
     "telephone", 
@@ -24,6 +44,6 @@
     "telecommunication", 
     "telecommunications-equipment"
   ], 
-  "wof:brand_name": "T Mobile", 
-  "wof:brand_id": 1125149411
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416314
 }

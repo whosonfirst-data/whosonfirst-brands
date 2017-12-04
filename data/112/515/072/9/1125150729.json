@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414490, 
+  "wof:brand_name": "Wireless Zone", 
+  "wof:brand_id": 1125150729, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "sg:services=utilities", 
+    "services:utilities=mobile_phone", 
+    "retail_goods:shopping=mobile_phones", 
+    "services:utilities=telephone", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "sg:services=communications", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "services:professional=computer_services", 
+    "services:retail=repair_shop", 
+    "services:social_services=adult_care", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=professional", 
+    "sg:services=retail", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "cellular", 
     "telephone", 
@@ -41,6 +61,6 @@
     "television", 
     "tv"
   ], 
-  "wof:brand_name": "Wireless Zone", 
-  "wof:brand_id": 1125150729
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416258
 }

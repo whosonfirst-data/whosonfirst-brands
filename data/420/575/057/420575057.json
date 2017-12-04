@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414452, 
+  "wof:brand_name": "Banana Republic", 
+  "wof:brand_id": 420575057, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "entertainment:sports_and_exercise=bicycle_rental", 
+    "sg:entertainment=sports_and_exercise", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=used_merchandise", 
+    "sg:public_place=shopping_center", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=jewelry", 
+    "retail_goods:shopping=shoes", 
+    "manufacturing_and_wholesale_goods:manufacturing=leather_goods", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "women's", 
     "clothing", 
@@ -19,6 +34,6 @@
     "clothes", 
     "supply"
   ], 
-  "wof:brand_name": "Banana Republic", 
-  "wof:brand_id": 420575057
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416228
 }

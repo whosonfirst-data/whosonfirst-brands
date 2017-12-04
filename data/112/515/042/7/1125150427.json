@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414478, 
+  "wof:brand_name": "Vineyard Christian Fellowship", 
+  "wof:brand_id": 1125150427, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "sg:public_place=place_of_worship", 
+    "public_place:place_of_worship=church", 
+    "services:organizations=membership_organization"
+  ], 
   "wof:tags": [
     "church", 
     "churches-interdenominational", 
@@ -15,6 +22,6 @@
     "place", 
     "worship"
   ], 
-  "wof:brand_name": "Vineyard Christian Fellowship", 
-  "wof:brand_id": 1125150427
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416249
 }

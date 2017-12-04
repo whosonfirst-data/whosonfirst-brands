@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414471, 
+  "wof:brand_name": "Holy Trinity Lutheran Church", 
+  "wof:brand_id": 1125152147, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship", 
+    "public_place:education=preschool", 
+    "sg:public_place=education", 
+    "public_place:education=school", 
+    "services:social_services=child_care", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "church", 
     "lutheran", 
@@ -21,6 +32,6 @@
     "operates", 
     "preschool"
   ], 
-  "wof:brand_name": "Holy Trinity Lutheran Church", 
-  "wof:brand_id": 1125152147
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416243
 }

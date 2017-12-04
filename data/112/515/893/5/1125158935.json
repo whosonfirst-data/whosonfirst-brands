@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414477, 
+  "wof:brand_name": "Bmo Nesbitt Burns Inc", 
+  "wof:brand_id": 1125158935, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "bond", 
     "broker", 
@@ -8,6 +12,6 @@
     "advisory", 
     "financial"
   ], 
-  "wof:brand_name": "Bmo Nesbitt Burns Inc", 
-  "wof:brand_id": 1125158935
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416247
 }

@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414530, 
+  "wof:brand_name": "Child Development Center", 
+  "wof:brand_id": 1125159825, 
+  "wof:categories": [
+    "sg:services=social_services", 
+    "services:social_services=child_care", 
+    "sg:public_place=education", 
+    "sg:services=organizations", 
+    "services:organizations=religious_organization", 
+    "public_place:education=school", 
+    "sg:public_place=place_of_worship", 
+    "public_place:education=preschool", 
+    "public_place:place_of_worship=church", 
+    "sg:services=health_services", 
+    "public_place:education=college", 
+    "services:health_services=doctor", 
+    "services:health_services=hospital", 
+    "services:organizations=nonprofit_organization", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "day", 
     "academic", 
@@ -32,6 +50,6 @@
     "training", 
     "university"
   ], 
-  "wof:brand_name": "Child Development Center", 
-  "wof:brand_id": 1125159825
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416290
 }

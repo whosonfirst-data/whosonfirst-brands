@@ -1,11 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414547, 
+  "wof:brand_name": "Leeds & Holbeck Building Society", 
+  "wof:brand_id": 1125160251, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank"
+  ], 
   "wof:tags": [
     "building", 
     "society", 
     "institution"
   ], 
-  "wof:brand_name": "Leeds & Holbeck Building Society", 
-  "wof:brand_id": 1125160251
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416303
 }

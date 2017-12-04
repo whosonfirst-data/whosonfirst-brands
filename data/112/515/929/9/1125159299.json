@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414510, 
+  "wof:brand_name": "Look", 
+  "wof:brand_id": 1125159299, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=jewelry", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:communications=television_station", 
+    "services:personal=tanning_parlor", 
+    "services:professional=art_services", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=communications"
+  ], 
   "wof:tags": [
     "establishment", 
     "manicuring", 
@@ -17,6 +31,6 @@
     "verhuur", 
     "video"
   ], 
-  "wof:brand_name": "Look", 
-  "wof:brand_id": 1125159299
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416275
 }

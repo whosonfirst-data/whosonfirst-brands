@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414503, 
+  "wof:brand_name": "Avco Financial", 
+  "wof:brand_id": 1125158235, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:professional=business_services", 
+    "sg:services=professional", 
+    "services:banks_and_credit_unions=investment_brokerage"
+  ], 
   "wof:tags": [
     "consumer", 
     "institution", 
@@ -25,6 +33,6 @@
     "lending", 
     "provides"
   ], 
-  "wof:brand_name": "Avco Financial", 
-  "wof:brand_id": 1125158235
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416268
 }

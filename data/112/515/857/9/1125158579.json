@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414502, 
+  "wof:brand_name": "Monsoon", 
+  "wof:brand_id": 1125158579, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "manufacturing_and_wholesale_goods:wholesale=jewelry", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "services:professional=management_and_consulting", 
+    "sg:food_and_drink=cafe", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "shop", 
     "asian", 
@@ -17,6 +29,6 @@
     "tea", 
     "vietnamese"
   ], 
-  "wof:brand_name": "Monsoon", 
-  "wof:brand_id": 1125158579
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416268
 }

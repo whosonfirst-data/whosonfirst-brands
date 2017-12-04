@@ -1,6 +1,37 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414474, 
+  "wof:brand_name": "The Works", 
+  "wof:brand_id": 1125156491, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=books", 
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "sg:services=building_and_trades", 
+    "sg:services=professional", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "services:building_and_trades=construction", 
+    "food_and_drink:bars_and_pubs=nightclub", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "retail_goods:food_and_beverages=bakery", 
+    "retail_goods:home_and_garden=building_materials", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:building_and_trades=landscaping_services", 
+    "services:personal=barber", 
+    "services:personal=skin_care", 
+    "services:professional=art_services", 
+    "services:professional=computer_services", 
+    "services:professional=detective_and_security_services", 
+    "services:real_estate=architect", 
+    "services:retail=car_wash", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:food_and_drink=restaurant", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:public_place=conference_center", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=real_estate", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "shop", 
     "maintenance", 
@@ -27,6 +58,6 @@
     "venue", 
     "wooden"
   ], 
-  "wof:brand_name": "The Works", 
-  "wof:brand_id": 1125156491
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416245
 }

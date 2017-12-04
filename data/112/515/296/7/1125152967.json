@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414465, 
+  "wof:brand_name": "Next Retail Ltd.", 
+  "wof:brand_id": 1125152967, 
+  "wof:categories": [
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "shop"
   ], 
-  "wof:brand_name": "Next Retail Ltd.", 
-  "wof:brand_id": 1125152967
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416238
 }

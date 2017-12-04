@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414488, 
+  "wof:brand_name": "Bellacino's Pizza & Grinders", 
+  "wof:brand_id": 1125154847, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "services:retail=event_space", 
+    "sg:services=professional", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "pizza", 
     "american", 
@@ -13,6 +19,6 @@
     "hall", 
     "reception"
   ], 
-  "wof:brand_name": "Bellacino's Pizza & Grinders", 
-  "wof:brand_id": 1125154847
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416256
 }

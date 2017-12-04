@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414471, 
+  "wof:brand_name": "Manchu Wok", 
+  "wof:brand_id": 1125151013, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=ethnic_foods", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:food_and_drink=fast_food"
+  ], 
   "wof:tags": [
     "chinese", 
     "asian", 
@@ -10,6 +17,6 @@
     "drinking", 
     "fast"
   ], 
-  "wof:brand_name": "Manchu Wok", 
-  "wof:brand_id": 1125151013
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416243
 }

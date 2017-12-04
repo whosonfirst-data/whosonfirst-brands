@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414473, 
+  "wof:brand_name": "Auto Clinic", 
+  "wof:brand_id": 1125154281, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=auto_repair", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:retail=car_wash", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "automobile", 
     "repairing", 
@@ -23,6 +35,6 @@
     "used", 
     "wheel"
   ], 
-  "wof:brand_name": "Auto Clinic", 
-  "wof:brand_id": 1125154281
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416244
 }

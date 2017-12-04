@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414537, 
+  "wof:brand_name": "Godiva Chocolatier Inc", 
+  "wof:brand_id": 1125150505, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=candy", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:food_and_beverages=chocolate", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:public_place=shopping_center", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "confectionery", 
     "store", 
@@ -10,6 +22,6 @@
     "chocolatiers", 
     "candy"
   ], 
-  "wof:brand_name": "Godiva Chocolatier Inc", 
-  "wof:brand_id": 1125150505
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416295
 }

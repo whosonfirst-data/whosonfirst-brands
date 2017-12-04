@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414531, 
+  "wof:brand_name": "Glass America", 
+  "wof:brand_id": 1125153017, 
+  "wof:categories": [
+    "retail_goods:home_and_garden=building_materials", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=retail", 
+    "services:retail=auto_repair", 
+    "manufacturing_and_wholesale_goods:manufacturing=glass_and_minerals", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "manufacturing_and_wholesale_goods:wholesale=construction_materials", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "services:health_services=doctor", 
+    "services:retail=repair_shop", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "window", 
     "plate", 
@@ -28,6 +45,6 @@
     "exporter", 
     "installs"
   ], 
-  "wof:brand_name": "Glass America", 
-  "wof:brand_id": 1125153017
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416291
 }

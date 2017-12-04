@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414553, 
+  "wof:brand_name": "Goodwill Stores", 
+  "wof:brand_id": 1125149701, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=thrift_store", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:organizations=nonprofit_organization", 
+    "sg:services=organizations", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=social_services", 
+    "retail_goods:shopping=clothing_apparel_and_fashions"
+  ], 
   "wof:tags": [
     "shop", 
     "hand", 
@@ -19,6 +30,6 @@
     "recycled", 
     "store"
   ], 
-  "wof:brand_name": "Goodwill Stores", 
-  "wof:brand_id": 1125149701
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416309
 }

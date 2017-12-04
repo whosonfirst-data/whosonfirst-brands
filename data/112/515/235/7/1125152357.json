@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414533, 
+  "wof:brand_name": "Kip McGrath Education Centres", 
+  "wof:brand_id": 1125152357, 
+  "wof:categories": [
+    "sg:public_place=education", 
+    "public_place:education=special_training", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional", 
+    "public_place:education=school", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=banks_and_credit_unions", 
+    "public_place:government=office", 
+    "sg:public_place=government"
+  ], 
   "wof:tags": [
     "tuition-educational", 
     "coach", 
@@ -17,6 +28,6 @@
     "correspondence", 
     "development"
   ], 
-  "wof:brand_name": "Kip McGrath Education Centres", 
-  "wof:brand_id": 1125152357
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416292
 }

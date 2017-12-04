@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414549, 
+  "wof:brand_name": "Cabinet Shop", 
+  "wof:brand_id": 1125161409, 
+  "wof:categories": [
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=furniture", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=building_materials", 
+    "manufacturing_and_wholesale_goods:manufacturing=furniture", 
+    "retail_goods:home_and_garden=building_materials"
+  ], 
   "wof:tags": [
     "cabinet", 
     "contractor", 
@@ -17,6 +27,6 @@
     "planning", 
     "remodeling"
   ], 
-  "wof:brand_name": "Cabinet Shop", 
-  "wof:brand_id": 1125161409
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416305
 }

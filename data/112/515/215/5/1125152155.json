@@ -1,6 +1,30 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414523, 
+  "wof:brand_name": "Marathon", 
+  "wof:brand_id": 1125152155, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:food_and_drink=restaurant", 
+    "sg:services=retail", 
+    "services:retail=auto_repair", 
+    "sg:services=professional", 
+    "entertainment:recreation=dance_hall", 
+    "food_and_drink:bars_and_pubs=lounge", 
+    "manufacturing_and_wholesale_goods:wholesale=chemicals_and_plastics", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "services:professional=business_services", 
+    "services:retail=auto_rental", 
+    "services:social_services=adult_care", 
+    "services:utilities=natural_gas", 
+    "sg:entertainment=recreation", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping", 
+    "sg:services=social_services", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "oil", 
     "gasoline", 
@@ -26,6 +50,6 @@
     "residential", 
     "self-drive"
   ], 
-  "wof:brand_name": "Marathon", 
-  "wof:brand_id": 1125152155
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416285
 }

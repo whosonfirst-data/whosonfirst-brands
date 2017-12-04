@@ -1,7 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414521, 
-  "wof:tags": [], 
   "wof:brand_name": "BNSF Railway Co", 
-  "wof:brand_id": 1125159797
+  "wof:brand_id": 1125159797, 
+  "wof:categories": [
+    "sg:transportation=railroad"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416283
 }

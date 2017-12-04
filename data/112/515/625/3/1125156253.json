@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414497, 
+  "wof:brand_name": "Hat World", 
+  "wof:brand_id": 1125156253, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "entertainment:sports_and_exercise=bicycle_rental", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "retail_goods:shopping=department_store", 
+    "services:health_services=podiatrist", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "hat", 
     "cap", 
@@ -12,6 +22,6 @@
     "store", 
     "wear"
   ], 
-  "wof:brand_name": "Hat World", 
-  "wof:brand_id": 1125156253
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416264
 }

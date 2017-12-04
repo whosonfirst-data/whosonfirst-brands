@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414505, 
+  "wof:brand_name": "Associated Securities Corp", 
+  "wof:brand_id": 1125159465, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=banks_and_credit_unions", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=office_equipment", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "financial", 
     "consultant", 
@@ -18,6 +26,6 @@
     "supply", 
     "system"
   ], 
-  "wof:brand_name": "Associated Securities Corp", 
-  "wof:brand_id": 1125159465
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416270
 }

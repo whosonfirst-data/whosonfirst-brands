@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414558, 
+  "wof:brand_name": "Harvey World Travel", 
+  "wof:brand_id": 1125149051, 
+  "wof:categories": [
+    "entertainment:travel=travel_agent", 
+    "sg:entertainment=travel", 
+    "sg:transportation=airline"
+  ], 
   "wof:tags": [
     "consultant", 
     "broker", 
@@ -10,6 +15,6 @@
     "holiday", 
     "tour"
   ], 
-  "wof:brand_name": "Harvey World Travel", 
-  "wof:brand_id": 1125149051
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416313
 }

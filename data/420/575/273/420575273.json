@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414447, 
+  "wof:brand_name": "Slimming World", 
+  "wof:brand_id": 420575273, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "sg:retail_goods=food_and_beverages", 
+    "entertainment:sports_and_exercise=playing_field", 
+    "manufacturing_and_wholesale_goods:manufacturing=textiles", 
+    "services:organizations=membership_organization", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "product", 
     "slimming", 
@@ -9,6 +20,6 @@
     "mnfr", 
     "rug"
   ], 
-  "wof:brand_name": "Slimming World", 
-  "wof:brand_id": 420575273
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416224
 }

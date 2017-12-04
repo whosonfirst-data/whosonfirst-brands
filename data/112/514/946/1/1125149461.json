@@ -1,6 +1,38 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414559, 
+  "wof:brand_name": "Herbalife", 
+  "wof:brand_id": 1125149461, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=personal", 
+    "services:insurance=health_insurance", 
+    "sg:services=insurance", 
+    "sg:services=health_services", 
+    "services:health_services=health_practitioner", 
+    "sg:services=professional", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=pharmacy", 
+    "services:professional=management_and_consulting", 
+    "manufacturing_and_wholesale_goods:wholesale=drugs", 
+    "services:professional=advertising", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "services:health_services=clinic", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "manufacturing_and_wholesale_goods:wholesale=farm_supplies", 
+    "retail_goods:food_and_beverages=fruits_and_vegetables", 
+    "retail_goods:shopping=catalog_store", 
+    "retail_goods:shopping=party_supplies", 
+    "services:banks_and_credit_unions=bank", 
+    "services:health_services=doctor", 
+    "services:personal=beauty_salon", 
+    "services:professional=business_services", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "health", 
     "diet", 
@@ -46,6 +78,6 @@
     "spice", 
     "supplement"
   ], 
-  "wof:brand_name": "Herbalife", 
-  "wof:brand_id": 1125149461
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416313
 }

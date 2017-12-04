@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414511, 
+  "wof:brand_name": "Am/PM Mini Market", 
+  "wof:brand_id": 1125157767, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "gasoline", 
     "station", 
@@ -10,6 +18,6 @@
     "operates", 
     "store"
   ], 
-  "wof:brand_name": "Am/PM Mini Market", 
-  "wof:brand_id": 1125157767
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416275
 }

@@ -1,11 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414542, 
+  "wof:brand_name": "Bras &#039;N&#039; Things", 
+  "wof:brand_id": 1125160099, 
+  "wof:categories": [
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "hosiery", 
     "lingerie", 
     "sleepwear"
   ], 
-  "wof:brand_name": "Bras &#039;N&#039; Things", 
-  "wof:brand_id": 1125160099
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416300
 }

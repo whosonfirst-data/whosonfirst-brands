@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414538, 
+  "wof:brand_name": "National Schizophrenia Fellowship", 
+  "wof:brand_id": 1125160591, 
+  "wof:categories": [
+    "services:organizations=nonprofit_organization", 
+    "sg:services=organizations", 
+    "public_place:education=special_training", 
+    "retail_goods:shopping=thrift_store", 
+    "services:professional=employment_agencies", 
+    "sg:public_place=education", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "charity", 
     "organisation", 
@@ -14,6 +25,6 @@
     "shop", 
     "special"
   ], 
-  "wof:brand_name": "National Schizophrenia Fellowship", 
-  "wof:brand_id": 1125160591
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416297
 }

@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414506, 
+  "wof:brand_name": "Child Support Enforcement", 
+  "wof:brand_id": 1125150769, 
+  "wof:categories": [
+    "sg:public_place=government", 
+    "public_place:government=office", 
+    "public_place:government=court_house", 
+    "sg:services=social_services", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:social_services=child_care"
+  ], 
   "wof:tags": [
     "resource", 
     "state", 
@@ -26,6 +36,6 @@
     "justice", 
     "system"
   ], 
-  "wof:brand_name": "Child Support Enforcement", 
-  "wof:brand_id": 1125150769
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416271
 }

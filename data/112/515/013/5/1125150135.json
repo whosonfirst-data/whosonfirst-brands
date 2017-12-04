@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414496, 
+  "wof:brand_name": "Mane Attraction", 
+  "wof:brand_id": 1125150135, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "services:personal=nail_salon", 
+    "services:personal=hair_removal", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "shop", 
     "hairdresser", 
@@ -14,6 +22,6 @@
     "establishment", 
     "lady"
   ], 
-  "wof:brand_name": "Mane Attraction", 
-  "wof:brand_id": 1125150135
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416264
 }

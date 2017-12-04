@@ -1,6 +1,25 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414501, 
+  "wof:brand_name": "Indoff Inc", 
+  "wof:brand_id": 1125151223, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:wholesale=furniture", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "services:professional=advertising", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "manufacturing_and_wholesale_goods:wholesale=office_equipment", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:professional=business_services", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "equipment", 
     "handling", 
@@ -29,6 +48,6 @@
     "supply", 
     "typewriter"
   ], 
-  "wof:brand_name": "Indoff Inc", 
-  "wof:brand_id": 1125151223
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416267
 }

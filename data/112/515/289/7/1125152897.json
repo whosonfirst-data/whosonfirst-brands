@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414537, 
+  "wof:brand_name": "Picture People", 
+  "wof:brand_id": 1125152897, 
+  "wof:categories": [
+    "services:retail=portrait_studio", 
+    "sg:services=retail", 
+    "sg:services=professional", 
+    "services:professional=art_services"
+  ], 
   "wof:tags": [
     "photographer", 
     "photo", 
@@ -12,6 +18,6 @@
     "rental", 
     "store"
   ], 
-  "wof:brand_name": "Picture People", 
-  "wof:brand_id": 1125152897
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416295
 }

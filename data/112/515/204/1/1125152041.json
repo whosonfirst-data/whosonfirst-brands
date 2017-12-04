@@ -1,12 +1,21 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414481, 
+  "wof:brand_name": "IOOF", 
+  "wof:brand_id": 1125152041, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=community_association", 
+    "sg:entertainment=recreation", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:organizations=professional_association", 
+    "services:organizations=religious_organization", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "fraternal", 
     "club", 
     "auditorium", 
     "hall"
   ], 
-  "wof:brand_name": "IOOF", 
-  "wof:brand_id": 1125152041
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416250
 }

@@ -1,6 +1,28 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414464, 
+  "wof:brand_name": "Healing Hands", 
+  "wof:brand_id": 1125159279, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "sg:services=health_services", 
+    "services:personal=massage", 
+    "services:health_services=health_practitioner", 
+    "services:health_services=clinic", 
+    "services:health_services=chiropractor", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=pharmacy", 
+    "services:personal=beauty_salon", 
+    "sg:services=professional", 
+    "entertainment:travel=hotels_and_motels", 
+    "manufacturing_and_wholesale_goods:manufacturing=retail_goods", 
+    "manufacturing_and_wholesale_goods:wholesale=medical_equipment_and_supplies", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:health_services=doctor", 
+    "services:health_services=medical_lab", 
+    "services:personal=adult", 
+    "sg:entertainment=travel", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "therapist", 
     "massage", 
@@ -26,6 +48,6 @@
     "specialty", 
     "therapy"
   ], 
-  "wof:brand_name": "Healing Hands", 
-  "wof:brand_id": 1125159279
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416237
 }

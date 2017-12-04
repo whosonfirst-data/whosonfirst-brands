@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414523, 
+  "wof:brand_name": "Bartlett Tree Experts", 
+  "wof:brand_id": 1125155881, 
+  "wof:categories": [
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=landscaping_services", 
+    "services:building_and_trades=pest_control", 
+    "manufacturing_and_wholesale_goods:farming=farm_and_veterinary_services", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "tree", 
     "landscape", 
@@ -20,6 +29,6 @@
     "trimming", 
     "weed"
   ], 
-  "wof:brand_name": "Bartlett Tree Experts", 
-  "wof:brand_id": 1125155881
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416285
 }

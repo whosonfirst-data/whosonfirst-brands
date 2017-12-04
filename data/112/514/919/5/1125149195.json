@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414555, 
+  "wof:brand_name": "Liquorland", 
+  "wof:brand_id": 1125149195, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "sg:retail_goods=food_and_beverages", 
+    "services:retail=event_space", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "store", 
     "drink", 
@@ -12,6 +18,6 @@
     "venue", 
     "wedding"
   ], 
-  "wof:brand_name": "Liquorland", 
-  "wof:brand_id": 1125149195
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416310
 }

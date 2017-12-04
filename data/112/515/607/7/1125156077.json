@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414534, 
+  "wof:brand_name": "First Federal Savings & Loan", 
+  "wof:brand_id": 1125156077, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "loan", 
     "association", 
@@ -9,6 +13,6 @@
     "saving", 
     "real estate"
   ], 
-  "wof:brand_name": "First Federal Savings & Loan", 
-  "wof:brand_id": 1125156077
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416293
 }

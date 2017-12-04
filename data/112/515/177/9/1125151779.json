@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414492, 
+  "wof:brand_name": "EZ Pawn Inc", 
+  "wof:brand_id": 1125151779, 
+  "wof:categories": [
+    "retail_goods:shopping=used_merchandise", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "pawnbroker"
   ], 
-  "wof:brand_name": "EZ Pawn Inc", 
-  "wof:brand_id": 1125151779
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416260
 }

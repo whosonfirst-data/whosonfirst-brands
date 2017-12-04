@@ -1,11 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414549, 
+  "wof:brand_name": "Mykonos", 
+  "wof:brand_id": 1125160583, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:shopping=crafts_and_fabrics", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "greek", 
     "art", 
     "mediterranean"
   ], 
-  "wof:brand_name": "Mykonos", 
-  "wof:brand_id": 1125160583
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416305
 }

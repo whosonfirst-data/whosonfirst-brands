@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414511, 
+  "wof:brand_name": "Start", 
+  "wof:brand_id": 1125150005, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "services:health_services=nursing_and_care_facility", 
+    "services:professional=management_and_consulting", 
+    "services:professional=testing_lab", 
+    "sg:retail_goods=shopping", 
+    "sg:services=health_services", 
+    "sg:services=social_services", 
+    "sg:transportation=local_transit"
+  ], 
   "wof:tags": [
     "article", 
     "business", 
@@ -13,6 +24,6 @@
     "product", 
     "sport"
   ], 
-  "wof:brand_name": "Start", 
-  "wof:brand_id": 1125150005
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416275
 }

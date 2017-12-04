@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414474, 
+  "wof:brand_name": "Anchor Blue", 
+  "wof:brand_id": 1125152565, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:public_place=shopping_center", 
+    "retail_goods:shopping=department_store", 
+    "entertainment:sports_and_exercise=bicycle_rental", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "clothing", 
     "store", 
@@ -19,6 +29,6 @@
     "merchandise", 
     "wear"
   ], 
-  "wof:brand_name": "Anchor Blue", 
-  "wof:brand_id": 1125152565
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416245
 }

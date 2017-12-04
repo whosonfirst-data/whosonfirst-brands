@@ -1,6 +1,16 @@
 {
   "wof:brand_name": "Kohl's", 
   "wof:brand_id": 420575041, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=department_store", 
+    "sg:services=professional", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:building_and_trades=construction", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "establishment", 
     "car", 
@@ -15,6 +25,6 @@
     1125157427
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414452, 
+  "wof:lastmodified": 1512416228, 
   "mz:is_current": 1
 }

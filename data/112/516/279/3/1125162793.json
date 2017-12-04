@@ -1,12 +1,18 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414547, 
+  "wof:brand_name": "Snappy Snaps", 
+  "wof:brand_id": 1125162793, 
+  "wof:categories": [
+    "services:retail=photofinishing", 
+    "sg:services=retail", 
+    "services:professional=art_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "photographic", 
     "processor", 
     "photographer", 
     "processing"
   ], 
-  "wof:brand_name": "Snappy Snaps", 
-  "wof:brand_id": 1125162793
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416303
 }

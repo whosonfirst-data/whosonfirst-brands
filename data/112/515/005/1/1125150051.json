@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414489, 
+  "wof:brand_name": "Quality Cleaners", 
+  "wof:brand_id": 1125150051, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "sg:services=personal", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:building_and_trades=construction", 
+    "services:retail=repair_shop", 
+    "services:social_services=adult_care", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=shopping", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "cleaners", 
     "drycleaning", 
@@ -26,6 +41,6 @@
     "pressing", 
     "restoration"
   ], 
-  "wof:brand_name": "Quality Cleaners", 
-  "wof:brand_id": 1125150051
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416257
 }

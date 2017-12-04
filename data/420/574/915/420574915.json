@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414462, 
+  "wof:brand_name": "Kb Toys", 
+  "wof:brand_id": 420574915, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "manufacturing_and_wholesale_goods:manufacturing=toys_and_sporting_goods", 
+    "retail_goods:shopping=books", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "services:professional=management_and_consulting", 
+    "services:real_estate=real_estate_agent", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=professional", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "store", 
     "item", 
@@ -13,6 +25,6 @@
     "mfg", 
     "regional"
   ], 
-  "wof:brand_name": "Kb Toys", 
-  "wof:brand_id": 420574915
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416236
 }

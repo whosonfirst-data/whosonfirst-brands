@@ -1,6 +1,14 @@
 {
   "wof:brand_name": "Jenny Craig", 
   "wof:brand_id": 1125149867, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "entertainment:sports_and_exercise=gym", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:services=health_services", 
+    "services:health_services=health_practitioner", 
+    "services:health_services=clinic"
+  ], 
   "wof:tags": [
     "weight", 
     "control", 
@@ -42,6 +50,6 @@
     420575493
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414555, 
+  "wof:lastmodified": 1512416310, 
   "mz:is_current": 1
 }

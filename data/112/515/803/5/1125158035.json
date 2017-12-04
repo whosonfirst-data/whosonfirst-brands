@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414531, 
+  "wof:brand_name": "Bargain Booze", 
+  "wof:brand_id": 1125158035, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "services:banks_and_credit_unions=bureau_de_change", 
+    "sg:retail_goods=shopping", 
+    "sg:services=banks_and_credit_unions", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "retail_goods:shopping=news", 
+    "retail_goods:shopping=thrift_store"
+  ], 
   "wof:tags": [
     "beer", 
     "spirit", 
@@ -11,6 +24,6 @@
     "charity", 
     "shop"
   ], 
-  "wof:brand_name": "Bargain Booze", 
-  "wof:brand_id": 1125158035
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416291
 }

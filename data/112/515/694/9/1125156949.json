@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414469, 
+  "wof:brand_name": "Davis Construction", 
+  "wof:brand_id": 1125156949, 
+  "wof:categories": [
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=construction", 
+    "manufacturing_and_wholesale_goods:manufacturing=buildings", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "services:building_and_trades=electrical", 
+    "services:professional=engineering", 
+    "services:real_estate=architect", 
+    "services:retail=animal_services", 
+    "sg:services=professional", 
+    "sg:services=real_estate", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "contractor", 
     "house", 
@@ -24,6 +37,6 @@
     "telecommunication", 
     "trade"
   ], 
-  "wof:brand_name": "Davis Construction", 
-  "wof:brand_id": 1125156949
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416241
 }

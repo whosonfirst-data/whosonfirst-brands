@@ -1,12 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414511, 
+  "wof:brand_name": "Martens", 
+  "wof:brand_id": 1125157669, 
+  "wof:categories": [
+    "services:building_and_trades=electrical", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "-", 
     "contractor", 
     "electric", 
     "housewiring"
   ], 
-  "wof:brand_name": "Martens", 
-  "wof:brand_id": 1125157669
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416275
 }

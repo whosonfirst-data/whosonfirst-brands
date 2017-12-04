@@ -1,12 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414550, 
+  "wof:brand_name": "Nail Design", 
+  "wof:brand_id": 1125160275, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon"
+  ], 
   "wof:tags": [
     "manicuring", 
     "shop", 
     "nail", 
     "artificial"
   ], 
-  "wof:brand_name": "Nail Design", 
-  "wof:brand_id": 1125160275
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416306
 }

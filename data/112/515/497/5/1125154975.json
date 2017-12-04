@@ -1,11 +1,21 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414465, 
+  "wof:brand_name": "Chevron Stations", 
+  "wof:brand_id": 1125154975, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "public_place:government=office", 
+    "sg:public_place=government"
+  ], 
   "wof:tags": [
     "oil", 
     "check", 
     "smog"
   ], 
-  "wof:brand_name": "Chevron Stations", 
-  "wof:brand_id": 1125154975
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416238
 }

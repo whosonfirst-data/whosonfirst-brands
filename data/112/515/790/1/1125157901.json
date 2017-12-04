@@ -1,10 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414536, 
+  "wof:brand_name": "Mark's Work Wearhouse Ltd", 
+  "wof:brand_id": 1125157901, 
+  "wof:categories": [
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "furnishing", 
     "work"
   ], 
-  "wof:brand_name": "Mark's Work Wearhouse Ltd", 
-  "wof:brand_id": 1125157901
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416295
 }

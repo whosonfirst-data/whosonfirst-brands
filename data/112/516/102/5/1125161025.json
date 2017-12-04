@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414549, 
+  "wof:brand_name": "Auto Works", 
+  "wof:brand_id": 1125161025, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=auto_repair", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "services:retail=car_wash"
+  ], 
   "wof:tags": [
     "automobile", 
     "repairing", 
@@ -17,6 +25,6 @@
     "plumbing", 
     "shop"
   ], 
-  "wof:brand_name": "Auto Works", 
-  "wof:brand_id": 1125161025
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416305
 }

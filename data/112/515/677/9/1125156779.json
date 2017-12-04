@@ -1,6 +1,36 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414528, 
+  "wof:brand_name": "Market America", 
+  "wof:brand_id": 1125156779, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:services=professional", 
+    "sg:retail_goods=shopping", 
+    "services:professional=management_and_consulting", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:food_and_beverages=specialty", 
+    "retail_goods:shopping=catalog_store", 
+    "services:professional=advertising", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "services:professional=research", 
+    "sg:services=banks_and_credit_unions", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "manufacturing_and_wholesale_goods:wholesale=books_periodicals_and_newspapers", 
+    "manufacturing_and_wholesale_goods:wholesale=drugs", 
+    "public_place:government=office", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:health_services=health_practitioner", 
+    "services:organizations=religious_organization", 
+    "services:professional=business_services", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:public_place=government", 
+    "sg:services=health_services", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "direct", 
     "mail", 
@@ -43,6 +73,6 @@
     "vitamin", 
     "worship"
   ], 
-  "wof:brand_name": "Market America", 
-  "wof:brand_id": 1125156779
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416288
 }

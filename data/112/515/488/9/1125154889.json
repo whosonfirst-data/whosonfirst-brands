@@ -1,7 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414507, 
-  "wof:tags": [], 
   "wof:brand_name": "International Union-Oper Engrs", 
-  "wof:brand_id": 1125154889
+  "wof:brand_id": 1125154889, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=labor_organization", 
+    "services:organizations=professional_association"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416272
 }

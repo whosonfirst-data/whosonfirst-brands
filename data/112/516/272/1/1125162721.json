@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414537, 
+  "wof:brand_name": "Medical Arts Pharmacy", 
+  "wof:brand_id": 1125162721, 
+  "wof:categories": [
+    "retail_goods:shopping=pharmacy", 
+    "sg:retail_goods=shopping", 
+    "services:health_services=clinic", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=health_services", 
+    "manufacturing_and_wholesale_goods:wholesale=drugs", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "services:professional=lawyer_and_legal_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "drug", 
     "drugstore", 
@@ -11,6 +22,6 @@
     "pharmacy", 
     "proprietary"
   ], 
-  "wof:brand_name": "Medical Arts Pharmacy", 
-  "wof:brand_id": 1125162721
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416296
 }

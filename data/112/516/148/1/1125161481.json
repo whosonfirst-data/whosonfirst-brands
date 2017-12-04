@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414544, 
+  "wof:brand_name": "Golf Shop", 
+  "wof:brand_id": 1125161481, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "entertainment:sports_and_exercise=golf", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:entertainment=recreation", 
+    "services:retail=repair_shop", 
+    "sg:services=retail", 
+    "sg:services=organizations", 
+    "manufacturing_and_wholesale_goods:manufacturing=toys_and_sporting_goods", 
+    "services:organizations=community_association", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "entertainment:travel=hotels_and_motels", 
+    "services:organizations=membership_organization", 
+    "sg:entertainment=travel", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "golf", 
     "equipment", 
@@ -27,6 +44,6 @@
     "store", 
     "trophy"
   ], 
-  "wof:brand_name": "Golf Shop", 
-  "wof:brand_id": 1125161481
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416301
 }

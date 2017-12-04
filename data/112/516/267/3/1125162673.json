@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414545, 
+  "wof:brand_name": "Internal Medicine Associates", 
+  "wof:brand_id": 1125162673, 
+  "wof:categories": [
+    "services:health_services=doctor", 
+    "sg:services=health_services", 
+    "public_place:education=college", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "medical", 
     "physician", 
@@ -16,6 +22,6 @@
     "osteopathic", 
     "practice"
   ], 
-  "wof:brand_name": "Internal Medicine Associates", 
-  "wof:brand_id": 1125162673
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416302
 }

@@ -1,10 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414540, 
+  "wof:brand_name": "CENTRAL Parking", 
+  "wof:brand_id": 1125160107, 
+  "wof:categories": [
+    "sg:transportation=parking"
+  ], 
   "wof:tags": [
     "garage", 
     "attendant"
   ], 
-  "wof:brand_name": "CENTRAL Parking", 
-  "wof:brand_id": 1125160107
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416298
 }

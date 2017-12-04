@@ -1,10 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414484, 
+  "wof:brand_name": "S&K Famous Brand Menswear", 
+  "wof:brand_id": 1125154249, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=used_merchandise"
+  ], 
   "wof:tags": [
     "furnishing", 
     "clothing"
   ], 
-  "wof:brand_name": "S&K Famous Brand Menswear", 
-  "wof:brand_id": 1125154249
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416253
 }

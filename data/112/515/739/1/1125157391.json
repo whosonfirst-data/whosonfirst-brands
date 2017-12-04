@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414490, 
+  "wof:brand_name": "G & K Svc", 
+  "wof:brand_id": 1125157391, 
+  "wof:categories": [
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=shopping", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:services=retail", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=rubber_and_plastics", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "manufacturing_and_wholesale_goods:wholesale=home_furnishings", 
+    "manufacturing_and_wholesale_goods:wholesale=vending_machines", 
+    "retail_goods:home_and_garden=carpets_and_floor_coverings", 
+    "services:professional=advertising", 
+    "services:professional=detective_and_security_services", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "uniform", 
     "supply", 
@@ -22,6 +39,6 @@
     "wear", 
     "wiping"
   ], 
-  "wof:brand_name": "G & K Svc", 
-  "wof:brand_id": 1125157391
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416258
 }

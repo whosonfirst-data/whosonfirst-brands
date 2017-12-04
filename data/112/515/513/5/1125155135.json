@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414515, 
+  "wof:brand_name": "Great Wall Restaurant", 
+  "wof:brand_id": 1125155135, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "food_and_drink:bars_and_pubs=lounge", 
+    "services:retail=event_space", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:services=professional", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "eating", 
     "chinese", 
@@ -21,6 +29,6 @@
     "seafood", 
     "soup"
   ], 
-  "wof:brand_name": "Great Wall Restaurant", 
-  "wof:brand_id": 1125155135
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416278
 }

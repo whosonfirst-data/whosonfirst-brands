@@ -1,6 +1,37 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414466, 
+  "wof:brand_name": "Whistle Stop", 
+  "wof:brand_id": 1125158225, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=used_merchandise", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "sg:services=professional", 
+    "sg:entertainment=recreation", 
+    "sg:services=building_and_trades", 
+    "entertainment:recreation=arcade", 
+    "entertainment:recreation=gun_range", 
+    "entertainment:travel=hotels_and_motels", 
+    "manufacturing_and_wholesale_goods:manufacturing=jewelry", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=jewelry", 
+    "retail_goods:shopping=news", 
+    "services:building_and_trades=construction", 
+    "services:building_and_trades=landscaping_services", 
+    "services:personal=beauty_salon", 
+    "services:professional=art_services", 
+    "services:utilities=mobile_phone", 
+    "sg:entertainment=travel", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=personal", 
+    "sg:services=social_services", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "eating", 
     "shop", 
@@ -47,6 +78,6 @@
     "welfare", 
     "wine"
   ], 
-  "wof:brand_name": "Whistle Stop", 
-  "wof:brand_id": 1125158225
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416239
 }

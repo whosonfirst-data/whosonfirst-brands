@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414538, 
+  "wof:brand_name": "Muffler Shop", 
+  "wof:brand_id": 1125160919, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "exhaust", 
     "muffler", 
@@ -18,6 +26,6 @@
     "transmission", 
     "welding"
   ], 
-  "wof:brand_name": "Muffler Shop", 
-  "wof:brand_id": 1125160919
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416296
 }

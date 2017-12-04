@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414494, 
+  "wof:brand_name": "National Assoc of Letter", 
+  "wof:brand_id": 1125159949, 
+  "wof:categories": [
+    "services:professional=business_services", 
+    "sg:services=professional", 
+    "sg:services=organizations", 
+    "services:organizations=labor_organization", 
+    "services:organizations=membership_organization", 
+    "services:organizations=nonprofit_organization", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "advertising", 
     "direct", 
@@ -10,6 +19,6 @@
     "social", 
     "trucking"
   ], 
-  "wof:brand_name": "National Assoc of Letter", 
-  "wof:brand_id": 1125159949
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416261
 }

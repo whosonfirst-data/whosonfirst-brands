@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414453, 
+  "wof:brand_name": "Jackson Hewitt Tax Svc", 
+  "wof:brand_id": 420573819, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=accounting_and_tax_preparation", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:banks_and_credit_unions=financial_services"
+  ], 
   "wof:tags": [
     "filing", 
     "return", 
@@ -13,6 +20,6 @@
     "patent", 
     "planning"
   ], 
-  "wof:brand_name": "Jackson Hewitt Tax Svc", 
-  "wof:brand_id": 420573819
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416228
 }

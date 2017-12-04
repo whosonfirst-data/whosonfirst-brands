@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414526, 
+  "wof:brand_name": "BOC", 
+  "wof:brand_id": 1125155341, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "sg:public_place=industrial_area", 
+    "services:professional=art_services", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "retail_goods:home_and_garden=building_materials", 
+    "services:utilities=natural_gas", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:retail_goods=shopping", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "equipment", 
     "industrial", 
@@ -16,6 +31,6 @@
     "safety", 
     "supplier"
   ], 
-  "wof:brand_name": "BOC", 
-  "wof:brand_id": 1125155341
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416286
 }

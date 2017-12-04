@@ -1,6 +1,33 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414471, 
+  "wof:brand_name": "Cash Converters", 
+  "wof:brand_id": 1125151765, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=used_merchandise", 
+    "retail_goods:shopping=pawn_shop", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=financial_services", 
+    "retail_goods:shopping=jewelry", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:banks_and_credit_unions=bank", 
+    "manufacturing_and_wholesale_goods:manufacturing=jewelry", 
+    "manufacturing_and_wholesale_goods:wholesale=jewelry", 
+    "public_place:education=music_school", 
+    "retail_goods:shopping=musical_instruments", 
+    "services:building_and_trades=pest_control", 
+    "services:organizations=labor_organization", 
+    "services:professional=computer_services", 
+    "services:retail=repair_shop", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=education", 
+    "sg:services=building_and_trades", 
+    "sg:services=organizations", 
+    "sg:services=professional", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "pawnbroker", 
     "second-hand", 
@@ -41,6 +68,6 @@
     "surplus", 
     "teacher"
   ], 
-  "wof:brand_name": "Cash Converters", 
-  "wof:brand_id": 1125151765
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416242
 }

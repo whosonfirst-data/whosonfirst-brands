@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414500, 
+  "wof:brand_name": "Punch Leisure Ltd", 
+  "wof:brand_id": 1125156631, 
+  "wof:categories": [
+    "sg:food_and_drink=bars_and_pubs", 
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel", 
+    "sg:food_and_drink=restaurant", 
+    "food_and_drink:bars_and_pubs=wine_bar", 
+    "entertainment:recreation=dance_hall", 
+    "sg:entertainment=recreation", 
+    "sg:food_and_drink=brewery", 
+    "sg:food_and_drink=cafe", 
+    "sg:public_place=community_center"
+  ], 
   "wof:tags": [
     "inn", 
     "pubs", 
@@ -12,6 +24,6 @@
     "room", 
     "tea"
   ], 
-  "wof:brand_name": "Punch Leisure Ltd", 
-  "wof:brand_id": 1125156631
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416266
 }

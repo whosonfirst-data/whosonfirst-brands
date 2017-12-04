@@ -1,6 +1,25 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414552, 
+  "wof:brand_name": "Petco", 
+  "wof:brand_id": 1125149275, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=pets_and_pet_supplies", 
+    "sg:services=retail", 
+    "services:retail=pet_boarding", 
+    "services:retail=animal_services", 
+    "sg:entertainment=museum", 
+    "entertainment:museum=aquarium", 
+    "services:professional=business_services", 
+    "sg:services=professional", 
+    "entertainment:museum=zoo", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "services:real_estate=real_estate_agent", 
+    "services:retail=veterinary_services", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=real_estate", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "store", 
     "pet", 
@@ -26,6 +45,6 @@
     "outlet", 
     "veterinarian"
   ], 
-  "wof:brand_name": "Petco", 
-  "wof:brand_id": 1125149275
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416308
 }

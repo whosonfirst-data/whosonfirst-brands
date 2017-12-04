@@ -1,12 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414500, 
+  "wof:brand_name": "Sullivan Nicolaides Pathology", 
+  "wof:brand_id": 1125152679, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=doctor", 
+    "services:health_services=medical_lab"
+  ], 
   "wof:tags": [
     "medical", 
     "practitioner", 
     "laboratory", 
     "pathology"
   ], 
-  "wof:brand_name": "Sullivan Nicolaides Pathology", 
-  "wof:brand_id": 1125152679
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416266
 }

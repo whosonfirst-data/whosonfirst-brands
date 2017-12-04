@@ -1,6 +1,28 @@
 {
   "wof:brand_name": "Boy Scouts of America", 
   "wof:brand_id": 1125161725, 
+  "wof:categories": [
+    "sg:services=social_services", 
+    "sg:services=organizations", 
+    "services:organizations=community_association", 
+    "entertainment:travel=campground", 
+    "sg:entertainment=travel", 
+    "public_place:community_center=youth", 
+    "sg:public_place=community_center", 
+    "services:organizations=professional_association", 
+    "services:social_services=adult_care", 
+    "sg:entertainment=recreation", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:services=professional", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "services:organizations=nonprofit_organization", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:organizations=membership_organization", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "youth", 
     "center", 
@@ -37,6 +59,6 @@
     420575027
   ], 
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414538, 
+  "wof:lastmodified": 1512416297, 
   "mz:is_current": 1
 }

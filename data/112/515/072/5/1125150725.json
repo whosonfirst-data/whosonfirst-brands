@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414490, 
+  "wof:brand_name": "TPS", 
+  "wof:brand_id": 1125150725, 
+  "wof:categories": [
+    "sg:transportation=freight", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "services:building_and_trades=landscaping_services", 
+    "services:communications=film_and_video_production", 
+    "services:professional=computer_services", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=building_and_trades", 
+    "sg:services=communications", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "equipment", 
     "agent", 
@@ -12,6 +25,6 @@
     "racing", 
     "repair"
   ], 
-  "wof:brand_name": "TPS", 
-  "wof:brand_id": 1125150725
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416258
 }

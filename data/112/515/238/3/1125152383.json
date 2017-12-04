@@ -1,6 +1,31 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414523, 
+  "wof:brand_name": "Western Auto", 
+  "wof:brand_id": 1125152383, 
+  "wof:categories": [
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "sg:services=retail", 
+    "services:retail=auto_repair", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:wholesale=hardware", 
+    "retail_goods:home_and_garden=hardware", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=rubber_and_plastics", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "retail_goods:home_and_garden=building_materials", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "retail_goods:shopping=catalog_store", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "services:retail=repair_shop", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "automobile", 
     "parts", 
@@ -50,6 +75,6 @@
     "supply", 
     "tires-wholesale"
   ], 
-  "wof:brand_name": "Western Auto", 
-  "wof:brand_id": 1125152383
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416284
 }

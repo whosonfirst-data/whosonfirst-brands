@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414499, 
+  "wof:brand_name": "JeansWest", 
+  "wof:brand_id": 1125151433, 
+  "wof:categories": [
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "jean"
   ], 
-  "wof:brand_name": "JeansWest", 
-  "wof:brand_id": 1125151433
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416266
 }

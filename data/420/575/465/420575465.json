@@ -1,6 +1,37 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414445, 
+  "wof:brand_name": "Ferguson Enterprises Inc", 
+  "wof:brand_id": 420575465, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=hardware", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "retail_goods:home_and_garden=building_materials", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "manufacturing_and_wholesale_goods:wholesale=metals_and_minerals", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "services:building_and_trades=plumbing", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:manufacturing=glass_and_minerals", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=building_materials", 
+    "manufacturing_and_wholesale_goods:wholesale=construction_materials", 
+    "manufacturing_and_wholesale_goods:wholesale=home_furnishings", 
+    "public_place:structure=warehouse", 
+    "retail_goods:food_and_beverages=meat_and_fish", 
+    "services:professional=advertising", 
+    "services:professional=computer_services", 
+    "services:utilities=sewage", 
+    "sg:public_place=structure", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:retail_goods=shopping", 
+    "sg:services=utilities", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "plumbing", 
     "supply", 
@@ -60,6 +91,6 @@
     "warm", 
     "works"
   ], 
-  "wof:brand_name": "Ferguson Enterprises Inc", 
-  "wof:brand_id": 420575465
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416223
 }

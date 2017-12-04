@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414507, 
+  "wof:brand_name": "Advanced Physical Therapy", 
+  "wof:brand_id": 1125155329, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=health_practitioner", 
+    "services:health_services=chiropractor", 
+    "services:health_services=clinic", 
+    "services:health_services=doctor", 
+    "entertainment:sports_and_exercise=gym", 
+    "services:personal=hair_removal", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:public_place=community_center", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "physical", 
     "therapist", 
@@ -19,6 +31,6 @@
     "trainer", 
     "treatment"
   ], 
-  "wof:brand_name": "Advanced Physical Therapy", 
-  "wof:brand_id": 1125155329
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416272
 }

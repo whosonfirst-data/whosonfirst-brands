@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414548, 
+  "wof:brand_name": "Camille's Sidewalk Cafe", 
+  "wof:brand_id": 1125161737, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=cafe", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:food_and_drink=deli", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=professional", 
+    "sg:food_and_drink=coffee_and_tea"
+  ], 
   "wof:tags": [
     "american", 
     "sandwich", 
@@ -22,6 +31,6 @@
     "soup", 
     "traditional"
   ], 
-  "wof:brand_name": "Camille's Sidewalk Cafe", 
-  "wof:brand_id": 1125161737
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416304
 }

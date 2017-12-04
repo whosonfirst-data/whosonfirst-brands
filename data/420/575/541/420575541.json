@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414452, 
+  "wof:brand_name": "Kangaroo Express", 
+  "wof:brand_id": 420575541, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "services:professional=business_services", 
+    "sg:services=professional", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "gasoline", 
     "station", 
@@ -10,6 +19,6 @@
     "interstate", 
     "trucking"
   ], 
-  "wof:brand_name": "Kangaroo Express", 
-  "wof:brand_id": 420575541
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416227
 }

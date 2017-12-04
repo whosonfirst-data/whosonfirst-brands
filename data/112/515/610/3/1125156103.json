@@ -1,10 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414521, 
+  "wof:brand_name": "Mann & Co", 
+  "wof:brand_id": 1125156103, 
+  "wof:categories": [
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate", 
+    "sg:services=professional", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=business_services", 
+    "services:professional=lawyer_and_legal_services", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "accountant", 
     "management"
   ], 
-  "wof:brand_name": "Mann & Co", 
-  "wof:brand_id": 1125156103
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416283
 }

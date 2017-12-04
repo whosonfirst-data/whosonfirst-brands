@@ -1,12 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414524, 
+  "wof:brand_name": "America's Tire", 
+  "wof:brand_id": 1125159459, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "manufacturing_and_wholesale_goods:manufacturing=rubber_and_plastics", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "tire", 
     "wheel", 
     "manufacturer", 
     "tires-wholesale"
   ], 
-  "wof:brand_name": "America's Tire", 
-  "wof:brand_id": 1125159459
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416286
 }

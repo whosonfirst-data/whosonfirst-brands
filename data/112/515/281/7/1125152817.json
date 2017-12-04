@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414507, 
+  "wof:brand_name": "Schneider", 
+  "wof:brand_id": 1125152817, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "services:building_and_trades=construction", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "air conditioning", 
     "contractor", 
@@ -10,6 +16,6 @@
     "specialty", 
     "system"
   ], 
-  "wof:brand_name": "Schneider", 
-  "wof:brand_id": 1125152817
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416272
 }

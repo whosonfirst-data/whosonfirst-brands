@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414535, 
+  "wof:brand_name": "Pulte", 
+  "wof:brand_id": 1125150333, 
+  "wof:categories": [
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "manufacturing_and_wholesale_goods:manufacturing=buildings", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=real_estate", 
+    "services:real_estate=developer", 
+    "services:real_estate=real_estate_services"
+  ], 
   "wof:tags": [
     "builder", 
     "operative", 
@@ -19,6 +30,6 @@
     "developer", 
     "real estate"
   ], 
-  "wof:brand_name": "Pulte", 
-  "wof:brand_id": 1125150333
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416294
 }

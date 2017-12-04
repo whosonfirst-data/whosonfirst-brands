@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414530, 
+  "wof:brand_name": "Security Self Storage", 
+  "wof:brand_id": 1125157063, 
+  "wof:categories": [
+    "sg:transportation=freight", 
+    "sg:services=retail", 
+    "services:retail=storage", 
+    "manufacturing_and_wholesale_goods:manufacturing=paper_products", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=professional", 
+    "services:retail=auto_rental", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "commercial", 
     "storage", 
@@ -20,6 +30,6 @@
     "packaging", 
     "truck"
   ], 
-  "wof:brand_name": "Security Self Storage", 
-  "wof:brand_id": 1125157063
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416290
 }

@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414539, 
+  "wof:brand_name": "Enterprise", 
+  "wof:brand_id": 1125161805, 
+  "wof:categories": [
+    "services:retail=auto_rental", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=professional", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "retail_goods:food_and_beverages=fruits_and_vegetables", 
+    "retail_goods:shopping=pharmacy", 
+    "services:professional=business_services", 
+    "services:real_estate=real_estate_agent", 
+    "sg:food_and_drink=cafe", 
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:retail_goods=shopping", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "car", 
     "newspaper", 
@@ -20,6 +38,6 @@
     "rental", 
     "sandwich"
   ], 
-  "wof:brand_name": "Enterprise", 
-  "wof:brand_id": 1125161805
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416297
 }

@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414485, 
+  "wof:brand_name": "Humana", 
+  "wof:brand_id": 1125154319, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=health_insurance", 
+    "sg:services=professional", 
+    "services:insurance=hazard_insurance", 
+    "services:insurance=life_insurance", 
+    "services:professional=management_and_consulting", 
+    "sg:services=health_services", 
+    "services:insurance=insurance_agent", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=pharmacy", 
+    "services:health_services=hospital", 
+    "services:health_services=doctor", 
+    "retail_goods:shopping=department_store", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=research"
+  ], 
   "wof:tags": [
     "plan", 
     "carrier", 
@@ -30,6 +47,6 @@
     "store", 
     "surgeon"
   ], 
-  "wof:brand_name": "Humana", 
-  "wof:brand_id": 1125154319
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416254
 }

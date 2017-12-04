@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414518, 
+  "wof:brand_name": "Nail Gallery", 
+  "wof:brand_id": 1125157681, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon"
+  ], 
   "wof:tags": [
     "manicuring", 
     "shop", 
@@ -8,6 +13,6 @@
     "skin", 
     "treatment"
   ], 
-  "wof:brand_name": "Nail Gallery", 
-  "wof:brand_id": 1125157681
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416280
 }

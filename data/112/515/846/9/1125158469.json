@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414467, 
+  "wof:brand_name": "CGU", 
+  "wof:brand_id": 1125158469, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=hazard_insurance", 
+    "services:insurance=insurance_agent", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "accident", 
     "fire", 
@@ -10,6 +17,6 @@
     "friendly", 
     "society"
   ], 
-  "wof:brand_name": "CGU", 
-  "wof:brand_id": 1125158469
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416239
 }

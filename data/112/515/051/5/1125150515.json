@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414534, 
+  "wof:brand_name": "National Vision", 
+  "wof:brand_id": 1125150515, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=optical_goods", 
+    "sg:services=health_services", 
+    "services:health_services=optometrist", 
+    "retail_goods:shopping=optician", 
+    "retail_goods:shopping=department_store", 
+    "sg:services=professional", 
+    "services:health_services=doctor", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "services:health_services=health_practitioner", 
+    "services:professional=art_services", 
+    "services:professional=business_services", 
+    "services:retail=photofinishing", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "center", 
     "eyewear", 
@@ -25,6 +43,6 @@
     "surgeon", 
     "surgeons"
   ], 
-  "wof:brand_name": "National Vision", 
-  "wof:brand_id": 1125150515
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416293
 }

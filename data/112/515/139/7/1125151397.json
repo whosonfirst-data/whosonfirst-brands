@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414470, 
+  "wof:brand_name": "Texaco Xpress Lube", 
+  "wof:brand_id": 1125151397, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "automobile", 
     "lubrication", 
@@ -12,6 +22,6 @@
     "change", 
     "inspection"
   ], 
-  "wof:brand_name": "Texaco Xpress Lube", 
-  "wof:brand_id": 1125151397
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416242
 }

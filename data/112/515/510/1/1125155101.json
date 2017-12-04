@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414519, 
+  "wof:brand_name": "Benihana", 
+  "wof:brand_id": 1125155101, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "food_and_drink:bars_and_pubs=nightclub", 
+    "sg:entertainment=arts_and_performance", 
+    "entertainment:arts_and_performance=arts_center", 
+    "entertainment:arts_and_performance=comedy_club", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "japanese", 
     "asian", 
@@ -19,6 +29,6 @@
     "spirit", 
     "wine"
   ], 
-  "wof:brand_name": "Benihana", 
-  "wof:brand_id": 1125155101
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416281
 }

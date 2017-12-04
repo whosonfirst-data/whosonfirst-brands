@@ -1,11 +1,37 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414539, 
+  "wof:brand_name": "Co-Operative Group (C W S) Ltd.", 
+  "wof:brand_id": 1125161763, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:shopping=department_store", 
+    "sg:retail_goods=shopping", 
+    "entertainment:travel=travel_agent", 
+    "retail_goods:home_and_garden=furniture", 
+    "sg:entertainment=travel", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:food_and_beverages=fruits_and_vegetables", 
+    "services:health_services=optometrist", 
+    "services:retail=funeral_services", 
+    "sg:services=health_services", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:farming=dairy_farm", 
+    "manufacturing_and_wholesale_goods:wholesale=fruits_and_vegetables", 
+    "public_place:government=post_office", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=conference_center", 
+    "sg:public_place=government", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "greengrocer", 
     "car", 
     "optician"
   ], 
-  "wof:brand_name": "Co-Operative Group (C W S) Ltd.", 
-  "wof:brand_id": 1125161763
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416297
 }

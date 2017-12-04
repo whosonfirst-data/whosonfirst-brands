@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414508, 
+  "wof:brand_name": "Big Apple Bagels", 
+  "wof:brand_id": 1125152079, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:food_and_drink=restaurant", 
+    "food_and_drink:bagels=none", 
+    "sg:food_and_drink=bagels", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "sg:food_and_drink=coffee_and_tea", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:professional=business_services", 
+    "sg:food_and_drink=bakery", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "bagel", 
     "eating", 
@@ -23,6 +38,6 @@
     "retail", 
     "retailer"
   ], 
-  "wof:brand_name": "Big Apple Bagels", 
-  "wof:brand_id": 1125152079
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416273
 }

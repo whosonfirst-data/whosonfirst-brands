@@ -1,6 +1,31 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414471, 
+  "wof:brand_name": "Nike", 
+  "wof:brand_id": 1125159959, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=shoes", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=rubber_and_plastics", 
+    "entertainment:sports_and_exercise=bicycle_rental", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:services=professional", 
+    "sg:transportation=freight", 
+    "manufacturing_and_wholesale_goods:manufacturing=leather_goods", 
+    "manufacturing_and_wholesale_goods:wholesale=sporting_goods", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:personal=beauty_salon", 
+    "services:professional=business_services", 
+    "services:professional=computer_services", 
+    "services:professional=management_and_consulting", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=personal", 
+    "sg:services=social_services", 
+    "sg:transportation=airport"
+  ], 
   "wof:tags": [
     "footwear", 
     "athletic", 
@@ -27,6 +52,6 @@
     "sporting", 
     "technical"
   ], 
-  "wof:brand_name": "Nike", 
-  "wof:brand_id": 1125159959
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416243
 }

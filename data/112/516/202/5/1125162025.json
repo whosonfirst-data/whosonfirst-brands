@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414544, 
+  "wof:brand_name": "Sun Cleaners", 
+  "wof:brand_id": 1125162025, 
+  "wof:categories": [
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:services=retail", 
+    "sg:services=personal", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "cleaners", 
     "drycleaning", 
@@ -16,6 +23,6 @@
     "pressing", 
     "sewing"
   ], 
-  "wof:brand_name": "Sun Cleaners", 
-  "wof:brand_id": 1125162025
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416301
 }

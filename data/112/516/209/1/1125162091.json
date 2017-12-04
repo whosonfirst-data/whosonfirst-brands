@@ -1,6 +1,37 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414544, 
+  "wof:brand_name": "Woodlands", 
+  "wof:brand_id": 1125162091, 
+  "wof:categories": [
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_operator", 
+    "entertainment:travel=hotels_and_motels", 
+    "services:health_services=nursing_and_care_facility", 
+    "sg:entertainment=travel", 
+    "sg:food_and_drink=restaurant", 
+    "sg:services=health_services", 
+    "sg:services=professional", 
+    "sg:services=social_services", 
+    "services:real_estate=real_estate_agent", 
+    "manufacturing_and_wholesale_goods:farming=nursery", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:shopping=department_store", 
+    "services:communications=film_and_video_production", 
+    "services:organizations=nonprofit_organization", 
+    "services:professional=business_services", 
+    "services:retail=veterinary_services", 
+    "services:social_services=adult_care", 
+    "services:social_services=retirement_home", 
+    "sg:entertainment=recreation", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:retail_goods=shopping", 
+    "sg:services=communications", 
+    "sg:services=organizations", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "apartment", 
     "building", 
@@ -31,6 +62,6 @@
     "treatment", 
     "vacation"
   ], 
-  "wof:brand_name": "Woodlands", 
-  "wof:brand_id": 1125162091
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416301
 }

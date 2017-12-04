@@ -1,12 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414446, 
+  "wof:brand_name": "Big 5 Sporting Goods", 
+  "wof:brand_id": 420575005, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "retail_goods:shopping=shoes", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "store", 
     "sportswear", 
     "sporting", 
     "warehouse"
   ], 
-  "wof:brand_name": "Big 5 Sporting Goods", 
-  "wof:brand_id": 420575005
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416223
 }

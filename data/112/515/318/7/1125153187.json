@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414527, 
+  "wof:brand_name": "Westminster Presbyterian Chr", 
+  "wof:brand_id": 1125153187, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "church"
   ], 
-  "wof:brand_name": "Westminster Presbyterian Chr", 
-  "wof:brand_id": 1125153187
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416288
 }

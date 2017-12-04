@@ -1,6 +1,28 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414563, 
+  "wof:brand_name": "PNC", 
+  "wof:brand_id": 1125148893, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=real_estate", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=electronics", 
+    "services:building_and_trades=equipment_rental", 
+    "services:health_services=health_practitioner", 
+    "services:professional=computer_services", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:real_estate=developer", 
+    "services:real_estate=real_estate_operator", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=shopping", 
+    "sg:services=building_and_trades", 
+    "sg:services=health_services", 
+    "sg:transportation=airport", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "national", 
     "commercial", 
@@ -35,6 +57,6 @@
     "psychologist", 
     "security"
   ], 
-  "wof:brand_name": "PNC", 
-  "wof:brand_id": 1125148893
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416316
 }

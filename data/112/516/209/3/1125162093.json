@@ -1,12 +1,22 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414544, 
+  "wof:brand_name": "Yum Yum Donuts", 
+  "wof:brand_id": 1125162093, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:retail_goods=food_and_beverages", 
+    "food_and_drink:donuts=none", 
+    "sg:food_and_drink=donuts", 
+    "food_and_drink:bagels=none", 
+    "sg:food_and_drink=bagels", 
+    "sg:food_and_drink=coffee_and_tea", 
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "doughnut", 
     "donut", 
     "baker", 
     "shop"
   ], 
-  "wof:brand_name": "Yum Yum Donuts", 
-  "wof:brand_id": 1125162093
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416301
 }

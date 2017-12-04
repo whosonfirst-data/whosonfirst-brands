@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414526, 
+  "wof:brand_name": "National-Oilwell Varco", 
+  "wof:brand_id": 1125158367, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:manufacturing_and_wholesale_goods=mining_and_drilling", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "public_place:education=special_training", 
+    "services:building_and_trades=equipment_rental", 
+    "services:retail=repair_shop", 
+    "sg:public_place=education", 
+    "sg:services=building_and_trades", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "oil", 
     "field", 
@@ -26,6 +40,6 @@
     "supply", 
     "tool"
   ], 
-  "wof:brand_name": "National-Oilwell Varco", 
-  "wof:brand_id": 1125158367
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416287
 }

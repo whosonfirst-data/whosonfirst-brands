@@ -1,12 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414449, 
+  "wof:brand_name": "Schools Government (Public)", 
+  "wof:brand_id": 420575809, 
+  "wof:categories": [
+    "sg:public_place=education", 
+    "public_place:education=school", 
+    "public_place:education=kindergarten"
+  ], 
   "wof:tags": [
     "except", 
     "nsw", 
     "state", 
     "pre-schools"
   ], 
-  "wof:brand_name": "Schools Government (Public)", 
-  "wof:brand_id": 420575809
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416225
 }

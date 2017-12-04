@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414452, 
+  "wof:brand_name": "Clinton Cards Plc", 
+  "wof:brand_id": 420575459, 
+  "wof:categories": [
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:retail_goods=shopping", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "card", 
     "poster", 
@@ -8,6 +14,6 @@
     "activity", 
     "holding"
   ], 
-  "wof:brand_name": "Clinton Cards Plc", 
-  "wof:brand_id": 420575459
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416227
 }

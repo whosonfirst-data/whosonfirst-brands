@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414479, 
+  "wof:brand_name": "Prontaprint", 
+  "wof:brand_id": 1125151153, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=printing_and_photocopies"
+  ], 
   "wof:tags": [
     "printer", 
     "lithographic", 
@@ -11,6 +15,6 @@
     "copying", 
     "duplicating"
   ], 
-  "wof:brand_name": "Prontaprint", 
-  "wof:brand_id": 1125151153
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416249
 }

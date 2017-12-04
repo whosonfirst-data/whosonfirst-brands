@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414530, 
+  "wof:brand_name": "Perseco", 
+  "wof:brand_id": 1125155415, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "sg:food_and_drink=restaurant", 
+    "services:utilities=mobile_phone", 
+    "sg:services=utilities", 
+    "services:professional=business_services", 
+    "sg:public_place=shopping_center", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "retail_goods:shopping=news"
+  ], 
   "wof:tags": [
     "establishment", 
     "hotspot", 
@@ -18,6 +29,6 @@
     "packaging", 
     "steak"
   ], 
-  "wof:brand_name": "Perseco", 
-  "wof:brand_id": 1125155415
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416290
 }

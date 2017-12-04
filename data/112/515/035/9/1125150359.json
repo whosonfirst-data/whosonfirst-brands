@@ -1,12 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414498, 
+  "wof:brand_name": "Kmart Tyre & Auto Service", 
+  "wof:brand_id": 1125150359, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "services:retail=auto_repair", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "tyre", 
     "engineer", 
     "motor", 
     "repairer"
   ], 
-  "wof:brand_name": "Kmart Tyre & Auto Service", 
-  "wof:brand_id": 1125150359
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416265
 }

@@ -1,9 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414547, 
+  "wof:brand_name": "Waldschenke", 
+  "wof:brand_id": 1125162075, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "pizzeria"
   ], 
-  "wof:brand_name": "Waldschenke", 
-  "wof:brand_id": 1125162075
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416303
 }

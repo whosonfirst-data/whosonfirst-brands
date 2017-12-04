@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414476, 
+  "wof:brand_name": "Pita Pit", 
+  "wof:brand_id": 1125157471, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:food_and_drink=fast_food", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:food_and_drink=deli", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "greek", 
     "sandwich", 
@@ -17,6 +25,6 @@
     "traditional", 
     "vegetarian"
   ], 
-  "wof:brand_name": "Pita Pit", 
-  "wof:brand_id": 1125157471
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416247
 }

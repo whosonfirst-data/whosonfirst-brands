@@ -1,6 +1,25 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414458, 
+  "wof:brand_name": "Citifinancial", 
+  "wof:brand_id": 420574871, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=real_estate", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "retail_goods:shopping=mobile_phones", 
+    "services:professional=management_and_consulting", 
+    "sg:retail_goods=shopping", 
+    "services:personal=hair_removal", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=computer_services", 
+    "services:professional=credit_reporting_and_collection", 
+    "services:professional=employment_agencies", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "institution", 
     "mortgage", 
@@ -32,6 +51,6 @@
     "other", 
     "repair"
   ], 
-  "wof:brand_name": "Citifinancial", 
-  "wof:brand_id": 420574871
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416232
 }

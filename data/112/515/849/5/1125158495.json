@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414531, 
+  "wof:brand_name": "Cumberland Presbyterian Church", 
+  "wof:brand_id": 1125158495, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=church", 
+    "services:social_services=child_care", 
+    "sg:public_place=place_of_worship", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "church", 
     "churches-presbyterian", 
@@ -9,6 +17,6 @@
     "place", 
     "worship"
   ], 
-  "wof:brand_name": "Cumberland Presbyterian Church", 
-  "wof:brand_id": 1125158495
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416291
 }

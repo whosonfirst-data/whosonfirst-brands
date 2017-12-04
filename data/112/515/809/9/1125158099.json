@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414508, 
+  "wof:brand_name": "Hairline", 
+  "wof:brand_id": 1125158099, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "services:insurance=health_insurance", 
+    "services:personal=nail_salon", 
+    "services:personal=sauna", 
+    "sg:services=insurance"
+  ], 
   "wof:tags": [
     "hairdresser", 
     "unisex", 
@@ -16,6 +25,6 @@
     "men's", 
     "stylist"
   ], 
-  "wof:brand_name": "Hairline", 
-  "wof:brand_id": 1125158099
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416272
 }

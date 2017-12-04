@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414502, 
+  "wof:brand_name": "Investment Centers Of America", 
+  "wof:brand_id": 1125150803, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=bank"
+  ], 
   "wof:tags": [
     "security", 
     "financial", 
@@ -14,6 +20,6 @@
     "management", 
     "consulting"
   ], 
-  "wof:brand_name": "Investment Centers Of America", 
-  "wof:brand_id": 1125150803
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416268
 }

@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414534, 
+  "wof:brand_name": "Linde Gas LLC", 
+  "wof:brand_id": 1125154767, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "manufacturing_and_wholesale_goods:wholesale=chemicals_and_plastics", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=chemicals_and_compounds", 
+    "services:utilities=natural_gas", 
+    "sg:services=utilities", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "equipment", 
     "industrial", 
@@ -24,6 +36,6 @@
     "supply", 
     "tool"
   ], 
-  "wof:brand_name": "Linde Gas LLC", 
-  "wof:brand_id": 1125154767
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416293
 }

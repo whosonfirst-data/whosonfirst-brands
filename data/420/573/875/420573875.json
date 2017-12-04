@@ -1,6 +1,25 @@
 {
   "wof:brand_name": "Circle K", 
   "wof:brand_id": 420573875, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:food_and_beverages=candy", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "sg:retail_goods=shopping", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:wholesale=farm_supplies", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "services:professional=management_and_consulting", 
+    "services:retail=auto_repair", 
+    "services:retail=car_wash", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional", 
+    "sg:transportation=airline", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "gasoline", 
     "station", 
@@ -32,6 +51,6 @@
     420574219
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414453, 
+  "wof:lastmodified": 1512416228, 
   "mz:is_current": 1
 }

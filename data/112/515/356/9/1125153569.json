@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414470, 
+  "wof:brand_name": "U S Bank National Association", 
+  "wof:brand_id": 1125153569, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "national", 
     "commercial", 
@@ -15,6 +22,6 @@
     "operations", 
     "processing"
   ], 
-  "wof:brand_name": "U S Bank National Association", 
-  "wof:brand_id": 1125153569
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416242
 }

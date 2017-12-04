@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414454, 
+  "wof:brand_name": "Hollywood Video", 
+  "wof:brand_id": 420573905, 
+  "wof:categories": [
+    "sg:entertainment=cinema", 
+    "entertainment:cinema=movie_rental", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "retail_goods:shopping=music", 
+    "sg:services=communications", 
+    "entertainment:cinema=movie_theater", 
+    "retail_goods:shopping=books", 
+    "services:communications=film_and_video_production", 
+    "services:communications=television_station"
+  ], 
   "wof:tags": [
     "video", 
     "tape", 
@@ -38,6 +52,6 @@
     "rent-to-own", 
     "repair"
   ], 
-  "wof:brand_name": "Hollywood Video", 
-  "wof:brand_id": 420573905
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416229
 }

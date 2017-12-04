@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414446, 
+  "wof:brand_name": "Jamba Juice", 
+  "wof:brand_id": 420575645, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=food_and_beverages", 
+    "food_and_drink:juice_bar=none", 
+    "sg:food_and_drink=juice_bar", 
+    "retail_goods:food_and_beverages=fruits_and_vegetables", 
+    "sg:food_and_drink=ice_cream", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:food_and_drink=food_court", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "services:insurance=health_insurance", 
+    "sg:services=insurance", 
+    "manufacturing_and_wholesale_goods:wholesale=fruits_and_vegetables", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "smoothy", 
     "juice", 
@@ -25,6 +41,6 @@
     "veggie", 
     "yogurt"
   ], 
-  "wof:brand_name": "Jamba Juice", 
-  "wof:brand_id": 420575645
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416223
 }

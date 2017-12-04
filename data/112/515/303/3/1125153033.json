@@ -1,6 +1,29 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414466, 
+  "wof:brand_name": "Kumon", 
+  "wof:brand_id": 1125153033, 
+  "wof:categories": [
+    "sg:public_place=education", 
+    "public_place:education=special_training", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "sg:services=social_services", 
+    "services:social_services=child_care", 
+    "public_place:education=school", 
+    "manufacturing_and_wholesale_goods:wholesale=chemicals_and_plastics", 
+    "public_place:education=library", 
+    "public_place:education=preschool", 
+    "public_place:education=vocational_school", 
+    "public_place:government=office", 
+    "services:communications=radio_station", 
+    "services:health_services=clinic", 
+    "services:organizations=membership_organization", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=government", 
+    "sg:retail_goods=shopping", 
+    "sg:services=communications", 
+    "sg:services=health_services", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "tutoring", 
     "educational", 
@@ -31,6 +54,6 @@
     "tuition-educational", 
     "tutorial"
   ], 
-  "wof:brand_name": "Kumon", 
-  "wof:brand_id": 1125153033
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416239
 }

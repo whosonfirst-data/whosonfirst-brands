@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414538, 
+  "wof:brand_name": "Video Busters", 
+  "wof:brand_id": 1125162861, 
+  "wof:categories": [
+    "sg:services=communications", 
+    "services:communications=film_and_video_production", 
+    "entertainment:cinema=movie_rental", 
+    "sg:entertainment=cinema", 
+    "services:communications=television_station", 
+    "services:utilities=cable", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "library", 
     "dvd", 
@@ -15,6 +24,6 @@
     "television", 
     "tv"
   ], 
-  "wof:brand_name": "Video Busters", 
-  "wof:brand_id": 1125162861
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416296
 }

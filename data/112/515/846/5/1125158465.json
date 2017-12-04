@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414467, 
+  "wof:brand_name": "Brookshire's", 
+  "wof:brand_id": 1125158465, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "retail_goods:shopping=pharmacy", 
+    "sg:retail_goods=shopping", 
+    "sg:food_and_drink=bakery", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "retail_goods:food_and_beverages=bakery", 
+    "retail_goods:food_and_beverages=specialty", 
+    "retail_goods:shopping=florist", 
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "grocer", 
     "super", 
@@ -14,6 +28,6 @@
     "supplement", 
     "vitamin"
   ], 
-  "wof:brand_name": "Brookshire's", 
-  "wof:brand_id": 1125158465
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416239
 }

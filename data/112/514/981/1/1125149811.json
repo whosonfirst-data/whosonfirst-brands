@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414562, 
+  "wof:brand_name": "Sleep Inn", 
+  "wof:brand_id": 1125149811, 
+  "wof:categories": [
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel", 
+    "retail_goods:home_and_garden=furniture", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=professional", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "services:professional=business_services", 
+    "services:professional=management_and_consulting", 
+    "services:real_estate=real_estate_operator", 
+    "services:retail=auto_repair", 
+    "services:social_services=child_care", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=real_estate", 
+    "sg:services=retail", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "operation", 
     "lodging", 
@@ -15,6 +32,6 @@
     "operations", 
     "station"
   ], 
-  "wof:brand_name": "Sleep Inn", 
-  "wof:brand_id": 1125149811
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416316
 }

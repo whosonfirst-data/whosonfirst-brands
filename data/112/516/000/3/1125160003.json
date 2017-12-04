@@ -1,7 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414548, 
-  "wof:tags": [], 
   "wof:brand_name": "Restaurant Ratskeller", 
-  "wof:brand_id": 1125160003
+  "wof:brand_id": 1125160003, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416304
 }

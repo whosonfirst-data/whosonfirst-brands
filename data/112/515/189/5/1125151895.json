@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414507, 
+  "wof:brand_name": "JCPenney Custom Decorating", 
+  "wof:brand_id": 1125151895, 
+  "wof:categories": [
+    "retail_goods:home_and_garden=home_furnishings", 
+    "sg:retail_goods=home_and_garden", 
+    "services:professional=art_services", 
+    "sg:services=professional", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "retail_goods:shopping=catalog_store", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=jewelry", 
+    "retail_goods:shopping=shoes", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions"
+  ], 
   "wof:tags": [
     "blinds-venetian", 
     "curtain", 
@@ -19,6 +32,6 @@
     "supply", 
     "clothing"
   ], 
-  "wof:brand_name": "JCPenney Custom Decorating", 
-  "wof:brand_id": 1125151895
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416272
 }

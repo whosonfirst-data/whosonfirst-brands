@@ -1,10 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414499, 
+  "wof:brand_name": "Miller's Fashion Club", 
+  "wof:brand_id": 1125152053, 
+  "wof:categories": [
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "lady", 
     "wear"
   ], 
-  "wof:brand_name": "Miller's Fashion Club", 
-  "wof:brand_id": 1125152053
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416266
 }

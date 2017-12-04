@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414529, 
+  "wof:brand_name": "Vocational Rehabilitation", 
+  "wof:brand_id": 1125150035, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:services=social_services", 
+    "services:social_services=job_training", 
+    "services:health_services=clinic", 
+    "sg:public_place=education", 
+    "sg:services=health_services", 
+    "public_place:education=school", 
+    "public_place:education=vocational_school", 
+    "services:professional=employment_agencies", 
+    "sg:public_place=community_center", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "state", 
     "resource", 
@@ -33,6 +47,6 @@
     "vocation", 
     "welfare"
   ], 
-  "wof:brand_name": "Vocational Rehabilitation", 
-  "wof:brand_id": 1125150035
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416289
 }

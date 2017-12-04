@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414506, 
+  "wof:brand_name": "Penn Station", 
+  "wof:brand_id": 1125150445, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:food_and_drink=deli", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:services=professional", 
+    "sg:transportation=local_transit"
+  ], 
   "wof:tags": [
     "sandwich", 
     "american", 
@@ -17,6 +26,6 @@
     "salad", 
     "soup"
   ], 
-  "wof:brand_name": "Penn Station", 
-  "wof:brand_id": 1125150445
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416271
 }

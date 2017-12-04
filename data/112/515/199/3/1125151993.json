@@ -1,6 +1,25 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414534, 
+  "wof:brand_name": "John Deere Landscapes Inc", 
+  "wof:brand_id": 1125151993, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "sg:retail_goods=home_and_garden", 
+    "manufacturing_and_wholesale_goods:wholesale=plants", 
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=landscaping_services", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "manufacturing_and_wholesale_goods:farming=farm_and_veterinary_services", 
+    "manufacturing_and_wholesale_goods:manufacturing=glass_and_minerals", 
+    "manufacturing_and_wholesale_goods:wholesale=hardware", 
+    "services:building_and_trades=construction", 
+    "services:professional=management_and_consulting", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "sprinkler", 
     "irrigation", 
@@ -33,6 +52,6 @@
     "material", 
     "parts"
   ], 
-  "wof:brand_name": "John Deere Landscapes Inc", 
-  "wof:brand_id": 1125151993
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416293
 }

@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414458, 
+  "wof:brand_name": "AAMCO Transmissions", 
+  "wof:brand_id": 420574443, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:manufacturing=motor_vehicles_and_parts", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "services:professional=business_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "transmission", 
     "automotive", 
@@ -51,6 +65,6 @@
     "strut", 
     "tr"
   ], 
-  "wof:brand_name": "AAMCO Transmissions", 
-  "wof:brand_id": 420574443
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416233
 }

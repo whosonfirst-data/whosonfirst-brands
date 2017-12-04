@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414519, 
+  "wof:brand_name": "Church Of The Good Shepherd", 
+  "wof:brand_id": 1125155107, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "sg:public_place=place_of_worship", 
+    "public_place:place_of_worship=church", 
+    "services:social_services=child_care", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "church", 
     "churches-episcopal", 
@@ -18,6 +26,6 @@
     "episcopal", 
     "supply"
   ], 
-  "wof:brand_name": "Church Of The Good Shepherd", 
-  "wof:brand_id": 1125155107
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416281
 }

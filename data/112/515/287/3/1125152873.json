@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414533, 
+  "wof:brand_name": "Fed Ex Freight", 
+  "wof:brand_id": 1125152873, 
+  "wof:categories": [
+    "sg:transportation=freight", 
+    "services:professional=advertising", 
+    "sg:services=professional", 
+    "services:retail=repair_shop", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "trucking", 
     "mailing", 
@@ -17,6 +24,6 @@
     "terminal", 
     "truck"
   ], 
-  "wof:brand_name": "Fed Ex Freight", 
-  "wof:brand_id": 1125152873
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416292
 }

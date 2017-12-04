@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414475, 
+  "wof:brand_name": "Budget Host Inn", 
+  "wof:brand_id": 1125159175, 
+  "wof:categories": [
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel", 
+    "services:professional=management_and_consulting", 
+    "sg:services=personal", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "operation", 
     "lodging", 
@@ -10,6 +17,6 @@
     "real", 
     "unit"
   ], 
-  "wof:brand_name": "Budget Host Inn", 
-  "wof:brand_id": 1125159175
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416246
 }

@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414479, 
+  "wof:brand_name": "Tradelink Plumbing Centres", 
+  "wof:brand_id": 1125150169, 
+  "wof:categories": [
+    "retail_goods:home_and_garden=hardware", 
+    "sg:retail_goods=home_and_garden", 
+    "manufacturing_and_wholesale_goods:manufacturing=retail_goods", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "plumber", 
     "supply", 
@@ -8,6 +14,6 @@
     "mfrs", 
     "pump"
   ], 
-  "wof:brand_name": "Tradelink Plumbing Centres", 
-  "wof:brand_id": 1125150169
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416249
 }

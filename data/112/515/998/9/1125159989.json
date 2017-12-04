@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414533, 
+  "wof:brand_name": "Priscilla's", 
+  "wof:brand_id": 1125159989, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "entertainment:cinema=movie_rental", 
+    "sg:entertainment=cinema", 
+    "retail_goods:shopping=news", 
+    "sg:services=personal", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "services:personal=beauty_salon", 
+    "services:personal=tanning_parlor", 
+    "sg:food_and_drink=restaurant", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=animal_shelter"
+  ], 
   "wof:tags": [
     "lingerie", 
     "shop", 
@@ -18,6 +34,6 @@
     "merchandise", 
     "salon"
   ], 
-  "wof:brand_name": "Priscilla's", 
-  "wof:brand_id": 1125159989
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416293
 }

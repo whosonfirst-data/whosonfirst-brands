@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414553, 
+  "wof:brand_name": "Casey's General Store", 
+  "wof:brand_id": 1125148701, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "retail_goods:shopping=department_store", 
+    "sg:food_and_drink=fast_food"
+  ], 
   "wof:tags": [
     "pizza", 
     "american", 
@@ -19,6 +31,6 @@
     "super", 
     "take"
   ], 
-  "wof:brand_name": "Casey's General Store", 
-  "wof:brand_id": 1125148701
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416308
 }

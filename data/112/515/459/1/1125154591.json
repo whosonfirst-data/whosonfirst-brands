@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414531, 
+  "wof:brand_name": "Ampco System Parking", 
+  "wof:brand_id": 1125154591, 
+  "wof:categories": [
+    "sg:transportation=parking", 
+    "transportation:parking=garage", 
+    "services:professional=accounting_and_tax_preparation", 
+    "sg:services=personal", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "garage", 
     "lot", 
@@ -11,6 +18,6 @@
     "meter", 
     "personal"
   ], 
-  "wof:brand_name": "Ampco System Parking", 
-  "wof:brand_id": 1125154591
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416291
 }

@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414498, 
+  "wof:brand_name": "New Image Salon", 
+  "wof:brand_id": 1125157219, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon", 
+    "services:personal=tanning_parlor", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "services:personal=barber", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
@@ -18,6 +30,6 @@
     "weaving", 
     "wig"
   ], 
-  "wof:brand_name": "New Image Salon", 
-  "wof:brand_id": 1125157219
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416265
 }

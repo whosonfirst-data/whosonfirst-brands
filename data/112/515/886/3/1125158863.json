@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414523, 
+  "wof:brand_name": "Submarina", 
+  "wof:brand_id": 1125158863, 
+  "wof:categories": [
+    "sg:food_and_drink=deli", 
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:food_and_drink=fast_food"
+  ], 
   "wof:tags": [
     "sandwich", 
     "american", 
@@ -11,6 +18,6 @@
     "house", 
     "steak"
   ], 
-  "wof:brand_name": "Submarina", 
-  "wof:brand_id": 1125158863
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416285
 }

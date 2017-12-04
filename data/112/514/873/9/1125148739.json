@@ -1,7 +1,11 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414557, 
-  "wof:tags": [], 
   "wof:brand_name": "Aslk-cger Bank", 
-  "wof:brand_id": 1125148739
+  "wof:brand_id": 1125148739, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416311
 }

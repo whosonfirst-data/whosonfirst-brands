@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414562, 
+  "wof:brand_name": "T.G.I. Friday's", 
+  "wof:brand_id": 1125148865, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:food_and_drink=fast_food"
+  ], 
   "wof:tags": [
     "american", 
     "breakfast", 
@@ -17,6 +22,6 @@
     "sandwich", 
     "wrap"
   ], 
-  "wof:brand_name": "T.G.I. Friday's", 
-  "wof:brand_id": 1125148865
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416315
 }

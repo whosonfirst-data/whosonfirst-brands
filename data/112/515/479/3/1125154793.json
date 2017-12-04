@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414471, 
+  "wof:brand_name": "Pro Staff", 
+  "wof:brand_id": 1125154793, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=employment_agencies", 
+    "services:professional=art_services", 
+    "services:professional=management_and_consulting", 
+    "services:social_services=job_training", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "help", 
     "supply", 
@@ -12,6 +20,6 @@
     "design", 
     "personnel"
   ], 
-  "wof:brand_name": "Pro Staff", 
-  "wof:brand_id": 1125154793
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416243
 }

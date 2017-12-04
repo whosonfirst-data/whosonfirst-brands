@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414545, 
+  "wof:brand_name": "Trade Mart", 
+  "wof:brand_id": 1125162053, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:shopping=used_merchandise", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=gifts_and_souvenirs"
+  ], 
   "wof:tags": [
     "gasoline", 
     "oil", 
@@ -12,6 +24,6 @@
     "merchandise", 
     "used"
   ], 
-  "wof:brand_name": "Trade Mart", 
-  "wof:brand_id": 1125162053
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416302
 }

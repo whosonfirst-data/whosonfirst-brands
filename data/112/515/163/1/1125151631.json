@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414491, 
+  "wof:brand_name": "Catholic Church", 
+  "wof:brand_id": 1125151631, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "sg:public_place=education", 
+    "public_place:education=kindergarten", 
+    "sg:public_place=place_of_worship", 
+    "public_place:place_of_worship=church", 
+    "public_place:education=school", 
+    "services:building_and_trades=plumbing", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "church", 
     "pre-schools", 
@@ -14,6 +25,6 @@
     "plumbing", 
     "worship"
   ], 
-  "wof:brand_name": "Catholic Church", 
-  "wof:brand_id": 1125151631
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416258
 }

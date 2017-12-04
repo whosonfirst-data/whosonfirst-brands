@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414501, 
+  "wof:brand_name": "Wic Program", 
+  "wof:brand_id": 1125150341, 
+  "wof:categories": [
+    "sg:services=social_services", 
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:services=health_services", 
+    "services:health_services=doctor", 
+    "sg:services=organizations", 
+    "services:health_services=health_practitioner", 
+    "services:health_services=clinic", 
+    "services:organizations=nonprofit_organization", 
+    "sg:services=professional", 
+    "services:organizations=membership_organization", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "services:social_services=child_care", 
+    "services:social_services=job_training", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "organization", 
     "welfare", 
@@ -46,6 +63,6 @@
     "services-information", 
     "supplement"
   ], 
-  "wof:brand_name": "Wic Program", 
-  "wof:brand_id": 1125150341
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416267
 }

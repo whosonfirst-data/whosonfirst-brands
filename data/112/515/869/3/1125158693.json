@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414469, 
+  "wof:brand_name": "Affordable Auto Sales", 
+  "wof:brand_id": 1125158693, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "services:professional=business_services", 
+    "services:retail=auto_repair", 
+    "sg:services=professional", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "car", 
     "dealer", 
@@ -9,6 +17,6 @@
     "dealers-used", 
     "new"
   ], 
-  "wof:brand_name": "Affordable Auto Sales", 
-  "wof:brand_id": 1125158693
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416241
 }

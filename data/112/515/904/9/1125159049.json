@@ -1,11 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414465, 
+  "wof:brand_name": "Mertens", 
+  "wof:brand_id": 1125159049, 
+  "wof:categories": [
+    "sg:food_and_drink=bakery", 
+    "retail_goods:food_and_beverages=candy", 
+    "services:insurance=life_insurance", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=insurance"
+  ], 
   "wof:tags": [
     "baker", 
     "confectioner", 
     "assurance"
   ], 
-  "wof:brand_name": "Mertens", 
-  "wof:brand_id": 1125159049
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416238
 }

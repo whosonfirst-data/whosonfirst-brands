@@ -1,12 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414519, 
+  "wof:brand_name": "Jansen", 
+  "wof:brand_id": 1125155145, 
+  "wof:categories": [
+    "entertainment:sports_and_exercise=stables", 
+    "retail_goods:home_and_garden=hardware", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "-", 
     "machine", 
     "maneges", 
     "metaalbewerking"
   ], 
-  "wof:brand_name": "Jansen", 
-  "wof:brand_id": 1125155145
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416281
 }

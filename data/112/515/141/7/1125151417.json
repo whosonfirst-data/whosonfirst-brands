@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414514, 
+  "wof:brand_name": "Farmers Union Insurance", 
+  "wof:brand_id": 1125151417, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=hazard_insurance", 
+    "services:health_services=clinic", 
+    "sg:services=health_services", 
+    "services:insurance=health_insurance"
+  ], 
   "wof:tags": [
     "carrier", 
     "adjuster", 
@@ -12,6 +20,6 @@
     "plan", 
     "property"
   ], 
-  "wof:brand_name": "Farmers Union Insurance", 
-  "wof:brand_id": 1125151417
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416277
 }

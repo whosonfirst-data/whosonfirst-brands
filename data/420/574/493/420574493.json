@@ -1,6 +1,25 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414455, 
+  "wof:brand_name": "Electronics Boutique", 
+  "wof:brand_id": 420574493, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:professional=computer_services", 
+    "sg:services=professional", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "manufacturing_and_wholesale_goods:wholesale=computers", 
+    "entertainment:cinema=movie_rental", 
+    "sg:entertainment=cinema", 
+    "manufacturing_and_wholesale_goods:wholesale=toys_and_hobbies", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=department_store", 
+    "services:building_and_trades=electrical", 
+    "sg:public_place=shopping_center", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "video", 
     "game", 
@@ -38,6 +57,6 @@
     "station", 
     "tape"
   ], 
-  "wof:brand_name": "Electronics Boutique", 
-  "wof:brand_id": 420574493
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416230
 }

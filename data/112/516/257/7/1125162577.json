@@ -1,12 +1,18 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414548, 
+  "wof:brand_name": "Chantal", 
+  "wof:brand_id": 1125162577, 
+  "wof:categories": [
+    "services:personal=beauty_salon", 
+    "sg:services=personal", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "-", 
     "hairdressing", 
     "lady", 
     "shop"
   ], 
-  "wof:brand_name": "Chantal", 
-  "wof:brand_id": 1125162577
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416304
 }

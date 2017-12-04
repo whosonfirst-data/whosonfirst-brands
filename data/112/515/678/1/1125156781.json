@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414497, 
+  "wof:brand_name": "Mattress Outlet", 
+  "wof:brand_id": 1125156781, 
+  "wof:categories": [
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:home_and_garden=carpets_and_floor_coverings", 
+    "manufacturing_and_wholesale_goods:manufacturing=furniture", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:wholesale=medical_equipment_and_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "mattress", 
     "bed", 
@@ -12,6 +21,6 @@
     "spring", 
     "water"
   ], 
-  "wof:brand_name": "Mattress Outlet", 
-  "wof:brand_id": 1125156781
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416264
 }

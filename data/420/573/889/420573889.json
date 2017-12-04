@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414455, 
+  "wof:brand_name": "Family Dollar Store", 
+  "wof:brand_id": 420573889, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "sg:public_place=shopping_center", 
+    "retail_goods:shopping=thrift_store"
+  ], 
   "wof:tags": [
     "shop", 
     "variety", 
@@ -9,6 +16,6 @@
     "general", 
     "operates"
   ], 
-  "wof:brand_name": "Family Dollar Store", 
-  "wof:brand_id": 420573889
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416230
 }

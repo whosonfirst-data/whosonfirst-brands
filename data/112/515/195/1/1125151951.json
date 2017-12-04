@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414518, 
+  "wof:brand_name": "Mobile Solution Corp", 
+  "wof:brand_id": 1125151951, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "services:utilities=mobile_phone", 
+    "sg:services=utilities", 
+    "services:professional=business_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "cellular", 
     "telephone", 
@@ -10,6 +17,6 @@
     "phone", 
     "radiotelephone"
   ], 
-  "wof:brand_name": "Mobile Solution Corp", 
-  "wof:brand_id": 1125151951
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416281
 }

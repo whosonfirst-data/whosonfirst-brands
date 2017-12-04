@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414488, 
+  "wof:brand_name": "Painting Plus", 
+  "wof:brand_id": 1125159639, 
+  "wof:categories": [
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "services:retail=auto_repair", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "contractor", 
     "hanging", 
@@ -14,6 +20,6 @@
     "remodeling", 
     "repairing"
   ], 
-  "wof:brand_name": "Painting Plus", 
-  "wof:brand_id": 1125159639
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416256
 }

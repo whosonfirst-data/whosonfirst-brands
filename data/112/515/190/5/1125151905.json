@@ -1,12 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414502, 
+  "wof:brand_name": "Police", 
+  "wof:brand_id": 1125151905, 
+  "wof:categories": [
+    "sg:public_place=government", 
+    "public_place:government=police_station", 
+    "public_place:government=office"
+  ], 
   "wof:tags": [
     "protection", 
     "support", 
     "department", 
     "city"
   ], 
-  "wof:brand_name": "Police", 
-  "wof:brand_id": 1125151905
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416268
 }

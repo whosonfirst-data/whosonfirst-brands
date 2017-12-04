@@ -1,6 +1,30 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414520, 
+  "wof:brand_name": "Senior Center", 
+  "wof:brand_id": 1125153479, 
+  "wof:categories": [
+    "sg:services=social_services", 
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "services:social_services=adult_care", 
+    "sg:services=organizations", 
+    "services:organizations=nonprofit_organization", 
+    "services:organizations=religious_organization", 
+    "sg:services=health_services", 
+    "entertainment:sports_and_exercise=sports_center", 
+    "public_place:community_center=senior", 
+    "public_place:education=school", 
+    "services:health_services=clinic", 
+    "services:health_services=hospital", 
+    "services:organizations=community_association", 
+    "services:organizations=professional_association", 
+    "services:personal=barber", 
+    "services:social_services=job_training", 
+    "sg:entertainment=recreation", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:public_place=community_center", 
+    "sg:public_place=education", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "citizen", 
     "senior", 
@@ -25,6 +49,6 @@
     "social", 
     "team"
   ], 
-  "wof:brand_name": "Senior Center", 
-  "wof:brand_id": 1125153479
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416282
 }

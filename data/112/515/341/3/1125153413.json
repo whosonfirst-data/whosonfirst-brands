@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414482, 
+  "wof:brand_name": "STA Travel", 
+  "wof:brand_id": 1125153413, 
+  "wof:categories": [
+    "entertainment:travel=travel_agent", 
+    "sg:entertainment=travel", 
+    "sg:transportation=airline", 
+    "retail_goods:shopping=luggage_and_leather_goods", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "consultant", 
     "agency", 
@@ -11,6 +18,6 @@
     "ticket", 
     "travel"
   ], 
-  "wof:brand_name": "STA Travel", 
-  "wof:brand_id": 1125153413
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416252
 }

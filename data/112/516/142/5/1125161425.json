@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414541, 
+  "wof:brand_name": "City Cab", 
+  "wof:brand_id": 1125161425, 
+  "wof:categories": [
+    "sg:transportation=taxi", 
+    "sg:transportation=local_transit", 
+    "services:retail=auto_rental", 
+    "sg:services=retail", 
+    "sg:transportation=airline"
+  ], 
   "wof:tags": [
     "taxicab", 
     "airport", 
@@ -10,6 +17,6 @@
     "passenger", 
     "taxi"
   ], 
-  "wof:brand_name": "City Cab", 
-  "wof:brand_id": 1125161425
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416299
 }

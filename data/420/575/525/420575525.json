@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414445, 
+  "wof:brand_name": "Raymond James", 
+  "wof:brand_id": 420575525, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=professional", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:professional=management_and_consulting", 
+    "services:banks_and_credit_unions=bank", 
+    "services:professional=business_services", 
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:personal=hair_removal", 
+    "sg:services=personal", 
+    "services:insurance=hazard_insurance", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=detective_and_security_services", 
+    "services:professional=lawyer_and_legal_services"
+  ], 
   "wof:tags": [
     "security", 
     "advisory", 
@@ -52,6 +69,6 @@
     "services-household", 
     "wills"
   ], 
-  "wof:brand_name": "Raymond James", 
-  "wof:brand_id": 420575525
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416223
 }

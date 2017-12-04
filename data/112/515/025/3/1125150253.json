@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414505, 
+  "wof:brand_name": "Comfort Suites", 
+  "wof:brand_id": 1125150253, 
+  "wof:categories": [
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel", 
+    "entertainment:travel=bed_and_breakfast", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "operation", 
     "lodging", 
@@ -8,6 +15,6 @@
     "consultant", 
     "corporate"
   ], 
-  "wof:brand_name": "Comfort Suites", 
-  "wof:brand_id": 1125150253
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416270
 }

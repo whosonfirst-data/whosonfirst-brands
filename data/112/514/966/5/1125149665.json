@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414555, 
+  "wof:brand_name": "Gap Kids", 
+  "wof:brand_id": 1125149665, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=baby_store", 
+    "entertainment:sports_and_exercise=bicycle_rental", 
+    "sg:entertainment=sports_and_exercise", 
+    "retail_goods:shopping=department_store"
+  ], 
   "wof:tags": [
     "wear", 
     "infant", 
@@ -12,6 +20,6 @@
     "accessory", 
     "women's"
   ], 
-  "wof:brand_name": "Gap Kids", 
-  "wof:brand_id": 1125149665
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416310
 }

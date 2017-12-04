@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414547, 
+  "wof:brand_name": "Sparkle Cleaners", 
+  "wof:brand_id": 1125162015, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:professional=computer_services", 
+    "services:retail=repair_shop", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "cleaners", 
     "drycleaning", 
@@ -17,6 +26,6 @@
     "leather", 
     "rug"
   ], 
-  "wof:brand_name": "Sparkle Cleaners", 
-  "wof:brand_id": 1125162015
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416304
 }

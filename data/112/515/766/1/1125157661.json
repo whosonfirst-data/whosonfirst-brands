@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414511, 
+  "wof:brand_name": "Luxury Nails", 
+  "wof:brand_id": 1125157661, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon", 
+    "manufacturing_and_wholesale_goods:wholesale=metals_and_minerals", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "services:personal=massage", 
+    "services:personal=skin_care", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "manicuring", 
     "shop", 
@@ -11,6 +22,6 @@
     "salons-equipment", 
     "supply"
   ], 
-  "wof:brand_name": "Luxury Nails", 
-  "wof:brand_id": 1125157661
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416275
 }

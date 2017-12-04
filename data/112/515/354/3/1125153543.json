@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414529, 
+  "wof:brand_name": "Party America", 
+  "wof:brand_id": 1125153543, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=party_supplies"
+  ], 
   "wof:tags": [
     "party", 
     "supply", 
@@ -16,6 +21,6 @@
     "delivery", 
     "printing"
   ], 
-  "wof:brand_name": "Party America", 
-  "wof:brand_id": 1125153543
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416289
 }

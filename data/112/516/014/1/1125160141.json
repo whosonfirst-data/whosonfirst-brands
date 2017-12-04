@@ -1,10 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414541, 
+  "wof:brand_name": "Crown Prosecution Service", 
+  "wof:brand_id": 1125160141, 
+  "wof:categories": [
+    "sg:public_place=government", 
+    "public_place:government=office", 
+    "public_place:government=court_house", 
+    "services:professional=lawyer_and_legal_services", 
+    "sg:services=professional", 
+    "public_place:government=police_station"
+  ], 
   "wof:tags": [
     "central", 
     "local"
   ], 
-  "wof:brand_name": "Crown Prosecution Service", 
-  "wof:brand_id": 1125160141
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416298
 }

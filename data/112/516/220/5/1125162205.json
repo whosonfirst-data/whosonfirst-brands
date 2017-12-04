@@ -1,6 +1,40 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414541, 
+  "wof:brand_name": "Creative Impressions", 
+  "wof:brand_id": 1125162205, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "sg:retail_goods=shopping", 
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "services:professional=advertising", 
+    "services:professional=art_services", 
+    "services:professional=printing_and_photocopies", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:retail=portrait_studio", 
+    "sg:services=health_services", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:manufacturing=pottery", 
+    "manufacturing_and_wholesale_goods:manufacturing=retail_goods", 
+    "manufacturing_and_wholesale_goods:manufacturing=signs", 
+    "manufacturing_and_wholesale_goods:wholesale=home_furnishings", 
+    "retail_goods:home_and_garden=building_materials", 
+    "retail_goods:shopping=crafts_and_fabrics", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "retail_goods:shopping=mobile_phones", 
+    "services:health_services=clinic", 
+    "services:health_services=medical_lab", 
+    "services:professional=business_services", 
+    "services:professional=computer_services", 
+    "services:professional=employment_agencies", 
+    "services:professional=management_and_consulting", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "commercial", 
     "advertising", 
@@ -51,6 +85,6 @@
     "transcription", 
     "word"
   ], 
-  "wof:brand_name": "Creative Impressions", 
-  "wof:brand_id": 1125162205
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416299
 }

@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414555, 
+  "wof:brand_name": "Chipotle", 
+  "wof:brand_id": 1125148799, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food"
+  ], 
   "wof:tags": [
     "mexican", 
     "take", 
@@ -26,6 +30,6 @@
     "salad", 
     "wrap"
   ], 
-  "wof:brand_name": "Chipotle", 
-  "wof:brand_id": 1125148799
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416310
 }

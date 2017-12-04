@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414522, 
+  "wof:brand_name": "Maaco Auto Painting & Bodyworks", 
+  "wof:brand_id": 1125156269, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:manufacturing=motor_vehicles_and_parts", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "body", 
     "shop", 
@@ -11,6 +19,6 @@
     "buses-parts", 
     "manufacturer"
   ], 
-  "wof:brand_name": "Maaco Auto Painting & Bodyworks", 
-  "wof:brand_id": 1125156269
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416284
 }

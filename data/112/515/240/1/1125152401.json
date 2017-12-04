@@ -1,12 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414525, 
+  "wof:brand_name": "Fischer", 
+  "wof:brand_id": 1125152401, 
+  "wof:categories": [
+    "retail_goods:shopping=shoes", 
+    "services:professional=accounting_and_tax_preparation", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "-", 
     "bookkeeping", 
     "general", 
     "slipper"
   ], 
-  "wof:brand_name": "Fischer", 
-  "wof:brand_id": 1125152401
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416286
 }

@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414546, 
+  "wof:brand_name": "City", 
+  "wof:brand_id": 1125161759, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "public_place:government=office", 
+    "retail_goods:food_and_beverages=bakery", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:personal=beauty_salon", 
+    "services:social_services=retirement_home", 
+    "sg:entertainment=museum", 
+    "sg:food_and_drink=restaurant", 
+    "sg:public_place=government", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=personal", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "establishment", 
     "door", 
@@ -11,6 +28,6 @@
     "sewing", 
     "village"
   ], 
-  "wof:brand_name": "City", 
-  "wof:brand_id": 1125161759
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416303
 }

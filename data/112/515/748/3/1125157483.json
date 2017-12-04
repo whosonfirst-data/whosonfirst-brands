@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414520, 
+  "wof:brand_name": "Reebok", 
+  "wof:brand_id": 1125157483, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=shoes", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:manufacturing=leather_goods", 
+    "manufacturing_and_wholesale_goods:manufacturing=toys_and_sporting_goods", 
+    "retail_goods:shopping=bicycles_and_sporting_goods"
+  ], 
   "wof:tags": [
     "footwear", 
     "athletic", 
@@ -18,6 +29,6 @@
     "rubber", 
     "sportswear"
   ], 
-  "wof:brand_name": "Reebok", 
-  "wof:brand_id": 1125157483
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416282
 }

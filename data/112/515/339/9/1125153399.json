@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414502, 
+  "wof:brand_name": "Larry's Giant Subs", 
+  "wof:brand_id": 1125153399, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:food_and_drink=deli", 
+    "retail_goods:food_and_beverages=bakery", 
+    "services:professional=business_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "sandwich", 
     "american", 
@@ -14,6 +23,6 @@
     "family", 
     "style"
   ], 
-  "wof:brand_name": "Larry's Giant Subs", 
-  "wof:brand_id": 1125153399
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416268
 }

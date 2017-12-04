@@ -1,6 +1,32 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414475, 
+  "wof:brand_name": "Davis & Davis", 
+  "wof:brand_id": 1125158503, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:health_services=doctor", 
+    "sg:services=health_services", 
+    "sg:services=real_estate", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=construction", 
+    "services:professional=management_and_consulting", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:building_and_trades=landscaping_services", 
+    "services:personal=shoe_repair_and_shine", 
+    "services:professional=business_services", 
+    "services:professional=computer_services", 
+    "services:real_estate=architect", 
+    "services:retail=car_wash", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:retail_goods=shopping", 
+    "sg:services=personal", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "attorney", 
     "establishment", 
@@ -38,6 +64,6 @@
     "surgeon", 
     "worker"
   ], 
-  "wof:brand_name": "Davis & Davis", 
-  "wof:brand_id": 1125158503
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416246
 }

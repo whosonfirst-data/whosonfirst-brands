@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414528, 
+  "wof:brand_name": "Pak Mail Ctr", 
+  "wof:brand_id": 1125150983, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "sg:transportation=freight", 
+    "services:professional=advertising", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing"
+  ], 
   "wof:tags": [
     "packaging", 
     "shipping", 
@@ -15,6 +26,6 @@
     "mail", 
     "printer"
   ], 
-  "wof:brand_name": "Pak Mail Ctr", 
-  "wof:brand_id": 1125150983
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416289
 }

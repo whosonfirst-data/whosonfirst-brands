@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414452, 
+  "wof:brand_name": "Dress Barn", 
+  "wof:brand_id": 420575033, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=used_merchandise"
+  ], 
   "wof:tags": [
     "accessory", 
     "store", 
@@ -12,6 +17,6 @@
     "retailer", 
     "vintage"
   ], 
-  "wof:brand_name": "Dress Barn", 
-  "wof:brand_id": 420575033
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416228
 }

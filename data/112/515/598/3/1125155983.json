@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414503, 
+  "wof:brand_name": "Sarku Japan", 
+  "wof:brand_id": 1125155983, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food"
+  ], 
   "wof:tags": [
     "japanese", 
     "eating", 
@@ -9,6 +13,6 @@
     "bar", 
     "pan"
   ], 
-  "wof:brand_name": "Sarku Japan", 
-  "wof:brand_id": 1125155983
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416268
 }

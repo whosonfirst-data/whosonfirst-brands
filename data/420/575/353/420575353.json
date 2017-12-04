@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414444, 
+  "wof:brand_name": "Precision Tune Auto Care", 
+  "wof:brand_id": 420575353, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=auto_repair", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "services:professional=management_and_consulting", 
+    "services:retail=car_wash", 
+    "services:retail=repair_shop", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "automobile", 
     "repairing", 
@@ -30,6 +45,6 @@
     "up", 
     "ups"
   ], 
-  "wof:brand_name": "Precision Tune Auto Care", 
-  "wof:brand_id": 420575353
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416222
 }

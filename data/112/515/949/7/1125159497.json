@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414487, 
+  "wof:brand_name": "Chase Home Finance", 
+  "wof:brand_id": 1125159497, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=personal", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "loan", 
     "real estate", 
@@ -11,6 +20,6 @@
     "financial", 
     "mover"
   ], 
-  "wof:brand_name": "Chase Home Finance", 
-  "wof:brand_id": 1125159497
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416255
 }

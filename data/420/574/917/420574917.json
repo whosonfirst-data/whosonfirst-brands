@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414456, 
+  "wof:brand_name": "National Guard", 
+  "wof:brand_id": 420574917, 
+  "wof:categories": [
+    "sg:public_place=government", 
+    "public_place:government=office", 
+    "sg:public_place=military_area", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "public_place:government=city_hall", 
+    "services:retail=auto_repair", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=retail", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "security", 
     "state", 
@@ -23,6 +34,6 @@
     "unit", 
     "youth"
   ], 
-  "wof:brand_name": "National Guard", 
-  "wof:brand_id": 420574917
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416231
 }

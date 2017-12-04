@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "XXS", 
-  "wof:lastmodified": 1512414485, 
+  "wof:brand_name": "Pm", 
+  "wof:brand_id": 1125154561, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:wholesale=meat", 
+    "services:professional=management_and_consulting", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "adviesbureaus", 
     "en", 
@@ -9,6 +15,6 @@
     "regeltechniek", 
     "relation"
   ], 
-  "wof:brand_name": "Pm", 
-  "wof:brand_id": 1125154561
+  "wof:brand_size": "XXS", 
+  "wof:lastmodified": 1512416254
 }

@@ -1,6 +1,35 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414489, 
+  "wof:brand_name": "Pak Mail", 
+  "wof:brand_id": 1125150069, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "public_place:government=post_office", 
+    "services:retail=pet_boarding", 
+    "sg:public_place=government", 
+    "sg:services=retail", 
+    "sg:transportation=freight", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:professional=advertising", 
+    "sg:services=personal", 
+    "sg:retail_goods=shopping", 
+    "entertainment:travel=travel_agent", 
+    "services:professional=printing_and_photocopies", 
+    "sg:entertainment=travel", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "sg:transportation=transit_center", 
+    "transportation:transit_center=freight", 
+    "manufacturing_and_wholesale_goods:manufacturing=rubber_and_plastics", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:communications=news_services", 
+    "services:professional=art_services", 
+    "services:professional=computer_services", 
+    "sg:food_and_drink=restaurant", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=communications"
+  ], 
   "wof:tags": [
     "shipping", 
     "mail", 
@@ -64,6 +93,6 @@
     "studio", 
     "tran"
   ], 
-  "wof:brand_name": "Pak Mail", 
-  "wof:brand_id": 1125150069
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416257
 }

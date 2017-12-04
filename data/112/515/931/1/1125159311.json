@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414485, 
+  "wof:brand_name": "Mobil Mart", 
+  "wof:brand_id": 1125159311, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "retail_goods:home_and_garden=mobile_homes", 
+    "services:retail=car_wash", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "oil", 
     "gasoline", 
@@ -19,6 +31,6 @@
     "transmission", 
     "wash"
   ], 
-  "wof:brand_name": "Mobil Mart", 
-  "wof:brand_id": 1125159311
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416254
 }

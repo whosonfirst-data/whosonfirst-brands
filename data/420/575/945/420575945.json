@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414451, 
+  "wof:brand_name": "Sport Clips", 
+  "wof:brand_id": 420575945, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=barber", 
+    "services:personal=beauty_salon", 
+    "sg:services=professional", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "services:professional=management_and_consulting"
+  ], 
   "wof:tags": [
     "hair", 
     "stylist", 
@@ -10,6 +20,6 @@
     "infant", 
     "wear"
   ], 
-  "wof:brand_name": "Sport Clips", 
-  "wof:brand_id": 420575945
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416227
 }

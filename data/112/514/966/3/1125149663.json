@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414555, 
+  "wof:brand_name": "Tangles", 
+  "wof:brand_id": 1125149663, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "entertainment:arts_and_performance=theater", 
+    "entertainment:recreation=dog_park", 
+    "retail_goods:home_and_garden=mobile_homes", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "services:personal=nail_salon", 
+    "sg:entertainment=arts_and_performance", 
+    "sg:entertainment=recreation", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "shop", 
     "hairdresser", 
@@ -13,6 +27,6 @@
     "merchandise", 
     "park"
   ], 
-  "wof:brand_name": "Tangles", 
-  "wof:brand_id": 1125149663
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416310
 }

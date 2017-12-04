@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414506, 
+  "wof:brand_name": "Jewel-Osco", 
+  "wof:brand_id": 1125155625, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=pharmacy", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "retail_goods:shopping=florist", 
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "grocer", 
     "drugstore", 
@@ -8,6 +18,6 @@
     "banking", 
     "depository"
   ], 
-  "wof:brand_name": "Jewel-Osco", 
-  "wof:brand_id": 1125155625
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416271
 }

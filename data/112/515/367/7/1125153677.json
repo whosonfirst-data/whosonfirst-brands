@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414508, 
+  "wof:brand_name": "Clayton Homes Inc", 
+  "wof:brand_id": 1125153677, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:manufacturing=buildings", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "retail_goods:home_and_garden=mobile_homes", 
+    "sg:retail_goods=home_and_garden", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "mfg", 
     "home", 
@@ -12,6 +20,6 @@
     "prefabricated", 
     "wood"
   ], 
-  "wof:brand_name": "Clayton Homes Inc", 
-  "wof:brand_id": 1125153677
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416272
 }

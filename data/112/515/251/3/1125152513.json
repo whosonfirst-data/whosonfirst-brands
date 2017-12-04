@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414467, 
+  "wof:brand_name": "Bradford & Bingley Plc", 
+  "wof:brand_id": 1125152513, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank"
+  ], 
   "wof:tags": [
     "building", 
     "society", 
@@ -9,6 +14,6 @@
     "consultant", 
     "pension"
   ], 
-  "wof:brand_name": "Bradford & Bingley Plc", 
-  "wof:brand_id": 1125152513
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416239
 }

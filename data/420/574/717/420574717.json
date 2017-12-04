@@ -1,6 +1,38 @@
 {
   "wof:brand_name": "Firestone", 
   "wof:brand_id": 420574717, 
+  "wof:categories": [
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:services=retail", 
+    "services:retail=auto_repair", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=rubber_and_plastics", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "sg:services=building_and_trades", 
+    "public_place:government=office", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "services:building_and_trades=landscaping_services", 
+    "sg:public_place=government", 
+    "manufacturing_and_wholesale_goods:manufacturing=glass_and_minerals", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "retail_goods:shopping=jewelry", 
+    "services:building_and_trades=construction", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=engineering", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:professional=research", 
+    "services:retail=repair_shop", 
+    "services:social_services=job_training", 
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=shopping", 
+    "sg:services=social_services", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "tire", 
     "lube", 
@@ -87,6 +119,6 @@
     1125149343
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414456, 
+  "wof:lastmodified": 1512416231, 
   "mz:is_current": 1
 }

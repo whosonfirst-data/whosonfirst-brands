@@ -1,10 +1,21 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414550, 
+  "wof:brand_name": "Game", 
+  "wof:brand_id": 1125161831, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "entertainment:recreation=amusement_park", 
+    "manufacturing_and_wholesale_goods:wholesale=toys_and_hobbies", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:professional=computer_services", 
+    "sg:entertainment=recreation", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "supply", 
     "model"
   ], 
-  "wof:brand_name": "Game", 
-  "wof:brand_id": 1125161831
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416305
 }

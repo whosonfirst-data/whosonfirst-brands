@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414462, 
+  "wof:brand_name": "Chase Manhattan", 
+  "wof:brand_id": 420574639, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=professional", 
+    "services:professional=computer_services", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=real_estate", 
+    "services:professional=management_and_consulting", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "commercial", 
     "national", 
@@ -53,6 +65,6 @@
     "warehouse", 
     "wholesale"
   ], 
-  "wof:brand_name": "Chase Manhattan", 
-  "wof:brand_id": 420574639
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416235
 }

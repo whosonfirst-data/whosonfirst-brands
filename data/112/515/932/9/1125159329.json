@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414504, 
+  "wof:brand_name": "Paradise Bakery & Cafe", 
+  "wof:brand_id": 1125159329, 
+  "wof:categories": [
+    "sg:food_and_drink=bakery", 
+    "sg:food_and_drink=cafe", 
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:food_and_drink=fast_food", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "pastry", 
     "american", 
@@ -17,6 +26,6 @@
     "lunch", 
     "wedding"
   ], 
-  "wof:brand_name": "Paradise Bakery & Cafe", 
-  "wof:brand_id": 1125159329
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416269
 }

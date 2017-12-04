@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414559, 
+  "wof:brand_name": "Casual Corner", 
+  "wof:brand_id": 1125149435, 
+  "wof:categories": [
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional", 
+    "services:professional=business_services", 
+    "services:utilities=mobile_phone", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "women's", 
     "apparel", 
@@ -21,6 +29,6 @@
     "wear", 
     "wi-fi"
   ], 
-  "wof:brand_name": "Casual Corner", 
-  "wof:brand_id": 1125149435
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416313
 }

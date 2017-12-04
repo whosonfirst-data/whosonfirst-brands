@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414460, 
+  "wof:brand_name": "Ladies Workout Express", 
+  "wof:brand_id": 420574853, 
+  "wof:categories": [
+    "entertainment:sports_and_exercise=gym", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:services=personal", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "entertainment:arena=sports_club", 
+    "sg:entertainment=arena", 
+    "services:personal=tanning_parlor", 
+    "sg:entertainment=recreation", 
+    "services:personal=beauty_salon"
+  ], 
   "wof:tags": [
     "health", 
     "gymnasium", 
@@ -26,6 +38,6 @@
     "store", 
     "trade"
   ], 
-  "wof:brand_name": "Ladies Workout Express", 
-  "wof:brand_id": 420574853
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416234
 }

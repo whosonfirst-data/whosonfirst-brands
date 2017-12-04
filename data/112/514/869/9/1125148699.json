@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414554, 
+  "wof:brand_name": "Kbc", 
+  "wof:brand_id": 1125148699, 
+  "wof:categories": [
+    "services:insurance=life_insurance", 
+    "sg:services=insurance", 
+    "public_place:education=vocational_school", 
+    "services:building_and_trades=construction", 
+    "services:professional=management_and_consulting", 
+    "sg:public_place=education", 
+    "sg:services=building_and_trades", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "assurance", 
     "compagnies", 
@@ -13,6 +23,6 @@
     "training", 
     "vie"
   ], 
-  "wof:brand_name": "Kbc", 
-  "wof:brand_id": 1125148699
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416309
 }

@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414458, 
+  "wof:brand_name": "Kragen Auto Parts", 
+  "wof:brand_id": 420574875, 
+  "wof:categories": [
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "automobile", 
     "parts", 
@@ -18,6 +27,6 @@
     "exchanging", 
     "shop"
   ], 
-  "wof:brand_name": "Kragen Auto Parts", 
-  "wof:brand_id": 420574875
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416232
 }

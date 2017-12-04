@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414459, 
+  "wof:brand_name": "Holiday Inn", 
+  "wof:brand_id": 420574657, 
+  "wof:categories": [
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel", 
+    "sg:food_and_drink=restaurant", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "services:retail=event_space", 
+    "sg:services=real_estate", 
+    "sg:services=retail", 
+    "services:building_and_trades=construction", 
+    "services:real_estate=real_estate_operator", 
+    "sg:services=building_and_trades", 
+    "services:organizations=membership_organization", 
+    "services:professional=business_services", 
+    "services:real_estate=real_estate_agent", 
+    "sg:entertainment=recreation", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:services=organizations", 
+    "sg:transportation=bus_charters"
+  ], 
   "wof:tags": [
     "operation", 
     "eating", 
@@ -65,6 +85,6 @@
     "transport", 
     "vocational"
   ], 
-  "wof:brand_name": "Holiday Inn", 
-  "wof:brand_id": 420574657
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416233
 }

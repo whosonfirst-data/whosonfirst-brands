@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414464, 
+  "wof:brand_name": "Taste of China", 
+  "wof:brand_id": 1125159393, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food"
+  ], 
   "wof:tags": [
     "chinese", 
     "eating", 
@@ -11,6 +15,6 @@
     "-", 
     "bar"
   ], 
-  "wof:brand_name": "Taste of China", 
-  "wof:brand_id": 1125159393
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416237
 }

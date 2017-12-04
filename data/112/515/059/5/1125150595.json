@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414469, 
+  "wof:brand_name": "St John Lutheran Church", 
+  "wof:brand_id": 1125150595, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship", 
+    "public_place:education=school", 
+    "sg:public_place=education", 
+    "entertainment:travel=hotels_and_motels", 
+    "services:communications=radio_station", 
+    "sg:entertainment=travel", 
+    "sg:services=communications", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "church", 
     "churches-lutheran", 
@@ -24,6 +37,6 @@
     "private", 
     "youth"
   ], 
-  "wof:brand_name": "St John Lutheran Church", 
-  "wof:brand_id": 1125150595
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416241
 }

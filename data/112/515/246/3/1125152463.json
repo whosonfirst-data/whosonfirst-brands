@@ -1,10 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414493, 
+  "wof:brand_name": "Die Post", 
+  "wof:brand_id": 1125152463, 
+  "wof:categories": [
+    "public_place:government=post_office", 
+    "sg:public_place=government", 
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel"
+  ], 
   "wof:tags": [
     "die", 
     "poststellen"
   ], 
-  "wof:brand_name": "Die Post", 
-  "wof:brand_id": 1125152463
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416260
 }

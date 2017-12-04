@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414538, 
+  "wof:brand_name": "Noah's", 
+  "wof:brand_id": 1125162347, 
+  "wof:categories": [
+    "sg:food_and_drink=bagels", 
+    "sg:food_and_drink=bakery", 
+    "sg:retail_goods=shopping", 
+    "food_and_drink:bagels=none", 
+    "retail_goods:food_and_beverages=bakery", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=pets_and_pet_supplies", 
+    "services:retail=animal_services", 
+    "sg:food_and_drink=coffee_and_tea", 
+    "sg:food_and_drink=deli", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "american", 
     "pastry", 
@@ -13,6 +27,6 @@
     "shop", 
     "wrap"
   ], 
-  "wof:brand_name": "Noah's", 
-  "wof:brand_id": 1125162347
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416296
 }

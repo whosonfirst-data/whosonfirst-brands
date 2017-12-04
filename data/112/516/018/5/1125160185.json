@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414546, 
+  "wof:brand_name": "Garfield Elementary School", 
+  "wof:brand_id": 1125160185, 
+  "wof:categories": [
+    "public_place:education=school", 
+    "sg:public_place=education", 
+    "education_and_religion:education=school", 
+    "public_place:education=preschool", 
+    "public_place:education=special_training"
+  ], 
   "wof:tags": [
     "elementary", 
     "high", 
@@ -11,6 +18,6 @@
     "kindergarten", 
     "school"
   ], 
-  "wof:brand_name": "Garfield Elementary School", 
-  "wof:brand_id": 1125160185
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416302
 }

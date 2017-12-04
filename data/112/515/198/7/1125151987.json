@@ -1,6 +1,25 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414524, 
+  "wof:brand_name": "Foot Solutions", 
+  "wof:brand_id": 1125151987, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=shoes", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:services=health_services", 
+    "sg:services=professional", 
+    "services:health_services=doctor", 
+    "services:health_services=podiatrist", 
+    "services:professional=business_services", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "retail_goods:shopping=pharmacy", 
+    "services:health_services=health_practitioner", 
+    "services:personal=shoe_repair_and_shine", 
+    "sg:entertainment=recreation", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "store", 
     "shoes-orthopedic", 
@@ -28,6 +47,6 @@
     "shoes-wholesale", 
     "therapy"
   ], 
-  "wof:brand_name": "Foot Solutions", 
-  "wof:brand_id": 1125151987
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416285
 }

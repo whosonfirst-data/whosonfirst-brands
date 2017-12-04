@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414463, 
+  "wof:brand_name": "Advance Auto Parts", 
+  "wof:brand_id": 420574287, 
+  "wof:categories": [
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "retail_goods:autos_and_motor_vehicles=automobile_sales", 
+    "sg:transportation=freight", 
+    "services:banks_and_credit_unions=bank", 
+    "services:professional=management_and_consulting", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=professional", 
+    "sg:transportation=parking"
+  ], 
   "wof:tags": [
     "automobile", 
     "batteries-storage", 
@@ -33,6 +49,6 @@
     "supply", 
     "used"
   ], 
-  "wof:brand_name": "Advance Auto Parts", 
-  "wof:brand_id": 420574287
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416236
 }

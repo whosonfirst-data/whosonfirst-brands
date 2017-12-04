@@ -1,6 +1,36 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414508, 
+  "wof:brand_name": "Kraft Foods", 
+  "wof:brand_id": 1125150607, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=pet_food", 
+    "retail_goods:food_and_beverages=specialty", 
+    "services:professional=management_and_consulting", 
+    "manufacturing_and_wholesale_goods:wholesale=dairy", 
+    "sg:transportation=freight", 
+    "manufacturing_and_wholesale_goods:wholesale=meat", 
+    "sg:food_and_drink=restaurant", 
+    "manufacturing_and_wholesale_goods:wholesale=tobacco_products", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "retail_goods:home_and_garden=kitchen_supply", 
+    "services:banks_and_credit_unions=bank", 
+    "services:building_and_trades=construction", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=business_services", 
+    "services:professional=research", 
+    "services:retail=repair_shop", 
+    "sg:food_and_drink=food_court", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=building_and_trades", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "product", 
     "mfg", 
@@ -87,6 +117,6 @@
     "storage", 
     "yogurt"
   ], 
-  "wof:brand_name": "Kraft Foods", 
-  "wof:brand_id": 1125150607
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416272
 }

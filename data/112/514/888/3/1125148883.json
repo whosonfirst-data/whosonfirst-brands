@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414554, 
+  "wof:brand_name": "Hooters", 
+  "wof:brand_id": 1125148883, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:food_and_drink=fast_food", 
+    "food_and_drink:bars_and_pubs=sports_bar", 
+    "sg:services=professional", 
+    "food_and_drink:bars_and_pubs=nightclub", 
+    "retail_goods:food_and_beverages=bakery", 
+    "services:professional=advertising", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "american", 
     "wing", 
@@ -22,6 +34,6 @@
     "nightlife", 
     "seafood"
   ], 
-  "wof:brand_name": "Hooters", 
-  "wof:brand_id": 1125148883
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416309
 }

@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414481, 
+  "wof:brand_name": "P P G Auto Glass", 
+  "wof:brand_id": 1125157697, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:manufacturing=glass_and_minerals", 
+    "retail_goods:home_and_garden=building_materials", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=home_and_garden", 
+    "manufacturing_and_wholesale_goods:wholesale=construction_materials", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "glass", 
     "replacement", 
@@ -16,6 +28,6 @@
     "mfg", 
     "warehouse"
   ], 
-  "wof:brand_name": "P P G Auto Glass", 
-  "wof:brand_id": 1125157697
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416250
 }

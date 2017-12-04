@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414526, 
+  "wof:brand_name": "Alliance Church", 
+  "wof:brand_id": 1125157323, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "church"
   ], 
-  "wof:brand_name": "Alliance Church", 
-  "wof:brand_id": 1125157323
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416287
 }

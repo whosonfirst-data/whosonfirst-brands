@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414478, 
+  "wof:brand_name": "Orscheln Farm & Home", 
+  "wof:brand_id": 1125156445, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=farm_supplies", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "manufacturing_and_wholesale_goods:farming=farm", 
+    "retail_goods:home_and_garden=hardware", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:retail_goods=home_and_garden"
+  ], 
   "wof:tags": [
     "equipment", 
     "store", 
@@ -8,6 +17,6 @@
     "farm", 
     "hardware"
   ], 
-  "wof:brand_name": "Orscheln Farm & Home", 
-  "wof:brand_id": 1125156445
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416248
 }

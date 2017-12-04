@@ -1,6 +1,36 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414459, 
+  "wof:brand_name": "Home Depot", 
+  "wof:brand_id": 420574013, 
+  "wof:categories": [
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=building_materials", 
+    "sg:services=building_and_trades", 
+    "services:building_and_trades=construction", 
+    "retail_goods:home_and_garden=hardware", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:transportation=freight", 
+    "manufacturing_and_wholesale_goods:wholesale=hardware", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "manufacturing_and_wholesale_goods:wholesale=construction_materials", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "manufacturing_and_wholesale_goods:wholesale=home_furnishings", 
+    "services:building_and_trades=plumbing", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:shopping=department_store", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "retail_goods:home_and_garden=carpets_and_floor_coverings", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:building_and_trades=equipment_rental", 
+    "services:professional=business_services", 
+    "services:retail=repair_shop", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "center", 
     "improvement", 
@@ -57,6 +87,6 @@
     "shop", 
     "yard"
   ], 
-  "wof:brand_name": "Home Depot", 
-  "wof:brand_id": 420574013
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416233
 }

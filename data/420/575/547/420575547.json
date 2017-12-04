@@ -1,11 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414444, 
+  "wof:brand_name": "Promod", 
+  "wof:brand_id": 420575547, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "manufacturing_and_wholesale_goods:manufacturing=textiles", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "retail_goods:shopping=crafts_and_fabrics"
+  ], 
   "wof:tags": [
     "dame", 
     "pour", 
     "v\u00eatements"
   ], 
-  "wof:brand_name": "Promod", 
-  "wof:brand_id": 420575547
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416221
 }

@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414486, 
+  "wof:brand_name": "Medical Clinic", 
+  "wof:brand_id": 1125159617, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=doctor", 
+    "public_place:government=office", 
+    "services:health_services=clinic", 
+    "services:health_services=health_practitioner", 
+    "sg:public_place=government", 
+    "sg:services=personal", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "clinic", 
     "physician", 
@@ -15,6 +25,6 @@
     "surgeons", 
     "weight"
   ], 
-  "wof:brand_name": "Medical Clinic", 
-  "wof:brand_id": 1125159617
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416254
 }

@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414492, 
+  "wof:brand_name": "Speedee Oil Change & Tune Up", 
+  "wof:brand_id": 1125155311, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail", 
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "manufacturing_and_wholesale_goods:manufacturing=petroleum_products", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "services:retail=repair_shop", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "automobile", 
     "repairing", 
@@ -21,6 +32,6 @@
     "production", 
     "ups"
   ], 
-  "wof:brand_name": "Speedee Oil Change & Tune Up", 
-  "wof:brand_id": 1125155311
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416260
 }

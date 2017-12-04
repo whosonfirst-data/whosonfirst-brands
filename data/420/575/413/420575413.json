@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414450, 
+  "wof:brand_name": "First State Bank", 
+  "wof:brand_id": 420575413, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=real_estate", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting"
+  ], 
   "wof:tags": [
     "commercial", 
     "saving", 
@@ -24,6 +33,6 @@
     "temperature", 
     "time"
   ], 
-  "wof:brand_name": "First State Bank", 
-  "wof:brand_id": 420575413
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416226
 }

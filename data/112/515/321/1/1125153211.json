@@ -1,6 +1,30 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414472, 
+  "wof:brand_name": "Deck The Walls", 
+  "wof:brand_id": 1125153211, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=professional", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "entertainment:arts_and_performance=art_gallery", 
+    "manufacturing_and_wholesale_goods:farming=fish_and_marine_products", 
+    "services:building_and_trades=construction", 
+    "services:professional=art_services", 
+    "services:retail=repair_shop", 
+    "sg:entertainment=arts_and_performance", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:services=building_and_trades", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:manufacturing=retail_goods", 
+    "manufacturing_and_wholesale_goods:manufacturing=wood_products", 
+    "services:professional=business_services", 
+    "sg:entertainment=museum", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:entertainment=recreation", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "art", 
     "gallery", 
@@ -34,6 +58,6 @@
     "se", 
     "specialty"
   ], 
-  "wof:brand_name": "Deck The Walls", 
-  "wof:brand_id": 1125153211
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416243
 }

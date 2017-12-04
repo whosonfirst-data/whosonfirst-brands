@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414545, 
+  "wof:brand_name": "Restoration Hardware", 
+  "wof:brand_id": 1125162775, 
+  "wof:categories": [
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:home_and_garden=hardware", 
+    "retail_goods:home_and_garden=home_furnishings"
+  ], 
   "wof:tags": [
     "store", 
     "decor", 
@@ -9,6 +15,6 @@
     "furnishing", 
     "hardware"
   ], 
-  "wof:brand_name": "Restoration Hardware", 
-  "wof:brand_id": 1125162775
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416302
 }

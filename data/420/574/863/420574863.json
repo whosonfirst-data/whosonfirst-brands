@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414461, 
+  "wof:brand_name": "Lens Crafters", 
+  "wof:brand_id": 420574863, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=optical_goods", 
+    "services:health_services=optometrist", 
+    "sg:services=health_services", 
+    "retail_goods:shopping=optician", 
+    "retail_goods:shopping=crafts_and_fabrics", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "optician", 
     "eyewear", 
@@ -18,6 +29,6 @@
     "sun", 
     "sunglasses"
   ], 
-  "wof:brand_name": "Lens Crafters", 
-  "wof:brand_id": 420574863
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416235
 }

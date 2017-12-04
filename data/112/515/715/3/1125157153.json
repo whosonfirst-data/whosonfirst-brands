@@ -1,12 +1,21 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414476, 
+  "wof:brand_name": "Family Dollar Stores Inc", 
+  "wof:brand_id": 1125157153, 
+  "wof:categories": [
+    "retail_goods:shopping=department_store", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "entertainment:arena=sports_club", 
+    "services:health_services=dentist", 
+    "sg:entertainment=arena", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "shop", 
     "variety", 
     "discount", 
     "martial art"
   ], 
-  "wof:brand_name": "Family Dollar Stores Inc", 
-  "wof:brand_id": 1125157153
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416246
 }

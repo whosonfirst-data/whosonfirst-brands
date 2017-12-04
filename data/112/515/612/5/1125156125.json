@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414469, 
+  "wof:brand_name": "Rinker Materials Corporation", 
+  "wof:brand_id": 1125156125, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:manufacturing=glass_and_minerals", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=construction_materials", 
+    "retail_goods:home_and_garden=building_materials", 
+    "sg:retail_goods=home_and_garden", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:wholesale=hardware", 
+    "manufacturing_and_wholesale_goods:wholesale=metals_and_minerals", 
+    "retail_goods:home_and_garden=hardware", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "concrete", 
     "mfg", 
@@ -47,6 +61,6 @@
     "used", 
     "wall"
   ], 
-  "wof:brand_name": "Rinker Materials Corporation", 
-  "wof:brand_id": 1125156125
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416241
 }

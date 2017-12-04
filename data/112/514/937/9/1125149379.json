@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414556, 
+  "wof:brand_name": "Sprint Store", 
+  "wof:brand_id": 1125149379, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=mobile_phones", 
+    "services:utilities=mobile_phone", 
+    "sg:services=utilities", 
+    "manufacturing_and_wholesale_goods:manufacturing=electronics", 
+    "services:utilities=telephone", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "sg:services=professional", 
+    "sg:services=communications", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "services:organizations=professional_association", 
+    "services:professional=computer_services", 
+    "services:retail=auto_rental", 
+    "sg:services=organizations", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "cellular", 
     "telephone", 
@@ -25,6 +43,6 @@
     "television", 
     "wi-fi"
   ], 
-  "wof:brand_name": "Sprint Store", 
-  "wof:brand_id": 1125149379
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416311
 }

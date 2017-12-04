@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414526, 
+  "wof:brand_name": "Thomas Cook Travel", 
+  "wof:brand_id": 1125159405, 
+  "wof:categories": [
+    "entertainment:travel=travel_agent", 
+    "sg:entertainment=travel"
+  ], 
   "wof:tags": [
     "agency", 
     "bureau", 
@@ -9,6 +13,6 @@
     "ticket", 
     "insurance"
   ], 
-  "wof:brand_name": "Thomas Cook Travel", 
-  "wof:brand_id": 1125159405
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416287
 }

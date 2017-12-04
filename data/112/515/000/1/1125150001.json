@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414511, 
+  "wof:brand_name": "Sisters Of St Joseph", 
+  "wof:brand_id": 1125150001, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "sg:public_place=education", 
+    "public_place:education=school", 
+    "public_place:place_of_worship=monastery", 
+    "sg:public_place=place_of_worship", 
+    "public_place:education=special_training", 
+    "services:professional=research", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "convent", 
     "monastery", 
@@ -11,6 +24,6 @@
     "tutoring", 
     "welfare"
   ], 
-  "wof:brand_name": "Sisters Of St Joseph", 
-  "wof:brand_id": 1125150001
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416275
 }

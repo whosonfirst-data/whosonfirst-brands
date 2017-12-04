@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414454, 
+  "wof:brand_name": "Supercuts", 
+  "wof:brand_id": 420573881, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "public_place:education=vocational_school", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:public_place=education", 
+    "sg:services=professional", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "shop", 
     "hair", 
@@ -27,6 +43,6 @@
     "rel", 
     "training"
   ], 
-  "wof:brand_name": "Supercuts", 
-  "wof:brand_id": 420573881
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416229
 }

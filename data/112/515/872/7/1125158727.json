@@ -1,11 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414490, 
+  "wof:brand_name": "Comercial Igove 94 S.l.", 
+  "wof:brand_id": 1125158727, 
+  "wof:categories": [
+    "sg:entertainment=casinos_and_gambling"
+  ], 
   "wof:tags": [
     "de", 
     "juego", 
     "locale"
   ], 
-  "wof:brand_name": "Comercial Igove 94 S.l.", 
-  "wof:brand_id": 1125158727
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416258
 }

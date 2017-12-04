@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414555, 
+  "wof:brand_name": "Old Country Buffet", 
+  "wof:brand_id": 1125149847, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "american", 
     "buffet", 
@@ -11,6 +15,6 @@
     "mfg", 
     "wood"
   ], 
-  "wof:brand_name": "Old Country Buffet", 
-  "wof:brand_id": 1125149847
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416310
 }

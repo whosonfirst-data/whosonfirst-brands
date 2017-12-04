@@ -1,11 +1,17 @@
 {
   "wof:brand_name": "Kiwanis International", 
   "wof:brand_id": 1125151793, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=community_association", 
+    "sg:services=social_services", 
+    "services:organizations=nonprofit_organization"
+  ], 
   "wof:tags": [], 
   "wof:supersedes": [
     420574813
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414522, 
+  "wof:lastmodified": 1512416284, 
   "mz:is_current": 1
 }

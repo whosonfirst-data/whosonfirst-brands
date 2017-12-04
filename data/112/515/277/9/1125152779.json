@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414499, 
+  "wof:brand_name": "Dialysis Clinic Inc", 
+  "wof:brand_id": 1125152779, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=clinic", 
+    "services:health_services=doctor", 
+    "services:health_services=hospital", 
+    "services:health_services=medical_lab"
+  ], 
   "wof:tags": [
     "dialysis", 
     "kidney", 
@@ -19,6 +26,6 @@
     "equipment", 
     "treatment"
   ], 
-  "wof:brand_name": "Dialysis Clinic Inc", 
-  "wof:brand_id": 1125152779
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416266
 }

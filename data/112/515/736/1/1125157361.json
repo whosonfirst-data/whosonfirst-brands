@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414481, 
+  "wof:brand_name": "Con Agra Foods", 
+  "wof:brand_id": 1125157361, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:wholesale=meat", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "manufacturing_and_wholesale_goods:manufacturing=pet_food", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "manufacturing_and_wholesale_goods:wholesale=dairy", 
+    "manufacturing_and_wholesale_goods:wholesale=fruits_and_vegetables", 
+    "retail_goods:food_and_beverages=meat_and_fish"
+  ], 
   "wof:tags": [
     "product", 
     "manufacturer", 
@@ -26,6 +39,6 @@
     "potato", 
     "specialty"
   ], 
-  "wof:brand_name": "Con Agra Foods", 
-  "wof:brand_id": 1125157361
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416251
 }

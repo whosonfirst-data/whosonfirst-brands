@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414496, 
+  "wof:brand_name": "Cash Advance", 
+  "wof:brand_id": 1125159181, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "manufacturing_and_wholesale_goods:manufacturing=glass_and_minerals", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "check", 
     "cashing", 
@@ -20,6 +31,6 @@
     "mfg", 
     "ready"
   ], 
-  "wof:brand_name": "Cash Advance", 
-  "wof:brand_id": 1125159181
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416264
 }

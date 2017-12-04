@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414537, 
+  "wof:brand_name": "Check Cashing Store", 
+  "wof:brand_id": 1125161051, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "cashing", 
     "check", 
@@ -11,6 +15,6 @@
     "depository", 
     "loan"
   ], 
-  "wof:brand_name": "Check Cashing Store", 
-  "wof:brand_id": 1125161051
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416296
 }

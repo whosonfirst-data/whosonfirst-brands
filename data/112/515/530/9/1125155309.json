@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414522, 
+  "wof:brand_name": "Souper Salad", 
+  "wof:brand_id": 1125155309, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:services=professional", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=bakery", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "services:organizations=community_association", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "american", 
     "soup", 
@@ -21,6 +30,6 @@
     "lunch", 
     "traditional"
   ], 
-  "wof:brand_name": "Souper Salad", 
-  "wof:brand_id": 1125155309
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416283
 }

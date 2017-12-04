@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414472, 
+  "wof:brand_name": "Max Muscle", 
+  "wof:brand_id": 1125159935, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:retail_goods=food_and_beverages", 
+    "services:insurance=health_insurance", 
+    "sg:services=insurance", 
+    "services:health_services=health_practitioner", 
+    "sg:services=health_services", 
+    "entertainment:sports_and_exercise=bicycle_rental", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping", 
+    "sg:services=personal", 
+    "retail_goods:shopping=bicycles_and_sporting_goods", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:personal=tanning_parlor", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "health", 
     "diet", 
@@ -24,6 +42,6 @@
     "store", 
     "supplement"
   ], 
-  "wof:brand_name": "Max Muscle", 
-  "wof:brand_id": 1125159935
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416244
 }

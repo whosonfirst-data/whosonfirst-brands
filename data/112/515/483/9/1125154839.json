@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414523, 
+  "wof:brand_name": "American Self Storage", 
+  "wof:brand_id": 1125154839, 
+  "wof:categories": [
+    "sg:transportation=freight", 
+    "services:retail=storage", 
+    "sg:services=retail", 
+    "entertainment:recreation=marina", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "services:professional=business_services", 
+    "services:real_estate=real_estate_agent", 
+    "sg:entertainment=recreation", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=professional", 
+    "sg:services=real_estate", 
+    "sg:transportation=parking"
+  ], 
   "wof:tags": [
     "storage", 
     "commercial", 
@@ -21,6 +35,6 @@
     "plant", 
     "records-storage"
   ], 
-  "wof:brand_name": "American Self Storage", 
-  "wof:brand_id": 1125154839
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416285
 }

@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414495, 
+  "wof:brand_name": "Jet's Pizza", 
+  "wof:brand_id": 1125151369, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "pizza", 
     "american", 
@@ -9,6 +14,6 @@
     "menu", 
     "take"
   ], 
-  "wof:brand_name": "Jet's Pizza", 
-  "wof:brand_id": 1125151369
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416263
 }

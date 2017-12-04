@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414539, 
+  "wof:brand_name": "Turning Heads", 
+  "wof:brand_id": 1125162845, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:personal=day_spa", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "shop", 
     "hairdresser", 
@@ -9,6 +18,6 @@
     "barber", 
     "spa"
   ], 
-  "wof:brand_name": "Turning Heads", 
-  "wof:brand_id": 1125162845
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416297
 }

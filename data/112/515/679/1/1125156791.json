@@ -1,6 +1,37 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414488, 
+  "wof:brand_name": "My Place", 
+  "wof:brand_id": 1125156791, 
+  "wof:categories": [
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:food_and_drink=restaurant", 
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:social_services=child_care", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional", 
+    "sg:services=social_services", 
+    "entertainment:recreation=arcade", 
+    "services:personal=barber", 
+    "sg:entertainment=recreation", 
+    "sg:services=retail", 
+    "entertainment:sports_and_exercise=sports_center", 
+    "food_and_drink:bars_and_pubs=lounge", 
+    "food_and_drink:bars_and_pubs=nightclub", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=jewelry", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:health_services=nursing_and_care_facility", 
+    "services:organizations=community_association", 
+    "services:professional=advertising", 
+    "services:retail=auto_repair", 
+    "services:retail=selfservice_laundry", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:food_and_drink=deli", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=health_services", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "drinking", 
     "eating", 
@@ -29,6 +60,6 @@
     "steak", 
     "tavern"
   ], 
-  "wof:brand_name": "My Place", 
-  "wof:brand_id": 1125156791
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416256
 }

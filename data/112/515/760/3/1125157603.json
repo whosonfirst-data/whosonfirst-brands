@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414487, 
+  "wof:brand_name": "Fidelity National Financial", 
+  "wof:brand_id": 1125157603, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=title_insurance", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=banks_and_credit_unions", 
+    "services:insurance=insurance_agent", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=professional", 
+    "sg:services=real_estate", 
+    "services:professional=credit_reporting_and_collection", 
+    "services:professional=computer_services"
+  ], 
   "wof:tags": [
     "carrier", 
     "advisory", 
@@ -12,6 +24,6 @@
     "datum", 
     "security"
   ], 
-  "wof:brand_name": "Fidelity National Financial", 
-  "wof:brand_id": 1125157603
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416256
 }

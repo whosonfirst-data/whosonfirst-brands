@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414541, 
+  "wof:brand_name": "Clarion Hotel", 
+  "wof:brand_id": 1125161427, 
+  "wof:categories": [
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "public_place:education=college", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "operation", 
     "eating", 
@@ -19,6 +27,6 @@
     "personal", 
     "real estate"
   ], 
-  "wof:brand_name": "Clarion Hotel", 
-  "wof:brand_id": 1125161427
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416299
 }

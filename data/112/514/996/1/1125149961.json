@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414554, 
+  "wof:brand_name": "Alpha Graphics", 
+  "wof:brand_id": 1125149961, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "sg:services=professional", 
+    "services:professional=printing_and_photocopies", 
+    "services:professional=art_services", 
+    "services:professional=business_services", 
+    "manufacturing_and_wholesale_goods:manufacturing=electronics", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:manufacturing=signs", 
+    "manufacturing_and_wholesale_goods:wholesale=office_equipment", 
+    "public_place:government=post_office", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=government"
+  ], 
   "wof:tags": [
     "printer", 
     "commercial", 
@@ -49,6 +65,6 @@
     "typesetter", 
     "work"
   ], 
-  "wof:brand_name": "Alpha Graphics", 
-  "wof:brand_id": 1125149961
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416309
 }

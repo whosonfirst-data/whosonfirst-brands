@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414560, 
+  "wof:brand_name": "Pizza Pro", 
+  "wof:brand_id": 1125148989, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:food_and_beverages=candy"
+  ], 
   "wof:tags": [
     "pizza", 
     "american", 
@@ -8,6 +15,6 @@
     "take", 
     "eating"
   ], 
-  "wof:brand_name": "Pizza Pro", 
-  "wof:brand_id": 1125148989
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416314
 }

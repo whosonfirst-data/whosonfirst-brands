@@ -1,7 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414556, 
-  "wof:tags": [], 
   "wof:brand_name": "K-B Toys", 
-  "wof:brand_id": 1125149313
+  "wof:brand_id": 1125149313, 
+  "wof:categories": [
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "sg:retail_goods=shopping"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416310
 }

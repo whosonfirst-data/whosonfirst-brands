@@ -1,12 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414460, 
+  "wof:brand_name": "Commerzbank Ag", 
+  "wof:brand_id": 420574121, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services"
+  ], 
   "wof:tags": [
     "banking", 
     "finance", 
     "institution", 
     "insurance"
   ], 
-  "wof:brand_name": "Commerzbank Ag", 
-  "wof:brand_id": 420574121
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416234
 }

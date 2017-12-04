@@ -1,6 +1,27 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414494, 
+  "wof:brand_name": "Ancient Free & Accepted M", 
+  "wof:brand_id": 1125155335, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "sg:services=organizations", 
+    "services:organizations=community_association", 
+    "services:organizations=membership_organization", 
+    "services:professional=business_services", 
+    "services:organizations=religious_organization", 
+    "sg:entertainment=travel", 
+    "entertainment:sports_and_exercise=gym", 
+    "entertainment:travel=bed_and_breakfast", 
+    "entertainment:travel=hotels_and_motels", 
+    "manufacturing_and_wholesale_goods:farming=farm", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:building_and_trades=construction", 
+    "services:organizations=nonprofit_organization", 
+    "services:organizations=professional_association", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "association", 
     "community", 
@@ -19,6 +40,6 @@
     "social", 
     "trust"
   ], 
-  "wof:brand_name": "Ancient Free & Accepted M", 
-  "wof:brand_id": 1125155335
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416261
 }

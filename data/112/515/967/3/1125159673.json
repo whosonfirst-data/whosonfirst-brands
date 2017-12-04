@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414497, 
+  "wof:brand_name": "Roots Canada Ltd", 
+  "wof:brand_id": 1125159673, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "retail_goods:shopping=shoes", 
+    "retail_goods:shopping=luggage_and_leather_goods", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "leather", 
     "sportswear", 
@@ -12,6 +19,6 @@
     "outlet", 
     "sport"
   ], 
-  "wof:brand_name": "Roots Canada Ltd", 
-  "wof:brand_id": 1125159673
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416265
 }

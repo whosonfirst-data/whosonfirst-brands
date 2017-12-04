@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414487, 
+  "wof:brand_name": "Factory Card Outlet", 
+  "wof:brand_id": 1125157597, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=party_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods"
+  ], 
   "wof:tags": [
     "party", 
     "supply", 
@@ -11,6 +19,6 @@
     "balloon", 
     "greeting"
   ], 
-  "wof:brand_name": "Factory Card Outlet", 
-  "wof:brand_id": 1125157597
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416255
 }

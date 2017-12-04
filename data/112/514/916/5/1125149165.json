@@ -1,6 +1,30 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414557, 
+  "wof:brand_name": "Cartridge World", 
+  "wof:brand_id": 1125149165, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "manufacturing_and_wholesale_goods:wholesale=office_equipment", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "services:professional=computer_services", 
+    "manufacturing_and_wholesale_goods:wholesale=computers", 
+    "services:retail=repair_shop", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:manufacturing=electronics", 
+    "services:professional=printing_and_photocopies", 
+    "manufacturing_and_wholesale_goods:manufacturing=retail_goods", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "entertainment:arts_and_performance=art_gallery", 
+    "manufacturing_and_wholesale_goods:manufacturing=paper_products", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "retail_goods:shopping=department_store", 
+    "sg:entertainment=arts_and_performance", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "equipment", 
     "cartridge", 
@@ -50,6 +74,6 @@
     "software", 
     "writing"
   ], 
-  "wof:brand_name": "Cartridge World", 
-  "wof:brand_id": 1125149165
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416312
 }

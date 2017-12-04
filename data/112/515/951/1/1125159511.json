@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414512, 
+  "wof:brand_name": "Community Corrections", 
+  "wof:brand_id": 1125159511, 
+  "wof:categories": [
+    "sg:public_place=government", 
+    "public_place:government=jail", 
+    "sg:services=social_services", 
+    "public_place:government=office", 
+    "public_place:government=court_house", 
+    "sg:services=health_services", 
+    "services:health_services=clinic", 
+    "services:health_services=hospital", 
+    "services:organizations=nonprofit_organization", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "institution", 
     "govt", 
@@ -23,6 +35,6 @@
     "social", 
     "specialty"
   ], 
-  "wof:brand_name": "Community Corrections", 
-  "wof:brand_id": 1125159511
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416276
 }

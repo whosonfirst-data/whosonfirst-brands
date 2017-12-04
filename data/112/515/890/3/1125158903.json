@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414494, 
+  "wof:brand_name": "AIG Valic", 
+  "wof:brand_id": 1125158903, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "public_place:government=embassy", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:insurance=hazard_insurance", 
+    "services:insurance=life_insurance", 
+    "sg:public_place=government", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "planning", 
     "financial", 
@@ -14,6 +26,6 @@
     "photo", 
     "visa"
   ], 
-  "wof:brand_name": "AIG Valic", 
-  "wof:brand_id": 1125158903
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416261
 }

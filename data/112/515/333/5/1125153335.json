@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414514, 
+  "wof:brand_name": "Primary Residential Mortgage", 
+  "wof:brand_id": 1125153335, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=professional", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=management_and_consulting"
+  ], 
   "wof:tags": [
     "loan", 
     "real estate", 
@@ -10,6 +19,6 @@
     "fuel", 
     "security"
   ], 
-  "wof:brand_name": "Primary Residential Mortgage", 
-  "wof:brand_id": 1125153335
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416277
 }

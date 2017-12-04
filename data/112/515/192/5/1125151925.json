@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414478, 
+  "wof:brand_name": "All Saints Episcopal Church", 
+  "wof:brand_id": 1125151925, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship", 
+    "services:social_services=child_care", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "church", 
     "episcopal", 
@@ -13,6 +21,6 @@
     "day", 
     "denomination"
   ], 
-  "wof:brand_name": "All Saints Episcopal Church", 
-  "wof:brand_id": 1125151925
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416248
 }

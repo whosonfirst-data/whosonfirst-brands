@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414452, 
+  "wof:brand_name": "Labor Ready", 
+  "wof:brand_id": 420575761, 
+  "wof:categories": [
+    "services:professional=employment_agencies", 
+    "sg:services=professional", 
+    "sg:food_and_drink=bakery"
+  ], 
   "wof:tags": [
     "labor", 
     "help", 
@@ -11,6 +16,6 @@
     "opportunity", 
     "staffing"
   ], 
-  "wof:brand_name": "Labor Ready", 
-  "wof:brand_id": 420575761
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416227
 }

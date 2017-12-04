@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414469, 
+  "wof:brand_name": "City Electric Supply Co", 
+  "wof:brand_id": 1125157135, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=building_materials", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:manufacturing=electronics", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "retail_goods:home_and_garden=hardware"
+  ], 
   "wof:tags": [
     "equipment", 
     "supply", 
@@ -21,6 +34,6 @@
     "lighting", 
     "mobile"
   ], 
-  "wof:brand_name": "City Electric Supply Co", 
-  "wof:brand_id": 1125157135
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416241
 }

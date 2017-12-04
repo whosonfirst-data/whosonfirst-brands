@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414494, 
+  "wof:brand_name": "Metro Self Storage", 
+  "wof:brand_id": 1125159303, 
+  "wof:categories": [
+    "services:retail=storage", 
+    "sg:services=retail", 
+    "sg:transportation=freight", 
+    "manufacturing_and_wholesale_goods:manufacturing=paper_products", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "public_place:structure=warehouse", 
+    "services:real_estate=real_estate_operator", 
+    "services:retail=auto_rental", 
+    "sg:public_place=structure", 
+    "sg:services=personal", 
+    "sg:services=professional", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "self", 
     "commercial", 
@@ -26,6 +40,6 @@
     "vehicle", 
     "warehouses-public-commercial"
   ], 
-  "wof:brand_name": "Metro Self Storage", 
-  "wof:brand_id": 1125159303
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416262
 }

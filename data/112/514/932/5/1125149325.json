@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414559, 
+  "wof:brand_name": "Lincoln Elementary School", 
+  "wof:brand_id": 1125149325, 
+  "wof:categories": [
+    "public_place:education=school", 
+    "sg:public_place=education", 
+    "education_and_religion:education=school", 
+    "public_place:education=preschool"
+  ], 
   "wof:tags": [
     "elementary", 
     "high", 
@@ -15,6 +21,6 @@
     "elementary school", 
     "school"
   ], 
-  "wof:brand_name": "Lincoln Elementary School", 
-  "wof:brand_id": 1125149325
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416313
 }

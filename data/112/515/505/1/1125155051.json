@@ -1,10 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414481, 
+  "wof:brand_name": "Saan Stores Ltd", 
+  "wof:brand_id": 1125155051, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=clothing_apparel_and_fashions"
+  ], 
   "wof:tags": [
     "department", 
     "store"
   ], 
-  "wof:brand_name": "Saan Stores Ltd", 
-  "wof:brand_id": 1125155051
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416251
 }

@@ -1,6 +1,27 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414507, 
+  "wof:brand_name": "Presentation Services", 
+  "wof:brand_id": 1125151285, 
+  "wof:categories": [
+    "services:building_and_trades=equipment_rental", 
+    "sg:services=building_and_trades", 
+    "services:communications=film_and_video_production", 
+    "sg:services=communications", 
+    "sg:services=professional", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=photographic_equipment", 
+    "services:professional=business_services", 
+    "services:professional=detective_and_security_services", 
+    "manufacturing_and_wholesale_goods:wholesale=durable_goods_and_equipment", 
+    "manufacturing_and_wholesale_goods:wholesale=electrical", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "services:organizations=community_association", 
+    "services:professional=advertising", 
+    "services:professional=management_and_consulting", 
+    "sg:services=organizations", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "audio", 
     "leasing", 
@@ -32,6 +53,6 @@
     "taping", 
     "visual"
   ], 
-  "wof:brand_name": "Presentation Services", 
-  "wof:brand_id": 1125151285
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416272
 }

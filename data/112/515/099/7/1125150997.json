@@ -1,6 +1,26 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414536, 
+  "wof:brand_name": "Anna's Linens", 
+  "wof:brand_id": 1125150997, 
+  "wof:categories": [
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:home_and_garden=furniture", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:wholesale=home_furnishings", 
+    "retail_goods:home_and_garden=carpets_and_floor_coverings", 
+    "services:professional=business_services", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional", 
+    "sg:services=retail", 
+    "retail_goods:shopping=crafts_and_fabrics", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=gifts_and_souvenirs"
+  ], 
   "wof:tags": [
     "linen", 
     "store", 
@@ -23,6 +43,6 @@
     "set", 
     "shop"
   ], 
-  "wof:brand_name": "Anna's Linens", 
-  "wof:brand_id": 1125150997
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416295
 }

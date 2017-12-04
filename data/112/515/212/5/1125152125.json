@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414500, 
+  "wof:brand_name": "Anhyp", 
+  "wof:brand_id": 1125152125, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "savings-banks"
   ], 
-  "wof:brand_name": "Anhyp", 
-  "wof:brand_id": 1125152125
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416266
 }

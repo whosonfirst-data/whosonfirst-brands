@@ -1,7 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414536, 
-  "wof:tags": [], 
   "wof:brand_name": "A Whiter Smiley", 
-  "wof:brand_id": 1125156021
+  "wof:brand_id": 1125156021, 
+  "wof:categories": [
+    "services:health_services=dentist", 
+    "sg:services=health_services"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416295
 }

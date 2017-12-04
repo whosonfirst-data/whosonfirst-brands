@@ -1,7 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414501, 
-  "wof:tags": [], 
   "wof:brand_name": "Restaurant Krone", 
-  "wof:brand_id": 1125154079
+  "wof:brand_id": 1125154079, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416267
 }

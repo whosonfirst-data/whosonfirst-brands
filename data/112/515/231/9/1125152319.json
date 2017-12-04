@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414525, 
+  "wof:brand_name": "American Home Loans", 
+  "wof:brand_id": 1125152319, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:real_estate=real_estate_services", 
+    "sg:services=real_estate", 
+    "services:professional=computer_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "loan", 
     "real estate", 
@@ -12,6 +21,6 @@
     "lender", 
     "programing"
   ], 
-  "wof:brand_name": "American Home Loans", 
-  "wof:brand_id": 1125152319
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416286
 }

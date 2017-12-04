@@ -1,6 +1,29 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414468, 
+  "wof:brand_name": "Joe's Place", 
+  "wof:brand_id": 1125159905, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=professional", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "retail_goods:food_and_beverages=meat_and_fish", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=personal", 
+    "food_and_drink:bars_and_pubs=nightclub", 
+    "manufacturing_and_wholesale_goods:wholesale=nondurable_goods", 
+    "manufacturing_and_wholesale_goods:wholesale=seafood", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "services:personal=barber", 
+    "services:personal=beauty_salon", 
+    "services:professional=business_services", 
+    "services:retail=event_space", 
+    "sg:food_and_drink=deli", 
+    "sg:food_and_drink=fast_food", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "cocktail", 
     "drinking", 
@@ -35,6 +58,6 @@
     "shop", 
     "station"
   ], 
-  "wof:brand_name": "Joe's Place", 
-  "wof:brand_id": 1125159905
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416240
 }

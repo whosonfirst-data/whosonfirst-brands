@@ -1,6 +1,33 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414541, 
+  "wof:brand_name": "Soho", 
+  "wof:brand_id": 1125162007, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:services=personal", 
+    "sg:services=professional", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "retail_goods:shopping=jewelry", 
+    "services:personal=beauty_salon", 
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=home_and_garden", 
+    "food_and_drink:bars_and_pubs=gay_bar", 
+    "food_and_drink:bars_and_pubs=lounge", 
+    "manufacturing_and_wholesale_goods:manufacturing=apparel", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:home_and_garden=hardware", 
+    "retail_goods:shopping=shoes", 
+    "services:building_and_trades=electrical", 
+    "services:organizations=community_association", 
+    "services:personal=barber", 
+    "services:personal=day_spa", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=building_and_trades", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "hair", 
     "supply", 
@@ -27,6 +54,6 @@
     "wig", 
     "women's"
   ], 
-  "wof:brand_name": "Soho", 
-  "wof:brand_id": 1125162007
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416298
 }

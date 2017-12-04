@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414496, 
+  "wof:brand_name": "Kijkshop", 
+  "wof:brand_id": 1125152719, 
+  "wof:categories": [
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "geschenken"
   ], 
-  "wof:brand_name": "Kijkshop", 
-  "wof:brand_id": 1125152719
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416263
 }

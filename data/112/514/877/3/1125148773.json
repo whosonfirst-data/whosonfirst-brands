@@ -1,10 +1,17 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414559, 
+  "wof:brand_name": "La Poste", 
+  "wof:brand_id": 1125148773, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=banks_and_credit_unions", 
+    "public_place:government=post_office", 
+    "sg:public_place=government", 
+    "sg:public_place=industrial_area"
+  ], 
   "wof:tags": [
     "die", 
     "poststellen"
   ], 
-  "wof:brand_name": "La Poste", 
-  "wof:brand_id": 1125148773
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416313
 }

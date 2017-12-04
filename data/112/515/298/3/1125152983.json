@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414530, 
+  "wof:brand_name": "Stewarts", 
+  "wof:brand_id": 1125152983, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:food_and_drink=restaurant", 
+    "public_place:military_area=air_force_base", 
+    "retail_goods:food_and_beverages=meat_and_fish", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "services:building_and_trades=landscaping_services", 
+    "services:building_and_trades=pest_control", 
+    "services:personal=barber", 
+    "sg:public_place=military_area", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=building_and_trades", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "good", 
     "gourmet", 
@@ -13,6 +29,6 @@
     "weed", 
     "wholesaler"
   ], 
-  "wof:brand_name": "Stewarts", 
-  "wof:brand_id": 1125152983
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416290
 }

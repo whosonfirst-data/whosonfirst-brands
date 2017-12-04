@@ -1,7 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414504, 
-  "wof:tags": [], 
   "wof:brand_name": "Migros", 
-  "wof:brand_id": 1125158815
+  "wof:brand_id": 1125158815, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416269
 }

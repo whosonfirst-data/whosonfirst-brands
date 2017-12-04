@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414558, 
+  "wof:brand_name": "U-Store-It", 
+  "wof:brand_id": 1125149167, 
+  "wof:categories": [
+    "sg:transportation=freight", 
+    "services:retail=storage", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:manufacturing=paper_products", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "services:professional=business_services", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=stationery", 
+    "public_place:structure=warehouse", 
+    "services:real_estate=real_estate_operator", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=structure", 
+    "sg:services=personal", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "commercial", 
     "household", 
@@ -34,6 +50,6 @@
     "ware", 
     "warehouses-public-commercial"
   ], 
-  "wof:brand_name": "U-Store-It", 
-  "wof:brand_id": 1125149167
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416312
 }

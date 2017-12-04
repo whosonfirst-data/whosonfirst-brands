@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414509, 
+  "wof:brand_name": "Baptist Church", 
+  "wof:brand_id": 1125151583, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=religious_organization", 
+    "sg:public_place=place_of_worship", 
+    "public_place:place_of_worship=church", 
+    "services:organizations=nonprofit_organization"
+  ], 
   "wof:tags": [
     "church", 
     "churches-baptist", 
@@ -9,6 +16,6 @@
     "ministry", 
     "southern"
   ], 
-  "wof:brand_name": "Baptist Church", 
-  "wof:brand_id": 1125151583
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416273
 }

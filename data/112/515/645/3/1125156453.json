@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414489, 
+  "wof:brand_name": "Peter Pipers Pizza", 
+  "wof:brand_id": 1125156453, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "pizza", 
     "american", 
@@ -9,6 +14,6 @@
     "party", 
     "planning"
   ], 
-  "wof:brand_name": "Peter Pipers Pizza", 
-  "wof:brand_id": 1125156453
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416258
 }

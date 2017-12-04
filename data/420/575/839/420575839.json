@@ -1,6 +1,23 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414445, 
+  "wof:brand_name": "Social Services", 
+  "wof:brand_id": 420575839, 
+  "wof:categories": [
+    "sg:services=social_services", 
+    "sg:public_place=government", 
+    "public_place:government=office", 
+    "sg:services=organizations", 
+    "services:organizations=nonprofit_organization", 
+    "sg:services=professional", 
+    "public_place:government=court_house", 
+    "public_place:government=jail", 
+    "services:insurance=hazard_insurance", 
+    "services:organizations=membership_organization", 
+    "services:professional=detective_and_security_services", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:professional=management_and_consulting", 
+    "services:social_services=retirement_home", 
+    "sg:services=insurance"
+  ], 
   "wof:tags": [
     "program", 
     "resource", 
@@ -44,6 +61,6 @@
     "veteran", 
     "voluntary"
   ], 
-  "wof:brand_name": "Social Services", 
-  "wof:brand_id": 420575839
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416223
 }

@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414495, 
+  "wof:brand_name": "Select Physical Therapy", 
+  "wof:brand_id": 1125156479, 
+  "wof:categories": [
+    "services:health_services=health_practitioner", 
+    "sg:services=health_services", 
+    "services:health_services=clinic", 
+    "services:health_services=doctor", 
+    "services:health_services=hospital"
+  ], 
   "wof:tags": [
     "physical", 
     "therapy", 
@@ -10,6 +17,6 @@
     "rehabilitation", 
     "treatment"
   ], 
-  "wof:brand_name": "Select Physical Therapy", 
-  "wof:brand_id": 1125156479
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416263
 }

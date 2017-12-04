@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414508, 
+  "wof:brand_name": "Premier Mortgage Funding", 
+  "wof:brand_id": 1125150609, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "loan", 
     "real estate", 
@@ -8,6 +15,6 @@
     "broker", 
     "financing"
   ], 
-  "wof:brand_name": "Premier Mortgage Funding", 
-  "wof:brand_id": 1125150609
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416272
 }

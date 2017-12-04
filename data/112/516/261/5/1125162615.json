@@ -1,11 +1,15 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414546, 
+  "wof:brand_name": "Dienst Voor Toerisme", 
+  "wof:brand_id": 1125162615, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government"
+  ], 
   "wof:tags": [
     "-", 
     "federation", 
     "tourism"
   ], 
-  "wof:brand_name": "Dienst Voor Toerisme", 
-  "wof:brand_id": 1125162615
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416302
 }

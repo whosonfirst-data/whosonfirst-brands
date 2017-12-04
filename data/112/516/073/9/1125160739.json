@@ -1,10 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414550, 
+  "wof:brand_name": "Bill Miller BBQ", 
+  "wof:brand_id": 1125160739, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "american", 
     "barbecue"
   ], 
-  "wof:brand_name": "Bill Miller BBQ", 
-  "wof:brand_id": 1125160739
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416306
 }

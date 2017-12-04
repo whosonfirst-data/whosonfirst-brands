@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414505, 
+  "wof:brand_name": "Pizza Man", 
+  "wof:brand_id": 1125154909, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=food_and_beverages", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "retail_goods:food_and_beverages=bakery", 
+    "sg:food_and_drink=deli", 
+    "sg:food_and_drink=fast_food", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "services:organizations=nonprofit_organization", 
+    "services:retail=animal_services", 
+    "sg:services=organizations", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "pizza", 
     "eating", 
@@ -20,6 +34,6 @@
     "repair", 
     "take"
   ], 
-  "wof:brand_name": "Pizza Man", 
-  "wof:brand_id": 1125154909
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416270
 }

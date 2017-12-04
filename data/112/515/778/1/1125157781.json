@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414504, 
+  "wof:brand_name": "Bb & T Corporation", 
+  "wof:brand_id": 1125157781, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "public_place:education=vocational_school", 
+    "services:social_services=job_training", 
+    "sg:public_place=education", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "commercial", 
     "national", 
@@ -17,6 +25,6 @@
     "reserve", 
     "training"
   ], 
-  "wof:brand_name": "Bb & T Corporation", 
-  "wof:brand_id": 1125157781
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416269
 }

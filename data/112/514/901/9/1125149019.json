@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414557, 
+  "wof:brand_name": "Ameriprise Financial Advisors", 
+  "wof:brand_id": 1125149019, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:insurance=hazard_insurance", 
+    "services:professional=management_and_consulting", 
+    "sg:services=insurance", 
+    "sg:services=professional", 
+    "services:professional=lawyer_and_legal_services"
+  ], 
   "wof:tags": [
     "investing", 
     "advising", 
@@ -18,6 +28,6 @@
     "trust", 
     "wills"
   ], 
-  "wof:brand_name": "Ameriprise Financial Advisors", 
-  "wof:brand_id": 1125149019
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416311
 }

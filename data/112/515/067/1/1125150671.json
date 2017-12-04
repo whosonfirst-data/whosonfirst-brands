@@ -1,11 +1,17 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414497, 
+  "wof:brand_name": "First United Pentecostal Chr", 
+  "wof:brand_id": 1125150671, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship"
+  ], 
   "wof:tags": [
     "church", 
     "churches-pentecostal", 
     "churches-pentecostal-independent"
   ], 
-  "wof:brand_name": "First United Pentecostal Chr", 
-  "wof:brand_id": 1125150671
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416264
 }

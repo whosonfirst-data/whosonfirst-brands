@@ -1,6 +1,28 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414459, 
+  "wof:brand_name": "Aflac", 
+  "wof:brand_id": 420574593, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=hazard_insurance", 
+    "services:insurance=health_insurance", 
+    "sg:services=professional", 
+    "sg:services=health_services", 
+    "services:health_services=hospital", 
+    "services:insurance=life_insurance", 
+    "services:professional=business_services", 
+    "manufacturing_and_wholesale_goods:wholesale=office_equipment", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:health_services=clinic", 
+    "services:personal=beauty_salon", 
+    "services:professional=management_and_consulting", 
+    "services:social_services=retirement_home", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=personal", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "commercial", 
     "business", 
@@ -35,6 +57,6 @@
     "skin", 
     "treatment"
   ], 
-  "wof:brand_name": "Aflac", 
-  "wof:brand_id": 420574593
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416233
 }

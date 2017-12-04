@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414497, 
+  "wof:brand_name": "Wachovia Securities LLC", 
+  "wof:brand_id": 1125151617, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:insurance=insurance_agent", 
+    "sg:services=insurance", 
+    "services:banks_and_credit_unions=bank"
+  ], 
   "wof:tags": [
     "security", 
     "stock", 
@@ -24,6 +32,6 @@
     "national", 
     "open"
   ], 
-  "wof:brand_name": "Wachovia Securities LLC", 
-  "wof:brand_id": 1125151617
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416264
 }

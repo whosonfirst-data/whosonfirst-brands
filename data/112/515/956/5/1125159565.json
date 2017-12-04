@@ -1,6 +1,32 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414489, 
+  "wof:brand_name": "Good News", 
+  "wof:brand_id": 1125159565, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=news", 
+    "retail_goods:shopping=books", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "services:social_services=adult_care", 
+    "sg:services=social_services", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=paper_products", 
+    "manufacturing_and_wholesale_goods:wholesale=books_periodicals_and_newspapers", 
+    "public_place:education=special_training", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "services:organizations=religious_organization", 
+    "services:professional=accounting_and_tax_preparation", 
+    "services:professional=management_and_consulting", 
+    "services:real_estate=real_estate_agent", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=education", 
+    "sg:services=organizations", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "newsagent", 
     "dealer", 
@@ -18,6 +44,6 @@
     "stationery-wholesale", 
     "store"
   ], 
-  "wof:brand_name": "Good News", 
-  "wof:brand_id": 1125159565
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416257
 }

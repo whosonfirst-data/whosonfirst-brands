@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414471, 
+  "wof:brand_name": "Vermeulen", 
+  "wof:brand_id": 1125158889, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "retail_goods:home_and_garden=hardware", 
+    "retail_goods:shopping=antiques", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:retail=auto_repair", 
+    "services:retail=repair_shop", 
+    "sg:food_and_drink=bakery", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:retail_goods=shopping", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "-", 
     "automobile", 
@@ -14,6 +26,6 @@
     "recovery", 
     "tailoring"
   ], 
-  "wof:brand_name": "Vermeulen", 
-  "wof:brand_id": 1125158889
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416242
 }

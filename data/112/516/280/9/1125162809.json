@@ -1,12 +1,18 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414544, 
+  "wof:brand_name": "State Police Dept", 
+  "wof:brand_id": 1125162809, 
+  "wof:categories": [
+    "public_place:government=police_station", 
+    "sg:public_place=government", 
+    "services:professional=detective_and_security_services", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "state", 
     "department", 
     "guard", 
     "patrol"
   ], 
-  "wof:brand_name": "State Police Dept", 
-  "wof:brand_id": 1125162809
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416301
 }

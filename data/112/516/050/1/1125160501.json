@@ -1,12 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414552, 
+  "wof:brand_name": "First Wok", 
+  "wof:brand_id": 1125160501, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant"
+  ], 
   "wof:tags": [
     "chinese", 
     "asian", 
     "eating", 
     "pan"
   ], 
-  "wof:brand_name": "First Wok", 
-  "wof:brand_id": 1125160501
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416308
 }

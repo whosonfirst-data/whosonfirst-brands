@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414532, 
+  "wof:brand_name": "Finish Master", 
+  "wof:brand_id": 1125152875, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=auto_parts", 
+    "manufacturing_and_wholesale_goods:wholesale=painting_supplies", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "services:retail=auto_repair", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:services=retail", 
+    "manufacturing_and_wholesale_goods:manufacturing=metals", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "retail_goods:home_and_garden=building_materials", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "automobile", 
     "body", 
@@ -20,6 +36,6 @@
     "wallcoverings", 
     "wallpaper"
   ], 
-  "wof:brand_name": "Finish Master", 
-  "wof:brand_id": 1125152875
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416292
 }

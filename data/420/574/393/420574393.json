@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414460, 
+  "wof:brand_name": "Citizens Advice Bureau", 
+  "wof:brand_id": 420574393, 
+  "wof:categories": [
+    "services:professional=lawyer_and_legal_services", 
+    "sg:services=professional", 
+    "sg:services=personal", 
+    "services:organizations=nonprofit_organization", 
+    "sg:services=organizations", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "advice", 
     "counselling", 
@@ -11,6 +19,6 @@
     "welfare", 
     "ds"
   ], 
-  "wof:brand_name": "Citizens Advice Bureau", 
-  "wof:brand_id": 420574393
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416234
 }

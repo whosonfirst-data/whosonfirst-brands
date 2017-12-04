@@ -1,9 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414537, 
+  "wof:brand_name": "Locksmith 24 7 Always", 
+  "wof:brand_id": 1125161885, 
+  "wof:categories": [
+    "services:building_and_trades=locksmith", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "key"
   ], 
-  "wof:brand_name": "Locksmith 24 7 Always", 
-  "wof:brand_id": 1125161885
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416296
 }

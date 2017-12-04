@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414539, 
+  "wof:brand_name": "Apple Auto Glass", 
+  "wof:brand_id": 1125160077, 
+  "wof:categories": [
+    "retail_goods:home_and_garden=building_materials", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=retail", 
+    "services:retail=auto_repair", 
+    "services:retail=repair_shop", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "services:retail=car_wash", 
+    "sg:retail_goods=autos_and_motor_vehicles"
+  ], 
   "wof:tags": [
     "glass", 
     "plate", 
@@ -11,6 +21,6 @@
     "repairing", 
     "upholsterer"
   ], 
-  "wof:brand_name": "Apple Auto Glass", 
-  "wof:brand_id": 1125160077
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416297
 }

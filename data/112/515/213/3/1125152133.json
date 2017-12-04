@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414485, 
+  "wof:brand_name": "Cingular Wireless LLC", 
+  "wof:brand_id": 1125152133, 
+  "wof:categories": [
+    "sg:services=utilities", 
+    "services:utilities=mobile_phone", 
+    "sg:retail_goods=shopping", 
+    "services:utilities=telephone", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting"
+  ], 
   "wof:tags": [
     "cellular", 
     "telephone", 
@@ -17,6 +25,6 @@
     "paging", 
     "sales"
   ], 
-  "wof:brand_name": "Cingular Wireless LLC", 
-  "wof:brand_id": 1125152133
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416254
 }

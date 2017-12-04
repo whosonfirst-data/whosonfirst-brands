@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414550, 
+  "wof:brand_name": "Halliburton Energy Svc", 
+  "wof:brand_id": 1125161839, 
+  "wof:categories": [
+    "sg:manufacturing_and_wholesale_goods=mining_and_drilling", 
+    "services:building_and_trades=plumbing", 
+    "sg:services=building_and_trades", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=chemicals_and_plastics", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies"
+  ], 
   "wof:tags": [
     "oil", 
     "field", 
@@ -15,6 +25,6 @@
     "logging", 
     "perforating"
   ], 
-  "wof:brand_name": "Halliburton Energy Svc", 
-  "wof:brand_id": 1125161839
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416305
 }

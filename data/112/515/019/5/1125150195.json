@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414477, 
+  "wof:brand_name": "American General Finance Corp", 
+  "wof:brand_id": 1125150195, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:professional=business_services", 
+    "sg:services=insurance", 
+    "sg:services=professional", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=life_insurance"
+  ], 
   "wof:tags": [
     "financing", 
     "personal", 
@@ -23,6 +33,6 @@
     "management", 
     "security"
   ], 
-  "wof:brand_name": "American General Finance Corp", 
-  "wof:brand_id": 1125150195
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416248
 }

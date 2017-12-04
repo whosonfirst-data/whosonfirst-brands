@@ -1,6 +1,34 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414505, 
+  "wof:brand_name": "Michaels", 
+  "wof:brand_id": 1125157913, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=crafts_and_fabrics", 
+    "services:personal=beauty_salon", 
+    "sg:services=personal", 
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=jewelry", 
+    "manufacturing_and_wholesale_goods:wholesale=vending_machines", 
+    "retail_goods:autos_and_motor_vehicles=auto_supplies", 
+    "retail_goods:food_and_beverages=bakery", 
+    "retail_goods:food_and_beverages=meat_and_fish", 
+    "retail_goods:shopping=hobbies_toys_and_games", 
+    "retail_goods:shopping=party_supplies", 
+    "services:building_and_trades=construction", 
+    "services:health_services=doctor", 
+    "services:professional=art_services", 
+    "services:retail=portrait_studio", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:food_and_drink=cafe", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:services=building_and_trades", 
+    "sg:services=health_services", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "art", 
     "supply", 
@@ -22,6 +50,6 @@
     "photo", 
     "stone"
   ], 
-  "wof:brand_name": "Michaels", 
-  "wof:brand_id": 1125157913
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416270
 }

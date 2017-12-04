@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414481, 
+  "wof:brand_name": "Bethany Baptist Church", 
+  "wof:brand_id": 1125150177, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "sg:public_place=place_of_worship", 
+    "public_place:place_of_worship=church", 
+    "services:organizations=nonprofit_organization", 
+    "services:social_services=child_care", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "church", 
     "churches-baptist", 
@@ -14,6 +23,6 @@
     "nursery", 
     "social"
   ], 
-  "wof:brand_name": "Bethany Baptist Church", 
-  "wof:brand_id": 1125150177
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416251
 }

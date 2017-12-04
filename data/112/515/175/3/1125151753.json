@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414502, 
+  "wof:brand_name": "Aaron's Rental Purchase", 
+  "wof:brand_id": 1125151753, 
+  "wof:categories": [
+    "services:building_and_trades=equipment_rental", 
+    "sg:services=building_and_trades", 
+    "retail_goods:home_and_garden=furniture", 
+    "sg:retail_goods=home_and_garden", 
+    "services:professional=computer_services", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "services:real_estate=real_estate_agent", 
+    "sg:services=real_estate"
+  ], 
   "wof:tags": [
     "leasing", 
     "furniture", 
@@ -21,6 +34,6 @@
     "rental", 
     "washer"
   ], 
-  "wof:brand_name": "Aaron's Rental Purchase", 
-  "wof:brand_id": 1125151753
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416268
 }

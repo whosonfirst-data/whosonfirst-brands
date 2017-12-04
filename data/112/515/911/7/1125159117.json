@@ -1,11 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414513, 
+  "wof:brand_name": "UltraTune", 
+  "wof:brand_id": 1125159117, 
+  "wof:categories": [
+    "services:retail=auto_repair", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "engineer", 
     "motor", 
     "repairer"
   ], 
-  "wof:brand_name": "UltraTune", 
-  "wof:brand_id": 1125159117
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416277
 }

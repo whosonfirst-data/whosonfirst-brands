@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414530, 
+  "wof:brand_name": "Peeters", 
+  "wof:brand_id": 1125155413, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:farming=farm_and_veterinary_services", 
+    "services:personal=nail_salon", 
+    "services:retail=auto_repair", 
+    "sg:food_and_drink=bakery", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:services=personal", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "agricultural", 
     "automobile-body", 
@@ -9,6 +18,6 @@
     "contractor", 
     "pedicure"
   ], 
-  "wof:brand_name": "Peeters", 
-  "wof:brand_id": 1125155413
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416290
 }

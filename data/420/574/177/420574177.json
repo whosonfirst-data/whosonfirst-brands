@@ -1,6 +1,29 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414458, 
+  "wof:brand_name": "Alcoholics Anonymous", 
+  "wof:brand_id": 420574177, 
+  "wof:categories": [
+    "sg:services=organizations", 
+    "services:organizations=nonprofit_organization", 
+    "sg:services=health_services", 
+    "sg:services=social_services", 
+    "services:health_services=clinic", 
+    "services:health_services=hospital", 
+    "services:organizations=membership_organization", 
+    "services:organizations=community_association", 
+    "services:organizations=professional_association", 
+    "services:social_services=adult_care", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=personal", 
+    "manufacturing_and_wholesale_goods:wholesale=chemicals_and_plastics", 
+    "services:health_services=health_practitioner", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "services:social_services=job_training", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing"
+  ], 
   "wof:tags": [
     "treatment", 
     "alcoholism", 
@@ -59,6 +82,6 @@
     "social", 
     "sp"
   ], 
-  "wof:brand_name": "Alcoholics Anonymous", 
-  "wof:brand_id": 420574177
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416232
 }

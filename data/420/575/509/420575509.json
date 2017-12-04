@@ -1,9 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414452, 
+  "wof:brand_name": "Kwik Save Stores Ltd.", 
+  "wof:brand_id": 420575509, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=supermarket", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:shopping=shoes", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "shop"
   ], 
-  "wof:brand_name": "Kwik Save Stores Ltd.", 
-  "wof:brand_id": 420575509
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416227
 }

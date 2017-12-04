@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414557, 
+  "wof:brand_name": "Marble Slab Creamery", 
+  "wof:brand_id": 1125148979, 
+  "wof:categories": [
+    "sg:food_and_drink=ice_cream", 
+    "sg:food_and_drink=restaurant", 
+    "retail_goods:food_and_beverages=dairy", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:farming=dairy_farm", 
+    "manufacturing_and_wholesale_goods:manufacturing=food", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "manufacturing_and_wholesale_goods:wholesale=hardware", 
+    "services:professional=employment_agencies", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "american", 
     "ice", 
@@ -17,6 +32,6 @@
     "freezer", 
     "opportunity"
   ], 
-  "wof:brand_name": "Marble Slab Creamery", 
-  "wof:brand_id": 1125148979
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416311
 }

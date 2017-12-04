@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414563, 
+  "wof:brand_name": "Liberty Mutual", 
+  "wof:brand_id": 1125149689, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=hazard_insurance", 
+    "services:insurance=insurance_agent", 
+    "sg:services=professional", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:insurance=health_insurance", 
+    "services:banks_and_credit_unions=bank", 
+    "services:insurance=life_insurance", 
+    "services:professional=business_services", 
+    "services:professional=management_and_consulting", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "carrier", 
     "surety", 
@@ -29,6 +42,6 @@
     "saving", 
     "worker"
   ], 
-  "wof:brand_name": "Liberty Mutual", 
-  "wof:brand_id": 1125149689
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416316
 }

@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414480, 
+  "wof:brand_name": "Aubuchon Hardware", 
+  "wof:brand_id": 1125156193, 
+  "wof:categories": [
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=hardware", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "retail_goods:home_and_garden=building_materials", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "manufacturing_and_wholesale_goods:wholesale=machinery_and_supplies", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "store", 
     "gardening", 
@@ -14,6 +24,6 @@
     "plumbing", 
     "supply"
   ], 
-  "wof:brand_name": "Aubuchon Hardware", 
-  "wof:brand_id": 1125156193
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416249
 }

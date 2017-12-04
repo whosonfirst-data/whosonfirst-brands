@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414518, 
+  "wof:brand_name": "Cutting Corner", 
+  "wof:brand_id": 1125156723, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=barber", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "hairdresser", 
     "shop", 
@@ -12,6 +18,6 @@
     "men's", 
     "parlor"
   ], 
-  "wof:brand_name": "Cutting Corner", 
-  "wof:brand_id": 1125156723
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416280
 }

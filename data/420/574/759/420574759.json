@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414458, 
+  "wof:brand_name": "Benetton", 
+  "wof:brand_id": 420574759, 
+  "wof:categories": [
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:retail_goods=shopping", 
+    "entertainment:sports_and_exercise=bicycle_rental", 
+    "sg:entertainment=sports_and_exercise"
+  ], 
   "wof:tags": [
     "shop", 
     "accessory", 
@@ -13,6 +19,6 @@
     "ladieswear", 
     "men's"
   ], 
-  "wof:brand_name": "Benetton", 
-  "wof:brand_id": 420574759
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416232
 }

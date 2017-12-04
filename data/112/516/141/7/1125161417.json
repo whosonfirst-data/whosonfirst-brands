@@ -1,6 +1,9 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414548, 
+  "wof:brand_name": "Central Freight Lines Inc", 
+  "wof:brand_id": 1125161417, 
+  "wof:categories": [
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "trucking", 
     "operator", 
@@ -15,6 +18,6 @@
     "terminal", 
     "truck"
   ], 
-  "wof:brand_name": "Central Freight Lines Inc", 
-  "wof:brand_id": 1125161417
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416304
 }

@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414451, 
+  "wof:brand_name": "District Attorney", 
+  "wof:brand_id": 420575305, 
+  "wof:categories": [
+    "sg:public_place=government", 
+    "public_place:government=court_house", 
+    "sg:services=professional", 
+    "services:professional=lawyer_and_legal_services", 
+    "public_place:government=office", 
+    "sg:services=social_services", 
+    "public_place:education=library", 
+    "public_place:government=fire_station", 
+    "public_place:government=police_station", 
+    "services:professional=testing_lab", 
+    "sg:public_place=education"
+  ], 
   "wof:tags": [
     "counsel", 
     "legal", 
@@ -27,6 +40,6 @@
     "safety", 
     "system"
   ], 
-  "wof:brand_name": "District Attorney", 
-  "wof:brand_id": 420575305
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416227
 }

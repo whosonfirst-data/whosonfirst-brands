@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414477, 
+  "wof:brand_name": "Hancock Bank", 
+  "wof:brand_id": 1125154051, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:insurance=hazard_insurance", 
+    "sg:services=insurance"
+  ], 
   "wof:tags": [
     "state", 
     "loan", 
@@ -12,6 +20,6 @@
     "internet", 
     "trust"
   ], 
-  "wof:brand_name": "Hancock Bank", 
-  "wof:brand_id": 1125154051
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416247
 }

@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414492, 
+  "wof:brand_name": "Munchies", 
+  "wof:brand_id": 1125158821, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:food_and_drink=fast_food", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:food_and_drink=deli", 
+    "sg:food_and_drink=cafe", 
+    "sg:retail_goods=shopping", 
+    "sg:services=professional", 
+    "retail_goods:food_and_beverages=bakery", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "retail_goods:food_and_beverages=candy", 
+    "retail_goods:food_and_beverages=specialty", 
+    "retail_goods:shopping=florist", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=news", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "away", 
     "take", 
@@ -28,6 +46,6 @@
     "store", 
     "supply"
   ], 
-  "wof:brand_name": "Munchies", 
-  "wof:brand_id": 1125158821
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416260
 }

@@ -1,6 +1,29 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414550, 
+  "wof:brand_name": "Little Angels", 
+  "wof:brand_id": 1125162311, 
+  "wof:categories": [
+    "sg:services=social_services", 
+    "services:social_services=child_care", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "manufacturing_and_wholesale_goods:farming=nursery", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "manufacturing_and_wholesale_goods:manufacturing=printing", 
+    "manufacturing_and_wholesale_goods:wholesale=apparel", 
+    "public_place:education=preschool", 
+    "public_place:education=school", 
+    "retail_goods:shopping=baby_store", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:shopping=used_merchandise", 
+    "services:organizations=religious_organization", 
+    "services:retail=portrait_studio", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=education", 
+    "sg:services=organizations", 
+    "sg:services=personal", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "infant", 
     "day", 
@@ -17,6 +40,6 @@
     "publishing", 
     "toy"
   ], 
-  "wof:brand_name": "Little Angels", 
-  "wof:brand_id": 1125162311
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416306
 }

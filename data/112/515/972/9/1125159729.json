@@ -1,12 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414501, 
+  "wof:brand_name": "US Drug Enforcement Adm", 
+  "wof:brand_id": 1125159729, 
+  "wof:categories": [
+    "public_place:government=police_station", 
+    "sg:public_place=government", 
+    "public_place:government=office"
+  ], 
   "wof:tags": [
     "federal", 
     "drug", 
     "enforcement", 
     "administration"
   ], 
-  "wof:brand_name": "US Drug Enforcement Adm", 
-  "wof:brand_id": 1125159729
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416267
 }

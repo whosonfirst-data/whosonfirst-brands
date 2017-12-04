@@ -1,6 +1,29 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414476, 
+  "wof:brand_name": "Leeds City Council", 
+  "wof:brand_id": 1125158799, 
+  "wof:categories": [
+    "sg:public_place=education", 
+    "public_place:education=school", 
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "public_place:education=library", 
+    "sg:services=social_services", 
+    "services:social_services=retirement_home", 
+    "sg:services=organizations", 
+    "entertainment:museum=art_museum", 
+    "entertainment:sports_and_exercise=sports_center", 
+    "public_place:education=special_training", 
+    "public_place:education=university", 
+    "services:organizations=membership_organization", 
+    "services:organizations=nonprofit_organization", 
+    "services:social_services=adult_care", 
+    "services:social_services=child_care", 
+    "services:utilities=refuse", 
+    "sg:entertainment=museum", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:food_and_drink=cafe", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "local", 
     "authority", 
@@ -25,6 +48,6 @@
     "voluntary", 
     "waste"
   ], 
-  "wof:brand_name": "Leeds City Council", 
-  "wof:brand_id": 1125158799
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416247
 }

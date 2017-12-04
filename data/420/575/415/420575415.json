@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414449, 
+  "wof:brand_name": "Gambro Healthcare", 
+  "wof:brand_id": 420575415, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=doctor", 
+    "services:health_services=clinic", 
+    "services:health_services=hospital", 
+    "services:health_services=nursing_and_care_facility", 
+    "services:organizations=professional_association", 
+    "services:professional=management_and_consulting", 
+    "sg:retail_goods=shopping", 
+    "sg:services=organizations", 
+    "sg:services=professional", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "clinic", 
     "physician", 
@@ -22,6 +35,6 @@
     "operator", 
     "program"
   ], 
-  "wof:brand_name": "Gambro Healthcare", 
-  "wof:brand_id": 420575415
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416225
 }

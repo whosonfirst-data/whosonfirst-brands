@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414553, 
+  "wof:brand_name": "Happy Nails", 
+  "wof:brand_id": 1125149903, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon", 
+    "manufacturing_and_wholesale_goods:wholesale=metals_and_minerals", 
+    "public_place:education=vocational_school", 
+    "services:personal=massage", 
+    "services:retail=repair_shop", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:public_place=education", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "manicuring", 
     "shop", 
@@ -15,6 +27,6 @@
     "technical", 
     "trade"
   ], 
-  "wof:brand_name": "Happy Nails", 
-  "wof:brand_id": 1125149903
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416308
 }

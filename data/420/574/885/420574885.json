@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414457, 
+  "wof:brand_name": "Highway Dept", 
+  "wof:brand_id": 420574885, 
+  "wof:categories": [
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "sg:public_place=government", 
+    "public_place:government=office", 
+    "public_place:government=police_station"
+  ], 
   "wof:tags": [
     "contractor", 
     "road", 
@@ -27,6 +34,6 @@
     "superintendent", 
     "town"
   ], 
-  "wof:brand_name": "Highway Dept", 
-  "wof:brand_id": 420574885
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416231
 }

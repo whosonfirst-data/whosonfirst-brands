@@ -1,6 +1,24 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414479, 
+  "wof:brand_name": "The Ups Store", 
+  "wof:brand_id": 1125150817, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:professional=printing_and_photocopies", 
+    "sg:transportation=freight", 
+    "public_place:government=post_office", 
+    "sg:public_place=government", 
+    "services:professional=business_services", 
+    "services:communications=news_services", 
+    "sg:services=communications", 
+    "sg:transportation=transit_center", 
+    "transportation:transit_center=freight", 
+    "retail_goods:shopping=stationery_and_office_supplies", 
+    "services:insurance=health_insurance", 
+    "sg:retail_goods=shopping", 
+    "sg:services=insurance", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "notary", 
     "shipping", 
@@ -24,6 +42,6 @@
     "market", 
     "mover"
   ], 
-  "wof:brand_name": "The Ups Store", 
-  "wof:brand_id": 1125150817
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416249
 }

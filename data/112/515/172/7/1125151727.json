@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414469, 
+  "wof:brand_name": "District Court", 
+  "wof:brand_id": 1125151727, 
+  "wof:categories": [
+    "sg:public_place=government", 
+    "public_place:government=court_house", 
+    "public_place:government=office", 
+    "services:organizations=professional_association", 
+    "services:professional=lawyer_and_legal_services", 
+    "sg:services=organizations", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "state", 
     "county", 
@@ -10,6 +19,6 @@
     "business", 
     "city"
   ], 
-  "wof:brand_name": "District Court", 
-  "wof:brand_id": 1125151727
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416241
 }

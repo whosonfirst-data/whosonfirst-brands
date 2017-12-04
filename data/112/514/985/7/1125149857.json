@@ -1,12 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414558, 
+  "wof:brand_name": "Commerce Bank NA", 
+  "wof:brand_id": 1125149857, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "state", 
     "commercial", 
     "banking", 
     "national"
   ], 
-  "wof:brand_name": "Commerce Bank NA", 
-  "wof:brand_id": 1125149857
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416312
 }

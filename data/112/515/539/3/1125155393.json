@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414510, 
+  "wof:brand_name": "Massachusetts Mutual Life Ins", 
+  "wof:brand_id": 1125155393, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=insurance_agent", 
+    "services:insurance=hazard_insurance", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "advisory", 
     "agency", 
@@ -13,6 +20,6 @@
     "profit", 
     "sharing"
   ], 
-  "wof:brand_name": "Massachusetts Mutual Life Ins", 
-  "wof:brand_id": 1125155393
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416274
 }

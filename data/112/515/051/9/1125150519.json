@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414534, 
+  "wof:brand_name": "Pizza Ranch", 
+  "wof:brand_id": 1125150519, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food"
+  ], 
   "wof:tags": [
     "pizza", 
     "american", 
@@ -12,6 +16,6 @@
     "wing", 
     "wrap"
   ], 
-  "wof:brand_name": "Pizza Ranch", 
-  "wof:brand_id": 1125150519
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416293
 }

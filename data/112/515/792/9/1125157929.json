@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414494, 
+  "wof:brand_name": "Olco", 
+  "wof:brand_id": 1125157929, 
+  "wof:categories": [
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "services:utilities=fuel_oil_and_lpg", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "oil", 
     "automobile", 
@@ -9,6 +19,6 @@
     "repairing", 
     "shop"
   ], 
-  "wof:brand_name": "Olco", 
-  "wof:brand_id": 1125157929
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416261
 }

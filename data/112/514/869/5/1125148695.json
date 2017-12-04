@@ -1,6 +1,16 @@
 {
   "wof:brand_name": "Little Caesar's Pizza", 
   "wof:brand_id": 1125148695, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "sg:services=professional", 
+    "retail_goods:shopping=department_store", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:food_and_beverages=ethnic_foods", 
+    "sg:public_place=shopping_center", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "pizza", 
     "american", 
@@ -25,6 +35,6 @@
     420574269
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414554, 
+  "wof:lastmodified": 1512416309, 
   "mz:is_current": 1
 }

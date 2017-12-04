@@ -1,6 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414510, 
+  "wof:brand_name": "Express Cleaners", 
+  "wof:brand_id": 1125157379, 
+  "wof:categories": [
+    "sg:services=retail", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:services=building_and_trades", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "services:building_and_trades=cleaning_and_sanitation", 
+    "services:building_and_trades=construction", 
+    "services:retail=selfservice_laundry", 
+    "sg:retail_goods=shopping", 
+    "sg:services=personal", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "cleaners", 
     "drycleaning", 
@@ -20,6 +32,6 @@
     "sanitary", 
     "sewing"
   ], 
-  "wof:brand_name": "Express Cleaners", 
-  "wof:brand_id": 1125157379
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416274
 }

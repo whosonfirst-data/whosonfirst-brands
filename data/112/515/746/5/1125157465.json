@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414485, 
+  "wof:brand_name": "Pathmark", 
+  "wof:brand_id": 1125157465, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:shopping=pharmacy", 
+    "sg:retail_goods=shopping", 
+    "sg:public_place=shopping_center"
+  ], 
   "wof:tags": [
     "grocer", 
     "pharmacy", 
@@ -21,6 +28,6 @@
     "store", 
     "sundries"
   ], 
-  "wof:brand_name": "Pathmark", 
-  "wof:brand_id": 1125157465
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416254
 }

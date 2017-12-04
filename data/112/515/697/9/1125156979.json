@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414521, 
+  "wof:brand_name": "Iglesia De Dios Pentecostal", 
+  "wof:brand_id": 1125156979, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "sg:public_place=place_of_worship", 
+    "public_place:place_of_worship=church"
+  ], 
   "wof:tags": [
     "church", 
     "place", 
@@ -8,6 +14,6 @@
     "churches-pentecostal", 
     "churches-pentecostal-independent"
   ], 
-  "wof:brand_name": "Iglesia De Dios Pentecostal", 
-  "wof:brand_id": 1125156979
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416283
 }

@@ -1,10 +1,14 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414548, 
+  "wof:brand_name": "Klein", 
+  "wof:brand_id": 1125161875, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:wholesale=motor_vehicles", 
+    "sg:manufacturing_and_wholesale_goods=wholesale"
+  ], 
   "wof:tags": [
     "en", 
     "scooter"
   ], 
-  "wof:brand_name": "Klein", 
-  "wof:brand_id": 1125161875
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416304
 }

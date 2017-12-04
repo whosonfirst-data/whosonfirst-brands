@@ -1,6 +1,10 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414544, 
+  "wof:brand_name": "Cibc Wood Gundy Inc", 
+  "wof:brand_id": 1125160131, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "financial", 
     "consultant", 
@@ -10,6 +14,6 @@
     "broker", 
     "stock"
   ], 
-  "wof:brand_name": "Cibc Wood Gundy Inc", 
-  "wof:brand_id": 1125160131
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416301
 }

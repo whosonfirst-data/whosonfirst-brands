@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414483, 
+  "wof:brand_name": "West Coast Video", 
+  "wof:brand_id": 1125152067, 
+  "wof:categories": [
+    "entertainment:cinema=movie_rental", 
+    "sg:entertainment=cinema", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=music", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "sg:services=banks_and_credit_unions", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "entertainment:arts_and_performance=theater", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "services:personal=beauty_salon", 
+    "sg:entertainment=arts_and_performance", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:services=personal"
+  ], 
   "wof:tags": [
     "video", 
     "tape", 
@@ -19,6 +34,6 @@
     "retail", 
     "sales"
   ], 
-  "wof:brand_name": "West Coast Video", 
-  "wof:brand_id": 1125152067
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416252
 }

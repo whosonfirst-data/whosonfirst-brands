@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414537, 
+  "wof:brand_name": "Dollar Zone", 
+  "wof:brand_id": 1125160153, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "shop", 
     "general", 
@@ -10,6 +18,6 @@
     "merchandising", 
     "warehouse"
   ], 
-  "wof:brand_name": "Dollar Zone", 
-  "wof:brand_id": 1125160153
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416296
 }

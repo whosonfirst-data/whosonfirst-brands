@@ -1,6 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414558, 
+  "wof:brand_name": "T-Mobile USA Inc", 
+  "wof:brand_id": 1125149765, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "services:utilities=mobile_phone", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "merchandise", 
     "accessory", 
@@ -14,6 +19,6 @@
     "phone", 
     "radiotelephone"
   ], 
-  "wof:brand_name": "T-Mobile USA Inc", 
-  "wof:brand_id": 1125149765
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416312
 }

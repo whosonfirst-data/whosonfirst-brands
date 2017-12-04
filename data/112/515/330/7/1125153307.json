@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414527, 
+  "wof:brand_name": "Holy Cross Lutheran Church", 
+  "wof:brand_id": 1125153307, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=place_of_worship", 
+    "public_place:education=school", 
+    "services:social_services=child_care", 
+    "sg:public_place=education", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "church", 
     "lutheran", 
@@ -19,6 +29,6 @@
     "place", 
     "worship"
   ], 
-  "wof:brand_name": "Holy Cross Lutheran Church", 
-  "wof:brand_id": 1125153307
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416288
 }

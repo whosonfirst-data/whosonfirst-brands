@@ -1,6 +1,17 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414495, 
+  "wof:brand_name": "Travel Network", 
+  "wof:brand_id": 1125157283, 
+  "wof:categories": [
+    "entertainment:travel=travel_agent", 
+    "sg:entertainment=travel", 
+    "sg:transportation=airline", 
+    "sg:transportation=railroad", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:utilities=telephone", 
+    "sg:services=banks_and_credit_unions", 
+    "sg:services=professional", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "agency", 
     "bureau", 
@@ -19,6 +30,6 @@
     "tour", 
     "travel"
   ], 
-  "wof:brand_name": "Travel Network", 
-  "wof:brand_id": 1125157283
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416262
 }

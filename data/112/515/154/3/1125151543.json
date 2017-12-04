@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414487, 
+  "wof:brand_name": "Computer Troubleshooters", 
+  "wof:brand_id": 1125151543, 
+  "wof:categories": [
+    "services:professional=computer_services", 
+    "sg:services=professional", 
+    "retail_goods:shopping=computers_and_home_electronics", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "manufacturing_and_wholesale_goods:wholesale=computers", 
+    "services:social_services=job_training", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:services=communications", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "repair", 
     "equipment", 
@@ -32,6 +45,6 @@
     "technology", 
     "web"
   ], 
-  "wof:brand_name": "Computer Troubleshooters", 
-  "wof:brand_id": 1125151543
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416255
 }

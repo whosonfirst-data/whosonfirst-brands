@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "S", 
-  "wof:lastmodified": 1512414549, 
+  "wof:brand_name": "Gordon Food Svc", 
+  "wof:brand_id": 1125162645, 
+  "wof:categories": [
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "grocer", 
     "food", 
@@ -10,6 +20,6 @@
     "party", 
     "supply"
   ], 
-  "wof:brand_name": "Gordon Food Svc", 
-  "wof:brand_id": 1125162645
+  "wof:brand_size": "S", 
+  "wof:lastmodified": 1512416305
 }

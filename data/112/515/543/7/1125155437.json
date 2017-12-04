@@ -1,9 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414481, 
+  "wof:brand_name": "Vons Co", 
+  "wof:brand_id": 1125155437, 
+  "wof:categories": [
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:shopping=florist", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "grocer"
   ], 
-  "wof:brand_name": "Vons Co", 
-  "wof:brand_id": 1125155437
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416251
 }

@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414546, 
+  "wof:brand_name": "Boys & Girls Clubs", 
+  "wof:brand_id": 1125161039, 
+  "wof:categories": [
+    "sg:services=social_services", 
+    "sg:services=organizations", 
+    "services:organizations=community_association", 
+    "services:social_services=child_care", 
+    "public_place:community_center=youth", 
+    "services:organizations=membership_organization", 
+    "sg:public_place=community_center"
+  ], 
   "wof:tags": [
     "organization", 
     "youth", 
@@ -10,6 +19,6 @@
     "recreation", 
     "religious"
   ], 
-  "wof:brand_name": "Boys & Girls Clubs", 
-  "wof:brand_id": 1125161039
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416303
 }

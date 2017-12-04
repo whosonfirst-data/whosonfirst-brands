@@ -1,12 +1,18 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414551, 
+  "wof:brand_name": "IMPERIAL CANCER RESEARCH FUND", 
+  "wof:brand_id": 1125161499, 
+  "wof:categories": [
+    "services:organizations=nonprofit_organization", 
+    "sg:services=organizations", 
+    "retail_goods:shopping=thrift_store", 
+    "sg:retail_goods=shopping"
+  ], 
   "wof:tags": [
     "charitable", 
     "charity", 
     "organisation", 
     "shop"
   ], 
-  "wof:brand_name": "IMPERIAL CANCER RESEARCH FUND", 
-  "wof:brand_id": 1125161499
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416307
 }

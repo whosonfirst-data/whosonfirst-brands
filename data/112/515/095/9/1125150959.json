@@ -1,10 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414493, 
+  "wof:brand_name": "Press Shop", 
+  "wof:brand_id": 1125150959, 
+  "wof:categories": [
+    "retail_goods:shopping=books", 
+    "sg:retail_goods=shopping", 
+    "services:retail=laundry_and_dry_cleaning", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "bookseller", 
     "cleaners"
   ], 
-  "wof:brand_name": "Press Shop", 
-  "wof:brand_id": 1125150959
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416260
 }

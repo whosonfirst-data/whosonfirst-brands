@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414528, 
+  "wof:brand_name": "Corner Cafe", 
+  "wof:brand_id": 1125152263, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=cafe", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:food_and_drink=coffee_and_tea", 
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=bakery", 
+    "food_and_drink:bars_and_pubs=dive_bar", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:food_and_beverages=meat_and_fish", 
+    "services:building_and_trades=construction", 
+    "sg:services=building_and_trades", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "eating", 
     "american", 
@@ -24,6 +38,6 @@
     "shop", 
     "station"
   ], 
-  "wof:brand_name": "Corner Cafe", 
-  "wof:brand_id": 1125152263
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416288
 }

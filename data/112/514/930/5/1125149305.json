@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414558, 
+  "wof:brand_name": "Star Nails", 
+  "wof:brand_id": 1125149305, 
+  "wof:categories": [
+    "sg:services=personal", 
+    "services:personal=beauty_salon", 
+    "services:personal=nail_salon", 
+    "manufacturing_and_wholesale_goods:manufacturing=retail_goods", 
+    "manufacturing_and_wholesale_goods:wholesale=metals_and_minerals", 
+    "retail_goods:shopping=beauty_and_cosmetics", 
+    "services:health_services=health_practitioner", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "sg:retail_goods=shopping", 
+    "sg:services=health_services"
+  ], 
   "wof:tags": [
     "manicuring", 
     "shop", 
@@ -10,6 +23,6 @@
     "product", 
     "supply"
   ], 
-  "wof:brand_name": "Star Nails", 
-  "wof:brand_id": 1125149305
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416312
 }

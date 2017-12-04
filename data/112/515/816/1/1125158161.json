@@ -1,12 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414535, 
+  "wof:brand_name": "Pizza Pizza", 
+  "wof:brand_id": 1125158161, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food"
+  ], 
   "wof:tags": [
     "pizza", 
     "eating", 
     "dining", 
     "wining"
   ], 
-  "wof:brand_name": "Pizza Pizza", 
-  "wof:brand_id": 1125158161
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416294
 }

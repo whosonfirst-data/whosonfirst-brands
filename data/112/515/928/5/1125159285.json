@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414493, 
+  "wof:brand_name": "Knowledge Learning Corporation", 
+  "wof:brand_id": 1125159285, 
+  "wof:categories": [
+    "services:social_services=child_care", 
+    "sg:services=social_services", 
+    "public_place:education=school", 
+    "sg:public_place=education", 
+    "public_place:education=preschool"
+  ], 
   "wof:tags": [
     "day", 
     "center", 
@@ -11,6 +18,6 @@
     "operates", 
     "provider"
   ], 
-  "wof:brand_name": "Knowledge Learning Corporation", 
-  "wof:brand_id": 1125159285
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416261
 }

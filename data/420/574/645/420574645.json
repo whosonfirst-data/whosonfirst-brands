@@ -1,6 +1,14 @@
 {
   "wof:brand_name": "Popeyes Chicken & Biscuits", 
   "wof:brand_id": 420574645, 
+  "wof:categories": [
+    "sg:food_and_drink=restaurant", 
+    "sg:food_and_drink=fast_food", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:retail_goods=food_and_beverages"
+  ], 
   "wof:tags": [
     "american", 
     "wing", 
@@ -24,6 +32,6 @@
     1125151019
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414458, 
+  "wof:lastmodified": 1512416232, 
   "mz:is_current": 1
 }

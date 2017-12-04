@@ -1,6 +1,19 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414467, 
+  "wof:brand_name": "PetSmart", 
+  "wof:brand_id": 1125151661, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=pets_and_pet_supplies", 
+    "sg:services=retail", 
+    "services:retail=animal_services", 
+    "entertainment:museum=aquarium", 
+    "entertainment:recreation=dog_park", 
+    "manufacturing_and_wholesale_goods:farming=fish_and_marine_products", 
+    "sg:entertainment=museum", 
+    "sg:entertainment=recreation", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "services:retail=pet_boarding"
+  ], 
   "wof:tags": [
     "store", 
     "training", 
@@ -20,6 +33,6 @@
     "dog", 
     "walker"
   ], 
-  "wof:brand_name": "PetSmart", 
-  "wof:brand_id": 1125151661
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416240
 }

@@ -1,6 +1,40 @@
 {
-  "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414453, 
+  "wof:brand_name": "Curves For Women", 
+  "wof:brand_id": 420573769, 
+  "wof:categories": [
+    "entertainment:sports_and_exercise=gym", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:services=personal", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "sg:entertainment=recreation", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:services=health_services", 
+    "services:health_services=clinic", 
+    "services:personal=beauty_salon", 
+    "sg:public_place=education", 
+    "sg:services=retail", 
+    "entertainment:cinema=movie_rental", 
+    "manufacturing_and_wholesale_goods:manufacturing=tools_and_machinery", 
+    "public_place:education=dance_studio", 
+    "public_place:education=special_training", 
+    "retail_goods:food_and_beverages=specialty", 
+    "retail_goods:home_and_garden=carpets_and_floor_coverings", 
+    "retail_goods:shopping=catalog_store", 
+    "services:health_services=health_practitioner", 
+    "services:organizations=professional_association", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:retail=animal_services", 
+    "services:retail=repair_shop", 
+    "services:social_services=child_care", 
+    "sg:entertainment=cinema", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "sg:retail_goods=food_and_beverages", 
+    "sg:retail_goods=home_and_garden", 
+    "sg:services=organizations", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "club", 
     "health", 
@@ -68,6 +102,6 @@
     "video", 
     "without"
   ], 
-  "wof:brand_name": "Curves For Women", 
-  "wof:brand_id": 420573769
+  "wof:brand_size": "XL", 
+  "wof:lastmodified": 1512416228
 }

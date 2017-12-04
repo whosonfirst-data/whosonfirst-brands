@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414503, 
+  "wof:brand_name": "Hickory Farms", 
+  "wof:brand_id": 1125151035, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=specialty", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "retail_goods:food_and_beverages=dairy", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=meat", 
+    "manufacturing_and_wholesale_goods:farming=farm", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "retail_goods:shopping=catalog_store", 
+    "manufacturing_and_wholesale_goods:wholesale=office_equipment", 
+    "retail_goods:food_and_beverages=cheese", 
+    "retail_goods:food_and_beverages=meat_and_fish"
+  ], 
   "wof:tags": [
     "shop", 
     "gourmet", 
@@ -19,6 +35,6 @@
     "dairy", 
     "general"
   ], 
-  "wof:brand_name": "Hickory Farms", 
-  "wof:brand_id": 1125151035
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416268
 }

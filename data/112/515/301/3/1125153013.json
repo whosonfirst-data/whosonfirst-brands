@@ -1,6 +1,15 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414531, 
+  "wof:brand_name": "Custard Insurance Adjusters", 
+  "wof:brand_id": 1125153013, 
+  "wof:categories": [
+    "services:insurance=insurance_agent", 
+    "sg:services=insurance", 
+    "services:insurance=hazard_insurance", 
+    "services:professional=credit_reporting_and_collection", 
+    "sg:services=professional", 
+    "services:banks_and_credit_unions=financial_services", 
+    "sg:services=banks_and_credit_unions"
+  ], 
   "wof:tags": [
     "adjuster", 
     "processing", 
@@ -11,6 +20,6 @@
     "debt", 
     "worker"
   ], 
-  "wof:brand_name": "Custard Insurance Adjusters", 
-  "wof:brand_id": 1125153013
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416291
 }

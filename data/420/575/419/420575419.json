@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414444, 
+  "wof:brand_name": "Howard Johnson", 
+  "wof:brand_id": 420575419, 
+  "wof:categories": [
+    "entertainment:travel=hotels_and_motels", 
+    "sg:entertainment=travel", 
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "services:professional=business_services", 
+    "sg:food_and_drink=restaurant", 
+    "sg:services=real_estate", 
+    "services:professional=lawyer_and_legal_services", 
+    "services:real_estate=architect", 
+    "services:real_estate=developer", 
+    "services:real_estate=real_estate_operator", 
+    "sg:food_and_drink=bars_and_pubs"
+  ], 
   "wof:tags": [
     "operation", 
     "lodging", 
@@ -41,6 +55,6 @@
     "rooms", 
     "security"
   ], 
-  "wof:brand_name": "Howard Johnson", 
-  "wof:brand_id": 420575419
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416221
 }

@@ -1,6 +1,20 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414451, 
+  "wof:brand_name": "Hot Topic", 
+  "wof:brand_id": 420575215, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:manufacturing_and_wholesale_goods=manufacturing", 
+    "manufacturing_and_wholesale_goods:manufacturing=jewelry", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:shopping=used_merchandise", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:manufacturing=wood_products", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=jewelry", 
+    "sg:public_place=shopping_center"
+  ], 
   "wof:tags": [
     "clothing", 
     "family", 
@@ -25,6 +39,6 @@
     "supply", 
     "vintage"
   ], 
-  "wof:brand_name": "Hot Topic", 
-  "wof:brand_id": 420575215
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416227
 }

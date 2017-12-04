@@ -1,6 +1,12 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414479, 
+  "wof:brand_name": "Family Medical Ctr", 
+  "wof:brand_id": 1125156745, 
+  "wof:categories": [
+    "sg:services=health_services", 
+    "services:health_services=doctor", 
+    "services:health_services=clinic", 
+    "services:health_services=hospital"
+  ], 
   "wof:tags": [
     "physician", 
     "surgeon", 
@@ -10,6 +16,6 @@
     "practice", 
     "surgeons"
   ], 
-  "wof:brand_name": "Family Medical Ctr", 
-  "wof:brand_id": 1125156745
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416249
 }

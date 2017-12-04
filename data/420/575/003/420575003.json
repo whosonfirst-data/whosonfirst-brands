@@ -1,6 +1,24 @@
 {
   "wof:brand_name": "Bed Bath & Beyond", 
   "wof:brand_id": 420575003, 
+  "wof:categories": [
+    "sg:retail_goods=home_and_garden", 
+    "retail_goods:home_and_garden=home_furnishings", 
+    "retail_goods:home_and_garden=building_materials", 
+    "retail_goods:home_and_garden=kitchen_supply", 
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=department_store", 
+    "retail_goods:home_and_garden=garden_supply", 
+    "retail_goods:home_and_garden=furniture", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "sg:services=professional", 
+    "retail_goods:home_and_garden=carpets_and_floor_coverings", 
+    "retail_goods:shopping=discount_and_variety_stores", 
+    "retail_goods:shopping=pharmacy", 
+    "services:personal=beauty_salon", 
+    "sg:services=personal", 
+    "sg:transportation=freight"
+  ], 
   "wof:tags": [
     "housewares", 
     "linen", 
@@ -32,6 +50,6 @@
     1125151823
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512414452, 
+  "wof:lastmodified": 1512416227, 
   "mz:is_current": 1
 }

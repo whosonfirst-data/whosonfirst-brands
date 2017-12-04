@@ -1,6 +1,25 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414507, 
+  "wof:brand_name": "Easter Seals", 
+  "wof:brand_id": 1125154635, 
+  "wof:categories": [
+    "sg:services=social_services", 
+    "sg:services=organizations", 
+    "services:organizations=nonprofit_organization", 
+    "sg:services=health_services", 
+    "services:health_services=clinic", 
+    "services:organizations=membership_organization", 
+    "services:organizations=professional_association", 
+    "services:health_services=health_practitioner", 
+    "sg:public_place=education", 
+    "sg:services=professional", 
+    "public_place:education=school", 
+    "public_place:education=special_training", 
+    "services:health_services=doctor", 
+    "services:health_services=hospital", 
+    "services:professional=business_services", 
+    "services:social_services=adult_care", 
+    "services:social_services=child_care"
+  ], 
   "wof:tags": [
     "organization", 
     "welfare", 
@@ -32,6 +51,6 @@
     "residential", 
     "special"
   ], 
-  "wof:brand_name": "Easter Seals", 
-  "wof:brand_id": 1125154635
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416272
 }

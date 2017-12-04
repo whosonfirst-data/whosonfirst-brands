@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414481, 
+  "wof:brand_name": "Woodman of World Lf Insur Soc", 
+  "wof:brand_id": 1125151339, 
+  "wof:categories": [
+    "sg:services=insurance", 
+    "services:insurance=life_insurance", 
+    "services:insurance=insurance_agent", 
+    "services:organizations=community_association", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "carrier", 
     "agency", 
@@ -15,6 +22,6 @@
     "organization", 
     "society"
   ], 
-  "wof:brand_name": "Woodman of World Lf Insur Soc", 
-  "wof:brand_id": 1125151339
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416251
 }

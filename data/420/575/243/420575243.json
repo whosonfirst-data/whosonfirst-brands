@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414446, 
+  "wof:brand_name": "Spherion", 
+  "wof:brand_id": 420575243, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=employment_agencies", 
+    "services:professional=computer_services", 
+    "services:professional=management_and_consulting", 
+    "services:professional=secretarial_services", 
+    "public_place:education=college", 
+    "services:real_estate=real_estate_agent", 
+    "services:social_services=job_training", 
+    "services:utilities=telephone", 
+    "sg:public_place=education", 
+    "sg:services=real_estate", 
+    "sg:services=social_services", 
+    "sg:services=utilities"
+  ], 
   "wof:tags": [
     "contractor", 
     "help", 
@@ -26,6 +41,6 @@
     "telecommunication", 
     "training"
   ], 
-  "wof:brand_name": "Spherion", 
-  "wof:brand_id": 420575243
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416223
 }

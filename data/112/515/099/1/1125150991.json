@@ -1,6 +1,32 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414536, 
+  "wof:brand_name": "Wakefield Metropolitan District Council", 
+  "wof:brand_id": 1125150991, 
+  "wof:categories": [
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "sg:services=social_services", 
+    "services:social_services=adult_care", 
+    "sg:public_place=education", 
+    "public_place:education=school", 
+    "services:social_services=retirement_home", 
+    "sg:public_place=community_center", 
+    "sg:services=health_services", 
+    "public_place:education=preschool", 
+    "public_place:landmark=tourist_attraction", 
+    "services:health_services=nursing_and_care_facility", 
+    "sg:entertainment=sports_and_exercise", 
+    "sg:public_place=landmark", 
+    "sg:services=retail", 
+    "entertainment:sports_and_exercise=golf", 
+    "entertainment:sports_and_exercise=swimming_pool", 
+    "manufacturing_and_wholesale_goods:farming=nursery", 
+    "public_place:education=library", 
+    "public_place:government=city_hall", 
+    "services:health_services=doctor", 
+    "services:retail=event_space", 
+    "services:retail=funeral_services", 
+    "sg:manufacturing_and_wholesale_goods=farming"
+  ], 
   "wof:tags": [
     "local", 
     "housing", 
@@ -24,6 +50,6 @@
     "rest", 
     "room"
   ], 
-  "wof:brand_name": "Wakefield Metropolitan District Council", 
-  "wof:brand_id": 1125150991
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416295
 }

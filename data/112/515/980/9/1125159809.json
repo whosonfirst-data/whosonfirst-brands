@@ -1,6 +1,25 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414519, 
+  "wof:brand_name": "Break Time", 
+  "wof:brand_id": 1125159809, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "retail_goods:autos_and_motor_vehicles=fuel_and_gas_station", 
+    "sg:retail_goods=autos_and_motor_vehicles", 
+    "sg:entertainment=recreation", 
+    "sg:food_and_drink=restaurant", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=vending_machines", 
+    "sg:food_and_drink=bars_and_pubs", 
+    "sg:services=professional", 
+    "manufacturing_and_wholesale_goods:wholesale=petroleum", 
+    "retail_goods:food_and_beverages=candy", 
+    "retail_goods:food_and_beverages=specialty", 
+    "services:organizations=community_association", 
+    "services:professional=management_and_consulting", 
+    "sg:food_and_drink=fast_food", 
+    "sg:services=organizations"
+  ], 
   "wof:tags": [
     "grocery", 
     "coffee", 
@@ -27,6 +46,6 @@
     "take", 
     "tea"
   ], 
-  "wof:brand_name": "Break Time", 
-  "wof:brand_id": 1125159809
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416281
 }

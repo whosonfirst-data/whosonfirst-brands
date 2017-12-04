@@ -1,6 +1,13 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414481, 
+  "wof:brand_name": "Relax Inn", 
+  "wof:brand_id": 1125152105, 
+  "wof:categories": [
+    "sg:entertainment=travel", 
+    "entertainment:travel=hotels_and_motels", 
+    "entertainment:travel=bed_and_breakfast", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "operation", 
     "inn", 
@@ -15,6 +22,6 @@
     "motel", 
     "tourist"
   ], 
-  "wof:brand_name": "Relax Inn", 
-  "wof:brand_id": 1125152105
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416251
 }

@@ -1,6 +1,22 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414498, 
+  "wof:brand_name": "Chartwells", 
+  "wof:brand_id": 1125157127, 
+  "wof:categories": [
+    "sg:services=professional", 
+    "services:professional=management_and_consulting", 
+    "sg:food_and_drink=restaurant", 
+    "sg:manufacturing_and_wholesale_goods=wholesale", 
+    "manufacturing_and_wholesale_goods:wholesale=vending_machines", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "sg:retail_goods=food_and_beverages", 
+    "manufacturing_and_wholesale_goods:wholesale=groceries", 
+    "public_place:education=school", 
+    "retail_goods:shopping=gifts_and_souvenirs", 
+    "services:building_and_trades=construction", 
+    "sg:public_place=education", 
+    "sg:retail_goods=shopping", 
+    "sg:services=building_and_trades"
+  ], 
   "wof:tags": [
     "food", 
     "eating", 
@@ -21,6 +37,6 @@
     "preparation", 
     "product"
   ], 
-  "wof:brand_name": "Chartwells", 
-  "wof:brand_id": 1125157127
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416265
 }

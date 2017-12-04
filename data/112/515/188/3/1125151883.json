@@ -1,6 +1,14 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414465, 
+  "wof:brand_name": "Farmers State Bank", 
+  "wof:brand_id": 1125151883, 
+  "wof:categories": [
+    "sg:services=banks_and_credit_unions", 
+    "services:banks_and_credit_unions=bank", 
+    "services:banks_and_credit_unions=financial_services", 
+    "services:banks_and_credit_unions=investment_brokerage", 
+    "services:professional=management_and_consulting", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "commercial", 
     "loan", 
@@ -13,6 +21,6 @@
     "mortgage", 
     "planning"
   ], 
-  "wof:brand_name": "Farmers State Bank", 
-  "wof:brand_id": 1125151883
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416238
 }

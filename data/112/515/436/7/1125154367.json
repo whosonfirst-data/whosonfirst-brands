@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414527, 
+  "wof:brand_name": "St Joseph Church", 
+  "wof:brand_id": 1125154367, 
+  "wof:categories": [
+    "services:organizations=religious_organization", 
+    "sg:services=organizations", 
+    "public_place:education=school", 
+    "public_place:place_of_worship=church", 
+    "sg:public_place=education", 
+    "sg:public_place=place_of_worship", 
+    "services:social_services=child_care", 
+    "sg:services=social_services"
+  ], 
   "wof:tags": [
     "church", 
     "catholic", 
@@ -16,6 +26,6 @@
     "school", 
     "testament"
   ], 
-  "wof:brand_name": "St Joseph Church", 
-  "wof:brand_id": 1125154367
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416287
 }

@@ -1,6 +1,21 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414462, 
+  "wof:brand_name": "Tourist Information Centre", 
+  "wof:brand_id": 420574785, 
+  "wof:categories": [
+    "public_place:landmark=tourist_information", 
+    "sg:public_place=landmark", 
+    "public_place:government=office", 
+    "sg:public_place=government", 
+    "services:professional=computer_services", 
+    "sg:services=professional", 
+    "entertainment:travel=travel_agent", 
+    "services:communications=news_services", 
+    "services:organizations=nonprofit_organization", 
+    "sg:entertainment=travel", 
+    "sg:services=communications", 
+    "sg:services=organizations", 
+    "sg:transportation=bus_charters"
+  ], 
   "wof:tags": [
     "local", 
     "information", 
@@ -11,6 +26,6 @@
     "tourist", 
     "voluntary"
   ], 
-  "wof:brand_name": "Tourist Information Centre", 
-  "wof:brand_id": 420574785
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416235
 }

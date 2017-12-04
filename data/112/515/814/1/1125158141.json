@@ -1,6 +1,27 @@
 {
-  "wof:brand_size": "M", 
-  "wof:lastmodified": 1512414529, 
+  "wof:brand_name": "Midlands Co-Operative Society Ltd.", 
+  "wof:brand_id": 1125158141, 
+  "wof:categories": [
+    "sg:retail_goods=food_and_beverages", 
+    "retail_goods:food_and_beverages=supermarket", 
+    "sg:services=retail", 
+    "retail_goods:food_and_beverages=groceries_and_convenience_stores", 
+    "services:retail=funeral_services", 
+    "entertainment:travel=travel_agent", 
+    "sg:entertainment=travel", 
+    "retail_goods:shopping=department_store", 
+    "sg:retail_goods=shopping", 
+    "manufacturing_and_wholesale_goods:farming=dairy_farm", 
+    "retail_goods:food_and_beverages=liquor_and_beverages", 
+    "retail_goods:home_and_garden=household_appliances", 
+    "sg:manufacturing_and_wholesale_goods=farming", 
+    "sg:retail_goods=home_and_garden", 
+    "services:professional=computer_services", 
+    "services:retail=auto_repair", 
+    "sg:public_place=commercial_area", 
+    "sg:services=communications", 
+    "sg:services=professional"
+  ], 
   "wof:tags": [
     "beer", 
     "director", 
@@ -19,6 +40,6 @@
     "tv", 
     "video"
   ], 
-  "wof:brand_name": "Midlands Co-Operative Society Ltd.", 
-  "wof:brand_id": 1125158141
+  "wof:brand_size": "M", 
+  "wof:lastmodified": 1512416289
 }

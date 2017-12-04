@@ -1,6 +1,16 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414444, 
+  "wof:brand_name": "Sunglass Hut International", 
+  "wof:brand_id": 420575995, 
+  "wof:categories": [
+    "sg:retail_goods=shopping", 
+    "retail_goods:shopping=optician", 
+    "retail_goods:shopping=jewelry", 
+    "retail_goods:shopping=clothing_apparel_and_fashions", 
+    "sg:public_place=shopping_center", 
+    "retail_goods:shopping=optical_goods", 
+    "services:retail=repair_shop", 
+    "sg:services=retail"
+  ], 
   "wof:tags": [
     "eyewear", 
     "accessory", 
@@ -9,6 +19,6 @@
     "watch", 
     "ophthalmic"
   ], 
-  "wof:brand_name": "Sunglass Hut International", 
-  "wof:brand_id": 420575995
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416222
 }

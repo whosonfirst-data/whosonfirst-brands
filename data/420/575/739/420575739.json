@@ -1,7 +1,11 @@
 {
-  "wof:brand_size": "L", 
-  "wof:lastmodified": 1512414446, 
-  "wof:tags": [], 
   "wof:brand_name": "Banca Agricola Mantovana Scarl", 
-  "wof:brand_id": 420575739
+  "wof:brand_id": 420575739, 
+  "wof:categories": [
+    "services:banks_and_credit_unions=bank", 
+    "sg:services=banks_and_credit_unions"
+  ], 
+  "wof:tags": [], 
+  "wof:brand_size": "L", 
+  "wof:lastmodified": 1512416224
 }
