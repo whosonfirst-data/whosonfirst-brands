@@ -1,4 +1,7 @@
 {
+	"atp:spiders": [
+		"chickfila"
+	],
   "wof:brand_name": "Chick-fil-A", 
   "wof:brand_id": 1125148735, 
   "wof:categories": [

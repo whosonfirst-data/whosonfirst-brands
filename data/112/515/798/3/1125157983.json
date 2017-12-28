@@ -1,4 +1,8 @@
 {
+	"atp:spiders": [
+		"carphone_warehouse"
+	],
+	"mz:is_current": 1,
   "wof:brand_name": "The Carphone Warehouse", 
   "wof:brand_id": 1125157983, 
   "wof:categories": [
@@ -16,5 +20,8 @@
     "electrical"
   ], 
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1512416250
+	"wof:lastmodified": 1512416250,
+	"wof:supersedes": [
+		1125162037
+	]
 }

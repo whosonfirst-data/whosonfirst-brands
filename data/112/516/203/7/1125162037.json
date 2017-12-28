@@ -1,4 +1,6 @@
 {
+	"edtf:deprecated": "2017-12-28",
+	"mz:is_current": 0,
   "wof:brand_name": "The Carphone Warehouse Ltd.", 
   "wof:brand_id": 1125162037, 
   "wof:categories": [
@@ -16,5 +18,8 @@
     "electrical"
   ], 
   "wof:brand_size": "M", 
-  "wof:lastmodified": 1512416299
+	"wof:lastmodified": 1512416299,
+	"wof:superseded_by": [
+		1125157983
+	]
 }

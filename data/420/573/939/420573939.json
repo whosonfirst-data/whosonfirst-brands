@@ -1,4 +1,7 @@
 {
+	"atp:spiders": [
+		"chase"
+	],
   "wof:brand_name": "Chase", 
   "wof:brand_id": 420573939, 
   "wof:categories": [

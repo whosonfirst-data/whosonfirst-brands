@@ -1,4 +1,8 @@
 {
+	"atp:spiders": [
+		"chipotle"
+	],
+	"mz:is_current": 1,
   "wof:brand_name": "Chipotle", 
   "wof:brand_id": 1125148799, 
   "wof:categories": [
@@ -20,9 +24,6 @@
     "lunch", 
     "sandwich", 
     "vegetarian", 
-    "", 
-    "a", 
-    "as", 
     "asian", 
     "chicken", 
     "chinese", 
@@ -31,5 +32,8 @@
     "wrap"
   ], 
   "wof:brand_size": "XL", 
-  "wof:lastmodified": 1512416310
+	"wof:lastmodified": 1512416310,
+	"wof:supersedes": [
+		1125149363
+		]
 }

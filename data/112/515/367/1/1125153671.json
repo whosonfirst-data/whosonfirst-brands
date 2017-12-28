@@ -1,4 +1,7 @@
 {
+	"atp:spiders": [
+		"checkers"
+	],
   "wof:brand_name": "Checkers", 
   "wof:brand_id": 1125153671, 
   "wof:categories": [
