@@ -1,4 +1,7 @@
 {
+	"atp:spiders": [
+		"cvs"
+	],
   "wof:brand_name": "CVS Pharmacy", 
   "wof:brand_id": 420573805, 
   "wof:categories": [

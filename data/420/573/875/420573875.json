@@ -1,4 +1,7 @@
 {
+	"atp:spiders": [
+		"circle_k"
+	],
   "wof:brand_name": "Circle K", 
   "wof:brand_id": 420573875, 
   "wof:categories": [

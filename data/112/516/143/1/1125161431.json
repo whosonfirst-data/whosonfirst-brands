@@ -1,4 +1,7 @@
 {
+	"atp:spiders": [
+		"coffee_time"
+	],
   "wof:brand_name": "Coffee Time", 
   "wof:brand_id": 1125161431, 
   "wof:categories": [

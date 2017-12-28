@@ -1,4 +1,7 @@
 {
+	"atp:spiders": [
+		"crackerbarrel"
+	],
   "wof:brand_name": "Cracker Barrel", 
   "wof:brand_id": 1125162607, 
   "wof:categories": [

@@ -1,4 +1,7 @@
 {
+	"atp:spiders": [
+		"costco"
+	],
   "wof:brand_name": "Costco", 
   "wof:brand_id": 1125153757, 
   "wof:categories": [
