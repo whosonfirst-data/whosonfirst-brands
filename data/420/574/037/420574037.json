@@ -1,4 +1,7 @@
 {
+	"atp:spiders": [
+		"ace_hardware"
+	],
   "wof:brand_name": "Ace Hardware", 
   "wof:brand_id": 420574037, 
   "wof:categories": [
