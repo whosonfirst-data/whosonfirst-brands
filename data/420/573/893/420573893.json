@@ -1,4 +1,7 @@
 {
+	"atp:spiders": [
+		"bankofamerica"
+	],
   "wof:brand_name": "Bank of America", 
   "wof:brand_id": 420573893, 
   "wof:categories": [

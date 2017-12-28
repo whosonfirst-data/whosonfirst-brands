@@ -1,4 +1,7 @@
 {
+	"atp:spiders": [
+		"burger_king"
+	],
   "wof:brand_name": "Burger King", 
   "wof:brand_id": 420573801, 
   "wof:categories": [

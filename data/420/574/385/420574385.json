@@ -1,4 +1,9 @@
 {
+	"atp:spiders": [
+		"bestbuy",
+		"bestbuy_ca",
+		"bestbuy_mx"
+	],
   "wof:brand_name": "Best Buy", 
   "wof:brand_id": 420574385, 
   "wof:categories": [

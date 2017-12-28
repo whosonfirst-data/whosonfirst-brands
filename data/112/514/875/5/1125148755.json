@@ -1,4 +1,7 @@
 {
+	"atp:spiders": [
+		"boston_market"
+	],
   "wof:brand_name": "Boston Market", 
   "wof:brand_id": 1125148755, 
   "wof:categories": [

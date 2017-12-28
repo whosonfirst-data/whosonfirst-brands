@@ -1,4 +1,7 @@
 {
+	"atp:spiders":[
+		"beer_store"
+	],
   "wof:brand_name": "Beer Store", 
   "wof:brand_id": 420574947, 
   "wof:categories": [

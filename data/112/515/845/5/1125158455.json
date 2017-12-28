@@ -1,4 +1,7 @@
 {
+	"atp:spiders": [
+		"bojangles"
+	],
   "wof:brand_name": "Bojangles", 
   "wof:brand_id": 1125158455, 
   "wof:categories": [

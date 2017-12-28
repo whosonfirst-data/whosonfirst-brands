@@ -1,4 +1,7 @@
 {
+	"atp:spiders": [
+		"bed_bath_beyond"
+	],
   "wof:brand_name": "Bed Bath & Beyond", 
   "wof:brand_id": 420575003, 
   "wof:categories": [
