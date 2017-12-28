@@ -1,4 +1,7 @@
 {
+  "atp:spiders": [
+    "7_11"
+  ],	
   "wof:brand_name": "7-Eleven", 
   "wof:brand_id": 420573767, 
   "wof:categories": [
