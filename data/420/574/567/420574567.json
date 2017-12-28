@@ -1,4 +1,15 @@
 {
+	"atp:spiders": [
+		"aldi_au",
+		"aldi_be",
+		"aldi_ch",
+		"aldi_es",
+		"aldi_ie",
+		"aldi_lu",
+		"aldi_si",
+		"aldi_uk",
+		"aldi_us"
+	],
   "wof:brand_name": "Aldi", 
   "wof:brand_id": 420574567, 
   "wof:categories": [

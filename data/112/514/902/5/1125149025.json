@@ -1,4 +1,8 @@
 {
+	"atp:spiders": [
+		"autozone"
+	],
+	"mz:is_current": 1,
   "wof:brand_name": "AutoZone", 
   "wof:brand_id": 1125149025, 
   "wof:categories": [
@@ -23,5 +27,8 @@
     "supply"
   ], 
   "wof:brand_size": "L", 
-  "wof:lastmodified": 1512416316
+	"wof:lastmodified": 1512416316,
+	"wof:supersedes": [
+		420573803
+		]
 }

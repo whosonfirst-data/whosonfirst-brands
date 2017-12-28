@@ -1,4 +1,7 @@
 {
+	"atp:spiders": [
+		"albertson"
+	],
   "wof:brand_name": "Albertsons", 
   "wof:brand_id": 420574415, 
   "wof:categories": [

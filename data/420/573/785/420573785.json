@@ -1,4 +1,7 @@
 {
+	"atp:spiders": [
+		"allstate_insurance_agents"
+	],
   "wof:brand_name": "Allstate Insurance", 
   "wof:brand_id": 420573785, 
   "wof:categories": [

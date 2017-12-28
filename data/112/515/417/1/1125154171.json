@@ -1,4 +1,7 @@
 {
+	"atp:spiders": [
+		"amctheatres"
+	],
   "wof:brand_name": "AMC", 
   "wof:brand_id": 1125154171, 
   "wof:categories": [

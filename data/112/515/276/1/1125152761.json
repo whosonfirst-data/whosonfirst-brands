@@ -1,4 +1,7 @@
 {
+	"atp:spiders": [
+		"apple"
+	],
   "wof:brand_name": "Apple Store", 
   "wof:brand_id": 1125152761, 
   "wof:categories": [

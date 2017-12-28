@@ -1,4 +1,7 @@
 {
+	"atp:spiders":[
+		"att"
+	],
   "wof:brand_name": "AT&T", 
   "wof:brand_id": 420573981, 
   "wof:categories": [
